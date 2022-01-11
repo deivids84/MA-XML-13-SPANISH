@@ -185,6 +185,7 @@
     <string name="album_sort_type_name_desc">De Z a A</string>
     <string name="album_tab_page_switch_view_style_to_grid">Ver en cuadrícula</string>
     <string name="album_tab_page_switch_view_style_to_linear">Ver en lista</string>
+    <string name="album_tab_tool_tips">%s MB</string>
     <string name="album_type_baby">Álbum del bebé</string>
     <string name="album_type_share">Álbumes compartidos</string>
     <string name="album_type_system">Álbumes del sistema</string>
@@ -631,6 +632,9 @@
     <string name="double_tap_for_hr_preview_108m">Toque dos veces de nuevo para cambiar a previsualización de 108MP</string>
     <string name="double_tap_to_higher_definition">Toque dos veces otra vez para abrir la previsualización en HD</string>
     <string name="download_canceled">Descarga cancelada</string>
+    <string name="download_delete_error_desc">"No se puede restaurar este elemento porque lo eliminó de este dispositivo y de la nube. ¿Eliminar archivo vacío ahora?"</string>
+    <string name="download_delete_error_positive">Eliminar</string>
+    <string name="download_delete_error_title">Elemento perdido</string>
     <string name="download_error_format">"No se pudo descargar %s"</string>
     <string name="download_error_tip">. Las descargas fueron interrumpidas.</string>
     <string name="download_retry_message">"No se pudieron descargar los archivos, compruebe la conexión de red y vuelva a intentarlo"</string>
@@ -1064,6 +1068,7 @@ disponibles"</string>
     <string name="grant_permission_unlock_and_set_2">Desbloquear</string>
     <string name="grant_permission_write_clipboard">Para poder copiar elementos, permita que esta aplicación guarde elementos en el portapapeles.</string>
     <string name="group_header_title_immutable_album">Organizar fotos</string>
+    <string name="group_header_title_media_group">Tipos de medios</string>
     <string name="group_header_title_third_album">Más álbumes</string>
     <string name="group_header_title_user_create_album">Mis álbumes</string>
     <string name="has_invalid_recipient">Destinatarios no válidos: %1$s</string>
@@ -1079,7 +1084,7 @@ disponibles"</string>
     <string name="home_menu_cleaner">Liberar espacio</string>
     <string name="home_menu_collage">Collage</string>
     <string name="home_menu_macarons">Viñeta mágica</string>
-    <string name="home_menu_magic_matting">Mágico</string>
+    <string name="home_menu_magic_matting">Recorte</string>
     <string name="home_menu_photo_movie">Clip</string>
     <string name="home_menu_print">Imprimir fotos</string>
     <string name="home_menu_video_post">Efectos de vídeo</string>
@@ -1128,7 +1133,7 @@ disponibles"</string>
     <string name="image_with_time">Foto tomada en %s</string>
     <string name="image_with_time_and_location">Foto tomada en %1$s. Ubicación: %2$s.</string>
     <string name="impunity_declaration_settings">Notificación de conexión a internet</string>
-    <string name="impunity_declaration_summary">Mostrar notificación de conexión a internet cada vez que se abra la Galería</string>
+    <string name="impunity_declaration_summary">Mostrar notificación de conexión a Internet la próxima vez que abra la Galería</string>
     <string name="initializing_cloud">Inicializando…</string>
     <string name="input_a_name">Introducir nombre</string>
     <string name="input_baby_name">Introducir nombre</string>
@@ -1224,7 +1229,7 @@ disponibles"</string>
     <string name="magic_eraser">Borrador</string>
     <string name="magic_error_adding_filter">"No se ha podido aplicar el filtro"</string>
     <string name="magic_exporting">Guardando…</string>
-    <string name="magic_filter">Magia</string>
+    <string name="magic_filter">Recorte</string>
     <string name="magic_filter_dsc">Crea retratos con fondos impresionantes</string>
     <string name="magic_galery">Galería</string>
     <string name="magic_hight">Altura</string>
@@ -1247,12 +1252,12 @@ disponibles"</string>
     <string name="magic_matting_download_failed_for_notwork">"No se pudo descargar. Verifique la configuración de su red y vuelva a intentarlo."</string>
     <string name="magic_matting_download_sdk_without_wifi_msg">"Al parecer su dispositivo no está conectado a una red Wi-Fi. ¿Descargar el plug-in usando datos móviles?"</string>
     <string name="magic_matting_download_sdk_without_wifi_msg_china">"Parece que su dispositivo no está conectado a una WLAN. ¿Descargar el complemento utilizando datos móviles?"</string>
-    <string name="magic_matting_download_sdk_without_wifi_title">Descargar el plug-in \"Magic\"</string>
+    <string name="magic_matting_download_sdk_without_wifi_title">Descargar el complemento \"Recorte\"</string>
     <string name="magic_matting_error_px">"Este tamaño de imagen no es compatible"</string>
     <string name="magic_matting_face_fail">"No se pudo procesar la cara"</string>
     <string name="magic_matting_load_data_fail">"No se pudo cargar los datos"</string>
-    <string name="magic_matting_module_finish">Complemento \"Magic\" descargado correctamente</string>
-    <string name="magic_matting_module_loading">Descargando el plug-in \"Magic\"…</string>
+    <string name="magic_matting_module_finish">Complemento \"Recorte\" descargado correctamente</string>
+    <string name="magic_matting_module_loading">Descargando el complemento \"Recorte\"…</string>
     <string name="magic_max_px">Esta imagen es demasiado grande</string>
     <string name="magic_mix_px">La imagen es muy pequeña</string>
     <string name="magic_more_fact">Parece que hay varias personas en esta foto.</string>
@@ -1305,6 +1310,7 @@ disponibles"</string>
     <string name="map_guide_message">Vea sus fotos y videos en el mapa</string>
     <string name="map_location">Mover a la ubicación actual</string>
     <string name="map_positioning_failed_tip">"No se puede obtener información de ubicación debido a una señal débil"</string>
+    <string name="map_privacy_dialog_content"><Data>Este servicio le permite ver fotos y videos con información de ubicación en un mapa. Usamos Baidu Map Open SDK para brindarle este servicio. Lea y acepte &lt;a href=\"%1$s\"&gt;Declaración de intercambio de datos de terceros de Gallery Map&lt;/a&gt; antes de continuar.</Data></string>
     <string name="map_privacy_dialog_message"><Data>Este servicio le permite ver fotos y videos con información de ubicación en un mapa. Usamos Baidu Map Open SDK para brindarle este servicio. Lea &lt;a href=\"%1$s\"&gt;Política de privacidad de Baidu Map para productos y servicios de plataforma abierta&lt;/a&gt; para obtener más información.</Data></string>
     <string name="map_privacy_dialog_title">Mapa de la galería</string>
     <string name="map_privacy_policy">Política de privacidad del mapa de la galería</string>
@@ -1317,6 +1323,18 @@ para personalizar la Galería"</string>
     <string name="mark_operation_processing">Procesando…</string>
     <string name="mark_operation_succeeded">Establecida</string>
     <string name="mark_people_ignore_info_message">Mantenga presionadas las fotos de personas para agregarlas a grupos</string>
+    <string name="media_type_burst_photo">Estallar</string>
+    <string name="media_type_clone_photo">Clones</string>
+    <string name="media_type_doc_photo">Documentos</string>
+    <string name="media_type_fast_motion_video">Time-lapse</string>
+    <string name="media_type_front_photo">Selfies</string>
+    <string name="media_type_gif">GIF</string>
+    <string name="media_type_live_vv">Vlog</string>
+    <string name="media_type_motion_photo">Dinámico</string>
+    <string name="media_type_pano_photo">Panoramas</string>
+    <string name="media_type_portrait_photo">Retrato</string>
+    <string name="media_type_raw">RAW</string>
+    <string name="media_type_slow_motion_video">Cámara lenta</string>
     <string name="member_menu_vipname_free">Libre</string>
     <string name="member_menu_vipname_mega">Mega</string>
     <string name="member_menu_vipname_premium">Premium</string>
@@ -1875,6 +1893,7 @@ La transcodificación puede llevar algo de tiempo cuando utiliza esta función p
     <string name="privacy_map">Mapa de la galería</string>
     <string name="privacy_map_detail"><Data>Este servicio le permite ver fotos y videos con información de ubicación en un mapa. Usamos Baidu Map Open SDK para brindarle este servicio. Lea y acepte &lt;a href=\"%1$s\"&gt;Política de privacidad de Baidu Map para productos y servicios de plataforma abierta&lt;/a&gt; antes de continuar.</Data></string>
     <string name="privacy_map_detail_content">Política de privacidad de Baidu Map para productos y servicios de plataforma abierta</string>
+    <string name="privacy_map_detail_content_new">Declaración de uso compartido de datos de terceros del mapa de la galería</string>
     <string name="privacy_permission">Permisos</string>
     <string name="privacy_permission_account">Cuentas</string>
     <string name="privacy_permission_account_detail">Para iniciar sesión y sincronizar elementos con la nube</string>
@@ -1897,9 +1916,12 @@ La transcodificación puede llevar algo de tiempo cuando utiliza esta función p
     <string name="privacy_permission_shotcut_detail">Para crear accesos directos a la pantalla de inicio</string>
     <string name="privacy_permission_storage">Almacenamiento</string>
     <string name="privacy_permission_storage_detail">Para almacenar fotos y videos</string>
+    <string name="privacy_reject_map_detail_new"><Data>\"Su retirada de consentimiento a &lt;a href=\"%1$s\"&gt;Declaración de uso compartido de datos de terceros de Gallery Map&lt;/a&gt; se considerará que se niega a aceptar los servicios de Gallery Map. Aún podrá utilizar otras funciones de la Galería normalmente. ¿Retirar el consentimiento ahora?\"</Data></string>
     <string name="privacy_rejected">Retiro del consentimiento</string>
     <string name="privacy_rejected_map">Retirar el consentimiento a la Política de Privacidad del Mapa de la Galería</string>
     <string name="privacy_rejected_map_detail">"Su retiro de consentimiento a la Política de privacidad de Mapa de la Galería se considerará como una negativa a aceptar sus servicios. Otras funciones y servicios básicos de la Galería no se verán afectados. ¿Retirar de todos modos?"</string>
+    <string name="privacy_rejected_map_new">Retirada del consentimiento a la Declaración de intercambio de datos de terceros de Gallery Map</string>
+    <string name="privacy_rejected_pos_btn">Retirar</string>
     <string name="private_entry_lock_state_activated_text">Suelte para abrir la carpeta privada</string>
     <string name="private_entry_lock_state_enterd_text">Arrastre hacia abajo para abrir la carpeta privada</string>
     <string name="problem_feedback">Comentarios</string>

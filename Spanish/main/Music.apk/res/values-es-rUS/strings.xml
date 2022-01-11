@@ -124,6 +124,8 @@
     <string name="auto_sound_quality">Automático</string>
     <string name="auto_update">Actualizar automáticamente</string>
     <string name="auto_update_tip">Puede actualizar aplicaciones del sistema utilizando datos móviles. Esto podría generar cargos adicionales.</string>
+    <string name="autoplay_is_off">La reproducción automática está desactivada</string>
+    <string name="autoplay_is_on">La reproducción automática está activada</string>
     <string name="available_playlist_name_format">Nueva lista de reproducción %d</string>
     <string name="avoid_to_use_traffic_summary">"No use redes móviles para transmitir música en línea"</string>
     <string name="avoid_to_use_traffic_title">Avisar cuando se utilicen datos móviles para reproducir canciones</string>
@@ -895,6 +897,13 @@
     <string name="nowplaying_circle_style_wave">Onda</string>
     <string name="nowplaying_dialog_title_delete_tracks">¿Eliminar esta canción de la cola?</string>
     <string name="nowplaying_menu_item_delete">Eliminar de la cola</string>
+    <string name="offline_notification_text">Toque para abrir el anuncio</string>
+    <string name="offline_notification_title">Ver el anuncio que guardó cuando estaba sin conexión</string>
+    <string name="offline_opt_in_confirm">OK</string>
+    <string name="offline_opt_in_confirmation">"Recibirás una notificación con el enlace cuando vuelvas a estar en línea"</string>
+    <string name="offline_opt_in_decline">No, gracias</string>
+    <string name="offline_opt_in_message">"Le enviaremos una notificación con un enlace al sitio del anunciante."</string>
+    <string name="offline_opt_in_title">"Abra el anuncio cuando vuelva a estar en línea."</string>
     <string name="ok">Aceptar</string>
     <string name="online_apk_acquired">Cargado %d%%</string>
     <string name="online_apk_acquiring">Cargando… %d%%</string>
