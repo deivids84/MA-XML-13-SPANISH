@@ -310,7 +310,7 @@ Para comprender plenamente sus derechos como usuario, así como las formas en qu
     <string name="broker_helper_signature">Firma para ingresar al registrar la aplicación</string>
     <string name="broker_helper_title">Información de URI de redireccionamiento de MSAL</string>
     <string name="broker_processing">Broker está procesando</string>
-    <string name="calendar_remind_dialog_title">Recordar más tarde</string>
+    <string name="calendar_remind_dialog_title">Añadir al calendario</string>
     <string name="calendar_remind_gridview_pick_date">Elegir fecha</string>
     <string name="calendar_skip_no_account_alert">"No se pudo encontrar esta cuenta"</string>
     <string name="cancel">Cancelar</string>
@@ -453,6 +453,7 @@ Para comprender plenamente sus derechos como usuario, así como las formas en qu
     <string name="default_signature">Enviado desde mi teléfono Mi</string>
     <string name="default_signature_2">Enviado de mi %s</string>
     <string name="default_signature_pad">Enviado desde mi Mi Pad</string>
+    <string name="default_signature_phone">Enviado desde mi teléfono Mi</string>
     <string name="delete">Eliminar</string>
     <string name="delete_contact_content">¿Eliminar este contacto?</string>
     <string name="delete_message_event">¿Desea eliminar esta invitación?</string>
@@ -523,6 +524,18 @@ Para comprender plenamente sus derechos como usuario, así como las formas en qu
     <string name="eras_bc">a.C</string>
     <string name="error">Error</string>
     <string name="error_icon_content_description">Error</string>
+    <string name="error_message_account_or_password">El ID de cuenta o la contraseña son incorrectos.</string>
+    <string name="error_message_auth_error">Utilice un código de verificación para iniciar sesión.</string>
+    <string name="error_message_blacklist">Su cuenta ha sido agregada a la lista de bloqueo. Comuníquese con su proveedor de servicios de correo electrónico para resolver este problema.</string>
+    <string name="error_message_imap_or_pop3_service_not_open">Activa IMAP o POP3 y vuelva a intentarlo.</string>
+    <string name="error_message_imap_service_not_open">Activa IMAP e inténtalo de nuevo.</string>
+    <string name="error_message_outlook_error">Verifique su identidad en la versión web de Outlook primero.</string>
+    <string name="error_message_respond_revert_03">"Este nombre de dominio no existe. Verifique la URL y vuelva a intentarlo."</string>
+    <string name="error_message_respond_revert_06">La contraseña que ha ingresado es incorrecta.</string>
+    <string name="error_message_respond_revert_07">"No se pudo verificar tu identidad. Utilice un código de verificación para iniciar sesión."</string>
+    <string name="error_message_respond_revert_16">Tu contraseña ha expirado. Actualice su contraseña e inicie sesión nuevamente.</string>
+    <string name="error_message_respond_revert_21">Activa POP3 e inténtalo de nuevo.</string>
+    <string name="error_message_respond_revert_25">Verifique su conexión de red y vuelva a intentarlo.</string>
     <string name="evening">Tarde</string>
     <string name="exception_cancel">"
         Este evento se ha cancelado
@@ -593,6 +606,7 @@ Para comprender plenamente sus derechos como usuario, así como las formas en qu
     <string name="folder_list_current_account">Cuenta actual</string>
     <string name="folder_list_display_all">Mostrar todas las carpetas</string>
     <string name="folder_list_display_only_import">Solo mostrar carpetas importantes</string>
+    <string name="folder_list_switch_account">Cambiar</string>
     <string name="folder_no_mails">Sin correo</string>
     <string name="folder_notification_setting_tip">Tiene varias carpetas en su bandeja de entrada. Configure notificaciones sobre mensajes nuevos en carpetas específicas.</string>
     <string name="folder_picker_title">Seleccionar carpetas</string>
@@ -875,6 +889,8 @@ Declinado:
     <string name="mibill_privacy_policy_title">Administrar facturas automáticamente</string>
     <string name="midnight">Noche</string>
     <string name="min_payment_text">Pago mínimo</string>
+    <string name="miuix_access_state_desc">Seleccionado</string>
+    <string name="miuix_alphabet_indexer_name">Barra de índice</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deseleccionar</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleccionar todo</string>
     <string name="miuix_appcompat_action_mode_title_empty">Seleccionar elementos</string>
@@ -889,6 +905,8 @@ Declinado:
     <string name="miuix_appcompat_select_all">Seleccionar todo</string>
     <string name="miuix_appcompat_select_all_description">Seleccionar todo</string>
     <string name="miuix_appcompat_select_item">Seleccionar elementos</string>
+    <string name="miuix_indexer_collect">Colecciones</string>
+    <string name="miuix_indexer_selected">Seleccionado %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Deslice hacia abajo para actualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado con éxito</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualizando…</string>
@@ -1039,7 +1057,7 @@ Intente cambiar a una cuenta de email diferente."</string>
     <string name="ntes_send_to_content">Si su número de teléfono actual está asociado con la cuenta, toque \"Enviar SMS\".</string>
     <string name="ntes_verification_code">Ingresar código: %s</string>
     <string name="oauth_error_description">"No se pudo autentificar"</string>
-    <string name="oauth_find_browser_error_description">Instale el navegador antes de iniciar sesión</string>
+    <string name="oauth_find_browser_error_description">Instale un navegador antes de iniciar sesión</string>
     <string name="oauth_gmail_login_notify">Introduzca su usuario y contraseña de su cuenta de Google en la siguiente pantalla de inicio de sesión.</string>
     <string name="oauth_login_continue">Continuar</string>
     <string name="oauth_login_continue_qq">Obtener un código de acceso e iniciar contraseña &gt;</string>

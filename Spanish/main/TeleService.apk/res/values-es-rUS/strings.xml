@@ -829,6 +829,7 @@ Selección"</string>
     <string name="emergency_information_confirm_hint">Vuelve a presionar para ver la información</string>
     <string name="emergency_information_hint">Información de emergencia</string>
     <string name="emergency_information_owner_hint">Propietario</string>
+    <string name="emergency_medical_records">Registros médicos</string>
     <string name="emm_cause_11">"La operadora actual no soporta este servicio."</string>
     <string name="emm_cause_14">"La operadora actual no soporta servicios de datos móviles."</string>
     <string name="emm_cause_2">"No se pudo registrar el número de teléfono. Apague su dispositivo, después vuelva a encenderlo e inténtelo de nuevo."</string>
@@ -960,6 +961,7 @@ Selección"</string>
     <string name="fiveg_sa_vice_switch_summary">Permitir que la SIM secundaria use una red 5G independiente</string>
     <string name="fiveg_sa_vice_switch_title">SA en SIM secundaria</string>
     <string name="fiveg_signal_strength1">Intensidad de la señal 5G:</string>
+    <string name="fiveg_switch_per_slot_summary">Utilice 5G para aumentar la velocidad de conexión de datos móviles</string>
     <string name="fiveg_switch_status1">Estado del interruptor 5G:</string>
     <string name="fiveg_switch_title">Red 5G</string>
     <string name="fiveg_upperlayer_indication1">Estado de indicación de la capa superior:</string>

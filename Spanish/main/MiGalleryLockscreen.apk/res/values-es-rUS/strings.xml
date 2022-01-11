@@ -34,6 +34,7 @@
     <string name="about_newest">Carrusel de Fondos está actualizado.</string>
     <string name="about_permission">Permisos</string>
     <string name="about_update">Actualizar</string>
+    <string name="access_denied_info">Demasiados intentos. Espere uno o dos minutos y vuelva a intentarlo.</string>
     <string name="account_bind_secure_email_title">Agregar correo de recuperación</string>
     <string name="account_bind_secure_phone_title">Agregar número de teléfono de recuperación</string>
     <string name="account_crop_user_avatar">Recortar foto</string>
@@ -250,6 +251,9 @@ Envíe este código al supervisor."</string>
     <string name="disable_dlg_title">Desactivar Carrusel de Fondos?</string>
     <string name="dislike">Eliminar</string>
     <string name="dlg_cancel">Cancelar</string>
+    <string name="doing_login">Iniciando sesión…</string>
+    <string name="doing_query_account">Comprobando la información de la cuenta…</string>
+    <string name="doing_register">Creando cuenta…</string>
     <string name="double_click_to_exit_activity">Toca de nuevo para salir</string>
     <string name="early_morning">Mañana</string>
     <string name="edit_wallpaper">Administrar fondos de pantalla</string>
@@ -295,9 +299,11 @@ Envíe este código al supervisor."</string>
     <string name="get_phone_verifycode_exceed_limit">Se han enviado demasiados códigos de verificación a este número. Espera 24 horas e inténtalo de nuevo.</string>
     <string name="goto_confirm">Ajustes</string>
     <string name="goto_sign_up">Crear cuenta</string>
+    <string name="header_help">Ayuda</string>
     <string name="history_list_no_data">No hay elementos aquí</string>
     <string name="hour_1">Cada hora</string>
     <string name="hour_3">Cada 3 horas</string>
+    <string name="i_know">Entendido</string>
     <string name="icon_content_description">Icono de diálogo</string>
     <string name="idbct_desc">Personaliza el carrusel de papel tapiz según los tipos de red</string>
     <string name="idbct_opt_auto_select_desc_text">Descargue imágenes estándar usando datos móviles e imágenes HD a través de Wi-Fi</string>
@@ -310,11 +316,14 @@ Envíe este código al supervisor."</string>
     <string name="identity">Identificación</string>
     <string name="inconsistent_pwd">"Las contraseñas no coinciden"</string>
     <string name="input_email_address_notice">"Vamos a utilizar este correo electrónico para verificar tu cuenta"</string>
+    <string name="input_length_exceeds_limit">El texto que ingresaste es demasiado largo</string>
     <string name="input_new_pwd">Ingrese nueva clave</string>
     <string name="isornot_your_mi_account">¿Es esta tu Cuenta Mi?</string>
     <string name="just_a_second">Un momento…</string>
     <string name="later">"No apague"</string>
     <string name="launch_bg_permission_exception">Permitir que Wallpaper Carousel muestre ventanas emergentes mientras se ejecuta en segundo plano en Seguridad</string>
+    <string name="library_android_database_sqlcipher_libraryDescription">API de Android SQLite basada en SQLCipher</string>
+    <string name="library_android_database_sqlcipher_libraryName">SQLCipher para Android</string>
     <string name="like">Agregar a favoritos</string>
     <string name="liked">Añadido a favoritos</string>
     <string name="lks_left_net_deny">La conexión de red está restringida</string>
@@ -366,6 +375,11 @@ Envíe este código al supervisor."</string>
     <string name="login_app">Iniciar sesión</string>
     <string name="login_app_cancel">Cancelar</string>
     <string name="login_app_confirm">Iniciar sesión</string>
+    <string name="login_by_local_phone_long_text">Iniciar sesión ahora</string>
+    <string name="login_by_local_phone_short_text">Iniciar sesión</string>
+    <string name="login_other">Otra cuenta Mi</string>
+    <string name="login_register_by_local_phone_long_text">Crear una cuenta</string>
+    <string name="login_with_sns">Otras formas de iniciar sesión</string>
     <string name="login_xiaomi_account_summary">"He leído y acepto el Acuerdo de usuario de &lt;font color ='#0D84FF'&gt;&lt;a href='%1$s'&gt;&lt;/font&gt;&lt;/a&gt; y &lt;font color ='#0D84FF'&gt;&lt;a href='%2$s'&gt;Política de privacidad&lt;/font&gt;&lt;/a&gt;."</string>
     <string name="logout">Cerrar sesión</string>
     <string name="logout_account">Cerrar sesión</string>
@@ -382,6 +396,7 @@ Envíe este código al supervisor."</string>
     <string name="midnight">Noche</string>
     <string name="minutes_15">Cada 15 minutos</string>
     <string name="minutes_5">Cada 5 minutos</string>
+    <string name="mishop_login_other">Otra cuenta</string>
     <string name="miui_clock_city_name_local">Local</string>
     <string name="miui_clock_city_name_second">Segundo reloj</string>
     <string name="miui_lock_screen_date">EEEE, d MMMM</string>
@@ -507,6 +522,8 @@ mm"</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Cambiar al modo de ingreso de texto</string>
     <string name="mtrl_picker_toggle_to_year_selection">Toca para cambiar a seleccionar un año</string>
     <string name="need_open_gallery">Activar Carrusel de Fondos</string>
+    <string name="network_error_info">Ocurrió un error de red. Verifique su configuración de red y vuelva a intentarlo.</string>
+    <string name="network_timeout_info">"No se pudo conectar a la red. Inténtelo de nuevo."</string>
     <string name="new_feature_title">"Qué hay de nuevo"</string>
     <string name="nick_name">Nombre</string>
     <string name="night">Noche</string>
@@ -535,6 +552,7 @@ mm"</string>
     <string name="open_gallery">Carrusel de papel tapiz</string>
     <string name="open_gallery_tips">Toca aquí para activar el carrusel de fondos de pantalla</string>
     <string name="open_guid_des">Vaya a Configuración&gt; Permisos&gt; Otros permisos&gt; Carrusel de Fondos y otorgue a la aplicación todos los permisos necesarios.</string>
+    <string name="open_settings">Ajustes</string>
     <string name="open_sub_title">Seleccionar categorias</string>
     <string name="open_title">Carrusel de papel tapiz</string>
     <string name="open_unable">"Carrusel de Fondos solo funciona con la pantalla de bloqueo predeterminada de MIUI."</string>
@@ -646,6 +664,7 @@ mm"</string>
     <string name="platform_unavailable_wechat">Instalar WeChat</string>
     <string name="platform_unavailable_wechatmoment">Instalar WeChat</string>
     <string name="platform_unavailable_weibo">Instalar Weibo</string>
+    <string name="please_agree_protocal">Por favor acuerde el protocolo</string>
     <string name="pm">PM</string>
     <string name="preference_copied">\"%1$s\" copiado al portapapeles.</string>
     <string name="privacy_policy">Política de privacidad</string>
@@ -658,6 +677,10 @@ mm"</string>
     <string name="privacy_update_summary3">"No podrá seguir usando Wallpaper Carousel a menos que acepte la nueva versión de su &lt;font color ='#37A5FF'&gt;&lt;a href='%1$s'&gt;Política de privacidad&lt;/font&gt;&lt;/a&gt;. ¿Acepta la Política de privacidad actualizada ahora?"</string>
     <string name="privacy_update_title1">Política de privacidad actualizada</string>
     <string name="privacy_update_title2">Atención</string>
+    <string name="progressbar_title">Comprobando problemas de seguridad…</string>
+    <string name="protocal_dialog_cancel">Cancelar</string>
+    <string name="protocal_dialog_confirm">De acuerdo</string>
+    <string name="protocal_dialog_title">Atención</string>
     <string name="prv_end">Eso es todo por ahora</string>
     <string name="prv_loading">Un momento</string>
     <string name="prv_nodata">Sin datos</string>
@@ -675,8 +698,17 @@ mm"</string>
     <string name="recommend_switch_dlg_title">¿Desactivar recomendaciones?</string>
     <string name="recommend_switch_title">Recomendaciones personalizadas</string>
     <string name="refresh_network">Refrescar</string>
+    <string name="register_by_local_phone_long_text">Crear cuenta</string>
+    <string name="register_by_local_phone_short_text">Crear cuenta</string>
     <string name="remove">Eliminar</string>
     <string name="req_permission_dis_tip">Permisos requeridos</string>
+    <string name="request_agree">Permitir</string>
+    <string name="request_camera_permission_message">"Protegeremos su información personal de acuerdo con las leyes y regulaciones pertinentes. Esta aplicación necesita los siguientes permisos para funcionar normalmente:&lt;br&gt;&lt;br&gt;&lt;b&gt;Uso de la cámara (para configurar su foto de perfil)&lt;/b&gt;&lt;br&gt;&lt;br&gt;Si no acepta otorgar dichos permisos, no podrá utilizar algunas funciones de esta aplicación; sin embargo, su funcionalidad básica seguirá estando disponible para usted. Siempre puede restringir los permisos o revocar su autorización en la Configuración."</string>
+    <string name="request_cancel">Cancelar</string>
+    <string name="request_error_invalid_token">"No se pudo verificar"</string>
+    <string name="request_error_network">Ocurrió un error de red. Verifique su configuración de red y vuelva a intentarlo.</string>
+    <string name="request_error_unknown">Ocurrió un error del sistema. Vuelve atrás e inténtalo de nuevo.</string>
+    <string name="request_gallery_permission_message">Permitir el acceso a la Galería:&lt;br /&gt;Para configurar fotos de perfil</string>
     <string name="require_permission">Permisos requeridos</string>
     <string name="require_permission_text">Para poder guardar y ver elementos, permita que Wallpaper Carousel acceda al almacenamiento.</string>
     <string name="resend_active_email">Reenviar</string>
@@ -756,6 +788,7 @@ mm"</string>
     <string name="sign_in">Iniciar sesión</string>
     <string name="sign_in_progress">Iniciando sesión...</string>
     <string name="sign_in_title">Inica sesión con tu Cuenta Mi</string>
+    <string name="skip_query_account">Saltar</string>
     <string name="sliding_on_unlock">Desliza hacia arriba para desbloquear</string>
     <string name="sms_send_success">Enviado con éxito</string>
     <string name="sns_access_token_expired_warning">Sesión expirada. Vuelva a iniciar sesión para volver a conectar esta cuenta.</string>
@@ -879,6 +912,7 @@ mm"</string>
     <string name="sure_close_gallery">Desactivar Carrusel de Fondos?</string>
     <string name="sure_close_gallery_des">"No podrá recibir imágenes nuevas en la pantalla de inicio y la pantalla de bloqueo si desactiva Wallpaper Carousel. ¿Apagar de todos modos?"</string>
     <string name="system_default">Predeterminado</string>
+    <string name="system_error_info">El sistema está ocupado. Espere uno o dos minutos y vuelva a intentarlo.</string>
     <string name="tab_user_title_bar_text">Ajustes</string>
     <string name="tb_collapse_desc">Ocultar el menú \"Compartir\"</string>
     <string name="temporary_not_available">"Esta característica aún no está disponible"</string>
@@ -967,15 +1001,29 @@ mm"</string>
     <string name="uninstall_introduction_text_title">Sobre Carrusel de fondos</string>
     <string name="uninstall_warning_text_desc">"Sin Carrusel de fondos no podrá recibir nuevos fondos de pantalla de bloqueo con regularidad. Sin embargo, podrá descargar e instalar la aplicación nuevamente. ¿Está seguro?"</string>
     <string name="uninstall_warning_text_title">Borrar Carrusel de fondos</string>
+    <string name="unknown_error_info">Error desconocido</string>
     <string name="update_email_address_dialog_message">Debe verificar su identidad antes de actualizar el correo electrónico de recuperación.</string>
     <string name="update_email_address_dialog_title">Actualizar el correo de recuperación</string>
     <string name="update_phone_notice">Cambiar la configuración de seguridad</string>
     <string name="upload_error_log">Cargar registro</string>
     <string name="user_ac_click_to_login">Toca para iniciar sesión</string>
     <string name="user_ac_not_login">No has iniciado sesión</string>
+    <string name="user_agreement_hint_3rd_app"><Data>\"He leído y acepto &lt;a href=%1$s&gt;Acuerdo de usuario&lt;/a&gt; y &lt;a href=%2$s&gt;Política de privacidad&lt;/a&gt; y el Acuerdo de usuario &lt;a href=%3$s&gt;&lt;/a&gt; y &lt;a href=%4$s&gt;Política de privacidad&lt;/a&gt;\".</Data></string>
+    <string name="user_agreement_hint_3rd_app_mobile"><Data>\"Leí y acepté &lt;a href=%1$s&gt;Acuerdo de usuario&lt;/a&gt; y &lt;a href=%2$s&gt;Política de privacidad&lt;/a&gt;, Acuerdo de usuario &lt;a href=%3$s&gt;Mi Cuenta&lt;/a&gt; y &lt;a href=%4$s&gt;Política de privacidad&lt;/a&gt;, así como &lt;a href=%5$s&gt;Términos y condiciones de los servicios de verificación de China Mobile&lt;/a&gt;\".</Data></string>
+    <string name="user_agreement_hint_3rd_app_with_telecom"><Data>\"Leí y acepté &lt;a href=%1$s&gt;Acuerdo de usuario&lt;/a&gt; y &lt;a href=%2$s&gt;Política de privacidad&lt;/a&gt;, Mi Cuenta &lt;a href=%3$s&gt;Acuerdo de usuario&lt;/a&gt; y &lt;a href=%4$s&gt;Política de privacidad&lt;/a&gt;, así como &lt;a href=%5$s&gt;Términos y condiciones de los servicios de verificación de cuenta de eSurfing&lt;/a&gt;\".</Data></string>
+    <string name="user_agreement_hint_3rd_app_with_unicom"><Data>\"Leí y acepté &lt;a href=%1$s&gt;Acuerdo de usuario&lt;/a&gt; y &lt;a href=%2$s&gt;Política de privacidad&lt;/a&gt;, Acuerdo de usuario &lt;a href=%3$s&gt;Mi Cuenta&lt;/a&gt; y &lt;a href=%4$s&gt;Política de privacidad&lt;/a&gt;, así como &lt;a href=%5$s&gt;Términos y condiciones de los servicios de verificación de China Unicom&lt;/a&gt;\".</Data></string>
+    <string name="user_agreement_hint_default"><Data>\"He leído y acepto de Cuenta Mi &lt;a href=%1$s&gt;Acuerdo de usuario&lt;/a&gt; y &lt;a href=%2$s&gt;de Privacidad Política de&lt;/a&gt;\".</Data></string>
+    <string name="user_agreement_hint_default_1"><Data>Leer y aceptar el &lt;a href=%1$s&gt;Acuerdo de usuario&lt;/a&gt; y &lt;a href=%2$s&gt;Política de privacidad.&lt;/a&gt;</Data></string>
+    <string name="user_agreement_hint_default_extra"><Data>\"He leído y acepto el &lt;a href=%1$s&gt;Acuerdo de usuario&lt;/a&gt; y la Política de privacidad &lt;a href=%2$s&gt;&lt;/a&gt; El primer inicio de sesión creará automáticamente una cuenta Xiaomi\"</Data></string>
+    <string name="user_agreement_hint_first_login">"Crearemos una cuenta automáticamente si está usando su número de teléfono por primera vez."</string>
+    <string name="user_agreement_hint_with_mobile"><Data>\"He leído y acepto de Cuenta Mi &lt;a href=%1$s&gt;Acuerdo de usuario&lt;/a&gt; y &lt;a href=%2$s&gt;Política de privacidad&lt;/a&gt;, así como &lt;a href=%3$s&gt;Condiciones de los servicios de verificación de China Mobile&lt;/a&gt;\".</Data></string>
+    <string name="user_agreement_hint_with_telecom"><Data>\"He leído y acepto de Cuenta Mi &lt;a href=%1$s&gt;Acuerdo de usuario&lt;/a&gt; y &lt;a href=%2$s&gt;Política de privacidad&lt;/a&gt;, así como &lt;a href=%3$s&gt;Condiciones de eSurfing servicios de verificación de cuenta de&lt;/a&gt;\".</Data></string>
+    <string name="user_agreement_hint_with_unicom"><Data>\"He leído y acepto de Cuenta Mi &lt;a href=%1$s&gt;Acuerdo de usuario&lt;/a&gt; y &lt;a href=%2$s&gt;Política de privacidad&lt;/a&gt;, así como &lt;a href=%3$s&gt;Condiciones de China Unicom servicios de verificación de&lt;/a&gt;\".</Data></string>
+    <string name="user_agreement_protocal_dialog_hint_default"><Data>\"Leer y aceptar &lt;a href=%1$s&gt;Acuerdo de usuario&lt;/a&gt; y &lt;a href=%2$s&gt;Política de privacidad&lt;/a&gt; y el Acuerdo de usuario &lt;a href=%3$s&gt;&lt;/a&gt; y &lt;a href=%4$s&gt;Política de privacidad&lt;/a&gt;\".</Data></string>
     <string name="user_avatar_update_title">Cambiar foto de perfil</string>
     <string name="user_avatar_uploading">Un momento…</string>
     <string name="user_id_hint">Correo electrónico/Teléfono</string>
+    <string name="user_name_phone_number">Número de teléfono</string>
     <string name="v7_preference_off">DESACTIVAR</string>
     <string name="v7_preference_on">ACTIVAR</string>
     <string name="v_code_title">Introducir código de verificación en 2 pasos</string>

@@ -371,6 +371,9 @@
     <string name="slavewifi_disconnect">Desconectar</string>
     <string name="slavewifi_notification_title">Usando Wi-Fi de doble banda</string>
     <string name="slavewifi_settings">Toque para cambiar los ajustes</string>
+    <string name="small_freeform_check_memory_exception_message">%1$s provocó un error de memoria. Cierra esta aplicación para evitar retrasos.</string>
+    <string name="small_freeform_check_memory_exception_negative_message">Cancelar</string>
+    <string name="small_freeform_check_memory_exception_positive_message">Cerrar</string>
     <string name="small_freeform_enter_warning">Ventana flotante</string>
     <string name="small_freeform_exit_tip">Cerrar ventana flotante</string>
     <string name="small_freeform_memory_toast_app_type">"No se puede abrir ahora. Esta aplicación requiere demasiada memoria para funcionar."</string>
@@ -447,9 +450,12 @@
     <string name="vigor">Vigor</string>
     <string name="vivo">vivo</string>
     <string name="vivo_phone">vivo</string>
+    <string name="wallpaper_group_black_gobi_title">Arenas de Gobi</string>
     <string name="wallpaper_group_black_white_title">Blanco y negro</string>
     <string name="wallpaper_group_color_move_title">Colores liquidos</string>
     <string name="wallpaper_group_concerto_title">Concierto</string>
+    <string name="wallpaper_group_crystallization_subtitle">Belleza de la ciencia</string>
+    <string name="wallpaper_group_crystallization_title">Cristalización</string>
     <string name="wallpaper_group_dynamic_nebula_subtitle">Teun van der Zalm</string>
     <string name="wallpaper_group_dynamic_nebula_title">Nebulosa dinámica</string>
     <string name="wallpaper_group_geometric_subtitle">Rutger Paulusse</string>

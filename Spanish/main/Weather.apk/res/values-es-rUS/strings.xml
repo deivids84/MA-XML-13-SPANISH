@@ -357,6 +357,7 @@
     <string name="save_to_gallery_icon_name">Guardar en Galería</string>
     <string name="save_to_gallery_success_message">Guardado en la Galería</string>
     <string name="search_menu_title">Buscar</string>
+    <string name="select_show_city">Seleccionar ubicación</string>
     <string name="send">Enviar</string>
     <string name="settings">Ajustes</string>
     <string name="settings_atmospheric_pressure_atm">Atmósfera estándar (atm)</string>

@@ -20,6 +20,7 @@
     <string name="check_new_version">Comprobar</string>
     <string name="dialog_3g_desc">Ten en cuenta que el uso de datos móviles para descargar actualizaciones puede suponer un gasto de datos importante</string>
     <string name="dialog_3g_title">¡Advertencia!</string>
+    <string name="dialog_ab">Su dispositivo admite \"Actualizaciones continuas del sistema\", recuerde seleccionar \"Ranura A\" cuando se le solicite en TWRP!</string>
     <string name="dialog_btn_3g">Continuar de todos modos</string>
     <string name="dialog_btn_wifi">Cambiar a Wi-Fi</string>
     <string name="dialog_stop_desc">¿Seguro que quiere detener la descarga? Todo el progreso se perderá y no se podrá reanudar. El siguiente intento de descarga comenzará desde el principio.</string>

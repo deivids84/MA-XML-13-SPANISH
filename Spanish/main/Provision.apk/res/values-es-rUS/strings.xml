@@ -259,6 +259,7 @@
     <string name="other_settings">Ajustes básicos</string>
     <string name="other_settings_ad_dialog_agree">Activar</string>
     <string name="other_settings_ad_dialog_content">"Cuando las recomendaciones personalizadas de publicidad están desactivadas, seguirá viendo la misma cantidad de anuncios que cuando la función está activada. Sin embargo, los anuncios ya no serán relevantes, ya que no se basarán en sus preferencias personales."</string>
+    <string name="other_settings_ad_dialog_content_for_global">"Cuando las recomendaciones de anuncios personalizados están desactivadas, seguirá viendo la misma cantidad de anuncios en las aplicaciones del sistema MIUI que cuando la función está activada. Sin embargo, los anuncios de Xiaomi y plataformas de terceros ya no serán relevantes, ya que no se basarán en sus preferencias personales."</string>
     <string name="other_settings_ad_dialog_disagree">Desactivar</string>
     <string name="other_settings_ad_disable_summary">Activar para personalizar anuncios</string>
     <string name="other_settings_ad_enable">Publicidad personalizada</string>
@@ -511,7 +512,7 @@ Puede controlar esta función desde Configuración &gt; Contraseñas &amp; Segur
     <string name="solar_term_white_dews">Rocío</string>
     <string name="solar_term_winter_begins">Comienza el invierno</string>
     <string name="solar_term_winter_solstice">Solsticio de invierno</string>
-    <string name="start_up_slogan">Solo el suyo</string>
+    <string name="start_up_slogan">Donde todas las cosas se conectan</string>
     <string name="summary_not_set">No establecido</string>
     <string name="sunday">Domingo</string>
     <string name="sunday_short">Dom</string>

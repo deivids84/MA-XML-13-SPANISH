@@ -42,6 +42,7 @@
     <string name="abc_slices_permission_request">%1$s quiere mostrar fragmentos de %2$s</string>
     <string name="abc_toolbar_collapse_description">Contraer</string>
     <string name="about_ad_service_instructions">Acerca de los servicios de publicidad y privacidad</string>
+    <string name="about_ad_service_instructions_for_global">Acerca de los servicios publicitarios y la privacidad en las aplicaciones del sistema MIUI</string>
     <string name="about_phone_device_name_warning">Las aplicaciones de tu teléfono pueden ver el nombre de tu dispositivo. También es posible que lo vean otros usuarios si lo conectas con dispositivos Bluetooth o configuras un punto de acceso Wi‑Fi.</string>
     <string name="about_phone_enter_xiaomi_net">Más información</string>
     <string name="about_settings">Acerca del teléfono</string>
@@ -170,9 +171,13 @@ El botón de accesibilidad flota en su pantalla sobre otras aplicaciones. Toque 
     <string name="accessibility_menu_description">"El menú de accesibilidad proporciona atajos prácticos que le permiten controlar su dispositivo.
 
 Active esta función y toque el botón Accesibilidad en la parte inferior de la pantalla para abrir el menú."</string>
+    <string name="accessibility_menu_description_pad">"El menú de accesibilidad proporciona accesos directos convenientes que le permiten controlar su dispositivo.
+
+Active esta función y toque el botón Accesibilidad en la parte inferior de la pantalla para abrir el menú."</string>
     <string name="accessibility_menu_item_settings">Configuración</string>
     <string name="accessibility_menu_service_name">Menú de accesibilidad</string>
     <string name="accessibility_menu_summary">Controle su dispositivo usando atajos prácticos</string>
+    <string name="accessibility_menu_summary_pad">Controla tu dispositivo mediante cómodos accesos directos</string>
     <string name="accessibility_more_settings">Ajustes adicionales</string>
     <string name="accessibility_no_calling">Sin llamadas.</string>
     <string name="accessibility_no_data">Sin datos.</string>
@@ -828,7 +833,11 @@ Si este permiso está desactivado, las alarmas existentes y los eventos basados 
     <string name="auto_clean_description">"Acerca de esta función
 1. Ejecute esta función una o dos veces si detecta que su altavoz está bloqueado por polvo.
 2. Si el altavoz está muy bloqueado, ejecute esta función de 2 a 5 veces mientras sacude el dispositivo con el altavoz apuntando hacia abajo."</string>
+    <string name="auto_clean_description_pad">"Acerca de esta función
+- Ejecute esta función una o dos veces si descubre que su altavoz está ligeramente bloqueado por el polvo.
+- Si el altavoz está muy bloqueado, ejecute esta función %1$d,%2$d veces mientras agita su dispositivo con el altavoz hacia abajo."</string>
     <string name="auto_clean_summary">Reproducir un audio de 30 segundos para limpiar el altavoz</string>
+    <string name="auto_clean_summary_new">Reproduce un audio de %d-segundo para limpiar el altavoz. Utiliza esta característica varias veces seguidas para obtener grandes cantidades de suciedad.</string>
     <string name="auto_clean_title">Limpiar altavoz</string>
     <string name="auto_disable_screenbuttons_ask">Preguntar para desactivar</string>
     <string name="auto_disable_screenbuttons_auto">Desactivar siempre</string>
@@ -867,7 +876,7 @@ Si este permiso está desactivado, las alarmas existentes y los eventos basados 
     <string name="auto_sync_account_title">Sincronizar datos de apps automáticamente</string>
     <string name="auto_sync_personal_account_title">Sincronizar datos personales automáticamente</string>
     <string name="auto_sync_work_account_title">Sincronizar los datos de trabajo automáticamente</string>
-    <string name="auto_task_operation_close">Cerrar</string>
+    <string name="auto_task_operation_close">Desactivar</string>
     <string name="autofill_app">Servicio autocompletar</string>
     <string name="autofill_confirmation_message">"&lt;b&gt;Asegúrate de que esta app sea confiable.&lt;/b&gt; &lt;br/&gt; &lt;br/&gt; &lt;xliff:g id=app_name example=Google Autofill&gt;%1$s&lt;/xliff:g&gt; usa el contenido de tu pantalla para determinar qué se puede autocompletar."</string>
     <string name="autofill_keywords">automático, completar, autocompletar</string>
@@ -2000,6 +2009,7 @@ Esto afecta otras apps o conversaciones que pueden crear burbujas."</string>
     <string name="clear_all_data">Eliminar todos los datos</string>
     <string name="clear_cache_btn_text">Borrar caché</string>
     <string name="clear_data_alert_info">Todas las copias de seguridad almacenadas en este dispositivo se eliminarán de forma permanente. Haga una copia de seguridad de los elementos importantes en su computadora y Xiaomi Cloud antes de realizar un restablecimiento de fábrica.</string>
+    <string name="clear_data_alert_info_pad">Todas las copias de seguridad almacenadas en este dispositivo se eliminarán de forma permanente. Haga una copia de seguridad de los elementos importantes en su computadora y en Xiaomi Cloud antes de continuar.</string>
     <string name="clear_data_dlg_text">Se eliminarán de forma permanente todos los datos de esta aplicación, incluidos archivos, ajustes, cuentas, bases de datos, etc.</string>
     <string name="clear_data_dlg_title">¿Borrar los datos de la app?</string>
     <string name="clear_failed_dlg_text">No se pudo liberar espacio de almacenamiento de la app.</string>
@@ -2207,6 +2217,7 @@ Esto afecta otras apps o conversaciones que pueden crear burbujas."</string>
     <string name="connected_wifi">Conectado</string>
     <string name="connecting_to_vpn">Conectando a VPN</string>
     <string name="connection_and_sharing">Conexión y compartir</string>
+    <string name="connection_control">Administrar conexiones</string>
     <string name="contact_data">Contactos</string>
     <string name="contact_discovery_opt_in_dialog_message">"Se enviarán regularmente a %1$s los números de teléfono de tus contactos.
 
@@ -2743,7 +2754,9 @@ Para solucionar el problema, desactiva la ubicación en esta app."</string>
     <string name="dialog_restrict_positive">Cancelar</string>
     <string name="dialog_speaker_auto_clean_button">Entendido</string>
     <string name="dialog_speaker_auto_clean_content">"La limpieza dura 30 segundos. No abandone esta página. Suba el volumen al máximo para el mejor efecto."</string>
+    <string name="dialog_speaker_auto_clean_content_new">"Estás a punto de reproducir el audio que limpiará el altavoz. Ajuste el volumen al máximo para obtener el mejor efecto."</string>
     <string name="dialog_speaker_auto_clean_title">Advertencia</string>
+    <string name="dialog_speaker_auto_clean_title_new">Limpiar altavoz</string>
     <string name="dialog_stop_message">"Tu teléfono no puede administrar el uso de la batería con normalidad porque %1$s lo mantiene activo.
 
 Para solucionar este problema, detén la app.
@@ -3229,6 +3242,9 @@ Reinicie su dispositivo y vuelva a intentarlo."</string>
     <string name="external_data_size_label">Datos en el almacenamiento USB</string>
     <string name="external_ram_dialog_btn_cancel">Después</string>
     <string name="external_ram_dialog_btn_ok">Reiniciar</string>
+    <string name="external_ram_dialog_icon_confirm">Entendido</string>
+    <string name="external_ram_dialog_icon_info">El sistema ampliará la RAM en %1$s %2$s.</string>
+    <string name="external_ram_dialog_icon_title">La extensión de memoria está activada</string>
     <string name="external_ram_dialog_message">Reinicie el dispositivo para aplicar cambios.</string>
     <string name="external_ram_dialog_title">Reiniciar dispositivo</string>
     <string name="external_ram_summary">"Agregue %1$s %2$s de RAM ocupando espacio de almacenamiento. Utilice esta función solo cuando haya suficiente espacio de almacenamiento disponible en su dispositivo."</string>
@@ -3324,6 +3340,7 @@ El desbloqueo facial es menos seguro que un PIN, una contraseña o un patrón. S
     <string name="feedback">Comentarios</string>
     <string name="feedback_btn_text">Enviar comentario</string>
     <string name="feedback_settings">Servicios y comentarios</string>
+    <string name="feedback_settings_new">Comentarios</string>
     <string name="file_privacy_password_role_instruction">Sus archivos privados serán almacenados aquí.</string>
     <string name="filter">Filtro</string>
     <string name="filter_all_apps">Todas las apps</string>
@@ -3586,6 +3603,7 @@ Parecía no haber caballos ni animales de ningún tipo. Los hombres cargaban obj
     <string name="freeform_guide_slide_to_small_freeform_summary">"Mantén presionada la parte inferior de la ventana y arrástrala a la esquina superior derecha.
 Esta función solo funciona cuando la navegación del sistema está configurada en gestos."</string>
     <string name="freeform_guide_slide_to_small_freeform_summary_pad">Arrastra la esquina para minimizar una aplicación</string>
+    <string name="freeform_guide_slide_to_small_freeform_summary_pad_global">Arrastra la esquina para minimizar una aplicación</string>
     <string name="freeform_guide_slide_to_small_freeform_title">Minimizar una aplicación</string>
     <string name="freeform_guide_slide_up_to_close_summary">Deslice hacia arriba en la barra de acción de una ventana flotante</string>
     <string name="freeform_guide_slide_up_to_close_title">Cerrar ventanas flotantes</string>
@@ -4039,6 +4057,7 @@ Abra Xiaomi Cloud y restaure elementos desde allí."</string>
     <string name="interact_across_profiles_switch_enabled">Conectadas</string>
     <string name="interact_across_profiles_title">Apps personales y de trabajo conectadas</string>
     <string name="interaction_control_category_title">Controles de interacción</string>
+    <string name="interconnection">Interconectividad</string>
     <string name="interesting_text">Las sensaciones táctiles realistas hacen que su interacción con la pantalla sea más clara y articulada.</string>
     <string name="interesting_title">Toque realista</string>
     <string name="internal_memory">Almacenamiento interno</string>
@@ -5034,6 +5053,8 @@ No podrá revertir esta acción."</string>
     <string name="miheadset_formal">Estándar</string>
     <string name="miheadset_game_mode">Modo juego</string>
     <string name="miheadset_game_mode_summary">Reducir la demora de audio mientras juega</string>
+    <string name="miheadset_hd_audio_summary">Reproducir audio de alta definición de %1$d-bits/%2$d kHz</string>
+    <string name="miheadset_hd_audio_title">Audio de alta definición</string>
     <string name="miheadset_ignore">Desemparejar</string>
     <string name="miheadset_in_ear_check">Detección en oído</string>
     <string name="miheadset_in_ear_check_summary">"Pausar el audio cuando se quitan los audífonos y reanudar automáticamente cuando se vuelven a colocar"</string>
@@ -5264,6 +5285,7 @@ Si cambias a %1$s no se cancelará el servicio de %2$s."</string>
     <string name="model_info">Modelo</string>
     <string name="model_name">Modelo</string>
     <string name="model_number">Dispositivo</string>
+    <string name="model_number_pad">Dispositivo</string>
     <string name="model_summary">Modelo: %1$s</string>
     <string name="modern_control_center_desc">Deslice la barra de estado hacia abajo a la izquierda para ver las notificaciones. Deslice hacia abajo de la barra de estado a la derecha para abrir el Centro de Control.</string>
     <string name="modern_control_center_title">Nueva versión</string>
@@ -5423,6 +5445,7 @@ Seleccione su sistema operativo:"</string>
     <string name="multi_touch_points_category_title">Puntos multitáctiles</string>
     <string name="multi_touch_points_preference">Esta configuración será aplicada después de reiniciar su dispositivo</string>
     <string name="multi_window_cvw_summary">Arrastra la esquina para cambiar a una ventana flotante y ajustar su tamaño</string>
+    <string name="multi_window_cvw_summary_global">Arrastra la esquina para cambiar a una ventana flotante y ajustar su tamaño</string>
     <string name="multi_window_cvw_title">Ventana flotante</string>
     <string name="multifunction_keyboard">Multifuncional</string>
     <string name="multiple_users_main_switch_title">Utilice varios usuarios</string>
@@ -5557,6 +5580,8 @@ Seleccione su sistema operativo:"</string>
     <string name="nfc_disabled_summary">No disponible porque NFC está desactivada</string>
     <string name="nfc_disclaimer_content">NFC intercambia datos entre este dispositivo y otras orientaciones o dispositivos cercanos, como terminales de pago, lectores de acceso o etiquetas.</string>
     <string name="nfc_disclaimer_title">Activa NFC</string>
+    <string name="nfc_dnd_mode_summary">Responda a las etiquetas NFC con una cantidad limitada de etiquetas NDEF</string>
+    <string name="nfc_dnd_mode_title">NFC DND</string>
     <string name="nfc_how_it_works_content">Configura una aplicación para efectuar pagos. A continuación, solo tienes que sostener la parte posterior del teléfono sobre cualquier terminal con el símbolo de pago sin contacto.</string>
     <string name="nfc_how_it_works_got_it">Entendido</string>
     <string name="nfc_how_it_works_title">Cómo pagar en la terminal</string>
@@ -6183,8 +6208,8 @@ Presione Encendido y Subir volumen al mismo tiempo."</string>
     <string name="power_mgr">Optimización de batería</string>
     <string name="power_mode">Ajustes de energía</string>
     <string name="power_mode_balanced_title">Consumo equilibrado</string>
-    <string name="power_monitor_summary">Herramientas utilizadas para controlar la potencia.</string>
-    <string name="power_monitor_title">Monitor de energía</string>
+    <string name="power_monitor_summary">Herramientas para monitorear el consumo de energía</string>
+    <string name="power_monitor_title">Consumo de energía</string>
     <string name="power_optimize">Ahorro de batería</string>
     <string name="power_overcounted">Sobrecalculada</string>
     <string name="power_phone">Llamadas de voz</string>
@@ -6470,6 +6495,8 @@ Presione Encendido y Subir volumen al mismo tiempo."</string>
     <string name="profile_owner_add_title">¿Activar el Administrador de perfiles?</string>
     <string name="profile_owner_add_title_simplified">¿Quieres permitir la supervisión?</string>
     <string name="profile_section_header">Notificaciones de trabajo</string>
+    <string name="progress_dialog_speaker_auto_clean_button">Detener</string>
+    <string name="progress_dialog_speaker_auto_clean_title">Limpiando altavoz…</string>
     <string name="progress_scanning">Buscando</string>
     <string name="promote_conversation_summary">Agregar a la sección de conversaciones</string>
     <string name="promote_conversation_title">Esta es una conversación</string>
@@ -6608,6 +6635,7 @@ Presione Encendido y Subir volumen al mismo tiempo."</string>
 No perderás los datos de las apps."</string>
     <string name="reset_app_preferences_title">¿Restablecer preferencias?</string>
     <string name="reset_confirm_directory">"Nota: Antes de restaurar elementos, verifique si la carpeta \"MIUI-Backup-AllBackup\" existe en su dispositivo móvil. Si no es así, créela."</string>
+    <string name="reset_confirm_directory_pad">"Nota: Antes de restaurar elementos, verifique si la carpeta \"MIUI-Backup-AllBackup\" existe en su dispositivo móvil. Si no es así, créala."</string>
     <string name="reset_dashboard_summary">Se pueden restablecer las redes, las apps y los dispositivos</string>
     <string name="reset_dashboard_summary_onlyApps">Se pueden restablecer las apps</string>
     <string name="reset_dashboard_title">Opciones de restablecimiento</string>
@@ -6636,6 +6664,7 @@ Reinicia el dispositivo y vuelve a intentarlo."</string>
     <string name="reset_network_final_desc">"Esto puede tardar varios segundos. No podrá deshacer esta acción."</string>
     <string name="reset_network_final_desc_esim">¿Quieres restablecer toda la configuración de red y borrar las tarjetas SIM descargadas? No podrás deshacer esta acción.</string>
     <string name="reset_network_title">Restablecer Wi-Fi, redes móviles y Bluetooth</string>
+    <string name="reset_network_title_noSim">Restablecer Wi-Fi y Bluetooth</string>
     <string name="reset_network_wifi">Wi-Fi</string>
     <string name="reset_remove_data_hint">Todos los elementos enumerados anteriormente se borrarán permanentemente. Haga una copia de seguridad de todos los elementos importantes en su computadora o Xiaomi Cloud antes de continuar.</string>
     <string name="reset_second_space_passwd">Restablecer contraseña del segundo espacio</string>
@@ -7892,9 +7921,9 @@ Retirar el consentimiento para %s ahora?"</string>
     <string name="speed_label_very_fast">Muy rapido</string>
     <string name="speed_label_very_slow">Muy lento</string>
     <string name="speed_mode">Modo de velocidad</string>
-    <string name="speed_mode_noti_summary">El modo de velocidad aumentará el consumo de energía y la generación de calor</string>
-    <string name="speed_mode_noti_title">Modo de velocidad activado</string>
-    <string name="speed_mode_summary">Cuando se enciende, el rendimiento alcanzará el estado extremo, pero aumentará el consumo de energía y generará calor. Por favor enciéndalo con cuidado</string>
+    <string name="speed_mode_noti_summary">Tu dispositivo se calentará y consumirá más energía</string>
+    <string name="speed_mode_noti_title">Cambiado al modo de velocidad</string>
+    <string name="speed_mode_summary">Priorice el rendimiento sobre el consumo de energía y el control de temperatura</string>
     <string name="spell_checker_master_switch_title">Usar el corrector ortográfico</string>
     <string name="spell_checker_not_selected">Sin seleccionar</string>
     <string name="spell_checker_primary_switch_title">Usar el corrector ortográfico</string>
@@ -8154,6 +8183,12 @@ Intenta usar un ^3 más rápido o usa ^4 como almacenamiento portátil."</string
     <string name="storageuse_settings_title">Uso del almacenamiento</string>
     <string name="strict_mode">Modo estricto</string>
     <string name="strict_mode_summary">Resetear pantalla cuando las aplicaciones realizan operaciones largas en la operación principal</string>
+    <string name="string_KB">%d KB</string>
+    <string name="string_KB_per_log_buffer">%d KB por búfer de registro</string>
+    <string name="string_MB">%d MB</string>
+    <string name="string_MB_per_log_buffer">%d MB por búfer de registro</string>
+    <string name="string_off">Desactivado</string>
+    <string name="string_offed">Desactivado</string>
     <string name="strong_suppression_summary">Su dispositivo será menos sensible a toques accidentales, algunos controles por gestos podrían no funcionar cerca de los bordes</string>
     <string name="strong_suppression_title">Área grande</string>
     <string name="structure_add_facerecoginition_text">Agregar datos faciales 3D</string>
@@ -8460,6 +8495,7 @@ Con este software de Google, puedes sincronizar tus datos y acceder a tus contac
     <string name="to_close">Desactivar</string>
     <string name="to_switch_networks_disconnect_ethernet">Para cambiar de red, desconecte ethernet</string>
     <string name="toast_apply_font_fail">"No se puede establecer la fuente"</string>
+    <string name="toast_disconnect_earphone">Desconecte los auriculares y vuelva a intentarlo</string>
     <string name="toast_lockscreen_glogin_empty_password">Ingresar contraseña</string>
     <string name="toast_need_login">Inicie sesión con su Cuenta Mi</string>
     <string name="toast_sta_ap_works_wifi_display_disable">"No se puede emitir cuando la conexión Wi-Fi es establecida y el punto de acceso activado."</string>
@@ -8904,6 +8940,7 @@ o audífonos con un conector de 3.5mm."</string>
     <string name="use_otg_title">USB On-The-Go</string>
     <string name="use_personalized_ad_service">Recomendaciones personalizadas de publicidad</string>
     <string name="use_personalized_ad_service_summary">"Cuando las recomendaciones personalizadas de publicidad están desactivadas, seguirá viendo la misma cantidad de anuncios que cuando la función está activada. Sin embargo, los anuncios ya no serán relevantes, ya que no se basarán en sus preferencias personales."</string>
+    <string name="use_personalized_ad_service_summary_for_global">"Cuando las recomendaciones de anuncios personalizados están desactivadas, seguirá viendo la misma cantidad de anuncios en las aplicaciones del sistema MIUI que cuando la función está activada. Sin embargo, los anuncios de Xiaomi y plataformas de terceros ya no serán relevantes, ya que no se basarán en sus preferencias personales."</string>
     <string name="use_privacy_password_immediate">Usar</string>
     <string name="use_system_language_to_select_input_method_subtypes">Usar idioma del sistema</string>
     <string name="use_this_wlan">Permanecer conectado</string>

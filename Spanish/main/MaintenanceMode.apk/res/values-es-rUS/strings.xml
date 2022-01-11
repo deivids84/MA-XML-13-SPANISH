@@ -62,9 +62,9 @@
     <string name="friday_shortest">Vie</string>
     <string name="maintenance_mode">Modo Mantenimiento</string>
     <string name="maintenance_mode_close_title">En modo de mantenimiento</string>
-    <string name="maintenance_mode_loading">Iniciando el modo de reparación, el teléfono se reiniciará pronto …</string>
+    <string name="maintenance_mode_loading">Iniciando el modo de reparación, el dispositivo se reiniciará pronto …</string>
     <string name="maintenance_mode_reboot">Reinicio del modo de mantenimiento</string>
-    <string name="maintenance_mode_title">Protección integral de los datos del teléfono móvil</string>
+    <string name="maintenance_mode_title">Protección integral de los datos del dispositivo</string>
     <string name="maintenance_mode_watch_out">Proteja datos privados importantes como fotos, videos, contactos, registros de llamadas y mensajes de texto durante el mantenimiento posventa</string>
     <string name="midnight">Noche</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deseleccionar</string>
@@ -136,10 +136,11 @@
     <string name="open_maintenance_mode">Modo de mantenimiento abierto</string>
     <string name="open_maintenance_mode_msg">Para evitar la pérdida de datos, se recomienda que lo envíe a reparar después de </string>
     <string name="open_maintenance_mode_msg_sub">haciendo una copia de seguridad de sus datos</string>
+    <string name="open_maintenance_mode_tips">Acaba de desactivar el modo de mantenimiento y está eliminando datos relacionados. Vuelva a intentarlo más tarde</string>
     <string name="pm">PM</string>
     <string name="reached_max_user">Número máximo de usuarios alcanzado</string>
     <string name="reboot_maintenance_mode">eliminar el modo de mantenimiento completado, para el rendimiento del dispositivo, reinícielo</string>
-    <string name="reboot_msg">Activar el modo de mantenimiento reiniciará automáticamente el teléfono, confirme si está encendido inmediatamente</string>
+    <string name="reboot_msg">Al activar el modo de mantenimiento, se reiniciará automáticamente el dispositivo, confirme si está activado inmediatamente</string>
     <string name="reopen_maintenance_mode">Se detecta que se ha desbloqueado el usuario principal del dispositivo. Para proteger la privacidad del usuario y la seguridad de los datos, se recomienda que vuelva a ingresar al modo de mantenimiento</string>
     <string name="saturday">Sábado</string>
     <string name="saturday_short">Sáb</string>

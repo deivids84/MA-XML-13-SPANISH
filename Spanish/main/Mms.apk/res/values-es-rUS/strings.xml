@@ -49,6 +49,10 @@
     <string name="add_slide_hint">Pulsa para crear una nueva diapositiva</string>
     <string name="add_smiley">Emoticono</string>
     <string name="add_timing">Establecido</string>
+    <string name="add_to_block_by_number">"Agregado %s
+a la lista de bloqueo"</string>
+    <string name="add_to_block_by_tag">"Mensajes que contienen \"%s\"
+añadidos a la lista de bloqueos"</string>
     <string name="add_to_browser_favorite_failed">"No se pudo añadir"</string>
     <string name="add_to_browser_favorite_success">Añadido con éxito</string>
     <string name="add_video">Añadir vídeo</string>
@@ -1228,6 +1232,10 @@ Echa un vistazo a los recomendados!"</string>
     <string name="sunday">Domingo</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
+    <string name="suspected_fraud_action">Toca para reportar.</string>
+    <string name="suspected_fraud_action_tip">"Posible estafa. "</string>
+    <string name="suspected_fraud_link_tip">"URL insegura. "</string>
+    <string name="suspected_fraud_tip">Posible estafa</string>
     <string name="switch_to_editor">Modo edición</string>
     <string name="switch_to_menu">Modo menú</string>
     <string name="system_permission_declare_agree">Aceptar</string>

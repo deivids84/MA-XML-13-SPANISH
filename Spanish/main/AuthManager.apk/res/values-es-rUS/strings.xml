@@ -89,7 +89,7 @@
     <string name="HIPS_Perm_get_tasks">Obtener tareas</string>
     <string name="HIPS_Perm_get_tasks_Desc">obtener tareas</string>
     <string name="HIPS_Perm_install_shortcut">Accesos directos en la Pantalla de inicio</string>
-    <string name="HIPS_Perm_install_shortcut_Desc">Agregar accesos directos a la Pantalla de inicio</string>
+    <string name="HIPS_Perm_install_shortcut_Desc">Agregar accesos directos a la pantalla de inicio</string>
     <string name="HIPS_Perm_mediaVolume">Ajustar volumen de medios</string>
     <string name="HIPS_Perm_mediaVolume_Desc">Permitir que la aplicación ajuste el volumen de medios</string>
     <string name="HIPS_Perm_operator_get_phonenumbner">Número de acceso para iniciar sesión</string>
@@ -244,6 +244,7 @@
     <string name="miuix_appcompat_select_all">Seleccionar todo</string>
     <string name="miuix_appcompat_select_all_description">Seleccionar todo</string>
     <string name="miuix_appcompat_select_item">Seleccionar elementos</string>
+    <string name="miuix_indexer_collect">Colecciones</string>
     <string name="miuix_indexer_selected">Seleccionado %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Deslice hacia abajo para actualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado con éxito</string>

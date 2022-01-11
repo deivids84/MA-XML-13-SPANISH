@@ -34,6 +34,8 @@
     <string name="account_summary">Respaldar la cuenta de Google, Cuenta Mi y otros datos de usuario</string>
     <string name="actionbar_button_up_description">Atrás</string>
     <string name="afternoon">Tarde</string>
+    <string name="agree_button">Aceptar</string>
+    <string name="agree_revoke_permission_title">Retirando permisos</string>
     <string name="alert_button_agree_and_continue">Permitir</string>
     <string name="alert_button_deny">Rechazar</string>
     <string name="alert_message_backup_to_miasist">Mi PC Suite solicita permisos para crear un respaldo en la computadora. ¿Permitir?</string>
@@ -45,6 +47,7 @@
     <string name="alert_title_backup_to_miasist">¿Respaldar elementos con Mi PC Suite?</string>
     <string name="alert_title_restore_from_miasist">¿Restaurar elementos en su teléfono?</string>
     <string name="already_enable_encrypt">El cifrado ya está activado</string>
+    <string name="alternative_ui_content">Esta característica le permite hacer una copia de seguridad y restaurar elementos usando su dispositivo móvil y computadora. Esta característica necesita conectarse a Internet y requiere los siguientes permisos obligatorios para poder funcionar normalmente:</string>
     <string name="am">A.M.</string>
     <string name="app_name">Respaldo</string>
     <string name="apps_and_data_item_desc">Aplicaciones y datos</string>
@@ -79,6 +82,7 @@
     <string name="backup_hint_pad">Mantenga su dispositivo encendido</string>
     <string name="backup_is_running">Respaldando el dispositivo</string>
     <string name="backup_new">Nuevo:</string>
+    <string name="backup_notification_title">\"Copia de seguridad\" está funcionando…</string>
     <string name="backup_progress">Respaldando…</string>
     <string name="backup_report">Ver detalles</string>
     <string name="backup_security_tips_message">Es posible que algunas aplicaciones no puedan ser respaldadas o restauradas.</string>
@@ -244,6 +248,8 @@ No modifique o renombre los archivos de respaldo."</string>
     <string name="friday_short">Vie</string>
     <string name="friday_shortest">Vie</string>
     <string name="gallery_summary">Ajustes de la galería (sin incluir fotos)</string>
+    <string name="grant_all_permission_content">Conceda todos los permisos obligatorios para poder realizar copias de seguridad y restaurar elementos.</string>
+    <string name="grant_all_permission_title">Permisos requeridos</string>
     <string name="guarded_mode_dialog_backup_message">"Las copias de seguridad no se permiten en Modo de invitado."</string>
     <string name="guarded_mode_dialog_title">"Está en Modo invitado"</string>
     <string name="guarded_mode_dialog_transfer_message">"No se puede usar Mi Mudanza en Modo invitado."</string>
@@ -534,6 +540,7 @@ primero deberá crear un respaldo de iCloud."</string>
     <string name="permission_content_title">Permisos requeridos</string>
     <string name="permission_dialog_positive_btn">Ajustes</string>
     <string name="permission_intro">Detalles de permisos</string>
+    <string name="permission_management_entrance">Administrar permisos</string>
     <string name="permission_not_admit">No garantizado</string>
     <string name="permission_purpose">Esta función le permite realizar copias de seguridad y restaurar elementos utilizando su dispositivo móvil, computadoras y unidades USB.</string>
     <string name="permission_read_apps">Accede a la lista de aplicaciones instaladas en este dispositivo</string>
@@ -542,6 +549,7 @@ primero deberá crear un respaldo de iCloud."</string>
     <string name="permission_read_contacts">Acceder a contactos</string>
     <string name="permission_read_sms">Acceder a mensajes</string>
     <string name="permission_read_storage">Acceda y guarde elementos en el almacenamiento</string>
+    <string name="permission_read_storage_global">Acceso al almacenamiento</string>
     <string name="permission_read_write_storage">Para poder hacer una copia de seguridad de los elementos, primero permita que esta función acceda al almacenamiento.</string>
     <string name="permission_read_write_sys_app">Para poder hacer copias de seguridad y restaurar mensajes, contactos e historial de llamadas, primero permita que esta función acceda a estos elementos.</string>
     <string name="permission_related">Permisos</string>
@@ -555,6 +563,7 @@ primero deberá crear un respaldo de iCloud."</string>
     <string name="permission_show_all_apps_desc">Para poder ver las aplicaciones de las que se puede hacer una copia de seguridad, primero permita que esta aplicación acceda a la lista de aplicaciones instaladas en este dispositivo.</string>
     <string name="permission_write_calllog">Editar historial de llamadas</string>
     <string name="permission_write_contacts">Editar contactos</string>
+    <string name="permission_write_storage">Guardar elementos en el almacenamiento</string>
     <string name="phone_title">Ajustes del teléfono</string>
     <string name="platform_chooser_item_android_mi">Teléfono Mi</string>
     <string name="platform_chooser_item_android_others">Otras marcas</string>
@@ -562,8 +571,10 @@ primero deberá crear un respaldo de iCloud."</string>
     <string name="platform_chooser_title">Seleccione el dispositivo antiguo</string>
     <string name="pm">PM</string>
     <string name="preference_copied">Se copió \"%1$s\" en el portapapeles.</string>
+    <string name="privacy_policy_link"><Data>\"Para obtener más información sobre nuestras prácticas de procesamiento de datos y sus derechos como usuario, lea y acepte nuestra &lt;a href=\'%1s\'&gt;Política de privacidad&lt;/a&gt; antes de continuar\".</Data></string>
     <string name="privacy_settings">Privacidad</string>
     <string name="privacy_settings_title">Política de privacidad</string>
+    <string name="private_policy_text">Política de privacidad</string>
     <string name="progress_backup_hint">Creando copia de seguridad…</string>
     <string name="progress_restore_hint">Restaurando…</string>
     <string name="prompt_reading">Leyendo…</string>
@@ -582,6 +593,7 @@ primero deberá crear un respaldo de iCloud."</string>
     <string name="restore_counts">Restauración:</string>
     <string name="restore_data">Seleccione los elementos a restaurar</string>
     <string name="restore_failed">"No se pudo restaurar"</string>
+    <string name="restore_files">Para restaurar elementos</string>
     <string name="restore_finished">Restaurado con éxito</string>
     <string name="restore_is_running">Restaurando el dispositivo</string>
     <string name="restore_launcher_layout_hit">Recuperar ajustes del iniciador</string>
@@ -590,6 +602,7 @@ primero deberá crear un respaldo de iCloud."</string>
     <string name="restore_telephony_hit">Restaurar reiniciará las aplicaciones del teléfono.</string>
     <string name="retry">Vuelva a intentarlo</string>
     <string name="reverse_all">Desmarcar todo</string>
+    <string name="revoke_permission_dialog_content">"No podrá realizar copias de seguridad ni restaurar elementos sin todos los permisos obligatorios. ¿Retirar los permisos de todos modos?"</string>
     <string name="router_backup_hint">Mantenga su dispositivo encendido</string>
     <string name="saturday">Sábado</string>
     <string name="saturday_short">Sáb</string>
@@ -972,6 +985,7 @@ Libere espacio o realice varias transferencias más pequeñas."</string>
     <string name="usb_trans_select_data_no_space">"Solo %s disponibles en su unidad USB.
 Libere espacio o transfiera solo los elementos importantes."</string>
     <string name="user_feedback">Comentarios</string>
+    <string name="user_know_button_text">Entendido</string>
     <string name="user_name">ID de Apple o correo electrónico</string>
     <string name="user_name_null">"El nombre de usuario no puede estar vacío"</string>
     <string name="user_notice_declaration_ignore">"No volver a mostrar"</string>

@@ -49,6 +49,7 @@
     <string name="calibrate_success">Brújula calibrada</string>
     <string name="calibrate_tip">Incline el dispositivo para hacer rodar la burbuja alrededor del círculo</string>
     <string name="calibrate_title">Calibrar brújula</string>
+    <string name="calibrating">Calibrando brújula</string>
     <string name="cancel">Cancelar</string>
     <string name="clearable_edittext_clear_description">Borrar</string>
     <string name="close">Cerrar</string>
@@ -197,6 +198,7 @@
     <string name="month_september_shortest">Sep</string>
     <string name="more">Más</string>
     <string name="morning">Mañana</string>
+    <string name="new_cta_app_purpose">ver direcciones y coordenadas</string>
     <string name="new_cta_v2_app_purpose">Mostrando direcciones, coordenadas, presión atmosférica y altitud actual</string>
     <string name="new_permission_camera_desc">Para calibración</string>
     <string name="new_permission_location_desc">Para mostrar coordenadas</string>

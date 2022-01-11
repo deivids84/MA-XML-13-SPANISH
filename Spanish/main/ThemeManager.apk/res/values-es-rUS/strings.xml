@@ -1145,6 +1145,8 @@ Puede otorgar este permiso en Configuración &gt; Privacidad."</string>
     <string name="shortcut_message">Agregue un acceso directo a la Pantalla de inicio</string>
     <string name="shortcut_show_tip">"No volver a mostrar"</string>
     <string name="shortcut_title">¿Le gustan nuestros fondos de pantalla?</string>
+    <string name="show_exchange">Acceso directo al centro de redención</string>
+    <string name="show_exchange_desc">Mostrar u ocultar acceso directo al centro de Redención</string>
     <string name="show_free_aod">Mostrar temas gratuitos</string>
     <string name="show_free_font">Mostrar fuentes gratuitas</string>
     <string name="show_free_icons">Mostrar iconos gratis</string>
@@ -1159,6 +1161,8 @@ Puede otorgar este permiso en Configuración &gt; Privacidad."</string>
     <string name="show_mamual_hide_theme">Mostrar temas ocultos</string>
     <string name="show_mamual_hide_wallpaper">Mostrar fondos de pantalla ocultos</string>
     <string name="show_phone_wallpaper">Mostrar fondos de pantalla del teléfono</string>
+    <string name="show_theme_community">Atajo de la comunidad</string>
+    <string name="show_theme_community_desc">Mostrar u ocultar el acceso directo de la comunidad de Temas</string>
     <string name="still_apply">Aplicar</string>
     <string name="storage_migration_exit_msg">Para que los temas sean compatibles con las próximas versiones de Android, trasladamos los elementos descargados a una nueva ubicación. Reinicie la aplicación para aplicar cambios y ver su contenido descargado.</string>
     <string name="storage_permission_denied_desc">Permitir que los temas accedan al almacenamiento para poder ver elementos</string>
@@ -1173,6 +1177,7 @@ Puede otorgar este permiso en Configuración &gt; Privacidad."</string>
     <string name="super_wallpaper_setting_choose_position_btn_text">Elegir ubicación</string>
     <string name="super_wallpaper_setting_coordinate_title">Coordenadas</string>
     <string name="super_wallpaper_setting_view_height_title">Altitud</string>
+    <string name="supersave_mode_toast_message">"Esta función no está disponible cuando se usa el ahorro de batería Ultra. Desactive el ahorro de batería Ultra para poder utilizarlo."</string>
     <string name="support_theme_store_des">Los buenos temas siempre son creados por diseñadores talentosos. Nuestra aplicación contiene una pequeña cantidad de anuncios que nos permiten respaldar su trabajo.</string>
     <string name="support_theme_store_supported">¡Gracias por tu apoyo!</string>
     <string name="support_theme_store_title">Apoya a nuestros diseñadores</string>

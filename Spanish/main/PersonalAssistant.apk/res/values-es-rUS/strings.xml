@@ -76,6 +76,7 @@
     <string name="agenda_payment_not_available">"El servicio de pago no está disponible"</string>
     <string name="agenda_repay_date">Pago adeudado: %1$s</string>
     <string name="agenda_repay_immediately">Pagar</string>
+    <string name="agenda_request_perm">Permitir que esta aplicación acceda al Calendario primero</string>
     <string name="agenda_setting_brief">Eventos, recordatorios de cumpleaños y más</string>
     <string name="agenda_setting_brief_detail">Ver eventos planificados y recordatorios de cumpleaños.</string>
     <string name="agenda_settings_account">Administrar las cuentas del calendario</string>
@@ -301,6 +302,7 @@ También puede realizar un seguimiento de la entrega urgente en los sitios web o
     <string name="app_olympic_gold_medal_total">Total</string>
     <string name="app_pa_more">Más</string>
     <string name="app_pa_search">Buscar</string>
+    <string name="app_pa_setting_about_title">Acerca de esta aplicación</string>
     <string name="app_pa_setting_bugreport">Comentarios</string>
     <string name="app_pa_setting_global_display">Mostrar</string>
     <string name="app_pa_setting_global_display_backdrop_blur_option">Fondos de tarjeta de desenfoque</string>
@@ -315,12 +317,36 @@ También puede realizar un seguimiento de la entrega urgente en los sitios web o
     <string name="app_pa_setting_head_info_default">Vacío</string>
     <string name="app_pa_setting_head_info_set">Añadido</string>
     <string name="app_pa_setting_head_setting">Titular</string>
+    <string name="app_pa_setting_individualization_title">Personalización</string>
     <string name="app_pa_setting_my_collection">Favoritos</string>
     <string name="app_pa_setting_my_payment">Pagos</string>
+    <string name="app_pa_setting_perm_calendar">Acceso al Calendario</string>
+    <string name="app_pa_setting_perm_denied">No concedido</string>
+    <string name="app_pa_setting_perm_desc">Detalles de permisos</string>
+    <string name="app_pa_setting_perm_granted">Concedido</string>
+    <string name="app_pa_setting_perm_location">Acceso a la ubicación</string>
+    <string name="app_pa_setting_perm_state">Acceso a la información del dispositivo</string>
+    <string name="app_pa_setting_perm_storage">Acceso al almacenamiento</string>
+    <string name="app_pa_setting_perm_title">Permisos</string>
+    <string name="app_pa_setting_permission">Detalles de permisos</string>
+    <string name="app_pa_setting_preference_title">Preferencias</string>
+    <string name="app_pa_setting_priv_policy_title">Política de privacidad</string>
     <string name="app_pa_setting_private">Privacidad</string>
     <string name="app_pa_setting_private_auth">Permitir recopilar estadísticas de uso</string>
     <string name="app_pa_setting_private_auth_summary">Las estadísticas de uso se utilizan para recomendarle elementos relevantes</string>
-    <string name="app_pa_setting_private_policy">Política de Privacidad</string>
+    <string name="app_pa_setting_private_policy">Ver Política de Privacidad</string>
+    <string name="app_pa_setting_retract">Retiro del consentimiento</string>
+    <string name="app_pa_setting_retract_dialog_message">"Si continúa, retirará su consentimiento a la Política de privacidad de App Vault. La información personal ya recopilada y retenida se eliminará dentro del período específico de acuerdo con las leyes y regulaciones aplicables, a menos que se requiera lo contrario. Dado que App Vault proporciona sus servicios en función de la recopilación de la información personal necesaria, la retirada de su consentimiento se considerará como una negativa a aceptar los servicios de App Vault. ¿Retirar el consentimiento ahora?"</string>
+    <string name="app_pa_setting_retract_dialog_negative">Retirar</string>
+    <string name="app_pa_setting_retract_error">"No se pudo conectar a la red. Verifique la configuración de su red y vuelva a intentarlo."</string>
+    <string name="app_pa_setting_retract_error_message">Se produjo un error del servidor. Espera uno o dos minutos e inténtalo de nuevo.</string>
+    <string name="app_pa_setting_retract_error_title">"No se pudo retirar el consentimiento"</string>
+    <string name="app_pa_setting_retract_no_net_message">Su dispositivo debe conectarse a la red para que pueda retirar el consentimiento. Verifique la configuración de su red y vuelva a intentarlo.</string>
+    <string name="app_pa_setting_retract_no_net_title">"No se pudo conectar a la red"</string>
+    <string name="app_pa_setting_retract_positive">Entendido</string>
+    <string name="app_pa_setting_retract_sec_left">Retirar (%ds)</string>
+    <string name="app_pa_setting_retract_summary">Retirar el consentimiento a la Política de Privacidad de App Vault</string>
+    <string name="app_pa_setting_retract_title">Retiro del consentimiento y cancelación del servicio</string>
     <string name="app_pa_setting_service_airstar_summary">Ver información financiera, de crédito y de seguro</string>
     <string name="app_pa_setting_service_commute">Conmutar</string>
     <string name="app_pa_setting_service_commute_summary">Para la construcción de rutas de navegación y prestación de servicios de transporte de vehículos</string>
@@ -363,9 +389,11 @@ También puede realizar un seguimiento de la entrega urgente en los sitios web o
     <string name="app_pa_setting_service_surrounding_summary">Descubra lugares interesantes cercanos</string>
     <string name="app_pa_setting_service_timetable">Horario de clases</string>
     <string name="app_pa_setting_service_timetable_summary">Toca para programar clases</string>
+    <string name="app_pa_setting_service_title">Servicios</string>
     <string name="app_pa_setting_service_wufu">"Las cinco bendiciones de Alipay"</string>
     <string name="app_pa_setting_service_wufu_summry">Reúna sus bendiciones usando el escáner AR</string>
     <string name="app_pa_setting_title">Ajustes</string>
+    <string name="app_pa_setting_tripartite">Acerca de compartir datos con terceros</string>
     <string name="app_pa_setting_version">Versión: %1$s</string>
     <string name="app_paycode_parent">Alipay</string>
     <string name="app_screen_time_auth">Horas de pantalla</string>
@@ -674,7 +702,7 @@ También puede realizar un seguimiento de la entrega urgente en los sitios web o
     <string name="cta_desc">Todas las funciones importantes en un solo lugar</string>
     <string name="cta_dialog_all_purpose">¡Bienvenido a App Vault! Esta aplicación es un lugar único para servicios relacionados con el trabajo, el estilo de vida y los viajes.</string>
     <string name="cta_dialog_desc_calendar">Para mostrar eventos del calendario y viajes planificados</string>
-    <string name="cta_dialog_desc_location">Para calcular la duración de su viaje diario</string>
+    <string name="cta_dialog_desc_location">App vault necesita acceder a su ubicación para crear rutas de navegación y proporcionar servicios de transporte de vehículos. La información de su ubicación se puede compartir con Amap, Baidu y DiDi.</string>
     <string name="cta_dialog_desc_phone_state">Para identificar su dispositivo mediante IMEI</string>
     <string name="cta_dialog_desc_storage">Para guardar elementos en su dispositivo</string>
     <string name="cta_dialog_miot_text_all">Para asegurarse de que pueda funcionar normalmente, es posible que Mi Home necesite adquirir su red, ubicación, la autorización para encender su Bluetooth, usar su red celular, micrófono y leer sus contactos. ¿Confirmas?</string>
@@ -688,7 +716,16 @@ También puede realizar un seguimiento de la entrega urgente en los sitios web o
     <string name="cta_not_now">Ahora no</string>
     <string name="cta_old_not_use">Ahora no</string>
     <string name="cta_old_start">Comenzar</string>
+    <string name="cta_policy_change_dialog_agree">Aceptar</string>
+    <string name="cta_policy_change_dialog_exit">Salir</string>
+    <string name="cta_policy_change_dialog_message" formatted="false">"Se actualizó la política de privacidad de App Vault:
+%s
+Lea y acepte la nueva versión de %s antes de continuar."</string>
+    <string name="cta_policy_change_dialog_title">Política de privacidad actualizada</string>
     <string name="cta_positive">Detalles</string>
+    <string name="cta_privacy_policy">Política de privacidad</string>
+    <string name="cta_refuse_policy_dialog_message">"No podrá seguir usando App Vault a menos que acepte la nueva versión de su %s. ¿Está de acuerdo con la Política de privacidad actualizada ahora?"</string>
+    <string name="cta_refuse_policy_dialog_title">Atención</string>
     <string name="cta_start">Comenzar</string>
     <string name="cta_text5">El servicio también requiere conexión a Internet y acceso a los servicios de ubicación. ¿Aceptar?</string>
     <string name="cta_title">Bienvenido a
@@ -1267,6 +1304,8 @@ Bóveda de aplicaciones</string>
     <string name="miuishare_title_more">Más</string>
     <string name="miuishare_title_share">Compartir</string>
     <string name="miuishare_wechat_timeline_title">Wechat Timeline</string>
+    <string name="miuix_access_state_desc">Seleccionado</string>
+    <string name="miuix_alphabet_indexer_name">Barra de índice</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleccionar todo</string>
     <string name="miuix_appcompat_action_mode_title_empty">Seleccionar elementos</string>
@@ -1281,6 +1320,7 @@ Bóveda de aplicaciones</string>
     <string name="miuix_appcompat_select_all">Seleccionar todo</string>
     <string name="miuix_appcompat_select_all_description">Seleccionar todo</string>
     <string name="miuix_appcompat_select_item">Seleccionar elementos</string>
+    <string name="miuix_indexer_selected">Seleccionado %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Desliza hacia abajo para actualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado correctamente</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualizando...</string>

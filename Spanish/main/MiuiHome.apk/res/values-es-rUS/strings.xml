@@ -422,6 +422,7 @@
     <string name="menu_launcher_setting">Ajustes del launcher</string>
     <string name="menu_lock">Fijar diseño de la pantalla de inicio</string>
     <string name="menu_more">Más</string>
+    <string name="menu_no_word">"No mostrar texto"</string>
     <string name="menu_picktheme">Seleccionar un tema</string>
     <string name="menu_reset_scene">Restablecer diseño por defecto</string>
     <string name="menu_search">Buscar</string>
@@ -626,6 +627,10 @@
     <string name="recents_title_market">Encontrar aplicaciones</string>
     <string name="recents_title_security_scan">Análisis de seguridad</string>
     <string name="recents_tv_small_window_text">Ventanas flotantes</string>
+    <string name="recents_worldcirculate_text">Suelte para seleccionar</string>
+    <string name="recnets_worldcirculate_display_computer_info">La aplicación está funcionando en %s.</string>
+    <string name="recnets_worldcirculate_display_default_info">Toque para traerlo de vuelta aquí.</string>
+    <string name="recnets_worldcirculate_display_pad_info">La aplicación está funcionando en %s.</string>
     <string name="recommend_apk_size_and_desc">%1$d MB | %2$s</string>
     <string name="recommend_app">Sugerencias de aplicaciones</string>
     <string name="recommend_apps_default_title">Vacío</string>

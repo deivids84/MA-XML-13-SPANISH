@@ -27,6 +27,10 @@
     <string name="abc_shareactionprovider_share_with">Compartir con</string>
     <string name="abc_shareactionprovider_share_with_application">Compartir con %s</string>
     <string name="abc_toolbar_collapse_description">Contraer</string>
+    <string name="accept_all_permission_content">Es posible que encontrar dispositivo no funcione correctamente sin permisos. Seleccione todos los permisos enumerados para poder utilizar todas las funciones de Buscar dispositivo.</string>
+    <string name="accept_all_permission_title">Permisos requeridos</string>
+    <string name="accept_all_positive">Seleccione</string>
+    <string name="accept_use_permissions">Otorgar</string>
     <string name="access_denied">Acceso denegado</string>
     <string name="account_related">Su dispositivo ya está asociado a una Cuenta Mi (%s). Conéctese a la red para verificar el dispositivo.</string>
     <string name="actionbar_button_up_description">Atrás</string>
@@ -152,6 +156,8 @@
     <string name="find_device_dspt_provision">Si pierde su dispositivo, puede entrar en &lt;font color=#0097FF&gt;%s&lt;/font&gt; para localizarlo, bloquearlo o restablecerlo. Puede activar o desactivar esta función en cualquier momento desde Ajustes.</string>
     <string name="find_device_gdpr_prompt">\"Al activar Buscar dispositivo, acepta nuestra\"<a href="app://com.miui.cloudservice.gdpr.license"><u>Política de privacidad</u></a>. Desactive esta función si desea retirar su consentimiento.</string>
     <string name="find_device_operation_failure_rpc">"No se pudo realizar la acción debido a un error RPC."</string>
+    <string name="find_device_permissions_footer">"Toque \"Otorgar\" para otorgar los permisos que ha seleccionado."</string>
+    <string name="find_device_permissions_header">"¡Bienvenido a Encontrar dispositivo! Puede utilizar esta aplicación para localizar, rastrear y bloquear su dispositivo cuando esté ausente. Encontrar dispositivo requiere los siguientes permisos:"</string>
     <string name="find_device_privacy_policy_update_msg">Se actualizó la Política de privacidad de Buscar dispositivo:&lt;br/&gt;%1$s&lt;br/&gt;Lea y acepte la nueva versión de &lt;a href=%2$s&gt;&lt;u&gt;Política de privacidad&lt;/u&gt;&lt;/a&gt; antes de continuar.</string>
     <string name="find_device_send_sms_alert">Si cambia de tarjeta SIM, se enviará automáticamente una otra SMS para reactivar esta función.</string>
     <string name="find_device_service_title">Encontrar dispositivo</string>
@@ -678,6 +684,8 @@ Es posible que la información de ubicación no se informe cuando la conexión d
     <string name="retain_data_high_quality_photo_waring_message">Las copias de alta calidad de sus fotos y videos se eliminarán de la Galería después de cerrar la sesión. Los archivos originales correspondientes aún se almacenarán en la nube. También puede descargar archivos originales antes de cerrar sesión.</string>
     <string name="retain_data_high_quality_photo_waring_title">"Las imágenes de alta calidad no estarán disponibles"</string>
     <string name="revoke_block_by_find_device">"Retirar el consentimiento también desactivará Buscar dispositivo. Deberá verificar su contraseña después de continuar."</string>
+    <string name="revoke_permission_content">"Si retira los permisos no podrá seguir utilizando Encontrar dispositivo. Encontrar dispositivo también se desactivará. Se le pedirá que verifique su contraseña antes de retirarla."</string>
+    <string name="revoke_permission_title">Atención</string>
     <string name="revoke_privacy_agreement_msg">"Si continúa, retirará su consentimiento a la Política de privacidad de Xiaomi Cloud. La información personal ya recopilada y retenida se eliminará dentro del período específico de acuerdo con las leyes y regulaciones aplicables a menos que se requiera lo contrario. Dado que Xiaomi Cloud proporciona sus servicios en función de la recopilación de la información personal necesaria, su retirada de consentimiento se considerará como una negativa a aceptar los servicios de Xiaomi Cloud. ¿Retirar el consentimiento ahora?"</string>
     <string name="revoke_privacy_confirm">Retirar</string>
     <string name="revoke_privacy_content">"Si continúa, retirará su consentimiento a la &lt;a href=app://com.miui.cloudservice.gdpr.license&gt;Política de privacidad&lt;/a&gt; de Buscar dispositivo. La información personal ya recopilada y retenida se eliminará dentro del período específico de acuerdo con las leyes y regulaciones aplicables a menos que se requiera lo contrario. Dado que Find device proporciona sus servicios en función de la recopilación de la información personal necesaria, su retirada de consentimiento se considerará como una negativa a aceptar los servicios de Find device. ¿Retirar el consentimiento ahora?"</string>

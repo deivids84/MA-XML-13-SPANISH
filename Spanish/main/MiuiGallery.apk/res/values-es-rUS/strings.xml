@@ -1142,6 +1142,7 @@ disponibles"</string>
     <string name="input_or_select_a_name">Introduzca o seleccione un nombre</string>
     <string name="input_relation_name">Introducir nombre del grupo</string>
     <string name="install_fail">"No se pudo cargar complemento por un error."</string>
+    <string name="install_media_editor_function_message">Descarga la última versión de Gallery Editor para poder usar \"%1$s\".</string>
     <string name="install_media_editor_latest_message">Para poder editar elementos, primero descargue el último complemento.</string>
     <string name="install_media_editor_message">Para poder editar elementos, primero descargue el complemento. ¿Descargar ahora?</string>
     <string name="install_media_editor_title">Descargar complemento</string>

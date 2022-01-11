@@ -382,6 +382,7 @@
     <string name="no_share_file_content">El archivo seleccionado ya ha sido eliminado</string>
     <string name="no_share_files">"No se puede compartir archivos que ya han sido eliminados"</string>
     <string name="no_share_files_content">"Algunos de los archivos que está tratando compartir ya se eliminaron. Los otros archivos se compartieron con éxito."</string>
+    <string name="no_support_modify_path">"No se puede cambiar la ubicación de los elementos descargados por motivos de seguridad"</string>
     <string name="no_vip_info">Obtenga la membresía de Xunlei para acelerar las descargas</string>
     <string name="no_vip_show_info">"Acelera las descargas
 en todos tus dispositivos con Xunlei"</string>

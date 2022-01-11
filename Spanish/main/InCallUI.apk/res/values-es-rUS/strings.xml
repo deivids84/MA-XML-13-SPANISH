@@ -413,7 +413,8 @@
     <string name="user_locked_prompt">Desbloquee el dispositivo para acceder a Contactos.</string>
     <string name="video_call_downgrade_insufficient_bandwidth">Ancho de banda insuficiente, cambiando a llamada de voz</string>
     <string name="video_conference_caller_info_name">"Llamada de conferencia de %1$s"</string>
-    <string name="video_crbt_title">"El video de tono de espera de la otra parte se está reproduciendo"</string>
+    <string name="video_crbt_title">Reproduciendo vídeo de perfil…</string>
+    <string name="voice_control_deny_permission_msg">"No pueden usar los controles de voz ahora. Permita que esta aplicación grabe audio primero."</string>
     <string name="voicemail">Buzón de Voz</string>
     <string name="volte_call">Llamada VoLTE</string>
     <string name="volume_boost_text">Volumen aumentado con éxito</string>

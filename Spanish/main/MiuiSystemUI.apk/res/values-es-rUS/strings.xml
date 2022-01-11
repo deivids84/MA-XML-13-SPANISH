@@ -163,7 +163,7 @@
     <string name="accessibility_keyguard_face_unlock_view">Desbloqueo facial</string>
     <string name="accessibility_left_control_center_button">Acceso directo</string>
     <string name="accessibility_left_lock_screen_magazine_button">Carrusel de fondos de pantalla</string>
-    <string name="accessibility_left_xmyzl_button">Conexión rápida Xiaomi</string>
+    <string name="accessibility_left_xmyzl_button">Control Mágico de Xiaomi</string>
     <string name="accessibility_location_active">Solicitudes de ubicación activas</string>
     <string name="accessibility_lock_icon">Dispositivo bloqueado</string>
     <string name="accessibility_long_click_tile">Abrir configuración</string>
@@ -1064,6 +1064,7 @@ Una vez que se haya enfriado, volverá a funcionar correctamente."</string>
     <string name="input_pin_after_boot_msg">Se requiere ingresar su PIN cuando el dispositivo se reinicia</string>
     <string name="input_pin_code">Ingrese el PIN</string>
     <string name="input_puk_code">Ingrese el PUk</string>
+    <string name="input_second_pattern_after_restart_msg">Confirme la contraseña del segundo espacio para continuar</string>
     <string name="install_other_apps">Instalar aplicaciones desconocidas</string>
     <string name="installer_cd_button_title">Instalar la aplic. Android File Transfer para Mac</string>
     <string name="instant_apps">Apps instantáneas</string>
@@ -1412,6 +1413,7 @@ dd/MM"</string>
     <string name="miui_notification_menu_snooze">Dormitar</string>
     <string name="miui_notification_menu_title_not_allow">Restringir</string>
     <string name="miui_notification_menu_unfold">Marcar como importante</string>
+    <string name="miui_quick_settings_tiles_stock_pad">vowifi1,vowifi2,cell,wifi,rotation,airplane,mute,screenshot,bt,autobrightness,screenlock,night,papermode,quietmode,batterysaver,extremebatterysaver,gps,flashlight,scanner,powermode,freeformhang,vibrate,hotspot,sync,screenbutton,wirelesspower,nfc,dolbyatomssound,pcmode,edit ,drivemode,workmode</string>
     <string name="miui_screen_rotation_freeze_message">Orientación de la pantalla bloqueada en el modo horizontal</string>
     <string name="miui_snooze_always_float">"No ocultar"</string>
     <string name="miui_snooze_cancel">Cancelar</string>
@@ -1957,6 +1959,8 @@ Si tiene preguntas, comuníquese con %2$s."</string>
     <string name="quick_settings_financed_disclosure_named_management">Este dispositivo es proporcionado por %s</string>
     <string name="quick_settings_flashlight_camera_in_use">Cámara en uso</string>
     <string name="quick_settings_flashlight_label">Linterna</string>
+    <string name="quick_settings_googlehome_label">Google Home</string>
+    <string name="quick_settings_googlepay_label">Google Pay</string>
     <string name="quick_settings_header_onboarding_text">Mantén presionados los íconos para ver más opciones</string>
     <string name="quick_settings_hotspot_label">Punto de acceso</string>
     <string name="quick_settings_hotspot_secondary_label_data_saver_enabled">Ahorro de datos act.</string>

@@ -22,7 +22,7 @@
     <string name="HIPS_Perm_get_accounts_Desc">Acceder a todas las cuentas almacenados en el dispositivo</string>
     <string name="HIPS_Perm_process_nfc_Desc">Usar NFC</string>
     <string name="HIPS_Perm_tencentControl">Acceder a mensajes en aplicaciones de redes sociales</string>
-    <string name="HIPS_Perm_tencentControl_Desc">Permitir que esta aplicación acceda a sus mensajes de WeChat y QQ</string>
+    <string name="HIPS_Perm_tencentControl_Desc">Acceda a imágenes y archivos guardados desde WeChat y QQ</string>
     <string name="HIPS_Perm_use_sip_Desc">Usar el Protocolo de Inicio de Sesión para transmitir el video</string>
     <string name="Phonepass">Permitir llamadas</string>
     <string name="SMS_and_MMS">SMS y MMS</string>
@@ -899,12 +899,26 @@ No perderá ningún dato de aplicación."</string>
     <string name="battery_temperature_title">Temperatura</string>
     <string name="beauty_fc_assistant">Asistente de cámara frontal</string>
     <string name="beauty_fc_assistant_summary">Use la luz de relleno y embellezca con la cámara frontal</string>
+    <string name="beauty_fc_assistant_summary_new">Mostrar las opciones de belleza y llenado de luz mientras se utiliza la cámara frontal</string>
     <string name="beauty_fc_fill_lamp">Luz de relleno</string>
+    <string name="beauty_fc_fill_lamp_new">Luz de relleno delantera</string>
     <string name="beauty_fc_light">Rellena el brillo de la luz</string>
     <string name="beauty_fc_video_call">Embellecer para videollamadas</string>
     <string name="beauty_fc_video_call_summary">Mostrar opciones de Embellecimiento durante las videollamadas de WeChat</string>
     <string name="beauty_fun_filter">Embellecer</string>
+    <string name="beauty_fun_front_light">Luz de relleno frontal</string>
     <string name="beauty_fun_light">Luz de relleno</string>
+    <string name="beauty_fun_privacy">Cámara de privacidad</string>
+    <string name="beauty_fun_privacy_dialog_message">Cuando use la cámara para las funciones de reconocimiento facial, su rostro se detectará automáticamente y otras áreas capturadas se enmascararán.</string>
+    <string name="beauty_fun_privacy_dialog_tips">Esta función puede reducir la tasa de éxito del reconocimiento facial</string>
+    <string name="beauty_fun_privacy_ingnore">No, gracias</string>
+    <string name="beauty_fun_privacy_message">Detecta rostros y enmascara otras áreas capturadas cuando la cámara se usa con funciones de reconocimiento facial</string>
+    <string name="beauty_fun_privacy_open">Activar</string>
+    <string name="beauty_fun_privacy_open_tips">La cámara de privacidad está encendida</string>
+    <string name="beauty_fun_privacy_tips">La cámara de privacidad ahora se usará de forma predeterminada con funciones de reconocimiento facial compatibles</string>
+    <string name="beauty_fun_screen_light">Luz de relleno de pantalla</string>
+    <string name="beauty_fun_settings_light">Rellena el brillo de la luz</string>
+    <string name="beauty_fun_video_effect">Belleza para vídeo</string>
     <string name="beauty_settings">Ajustes</string>
     <string name="before_execute_notify">before_exclude_notify</string>
     <string name="begin_date">Fecha de reinicio de uso</string>
@@ -1051,7 +1065,7 @@ No perderá ningún dato de aplicación."</string>
     <string name="cetus_invisible_mode_warn_open">El modo de incógnito suspende los permisos relacionados con el micrófono, la cámara y la ubicación para todas las aplicaciones. ¿Encender ahora?</string>
     <string name="cetus_invisible_mode_warn_record_audio">"Está en incógnito. Los permisos de micrófono están suspendidos."</string>
     <string name="charge_high_temp_warning_dialog_ok">Entiendo</string>
-    <string name="charge_high_temp_warning_dialog_text">Parece que el puerto de carga está sobrecalentado ahora. Desconecte el cargador y deje que la batería se enfríe antes de comenzar a cargar de nuevo.</string>
+    <string name="charge_high_temp_warning_dialog_text">Parece que el puerto de carga está sobrecalentado ahora. Desconecte el cargador y deje que el puerto se enfríe antes de comenzar a cargar nuevamente.</string>
     <string name="charge_high_temp_warning_text">Desconecte el cargador y deje que la batería se enfríe</string>
     <string name="charge_high_temp_warning_title">El puerto de carga está demasiado caliente</string>
     <string name="charger_detect_button_ok">Entendido</string>
@@ -1086,6 +1100,9 @@ No perderá ningún dato de aplicación."</string>
     <string name="cmcc_app_check_dialog_title">Sistema reparado</string>
     <string name="commonly_used_func_card_title">Características comunes</string>
     <string name="commonly_used_func_edit_too_many_func">"No se pueden agregar más elementos"</string>
+    <string name="compatible_dialog_content">"Esta aplicación no es totalmente compatible con la arquitectura de 64 bits. Su uso puede reducir el rendimiento del sistema y aumentar el consumo de energía."</string>
+    <string name="compatible_dialog_more_info">Aprende más</string>
+    <string name="compatible_dialog_title">Atención</string>
     <string name="comprehensive_protection_measures">Protección integral</string>
     <string name="confirmSecondSpacePassword">Confirmar contraseña del segundo espacio</string>
     <string name="confirm_allow_all_permission">Allow all apps from using this feature?</string>
@@ -1204,7 +1221,6 @@ Su operador podría cobrarle cargos adicionales si vuelve a activar los datos m�
     <string name="descx_quick_scan_preparation">Un momento…</string>
     <string name="detail_app_button">Info de la aplicación</string>
     <string name="details_subtitle">Detalles de uso</string>
-    <string name="dev_sign_notification_content">"Estás usando Android 12 Beta ahora. Los comentarios que nos brinde nos ayudarán a identificar y solucionar problemas. ¡Gracias por participar en este programa!"</string>
     <string name="device_manager_apply_step_1">¿Activar el administrador de dispositivos para esta aplicación?</string>
     <string name="device_manager_apply_step_2">"Activar el administrador de dispositivo para esta aplicación podría provocar la exposición de sus datos personales.
 Todos los datos en su dispositivo podrían ser borrados y su contraseña de bloqueo de pantalla restaurada."</string>
@@ -2134,9 +2150,11 @@ de sus sesiones de juego"</string>
     <string name="gtb_guide_gtb_line_new">¡Mejora tu juego con el nuevo Game Turbo!</string>
     <string name="gtb_guide_small_window_app_desc">"Usa otras aplicaciones mientras juegas"</string>
     <string name="gtb_guide_small_window_app_title">Ventanas flotantes</string>
+    <string name="gtb_setting_item_summary_disable_ndds_sim">Bloquee todos los servicios de comunicación en la SIM secundaria durante las sesiones de juego para mantener la conexión estable y evitar cambiar entre redes. La SIM secundaria se desbloqueará cuando dejes de jugar.</string>
     <string name="gtb_setting_item_summary_smart_5g">Cada vez que Game Turbo detecta una red 5G, puede conectar su dispositivo a la mejor red disponible para reducir el retraso de red</string>
     <string name="gtb_setting_item_summary_smart_wlan_speed" formatted="false">Aumente la velocidad de conexión en un 10%-20% cuando esté conectado a routers Mi/Redmi</string>
     <string name="gtb_setting_item_title_brightness">Bajar brillo de la pantalla automáticamente</string>
+    <string name="gtb_setting_item_title_disable_ndds_sim">Bloquear SIM secundaria</string>
     <string name="gtb_setting_item_title_smart_5g">Optimización de redes 5G</string>
     <string name="gtb_setting_item_title_smart_wlan_speed">Aumento de velocidad de Mi WiFi</string>
     <string name="gtb_spring_festival_back_game">Volver al juego</string>
@@ -3007,7 +3025,7 @@ Intente usar otro cable Ethernet para conectar el router. Si sospecha que hay un
     <string name="permission_instruction_send_mms">This permission allows apps to send multimedia messages, which may generate additional fees. Malicious apps might use this permission to send paid messages without your consent.</string>
     <string name="permission_instruction_send_payment_sms">This permission allows apps to send paid text messages.</string>
     <string name="permission_instruction_send_sms">This permission allows apps to send text messages, which may generate additional fees. Malicious apps might use this permission to send paid messages without your consent.</string>
-    <string name="permission_instruction_show_locked">This permission allows apps to display items on your Lock screen. Malicious apps might use this permission to show you annoying ads.</string>
+    <string name="permission_instruction_show_locked">Este permiso permite que las aplicaciones muestren elementos en su pantalla de bloqueo. Las aplicaciones maliciosas pueden usar este permiso para mostrar anuncios.</string>
     <string name="permission_instruction_sociality">"Para proteger su privacidad, MIUI le permite decidir si permite que las aplicaciones que tienen permisos de almacenamiento accedan a sus mensajes en las aplicaciones de redes sociales."</string>
     <string name="permission_instruction_storage">"Para proteger su privacidad, MIUI le permite decidir si permite que las aplicaciones que tienen permisos de almacenamiento accedan a la Galería y sus mensajes en las aplicaciones de redes sociales."</string>
     <string name="permission_instruction_touch_pay">This permission allows apps to perform contactless payments.</string>
@@ -3136,6 +3154,24 @@ Intente usar otro cable Ethernet para conectar el router. Si sospecha que hay un
     <string name="power_center_scan_item_title_power_saver">Activar Ahorro de batería</string>
     <string name="power_center_scan_item_title_running_app">Aplicaciones ejecutándose en segundo plano</string>
     <string name="power_center_scan_result_safe">No se encontraron problemas con la batería</string>
+    <string name="power_center_speed_mode_dialog_text">El modo de velocidad aumenta el rendimiento de su dispositivo al aumentar el consumo de energía y permitir que se caliente. Evite el uso del modo Velocidad durante períodos prolongados.</string>
+    <string name="power_center_speed_mode_dialog_title">Modo velocidad</string>
+    <string name="power_center_speed_mode_dialog_warning">El modo velocidad se desactivará automáticamente cuando la batería baje de %s.</string>
+    <string name="power_center_speed_mode_enter_noti_btn_text">Desactivar</string>
+    <string name="power_center_speed_mode_enter_noti_summary">Tu dispositivo se calentará y consumirá más energía</string>
+    <string name="power_center_speed_mode_enter_noti_title">Cambiado al modo Velocidad</string>
+    <string name="power_center_speed_mode_exit_noti_summary">Queda menos de %s de batería</string>
+    <string name="power_center_speed_mode_exit_noti_title">Modo velocidad desactivado</string>
+    <string name="power_center_speed_mode_negative_btn_text">Cancelar</string>
+    <string name="power_center_speed_mode_positive_btn_text">Activar</string>
+    <string name="power_center_speed_mode_positive_btn_text_count">Activar (%ds)</string>
+    <string name="power_center_speed_mode_progress_free_game_limit">Mejorar el rendimiento de los gráficos</string>
+    <string name="power_center_speed_mode_progress_free_processor_performance">Aumenta el rendimiento de la CPU</string>
+    <string name="power_center_speed_mode_progress_max_refresh_rate">Aumentar la frecuencia de actualización de la pantalla</string>
+    <string name="power_center_speed_mode_summary">Priorice el rendimiento sobre el consumo de energía y el control de temperatura</string>
+    <string name="power_center_speed_mode_title">Modo velocidad</string>
+    <string name="power_center_speed_mode_toast_open_fail">"No se puede cambiar al modo velocidad cuando la batería tiene menos de %s"</string>
+    <string name="power_center_speed_mode_toast_text">Cambiado al modo velocidad</string>
     <string name="power_center_state_off">Desactivado</string>
     <string name="power_center_state_on">Activado</string>
     <string name="power_center_stop_scan_title">Detener el escaneo</string>
@@ -3554,6 +3590,7 @@ Intente usar otro cable Ethernet para conectar el router. Si sospecha que hay un
     <string name="privacy_input_model_guide_choose">Descargar entrada de voz sin conexión</string>
     <string name="privacy_input_model_guide_text">"Esta función protege su privacidad mientras ingresa texto. Cuando esta función está activada, algunas de las funciones basadas en la red (por ejemplo, opciones de personalización, emoji, escritura predictiva) no estarán disponibles."</string>
     <string name="privacy_input_model_tips">"La entrada segura está activada. Su teclado no puede mostrar ventanas emergentes ni acceder a contactos, información de ubicación e historial de llamadas."</string>
+    <string name="privacy_lab_empty">Todavía no hay características aquí</string>
     <string name="privacy_location_info_summary">Administrar acceso a su ubicación</string>
     <string name="privacy_location_info_title">Información de ubicación</string>
     <string name="privacy_look_all_permission_status">Todos los permisos</string>
@@ -5280,9 +5317,6 @@ Activar una de las funciones desactivará la otra."</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Actualizar</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Hay disponible una actualización</string>
     <string name="xiaomi_privacy_protection_measures">Medidas de protección de la privacidad</string>
-    <string name="xspace_warning_dialog_button">Entendido</string>
-    <string name="xspace_warning_dialog_message">Debido a las restricciones introducidas en Android %d, todas las aplicaciones duales solo podrán acceder a las fotos y videos generados y guardados dentro de la aplicación dual correspondiente.</string>
-    <string name="xspace_warning_dialog_title">Atención</string>
     <string name="xunyou_net_booster">Aumento de velocidad de la red</string>
     <string name="xunyou_net_booster_detail">Usar los servicios de aumento de velocidad Xunyou para juegos</string>
     <string name="xunyou_pay_webview">Servicios Xunyou</string>

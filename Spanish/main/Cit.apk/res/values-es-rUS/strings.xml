@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="AudioOnOff">\u0009Audio On/Off</string>
+    <string name="AudioStatus">\u0009\u0009AudioStatus</string>
+    <string name="CloudControl">CloudControl</string>
+    <string name="CurrentDsi">\u0009\u0009CurrentDsi</string>
+    <string name="GPIO_Status">\u0009\u0009GPIO_Status</string>
+    <string name="HotspotStatus">\u0009\u0009HotspotStatus</string>
+    <string name="SAR">SAR</string>
+    <string name="SAROnOff">\u0009SAR On/Off</string>
+    <string name="Sensor1_Status">\u0009\u0009Sensor1_Status</string>
+    <string name="Sensor2_Status">\u0009\u0009Sensor2_Status</string>
+    <string name="SetDsi">\u0009SetDsi</string>
     <string name="abc_action_bar_home_description">Navegar a la página principal</string>
     <string name="abc_action_bar_up_description">Navegar hacia arriba</string>
     <string name="abc_action_menu_overflow_description">Más opciones</string>
@@ -44,6 +55,8 @@ Sostenga el dispositivo como si estuviera haciendo una llamada, hable al micróf
     <string name="cit_charger_test_tips_pd">El dispositivo actual necesita probar USB_PD</string>
     <string name="cit_cust_img_version">Consultar información de la versión de CUST</string>
     <string name="cit_dial_emergencycall">Marque 112</string>
+    <string name="cit_digital_hall_sensor_check_summary">Valor de ángulo que se muestra a continuación</string>
+    <string name="cit_digital_hall_sensor_check_title">Prueba de Digital Hall</string>
     <string name="cit_emergencycall_check_summary">Haga clic en el botón Marcar 112 para marcar el 112 y comprobar si se puede colocar el 112.</string>
     <string name="cit_emergencycall_check_title">Llamada de emergencia</string>
     <string name="cit_front_camera_motor_cali_fail">Falló la calibración del motor</string>
@@ -63,6 +76,10 @@ Al calibrar, asegúrate de que no hay nada entre el sensor y tu mano (por ejempl
     <string name="cit_reverse_wireless_charge_check_tips">Por favor, ponga el dispositivo a cargar según sea necesario y empiece a probar</string>
     <string name="cit_tool_modem_mbn_opt_fail_notfiy">opt falló, reinicie el dispositivo para reintentarlo</string>
     <string name="cit_tool_opt_fail_info_notify">Opt falló, necesita reiniciar el dispositivo para el modo no online.</string>
+    <string name="cit_touch_auto_main_tips">Autoprueba de la pantalla de inicio en curso, no toque la pantalla</string>
+    <string name="cit_touch_auto_operate_expand_screen_tips">Primero expanda la pantalla y luego realice la autocomprobación de la pantalla principal</string>
+    <string name="cit_touch_auto_operate_fold_screen_tips">Primero doble la pantalla y luego realice la autocomprobación de la pantalla secundaria</string>
+    <string name="cit_touch_auto_vice_tips">Autoprueba de la pantalla secundaria en curso, no toque la pantalla</string>
     <string name="cit_touch_fw_mode">Modo FW</string>
     <string name="cit_touch_thp_mode">Modo THP</string>
     <string name="cit_touch_work_mode_test_help">"Instrucciones de funcionamiento 
@@ -79,6 +96,17 @@ haga clic en el botón para cambiar el modo táctil al modo THP o al modo FW"</s
     <string name="cit_uwb_calibrate_title">Prueba de calibración UWB</string>
     <string name="cit_wifi_address_check_summary">A continuación se muestra la dirección de la red Wi-Fi a la que el dispositivo está conectado actualmente. Confirme que la información resaltada en verde es correcta.</string>
     <string name="close_third_color_led">cerrar led de tres colores</string>
+    <string name="edittextdisplay">"
+\u0009\u0009\u0009Welcome to sar tool ! 
+\u0009\u0009\u0009All permissions have been turned on 
+ 
+\u0009\u0009\u0009sar switch is off, please turn it on manually 
+\u0009\u0009\u0009sar locked, please set DSI value"</string>
+    <string name="edittextdisplayf">"
+\u0009\u0009\u0009Permissions have been limited 
+
+\u0009\u0009Make sure to pass in the xml file in the internal \u0009\u0009\u0009network and in the response path: 
+\u0009\u0009/sdcard/debug/UrlSign.xml"</string>
     <string name="fod_check_start_error">"No se puede iniciar el programa de verificación del sensor
 Prueba fallida!"</string>
     <string name="fod_check_summary">"Instrucciones de prueba:

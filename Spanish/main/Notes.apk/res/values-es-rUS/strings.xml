@@ -412,6 +412,8 @@
     <string name="miui_plus_app_state_description_view_note">Ver nota</string>
     <string name="miui_plus_app_state_description_view_todo">Ver tarea</string>
     <string name="miui_plus_relay_waring_data_not_find">"No se pudo encontrar el elemento que estás viendo en otro dispositivo. Asegúrese de que todos los elementos estén sincronizados."</string>
+    <string name="miuix_access_state_desc">Seleccionado</string>
+    <string name="miuix_alphabet_indexer_name">Barra de índice</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deseleccionar</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleccionar todo</string>
     <string name="miuix_appcompat_action_mode_title_empty">Seleccionar elementos</string>
@@ -429,6 +431,8 @@
     <string name="miuix_appcompat_select_all">Seleccionar todo</string>
     <string name="miuix_appcompat_select_all_description">Seleccionar todo</string>
     <string name="miuix_appcompat_select_item">Seleccionar elementos</string>
+    <string name="miuix_indexer_collect">Colecciones</string>
+    <string name="miuix_indexer_selected">Seleccionado %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Deslice hacia abajo para actualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado con éxito</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualizando…</string>
@@ -596,7 +600,7 @@
     <string name="pc_todo_fast_create_hint">Ingrese texto y presione \"Enter\" para agregar una tarea sin terminar</string>
     <string name="pc_todo_set_remind_time_hint">Definir hora</string>
     <string name="permdesc_accessNote">Aplicaciones maliciosas podrían utilizar esto para acceder a sus datos personales.</string>
-    <string name="permission_data_shared_desc">Notas de la Declaración de Compartir Datos de Terceros</string>
+    <string name="permission_data_shared_desc">Notas Declaración de intercambio de datos de terceros</string>
     <string name="permission_get_account_desc">Sincronizar notas con la nube</string>
     <string name="permission_intro_contact">Para marcar notas tomadas durante llamadas</string>
     <string name="permission_intro_microphone">Para grabar notas de voz</string>

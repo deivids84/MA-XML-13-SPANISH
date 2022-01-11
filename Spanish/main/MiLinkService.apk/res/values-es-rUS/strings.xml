@@ -46,6 +46,7 @@
     <string name="console_guide_subtitle_private">"No mostrar notificaciones flotantes, llamadas entrantes y otros elementos privados en monitores externos"</string>
     <string name="console_guide_subtitle_small_window">"Minimice la ventana que está siendo emitida para usar otras funciones en su teléfono"</string>
     <string name="copy">Copiar</string>
+    <string name="current_wifi_tv">Red actual</string>
     <string name="date_picker_lunar">Calendario chino tradicional</string>
     <string name="date_time_picker_dialog_title">Ajustar fecha y hora</string>
     <string name="device_desc_trust">Dispositivos de confianza</string>
@@ -279,6 +280,9 @@ Si necesita activar Miracast, presione el botón [MENU] y seleccione Mis aplicac
     <string name="notification_rc_title">Asistente de TV de Xiaomi</string>
     <string name="notification_show_more">Toque para ver más funciones</string>
     <string name="notify">La transmisión está funcionando en segundo plano</string>
+    <string name="notify_wifiap_dialog_msg">Para escanear el código y configurar la red, primero apague el punto de acceso portátil.</string>
+    <string name="notify_wifiap_dialog_negative">Entendido</string>
+    <string name="notify_wifiap_dialog_title">Configurar red</string>
     <string name="open_game_accelerate">Activar Game Turbo</string>
     <string name="p2p_location_des">Para conectar su dispositivo móvil a monitores externos</string>
     <string name="paipai_connect_btn_text">Listo</string>
@@ -461,9 +465,9 @@ Lea y acepte nuestro &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &
     <string name="wednesday_shortest">Mie</string>
     <string name="wifi_connect_btn_text">Configurar</string>
     <string name="wifi_other">Otras redes</string>
-    <string name="wifi_passwd_et_hint">Introducir la contraseña</string>
+    <string name="wifi_passwd_et_hint">Contraseña</string>
     <string name="wifi_recommendation">Seleccione %1$d GHz para una mejor experiencia de transmisión</string>
     <string name="wifi_scan_btn_text">Escanear de nuevo</string>
-    <string name="wifi_username_et_hint">Ingrese el ID de la cuenta</string>
+    <string name="wifi_username_et_hint">ID de la cuenta</string>
     <string name="yesterday">Ayer</string>
 </resources>
