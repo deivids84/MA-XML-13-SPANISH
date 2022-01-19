@@ -298,6 +298,15 @@
     <string name="eras_ad">d.C</string>
     <string name="eras_bc">a.C</string>
     <string name="evening">PM</string>
+    <string name="exo_download_completed">Descarga completada</string>
+    <string name="exo_download_description">Descargar</string>
+    <string name="exo_download_downloading">Descargando</string>
+    <string name="exo_download_failed">Descarga fallida</string>
+    <string name="exo_download_notification_channel_name">Descargas</string>
+    <string name="exo_download_paused">Descargas pausadas</string>
+    <string name="exo_download_paused_for_network">Descargas en espera de red</string>
+    <string name="exo_download_paused_for_wifi">Descargas en espera de WiFi</string>
+    <string name="exo_download_removing">Eliminando descargas</string>
     <string name="expand_button_title">Opciones avanzadas</string>
     <string name="facebook_clean_exit_confirm_cancel">Continuar análisis</string>
     <string name="facebook_clean_exit_confirm_msg">"No se ha terminado el análisis de Facebook. ¿Detener?"</string>
@@ -1001,6 +1010,7 @@
     <string name="white_list_large_file_header">Archivos y videos grandes: %d</string>
     <string name="white_list_residual_header">Residuales: %d</string>
     <string name="white_list_title">Excepciones</string>
+    <string name="widget_cleaner_size_unit">MB</string>
     <string name="wqfile_group_chat_file">Archivos enviados en mensajeros</string>
     <string name="wqfile_group_chat_pic">Imágenes de mensajeros</string>
     <string name="wqfile_group_chat_video">Videos de mensajeros</string>

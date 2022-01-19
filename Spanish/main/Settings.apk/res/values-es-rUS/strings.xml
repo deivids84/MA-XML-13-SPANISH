@@ -622,6 +622,8 @@ Si este permiso está desactivado, las alarmas existentes y los eventos basados 
     <string name="aod_style_description">Mostrar reloj, fecha, hora, notificaciones y otros elementos cuando la pantalla está apagada</string>
     <string name="aod_style_title">Estilo</string>
     <string name="aod_to_close">Desactivar</string>
+    <string name="ap_connect_failed">"No se pudo conectar"</string>
+    <string name="ap_connected_battery_level">" | Batería %1$s"</string>
     <string name="apn_auth_type">Tipo de autenticación</string>
     <string name="apn_auth_type_none">Ninguno</string>
     <string name="apn_auth_type_pap_chap">PAP o CHAP</string>
@@ -1712,8 +1714,7 @@ Si ya ha realizado alguna de las acciones anteriores, vuelva a agregar su Cuenta
     <string name="breathing_light_freq_summary">Establecer intervalo de pulso para Trackball</string>
     <string name="breathing_light_freq_title">Frecuencia de pulso de luz</string>
     <string name="brightness">Nivel de brillo</string>
-    <string name="brightness_auto_adjust_off">Puede ajustar el brillo de la pantalla manualmente ahora. Permanecerá constante hasta que lo ajuste de nuevo.</string>
-    <string name="brightness_auto_adjust_on">El brillo de la pantalla se optimizará de acuerdo con la luz ambiental. Todavía puede hacer ajustes menores manualmente.</string>
+    <string name="brightness_auto_summary">Ajuste el brillo a la luz ambiental para ahorrar batería</string>
     <string name="brightness_summary">Ajustar el brillo de la pantalla</string>
     <string name="brightness_title">Brillo</string>
     <string name="bt_aac_dialog_summary">"El dispositivo actual soporta el códec AAC. Sin embargo, AAC podría fallar al reproducir sonidos debido a problemas de compatibilidad. Su dispositivo cambió automáticamente al códec SBC.
@@ -3072,8 +3073,8 @@ Puede ver los registros generados en el Administrador de archivos."</string>
     <string name="enable_service_pattern_reason">Dado que la encriptación de datos se ve afectada al activar %1$s, debes confirmar el patrón.</string>
     <string name="enable_service_pin_reason">Dado que la encriptación de datos se ve afectada al activar %1$s, debes confirmar el PIN.</string>
     <string name="enable_service_title">El servicio realizará estas acciones:</string>
-    <string name="enable_sizecompat_freeform">Habilitar sizecompat para freeform</string>
-    <string name="enable_sizecompat_freeform_summary">Permite que las apps sizecompat usen el formato freeform</string>
+    <string name="enable_sizecompat_freeform">Forzar permiso para cambiar el tamaño de las ventanas</string>
+    <string name="enable_sizecompat_freeform_summary">Permitir que las aplicaciones con restricciones de compatibilidad se ejecuten en ventanas de tamaño variable</string>
     <string name="enable_snapshot_screenlock">Mantener presionado Atrás para tomar una foto</string>
     <string name="enable_terminal_summary">Hablilitar aplicación terminal con acceso shell local</string>
     <string name="enable_terminal_title">Terminal local</string>
@@ -3247,6 +3248,7 @@ Reinicie su dispositivo y vuelva a intentarlo."</string>
     <string name="external_ram_dialog_icon_title">La extensión de memoria está activada</string>
     <string name="external_ram_dialog_message">Reinicie el dispositivo para aplicar cambios.</string>
     <string name="external_ram_dialog_title">Reiniciar dispositivo</string>
+    <string name="external_ram_remind_toast">El espacio de almacenamiento se está agotando. Por ahora se ha desactivado la extensión de memoria.</string>
     <string name="external_ram_summary">"Agregue %1$s %2$s de RAM ocupando espacio de almacenamiento. Utilice esta función solo cuando haya suficiente espacio de almacenamiento disponible en su dispositivo."</string>
     <string name="external_ram_title">Extensión de memoria</string>
     <string name="external_ram_toast">"No se puede usar la extensión de memoria debido a la falta de espacio de almacenamiento"</string>
@@ -3812,6 +3814,7 @@ Cuando activas la copia de seguridad automática, los datos del dispositivo y la
     <string name="header_data_and_synchronization">Sincronización y datos</string>
     <string name="headphone_assisted_summary">"Transmita la alimentación del micrófono de su teléfono a los auriculares Bluetooth conectados"</string>
     <string name="headphone_assisted_title">Monitor live in-ear</string>
+    <string name="headset_ambient_sound">Sonidos ambientales</string>
     <string name="headset_connectiong">Conectando…</string>
     <string name="headset_find_both">Ambos</string>
     <string name="headset_find_cancel">Cancelar</string>
@@ -3829,14 +3832,16 @@ Cuando activas la copia de seguridad automática, los datos del dispositivo y la
     <string name="headset_find_tip_title">Atención</string>
     <string name="headset_find_title">Encuentre sus audífonos</string>
     <string name="headset_find_voice_warning">Advertencia de volumen alto</string>
-    <string name="headset_head_tracking_desc">Ajustar el sonido envolvente según el movimiento de la cabeza</string>
+    <string name="headset_head_tracking_desc">Ajuste el sonido envolvente según el movimiento de la cabeza</string>
     <string name="headset_head_tracking_title">Seguimiento del movimiento de la cabeza</string>
     <string name="headset_notification_switch_summary">Muestra el estado en el widget de la Barra de notificaciones cuando los audífonos están conectados</string>
     <string name="headset_notification_switch_title">Widget de la Barra de notificaciones</string>
     <string name="headset_remove_message">¿Desemparejar dispositivo?</string>
     <string name="headset_remove_message_indicate">%1$s se desemparejará de todos los dispositivos asociados con esta Cuenta Mi.</string>
     <string name="headset_settings_title">Efectos de sonido</string>
-    <string name="headset_spatial_audio">Audio espacial</string>
+    <string name="headset_silent_upgrade_switch_summary">Los auriculares se actualizan automáticamente bajo condiciones específicas</string>
+    <string name="headset_silent_upgrade_switch_title">Actualización automática</string>
+    <string name="headset_spatial_audio">Audio dimensional</string>
     <string name="headset_toast_tip_disconnect_others">El auricular no se puede configurar en este momento, su auricular puede estar conectado a otro teléfono</string>
     <string name="headset_unsaved_device">Quitar el dispositivo</string>
     <string name="headset_unsaved_devices">Usado en otros dispositivos</string>
@@ -3850,6 +3855,7 @@ Cuando activas la copia de seguridad automática, los datos del dispositivo y la
     <string name="hide_extra_apps">Mostrar uso de apps</string>
     <string name="hide_silent_icons_summary">"Los íconos de las notificaciones silenciosas no se muestran en la barra de estado"</string>
     <string name="hide_silent_icons_title">Ocultar íconos de las notificaciones silenciosas</string>
+    <string name="high_brightness_hint_summary">Aparecerá un pequeño icono de sol en la parte superior de la pantalla cuando la luz ambiental sea fuerte</string>
     <string name="high_label">Alta</string>
     <string name="high_performance_notif_summary">El dispositivo podría calentarse durante el uso intenso.</string>
     <string name="high_performance_notif_title">Modo rendimiento activado</string>
@@ -4961,6 +4967,8 @@ No podrá revertir esta acción."</string>
     <string name="menu_item_notification_power_text">Optimización de la batería</string>
     <string name="menu_key">Menú</string>
     <string name="menu_new">APN nuevo</string>
+    <string name="menu_new_display_open">Abrir en nueva ventana</string>
+    <string name="menu_pc_open">Abrir con un programa de computadora</string>
     <string name="menu_proc_stats_duration">Duración</string>
     <string name="menu_proc_stats_type">Tipo de estadística</string>
     <string name="menu_proc_stats_type_background">En segundo plano</string>
@@ -5658,13 +5666,7 @@ Esto reemplazará a %2$s como la app de pagos predeterminada."</string>
     <string name="night_display_temperature_title">Intensidad</string>
     <string name="night_display_text">La Luz nocturna le da un tono ámbar a la pantalla. No solo te permitirá ver o leer con luz tenue, sino que también podría ayudarte a conciliar el sueño más rápido.</string>
     <string name="night_display_title">Luz nocturna</string>
-    <string name="night_light">Modo nocturno</string>
-    <string name="night_light_brightness">Brillo de modo nocturno</string>
-    <string name="night_light_color">Temperatura de color de modo nocturno</string>
-    <string name="night_light_color_tip">Los cambios tendrán efecto al desactivar el modo lectura</string>
     <string name="night_light_main_switch_title">Usar luz nocturna</string>
-    <string name="night_light_summary">Para activar el modo nocturno, baje el brillo de la pantalla en condiciones de poca luz.</string>
-    <string name="night_light_tip">Los cambios tendrán efecto al activar el modo nocturno</string>
     <string name="no">No</string>
     <string name="no_5g_in_dsds_text">Cuando este teléfono tenga dos tarjetas SIM, solo podrá utilizar 4G. <annotation id="url">Más información</annotation></string>
     <string name="no_application">Ninguno</string>
@@ -6801,6 +6803,7 @@ Esa configuración afecta a todos los usuarios de este teléfono."</string>
     <string name="scanning_status_text_wifi_on_ble_off">El escaneo de Wi-Fi está activado, el escaneo de Bluetooth está desactivado</string>
     <string name="scanning_status_text_wifi_on_ble_on">Tanto el escaneo Wi-Fi como el Bluetooth están activados</string>
     <string name="screen">Pantalla</string>
+    <string name="screen_brightness">Brillo de la pantalla</string>
     <string name="screen_cancel">Cancelar</string>
     <string name="screen_color_and_optimize">Color y contraste</string>
     <string name="screen_color_and_optimize_disabled">"No se puede ajustar la combinación de colores y la temperatura del color en el modo de lectura"</string>
@@ -8264,7 +8267,7 @@ Intenta usar un ^3 más rápido o usa ^4 como almacenamiento portátil."</string
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
     <string name="sunlight_mode">Modo de luz solar</string>
-    <string name="sunlight_mode_summary">Ajustar el brillo a una luz ambiental intensa cuando el brillo automático esté apagado</string>
+    <string name="sunlight_mode_summary">Ajuste el brillo a una luz ambiental fuerte para evitar que la pantalla se oscurezca demasiado</string>
     <string name="supl_not_set">&lt;No establecido&gt;</string>
     <string name="supplicant_state_label">Estado suplicante:</string>
     <string name="support_summary">Artículos de ayuda, teléfono y chat, cómo empezar</string>
@@ -8272,7 +8275,7 @@ Intenta usar un ^3 más rápido o usa ^4 como almacenamiento portátil."</string
     <string name="surround_sound_all_desc">Mejora la profundidad de reproducción del sonido para auriculares y altavoces</string>
     <string name="surround_sound_only_headset_desc">Mejora la profundidad de reproducción del sonido para auriculares</string>
     <string name="surround_sound_only_speaker_desc">Mejora la profundidad de reproducción de sonido de los altavoces</string>
-    <string name="surround_sound_title">Sonido envolvente</string>
+    <string name="surround_sound_title">Sonido inmersivo</string>
     <string name="swipe_direction_ltr">Desliza el dedo hacia la derecha para cerrar la notificación o hacia la izquierda para mostrar el menú</string>
     <string name="swipe_direction_rtl">Desliza el dedo hacia la izquierda para cerrar la notificación y hacia la derecha para mostrar el menú</string>
     <string name="swipe_direction_title">Acciones al deslizar el dedo</string>

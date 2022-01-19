@@ -134,6 +134,7 @@ Para comprender plenamente sus derechos como usuario, así como las formas en qu
     <string name="account_setup_correct_address_tips">La dirección de correo electrónico introducida no es válida.</string>
     <string name="account_setup_creating_account_msg">"    Creando cuenta…"</string>
     <string name="account_setup_deleting_account_msg">"    Eliminando cuenta…"</string>
+    <string name="account_setup_domain_invalid_toast">El nombre de dominio de correo electrónico que ingresó es incorrecto, verifique</string>
     <string name="account_setup_exchange_certificate_title">Certificado de cliente</string>
     <string name="account_setup_exchange_no_certificate">Ninguno</string>
     <string name="account_setup_failed_auth_required">"Este método de autenticación no es soportado por el servidor."</string>

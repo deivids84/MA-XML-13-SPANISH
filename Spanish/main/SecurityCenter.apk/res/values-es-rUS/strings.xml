@@ -1130,7 +1130,7 @@ No perderá ningún dato de aplicación."</string>
     <string name="cpu_usage_view_action_btn_text">Toque para ver</string>
     <string name="create_gamebooster_destop">Acceso directo en la Pantalla de inicio creado con éxito</string>
     <string name="create_shortcut">Crear acceso directo a la Pantalla de inicio para Game Turbo</string>
-    <string name="cta_HIPS_Perm_Location_Desc">Para mostrar alertas de terremotos relevantes en tu ubicación</string>
+    <string name="cta_HIPS_Perm_Location_Desc">Para usar tu información de ubicación en el Centro de Advertencia MIUI, SOS de Emergencia, ahorro de batería de aplicaciones y escáner de seguridad de pagos, además de habilitar la ubicación aproximada</string>
     <string name="cta_agree_desc">Para poder usar nuestros servicios permita a esta aplicación conectarse a internet y conceder los permisos arriba mencionados.</string>
     <string name="cta_close_dialog_cancel">Cancelar</string>
     <string name="cta_close_dialog_content">"Si restringe el acceso de Seguridad a internet y a la información de su ubicación, no podrá recibir alertas sísmicas, actualizar las definiciones de virus e información de la lista de bloqueo. Su dispositivo será menos seguro. ¿Restringir?"</string>
@@ -1139,7 +1139,7 @@ No perderá ningún dato de aplicación."</string>
     <string name="cta_dialog_negative">Salir</string>
     <string name="cta_dialog_positive">Aceptar</string>
     <string name="cta_dialog_title">Conexión a Internet</string>
-    <string name="cta_main_purpose">¡Bienvenido a Seguridad! Puedes usar esta aplicación para liberar espacio de almacenamiento, escanear tu dispositivo en busca de virus, controlar el uso de la batería, optimizar tu dispositivo para jugar, gestionar aplicaciones, recibir alertas de terremotos y mucho más.</string>
+    <string name="cta_main_purpose">¡Bienvenido a Seguridad! Puede usar Seguridad y sus módulos (incluidos los componentes de seguridad MIUI y los servicios del sistema) para liberar espacio de almacenamiento, escanear su dispositivo en busca de virus, controlar el uso de la batería, optimizar su dispositivo para juegos, administrar aplicaciones, recibir alertas tempranas de terremotos y más.</string>
     <string name="cta_settings">Permitir conectarse a internet y acceder a la ubicación</string>
     <string name="current_network_state_not_need_diagnose">La conexión a Internet funciona con normalidad.</string>
     <string name="custom_define_permission_desc_android.permission.CALL_PHONE">Para usar la lista de bloqueo y hacer llamadas a contactos de emergencia cuando se emiten advertencias de terremoto</string>
@@ -1148,7 +1148,7 @@ No perderá ningún dato de aplicación."</string>
     <string name="custom_define_permission_desc_android.permission.READ_SMS">Para usar la lista de bloqueo y reconocer mensajes de su operador</string>
     <string name="custom_define_permission_desc_android.permission.SEND_SMS">Para usar la lista de bloqueo y enviar mensajes de calibración a su operador</string>
     <string name="custom_define_permission_desc_android.permission.WRITE_CALL_LOG">Para eliminar mensajes de su lista de bloqueo</string>
-    <string name="custom_define_permission_desc_android.permission_group.LOCATION">Para proporcionar su información de ubicación al Centro de advertencia de MIUI y Emergencia SOS</string>
+    <string name="custom_define_permission_desc_android.permission_group.LOCATION">Para proporcionar las características relevantes para su ubicación en el Centro de Advertencia MIUI, SOS de Emergencia, ahorro de batería de aplicación, escáner de seguridad de pago y servicio de ubicación aproximado</string>
     <string name="custom_define_permission_desc_android.permission_group.STORAGE">Para limpiar la basura y realizar análisis antivirus</string>
     <string name="customize_limit_pkg">%s (personalizado)</string>
     <string name="customizer_mode_user_define_name">Mis reglas</string>
@@ -2677,6 +2677,8 @@ Intente usar otro cable Ethernet para conectar el router. Si sospecha que hay un
     <string name="not_limited_brand">Ilimitado</string>
     <string name="not_set">Sin definir</string>
     <string name="not_settled">No establecido</string>
+    <string name="not_support_root_summary">Permitir el acceso root para aplicaciones de terceros puede plantear riesgos de seguridad y dañar su dispositivo. Por eso, ya no ofrecemos opciones para gestionar los permisos de acceso root.</string>
+    <string name="not_support_root_title">Acceso Root</string>
     <string name="note">Nota</string>
     <string name="note_call_none">No hay llamadas</string>
     <string name="note_list_none">La lista está vacía</string>
@@ -3929,6 +3931,7 @@ Retirar el consentimiento ahora?"</string>
     <string name="select_province_and_city">Seleccionar ubicación</string>
     <string name="send">Enviar</string>
     <string name="send_msg_to_query">Envíe un mensaje de texto para comprobarlo</string>
+    <string name="send_sms_title">¿Permitir que %s envíe mensajes?</string>
     <string name="set_applock_password">Establecer contraseña</string>
     <string name="set_complete">Establecido con éxito</string>
     <string name="set_exit_condition">set_exit_condition</string>
@@ -3941,6 +3944,7 @@ Retirar el consentimiento ahora?"</string>
     <string name="set_pattern_password_name">Establecer patrón</string>
     <string name="set_traffic_tips">Configure su plan de datos para administrar el uso de datos móviles y evitar tarifas adicionales del operador</string>
     <string name="setting">Ajustes</string>
+    <string name="setting_back_sound_loading_msg">Un momento…</string>
     <string name="setting_online_service">Servicios en línea</string>
     <string name="setting_privacy_password">Agregar patrón</string>
     <string name="setting_wireless_reverse_charging_fg_control_summary">Detenga la carga inalámbrica inversa cuando la batería de este dispositivo llegue a %s</string>
@@ -4090,6 +4094,7 @@ Retirar el consentimiento ahora?"</string>
     <string name="sms_blacklist">Lista negra de SMS</string>
     <string name="sms_cloud_block">Lista negra de la nube</string>
     <string name="sms_contact_block">Bloquear SMS de contactos</string>
+    <string name="sms_content">"Mensaje: "</string>
     <string name="sms_delete_all_hint">¿Eliminar todos los mensajes?</string>
     <string name="sms_delete_hint">¿Eliminar todos los mensajes bloqueados de este número?</string>
     <string name="sms_delete_title">Eliminar mensajes</string>
@@ -4100,6 +4105,7 @@ Retirar el consentimiento ahora?"</string>
     <string name="sms_keywords">Lista negra de palabras clave</string>
     <string name="sms_malicious_url">Bloquear SMS de URLs maliciosas</string>
     <string name="sms_prefix">Lista negra de prefijos</string>
+    <string name="sms_sender">"Para: "</string>
     <string name="sms_service">Bloquear SMS de servicio</string>
     <string name="sms_smart_engine_update">Actualizar automáticamente el filtro de SMS</string>
     <string name="sms_smart_engine_update_now">Actualizar</string>
@@ -5124,6 +5130,8 @@ Activar una de las funciones desactivará la otra."</string>
 ¡Intente reescalar la resolución!"</string>
     <string name="verify_shut_down_password_content">Requiere confirmar bloqueo de pantalla si el dispositivo está apagado mientras está bloqueado</string>
     <string name="verify_shut_down_password_title">Confirmación de apagado</string>
+    <string name="verify_sms_ensure_allow">Enviar</string>
+    <string name="verify_sms_title">%1$s está intentando enviar un mensaje…</string>
     <string name="video_repeat">Reproducir de nuevo</string>
     <string name="videobox_hangup_tips_content">Su pantalla estará bloqueada, pero la aplicación seguirá ejecutándose en segundo plano cuando esta función esté activada. Presione el botón de Encendido para volver a encender la pantalla. ¿Activar esta función ahora?</string>
     <string name="videobox_hangup_tips_title">Atención</string>

@@ -82,7 +82,6 @@
     <string name="backup_hint_pad">Mantenga su dispositivo encendido</string>
     <string name="backup_is_running">Respaldando el dispositivo</string>
     <string name="backup_new">Nuevo:</string>
-    <string name="backup_notification_title">\"Copia de seguridad\" está funcionando…</string>
     <string name="backup_progress">Respaldando…</string>
     <string name="backup_report">Ver detalles</string>
     <string name="backup_security_tips_message">Es posible que algunas aplicaciones no puedan ser respaldadas o restauradas.</string>

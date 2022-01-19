@@ -1959,8 +1959,6 @@ Si tiene preguntas, comuníquese con %2$s."</string>
     <string name="quick_settings_financed_disclosure_named_management">Este dispositivo es proporcionado por %s</string>
     <string name="quick_settings_flashlight_camera_in_use">Cámara en uso</string>
     <string name="quick_settings_flashlight_label">Linterna</string>
-    <string name="quick_settings_googlehome_label">Google Home</string>
-    <string name="quick_settings_googlepay_label">Google Pay</string>
     <string name="quick_settings_header_onboarding_text">Mantén presionados los íconos para ver más opciones</string>
     <string name="quick_settings_hotspot_label">Punto de acceso</string>
     <string name="quick_settings_hotspot_secondary_label_data_saver_enabled">Ahorro de datos act.</string>

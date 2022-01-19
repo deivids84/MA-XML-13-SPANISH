@@ -317,6 +317,7 @@
     <string name="instruction">Introduzca la siguiente dirección en un cliente FTP: </string>
     <string name="instruction_pre_pad">Toca para iniciar el servidor FTP</string>
     <string name="instruction_pre_phone">Toca para iniciar el servidor FTP</string>
+    <string name="internal_storage">Almacenamiento interno</string>
     <string name="item_view_role_description">Pestaña</string>
     <string name="just_now">Justo ahora</string>
     <string name="kilobyteShort">kB</string>
