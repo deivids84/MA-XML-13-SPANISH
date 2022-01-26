@@ -2179,7 +2179,7 @@ para unirte a nuestra búsqueda de huevos!"</string>
     <string name="guide_wait_setting">Ahora no</string>
     <string name="handle_bar_summary_wifi_unknown">Desconocida</string>
     <string name="handle_bar_title_system">Sistema</string>
-    <string name="handle_title_abnormal">La batería se está vaciando</string>
+    <string name="handle_title_abnormal">Drenando batería</string>
     <string name="handle_title_app">Aplicaciones</string>
     <string name="handle_title_details">Detalles del uso de batería</string>
     <string name="handle_title_network">Seguridad Wi-Fi</string>
@@ -3104,7 +3104,7 @@ Intente usar otro cable Ethernet para conectar el router. Si sospecha que hay un
     <string name="power_center_battery_level">%s cargada</string>
     <string name="power_center_battery_level_general">Normal</string>
     <string name="power_center_battery_software">Software %s</string>
-    <string name="power_center_battery_status">Uso de la batería</string>
+    <string name="power_center_battery_status">Uso de batería</string>
     <string name="power_center_battery_temperature">Temperatura</string>
     <string name="power_center_battery_used_time">En la batería</string>
     <string name="power_center_batteryrank_all">Todo el uso de la batería</string>
@@ -3113,7 +3113,7 @@ Intente usar otro cable Ethernet para conectar el router. Si sospecha que hay un
     <string name="power_center_batteryscan_normal">Sin problemas de uso de la batería. Ver resultados.</string>
     <string name="power_center_charge_status">Cargando</string>
     <string name="power_center_charge_time">%1$s para completar</string>
-    <string name="power_center_consume_fast">La batería se está vaciando</string>
+    <string name="power_center_consume_fast">Drenando batería</string>
     <string name="power_center_dialog_msg_bottom">Puede aumentar la duración de la batería hasta %1$d h y %2$d min. ¿Activar Ahorro de batería?</string>
     <string name="power_center_dialog_msg_title">Activar para obtener %1$s de tiempo extra. Se realizarán las siguientes acciones para ahorrar batería:</string>
     <string name="power_center_dialog_msg_top">Cuando el Ahorro de batería esté activado, MIUI realizará las siguientes optimizaciones:</string>

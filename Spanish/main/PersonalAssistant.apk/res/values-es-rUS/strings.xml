@@ -106,6 +106,13 @@
     <string name="already">Completado:</string>
     <string name="am">AM</string>
     <string name="announce_for_drag">Arrastrando un elemento</string>
+    <string name="app_accessibility_olympic_bronze_medal">Medalla de bronce</string>
+    <string name="app_accessibility_olympic_gold_medal">Medalla de oro</string>
+    <string name="app_accessibility_olympic_info_title">Más información</string>
+    <string name="app_accessibility_olympic_silver_medal">Medalla de plata</string>
+    <string name="app_accessibility_olympic_the_first">Primer lugar: %s</string>
+    <string name="app_accessibility_olympic_the_second">Segundo lugar: %s</string>
+    <string name="app_accessibility_olympic_the_third">Tercer lugar: %s</string>
     <string name="app_agenda_i_known">Descartar</string>
     <string name="app_agenda_need_install_alipay">Instale Alipay antes de utilizar esta función.</string>
     <string name="app_airstar_content_unauthorized_button">Comenzar</string>
@@ -295,9 +302,9 @@ También puede realizar un seguimiento de la entrega urgente en los sitios web o
     <string name="app_news_default_title">Noticias</string>
     <string name="app_note_add">Añadir</string>
     <string name="app_note_title_empty">Notas</string>
-    <string name="app_olympic_card_service_des">Clasificación actualizada en tiempo real</string>
-    <string name="app_olympic_card_service_title">Medallero olímpico</string>
-    <string name="app_olympic_card_title">Medallero olímpico</string>
+    <string name="app_olympic_card_service_des">Consulta el ranking de medallas olímpicas</string>
+    <string name="app_olympic_card_title">Medallas</string>
+    <string name="app_olympic_card_title_info">Estos datos son proporcionados por un tercero y pueden ser actualizados con un retraso.</string>
     <string name="app_olympic_gold_medal_country_region">Equipo</string>
     <string name="app_olympic_gold_medal_total">Total</string>
     <string name="app_pa_more">Más</string>

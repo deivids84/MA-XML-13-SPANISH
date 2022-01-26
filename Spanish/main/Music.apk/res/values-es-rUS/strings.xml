@@ -547,6 +547,7 @@
     <string name="hungama_category_radio">Señal móvil</string>
     <string name="hungama_category_video">Vídeos online</string>
     <string name="hungama_category_vip">Pro</string>
+    <string name="hungama_download_subscription_toast">Suscríbete a Hungama Music para descargar esta canción</string>
     <string name="hungama_free_download_out_summary">"No puede descargar más canciones gratuitas. ¿Obtener membresía PRO para descargar canciones de manera ilimitadas?"</string>
     <string name="hungama_free_download_out_summary_toast">"Ya has descargado %d canciones. Obtén una suscripción para descargar más."</string>
     <string name="hungama_playlist_category">Categoría de lista de reproducción</string>
@@ -1150,7 +1151,7 @@ Sea Feliz"</string>
     <string name="sound_fade_in_and_out_when_change_song_automatically">Probar el crossfading de canciones durante la reproducción</string>
     <string name="start_to_check_new_version">Comprobando actualizaciones…</string>
     <string name="start_to_download">Descargando…</string>
-    <string name="start_to_play">Reproducir</string>
+    <string name="start_to_play">Preparándose para reproducir…</string>
     <string name="start_update">Instalando nueva versión…</string>
     <string name="storage_cloned_app">Almacenamiento para aplicaciones duales</string>
     <string name="storage_internal">Almacenamiento interno</string>

@@ -100,6 +100,18 @@
         <item quantity="other">%d videos</item>
         <item quantity="one">%d video</item>
     </plurals>
+    <plurals name="mangotv_feature_list_title1">
+        <item quantity="other">%1$1d de %2$2d episodios disponibles</item>
+        <item quantity="one">%1$1d de %2$2d episodio disponible</item>
+    </plurals>
+    <plurals name="mangotv_feature_list_title2">
+        <item quantity="other">%1$1d de %2$2d episodios disponibles</item>
+        <item quantity="one">%1$1d de %2$2d episodio disponible</item>
+    </plurals>
+    <plurals name="mangotv_feature_list_title_all">
+        <item quantity="other">%d episodios totales</item>
+        <item quantity="one">%d episodio total</item>
+    </plurals>
     <plurals name="mediation_animate_close_after">
         <item quantity="other">Quedan %s s</item>
         <item quantity="one">Queda %s s</item>
