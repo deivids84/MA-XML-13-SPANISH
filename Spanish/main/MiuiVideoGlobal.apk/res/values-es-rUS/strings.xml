@@ -389,6 +389,9 @@ Envíe este código al supervisor."</string>
     <string name="exo_download_failed">No se pudo descargar</string>
     <string name="exo_download_notification_channel_name">Descargas</string>
     <string name="exo_download_removing">Quitando descargas</string>
+    <string name="exo_media_action_repeat_all_description">Repetir todo</string>
+    <string name="exo_media_action_repeat_off_description">No repetir nada</string>
+    <string name="exo_media_action_repeat_one_description">Repetir uno</string>
     <string name="exo_track_mono">Mono</string>
     <string name="exo_track_selection_auto">Automática</string>
     <string name="exo_track_selection_none">Ninguna</string>

@@ -373,6 +373,11 @@ Xiaomi Salud solo le notificará sobre elementos importantes."</string>
     <string name="dialog_sleep_goal_title">Sleep duration goal</string>
     <string name="dialog_sleep_record_auto_start">Para hacer un seguimiento del sueño más preciso, permita que Xiaomi Salud inicie automáticamente.</string>
     <string name="dialog_sure">Aceptar</string>
+    <string name="dialog_upgrade_description">"1. Nuevo diseño.
+2. Sincronizar datos entre dispositivos.
+3. Vea los datos de salud de Health, Xiaomi Wear y otras aplicaciones en un solo lugar."</string>
+    <string name="dialog_upgrade_positive_btn">Actualización</string>
+    <string name="dialog_upgrade_title">Mi Fitness</string>
     <string name="dialog_user_agreement_purpose">¡Bienvenido a Xiaomi Salud! Puede usar esta aplicación para contar pasos, monitorizar el sueño, su periodo y el peso, así como sincronizar las estadísticas con la nube.</string>
     <string name="dialog_user_agreement_purpose2">Welcome to Xiaomi Health! You can use this app to count your steps, analyze sleep, track periods, record weight, and more.</string>
     <string name="diastolic_pressure">Diastólica</string>

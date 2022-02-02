@@ -174,6 +174,7 @@
     <string name="copy">Copiar</string>
     <string name="count_down_tip">%d s restante</string>
     <string name="create_home_icon">Acceso directo a la Pantalla de inicio</string>
+    <string name="current_device_not_support_superwallpaper_dialog_content">"Los superfondos de pantalla no son compatibles con este dispositivo"</string>
     <string name="current_using">Actual</string>
     <string name="current_using_desktop_wallpaper_text">Pantalla de inicio</string>
     <string name="current_using_float_wallpaper_text">Transparente</string>
@@ -223,6 +224,8 @@
     <string name="de_super_wp_land_position_default_des">Punto de aterrizaje</string>
     <string name="de_to_comment">Comentario</string>
     <string name="de_try">Probar</string>
+    <string name="deep_sea">Mar profundo</string>
+    <string name="deep_sea_resource_comment">El origen de la vida en la Tierra</string>
     <string name="deleting">Eliminando…</string>
     <string name="desc_more_online_wallpaper">Más fondos de pantalla en línea</string>
     <string name="description_author">Autor</string>
@@ -284,6 +287,8 @@
     <string name="error_icon_content_description">Error</string>
     <string name="evening">Tarde</string>
     <string name="exchange_alert">Puede obtener códigos durante nuestros eventos y canjearlos aquí</string>
+    <string name="exchange_code_dialog_title">Atención</string>
+    <string name="exchange_code_not_match_account_dialog_content">Este código ya ha sido canjeado por otra cuenta Mi. Inicia sesión con esa cuenta Mi e inténtalo de nuevo.</string>
     <string name="exit_extreme_mode_dialog_agree">Aceptar</string>
     <string name="exit_extreme_mode_dialog_cancel">Cancelar</string>
     <string name="exit_extreme_mode_dialog_title">Desactivar modo extremo</string>
@@ -458,6 +463,13 @@ Para desactivar esta función, ve a Ajustes &gt; Sonido y vibración &gt; Perfil
     <string name="loading_picture">Cargando imagen…</string>
     <string name="loading_resource_detail_fail">"Fallo al cargar recursos"</string>
     <string name="loading_resource_detail_info">Un momento…</string>
+    <string name="local_mode">Modo sin conexión</string>
+    <string name="local_mode_close">¿Desactivar modo sin conexión?</string>
+    <string name="local_mode_close_desc">Desactive el modo sin conexión si desea utilizar los servicios en línea. ¿Desactivar ahora?</string>
+    <string name="local_mode_desc">"El modo sin conexión solo usa contenido local y no usa servicios en línea"</string>
+    <string name="local_mode_hint">"Estás usando el modo sin conexión.
+Toca para desactivar."</string>
+    <string name="local_mode_open">Modo sin conexión</string>
     <string name="local_photos">Fotos locales</string>
     <string name="local_resouce_creator_name">Desarrollador: %1$s</string>
     <string name="lock_screen_apply">Establecer como pantalla de bloqueo</string>
@@ -866,6 +878,9 @@ Puede otorgar este permiso en Configuración &gt; Privacidad."</string>
     <string name="refresh_footer_release">Suelte para cargar más</string>
     <string name="region_not_support">"Temas no son compatibles en su región."</string>
     <string name="reload">Reintentar</string>
+    <string name="repeat_exchange_dialog_content">"No se puede canjear el código. ¿Comprobar qué otras recompensas están disponibles ahora?"</string>
+    <string name="repeat_exchange_dialog_positive_btn">Comprobar</string>
+    <string name="repeat_exchange_dialog_title">Inténtalo de nuevo</string>
     <string name="request_time_out">Tiempo de espera agotado. Inténtalo de nuevo.</string>
     <string name="resource_account_abnormal_state">Error de cuenta. Vuelva a intentarlo más tarde.</string>
     <string name="resource_account_fail_to_add">"No se puede agregar la cuenta"</string>
@@ -1178,6 +1193,7 @@ Puede otorgar este permiso en Configuración &gt; Privacidad."</string>
     <string name="super_wallpaper_setting_coordinate_title">Coordenadas</string>
     <string name="super_wallpaper_setting_view_height_title">Altitud</string>
     <string name="supersave_mode_toast_message">"Esta función no está disponible cuando se usa el ahorro de batería Ultra. Desactive el ahorro de batería Ultra para poder utilizarlo."</string>
+    <string name="superwallpaper_has_bound_account_dialog_content">Este fondo de pantalla ya está asociado con otra cuenta Mi. Inicie sesión con esa cuenta Mi y vuelva a intentarlo.</string>
     <string name="support_theme_store_des">Los buenos temas siempre son creados por diseñadores talentosos. Nuestra aplicación contiene una pequeña cantidad de anuncios que nos permiten respaldar su trabajo.</string>
     <string name="support_theme_store_supported">¡Gracias por tu apoyo!</string>
     <string name="support_theme_store_title">Apoya a nuestros diseñadores</string>
@@ -1285,6 +1301,7 @@ Puede otorgar este permiso en Configuración &gt; Privacidad."</string>
     <string name="theme_is_external_priority_storage_summary">La app Temas se reiniciará inmediatamente para que surta efecto.</string>
     <string name="theme_log_out">Cerrar sesión</string>
     <string name="theme_multiple_button_title_customize">Personalizar</string>
+    <string name="theme_need_login_dialog_content">Inicie sesión en su cuenta Mi para continuar.</string>
     <string name="theme_no">No</string>
     <string name="theme_not_include_module_desc">"Este tema no contiene los siguientes elementos: %s"</string>
     <string name="theme_on_the_phone_alert">"No puedo jugar durante las llamadas"</string>
@@ -1306,6 +1323,7 @@ Puede otorgar este permiso en Configuración &gt; Privacidad."</string>
     <string name="theme_user_agreement_remind_never">"No volver a mostrar"</string>
     <string name="theme_user_agreement_remind_summary">Mostrar la ventana de Condiciones de uso cada vez que abra los temas. Esta configuración se aplicará después de reiniciar su dispositivo.</string>
     <string name="theme_user_agreement_title">Términos de Uso</string>
+    <string name="theme_version_need_update_prompt_dialog_content">Actualice Temas a la versión %s o posterior para continuar</string>
     <string name="theme_wallpaper">Categorías de papel tapiz</string>
     <string name="theme_yes">Sí</string>
     <string name="third_party_pickers_activity_title">Agregar %1$s</string>

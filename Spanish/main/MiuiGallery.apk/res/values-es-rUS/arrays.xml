@@ -78,6 +78,19 @@
         <item>Z</item>
         <item>\#</item>
     </string-array>
+    <string-array name="annual_foods_title">
+        <item>Un año delicioso</item>
+        <item>Tres cursos. Cuatro estaciones.</item>
+    </string-array>
+    <string-array name="annual_travel_title">
+        <item>¡Hola Mundo!</item>
+        <item>En el camino</item>
+        <item>Un caleidoscopio de lugares</item>
+    </string-array>
+    <string-array name="autumn_season_title">
+        <item>Esplendor otoñal</item>
+        <item>Caida radiante</item>
+    </string-array>
     <string-array name="baby_sexy">
         <item>Niño</item>
         <item>Niña</item>
@@ -109,6 +122,46 @@
         <item>Festival Qixi a través de los años</item>
         <item>Festival del Medio Otoño a través de los años</item>
     </string-array>
+    <string-array name="chinese_new_year_eve_title">
+        <item>Una noche para recordar</item>
+        <item>Nueva página</item>
+        <item>Fuegos artificiales</item>
+    </string-array>
+    <string-array name="chinese_new_year_title">
+        <item>¡Feliz Año Nuevo!</item>
+        <item>Amanecer del año nuevo</item>
+    </string-array>
+    <string-array name="chinese_zodiac_year">
+        <item>Año del Mono</item>
+        <item>Año del Gallo</item>
+        <item>Año del Perro</item>
+        <item>Año del Cerdo</item>
+        <item>Año de la Rata</item>
+        <item>Año del Buey</item>
+        <item>Año del Tigre</item>
+        <item>Año del Conejo</item>
+        <item>Año del Dragón</item>
+        <item>Año de la Serpiente</item>
+        <item>Año del Caballo</item>
+        <item>Año de la Cabra</item>
+    </string-array>
+    <string-array name="city_title">
+        <item>Paisajes urbanos</item>
+        <item>Calles y rincones</item>
+    </string-array>
+    <string-array name="flowers_title">
+        <item>Pétalos suaves</item>
+        <item>Floreciente</item>
+    </string-array>
+    <string-array name="forest_title">
+        <item>En la naturaleza</item>
+        <item>Salvaje y libre</item>
+    </string-array>
+    <string-array name="group_people_title">
+        <item>Nuestras reuniones</item>
+        <item>En compañía de amigos</item>
+        <item>Mucho tiempo sin verte</item>
+    </string-array>
     <string-array name="holiday_last_year">
         <item>"Último día de año nuevo"</item>
         <item>"Último San Valentín"</item>
@@ -125,6 +178,11 @@
         <item>Día Nacional a través de los años</item>
         <item>Navidad a través de los años</item>
     </string-array>
+    <string-array name="important_people_title">
+        <item>Tus temas favoritos</item>
+        <item>Espíritus afines</item>
+        <item>"Los momentos brillantes de la vida"</item>
+    </string-array>
     <string-array name="last_month">
         <item>Enero</item>
         <item>Febrero</item>
@@ -138,6 +196,36 @@
         <item>Octubre</item>
         <item>Noviembre</item>
         <item>Diciembre</item>
+    </string-array>
+    <string-array name="last_some_day_babies_title">
+        <item>Ocupado creciendo</item>
+        <item>Más lindo y más lindo</item>
+        <item>Pequeño explorador</item>
+    </string-array>
+    <string-array name="last_some_day_fit_title">
+        <item>Diario de fitness</item>
+        <item>Más y más fuerte</item>
+    </string-array>
+    <string-array name="last_some_day_foods_title">
+        <item>¡Buen provecho!</item>
+        <item>¿Otro bocado?</item>
+        <item>¡Disfrute de su comida!</item>
+    </string-array>
+    <string-array name="last_some_day_playground_title">
+        <item>¡Sonrie y saluda!</item>
+        <item>Tiempo de juego</item>
+    </string-array>
+    <string-array name="last_some_day_ski_title">
+        <item>El aire libre</item>
+        <item>Huellas en la nieve</item>
+    </string-array>
+    <string-array name="last_some_day_sports_title">
+        <item>Imparable</item>
+        <item>Mantenerse en forma</item>
+    </string-array>
+    <string-array name="last_some_day_wedding_title">
+        <item>Un gran día</item>
+        <item>¡Por el pasillo!</item>
     </string-array>
     <string-array name="last_week_baby_title">
         <item>Time to play</item>
@@ -306,6 +394,19 @@
         <item>Pasado noviembre</item>
         <item>El pasado diciembre</item>
     </string-array>
+    <string-array name="monthly_babies_title">
+        <item>"¡Has crecido!"</item>
+        <item>"¡Has vuelto a crecer!"</item>
+    </string-array>
+    <string-array name="monthly_foods_title">
+        <item>Mi menú personal</item>
+        <item>Sabrosos recuerdos</item>
+        <item>¡Segunda ayuda, por favor!</item>
+    </string-array>
+    <string-array name="mountain_title">
+        <item>"Las mejores vistas del mundo"</item>
+        <item>Sigue escalando</item>
+    </string-array>
     <string-array name="owner_relation">
         <item>Padre</item>
         <item>Madre</item>
@@ -318,6 +419,22 @@
         <item>Juntos</item>
         <item>Buenos tiempos</item>
         <item>Al unísono</item>
+    </string-array>
+    <string-array name="people_travel_title">
+        <item>Donde nos lleva el camino</item>
+        <item>Viajes bien compartidos</item>
+    </string-array>
+    <string-array name="quarterly_babies_title">
+        <item>Una primavera alegre</item>
+        <item>Un verano alegre</item>
+        <item>Un feliz otoño</item>
+        <item>Un invierno alegre</item>
+    </string-array>
+    <string-array name="quarterly_foods_title">
+        <item>Comidas de primavera</item>
+        <item>Delicias de verano</item>
+        <item>Fiestas de otoño</item>
+        <item>Punto de Invierno</item>
     </string-array>
     <string-array name="recent_group_people">
         <item>Together</item>
@@ -356,6 +473,19 @@
         <item>Siguiendo adelante</item>
         <item>Lleno de energía</item>
     </string-array>
+    <string-array name="spring_season_title">
+        <item>Flores de primavera</item>
+        <item>La primavera está en el aire</item>
+        <item>¡Hola primavera!</item>
+    </string-array>
+    <string-array name="summer_season_title">
+        <item>Un poco de verano</item>
+        <item>Donde el verano nunca termina</item>
+    </string-array>
+    <string-array name="sunrise_sunset_title">
+        <item>Horas doradas</item>
+        <item>Rayos de oro</item>
+    </string-array>
     <string-array name="three_month_baby_title">
         <item>They grow so fast</item>
         <item>"Kiddo's photos"</item>
@@ -365,5 +495,9 @@
         <item>Días para recordar</item>
         <item>Eventos diarios</item>
         <item>Ordinario &amp; Extraordinario</item>
+    </string-array>
+    <string-array name="winter_season_title">
+        <item>Días de invierno</item>
+        <item>Las maravillas de invierno</item>
     </string-array>
 </resources>
