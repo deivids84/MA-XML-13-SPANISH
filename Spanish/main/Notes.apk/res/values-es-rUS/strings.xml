@@ -68,7 +68,7 @@
     <string name="audio_create_will_cancel_state">Suelte para cancelar</string>
     <string name="audio_dialog_mode_meeting">Modo reunión (Beta)</string>
     <string name="audio_dialog_mode_meeting_exit">No, gracias</string>
-    <string name="audio_dialog_mode_meeting_sum">El modo Reunión le permite reconocer las voces de hasta 4 personas diferentes. Es posible que se produzcan algunos errores de reconocimiento en la versión Beta.</string>
+    <string name="audio_dialog_mode_meeting_sum">El modo de reunión le permite reconocer las voces de %1$d-%2$d personas diferentes. Algunos errores de reconocimiento pueden ocurrir en la versión Beta.</string>
     <string name="audio_dialog_mode_meeting_use">Iniciar</string>
     <string name="audio_toast_file_invalid">Archivo de audio inválido</string>
     <string name="audio_toast_file_undownload">"El archivo de audio no está descargado completamente o no se encuentra"</string>

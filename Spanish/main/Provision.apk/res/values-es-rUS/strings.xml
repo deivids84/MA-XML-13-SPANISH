@@ -521,12 +521,8 @@ Puede controlar esta función desde Configuración &gt; Contraseñas &amp; Segur
     <string name="systemdesktop_introduction">El complemento de servicio de la pantalla de inicio le proporciona funciones básicas como la pantalla de inicio, la interfaz de usuario del sistema y capturas de pantalla.</string>
     <string name="term_condition_detail">"Obtenga imágenes asombrosas e historias emocionantes en su pantalla de bloqueo todos los días. Esta función no utilizará sus datos para la personalización sin su consentimiento. Leído y acepto el tercer proveedor de contenido de fiesta &lt;a href =%1$s&gt;Política de privacidad&lt;/a&gt; y &lt;a href =%2$s&gt;Acuerdo de usuario&lt;/a&gt; antes de usar esta función."</string>
     <string name="terms_of_use">Términos y condiciones</string>
-    <string name="terms_of_use_ble_htmlViewer">, Proveedor de Ubicación, HTML Viewer</string>
-    <string name="terms_of_use_label">"Lea nuestro Acuerdo de Usuario y nuestra Política de Privacidad para conocer qué información recopilamos, cómo la utilizamos y qué opciones están disponibles para usted.
-Debe aceptar nuestro Acuerdo de Usuario y nuestra Política de Privacidad antes de poder usar MIUI.
-%s y los componentes de la Cuenta Mi se conectarán a internet para obtener su ubicación."</string>
     <string name="terms_of_use_label_MSA">MSA</string>
-    <string name="terms_of_use_label_Mistore">, complemento del sistema de Tienda Mi</string>
+    <string name="terms_of_use_label_Mistore">Complemento del sistema Mi Store</string>
     <string name="terms_of_use_label_RMS">Administrador de permisos</string>
     <string name="terms_of_use_label_ai_assistant">Asistente de IA</string>
     <string name="terms_of_use_label_app_vault">Bóveda de aplicaciones</string>
@@ -543,13 +539,14 @@ Debe aceptar nuestro Acuerdo de Usuario y nuestra Política de Privacidad antes 
     <string name="terms_of_use_label_info_assistant">Mi Link</string>
     <string name="terms_of_use_label_joyose">Joyose</string>
     <string name="terms_of_use_label_landscape">funcionalidad de optimización de vista horizontal</string>
+    <string name="terms_of_use_label_mab">MAB</string>
     <string name="terms_of_use_label_mi_account">Componentes de Mi Cuenta</string>
     <string name="terms_of_use_label_miuiDaemon">MIUI Daemon</string>
     <string name="terms_of_use_label_miuisdk">MIUI SDK</string>
     <string name="terms_of_use_label_os">Configuración OS AI</string>
-    <string name="terms_of_use_label_package">, instalador de paquete</string>
+    <string name="terms_of_use_label_package">Instalador de paquetes</string>
     <string name="terms_of_use_label_parallel_windows">Ventanas paralelas</string>
-    <string name="terms_of_use_label_phrase">, frases frecuentes</string>
+    <string name="terms_of_use_label_phrase">Frases frecuentes</string>
     <string name="terms_of_use_label_power_detection">Detector de energía</string>
     <string name="terms_of_use_label_power_performance">Batería y rendimiento</string>
     <string name="terms_of_use_label_quickapp">Aplicaciones rápidas</string>
@@ -557,14 +554,12 @@ Debe aceptar nuestro Acuerdo de Usuario y nuestra Política de Privacidad antes 
     <string name="terms_of_use_label_simcard">Servicios de activación de Mi SIM</string>
     <string name="terms_of_use_label_smart_service">servicios inteligentes</string>
     <string name="terms_of_use_label_statistics">Estadísticas</string>
-    <string name="terms_of_use_label_systemhelper">, servicio de auto-registro</string>
+    <string name="terms_of_use_label_systemhelper">Servicio de auto-registro</string>
     <string name="terms_of_use_label_translation">Servicio de traduccion</string>
-    <string name="terms_of_use_label_updater">, Actualizador</string>
+    <string name="terms_of_use_label_updater">Actualizador</string>
     <string name="terms_of_use_label_use_location_and_network_global">Antes de usar MIUI, debe leer y aceptar nuestro Acuerdo de usuario y Política de privacidad. Protegeremos su información personal de acuerdo con las leyes, regulaciones y políticas de privacidad pertinentes. Cuando su dispositivo esté activado, los siguientes servicios se conectarán a la red y accederán a su ubicación:</string>
     <string name="terms_of_use_label_use_network_china">Antes de usar MIUI, debe leer y aceptar nuestro Acuerdo de usuario y Política de privacidad. Protegeremos su información personal de acuerdo con las leyes, regulaciones y políticas de privacidad pertinentes. Cuando su dispositivo esté activado, los siguientes servicios se conectarán a la red:</string>
     <string name="terms_of_use_label_wallpaper">Fondo de pantalla</string>
-    <string name="terms_of_use_lable_apps">Servicios Mi, Servicios de activación Mi SIM, Xiaomi Cloud, Buscar dispositivo, Pantalla de inicio, Juegos, MIUI Daemon, Componentes del sistema MSA, Servicio de traducción, MIUI SDK, Aplicaciones rápidas, Bóveda de aplicaciones, estadísticas, Mi Link</string>
-    <string name="terms_of_use_lable_apps_wifi_device">Servicios Mi, Xiaomi Cloud, Buscar dispositivo, Pantalla de inicio, Juegos, MIUI Daemon, Componentes del sistema MSA, Servicio de traducción, MIUI SDK, Aplicaciones rápidas, Bóveda de aplicaciones, estadísticas, Mi Link</string>
     <string name="terms_of_use_lable_default_input_method_facemoji">"
 
 Debe aceptar la Política de Privacidad de Facemoji antes de utilizar esta función."</string>
@@ -574,9 +569,8 @@ Debe aceptar la Política de Privacidad de Kika antes de utilizar esta función.
     <string name="terms_of_use_lable_default_input_method_mint">"
 
 Debe aceptar la Política de Privacidad del Teclado Mint antes de usar esta función."</string>
-    <string name="terms_of_use_lable_gms">, servicios de Google Play</string>
-    <string name="terms_of_use_lable_smart_cards">, tarjetas inteligentes</string>
-    <string name="terms_of_use_lable_vsimcore">, MConnService</string>
+    <string name="terms_of_use_lable_gms">Servicios de Google Play</string>
+    <string name="terms_of_use_lable_smart_cards">Tarjetas inteligentes</string>
     <string name="terms_of_use_lable_xmsf">Marco de servicio de Xiaomi</string>
     <string name="terms_privacy_policy_input_method_facemoji">Política de Privacidad de Facemoji</string>
     <string name="terms_privacy_policy_input_method_kika">Política de Privacidad de Kika</string>
@@ -633,10 +627,6 @@ Debe aceptar la Política de Privacidad del Teclado Mint antes de usar esta func
     <string name="tuesday_short">Mar</string>
     <string name="tuesday_shortest">Mar</string>
     <string name="user_agreement">Acuerdo de Usuario</string>
-    <string name="user_agreement_declare">Antes de usar MIUI, debe leer y aceptar nuestro Acuerdo de usuario y Política de privacidad. Protegeremos su información personal de acuerdo con las leyes, regulaciones y políticas de privacidad pertinentes. Cuando su dispositivo está activado, las siguientes aplicaciones y servicios se conectarán a la red: servicios de activación de Mi SIM, Xiaomi Cloud, copia de seguridad en la nube, Buscar dispositivo, pantalla de inicio, frases frecuentes, servicios de comunicación por Internet de Xiaomi, servicio de traducción, daemon de MIUI, visor de HTML , MIUI SDK, Secure Element Application, AI Assistant, Batería y rendimiento, Detector de energía, Joyose, OS AI Setting y Updater. Las siguientes aplicaciones y servicios se conectarán a la red y accederán a su ubicación: tarjetas inteligentes, administrador de permisos y servicios inteligentes.</string>
-    <string name="user_agreement_declare_gmscore">Antes de usar MIUI, debe leer y aceptar nuestro Acuerdo de usuario y Política de privacidad. Protegeremos su información personal de acuerdo con las leyes, regulaciones y políticas de privacidad pertinentes. Cuando su dispositivo está activado, las siguientes aplicaciones y servicios se conectarán a la red: servicios de activación de Mi SIM, Xiaomi Cloud, copia de seguridad en la nube, Buscar dispositivo, pantalla de inicio, frases frecuentes, servicios de comunicación por Internet de Xiaomi, servicio de traducción, daemon de MIUI, visor de HTML , MIUI SDK, Secure Element Application, AI Assistant, Batería y rendimiento, Detector de energía, Joyose, OS AI Setting y Updater. Las siguientes aplicaciones y servicios se conectarán a la red y accederán a su ubicación: tarjetas inteligentes, administrador de permisos, ConfigUpdater y servicios inteligentes.</string>
-    <string name="user_agreement_declare_wifi_device">Antes de usar MIUI, debe leer y aceptar nuestro Acuerdo de usuario y Política de privacidad. Protegeremos su información personal de acuerdo con las leyes, regulaciones y políticas de privacidad pertinentes. Cuando su dispositivo esté activado, las siguientes aplicaciones y servicios se conectarán a la red: Xiaomi Cloud, Copia de seguridad en la nube, Buscar dispositivo, Pantalla de inicio, Frases frecuentes, Servicios de comunicación por Internet Xiaomi, Servicio de traducción, MIUI Daemon, Visor HTML, MIUI SDK, Seguro Aplicación de elementos, asistente de IA, batería y rendimiento, detector de potencia, Joyose, configuración de IA del sistema operativo y actualizador. Las siguientes aplicaciones y servicios se conectarán a la red y accederán a su ubicación: tarjetas inteligentes, administrador de permisos y servicios inteligentes.</string>
-    <string name="user_agreement_declare_wifi_device_gmscore">Antes de usar MIUI, debe leer y aceptar nuestro Acuerdo de usuario y Política de privacidad. Protegeremos su información personal de acuerdo con las leyes, regulaciones y políticas de privacidad pertinentes. Cuando su dispositivo esté activado, las siguientes aplicaciones y servicios se conectarán a la red: Xiaomi Cloud, Copia de seguridad en la nube, Buscar dispositivo, Pantalla de inicio, Frases frecuentes, Servicios de comunicación por Internet Xiaomi, Servicio de traducción, MIUI Daemon, Visor HTML, MIUI SDK, Seguro Aplicación de elementos, asistente de IA, batería y rendimiento, detector de potencia, Joyose, configuración de IA del sistema operativo y actualizador. Las siguientes aplicaciones y servicios se conectarán a la red y accederán a su ubicación: tarjetas inteligentes, administrador de permisos, ConfigUpdater y servicios inteligentes.</string>
     <string name="v7_preference_off">APAGADO</string>
     <string name="v7_preference_on">ENCENDIDO</string>
     <string name="voice_assist_advice">Mi AI le permite utilizar controles de voz pero consume más energía (+1% cada hora).</string>

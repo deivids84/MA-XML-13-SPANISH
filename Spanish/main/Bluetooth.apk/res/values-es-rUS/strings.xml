@@ -44,6 +44,7 @@
     <string name="auth_notif_ticker">Solicitud de autenticación de Obex</string>
     <string name="auth_notif_title">Clave de la sesión</string>
     <string name="bluetooth_a2dp_sink_queue_name">Está Sonando</string>
+    <string name="bluetooth_broadcast_status">Transmitir en</string>
     <string name="bluetooth_connected">Audio Bluetooth conectado</string>
     <string name="bluetooth_disconnected">Audio Bluetooth desconectado</string>
     <string name="bluetooth_map_settings_app_icon">Ícono de la aplicación</string>
@@ -60,6 +61,7 @@
     <string name="bluetooth_sap_notif_message">¿Quieres solicitar al cliente que se desconecte?</string>
     <string name="bluetooth_sap_notif_ticker">Acceso a SIM mediante Bluetooth</string>
     <string name="bluetooth_sap_notif_title">Acceso a SIM mediante Bluetooth</string>
+    <string name="broadcast_notification_name">Estado de la transmisión</string>
     <string name="bt_audio_share_notification_content">Toque para ver las opciones</string>
     <string name="bt_audio_share_notification_title">Compartiendo audio</string>
     <string name="bt_enable_cancel">Cancelar</string>

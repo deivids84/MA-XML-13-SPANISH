@@ -999,6 +999,8 @@ se vean más grandes en las fotos"</string>
     <string name="mimoji_tips">Toque para tomar una foto. Mantenga presionado para grabar un video.</string>
     <string name="miservice_notification_content">Toca para saber más</string>
     <string name="miservice_notification_title">Más información sobre las nuevas funciones de la cámara</string>
+    <string name="miuix_access_state_desc">Seleccionado</string>
+    <string name="miuix_alphabet_indexer_name">Barra de índice</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleccionar todo</string>
     <string name="miuix_appcompat_action_mode_title_empty">Seleccionar elementos</string>
@@ -1013,6 +1015,8 @@ se vean más grandes en las fotos"</string>
     <string name="miuix_appcompat_select_all">Seleccionar todo</string>
     <string name="miuix_appcompat_select_all_description">Seleccionar todo</string>
     <string name="miuix_appcompat_select_item">Seleccionar elementos</string>
+    <string name="miuix_indexer_collect">Colecciones</string>
+    <string name="miuix_indexer_selected">Seleccionado %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Deslice hacia abajo para actualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado con éxito</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualizando…</string>
@@ -1052,6 +1056,7 @@ se vean más grandes en las fotos"</string>
     <string name="module_name_super_moon">Superluna</string>
     <string name="module_name_video">Video</string>
     <string name="module_name_vlog">Vlog</string>
+    <string name="moiton_detection_tip">xxxmd se está ejecutando</string>
     <string name="moive_frame">Marco de película</string>
     <string name="monday">Lunes</string>
     <string name="monday_short">Lun</string>
@@ -1468,6 +1473,8 @@ Mantiene al sujeto nítido mientras desenfoca el fondo."</string>
     <string name="pref_camera_tip_id_card">Escáner ID</string>
     <string name="pref_camera_touchafaec_entry_off">Desactivado</string>
     <string name="pref_camera_touchafaec_entry_on">Activado</string>
+    <string name="pref_camera_track_eye_preferred_description">Realice un seguimiento del movimiento de los ojos para mantener los ojos enfocados cuando una persona está en el marco</string>
+    <string name="pref_camera_track_eye_preferred_title">Enfoque de seguimiento ocular</string>
     <string name="pref_camera_track_focus_intro_description">Cuando toma fotos o graba videos con sujetos en movimiento, esta función detecta personas, gatos y perros, y los mantiene enfocados automáticamente. Además, también puede tocar dos veces cualquier sujeto para rastrear el movimiento.</string>
     <string name="pref_camera_track_focus_intro_goto">Activar</string>
     <string name="pref_camera_track_focus_preferred_description">Mantenga enfocados a personas, gatos y perros en movimiento automáticamente o toque dos veces cualquier sujeto para rastrear</string>
@@ -1540,6 +1547,7 @@ Mantiene al sujeto nítido mientras desenfoca el fondo."</string>
     <string name="pref_hdr10_video_mode_description">Optimizar los colores y el contraste para vídeos 4K y 8K automáticamente. Los vídeos optimizados solo se pueden reproducir en dispositivos compatibles con HDR10.</string>
     <string name="pref_hdr10_video_mode_title">HDR10</string>
     <string name="pref_hdr10plus_video_mode_description">Optimice los colores y ajuste el contraste para videos 4K y 8K. Esta función solo funciona en dispositivos compatibles con HDR10+.</string>
+    <string name="pref_hybrid_video_mode_description">Utilice la tecnología HLG para mejorar los colores y el rango dinámico de los videos grabados en alta resolución</string>
     <string name="pref_i_n_r_b">Reducción de ruido inteligente</string>
     <string name="pref_k_h">Monitor in-ear en vivo</string>
     <string name="pref_k_s_i">Monitorear el sonido grabado usando los auriculares cuando estén conectados</string>
@@ -1959,7 +1967,6 @@ El modo ultra gran angular le ayuda cuando no puede alejarse más de la escena."
     <string name="video_effect_entry_summer_day">Verano</string>
     <string name="video_effect_entry_summer_day_describe">Los tonos brillantes y de bajo contraste funcionan bien cuando necesita preservar los tonos de piel. Este filtro es adecuado para escenas soleadas al aire libre.</string>
     <string name="video_effect_entry_wind_sing">Brisa</string>
-    <string name="video_hybrid_tip">híbrido</string>
     <string name="video_overheat_tip_content">Parece que tu dispositivo está demasiado caliente. Intente grabar videos en una resolución más baja.</string>
     <string name="video_reach_size_limit">Límite de tamaño alcanzado.</string>
     <string name="video_shortcut_short">Video</string>

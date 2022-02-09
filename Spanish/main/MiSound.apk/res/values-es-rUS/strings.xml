@@ -74,9 +74,11 @@
     <string name="dolby_dax_setting">Efectos Dolby</string>
     <string name="dolby_dax_title">Sonido envolvente</string>
     <string name="early_morning">Mañana</string>
-    <string name="effect_3dsurround">Sonido envolvente</string>
+    <string name="effect_3dsurround">Sonido inmersivo</string>
     <string name="effect_3dsurround_summary">Mejora la profundidad de reproducción del sonido para auriculares y altavoces</string>
     <string name="effect_3dsurround_summary_headphone">Mejora la profundidad de reproducción del sonido para auriculares</string>
+    <string name="effect_virtual_surround">Sonido inmersivo virtual</string>
+    <string name="effect_virtual_surround_summary">"Enriquezca la profundidad del sonido para la reproducción de audio y video en los auriculares (esta función no funcionará cuando se reproduzca %.1f audio)"</string>
     <string name="end_wireless_transmission">Parar</string>
     <string name="eq_auto">Personalizar</string>
     <string name="eq_blues">Blues</string>
@@ -218,6 +220,8 @@
     <string name="material_timepicker_text_input_mode_description">Cambie al modo de entrada de texto para la entrada de tiempo.</string>
     <string name="midnight">Noche</string>
     <string name="misound_effect_setting">Sonido Mi</string>
+    <string name="miuix_access_state_desc">Seleccionado</string>
+    <string name="miuix_alphabet_indexer_name">Barra de índice</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleccionar todo</string>
     <string name="miuix_appcompat_action_mode_title_empty">Seleccionar elementos</string>
@@ -232,6 +236,7 @@
     <string name="miuix_appcompat_select_all">Seleccionar todo</string>
     <string name="miuix_appcompat_select_all_description">Seleccionar todo</string>
     <string name="miuix_appcompat_select_item">Seleccionar elementos</string>
+    <string name="miuix_indexer_selected">Seleccionado %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Deslice hacia abajo para actualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado con éxito</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualizando…</string>
@@ -520,7 +525,7 @@
     <string name="sound_transmission_stop">Pausar</string>
     <string name="sound_transmission_title">Micrófono inalámbrico</string>
     <string name="spatial_audio">Seguimiento del movimiento de la cabeza</string>
-    <string name="spatial_audio_summary">Ajustar el sonido envolvente según el movimiento de la cabeza</string>
+    <string name="spatial_audio_summary">Ajustar sonido inmersivo basado en movimiento de la cabeza</string>
     <string name="speaker_scenario_resume">Restaurar efectos originales</string>
     <string name="start_test_sound">Comenzar prueba</string>
     <string name="sunday">Domingo</string>

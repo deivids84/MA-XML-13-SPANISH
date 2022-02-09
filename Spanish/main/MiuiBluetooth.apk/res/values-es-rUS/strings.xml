@@ -393,6 +393,13 @@ Protocolo de conexión más rápido."</string>
     <string name="some_app_taking">(%1$s ya está utilizando esta función)</string>
     <string name="start_speech">Iniciar discurso</string>
     <string name="stop_speech">Detener el discurso</string>
+    <string name="stylus_firmware_failed_summary">Active los servicios de ubicación y reinicie Bluetooth. Después de eso, vuelva a colocar el lápiz óptico y vuelva a intentarlo.</string>
+    <string name="stylus_firmware_failed_title">"No se pudo actualizar el firmware"</string>
+    <string name="stylus_firmware_success_summary">Conecte el lápiz para emparejar.</string>
+    <string name="stylus_firmware_success_title">Firmware actualizado con éxito</string>
+    <string name="stylus_firmware_timeout_summary">Tiempo de conexión agotado. Inténtalo de nuevo.</string>
+    <string name="stylus_firmware_update_summary">Actualización del firmware del lápiz óptico…</string>
+    <string name="stylus_firmware_update_title">Firmware del lápiz óptico</string>
     <string name="stylus_ota_check_update">Actualizar</string>
     <string name="sunday">Domingo</string>
     <string name="sunday_short">Dom</string>
