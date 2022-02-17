@@ -1105,6 +1105,7 @@ No perderá ningún dato de aplicación."</string>
     <string name="compatible_dialog_title">Atención</string>
     <string name="comprehensive_protection_measures">Protección integral</string>
     <string name="confirmSecondSpacePassword">Confirmar contraseña del segundo espacio</string>
+    <string name="confirm_ai_allow_all_permission">¿Cambiar el estado de permiso a \"Decide por mí\" para todas las aplicaciones?</string>
     <string name="confirm_allow_all_permission">Allow all apps from using this feature?</string>
     <string name="confirm_bind_xiaomi_account_dialog_title">Agregando Cuenta Mi</string>
     <string name="confirm_fingerprint_msg">Verifique su huella</string>
@@ -1942,10 +1943,12 @@ voluntario"</string>
     <string name="gb_not_support_on_device">"Esta aplicación no se puede utilizar en la pantalla externa"</string>
     <string name="gb_operat_frequently">¡No tan rápido!</string>
     <string name="gb_performance_balance">Equilibrado</string>
+    <string name="gb_performance_balance_tips">"El modo equilibrado ahorra energía
+mientras reduce la frecuencia de actualización y los límites de temperatura"</string>
     <string name="gb_performance_high">Rendimiento</string>
     <string name="gb_performance_mode">Modo gaming</string>
-    <string name="gb_performance_tips">"El uso del modo de rendimiento durante mucho tiempo
-puede agotar la batería y provocar un sobrecalentamiento"</string>
+    <string name="gb_performance_tips">"El modo de rendimiento mejora el rendimiento de los gráficos,
+pero también aumenta el consumo de energía y permite que su dispositivo se sobrecaliente"</string>
     <string name="gb_shortcut_pref_title">Acceso directo en la Pantalla de inicio</string>
     <string name="gb_shoulder_key">Botones gatillo</string>
     <string name="gb_shoulder_key_add_show_btn">Mostrar botones virtuales durante los juegos</string>
@@ -2064,6 +2067,7 @@ de sus sesiones de juego"</string>
     <string name="gd_setting_title">Barra lateral</string>
     <string name="gd_setting_vtb">Mostrar mientras se reproducen videos</string>
     <string name="gd_setting_vtb_desc">Funciones especiales para la reproducción de video</string>
+    <string name="gd_sidebar_long_press_tips">Mantenga presionado el indicador para moverlo mientras sostiene el dispositivo verticalmente</string>
     <string name="gd_splite_screen_tips">"La pantalla dividida no admite ventanas flotantes"</string>
     <string name="gdpr_msg">&lt;Data&gt;Para poder detectar riesgos de seguridad y proteger sus datos, necesitamos recopilar la cantidad necesaria de información sobre su dispositivo. Lea y acepte nuestra &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&gt;Política de privacidad&lt;/a&gt; antes de utilizar nuestros servicios. En caso de que no nos permita recopilar dicha información, aún podrá usar esta aplicación, pero algunas funciones no estarán disponibles para usted. &lt;/Data&gt;</string>
     <string name="get_detail_by_click">Toque para ver detalles</string>
@@ -2140,6 +2144,7 @@ de sus sesiones de juego"</string>
     <string name="gtb_exit_game_to_gtb">Abrir la caja de juego</string>
     <string name="gtb_exit_game_to_home">Volver a la Pantalla de inicio</string>
     <string name="gtb_guide_finish">Omitir</string>
+    <string name="gtb_guide_game_mode_tips">Seleccione el modo de juego preferido</string>
     <string name="gtb_guide_gtb_button_done">Hecho</string>
     <string name="gtb_guide_gtb_community_desc">Comparte tu experiencia con otros jugadores</string>
     <string name="gtb_guide_gtb_community_title">Comunidad</string>
@@ -2147,7 +2152,8 @@ de sus sesiones de juego"</string>
     <string name="gtb_guide_gtb_func_title">Game Turbo</string>
     <string name="gtb_guide_gtb_game_effected">Aplicado</string>
     <string name="gtb_guide_gtb_game_new">Nuevo</string>
-    <string name="gtb_guide_gtb_line_new">¡Mejora tu juego con el nuevo Game Turbo!</string>
+    <string name="gtb_guide_gtb_line_new">¡Prueba el modo Rendimiento en Game Turbo!</string>
+    <string name="gtb_guide_gtb_line_xspace">¡Mejora tu juego con el nuevo Game Turbo!</string>
     <string name="gtb_guide_small_window_app_desc">"Usa otras aplicaciones mientras juegas"</string>
     <string name="gtb_guide_small_window_app_title">Ventanas flotantes</string>
     <string name="gtb_setting_item_summary_disable_ndds_sim">Bloquee todos los servicios de comunicación en la SIM secundaria durante las sesiones de juego para mantener la conexión estable y evitar cambiar entre redes. La SIM secundaria se desbloqueará cuando dejes de jugar.</string>
@@ -4372,6 +4378,7 @@ Retirar el consentimiento ahora?"</string>
     <string name="st_title_editblacklist">Editar la lista de bloqueo</string>
     <string name="st_title_editwhitelist">Editar excepciones</string>
     <string name="st_title_keywords_blacklist">Lista negra de palabras clave</string>
+    <string name="st_title_keywords_list">Lista de palabras clave</string>
     <string name="st_title_keywords_whitelist">Excepciones de palabras clave</string>
     <string name="st_title_man_addblacklist">Agregar número a la lista de bloqueo</string>
     <string name="st_title_man_addwhitelist">Agregar número telefónico a las excepciones</string>

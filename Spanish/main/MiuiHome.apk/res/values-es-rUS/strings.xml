@@ -142,7 +142,6 @@
     <string name="app_category_tools">Herramientas</string>
     <string name="app_category_travel">Viajes</string>
     <string name="app_category_vr">VR</string>
-    <string name="app_name">smallWindow</string>
     <string name="application_name">Launcher del sistema</string>
     <string name="apply">Aplicar</string>
     <string name="apply_action">Aplicar</string>
@@ -651,8 +650,6 @@
     <string name="reset_fail">"No se pudo restaurar"</string>
     <string name="reset_scene_prompt">La pantalla será restaurada al diseño por defecto.</string>
     <string name="reset_title">Restaurar</string>
-    <string name="resource_canary_leak_tip">tiene fuga!</string>
-    <string name="resource_canary_wait_for_heapdump_message">Volcando instantánea de montón ...</string>
     <string name="restore_icon_successful">Agregado con éxito</string>
     <string name="russia_preinstall_folder_name">Rusia</string>
     <string name="saturday">Sábado</string>

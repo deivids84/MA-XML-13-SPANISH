@@ -70,6 +70,7 @@
     <string name="cancel">Cancelar</string>
     <string name="cancel_running_download">Cancelar</string>
     <string name="cancle">Cancelar</string>
+    <string name="category">Categoría</string>
     <string name="choose_open_picture">Seleccionar acción</string>
     <string name="choose_open_time">"Elija cuando le gustaría comenzar"</string>
     <string name="clear_data">Limpiar</string>
@@ -136,6 +137,7 @@
     <string name="do_not_support_url">"Este tipo de URL no es compatible"</string>
     <string name="doc_filter">Docs</string>
     <string name="download">Descargas</string>
+    <string name="downloadCount">Descargas</string>
     <string name="download_auth">Obteniendo autorización…</string>
     <string name="download_complete">Descargado</string>
     <string name="download_description_content">"Descargas es una aplicación del sistema. No podrá administrar sus descargas después de eliminarlo."</string>
@@ -394,6 +396,7 @@ en todos tus dispositivos con Xunlei"</string>
     <string name="notify_install_guide_title">Instaladas %s correctamente</string>
     <string name="notify_not_support">"Tales notificaciones no son compatibles, actualice ahora"</string>
     <string name="notify_only_wifi_download">Esperando por Wi-Fi</string>
+    <string name="nowInstall">Instalar</string>
     <string name="one_month">1 mes</string>
     <string name="only_support_torrent">Solo los archivos torrent son compatibles</string>
     <string name="open">Abrir</string>
@@ -512,6 +515,7 @@ en todos tus dispositivos con Xunlei"</string>
     <string name="shortcut_dialog_create">Crear</string>
     <string name="shortcut_dialog_title">Crear acceso directo en la Pantalla de inicio?</string>
     <string name="show_more">Mostrar %s más</string>
+    <string name="size">Tamaño</string>
     <string name="size_byte">B</string>
     <string name="size_giga_byte">GB</string>
     <string name="size_kilo_byte">KB</string>

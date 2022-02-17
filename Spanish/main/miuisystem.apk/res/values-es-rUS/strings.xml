@@ -75,8 +75,6 @@
     <string name="kungfu">Kung fu</string>
     <string name="leisure">Ocio</string>
     <string name="lollipop">Lollipop</string>
-    <string name="lunar_calendar">Calendario lunar</string>
-    <string name="lunar_leap">intercalar</string>
     <string name="makewishes">Deseo de cumpleaños</string>
     <string name="martix">Mátrix</string>
     <string name="messagesent">Mensaje enviado</string>
@@ -119,15 +117,12 @@ mm"</string>
     <string name="reveries">Reveries (estéreo)</string>
     <string name="robot">Robot</string>
     <string name="secretgarden">Jardín secreto</string>
-    <string name="solar_calendar">Calendario gregoriano</string>
     <string name="spaceage">Era espacial</string>
     <string name="spring">Resorte</string>
     <string name="sunrise">Amanecer</string>
     <string name="surprise">Sorpresa</string>
     <string name="swoosh">Silbido</string>
-    <string name="the_spring_festival">Año nuevo chino</string>
     <string name="toyrobot">Robot de juguete</string>
-    <string name="valentines_day">/&gt;</string>
     <string name="vigor">Vigor</string>
     <string name="vip_achievements">Logros</string>
     <string name="vip_level">Nv%d</string>

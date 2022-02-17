@@ -57,6 +57,7 @@
     <string name="friday_short">Vie</string>
     <string name="friday_shortest">Vie</string>
     <string name="garbage_count">Hay %1$s instancias antiguas</string>
+    <string name="long_screenshot_error">"No se pudo tomar la captura de pantalla. Vuelve a intentarlo."</string>
     <string name="long_screenshot_guide_text">"Toque para hacer
 una captura deslizable"</string>
     <string name="long_screenshot_intercepted_error">"No se pudo tomar la captura de pantalla. Vuelve a intentarlo."</string>

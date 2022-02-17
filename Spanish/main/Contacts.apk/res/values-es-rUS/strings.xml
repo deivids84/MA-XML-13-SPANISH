@@ -306,6 +306,7 @@
     <string name="calllog_menu_blacklist">Bloquear</string>
     <string name="calllog_menu_edit_before_call">Editar</string>
     <string name="calllog_menu_send_sms">Enviar mensaje</string>
+    <string name="calllog_record_none_toast">No hay grabaciones de llamadas para mostrar</string>
     <string name="callrecordview_item_op_time_minutes_seconds">%1$dm %2$ds</string>
     <string name="callrecordview_item_op_time_missed">"No contestada"</string>
     <string name="callrecordview_item_op_time_only_minutes">%d min</string>
@@ -844,6 +845,12 @@ Motivo: \"%s\""</string>
     <string name="name_phonetic_middle">Segundo nombre fonético</string>
     <string name="name_prefix">Prefijo del nombre</string>
     <string name="name_suffix">Sufijo del nombre</string>
+    <string name="new_saf_permission_dialog_content">"Se actualizaron los permisos de contactos. Permitir a los contactos acceder a las grabaciones de llamadas.
+
+Cómo conceder el permiso
+Pulsa \"%1$s\" y luego selecciona \"%2$s\"."</string>
+    <string name="new_saf_permission_dialog_grant_permission_immediately">Siguiente</string>
+    <string name="new_saf_permission_dialog_title"><b>Permisos requeridos</b></string>
     <string name="next">Siguiente</string>
     <string name="next_birthday">Próximo cumpleaños: %s</string>
     <string name="nfc_vcard_file_name">Contacto recibido por NFC</string>
@@ -1264,6 +1271,7 @@ Motivo: \"%s\""</string>
     <string name="the_united_nations_day">Día de las Naciones Unidas</string>
     <string name="the_valentines_day">"San Valentín"</string>
     <string name="the_water_lantern_festival">Festival de la linterna de agua</string>
+    <string name="this_folder">Usa esta carpeta</string>
     <string name="three_letter">DEF</string>
     <string name="thursday">Jueves</string>
     <string name="thursday_short">Jue</string>

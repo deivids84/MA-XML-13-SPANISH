@@ -431,6 +431,8 @@
     <string name="shortcut_new_alarm">Establecer alarma</string>
     <string name="shortcut_start_timer">Iniciar temporizador</string>
     <string name="shortcut_stop_watch">Iniciar cronómetro</string>
+    <string name="show_life_post_desc">"Los informes matutinos no se mostrarán si desactiva esta función"</string>
+    <string name="show_life_post_lable">Mostrar informe matutino</string>
     <string name="shut_down_keep_screen">"La pantalla no se mantendrá encendida"</string>
     <string name="shutdown_alarm_alert_enable_summary">Las alarmas sonarán si fueron programadas para hacerlo al menos 10 minutos después de apagar su dispositivo</string>
     <string name="shutdown_alarm_alert_enable_summary_new">Enciéndalo para que las alarmas configuradas se apaguen cuando su dispositivo esté apagado. Solo se apagarán las alarmas configuradas durante al menos %d minutos después de apagar el dispositivo.</string>
@@ -443,6 +445,7 @@
     <string name="sleep_analysis">Estadísticas</string>
     <string name="sleep_analysis_chart_date_format">dd/MM</string>
     <string name="sleep_date_provider_text">Datos de sueño proporcionados por Xiaomi Salud</string>
+    <string name="sleep_date_provider_text_new">Los datos de sueño son proporcionados por Mi Fitness</string>
     <string name="sleep_duration">"Duración del sueño: "</string>
     <string name="sleep_duration_avg_text_diff">Duración media del sueño (%1$s-%2$s)</string>
     <string name="sleep_duration_desc">Dormiste %1$s %2$s</string>
@@ -456,6 +459,7 @@
     <string name="sleep_record">Monitorear sueño</string>
     <string name="sleep_record_desc">Active para comenzar a grabar datos de sueño</string>
     <string name="sleep_record_desc_detailed">La funcionalidad de seguimiento del sueño es proporcionada por Xiaomi Salud. Una vez activado, Xiaomi Salud registra automáticamente su sueño en función del uso de su teléfono, las estadísticas de actividad, así como el tiempo que se duerme y se despierta, y le muestra estadísticas en forma de gráficos. Para rastrear el sueño con mayor precisión, permita que Xiaomi Salud se inicie automáticamente. Todos los datos relacionados se almacenarán localmente en su dispositivo, lo que le permite administrarlos fácilmente.</string>
+    <string name="sleep_record_desc_detailed_new">El seguimiento del sueño lo proporciona la función Mi Fitness Sleep. Si activa esta función, Mi Fitness recopilará y mostrará automáticamente datos sobre su sueño en función del uso del teléfono, la actividad y la hora de acostarse y despertarse que establezca. Para realizar un seguimiento del sueño con mayor precisión, permita que Mi Fitness se inicie automáticamente.</string>
     <string name="sleep_record_no_data">Sus estadísticas aparecerán después de que Xiaomi Salud analice los suficientes datos</string>
     <string name="sleep_remind">Recordatorio para acostarte</string>
     <string name="sleep_time">Quedarse dormido</string>
@@ -618,6 +622,8 @@
     <string name="upcoming_alarm_hint">Puede desactivar esta alarma ahora</string>
     <string name="update_health_app">Actualizar Xiaomi Salud</string>
     <string name="update_health_app_desc">La función de seguimiento del sueño es proporcionada por Xiaomi Salud. Actualice Xiaomi Salud a la última versión para acceder a las funciones relacionadas.</string>
+    <string name="update_health_app_desc_new">Mi Fitness proporciona la función de seguimiento del sueño. Actualice Mi Fitness a su última versión para acceder a funciones relacionadas.</string>
+    <string name="update_health_app_new">Actualizar Mi Fitness</string>
     <string name="update_it">Actualizar</string>
     <string name="update_notification_info">Actualizando datos en segundo plano…</string>
     <string name="usage_start">Comenzar</string>

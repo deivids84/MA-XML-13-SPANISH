@@ -64,10 +64,6 @@
         <item quantity="other">%d mensajes</item>
         <item quantity="one">%d mensaje</item>
     </plurals>
-    <plurals name="dirty_music_count">
-        <item quantity="other">%d canciones</item>
-        <item quantity="one">%d canción</item>
-    </plurals>
     <plurals name="dirty_note_count">
         <item quantity="other">%d notas</item>
         <item quantity="one">%d nota</item>

@@ -230,6 +230,7 @@ dd/MM"</string>
     <string name="saturday_shortest">Sáb.</string>
     <string name="search_menu_title">Buscar</string>
     <string name="send">Enviar</string>
+    <string name="service_name">MiplayAudio</string>
     <string name="small_display_style">Pantalla trasera</string>
     <string name="sps_cancel">Mantenga pulsado para salir</string>
     <string name="step_to_image_community">Encuentre más en Comunidad Mi</string>
@@ -306,8 +307,6 @@ dd/MM"</string>
     <string name="thursday_short">Jue</string>
     <string name="thursday_shortest">Jue</string>
     <string name="time_picker_dialog_title">Ajustar hora</string>
-    <string name="time_picker_label_hour">h</string>
-    <string name="time_picker_label_minute">min</string>
     <string name="time_style">Estilo reloj</string>
     <string name="today">Hoy</string>
     <string name="tomorrow">Mañana</string>

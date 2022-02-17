@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="HIPS_Perm_External_Storage">Almacenamiento</string>
+    <string name="HIPS_Perm_External_Storage_Desc">Acceda y guarde archivos y fotos en su dispositivo</string>
+    <string name="HIPS_Perm_Read_Contact">Contactos</string>
+    <string name="HIPS_Perm_Read_Contact_Desc">Acceder a tus contactos</string>
     <string name="abc_action_bar_home_description">Navegar a la página principal</string>
     <string name="abc_action_bar_up_description">Navegar hacia arriba</string>
     <string name="abc_action_menu_overflow_description">Más opciones</string>

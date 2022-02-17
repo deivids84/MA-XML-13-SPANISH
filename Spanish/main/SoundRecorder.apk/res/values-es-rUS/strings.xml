@@ -282,6 +282,11 @@
     <string name="network_tip_dialog_title">Se requiere conexión a internet</string>
     <string name="network_unavailable_tip">Conectarse a la red y volver a intentar.</string>
     <string name="new_record_name">Nuevo grabación</string>
+    <string name="new_saf_permission_dialog_content">"Se actualizaron los permisos de la grabadora. Permita que la grabadora acceda a las grabaciones de llamadas.
+
+Cómo conceder permiso
+Toque \"%1$s\" y luego seleccione \"%2$s\"."</string>
+    <string name="new_saf_permission_dialog_grant_permission_immediately">Siguiente</string>
     <string name="night">Noche</string>
     <string name="no_content">No hay elementos aquí todavía</string>
     <string name="no_file">Vacío</string>
@@ -590,6 +595,7 @@
     <string name="the_united_nations_day">Día de las Naciones Unidas</string>
     <string name="the_valentines_day">"San Valentín"</string>
     <string name="the_water_lantern_festival">Festival de la linterna de agua</string>
+    <string name="this_folder">Usa esta carpeta</string>
     <string name="thursday">Jueves</string>
     <string name="thursday_short">Jue</string>
     <string name="thursday_shortest">Jue</string>

@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="agenda_weeks_of_year">
-        <item>Semana 1</item>
-        <item>Semana 2</item>
-        <item>Semana 3</item>
-        <item>Semana %1$d</item>
-    </string-array>
     <string-array name="alphabet_table">
         <item>A</item>
         <item>B</item>
@@ -65,41 +59,32 @@
         <item>Z</item>
         <item>\#</item>
     </string-array>
-    <string-array name="app_commute_tab_array">
-        <item>Conductor</item>
-        <item>Transporte público</item>
-        <item>Taxi</item>
+    <string-array name="pa_covid_items_default">
+        <item>COVID-19</item>
+        <item>Código de salud</item>
+        <item>PCR</item>
+        <item>Áreas de alto riesgo</item>
     </string-array>
-    <string-array name="app_health_setting_text_array_duration">
-        <item>10 minutos</item>
-        <item>20 minutos</item>
-        <item>30 minutos</item>
-        <item>60 minutos</item>
+    <string-array name="pa_day_time_space">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
     </string-array>
-    <string-array name="base_day_time_space">
-        <item>Noche</item>
-        <item>Noche</item>
-        <item>Mañana</item>
-        <item>Tarde</item>
-        <item>Tarde</item>
-        <item>Noche</item>
-        <item>Noche</item>
+    <string-array name="pa_home_week_days">
+        <item>Domingo</item>
+        <item>Lunes</item>
+        <item>Martes</item>
+        <item>Miércoles</item>
+        <item>Jueves</item>
+        <item>Viernes</item>
+        <item>Sábado</item>
+        <item>Domingo</item>
     </string-array>
-    <string-array name="day_time_space">
-        <item>Noche</item>
-        <item>Temprano por la mañana</item>
-        <item>Mañana</item>
-        <item>Mediodía</item>
-        <item>Tarde</item>
-        <item>Al final de la tarde</item>
-        <item>Noche</item>
-    </string-array>
-    <string-array name="detail_font_size">
-        <item>Pequeño</item>
-        <item>Normal</item>
-        <item>Grande</item>
-    </string-array>
-    <string-array name="stock_color_schema">
+    <string-array name="pa_stock_color_schema_value_array">
         <item>Rojo - arriba, verde - abajo</item>
         <item>Verde - arriba, rojo - abajo</item>
     </string-array>

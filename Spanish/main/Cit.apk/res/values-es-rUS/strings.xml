@@ -64,6 +64,7 @@ Sostenga el dispositivo como si estuviera haciendo una llamada, hable al micróf
     <string name="cit_front_camera_motor_cali_tips">No bloquee la cámara durante el proceso de calibración del motor de la cámara emergente</string>
     <string name="cit_gyrodata_second_sensor_check_title">Segundo giroscopio</string>
     <string name="cit_gyroscope_second_cali_title">Segunda prueba de calibración del sensor del giroscopio</string>
+    <string name="cit_ispv3_test">Prueba ISPv3</string>
     <string name="cit_light_sensor_check_summary">El valor DAC debe aparecer a continuación, por favor pruebe el sensor de luz</string>
     <string name="cit_nfc_check_summary">"Por favor, haga clic en el botón para iniciar NFC y, a continuación, coloque la tarjeta en la parte superior de la parte posterior del dispositivo. 
 No apague la pantalla durante la prueba"</string>
