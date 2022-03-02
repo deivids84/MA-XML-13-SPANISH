@@ -392,6 +392,10 @@
     <string name="reach_upper_limit">"No puede agregar más temporizadores"</string>
     <string name="read_external_storage_permission_desc">Para configurar tonos de llamada personalizados</string>
     <string name="read_internal_storage">Acceder al almacenamiento</string>
+    <string name="read_phone_state">Acceder a la información del dispositivo</string>
+    <string name="read_phone_state_desc">Acceder al estado de la llamada cuando suena la alarma</string>
+    <string name="read_phone_state_desc_when_request">Para acceder al estado de la llamada para pausar automáticamente las alarmas al recibir llamadas</string>
+    <string name="remark_hint">Introducir etiqueta</string>
     <string name="remind_ringtone">Tono de llamada</string>
     <string name="repeat_count">Veces</string>
     <string name="repeat_type">Repetir</string>
@@ -668,8 +672,5 @@
     <string name="worldcolock_timezone_gap">%s h</string>
     <string name="worldcolock_timezone_local">Igual a la hora local</string>
     <string name="xiaoai_ringtone_title">Tonos de llamada Mi AI</string>
-    <string name="xiaomi_market_sdk_update_dialog_cancel">Ahora no</string>
-    <string name="xiaomi_market_sdk_update_dialog_ok">Actualizar</string>
-    <string name="xiaomi_market_sdk_update_dialog_title">Hay una actualización disponible</string>
     <string name="yesterday">Ayer</string>
 </resources>

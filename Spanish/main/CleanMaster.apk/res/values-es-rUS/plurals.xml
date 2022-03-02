@@ -48,6 +48,10 @@
         <item quantity="other">"No se ha usado por %d años"</item>
         <item quantity="one">"No se ha usado por %d año"</item>
     </plurals>
+    <plurals name="clean_app_data_selected_app">
+        <item quantity="other">%d aplicaciones seleccionadas para borrar datos</item>
+        <item quantity="one">%d aplicación seleccionada para borrar datos</item>
+    </plurals>
     <plurals name="clean_long_msg_p1">
         <item quantity="other">"Limpiando %1$d archivos (%2$d%%)
 "</item>
@@ -69,6 +73,10 @@
     <plurals name="dc_item_summary_app_data">
         <item quantity="other">&lt;Data&gt;Puede eliminar los datos de &lt;font color=#0097FF&gt;%d&lt;/font&gt; aplicaciones&lt;/Data&gt;</item>
         <item quantity="one">&lt;Data&gt;Puede eliminar los datos de &lt;font color=#0097FF&gt;%d&lt;/font&gt; aplicación&lt;/Data&gt;</item>
+    </plurals>
+    <plurals name="dc_item_summary_app_reset">
+        <item quantity="other">&lt;Data&gt;&lt;font color=#0097FF&gt;%d&lt;/font&gt; aplicaciones usan mucho espacio de almacenamiento&lt;/Data&gt;</item>
+        <item quantity="one">&lt;Data&gt;&lt;font color=#0097FF&gt;%d&lt;/font&gt; la aplicación usa mucho espacio de almacenamiento&lt;/Data&gt;</item>
     </plurals>
     <plurals name="dc_item_summary_image">
         <item quantity="other">&lt;Data&gt;Puede eliminar &lt;font color=#0097FF&gt;%d&lt;/font&gt; fotos innecesarias&lt;/Data&gt;</item>
@@ -214,6 +222,10 @@
         <item quantity="other">Descargado por %1$d personas</item>
         <item quantity="one">Descargado por %1$d persona</item>
     </plurals>
+    <plurals name="reset_app_selected_app">
+        <item quantity="other">%d aplicaciones seleccionadas para restablecer</item>
+        <item quantity="one">%d aplicación seleccionada para restablecer</item>
+    </plurals>
     <plurals name="resutl_function_install_app_summary">
         <item quantity="other">&lt;Data&gt;&lt;font color=#ff0000 &gt;%d&lt;/font&gt; aplicaciones no han sido usadas en mucho tiempo, eche un vistazo.&lt;/Data&gt;</item>
         <item quantity="one">&lt;Data&gt;&lt;font color=#ff0000 &gt;%d&lt;/font&gt; aplicación no ha sido usada en mucho tiempo, eche un vistazo.&lt;/Data&gt;</item>
@@ -229,6 +241,14 @@
     <plurals name="second">
         <item quantity="other">%1$d segundos</item>
         <item quantity="one">%1$d segundo</item>
+    </plurals>
+    <plurals name="select_app">
+        <item quantity="other">%d aplicaciones seleccionadas</item>
+        <item quantity="one">%d aplicación seleccionada</item>
+    </plurals>
+    <plurals name="unload_app_selected_app">
+        <item quantity="other">%d aplicaciones seleccionadas para desinstalar</item>
+        <item quantity="one">%d aplicación seleccionada para desinstalar</item>
     </plurals>
     <plurals name="video_clean_scan_app_result">
         <item quantity="other">%d aplicaciones con vídeos almacenados en caché</item>

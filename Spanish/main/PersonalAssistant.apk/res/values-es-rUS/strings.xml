@@ -410,8 +410,8 @@ para mostrar widgets."</string>
     <string name="pa_recommend_no_network">Descarga la aplicación primero</string>
     <string name="pa_rtk_card_title">Panel de Control</string>
     <string name="pa_rtk_more_content_description">Opciones</string>
-    <string name="pa_rtk_more_text">No interesado</string>
     <string name="pa_rtk_place_holder_text">Este widget se ha movido al panel de control por ahora</string>
+    <string name="pa_rtk_unlike_text">Desanclar</string>
     <string name="pa_rts_summary">Colocar los widgets más utilizados en el panel de control</string>
     <string name="pa_rts_text">Panel de Control</string>
     <string name="pa_scan">Escanear</string>

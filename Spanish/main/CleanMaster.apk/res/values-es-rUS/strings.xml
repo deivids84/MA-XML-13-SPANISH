@@ -52,6 +52,7 @@
     <string name="activity_title_uninstall_apps">Aplicaciones</string>
     <string name="activity_title_video">Eliminar videos</string>
     <string name="activity_title_white_list">Excepciones</string>
+    <string name="ad_description" formatted="false">%s | Versión %s | %s | %s</string>
     <string name="ad_install_success_dialog_lunch">Abrir</string>
     <string name="ad_install_success_dialog_title">%1$s instalado con éxito. ¿Abrir?</string>
     <string name="afternoon">PM</string>
@@ -66,9 +67,13 @@
     <string name="app_clean_group_document_send">Archivos enviados</string>
     <string name="app_clean_group_image_recv">Imágenes recibidas</string>
     <string name="app_clean_group_image_send">Imágenes enviadas</string>
+    <string name="app_cleaned">Limpiado con éxito</string>
     <string name="app_description_content">Limpiador encuentra basura en su dispositivo y libera espacio de almacenamiento. Asegúrese de de no necesitar estas funciones antes de desinstalar la aplicación.</string>
     <string name="app_description_title">Acerca de la aplicación Limpieza</string>
     <string name="app_name">desenfoque</string>
+    <string name="app_reset">Reiniciar</string>
+    <string name="app_specific_clean">Limpiador de aplicaciones</string>
+    <string name="app_unload">Desinstalar</string>
     <string name="app_usage_never">No usado recientemente</string>
     <string name="app_usage_recently">Usado recientemente</string>
     <string name="appcleaner_g_audio_summary_qq">Elimine permanentemente mensajes de voz de QQ</string>
@@ -169,6 +174,7 @@
     <string name="cache_title_system_cache">Caché de datos</string>
     <string name="cached_garbage">Caché</string>
     <string name="cancel">Cancelar</string>
+    <string name="cancel_select_all">Deseleccionar todo</string>
     <string name="cd_back">atrás</string>
     <string name="cd_check_box_checked">seleccionado</string>
     <string name="cd_check_box_middle">selección parcial</string>
@@ -179,6 +185,10 @@
     <string name="cd_scanning">escaneando</string>
     <string name="cd_settings">ajustes</string>
     <string name="cd_sort_type">ordenar tipo</string>
+    <string name="clean_ing">Limpiando…</string>
+    <string name="clean_item_tip_data_app">Borrar datos para %s</string>
+    <string name="clean_item_tip_reset_app">Restablecer %s</string>
+    <string name="clean_item_tip_unload_app">Desinstalar %s</string>
     <string name="clean_master_icon_recall_button_text">Añadir</string>
     <string name="clean_master_icon_recall_dialog_button_negative">No, gracias</string>
     <string name="clean_master_icon_recall_dialog_button_positive">Añadir</string>
@@ -189,6 +199,7 @@
     <string name="clean_master_icon_recall_title">Limpia la basura más rápido</string>
     <string name="clean_master_icon_recall_toast_text">Se añadió con éxito un acceso directo en la pantalla de inicio para Limpiador</string>
     <string name="clean_summary">%1$s limpiados</string>
+    <string name="clear_app_data">Borrar</string>
     <string name="clear_bigfiles">Eliminar archivos pesados, fotos duplicadas y otros elementos obsoletos</string>
     <string name="clear_immediately">Limpiar ahora</string>
     <string name="clear_safe_notify">Widget en el panel de notificaciones</string>
@@ -197,7 +208,10 @@
     <string name="confirm_auto_cleaner">Aceptar</string>
     <string name="conn_of_function_safe">Conexión de red para Seguridad</string>
     <string name="connecting">Conectando…</string>
+    <string name="continue_check">Seleccionar</string>
+    <string name="continue_to_do">Continuar</string>
     <string name="copy">Copiar</string>
+    <string name="data_selected">Elementos seleccionados</string>
     <string name="date_picker_lunar">Calendario chino tradicional</string>
     <string name="date_time_picker_dialog_title">Establecer fecha y hora</string>
     <string name="dc_activity_title">Limpieza profunda</string>
@@ -258,6 +272,7 @@
     <string name="default_cache_type">Archivos de datos</string>
     <string name="delete_confirm">Eliminar</string>
     <string name="delete_confirm_msg">¿Eliminar todos los archivos seleccionados permanentemente?</string>
+    <string name="delete_slected_data">Reiniciar</string>
     <string name="desc_image">imagen</string>
     <string name="dialog_content_checkbox_delete_cloud_image">Eliminar fotos de Xiaomi Cloud también</string>
     <string name="dialog_content_select_all_confirm">¿Mantener una copia de esta foto?</string>
@@ -469,7 +484,10 @@
     <string name="install_time_format">dd/MM/yyyy</string>
     <string name="installed">Instalado</string>
     <string name="installing">Instalando</string>
+    <string name="is_Scanning">Escaneando…</string>
+    <string name="item_content_app_reset">%s ocupado</string>
     <string name="item_title_process_mode">Seleccione una acción</string>
+    <string name="jump_to_next">Omitir</string>
     <string name="junk_temporary_file">Archivos temporales</string>
     <string name="just_now">Justo ahora</string>
     <string name="kilobyteShort">kB</string>
@@ -577,10 +595,12 @@
     <string name="nb_clear_set">Limpiar caché, ver batería e información de lista de bloqueo en el panel de notificaciones</string>
     <string name="network_not_available">"No se pudo conectar a la red"</string>
     <string name="news_change">Cambiar</string>
+    <string name="next_step">Siguiente</string>
     <string name="night">Tarde</string>
     <string name="no_network">"No fue posible conectarse a la red, Inténtalo de nuevo más tarde"</string>
     <string name="no_network_btn">Vuelva a intentarlo</string>
     <string name="noon">Mediodía</string>
+    <string name="not_selected_tips">Selecciona aplicaciones primero.</string>
     <string name="not_set">Sin definir</string>
     <string name="notification_apk_clean_button_text">Limpiar</string>
     <string name="notification_checker_installed_apk_hint">No es necesario mantener los APK después de la instalación</string>
@@ -733,6 +753,9 @@
     <string name="recommend_news">Recibir recomendaciones</string>
     <string name="recommend_the_following">Lleve a cabo las siguientes acciones para obtener el máximo provecho de su dispositivo</string>
     <string name="recommended">Destacado</string>
+    <string name="reset_app_dialog_summary">"Estás a punto de restablecer las aplicaciones que has seleccionado. Todos los datos de sus aplicaciones (incluido el estado de inicio de sesión, la configuración, las imágenes en caché, los videos, los archivos y los chats) se eliminarán de forma permanente y las aplicaciones volverán a su estado inicial."</string>
+    <string name="reset_app_dialog_title">Restableciendo aplicaciones</string>
+    <string name="reset_selected">Restablecer %s</string>
     <string name="resutl_function_deep_clean_summary">&lt;Data&gt;&lt;font color=#ff0000 &gt;%1$s&lt;/font&gt; más archivos pueden ser limpiados. Liberar más espacio.&lt;/Data&gt;</string>
     <string name="resutl_function_qq_clean_summary">&lt;Data&gt;Puede borrar &lt;font color=#ff0000 &gt;%1$s&lt;/font&gt; del caché generado por QQ&lt;/Data&gt;</string>
     <string name="resutl_function_wechat_clean_summary">&lt;Data&gt;&lt;font color=#ff0000 &gt;%1$s&lt;/font&gt; de caché de WeChat. Liberar más espacio.&lt;/Data&gt;</string>
@@ -748,6 +771,7 @@
     <string name="search_menu_title">Buscar</string>
     <string name="security_center_slogan">Mantenga su dispositivo rápido y seguro</string>
     <string name="see_more">Más</string>
+    <string name="select_all">Seleccionar todo</string>
     <string name="send">Enviar</string>
     <string name="set_immediately">Establecer</string>
     <string name="seton_immediately">Activar</string>
@@ -787,6 +811,7 @@
     <string name="solar_term_winter_begins">Comienza el invierno</string>
     <string name="solar_term_winter_solstice">Solsticio de invierno</string>
     <string name="sponsored">Patrocinado</string>
+    <string name="start_clean">Iniciar</string>
     <string name="start_downloading_app">Iniciando descarga: %1$s</string>
     <string name="start_install">Instalar ahora</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
@@ -844,6 +869,11 @@
     <string name="thursday_short">Jue</string>
     <string name="thursday_shortest">Jue</string>
     <string name="time_picker_dialog_title">Establecer hora</string>
+    <string name="tips_app_reset_dialog">Restablecer libera espacio de almacenamiento al máximo sin desinstalar la aplicación. Sin embargo, todos los datos de la aplicación (incluido su estado de inicio de sesión, configuraciones, imágenes en caché, videos, archivos y chats) de la aplicación que restableció se eliminarán de forma permanente.</string>
+    <string name="tips_app_reset_result_page">Restablezca las aplicaciones para borrar todos sus datos y devolverlos al estado inicial</string>
+    <string name="tips_app_reset_top">Restablecer devuelve las aplicaciones a su estado inicial y borra todos sus datos</string>
+    <string name="tips_app_specific_clean_result_page">Libera espacio de almacenamiento</string>
+    <string name="tips_data_page">Prueba a borrar los datos de la aplicación para liberar espacio de almacenamiento</string>
     <string name="tips_low_storage_dialog_cancel">Cancelar</string>
     <string name="tips_low_storage_dialog_msg_qq">La memoria caché de QQ alcanzó los 3 GB y esto podría ralentizar su dispositivo. ¿Limpiar memoria caché de QQ?</string>
     <string name="tips_low_storage_dialog_msg_qq_new">El tamaño de la caché QQ ha alcanzado los %d GB. Esto podría ralentizar su dispositivo. ¿Limpiar la caché de QQ ahora?</string>
@@ -866,6 +896,9 @@
     <string name="tips_of_traffic_notification">Ver estadísticas de datos móviles en el panel de notificaciones</string>
     <string name="tips_of_traffic_pack_threshold">"Compre más datos cuando este a punto de alcanzar el límite de datos mensuales"</string>
     <string name="tips_of_virus_scan">Escaneé su dispositivo regularmente en busca de virus para mantenerlo seguro</string>
+    <string name="tips_reset_page">Intenta restablecer las aplicaciones para borrar todos sus datos y liberar espacio de almacenamiento</string>
+    <string name="tips_result_ad">¿Probar estas aplicaciones en el espacio liberado?</string>
+    <string name="tips_unload_page">"Intenta desinstalar las aplicaciones que no has usado en %d días"</string>
     <string name="title_auto_cleaner">Recordar limpiar</string>
     <string name="title_delete_cache">Limpiar caché de aplicaciones</string>
     <string name="title_delete_clipboard">Contenidos de portapapeles</string>
@@ -882,6 +915,7 @@
     <string name="title_of_traffic_notification">Barra de estadísticas de datos</string>
     <string name="title_optimizer">Términos y Condiciones</string>
     <string name="title_share_link">Compartir URL</string>
+    <string name="to_reset_app">Reiniciar</string>
     <string name="toast_add_white_list_success">Se agregó a las excepciones con éxito</string>
     <string name="toast_app_no_residual_on_sdcard">"La aplicación no tiene ningún archivo guardado en su tarjeta SD"</string>
     <string name="toast_backup_is_running">La copia de seguridad ya está en ejecución</string>
@@ -914,6 +948,7 @@
     <string name="unit_mb">%s MB</string>
     <string name="unlike">No, gracias</string>
     <string name="update_date_format">dd/MM/yyyy</string>
+    <string name="updating_tips">Solo un segundo…</string>
     <string name="v7_preference_off">DESACTIVADA</string>
     <string name="v7_preference_on">ACTIVADA</string>
     <string name="video_clean">Borrar videos en caché</string>

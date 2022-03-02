@@ -343,6 +343,8 @@ Toque \"%1$s\" y luego seleccione \"%2$s\"."</string>
     <string name="permission_desc">Detalles de permisos</string>
     <string name="permission_dialog_cancel">Cancelar</string>
     <string name="permission_dialog_ok">Ajustes</string>
+    <string name="permission_read_phone_state">Acceder a la información del dispositivo</string>
+    <string name="permission_read_phone_state_description">Para acceder al estado de la llamada para detener automáticamente la grabación al recibir llamadas</string>
     <string name="permission_record">Grabar audio</string>
     <string name="permission_record_description">Para proporcionar servicios de grabación de audio</string>
     <string name="permission_storage">Acceder al almacenamiento</string>

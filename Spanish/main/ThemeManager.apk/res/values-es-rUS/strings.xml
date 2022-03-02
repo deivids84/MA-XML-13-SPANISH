@@ -712,7 +712,7 @@ Ver y usar los elementos que compró o agregó a favoritos."</string>
     <string name="personalize_aod_title">AOD</string>
     <string name="personalize_call_ringtone_title">Tonos</string>
     <string name="personalize_charge_style_title">Cargando</string>
-    <string name="personalize_default_font">Fuente predeterminada</string>
+    <string name="personalize_default_font">Fuente por defecto</string>
     <string name="personalize_fingerprint_style_title">Huella dactilar</string>
     <string name="personalize_icon_title">Iconos</string>
     <string name="personalize_notify_ringtone_title">Notificaciones</string>

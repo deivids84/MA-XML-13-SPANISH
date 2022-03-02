@@ -614,7 +614,7 @@ Si este permiso está desactivado, las alarmas existentes y los eventos basados 
     <string name="animator_duration_scale_title">Escala de duración del animador</string>
     <string name="another_migration_already_in_progress">Hay otra migración en curso.</string>
     <string name="anti_spam">Lista de bloqueo</string>
-    <string name="aod_and_lock_screen_settings_title">Pantalla siempre activa &amp; Pantalla de bloqueo</string>
+    <string name="aod_and_lock_screen_settings_title">Pantalla siempre activa y Pantalla de bloqueo</string>
     <string name="aod_close_color_inversion">"Esta función no funciona con inversión del color. Desactive inversión del color primero."</string>
     <string name="aod_name_wanxiang">Pantalla siempre activa</string>
     <string name="aod_notification_style">Efecto de notificación</string>
@@ -3042,7 +3042,7 @@ Puede ver los registros generados en el Administrador de archivos."</string>
     <string name="emergency_gesture_switchbar_title">Utilice Emergency SOS</string>
     <string name="emergency_info_summary">Información y contactos de %1$s</string>
     <string name="emergency_info_title">Información de emergencia</string>
-    <string name="emergency_settings_preference_title">Seguridad &amp; emergencia</string>
+    <string name="emergency_settings_preference_title">Seguridad y emergencia</string>
     <string name="emergency_sos_title">Emergencia SOS</string>
     <string name="emergency_tone_alert">Tonos</string>
     <string name="emergency_tone_silent">Silencio</string>
@@ -6182,7 +6182,7 @@ Read and agree to %s before using this service."</string>
     <string name="personal_data_section_title">Datos personales</string>
     <string name="personal_profile_app_subtext">Personal</string>
     <string name="personal_section_title">Personalización</string>
-    <string name="personalize_title">Fondo de Pantalla y personalización</string>
+    <string name="personalize_title">Fondo de pantalla y personalización</string>
     <string name="phone_backup_summary">Haga una copia de seguridad y restaure elementos en su dispositivo</string>
     <string name="phone_backup_title">Dispositivo móvil</string>
     <string name="phone_call_noise_suppression">Eliminar ruido ambiental en llamadas</string>
@@ -7979,7 +7979,7 @@ Retirar el consentimiento para %s ahora?"</string>
     <string name="sound_settings_summary">Volumen de tono y notificaciones al %1$s</string>
     <string name="sound_settings_summary_silent">Timbre en silencio</string>
     <string name="sound_settings_summary_vibrate">Timbre en vibración</string>
-    <string name="sound_settings_tab_haptic">Pulsar</string>
+    <string name="sound_settings_tab_haptic">Toque</string>
     <string name="sound_settings_tab_sound">Sonido</string>
     <string name="sound_stereo_mode_summary">Solo disponible al reproducir sonido con altavoces</string>
     <string name="sound_stereo_mode_title">Sonido estéreo</string>

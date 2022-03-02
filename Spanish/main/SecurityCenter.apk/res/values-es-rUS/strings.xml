@@ -1196,8 +1196,8 @@ Su operador podría cobrarle cargos adicionales si vuelve a activar los datos m�
     <string name="debug_open_final_tip">¿Activar depuración USB?</string>
     <string name="debug_open_title">Esta característica está destinada a desarrolladores y puede no ser conveniente para usuarios generales. Activar la depuración de USB puede provocar los siguientes cambios:</string>
     <string name="declaration_dialog_msg">Esta característica puede ayudar a realizar un seguimiento de su uso, pero no está garantizada para evitar cargos adicionales. Para obtener los mejores resultados, establezca un límite conservador.</string>
-    <string name="deep_clean_disconnect_data_title">Desactivar datos móviles cuando el dispositivos esté bloqueado</string>
-    <string name="deep_clean_memory_clean_title">Limpiar el chaché cuando el dispositivo esté bloqueado</string>
+    <string name="deep_clean_disconnect_data_title">Desactivar datos móviles cuando el dispositivo esté bloqueado</string>
+    <string name="deep_clean_memory_clean_title">Limpiar la caché cuando el dispositivo esté bloqueado</string>
     <string name="deep_clean_never_memory_clean">Nunca</string>
     <string name="deep_power_save_item_summary_auto_brightness">Ajusta automáticamente el brillo de la pantalla para ahorrar batería</string>
     <string name="deep_power_save_item_summary_bluetooth">Desactivar Bluetooth para ahorrar batería</string>
