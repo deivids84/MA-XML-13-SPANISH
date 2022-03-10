@@ -134,7 +134,7 @@ Para comprender plenamente sus derechos como usuario, así como las formas en qu
     <string name="account_setup_correct_address_tips">La dirección de correo electrónico introducida no es válida.</string>
     <string name="account_setup_creating_account_msg">"    Creando cuenta…"</string>
     <string name="account_setup_deleting_account_msg">"    Eliminando cuenta…"</string>
-    <string name="account_setup_domain_invalid_toast">El nombre de dominio de correo electrónico que ingresó es incorrecto, verifique</string>
+    <string name="account_setup_domain_invalid_toast">Introduzca un dominio de correo electrónico válido</string>
     <string name="account_setup_exchange_certificate_title">Certificado de cliente</string>
     <string name="account_setup_exchange_no_certificate">Ninguno</string>
     <string name="account_setup_failed_auth_required">"Este método de autenticación no es soportado por el servidor."</string>
@@ -257,6 +257,9 @@ Para comprender plenamente sus derechos como usuario, así como las formas en qu
     <string name="attachment_decoding">Desembalando archivo…</string>
     <string name="attachment_detail_empty_prompt">Seleccionar archivos</string>
     <string name="attachment_download_all">Descargar todo</string>
+    <string name="attachment_drag_add_inline">Incrustar</string>
+    <string name="attachment_drag_add_picture_prompt">¿Le gustaría incrustar o adjuntar las imágenes seleccionadas?</string>
+    <string name="attachment_drag_create_email_prompt">¿Adjuntar los archivos seleccionados a un nuevo correo electrónico?</string>
     <string name="attachment_image">Imagen</string>
     <string name="attachment_list_search_hint">Buscar archivos adjuntos</string>
     <string name="attachment_mgr_name">Archivos adjuntos</string>
@@ -353,14 +356,20 @@ Para comprender plenamente sus derechos como usuario, así como las formas en qu
     <string name="click_download_all_content">[ Toque para descargar contenido ]</string>
     <string name="click_to_reload">Toque la pantalla para actualizar</string>
     <string name="close">Cerrar</string>
+    <string name="close_custom_folder">Ocultar subcarpetas</string>
     <string name="collapse_recipient_details">Contraer detalles del destinatario</string>
     <string name="compose">Redactar</string>
     <string name="compose_add_attachment_permission_denied">"No se puede reenviar el correo electrónico. Se requieren permisos para acceder al almacenamiento externo."</string>
+    <string name="compose_encrypt_lock_description">Cifrar</string>
+    <string name="compose_encrypt_unlock_description">Descifrar</string>
+    <string name="compose_encrypt_unlock_w_description">No es un contacto de confianza</string>
     <string name="compose_event">Invitación</string>
     <string name="compose_paste_address_oob">Demasiados caracteres</string>
     <string name="compose_picturesexceedlimits">Puede agregar más imágenes como archivos adjuntos</string>
     <string name="compose_send">Enviar</string>
     <string name="compose_sent">Correo electrónico enviado</string>
+    <string name="compose_smime_sign_description">Aplicar firma</string>
+    <string name="compose_smime_unsign_description">Eliminar firma</string>
     <string name="compose_to_label">Para</string>
     <string name="compress_failed_and_retry">"No se pudo comprimir. Intente otra vez."</string>
     <string name="compress_img">Comprimir imágenes</string>
@@ -883,6 +892,7 @@ Declinado:
     <string name="message_invite_tentative">Quizás</string>
     <string name="message_saved">Mensaje guardado como borrador.</string>
     <string name="message_view_attachment_background_load">Los adjuntos en el mensaje reenviado, se descargará antes de enviar.</string>
+    <string name="mi_slide_menu">Barra lateral</string>
     <string name="mibill_privacy_policy_button1">Después</string>
     <string name="mibill_privacy_policy_button2">Acepto</string>
     <string name="mibill_privacy_policy_description">Permitir que Mi Monedero analice y gestione sus facturas automáticamente. Esta función está desactivada de forma predeterminada para las direcciones de correo relacionadas con el trabajo.</string>
@@ -1069,6 +1079,7 @@ Intente cambiar a una cuenta de email diferente."</string>
     <string name="one_month">1 mes</string>
     <string name="one_week">1 semana</string>
     <string name="open_calendar_and_contacts_permission">Permitir a Correo acceder a la info de calendario y contactos en Ajustes</string>
+    <string name="open_custom_folder">Mostrar subcarpetas</string>
     <string name="open_external_storage_and_calendar_permission">Permitir a Correo acceder al almacenamiento y a la info de calendario en Ajustes</string>
     <string name="open_external_storage_and_contacts_and_calendar_permission">Permitir a Correo acceder al almacenamiento, contactos e info de calendario en Ajustes</string>
     <string name="open_external_storage_and_contacts_permission">Permitir a Correo acceder al almacenamiento y contactos en Ajustes</string>
@@ -1125,9 +1136,12 @@ Intente cambiar a una cuenta de email diferente."</string>
     <string name="pdf_save_error">"No se puede convertir a PDF. Este mensaje es demasiado largo."</string>
     <string name="pdf_save_no_body">Espere hasta que el mensaje esté completamente cargado antes de convertir a PDF</string>
     <string name="pdf_save_to">"Guardado en "</string>
+    <string name="pdf_signature_add">Agregar una nueva firma</string>
     <string name="pdf_signature_create_title">Dibuja tu firma</string>
+    <string name="pdf_signature_delete">Eliminar firma</string>
     <string name="pdf_signature_manager_max_count">"No se pueden agregar más firmas. Elimine firmas antiguas para agregar nuevas."</string>
     <string name="pdf_signature_manager_title">Gestionar firmas</string>
+    <string name="pdf_signature_select">Seleccionar firma</string>
     <string name="pdf_viewer_actionbar_more_other">Otras aplicaciones</string>
     <string name="pdf_viewer_actionbar_more_wps">Abrir en WPS</string>
     <string name="pdf_viewer_file_damage_toast">El archivo PDF está dañado. Verifique este archivo y vuelva a intentarlo.</string>
@@ -1317,6 +1331,7 @@ Espere hasta que esté completamente sincronizado o vea el mensaje en su computa
     <string name="select_attachment_type">Seleccionar archivo adjunto desde</string>
     <string name="select_no_file">No se han seleccionado archivos adjuntos</string>
     <string name="select_path">Seleccionar camino</string>
+    <string name="selected">seleccionado</string>
     <string name="send">Enviar</string>
     <string name="send_encrypt_dialog_fail_content">"Parece que el destinatario no posee el certificado de confianza requerido para encriptar este correo electrónico. ¿Enviar un correo electrónico en su lugar?"</string>
     <string name="send_encrypt_dialog_fail_title">"No se puede enviar un correo electrónico encriptado"</string>
@@ -1555,6 +1570,7 @@ Espere hasta que esté completamente sincronizado o vea el mensaje en su computa
     <string name="undo">Deshacer</string>
     <string name="unknow">Desconocido</string>
     <string name="unread_string">conversación no leída</string>
+    <string name="unselected">Deseleccionado</string>
     <string name="unzip_file_failed">"No se pudo descomprimir el archivo"</string>
     <string name="update_domain_summary">Actualizar la lista de dominios disponibles y configuraciones</string>
     <string name="update_domain_title">Actualizar ajustes del dominio</string>
@@ -1588,7 +1604,7 @@ Toque \"<b>Sincronizar ahora</b> para sincronizar el correo una vez o <b>Cambiar
     <string name="wait_for_sync_title">Esperando sincronización</string>
     <string name="wait_help_context">esperar</string>
     <string name="wait_while_update_db">Actualizando base de datos…</string>
-    <string name="web_view_load_error_tip">"El cuerpo de este correo electrónico no se pudo mostrar correctamente. Infórmanos de este problema a nuestro grupo QQ (952315061)."</string>
+    <string name="web_view_load_error_tip">Su navegador se ha bloqueado. Descargue la última versión de Webview de Google Play para ayudar a resolver este problema.</string>
     <string name="webview_logout">Puede volver a intentar iniciar la sesión</string>
     <string name="webview_logout_cancel">Ahora no</string>
     <string name="webview_logout_sure">Intentar de nuevo</string>

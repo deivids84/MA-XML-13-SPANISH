@@ -147,8 +147,10 @@ Envíe este código al supervisor."</string>
     <string name="mibi_bill_record">Actas</string>
     <string name="mibi_bill_record_empty">No hay registros.</string>
     <string name="mibi_btn_agree">Aceptar</string>
+    <string name="mibi_btn_agree_continue">Aceptar y continuar</string>
     <string name="mibi_btn_back">Atrás</string>
     <string name="mibi_btn_count_down_auto">Consultar después de %1$d segundos</string>
+    <string name="mibi_btn_exit">Salir de la aplicación</string>
     <string name="mibi_btn_finish">finalizar</string>
     <string name="mibi_btn_mili_center_recharge">Recarga Mi Coin</string>
     <string name="mibi_btn_net_connection_retry">Volver a intentar</string>
@@ -177,6 +179,18 @@ Envíe este código al supervisor."</string>
     <string name="mibi_change_security_lock">Más bloqueos de pantalla</string>
     <string name="mibi_check_giftcard">Ver cupones</string>
     <string name="mibi_click_retry">%1$s, haz clic para volver a intentarlo</string>
+    <string name="mibi_cta_agreement_checkbox_description">Por favor, lea y acepte el %1$s y el %2$s</string>
+    <string name="mibi_cta_agreement_tips">Por favor, acepta los términos y el uso.</string>
+    <string name="mibi_cta_description">"Bienvenido a Mi Coin, esta aplicación brinda funciones como la recarga de Mi Coin y la visualización de certificados de regalo. Procesaremos su información relevante según lo exijan las leyes y los reglamentos. Aquí, le recordamos solemnemente:
+1. 1. Antes de usar los productos o servicios de Mibi, lea y comprenda cuidadosamente la Política de privacidad y use los productos o servicios relevantes después de confirmar su total comprensión y acuerdo.
+2. 2. Durante el uso de esta aplicación, se requieren permisos de cámara e Internet. Le preguntaremos si puede abrir los permisos relacionados elemento por elemento cuando llame por primera vez. También puede administrar los permisos relacionados en la Configuración de privacidad de acceso a la aplicación - Administración de autorizaciones o en la Configuración del sistema de su dispositivo.
+%1$s"</string>
+    <string name="mibi_cta_description_suffix">"3. Tomamos y protegemos su información personal muy en serio. Si tiene alguna pregunta, comentario o sugerencia sobre el contenido de esta política, puede contactarnos visitando %1$s.
+"</string>
+    <string name="mibi_cta_description_with_review_entry_suffix">"3. Si no está de acuerdo con la Política de privacidad, le proporcionaremos un modo de solo navegación. Puede elegir entre [%1$s].
+4. Tomamos y protegemos su información personal muy en serio. Si tiene alguna pregunta, comentario o sugerencia sobre el contenido de esta política, puede contactarnos visitando %2$s.
+"</string>
+    <string name="mibi_cta_title">Queridos Mi Fans</string>
     <string name="mibi_deduct_goods_name">Producto</string>
     <string name="mibi_deduct_open_prompt">%1$s podrá cobrarle automáticamente usando %2$s sin verificación. Puede desactivar esta función en %1$s</string>
     <string name="mibi_deduct_order_price">Precio</string>
@@ -448,6 +462,27 @@ centro de servicio al cliente：400-100-3399"</string>
     <string name="mibi_recharge_value_money_special_unit">Compra %1$s %2$s valor de Mi Coins</string>
     <string name="mibi_recharge_warn_text">"No puede comprar bienes físicos usando Monedas Mi."</string>
     <string name="mibi_return">Devolución</string>
+    <string name="mibi_review_model_btn_entry">Ingrese al modo solo exploración</string>
+    <string name="mibi_review_model_btn_use">Experimenta el servicio de Micoin</string>
+    <string name="mibi_review_model_icon_1">Tema</string>
+    <string name="mibi_review_model_icon_2">Servicio en la nube</string>
+    <string name="mibi_review_model_icon_3">Leer</string>
+    <string name="mibi_review_model_icon_4">Vídeo</string>
+    <string name="mibi_review_model_icon_5">Música</string>
+    <string name="mibi_review_model_icon_6">Juego</string>
+    <string name="mibi_review_model_introduction_description">"Si no está de acuerdo con la Política de privacidad, le proporcionaremos un modo de solo navegación. En este modo, le mostraremos la introducción de los servicios relacionados con Micoin.
+
+En este modo, solo necesitamos solicitar acceso a Internet y no recopilaremos, almacenaremos, compartiremos ni utilizaremos su información personal.
+
+Durante el proceso de navegación, si desea realizar negocios relacionados con Micoin, debe aceptar las reglas de procesamiento de información personal pertinentes. Procesaremos su información personal de acuerdo con su autorización y las disposiciones pertinentes de las leyes y reglamentos."</string>
+    <string name="mibi_review_model_introduction_title">Más información sobre el modo solo exploración</string>
+    <string name="mibi_review_model_mibi_function">Recarga de MiCoin Consulta de saldo Gestión de vales de regalo</string>
+    <string name="mibi_review_model_mibi_introduction">"MiCoin es una caja registradora agregada para negocios virtuales dentro del Grupo Xiaomi. Admite métodos de pago como Alipay, WeChat y Mi Wallet. También ofrece tarjetas prepagas y productos de marketing como Mi Coin Card y MiCoin Gift Vouchers.
+
+Servicios Prestados："</string>
+    <string name="mibi_review_model_tips">El modo actual es solo de navegación, haga clic en el botón para experimentar el servicio Micoin.</string>
+    <string name="mibi_review_model_title">Modo de solo exploración</string>
+    <string name="mibi_review_model_use_tips">Experimente el servicio de Micoin ahora</string>
     <string name="mibi_revoke_agreement_failed_msg">No se pudo retirar el consentimiento. Vuelve a intentarlo</string>
     <string name="mibi_revoke_agreement_msg">"Si retira su consentimiento a la política de privacidad de la aplicación Mibibi, dejaremos de recopilar su información personal y eliminaremos la información personal recopilada por la aplicación de acuerdo con la ley, a menos que otras leyes y regulaciones especifiquen el período de retención de la información personal.
 Debido a que la prestación de los servicios de MiCoin se basa en la recopilación de la información personal necesaria, si retira su consentimiento, se considerará que no acepta que continuemos brindándole los servicios de MiCoin y cedamos sus activos y derechos en MiCoin. aplicación. Debido a una cierta pérdida y la información personal no se puede recuperar, elija con cuidado."</string>
@@ -521,6 +556,7 @@ Debido a que la prestación de los servicios de MiCoin se basa en la recopilaci�
     <string name="miuix_appcompat_select_all">Seleccionar todo</string>
     <string name="miuix_appcompat_select_all_description">Seleccionar todo</string>
     <string name="miuix_appcompat_select_item">Seleccionar elementos</string>
+    <string name="miuix_indexer_collect">Colecciones</string>
     <string name="miuix_indexer_selected">Seleccionado %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Desliza hacia abajo para actualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado correctamente</string>

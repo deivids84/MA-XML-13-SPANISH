@@ -1452,6 +1452,8 @@ Aún puedes realizar llamadas de emergencia.\"</string>
     <string name="msim_sim_radio_off">Desactivada</string>
     <string name="msim_switch_data_conn_toast">Tarjetas SIM intercambiadas. El tipo de red ha cambiado. Vea la info adicional en tarjetas SIM y redes móviles en el menú Configuración.</string>
     <string name="msim_switch_data_conn_toast_for_h2xct">La ranura 2 de la SIM sólo admite redes GSM. El tipo de red preferida para esta ranura ha sido cambiado a solo redes 2G.</string>
+    <string name="mtn_simlock_emergency">Emergencia</string>
+    <string name="mtn_simlock_text_tip">La tarjeta SIM insertada no cumple con el requisito. Debe insertar una tarjeta SIM requerida por el contrato antes de usar el teléfono. Para obtener más información, comuníquese con su operador local.</string>
     <string name="mtrl_badge_numberless_content_description">Nueva notificación</string>
     <string name="mtrl_chip_close_icon_content_description">Quitar %1$s</string>
     <string name="mtrl_exceed_max_badge_number_content_description">Más de %1$d nuevas notificaciones</string>
@@ -1825,8 +1827,10 @@ Su teléfono se bloqueará automáticamente después del último intento fallido
     <string name="preferred_network_type_pref_entries_4g_preferred_cdma">Preferir 4G (CDMA)</string>
     <string name="preferred_network_type_pref_entries_4g_preferred_custom">Preferir 4G</string>
     <string name="preferred_network_type_pref_entries_4g_preferred_mx_at">4G/3G/2G (4G preferido)</string>
+    <string name="preferred_network_type_pref_entries_4g_preferred_za_mt">2G/3G/4G automático</string>
     <string name="preferred_network_type_pref_entries_5g_preferred">Preferir 5G</string>
     <string name="preferred_network_type_pref_entries_5g_preferred_mx_at">5G/4G/3G/2G (5G/4G preferido)</string>
+    <string name="preferred_network_type_pref_entries_5g_preferred_za_mt">2G/3G/4G/5G automático</string>
     <string name="preferred_network_type_pref_entries_auto">Automático</string>
     <string name="preferred_network_type_pref_entries_global">Global</string>
     <string name="preferred_network_type_pref_entries_only_2g">Solo 2G</string>
@@ -1973,7 +1977,7 @@ Interfaz de UT: %5$s"</string>
     <string name="reject_via_sms_summary">Mostrar botones para finalizar llamada y enviar SMS</string>
     <string name="reject_via_sms_title">Respuestas rápidas</string>
     <string name="relay_call_answered_by_other_devices">Esta llamada fue respondida en otro dispositivo.</string>
-    <string name="relay_call_released_due_to_connect_lost">Se perdió la conexión. Continúe con la llamada en el dispositivo desconectado.</string>
+    <string name="relay_call_released_due_to_connect_lost">Se perdió la conexión. Continúe con la llamada en su otro dispositivo.</string>
     <string name="relay_connection_service_label">Llamadas RELAY integradas</string>
     <string name="remaining_length_format">Tiempo restante: %1$s</string>
     <string name="remove">Eliminar</string>
@@ -2115,6 +2119,7 @@ Interfaz de UT: %5$s"</string>
     <string name="simContacts_title">Seleccionar contactos para importar</string>
     <string name="simFdnContacts_empty">Sin contactos de marcación fija.</string>
     <string name="sim_accounts">Cuentas SIM</string>
+    <string name="sim_can_not_read">la ranura para tarjeta %d solo puede leer la tarjeta SIM del operador MTN</string>
     <string name="sim_card_num">SIM %s</string>
     <string name="sim_change_data_message">¿Deseas usar %1$s en lugar de %2$s para datos móviles?</string>
     <string name="sim_change_data_title">¿Cambiar SIM para datos?</string>
@@ -2681,6 +2686,8 @@ posible que el almacenamiento de credenciales no esté habilitado"</string>
     <string name="window_animation_scale_title">Escala de animación de ventana</string>
     <string name="window_blurs">Permitir desenfoques a nivel de ventana</string>
     <string name="wrong_password">La contraseña introducida no es correcta</string>
+    <string name="xcap_setting_summary">Restricción de llamadas, desvío de llamadas de correo de voz &amp; y llamada en espera</string>
+    <string name="xcap_setting_title">Configuración del servicio de llamadas</string>
     <string name="yesterday">Ayer</string>
     <string name="zen_alarm_warning">"No oirás la próxima alarma (%1$s)"</string>
     <string name="zen_alarm_warning_indef">"Solo oirás la próxima alarma (%1$s) si primero desactivas esta opción"</string>

@@ -37,8 +37,8 @@
         <item quantity="one">Hace 1 minuto</item>
     </plurals>
     <plurals name="clipboard_ai_allow_more">
-        <item quantity="other">Permitió a %1$s acceder automáticamente a los elementos del portapapeles %2$d veces</item>
-        <item quantity="one">Permitió a %1$s acceder automáticamente a los elementos del portapapeles %2$d vez</item>
+        <item quantity="other">Has permitido a %1$s acceder automáticamente %2$d veces a elementos en el portapapeles</item>
+        <item quantity="one">Has permitido a %1$s acceder automáticamente %2$d vez a elementos en el portapapeles</item>
     </plurals>
     <plurals name="clipboard_read_ai_deny_more">
         <item quantity="other">Se bloqueó %2$d intentos de acceder al portapapeles para %1$s</item>

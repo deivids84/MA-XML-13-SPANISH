@@ -87,6 +87,7 @@
     <string name="app_name">Temas</string>
     <string name="app_name_pad">Personalización</string>
     <string name="application_list_permission_desc">Para mostrar aplicaciones compatibles con fondos de pantalla transparentes</string>
+    <string name="application_notify_title">Atención</string>
     <string name="apply_choosen_type_resource">Aplicar los elementos seleccionados</string>
     <string name="apply_default_font_tip">"¿Continuar usando la fuente original del sistema?"</string>
     <string name="apply_failed">"No se pudo aplicar"</string>
@@ -171,6 +172,7 @@
     <string name="component_title_video_wallpaper">Películas de fondo de pantalla</string>
     <string name="component_title_wallpaper">Fondos de pantalla</string>
     <string name="concentration_old_period">MÁS</string>
+    <string name="configure_success_not_enable_aod">Aplicado con éxito. Activa la pantalla siempre encendida para que el tema surta efecto.</string>
     <string name="copy">Copiar</string>
     <string name="count_down_tip">%d s restante</string>
     <string name="create_home_icon">Acceso directo a la Pantalla de inicio</string>
@@ -322,6 +324,9 @@
     <string name="exo_download_downloading">Descargando</string>
     <string name="exo_download_failed">No se pudo descargar</string>
     <string name="exo_download_notification_channel_name">Descargas</string>
+    <string name="exo_download_paused">Descargas pausadas</string>
+    <string name="exo_download_paused_for_network">Descargas en espera de red</string>
+    <string name="exo_download_paused_for_wifi">Descargas en espera de WiFi</string>
     <string name="exo_download_removing">Quitando descargas</string>
     <string name="exo_track_mono">Mono</string>
     <string name="exo_track_role_alternate">Alterno</string>
@@ -1185,6 +1190,7 @@ Puede otorgar este permiso en Configuración &gt; Privacidad."</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
     <string name="super_wallpaper">Super fondos de pantalla</string>
+    <string name="super_wallpaper_dialog_content">El ahorro de batería desactivará las características dinámicas de los fondos de pantalla.</string>
     <string name="super_wallpaper_list_footer_text">¡Estén atentos a nuestros nuevos lanzamientos!</string>
     <string name="super_wallpaper_list_label">Super fondos de pantalla</string>
     <string name="super_wallpaper_setting_apply_success_toast">Aplicado con éxito</string>
@@ -1418,6 +1424,7 @@ Puede otorgar este permiso en Configuración &gt; Privacidad."</string>
     <string name="video_not_support_message">Este video puede mostrarse incorrectamente o ralentizar su dispositivo. ¿Aplicar de todos modos?</string>
     <string name="video_not_support_title">Este video es demasiado grande</string>
     <string name="video_silence_apply_success">Video sin sonido aplicado con éxito</string>
+    <string name="video_wallpaper_apply_warning">Este fondo de pantalla se aplicará tanto a la pantalla de inicio como a la pantalla de bloqueo. ¿Aplicar ahora?</string>
     <string name="video_wallpaper_import">Toca para agregar elementos</string>
     <string name="voice_input">Entrada de voz</string>
     <string name="wallpaper_24h">24H</string>

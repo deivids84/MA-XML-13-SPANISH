@@ -200,6 +200,7 @@ También puede realizar un seguimiento de la entrega urgente en los sitios web o
     <string name="pa_express_empty_extra">Seguir</string>
     <string name="pa_express_empty_title">No hay información de entrega aquí</string>
     <string name="pa_express_i_known">OK</string>
+    <string name="pa_express_input_again">Entrar de nuevo</string>
     <string name="pa_express_inqiury_select_logistics">Seleccionar servicio de mensajería</string>
     <string name="pa_express_inquiry">Comprobar pedido</string>
     <string name="pa_express_inquiry_frequently_used_logistics">Popular</string>
@@ -227,6 +228,9 @@ También puede realizar un seguimiento de la entrega urgente en los sitios web o
     <string name="pa_express_provider_miguo">Mi Express</string>
     <string name="pa_express_provider_mimall">Tienda Mi</string>
     <string name="pa_express_provider_shunfeng">SF Express</string>
+    <string name="pa_express_query_fail_content_input_again">"No se pudo encontrar información sobre su entrega urgente. Verifique su número de seguimiento y vuelva a intentarlo."</string>
+    <string name="pa_express_query_fail_content_manual_select">"No se pudo encontrar información sobre su entrega urgente. Intente seleccionar manualmente una empresa de entrega en su lugar."</string>
+    <string name="pa_express_query_fail_title">"No se pudo obtener información"</string>
     <string name="pa_express_query_history">Historial de pedidos</string>
     <string name="pa_express_send">Enviar</string>
     <string name="pa_express_send_provider_cainiao">Guoguo</string>
@@ -278,8 +282,8 @@ También puede realizar un seguimiento de la entrega urgente en los sitios web o
     <string name="pa_express_state_unknown">No hay datos todavía</string>
     <string name="pa_express_tail_number">Número de pedido: %1$s</string>
     <string name="pa_express_title">Entrega urgente</string>
-    <string name="pa_express_widget_logout">Regístrese para rastrear sus paquetes</string>
-    <string name="pa_express_widget_order_42">Rastrear paquete</string>
+    <string name="pa_express_widget_logout">Inicia sesión para ver tus paquetes de envío urgente</string>
+    <string name="pa_express_widget_order_42">Ingrese el número de seguimiento</string>
     <string name="pa_express_widget_post">Enviar paquete</string>
     <string name="pa_finish">Hecho</string>
     <string name="pa_guide_dialog_desc">Mantenga presionado un widget para reorganizar. Toque el signo más para agregar más widgets.</string>
@@ -362,6 +366,7 @@ También puede realizar un seguimiento de la entrega urgente en los sitios web o
     <string name="pa_picker_detail_install_tip_un_upgrade">Primero actualiza la aplicación</string>
     <string name="pa_picker_detail_launcher_screen_lock">"El diseño de su pantalla de inicio está bloqueado. No se pueden agregar widgets."</string>
     <string name="pa_picker_detail_maml_download_error">"No se pudo descargar"</string>
+    <string name="pa_picker_detail_maml_downloading">Descargando elementos…</string>
     <string name="pa_picker_detail_modify_maml">Editar</string>
     <string name="pa_picker_detail_net_error">Error de red. Toca para volver a intentarlo.</string>
     <string name="pa_picker_detail_preview_load_fail_can_not_add_widget">Solo un segundo…</string>

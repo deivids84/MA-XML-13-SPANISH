@@ -312,7 +312,7 @@
     <string name="module_white_noise_download_data">Reloj necesita descargar archivos de audio para temporizadores de sonido ambiental. Aproximadamente 30 MB de sus datos móviles serán usados para esta descarga. ¿Descargar?</string>
     <string name="module_white_noise_download_data_privacy">&lt;Data&gt;Para descargar archivos de audio para temporizadores de sonido ambiental (aproximadamente 30 MB) y proveer servicios personalizados, Reloj necesita conectarse a internet. Antes de usar Reloj, debe leer y aceptar nuestro &lt;a href=\"%1$s\"&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &lt;a href=\"%2$s\"&gt;Política de Privacidad&lt;/a&gt;. Está usando datos móviles. ¿Aceptar?&lt;/Data&gt;</string>
     <string name="module_white_noise_download_wifi">Reloj necesita descargar archivos de audio para temporizadores de sonido ambiental. ¿Descargar?</string>
-    <string name="module_white_noise_download_wifi_privacy"><Data>Para descargar archivos de audio para temporizadores de ruido ambiental y brindar servicios personalizados, Clock debe conectarse a Internet. Antes de usar Clock, también debe leer y aceptar nuestro &lt;a href=\"%1$s\"&gt;Acuerdo de usuario&lt;/a&gt; y &lt;a href=\"%2$s\"&gt;Política de privacidad&lt;/a&gt;. ¿Estar de acuerdo?</Data></string>
+    <string name="module_white_noise_download_wifi_privacy"><Data>Para descargar archivos de audio para temporizadores de ruido ambiental y ofrecer servicios personalizados, Reloj debe conectarse a Internet. Antes de usar Reloj, debe además leer y aceptar nuestro &lt;a href=\"%1$s\"&gt;Acuerdo de usuario&lt;/a&gt; y &lt;a href=\"%2$s\"&gt;Política de privacidad&lt;/a&gt;. ¿Está de acuerdo?</Data></string>
     <string name="monday">Lunes</string>
     <string name="monday_short">Lun</string>
     <string name="monday_shortest">Lun</string>
@@ -502,12 +502,12 @@
     <string name="star_wy_alarm_speech">Reunirse con Misael Salgado</string>
     <string name="start">Iniciar</string>
     <string name="start_up">Iniciar</string>
-    <string name="stat_repeat_everyday">每天</string>
-    <string name="stat_repeat_legal_off_day">法定 节假日</string>
-    <string name="stat_repeat_legal_workday">法定 工作日</string>
+    <string name="stat_repeat_everyday">Diario</string>
+    <string name="stat_repeat_legal_off_day">Festivos legales</string>
+    <string name="stat_repeat_legal_workday">Días hábiles</string>
     <string name="stat_repeat_none">一次性</string>
-    <string name="stat_repeat_self_define">自 定义</string>
-    <string name="stat_repeat_weekends">周末</string>
+    <string name="stat_repeat_self_define">Personalizado</string>
+    <string name="stat_repeat_weekends">Fin de semana</string>
     <string name="stopwatch_lap_empty_text">No hay vueltas</string>
     <string name="stopwatch_reset_notification">El cronómetro fue reinciado</string>
     <string name="stopwatch_running_notification">Cronómetro</string>

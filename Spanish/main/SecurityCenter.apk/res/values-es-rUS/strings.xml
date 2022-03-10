@@ -1128,6 +1128,7 @@ No perderá ningún dato de aplicación."</string>
     <string name="copy">Copiar</string>
     <string name="cpu_usage_android_system">Sistema Android</string>
     <string name="cpu_usage_process_run_time_little_time">Menos de 1 minuto</string>
+    <string name="cpu_usage_process_run_time_little_time_new">Menos de %d minuto</string>
     <string name="cpu_usage_view_action_btn_text">Toque para ver</string>
     <string name="create_gamebooster_destop">Acceso directo en la Pantalla de inicio creado con éxito</string>
     <string name="create_shortcut">Crear acceso directo a la Pantalla de inicio para Game Turbo</string>
@@ -1646,8 +1647,8 @@ voluntario"</string>
     <string name="first_aid_card_airplane_title">"No puede realizar llamadas o conectarse a la red"</string>
     <string name="first_aid_card_consume_power_button1">Restringir</string>
     <string name="first_aid_card_consume_power_button2">Desactivar</string>
-    <string name="first_aid_card_consume_power_summary1">Más de 5 aplicaciones pueden iniciarse automáticamente. Restrinja para ahorrar batería.</string>
     <string name="first_aid_card_consume_power_summary2">Desactive el punto de acceso móvil para ahorrar batería</string>
+    <string name="first_aid_card_consume_power_summary_app">Más de %d aplicaciones pueden iniciarse automáticamente. Restringir para ahorrar batería.</string>
     <string name="first_aid_card_consume_power_title">Uso de batería</string>
     <string name="first_aid_card_kadun_button1">Liberar espacio</string>
     <string name="first_aid_card_kadun_button2">Restringir</string>
@@ -2052,7 +2053,6 @@ de sus sesiones de juego"</string>
     <string name="gd_setting_desc_action1">Abrir ventana flotante</string>
     <string name="gd_setting_desc_action2">Usar un acceso directo</string>
     <string name="gd_setting_group_custom_gtb_apps">Juegos</string>
-    <string name="gd_setting_group_custom_line_location">Posición de la caja de herramientas</string>
     <string name="gd_setting_group_custom_settings">Personalización</string>
     <string name="gd_setting_group_custom_vtb_apps">Aplicaciones de video</string>
     <string name="gd_setting_group_smart_tool_box">Barra lateral</string>
@@ -4604,7 +4604,9 @@ El formateo eliminará el contenido existente en la ^2. Para evitar perder conte
     <string name="system_anti_fraud_dialog_content">"Parece que acaba de recibir una llamada o un mensaje fraudulento. Continuar con este pago puede causar pérdidas financieras."</string>
     <string name="system_anti_fraud_dialog_hint">&lt;font = color=#747474&gt;Si el personal de servicio al cliente, las autoridades o las personas que podría conocer le piden que complete este pago, &lt;/font&gt;&lt;font = color=#F22424&gt;verifique su identidad antes de continuar.&lt;/font&gt;</string>
     <string name="system_anti_fraud_dialog_image_txt">Protección antifraude</string>
+    <string name="system_anti_fraud_dialog_message">Protección antifraude</string>
     <string name="system_anti_fraud_dialog_title">Advertencia antifraude</string>
+    <string name="system_anti_fraud_dialog_title2">Advertencia antifraude</string>
     <string name="system_app">Aplicaciones del sistema</string>
     <string name="system_app_permission_instruction">Esta aplicación necesita los siguientes permisos para proporcionar servicios básicos del sistema. La administración de permisos está restringida para esta aplicación, ya que cambiar el estado de los permisos provocará anomalías en el funcionamiento del sistema.</string>
     <string name="system_application">Aplicaciones del sistema</string>

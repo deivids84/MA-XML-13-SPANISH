@@ -321,7 +321,7 @@ no se generan en el segundo espacio"</string>
     <string name="hsv_space_color_saturation">Saturación</string>
     <string name="hsv_space_color_value">Valor</string>
     <string name="intelligent_radio_btn_summary">Ajuste la frecuencia de actualización de forma dinámica según los escenarios para equilibrar el rendimiento con el consumo de energía</string>
-    <string name="intelligent_radio_btn_title">Auto (recomendado)</string>
+    <string name="intelligent_radio_btn_title">Por defecto (recomendado)</string>
     <string name="intelligent_recognition_item_summary">Usar un tono específico para llamadas de servicios de entrega a domicilio o taxi. Esta opción funcionará cuando %s esté establecido como tono por defecto.</string>
     <string name="intelligent_recognition_item_title">Identificar servicios</string>
     <string name="item_anura">Anura</string>

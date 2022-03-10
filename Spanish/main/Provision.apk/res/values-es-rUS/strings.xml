@@ -556,6 +556,7 @@ Puede controlar esta función desde Configuración &gt; Contraseñas &amp; Segur
     <string name="terms_of_use_label_statistics">Estadísticas</string>
     <string name="terms_of_use_label_systemhelper">Servicio de auto-registro</string>
     <string name="terms_of_use_label_translation">Servicio de traduccion</string>
+    <string name="terms_of_use_label_unionplay_security">UnionPay TSM Secure Element (versión Xiaomi)</string>
     <string name="terms_of_use_label_updater">Actualizador</string>
     <string name="terms_of_use_label_use_location_and_network_global">Antes de usar MIUI, debe leer y aceptar nuestro Acuerdo de usuario y Política de privacidad. Protegeremos su información personal de acuerdo con las leyes, regulaciones y políticas de privacidad pertinentes. Cuando su dispositivo esté activado, los siguientes servicios se conectarán a la red y accederán a su ubicación:</string>
     <string name="terms_of_use_label_use_network_china">Antes de usar MIUI, debe leer y aceptar nuestro Acuerdo de usuario y Política de privacidad. Protegeremos su información personal de acuerdo con las leyes, regulaciones y políticas de privacidad pertinentes. Cuando su dispositivo esté activado, los siguientes servicios se conectarán a la red:</string>

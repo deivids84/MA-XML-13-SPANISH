@@ -48,6 +48,7 @@
     <string name="alert_message_delete_excerpt">¿Eliminar esta nota? El extracto también se eliminará.</string>
     <string name="alert_message_delete_note">¿Eliminar esta nota?</string>
     <string name="alert_message_edit_anyway">La edición de la nota podría provocar la pérdida de su contenido.</string>
+    <string name="alert_message_edit_anyway_new">Esta nota incluye contenido no compatible. Editarlo puede causar cambios de formato o pérdida de datos.</string>
     <string name="alert_message_restore">"No se pudo abrir esta nota. Restáurela para editar su contenido."</string>
     <string name="alert_title_delete">Eliminar nota</string>
     <string name="alert_title_edit_anyway">Esta nota tiene contenido no compatible</string>
@@ -199,6 +200,7 @@
     <string name="error_send_empty_note">"No se puede enviar una nota vacía"</string>
     <string name="error_send_empty_note_to_weibo">"No puede enviar una nota vacía a Weibo"</string>
     <string name="error_unsupport_content">Esta nota contiene contenido no compatible, pulse aquí para actualizar</string>
+    <string name="error_unsupport_content_format">Esta nota incluye contenido no compatible. Actualizar a la versión %1$s o posterior.</string>
     <string name="error_widget_exist_for_send_to_desktop">Esta nota ya existe en la pantalla de inicio</string>
     <string name="evening">Tarde</string>
     <string name="exceed_todo_text_limitation">La descripción de la tarea es demasiado larga.</string>
@@ -705,6 +707,12 @@
     <string name="select_account_prompt">Sincronizar notas</string>
     <string name="send">Enviar</string>
     <string name="set_alarm_description">Crear alarma</string>
+    <string name="setting_big_screen_layout_columns">Barra lateral</string>
+    <string name="setting_big_screen_layout_flat">Tiles</string>
+    <string name="setting_big_screen_layout_title">Diseño de pantalla grande</string>
+    <string name="setting_layout">Diseño</string>
+    <string name="setting_micloud_sync_title">Sincroniza con la nube</string>
+    <string name="setting_note_list_layout_title">Diseño</string>
     <string name="setting_other">OTROS</string>
     <string name="setting_privacy">Política de Privacidad</string>
     <string name="single_link_excerpt_saving">Guardando elementos…</string>
@@ -947,6 +955,15 @@ Permita a Notas grabar audio."</string>
     <string name="v7_preference_off">DESACTIVADA</string>
     <string name="v7_preference_on">ACTIVADA</string>
     <string name="view_all_notes">Ver todo</string>
+    <string name="warn_cannot_add_new_bullet">"No se puede agregar una nueva lista con viñetas porque la nota es demasiado larga"</string>
+    <string name="warn_cannot_add_new_checkbox">"No se puede agregar una nueva casilla de verificación porque la nota es demasiado larga"</string>
+    <string name="warn_cannot_add_new_doodle">"No se puede agregar un nuevo garabato porque la nota es demasiado larga"</string>
+    <string name="warn_cannot_add_new_element">"No se puede agregar un nuevo elemento porque la nota es demasiado larga"</string>
+    <string name="warn_cannot_add_new_link_card">"No se puede agregar un nuevo enlace porque la nota es demasiado larga"</string>
+    <string name="warn_cannot_add_new_picture">"No se puede agregar una nueva imagen porque la nota es demasiado larga"</string>
+    <string name="warn_cannot_add_new_style">"No se puede agregar un nuevo formato porque la nota es demasiado larga"</string>
+    <string name="warn_disable_edit_in_browse_mode">"No puedes editar notas en modo sólo lectura"</string>
+    <string name="warn_enter_browse_mode">"Estás en modo solo lectura"</string>
     <string name="web_sso_login_fail">Necesitas iniciar sesión de nuevo</string>
     <string name="web_sso_login_message">Iniciando sesión…</string>
     <string name="webview_reload">Inténtalo de nuevo</string>

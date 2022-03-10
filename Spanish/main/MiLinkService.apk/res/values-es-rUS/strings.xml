@@ -201,6 +201,10 @@ Si necesita activar Miracast, presione el botón [MENU] y seleccione Mis aplicac
     <string name="help_page_text_55_global">"Si no puede conectarse a la red, asegúrese de que su monitor externo admita la funcionalidad Miracast y que esté encendido. En algunos modelos, esta función se llama Pantalla inalámbrica, Duplicación de pantalla o Pantallas múltiples.
 %1$d. Si encuentra algún problema, puede informarlo utilizando nuestra aplicación \"Comentarios de &amp;"</string>
     <string name="help_page_text_end">"Si la marca de su dispositivo no está en la lista, contacte al fabricante para conocer más sobre la funcionalidad de emisión."</string>
+    <string name="invisible_mode_dialog_content">"No puedes usar el casting cuando estás de incógnito. Primero desactiva el modo incógnito."</string>
+    <string name="invisible_mode_dialog_content_audio_relay">"No puedes transferir la reproducción cuando estás de incógnito. Primero desactiva el modo incógnito."</string>
+    <string name="invisible_mode_dialog_pos">Desactivar</string>
+    <string name="invisible_mode_dialog_title">"Estás de incógnito"</string>
     <string name="keyguard_security_setting_privacy_policy">Política de Privacidad</string>
     <string name="midnight">Noche</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deseleccionar</string>

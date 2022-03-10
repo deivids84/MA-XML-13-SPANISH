@@ -34,6 +34,8 @@
     <string name="account_summary">Hacer copia de seguridad de tu cuenta de Google, Cuenta Mi y otros datos de usuario</string>
     <string name="actionbar_button_up_description">Atrás</string>
     <string name="afternoon">Tarde</string>
+    <string name="agree_button">Aceptar</string>
+    <string name="agree_revoke_permission_title">Retirando permisos</string>
     <string name="alert_button_agree_and_continue">Permitir</string>
     <string name="alert_button_deny">Rechazar</string>
     <string name="alert_message_backup_to_miasist">Mi PC Suite requiere permisos para crear una copia en el ordenador. ¿Permitir?</string>
@@ -45,6 +47,7 @@
     <string name="alert_title_backup_to_miasist">¿Hacer copia de seguridad de los elementos usando Mi PC Suite?</string>
     <string name="alert_title_restore_from_miasist">¿Restaurar elementos en tu teléfono?</string>
     <string name="already_enable_encrypt">El cifrado ya está activado</string>
+    <string name="alternative_ui_content">Esta característica le permite hacer una copia de seguridad y restaurar elementos usando su dispositivo móvil y ordenador. Esta característica necesita conectarse a Internet y requiere los siguientes permisos obligatorios para poder funcionar normalmente:</string>
     <string name="am">AM</string>
     <string name="app_name">Copia de seguridad</string>
     <string name="apps_and_data_item_desc">Aplicaciones y datos</string>
@@ -79,6 +82,7 @@
     <string name="backup_hint_pad">Mantenga su dispositivo encendido</string>
     <string name="backup_is_running">Realizando copia del dispositivo</string>
     <string name="backup_new">Nuevo:</string>
+    <string name="backup_notification_title">\"Copia de seguridad\" está funcionando…</string>
     <string name="backup_progress">Realizando copia…</string>
     <string name="backup_report">Ver detalles</string>
     <string name="backup_security_tips_message">Puede que algunas aplicaciones no puedan copiarse o restaurarse.</string>
@@ -114,8 +118,6 @@
     <string name="close_twice_auth_btn">Desactivar la autenticación de dos factores</string>
     <string name="close_twice_auth_note">"Nota:
 Después de crear una nueva pregunta de seguridad y confirmar su fecha de nacimiento, se desactivará la autenticación de dos factores de Apple ID. Si no ve la opción de desactivar la autenticación de dos factores en la página de la cuenta ID de Apple, no podrá desactivarla."</string>
-    <string name="close_twice_auth_operation">"URL:
-https://appleid.apple.com/#!&amp;page=iniciar sesión para cerrar"</string>
     <string name="close_twice_auth_step_1">1. Abra cualquier navegador web en cualquier ordenador y vaya a appleid.apple.com.</string>
     <string name="close_twice_auth_step_2">2. Inicie sesión con el ID de Apple para la que desea desactivar la autenticación de dos factores, vaya a la sección \"Seguridad\" de los ajustes de la cuenta y elija \"Editar\".</string>
     <string name="close_twice_auth_step_3">3. Haga clic en \"Desactivar la autenticación de dos factores\". Haga clic de nuevo para confirmar.</string>
@@ -187,6 +189,7 @@ https://appleid.apple.com/#!&amp;page=iniciar sesión para cerrar"</string>
     <string name="enable_local_backup">Activar copias de seguridad locales</string>
     <string name="enable_local_backup_and_restore">Activar copias de seguridad locales</string>
     <string name="enable_local_backup_tips">Active esta función para poder guardar copias de seguridad en este dispositivo y copiarlas en su ordenador o dispositivo de almacenamiento USB. ¿Activar ahora?</string>
+    <string name="enable_local_backup_tips_global">Active esta función para poder guardar copias de seguridad en este dispositivo y copiarlas en su ordenador. ¿Activar ahora?</string>
     <string name="eras_ad">DC</string>
     <string name="eras_bc">AC</string>
     <string name="err_acquire_system_service">"No se pudo iniciar el servicio del sistema."</string>
@@ -243,6 +246,8 @@ No modifiques o renombres los archivos copiados."</string>
     <string name="friday_short">Vie</string>
     <string name="friday_shortest">Vie</string>
     <string name="gallery_summary">Ajustes de Galería (sin incluir fotos)</string>
+    <string name="grant_all_permission_content">Conceda todos los permisos obligatorios para poder realizar copias de seguridad y restaurar elementos.</string>
+    <string name="grant_all_permission_title">Permisos requeridos</string>
     <string name="guarded_mode_dialog_backup_message">"No se permite realizar copias de seguridad en el modo invitado."</string>
     <string name="guarded_mode_dialog_title">"Estás en modo invitado"</string>
     <string name="guarded_mode_dialog_transfer_message">"No se puede usar Mi Mover en el modo invitado."</string>
@@ -425,6 +430,10 @@ debería crear una copia de seguridad de iCloud primero."</string>
     <string name="new_local_detail_description">"Nota:
 %1$d. Copia las copias de seguridad a tu ordenador para evitar la pérdida de datos. %2$s.
 %3$d. Las copias de seguridad serán guardadas en MIUI-Backup-AllBackup."</string>
+    <string name="new_local_detail_description_global">"Nota:
+%1$d. Copie las copias de seguridad en su ordenador para evitar la pérdida de datos. %2$s.
+%3$d. Las copias de seguridad se guardarán en MIUI-Backup-AllBackup.
+%4$d. Es posible que algunas aplicaciones no admitan copias de seguridad."</string>
     <string name="new_local_tab_backup">Hacer copia de seguridad</string>
     <string name="new_local_tab_backup_pad">Copia de seguridad</string>
     <string name="new_local_tab_restore">Restaurar</string>
@@ -529,6 +538,7 @@ debería crear una copia de seguridad de iCloud primero."</string>
     <string name="permission_content_title">Permisos requeridos</string>
     <string name="permission_dialog_positive_btn">Ajustes</string>
     <string name="permission_intro">Detalles de permisos</string>
+    <string name="permission_management_entrance">Administrar permisos</string>
     <string name="permission_not_admit">No garantizado</string>
     <string name="permission_purpose">Esta función le permite realizar copias de seguridad y restaurar elementos utilizando su dispositivo móvil, computadoras y unidades USB.</string>
     <string name="permission_read_apps">Accede a la lista de aplicaciones instaladas en este dispositivo</string>
@@ -537,6 +547,7 @@ debería crear una copia de seguridad de iCloud primero."</string>
     <string name="permission_read_contacts">Acceder a contactos</string>
     <string name="permission_read_sms">Acceder a mensajes</string>
     <string name="permission_read_storage">Acceda y guarde elementos en el almacenamiento</string>
+    <string name="permission_read_storage_global">Acceso al almacenamiento</string>
     <string name="permission_read_write_storage">Para poder hacer una copia de seguridad de los elementos, primero permita que esta función acceda al almacenamiento.</string>
     <string name="permission_read_write_sys_app">Para poder hacer copias de seguridad y restaurar mensajes, contactos e historial de llamadas, primero permita que esta función acceda a estos elementos.</string>
     <string name="permission_related">Permisos</string>
@@ -550,6 +561,7 @@ debería crear una copia de seguridad de iCloud primero."</string>
     <string name="permission_show_all_apps_desc">Para poder ver las aplicaciones de las que se puede hacer una copia de seguridad, primero permita que esta aplicación acceda a la lista de aplicaciones instaladas en este dispositivo.</string>
     <string name="permission_write_calllog">Editar historial de llamadas</string>
     <string name="permission_write_contacts">Editar contactos</string>
+    <string name="permission_write_storage">Guardar elementos en el almacenamiento</string>
     <string name="phone_title">Ajustes del teléfono</string>
     <string name="platform_chooser_item_android_mi">Teléfono Mi</string>
     <string name="platform_chooser_item_android_others">Otras marcas</string>
@@ -557,8 +569,10 @@ debería crear una copia de seguridad de iCloud primero."</string>
     <string name="platform_chooser_title">Seleccione el dispositivo antiguo</string>
     <string name="pm">PM</string>
     <string name="preference_copied">\"%1$s\" se ha copiado en el portapapeles.</string>
+    <string name="privacy_policy_link"><Data>\"Para obtener más información sobre nuestras prácticas de procesamiento de datos y sus derechos como usuario, lea y acepte nuestra &lt;a href=\'%1s\'&gt;Política de privacidad&lt;/a&gt; antes de continuar\".</Data></string>
     <string name="privacy_settings">Privacidad</string>
     <string name="privacy_settings_title">Política de privacidad</string>
+    <string name="private_policy_text">Política de privacidad</string>
     <string name="progress_backup_hint">Realizando copia…</string>
     <string name="progress_restore_hint">Recuperando…</string>
     <string name="prompt_reading">Leyendo…</string>
@@ -577,6 +591,7 @@ debería crear una copia de seguridad de iCloud primero."</string>
     <string name="restore_counts">Restaurar:</string>
     <string name="restore_data">Seleccionar los elementos para restaurar</string>
     <string name="restore_failed">"No se pudo restaurar"</string>
+    <string name="restore_files">Para restaurar elementos</string>
     <string name="restore_finished">Restaurado con éxito</string>
     <string name="restore_is_running">Restaurando dispositivo</string>
     <string name="restore_launcher_layout_hit">Recuperar ajustes del iniciador</string>
@@ -585,6 +600,7 @@ debería crear una copia de seguridad de iCloud primero."</string>
     <string name="restore_telephony_hit">Restaurar reiniciará las apps del teléfono.</string>
     <string name="retry">Inténtalo de nuevo</string>
     <string name="reverse_all">Borrar todo</string>
+    <string name="revoke_permission_dialog_content">"No podrá realizar copias de seguridad ni restaurar elementos sin todos los permisos obligatorios. ¿Retirar los permisos de todos modos?"</string>
     <string name="router_backup_hint">Mantener el dispositivo encendido</string>
     <string name="saturday">Sábado</string>
     <string name="saturday_short">Sáb</string>
@@ -943,6 +959,7 @@ Libera espacio o realiza varias transferencias más pequeñas."</string>
     <string name="usb_trans_select_data_no_space">"Solo %s disponibles en su unidad USB.
 Libera espacio o transfiere solo los elementos importantes."</string>
     <string name="user_feedback">Comentarios</string>
+    <string name="user_know_button_text">Entendido</string>
     <string name="user_name">Apple ID o correo</string>
     <string name="user_name_null">"El nombre de usuario no puede estar vacío"</string>
     <string name="user_notice_declaration_ignore">"No mostrar de nuevo"</string>

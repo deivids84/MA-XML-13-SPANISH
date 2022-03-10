@@ -112,6 +112,9 @@
         <item>Ocultar número</item>
         <item>Mostrar número</item>
     </string-array>
+    <string-array name="clir_values_default_only">
+        <item>POR DEFECTO</item>
+    </string-array>
     <string-array name="color_mode_descriptions">
         <item>Colores mejorados</item>
         <item>Colores naturales como los ve el ojo</item>

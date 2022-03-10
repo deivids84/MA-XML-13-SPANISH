@@ -380,6 +380,7 @@ Enviar este código al supervisor."</string>
     <string name="my_device_title">Dispositivo actual</string>
     <string name="need_install_wechat">Instale WeChat primero</string>
     <string name="night">Tarde</string>
+    <string name="no_account_or_forget_password">¿Crear cuenta u olvidó la contraseña?</string>
     <string name="no_install">No instalado</string>
     <string name="no_network_btn">Actualizar</string>
     <string name="no_network_title">"No se pudo conectar a la red."</string>

@@ -611,6 +611,7 @@ Si este permiso está desactivado, las alarmas existentes y los eventos basados 
     <string name="angle_enabled_app">Seleccionar app compatible con ANGLE</string>
     <string name="angle_enabled_app_not_set">No se estableció ninguna app compatible con ANGLE</string>
     <string name="angle_enabled_app_set">App compatible con ANGLE: %1$s</string>
+    <string name="animation_off">Animación desactivada</string>
     <string name="animator_duration_scale_title">Escala de duración del animador</string>
     <string name="another_migration_already_in_progress">Hay otra migración en curso.</string>
     <string name="anti_spam">Lista de bloqueo</string>
@@ -806,6 +807,7 @@ Si este permiso está desactivado, las alarmas existentes y los eventos basados 
     <string name="asst_feedback_indicator_title">Comentarios de notificación adaptativos</string>
     <string name="asst_importance_reset_summary">Restablezca la configuración de importancia cambiada por el usuario y permita que el asistente de notificación priorice</string>
     <string name="asst_importance_reset_title">Restablecer la importancia de la notificación</string>
+    <string name="at_most_one_process">Como máximo %d proceso</string>
     <string name="attempt_other_network">Cambiar redes</string>
     <string name="audio_and_captions_category_title">Audio y texto en pantalla</string>
     <string name="audio_category_title">Audio</string>
@@ -843,8 +845,8 @@ Si este permiso está desactivado, las alarmas existentes y los eventos basados 
     <string name="auto_caps">Uso de mayúsculas automático</string>
     <string name="auto_caps_summary">Escribir con mayúscula la primera letra en las oraciones</string>
     <string name="auto_clean_description">"Acerca de esta función
-1. Ejecute esta función una o dos veces si detecta que su altavoz está bloqueado por polvo.
-2. Si el altavoz está muy bloqueado, ejecute esta función de 2 a 5 veces mientras sacude el dispositivo con el altavoz apuntando hacia abajo."</string>
+1. Ejecute esta función una o dos veces si encuentra que su altavoz está ligeramente bloqueado por el polvo.
+2. Si el altavoz está muy bloqueado, ejecute esta función %1$d-%2$d veces mientras agita el dispositivo con el altavoz hacia abajo."</string>
     <string name="auto_clean_description_pad">"Acerca de esta función
 - Ejecute esta función una o dos veces si descubre que su altavoz está ligeramente bloqueado por el polvo.
 - Si el altavoz está muy bloqueado, ejecute esta función %1$d,%2$d veces mientras agita su dispositivo con el altavoz hacia abajo."</string>
@@ -1262,6 +1264,10 @@ para ^2"</string>
     <string name="block_list_title">Lista de bloqueo</string>
     <string name="block_title">Mostrar notificaciones</string>
     <string name="bluetooth">Bluetooth</string>
+    <string name="bluetooth_a2dp_codec_ldac_playback_quality_titles_1">Optimizado para calidad de audio (%1$dkbps/%2$dkbps)</string>
+    <string name="bluetooth_a2dp_codec_ldac_playback_quality_titles_2">Audio equilibrado y calidad de conexión (%1$dkbps/%2$dkbps)</string>
+    <string name="bluetooth_a2dp_codec_ldac_playback_quality_titles_3">Optimizado para calidad de conexión (%1$dkbps/%2$dkbps)</string>
+    <string name="bluetooth_a2dp_codec_ldac_playback_quality_titles_4">Mejor efecto (velocidad de bits adaptativa)</string>
     <string name="bluetooth_a2dp_profile_summary_connected">Conectado al audio de medios</string>
     <string name="bluetooth_a2dp_profile_summary_use_for">Utilizado para audio multimedia</string>
     <string name="bluetooth_active_battery_level">Activo. %1$s de batería</string>
@@ -3554,7 +3560,9 @@ Parecía no haber caballos ni animales de ningún tipo. Los hombres cargaban obj
     <string name="force_immersive_compatibility_hint_message">Algunas aplicaciones podrían no funcionar bien si decide ocultar los botones virtuales.</string>
     <string name="force_immersive_compatibility_hint_title">Problemas de compatibilidad</string>
     <string name="force_msaa">Forzar MSAA 4x</string>
+    <string name="force_msaa_new">Forzar %dx MSAA</string>
     <string name="force_msaa_summary">Habilitar MSAA 4x en aplicaciones OpenGL ES 2.0</string>
+    <string name="force_msaa_summary_new">Habilitar %2$dx MSAA en OpenGL ES %1$.1f aplicaciones</string>
     <string name="force_resizable_activities">Forzar que las actividades sean redimensionables</string>
     <string name="force_resizable_activities_summary">Hacer todas las actividades redimensionables para ventana múltiple, sin importar los valores mostrados.</string>
     <string name="force_rtl_layout_all_locales">Forzar dirección del diseño RTL</string>
@@ -4369,7 +4377,6 @@ Abra Xiaomi Cloud y restaure elementos desde allí."</string>
     <string name="led_settings">Luz LED</string>
     <string name="left_edge">Borde izquierdo</string>
     <string name="left_function_key">Atajo izquierdo</string>
-    <string name="left_shoulder_key">Izquierda</string>
     <string name="legacy_control_center_desc">Deslice la barra de estado hacia abajo para ver los conmutadores y las notificaciones</string>
     <string name="legacy_control_center_title">Versión antigua</string>
     <string name="legacy_navigation_summary">Ve atrás o a la pantalla principal y cambia de app con los botones de la parte inferior de la pantalla.</string>
@@ -4920,6 +4927,7 @@ No podrá revertir esta acción."</string>
     <string name="max_cpu8_info">"Octa-core Max "</string>
     <string name="max_fingerprint_number_reached">"No puede agregar más de 5 huellas digitales. Para agregar una nueva huella digital, elimine una existente."</string>
     <string name="max_fingerprint_reached_toast">Puedes añadir hasta 5 huellas digitales</string>
+    <string name="max_number_of_processes">Como máximo %d procesos</string>
     <string name="maximum_memory_use">Uso máximo de la memoria</string>
     <string name="mechanical_ime">Teclado mecánico</string>
     <string name="mechanical_ime_hint">Soportado solo por el teclado personalizado para Xiaomi</string>
@@ -5062,7 +5070,7 @@ No podrá revertir esta acción."</string>
     <string name="miheadset_auto_ack_mode">"Responda llamadas automáticamente cuando use los audífonos"</string>
     <string name="miheadset_auto_ack_mode_summary">Conteste las llamadas automáticamente</string>
     <string name="miheadset_auto_answer_call">Responde las llamadas automáticamente</string>
-    <string name="miheadset_bluetooth_audio_title">LC%dplus frecuencia de muestreo de audio Bluetooth</string>
+    <string name="miheadset_bluetooth_audio_title">Frecuencia de muestreo de audio Bluetooth LC3plus</string>
     <string name="miheadset_bright">Brillante</string>
     <string name="miheadset_call_assist">Mi AI</string>
     <string name="miheadset_cancel_device">Cancelar</string>
@@ -5173,7 +5181,7 @@ No podrá revertir esta acción."</string>
     <string name="miheadset_triple_press_right">Presione tres veces el auricular derecho</string>
     <string name="miheadset_unpair_device_text">%1$s se desemparejará de todos los dispositivos asociados con esta Cuenta Mi.</string>
     <string name="miheadset_virtual_surround">Sonido envolvente virtual</string>
-    <string name="miheadset_virtual_surround_summary">"Enriquezca la profundidad del sonido para la reproducción de audio y vídeo en auriculares. Esta función no funcionará cuando %1$d.%2$d audio del canal se reproduzca."</string>
+    <string name="miheadset_virtual_surround_summary">"Enriquece la profundidad del sonido para la reproducción de audio y video en auriculares. Esta función no funcionará cuando se reproduzca audio de %s canales."</string>
     <string name="miheadset_voice_control_summary">Cuando esta función está activada, puede decirle a Mi AI que navegue por su dispositivo o controle la reproducción de audio usando comandos de voz</string>
     <string name="miheadset_windnoise">Viento</string>
     <string name="mipush_fake_channel_group_name">Mi Push</string>
@@ -5743,6 +5751,7 @@ Esto reemplazará a %2$s como la app de pagos predeterminada."</string>
     <string name="no_5g_in_dsds_text">Cuando este teléfono tenga dos tarjetas SIM, solo podrá utilizar 4G. <annotation id="url">Más información</annotation></string>
     <string name="no_application">Ninguno</string>
     <string name="no_applications">No hay aplicaciones.</string>
+    <string name="no_background_processes">Sin procesos en segundo plano</string>
     <string name="no_battery_summary">No se usó la batería desde la última carga completa</string>
     <string name="no_battery_summary_24hr">Sin uso de batería durante las últimas 24 horas</string>
     <string name="no_carrier_update_now_text">Actualizado recién</string>
@@ -6798,7 +6807,6 @@ Reinicia el dispositivo y vuelve a intentarlo."</string>
     <string name="rgb_manage_facerecoginition_text">Administrar datos faciales 2D</string>
     <string name="right_edge">Borde derecho</string>
     <string name="right_function_key">Atajo derecho</string>
-    <string name="right_shoulder_key">Derecha</string>
     <string name="ring_to_you">Tono de llamada personalizado</string>
     <string name="ring_to_you_info">Establezca el tono personalizado que otras personas oirán antes de que coja el teléfono</string>
     <string name="ring_volume_option_title">Tono de llamada</string>
@@ -7564,11 +7572,6 @@ Nota: No puedes usar tu huella digital para desbloquear este dispositivo. Para o
     <string name="set_jeejen_prompt_message">Modo lite será establecido como su launcher por defecto. Puede cambiar esto en Ajustes &gt; Ajustes de sistema &gt; Pantalla de inicio y recientes &gt; Launcher por defecto.</string>
     <string name="set_jeejen_prompt_title">Confirmar cambios</string>
     <string name="set_screen_paper_mode">Modo lectura</string>
-    <string name="set_shoulder_key_shortcut_checkbox_message">"No volver a mostrar"</string>
-    <string name="set_shoulder_key_shortcut_message">"Aún no ha asignado ningún acceso directo a los botones gatillo. ¿Configurar los botones gatillo ahora?"</string>
-    <string name="set_shoulder_key_shortcut_negative_button">No</string>
-    <string name="set_shoulder_key_shortcut_positive_button">Sí</string>
-    <string name="set_shoulder_key_shortcut_title">Configurar botones gatillo</string>
     <string name="setting_privacy_password">Establecer contraseña de protección de privacidad</string>
     <string name="settings_ad_loading">Cargando…</string>
     <string name="settings_ad_loading_unavailable">"No se pudo cargar la información."</string>
@@ -7636,22 +7639,9 @@ Nota: No puedes usar tu huella digital para desbloquear este dispositivo. Para o
     <string name="shared_data_title">Datos compartidos</string>
     <string name="sharing_remote_bugreport_dialog_message">Este informe de errores se compartirá con tu administrador de TI. Para obtener más información, comunícate con él.</string>
     <string name="short_summary_font_size">Aumenta o reduce el tamaño del texto en pantalla</string>
-    <string name="shoulder_key_diagram">Demo</string>
     <string name="shoulder_key_game_light_settings">Animaciones</string>
-    <string name="shoulder_key_settings">Botones gatillo</string>
-    <string name="shoulder_key_settings_title">Botones gatillo</string>
-    <string name="shoulder_key_shortcut_double_click">Pulse dos veces</string>
-    <string name="shoulder_key_shortcut_launch_camera">Cámara</string>
-    <string name="shoulder_key_shortcut_launch_screen_recorder">Grabar pantalla</string>
-    <string name="shoulder_key_shortcut_launch_sound_recorder">Grabar audio</string>
-    <string name="shoulder_key_shortcut_launch_video">Grabar vídeo</string>
-    <string name="shoulder_key_shortcut_long_press">Presione y mantenga</string>
-    <string name="shoulder_key_shortcut_mute">Modo silencioso</string>
-    <string name="shoulder_key_shortcut_none">Ninguno</string>
-    <string name="shoulder_key_shortcut_settings">Botones gatillo</string>
-    <string name="shoulder_key_shortcut_single_click">Presione</string>
-    <string name="shoulder_key_shortcut_turn_on_torch">Linterna</string>
-    <string name="shoulder_key_shortcut_vibrate">Vibrar</string>
+    <string name="shoulder_key_settings">Activadores de ventanas emergentes</string>
+    <string name="shoulder_key_settings_title">Activadores de ventanas emergentes</string>
     <string name="shoulder_key_sound_settings">Efectos de sonido</string>
     <string name="shoulder_key_sound_switch_title">Efectos de sonido</string>
     <string name="shoulder_key_sound_text_bullet">Bala</string>
@@ -8020,6 +8010,7 @@ Esto ocurre porque hay una credencial de confianza instalada en el dispositivo."
     <string name="stable_build">Estable</string>
     <string name="standard">Silencio</string>
     <string name="standard_info">Las llamadas y notificaciones serán silenciadas</string>
+    <string name="standard_limit">Límite estándar</string>
     <string name="standby_bucket_summary">Aplicación en estado de espera: %s</string>
     <string name="start_silent_mode">Activar modo silencio</string>
     <string name="starting_android">Iniciando Android…</string>
@@ -8265,8 +8256,35 @@ Intenta usar un ^3 más rápido o usa ^4 como almacenamiento portátil."</string
     <string name="string_KB_per_log_buffer">%d KB por búfer de registro</string>
     <string name="string_MB">%d MB</string>
     <string name="string_MB_per_log_buffer">%d MB por búfer de registro</string>
+    <string name="string_after_int_minute">Después de %d minuto</string>
+    <string name="string_after_int_minutes">Después de %d minutos</string>
+    <string name="string_after_int_seconds">Después de %d segundos</string>
+    <string name="string_always">Siempre</string>
+    <string name="string_bits_per_sample">%d bits/muestra</string>
+    <string name="string_bluetooth_a2dp_codec_lhdc_latency_titles_1">Latencia corta (%1$d~%2$dms)</string>
+    <string name="string_bluetooth_a2dp_codec_lhdc_latency_titles_2">Latencia media (%1$d~%2$dms)</string>
+    <string name="string_bluetooth_a2dp_codec_lhdc_latency_titles_3">Larga latencia (%1$d~%2$dms)</string>
+    <string name="string_bluetooth_a2dp_codec_lhdc_playback_quality_titles_1">Optimizado para baja latencia (%dkbps)</string>
+    <string name="string_bluetooth_a2dp_codec_lhdc_playback_quality_titles_2">Optimizado para calidad de conexión (%dkbps)</string>
+    <string name="string_bluetooth_a2dp_codec_lhdc_playback_quality_titles_3">Audio equilibrado y calidad de conexión (%1$d/%2$dkbps)</string>
+    <string name="string_bluetooth_a2dp_codec_lhdc_playback_quality_titles_4">Optimizado para calidad de audio (%dkbps)</string>
+    <string name="string_bluetooth_a2dp_codec_lhdc_playback_quality_titles_5">Mejor esfuerzo (velocidad de bits automática)</string>
+    <string name="string_float_inches">%f pulgadas</string>
+    <string name="string_float_seconds">%f segundos</string>
+    <string name="string_immediately">Inmediatamente</string>
+    <string name="string_int_hour">%d hora</string>
+    <string name="string_int_hours">%d horas</string>
+    <string name="string_int_minute">%d minuto</string>
+    <string name="string_int_minutes">%d minutos</string>
+    <string name="string_int_second">%d segundo</string>
+    <string name="string_int_seconds">%d segundos</string>
+    <string name="string_kHz">%.1f kHz</string>
+    <string name="string_never">Nunca</string>
     <string name="string_off">Desactivado</string>
     <string name="string_offed">Desactivado</string>
+    <string name="string_scale_float">Escala de animación %.1fx</string>
+    <string name="string_scale_int">Escala de animación %dx</string>
+    <string name="string_unlimited">Ilimitado</string>
     <string name="strong_suppression_summary">Su dispositivo será menos sensible a toques accidentales, algunos controles por gestos podrían no funcionar cerca de los bordes</string>
     <string name="strong_suppression_title">Área grande</string>
     <string name="structure_add_facerecoginition_text">Agregar datos faciales 3D</string>
@@ -8597,6 +8615,9 @@ Con este software de Google, puedes sincronizar tus datos y acceder a tus contac
     <string name="time_floating_window">Reloj flotante</string>
     <string name="time_floating_window_summary">Muestra el reloj en la ventana flotante sobre otras aplicaciones</string>
     <string name="time_format_category_title">Formato de hora</string>
+    <string name="time_format_entries_1">%d-hora 1:00 PM</string>
+    <string name="time_format_entries_2">%d-hora 13:00</string>
+    <string name="time_format_entries_3">Auto (según el idioma del sistema)</string>
     <string name="time_picker_dialog_title">Establecer hora</string>
     <string name="time_picker_title">Hora</string>
     <string name="time_spent_in_app_pref_title">Tiempo de uso</string>
@@ -9077,6 +9098,7 @@ o audífonos con un conector de 3.5mm."</string>
     <string name="use_personalized_ad_service_summary_for_global">"Cuando las recomendaciones de anuncios personalizados están desactivadas, seguirá viendo la misma cantidad de anuncios en las aplicaciones del sistema MIUI que cuando la función está activada. Sin embargo, los anuncios de Xiaomi y plataformas de terceros ya no serán relevantes, ya que no se basarán en sus preferencias personales."</string>
     <string name="use_privacy_password_immediate">Usar</string>
     <string name="use_system_language_to_select_input_method_subtypes">Usar idioma del sistema</string>
+    <string name="use_system_preference">Usar preferencia del sistema (Predeterminado)</string>
     <string name="use_this_wlan">Permanecer conectado</string>
     <string name="use_wifi_hotsopt_main_switch_title">Usar punto de acceso Wi-Fi</string>
     <string name="user_account_title">Cuenta para contenido</string>
@@ -9870,6 +9892,8 @@ Si configuras la red para que esté oculta, no se modificarán los ajustes del r
     <string name="wifi_protection_tip">MIUI protegerá sus datos personales de solicitudes de sondeo Wi-Fi provenientes de direcciones MAC aleatorias y analizadores de protocolos Wi-Fi cuando el dispositivo está buscando redes Wi-Fi.</string>
     <string name="wifi_quick_toggle_summary">Activar Wi-Fi</string>
     <string name="wifi_quick_toggle_title">Wi-Fi</string>
+    <string name="wifi_region_summary">Requiere que Wi-Fi se reinicie para tener efecto</string>
+    <string name="wifi_region_title">Región Wi-Fi</string>
     <string name="wifi_remembered">Guardada</string>
     <string name="wifi_remembered_disabled_auto_connect">"Guardado. No se puede conectar automáticamente."</string>
     <string name="wifi_require_sim_card_to_connect">Requiere SIM para conectarse</string>
@@ -10026,13 +10050,12 @@ también puede usar las redes de otros usuarios."</string>
     <string name="wifi_switch_to_gsm_message">Conexión Wi-Fi perdida. ¿Usar datos móviles?</string>
     <string name="wifi_switch_to_gsm_title">¿Usar GSM?</string>
     <string name="wifi_tap_to_sign_in">Presiona aquí para acceder a la red</string>
-    <string name="wifi_tether_checkbox_kddi_text">Anclaje a red Wi-Fi</string>
-    <string name="wifi_tether_checkbox_text">Punto de acceso móvil</string>
-    <string name="wifi_tether_configure_ap_kddi_text">Configurar anclaje a red Wi-Fi</string>
-    <string name="wifi_tether_configure_ap_text">Establecer punto de acceso móvil</string>
+    <string name="wifi_tether_checkbox_kddi_text">Punto de acceso Wi-Fi</string>
+    <string name="wifi_tether_checkbox_text">Punto de acceso Wi-Fi</string>
+    <string name="wifi_tether_configure_ap_kddi_text">Configurar punto de acceso Wi-Fi</string>
+    <string name="wifi_tether_configure_ap_text">Configurar punto de acceso Wi-Fi</string>
     <string name="wifi_tether_configure_subtext">%1$s %2$s móvil</string>
     <string name="wifi_tether_enabled_subtext">%1$s está activa</string>
-    <string name="wifi_tether_enabled_summary">%1$s activa</string>
     <string name="wifi_tether_failed_subtext">Error del punto de acceso móvil</string>
     <string name="wifi_tether_setting_title">Ajustes</string>
     <string name="wifi_tether_settings_title">Punto de acceso móvil</string>
