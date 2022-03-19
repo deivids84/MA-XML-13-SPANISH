@@ -470,6 +470,7 @@
     <string name="app_manager_manage_space">Administrar espacio</string>
     <string name="app_manager_memory">RAM</string>
     <string name="app_manager_menu_clear_data">Limpiar datos</string>
+    <string name="app_manager_mobile_slot">Datos móviles (SIM %d)</string>
     <string name="app_manager_mobile_slot1">Datos móviles (SIM 1)</string>
     <string name="app_manager_mobile_slot2">Datos móviles (SIM 2)</string>
     <string name="app_manager_net_control_title">Restringir el uso de datos</string>
@@ -642,6 +643,9 @@ No perderá ningún dato de aplicación."</string>
     <string name="applock_gulide_third_part">La cuenta se eliminará cuando cierre la sesión</string>
     <string name="applock_header_text_less_than_half">Demasiado corto. Arrastre un poco más.</string>
     <string name="applock_lock_all">Bloquear todas</string>
+    <string name="applock_lock_mode_locked">Cuando el dispositivo está bloqueado</string>
+    <string name="applock_lock_mode_locked_or_exit">Cuando el dispositivo está bloqueado o después de salir de la aplicación</string>
+    <string name="applock_lock_mode_locked_or_exit_or_wait">Cuando el dispositivo está bloqueado o en %d minutos después de salir de la aplicación</string>
     <string name="applock_login_and_add_account">Iniciar sesión y agregar</string>
     <string name="applock_mixtype_hidepwd_icon">Ocultar</string>
     <string name="applock_mixtype_showpwd_icon">Mostrar</string>
@@ -1793,6 +1797,7 @@ voluntario"</string>
     <string name="gamebox_app_not_find">Primero instale la aplicación.</string>
     <string name="gamebox_brightness">Brillo</string>
     <string name="gamebox_browser_not_find">Instale Navegador Mi primero</string>
+    <string name="gamebox_bullet_chat">Comentarios en pantalla</string>
     <string name="gamebox_collimator">Vista</string>
     <string name="gamebox_display_1">Ninguno</string>
     <string name="gamebox_display_2">Saturado</string>
@@ -1892,6 +1897,10 @@ voluntario"</string>
     <string name="gb_dialog_record_way_ai">Las grabaciones de IA se guardan en la caja del juego y se almacenan allí durante 7 días.</string>
     <string name="gb_dialog_record_way_finish">Listo</string>
     <string name="gb_dialog_record_way_manual">Grabe videos de hasta 30 segundos de forma manual</string>
+    <string name="gb_dialog_record_way_manual_desc" formatted="false">Grabar %d-%d segundos de vídeo durante la sesión de juego manualmente.</string>
+    <string name="gb_dialog_record_way_setting_tip_one">Aumento del consumo de energía y retraso</string>
+    <string name="gb_dialog_record_way_setting_tip_title">Esta característica puede causar los siguientes problemas:</string>
+    <string name="gb_dialog_record_way_setting_tip_two">Conflictos con otras grabadoras de pantalla</string>
     <string name="gb_dialog_record_way_setting_tips">Nota: la grabación de sus sesiones de juego requiere un mayor consumo de energía, lo que puede provocar un retraso.</string>
     <string name="gb_dialog_record_way_title">Seleccionar método de grabación</string>
     <string name="gb_dialog_wlan_wifi_weak">460 ms</string>
@@ -1921,6 +1930,7 @@ voluntario"</string>
     <string name="gb_game_video_page_null">Grabe los momentos clave de sus sesiones de juego</string>
     <string name="gb_game_video_record_finish_tips">Se ha guardado en Game Turbo el vídeo grabado manualmente</string>
     <string name="gb_game_video_save">Guardar</string>
+    <string name="gb_game_video_save_tip">Guardado correctamente</string>
     <string name="gb_game_video_type_ai_record">Grabar usando IA</string>
     <string name="gb_game_video_type_manual">Manualmente</string>
     <string name="gb_game_video_type_manual_record">Grabar manualmente</string>
@@ -1932,6 +1942,7 @@ voluntario"</string>
     <string name="gb_gpu_driver_update_app_tips">La versión actual está actualizada</string>
     <string name="gb_have_signed">Registrado hoy</string>
     <string name="gb_manual_record_dialog_del_video_message">¿Eliminar videos seleccionados permanentemente?</string>
+    <string name="gb_manual_video_record_title">Grabaciones</string>
     <string name="gb_msg_completely_shielded">Ocultar mensajes</string>
     <string name="gb_msg_completely_shielded_summary">Ocultar</string>
     <string name="gb_msg_not_shielded_summary">Mostrar</string>
@@ -1951,28 +1962,41 @@ mientras reduce la frecuencia de actualización y los límites de temperatura"</
     <string name="gb_performance_tips">"El modo de rendimiento mejora el rendimiento de los gráficos,
 pero también aumenta el consumo de energía y permite que su dispositivo se sobrecaliente"</string>
     <string name="gb_shortcut_pref_title">Acceso directo en la Pantalla de inicio</string>
-    <string name="gb_shoulder_key">Botones gatillo</string>
+    <string name="gb_shoulder_guide_message1">Mueva [L] a cualquier posición funcional para usarlo a través del disparador emergente</string>
+    <string name="gb_shoulder_guide_message2">La acción [1] se activa pulsando el botón. La acción [2] se activa soltando el botón.</string>
+    <string name="gb_shoulder_guide_tips1">Abre la caja de herramientas y configura los activadores emergentes</string>
+    <string name="gb_shoulder_guide_title1">Acción</string>
+    <string name="gb_shoulder_guide_title2">Secuencia</string>
+    <string name="gb_shoulder_key">Activadores de ventanas emergentes</string>
     <string name="gb_shoulder_key_add_show_btn">Mostrar botones virtuales durante los juegos</string>
-    <string name="gb_shoulder_key_add_tips">Mueva los botones [L] y [R] a cualquier posición funcional y utilícelos a través de los botones gatillo</string>
+    <string name="gb_shoulder_key_add_tips">Mueva [L] y [R] a cualquier posición funcional y utilícelos a través de disparadores emergentes</string>
     <string name="gb_shoulder_key_btn_cancel">Cancelar</string>
     <string name="gb_shoulder_key_btn_save_exit">Guardar</string>
     <string name="gb_shoulder_key_circle_left">L</string>
     <string name="gb_shoulder_key_circle_right">R</string>
-    <string name="gb_shoulder_key_dialog_message">"Puede usar ambos botones gatillos simultáneamente para iniciar Game Turbo cuando no esté jugando."</string>
-    <string name="gb_shoulder_key_dialog_txt">Puede activar Game Turbo usando los botones gatillo.</string>
+    <string name="gb_shoulder_key_dialog_message">"Puede usar ambos disparadores emergentes simultáneamente para iniciar Game Turbo cuando no esté jugando."</string>
+    <string name="gb_shoulder_key_dialog_txt">Puede activar Game Turbo mediante activadores emergentes.</string>
     <string name="gb_shoulder_key_guide_btn_done">Entendido</string>
     <string name="gb_shoulder_key_guide_btn_next">Siguiente</string>
-    <string name="gb_shoulder_key_guide_tips">¡Configure los botones gatillo para jugar como un profesional!</string>
-    <string name="gb_shoulder_key_guide_tips1">Abra la caja de herramientas y configure los botones gatillo</string>
+    <string name="gb_shoulder_key_guide_tips">¡Configura los disparadores emergentes para jugar como un profesional!</string>
+    <string name="gb_shoulder_key_guide_tips1">Abre la caja de herramientas y configura los activadores emergentes</string>
     <string name="gb_shoulder_key_light_effect">Animaciones de color</string>
     <string name="gb_shoulder_key_light_effect_color">Color</string>
-    <string name="gb_shoulder_key_light_effect_subtitle">"Las animaciones de color se mostrarán cuando los botones laterales estén activados y estés jugando"</string>
+    <string name="gb_shoulder_key_light_effect_subtitle">"Las animaciones de color se mostrarán cuando se activen los activadores de ventanas emergentes y estás jugando juegos"</string>
     <string name="gb_shoulder_key_light_effect_title">Animaciones</string>
     <string name="gb_shoulder_key_settings_guide_tips1">Mueva los botones [L] y [R] a cualquier posición funcional para finalizar la configuración</string>
-    <string name="gb_shoulder_key_settings_guide_tips2">Use los botones gatillo para las funciones que les asignó durante los juegos</string>
-    <string name="gb_shoulder_key_settings_summary">"Use ambos botones gatillo para iniciar Game Turbo cuando no esté jugando"</string>
-    <string name="gb_shoulder_key_settings_title">Use botones gatillo para Game Turbo</string>
+    <string name="gb_shoulder_key_settings_guide_tips2">Usar activadores de ventanas emergentes para las características que les asignaste durante los juegos</string>
+    <string name="gb_shoulder_key_settings_summary">"Usa ambos activadores emergentes para iniciar Game Turbo cuando no estés jugando"</string>
+    <string name="gb_shoulder_key_settings_title">Usar activadores emergentes para Game Turbo</string>
     <string name="gb_shoulder_key_settings_title_new">Inicio rápido de Game Turbo</string>
+    <string name="gb_shoulder_set_left_right">Configurar [%s]</string>
+    <string name="gb_shoulder_set_title">Active los activadores de ventanas emergentes para configurarlos</string>
+    <string name="gb_shoulder_set_title2">Mueva [%s] a cualquier posición funcional y utilícelo a través de los activadores emergentes</string>
+    <string name="gb_shoulder_single_trigger">Acción</string>
+    <string name="gb_shoulder_subsection_down">Presione</string>
+    <string name="gb_shoulder_subsection_trigger">Secuencia</string>
+    <string name="gb_shoulder_subsection_up">Lanzamiento</string>
+    <string name="gb_shoulder_update_left_right">Editar %s</string>
     <string name="gb_sign_gift">Regístrese para obtener recompensas</string>
     <string name="gb_sign_gift_button_text">Recibir</string>
     <string name="gb_sign_notification_summary">Juegue juegos sin demoras en la red</string>
@@ -2126,10 +2150,15 @@ de sus sesiones de juego"</string>
     <string name="gs_show_way_vertical">Vertical</string>
     <string name="gs_sign_notification">Recuerde registrarse todos los días a las 8 p. m.</string>
     <string name="gs_slip_gamebox_detail">Use la barra deslizadora o deslice desde el borde superior de la pantalla para que aparezca el panel de acceso directo</string>
+    <string name="gtb_after_acceleration">Después</string>
+    <string name="gtb_auto_memory_clean">Limpiar memoria automáticamente</string>
+    <string name="gtb_before_acceleration">Antes</string>
+    <string name="gtb_brightness_adjust">Brillo</string>
     <string name="gtb_brightness_dialog_right_btn">Continuar</string>
     <string name="gtb_brightness_dialog_sub_message">*Puedes activar y desactivar esta función en Configuración.</string>
     <string name="gtb_content_switch">Recomendaciones de contenido</string>
     <string name="gtb_content_switch_summary">Reciba recomendaciones de contenido relacionado con los juegos</string>
+    <string name="gtb_deep_garbage_cleaning">Realizando limpieza profunda…</string>
     <string name="gtb_dialog_btn_close">Desactivar</string>
     <string name="gtb_dialog_btn_open">Activar</string>
     <string name="gtb_dialog_hint_smart_5g">Puede activar y desactivar esta función en Game Turbo &gt; Ajustes.</string>
@@ -2141,8 +2170,11 @@ de sus sesiones de juego"</string>
     <string name="gtb_dialog_privacy_voice_title">Cambiador de voz del juego Xunyou</string>
     <string name="gtb_dialog_summary_smart_5g">Cada vez que Game Turbo detecta una red 5G, puede conectar su dispositivo a la mejor red disponible para reducir el retraso de red. ¿Activar ahora esta función?</string>
     <string name="gtb_dialog_title_smart_5g">Optimización de redes 5G</string>
+    <string name="gtb_dnd">DND</string>
     <string name="gtb_exit_game_to_gtb">Abrir la caja de juego</string>
     <string name="gtb_exit_game_to_home">Volver a la Pantalla de inicio</string>
+    <string name="gtb_garbage_clean">Liberar almacenamiento</string>
+    <string name="gtb_garbage_cleaned_tip">Libere %1$s para aumentar el rendimiento</string>
     <string name="gtb_guide_finish">Omitir</string>
     <string name="gtb_guide_game_mode_tips">Seleccione el modo de juego preferido</string>
     <string name="gtb_guide_gtb_button_done">Hecho</string>
@@ -2156,6 +2188,17 @@ de sus sesiones de juego"</string>
     <string name="gtb_guide_gtb_line_xspace">¡Mejora tu juego con el nuevo Game Turbo!</string>
     <string name="gtb_guide_small_window_app_desc">"Usa otras aplicaciones mientras juegas"</string>
     <string name="gtb_guide_small_window_app_title">Ventanas flotantes</string>
+    <string name="gtb_intelligent_garbage_clean">Libera espacio de almacenamiento</string>
+    <string name="gtb_memory_clean">Limpiar memoria</string>
+    <string name="gtb_mode_normal">Regular</string>
+    <string name="gtb_mode_performance">Rendimiento</string>
+    <string name="gtb_open_performance_mode_tip">El modo rendimiento mejorará su experiencia de juego al tiempo que aumenta el consumo de energía y calienta su dispositivo.</string>
+    <string name="gtb_phone_accelerate">Aumente el rendimiento</string>
+    <string name="gtb_realtime_performance_monitoring">Supervisar el rendimiento</string>
+    <string name="gtb_screenrecord">Grabar</string>
+    <string name="gtb_screenshot">Captura de pantalla</string>
+    <string name="gtb_screenshot_pinned">Captura de pantalla</string>
+    <string name="gtb_setting">Configuración</string>
     <string name="gtb_setting_item_summary_disable_ndds_sim">Bloquee todos los servicios de comunicación en la SIM secundaria durante las sesiones de juego para mantener la conexión estable y evitar cambiar entre redes. La SIM secundaria se desbloqueará cuando dejes de jugar.</string>
     <string name="gtb_setting_item_summary_smart_5g">Cada vez que Game Turbo detecta una red 5G, puede conectar su dispositivo a la mejor red disponible para reducir el retraso de red</string>
     <string name="gtb_setting_item_summary_smart_wlan_speed" formatted="false">Aumente la velocidad de conexión en un 10%-20% cuando esté conectado a routers Mi/Redmi</string>
@@ -2177,6 +2220,10 @@ para unirte a nuestra búsqueda de huevos!"</string>
     <string name="gtb_spring_festival_push_join">Unirse</string>
     <string name="gtb_spring_festival_push_see">Ver</string>
     <string name="gtb_spring_festival_shortcut_create">Crear acceso directo en la Pantalla de inicio</string>
+    <string name="gtb_start_phone_accelerate">Optimizar</string>
+    <string name="gtb_stop_accelerate">Detener</string>
+    <string name="gtb_timer">Temporizador</string>
+    <string name="gtb_voice_changer">Cambiador de voz</string>
     <string name="gtb_wlan_speed_tips">Usando Mi WiFi…</string>
     <string name="guide_get_operator_error">"&lt;font color='#33b4ff'&gt;&lt;U&gt;¿Operadora equivocada?&lt;/U&gt;&lt;/font&gt;"</string>
     <string name="guide_operator_text">"Su operadora actual: "</string>
@@ -2912,7 +2959,7 @@ Intente usar otro cable Ethernet para conectar el router. Si sospecha que hay un
     <string name="pc_fast_charge_notifi_action_text_on">Acelerar</string>
     <string name="pc_fast_charge_notifi_power_threshold_title">Establecer nivel de batería para recordatorios</string>
     <string name="pc_fast_charge_notifi_summary">Carga hasta %s más rápido de lo habitual…</string>
-    <string name="pc_fast_charge_notifi_summary_on">Esta función puede calentar su dispositivo</string>
+    <string name="pc_fast_charge_notifi_summary_on">La velocidad de carga aumenta cuando la pantalla está apagada. Su dispositivo se calentará.</string>
     <string name="pc_fast_charge_notifi_switch_summary">Notificar sobre el aumento de la velocidad de carga cuando el %dW suministrado está conectado y la batería está por debajo del nivel establecido</string>
     <string name="pc_fast_charge_notifi_switch_title">Notificar sobre la aceleración</string>
     <string name="pc_fast_charge_notifi_title">%dW de carga</string>
@@ -3842,6 +3889,7 @@ Retirar el consentimiento ahora?"</string>
     <string name="result_sms_title_antispam">Amenazado por URLs maliciosas de SMS</string>
     <string name="result_sms_title_auth">Existen riesgos de fuga de datos financieros en SMS</string>
     <string name="result_wifi_header">Riesgos de Wi-Fi detectados</string>
+    <string name="resume">Restaurar</string>
     <string name="risk_app_install_agree_button">Confía en esta aplicación</string>
     <string name="risk_app_install_agree_checkbox">"Estoy dispuesto a tomar todos los riesgos posibles."</string>
     <string name="risk_app_install_agree_message">"Esta aplicación está desarrollada por un tercero y podría violar las leyes y regulaciones locales. Xiaomi no garantiza la disponibilidad, continuidad y accesibilidad del contenido y los servicios proporcionados por esta aplicación. Cualquier pérdida o daño ocasionado por el uso de esta aplicación correrá a cargo de usted."</string>
@@ -4853,6 +4901,7 @@ El formateo eliminará el contenido existente en la ^2. Para evitar perder conte
     <string name="title_flow_rank">Uso de datos móviles</string>
     <string name="title_flow_verify">Comparar contabilidad</string>
     <string name="title_flow_verify_failed">"No se pudo ajustar durante 5 días seguidos"</string>
+    <string name="title_flow_verify_failed_new">"No se pudo ajustar durante %d días seguidos"</string>
     <string name="title_garbage_clean">El tamaño de caché de la aplicación alcanzó los %s</string>
     <string name="title_garbage_less">La caché de la aplicación es pequeña</string>
     <string name="title_garbage_lib">Actualizar definiciones de la basura</string>
@@ -5097,7 +5146,7 @@ Los datos restantes incluyen datos transferidos desde el mes anterior."</string>
     <string name="vb_video_effects_3d">Sonido envolvente</string>
     <string name="vb_video_effects_3d_summary">Mejora la profundidad de reproducción del sonido para auriculares y altavoces</string>
     <string name="vb_video_effects_3d_summary_headset">Aumente la sensación de inmersión y envolvente al escuchar audio en los auriculares</string>
-    <string name="vb_video_effects_3d_surround">Sonido envolvente</string>
+    <string name="vb_video_effects_3d_surround">Sonido inmersivo virtual</string>
     <string name="vb_video_effects_display_style">Estilo</string>
     <string name="vb_video_effects_dolby">Dolby Atmos</string>
     <string name="vb_video_effects_dolby_dialog_enhancer">Diálogo mejorado</string>
@@ -5125,8 +5174,8 @@ Los datos restantes incluyen datos transferidos desde el mes anterior."</string>
     <string name="vb_video_effects_settings_stereo">Volumen</string>
     <string name="vb_video_effects_some_headphone">Compatible con modelos de auriculares seleccionados</string>
     <string name="vb_video_effects_spatial">Seguimiento del movimiento de la cabeza</string>
-    <string name="vb_video_effects_spatial_summary">"Ajuste el sonido envolvente según el movimiento de la cabeza
-* Solo compatible con modelos de auriculares para juegos"</string>
+    <string name="vb_video_effects_spatial_summary">"Ajuste el sonido inmersivo según el movimiento de la cabeza
+*Solo compatible con modelos de auriculares para juegos"</string>
     <string name="vb_video_effects_srs_premium_sound">Sonido</string>
     <string name="vb_video_super_division">Reescalar</string>
     <string name="vb_video_super_division_desc">"Mejora la resolución automáticamente cuando es ≤720p.

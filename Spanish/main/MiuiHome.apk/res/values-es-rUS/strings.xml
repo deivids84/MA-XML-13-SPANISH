@@ -160,7 +160,7 @@
     <string name="auto_add_app_shortcut">Colocar aplicaciones en la Pantalla de inicio</string>
     <string name="auto_delete_category_dialog_content">Las aplicaciones actuales serán eliminadas de esta categoría y esta también será eliminada. ¿Eliminar esta categoría?</string>
     <string name="auto_delete_category_dialog_title">Eliminando categoría</string>
-    <string name="auto_disable_screenbuttons_summary">Toque dos veces cualquier botón de navegación para volver a habilitar</string>
+    <string name="auto_disable_screenbuttons_summary">"Desactive automáticamente los botones de navegación cuando no se muestra la barra de estado. Toque dos veces cualquier botón de navegación para volver a habilitar."</string>
     <string name="auto_disable_screenbuttons_title">Desactivar automáticamente los botones de navegación</string>
     <string name="back">Atrás</string>
     <string name="backup_fail">"No se pudo respaldar el launcher"</string>

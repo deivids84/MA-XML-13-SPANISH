@@ -29,6 +29,7 @@
     <string name="abc_toolbar_collapse_description">Contraer</string>
     <string name="about_device_info">Ver detalles del dispositivo</string>
     <string name="accept">Permitir</string>
+    <string name="access_denied_info">Demasiados intentos. Espera uno o dos minutos e inténtalo de nuevo.</string>
     <string name="access_token_expired_warning">La cuenta Weibo ha expirado</string>
     <string name="access_token_invalid_warning">La cuenta Weibo no es válida</string>
     <string name="account">Cuenta</string>
@@ -95,6 +96,8 @@ ID de su cuenta: %s"</string>
     <string name="agreement_and_privacy">Términos y condiciones</string>
     <string name="am">AM</string>
     <string name="app_name">Cuenta Mi</string>
+    <string name="area_code_no_search_result">"No se pudieron encontrar resultados"</string>
+    <string name="area_code_search_hint">Buscar país o región</string>
     <string name="auth_fail_warning">Sesión expirada, inicie sesión de nuevo</string>
     <string name="authorize_title">Autorización</string>
     <string name="bind_facebook">Conectar cuenta de Facebook</string>
@@ -379,6 +382,8 @@ Enviar este código al supervisor."</string>
     <string name="multi_user_not_show_sync_activity_title">"No activar la sincronización con la nube"</string>
     <string name="my_device_title">Dispositivo actual</string>
     <string name="need_install_wechat">Instale WeChat primero</string>
+    <string name="network_error_info">Se ha producido un error de red. Compruebe la configuración de red e inténtelo de nuevo.</string>
+    <string name="network_timeout_info">"No se pudo conectar a la red. Vuelve a intentarlo."</string>
     <string name="night">Tarde</string>
     <string name="no_account_or_forget_password">¿Crear cuenta u olvidó la contraseña?</string>
     <string name="no_install">No instalado</string>
@@ -614,6 +619,8 @@ Enviar este código al supervisor."</string>
     <string name="passport_talkback_switch_voice_captcha">Cambiar a código de verificación de voz</string>
     <string name="passport_talkback_voice_captcha">Reproducir código de verificación de voz</string>
     <string name="passport_ticket_login_select_sim_card">Seleccionar tarjeta SIM</string>
+    <string name="passport_ticket_login_select_sim_card_1_with_phone_number">SIM %1$d: %2$s</string>
+    <string name="passport_ticket_login_select_sim_card_2_with_phone_number">SIM %1$d: %2$s</string>
     <string name="passport_ticket_login_select_sim_card_cancel">Cancelar</string>
     <string name="passport_title_reg">Crear una cuenta</string>
     <string name="passport_trust_device">Agregar este dispositivo a dispositivos verificados</string>
@@ -671,6 +678,7 @@ Enviar este código al supervisor."</string>
     <string name="privacy_policy_reject_confirm_title">"No se puede usar la cuenta Mi"</string>
     <string name="privacy_policy_update_msg">La Política de privacidad de Mi cuenta se actualizó:&lt;br/&gt;%1$s&lt;br/&gt;Lea y acepte la nueva versión de &lt;a href=%2$s&gt;&lt;u&gt;Política de privacidad&lt;/u&gt;&lt;/a&gt; antes de continuar.</string>
     <string name="privacy_policy_update_title">Política de privacidad actualizada</string>
+    <string name="progressbar_title">Comprobando problemas de seguridad…</string>
     <string name="provision_back">Atrás</string>
     <string name="provision_next">Siguiente</string>
     <string name="provision_skip_underline">Saltar</string>
@@ -769,6 +777,7 @@ Enviar este código al supervisor."</string>
     <string name="system_ad_summary">"Active esta función para permitir mostrar una pequeña cantidad de publicidad en las aplicaciones del sistema. Esta publicidad nos ayuda a desarrollar y mejorar nuestros productos y servicios. Puede desactivar esta función en cualquier momento. ¡Gracias por su apoyo! "</string>
     <string name="system_ad_switch">Anuncios en aplicaciones del sistema</string>
     <string name="system_ad_switch_failed">"No se pudieron aplicar los ajustes"</string>
+    <string name="system_error_info">El sistema está ocupado. Espere uno o dos minutos y vuelva a intentarlo.</string>
     <string name="talkback_scan_barcode">Escanear código QR</string>
     <string name="temporary_not_available">"Esta función no está disponible aún."</string>
     <string name="the_anniversary_of_lifting_martial_law">Aniversario del Levantamiento de la Ley Marcial</string>
@@ -831,6 +840,7 @@ Enviar este código al supervisor."</string>
     <string name="two_factor_auth_need_code_summary">"Recibirá un código en los otros dispositivos Mi conectados. Ingrese este código en el nuevo dispositivo para iniciar sesión."</string>
     <string name="two_factor_auth_summary">"Será notificado en otros dispositivos conectados cuando intente iniciar sesión en un nuevo dispositivo o desde una nueva ubicación. Tendrá que confirmar si autoriza dichos inicios de sesión."</string>
     <string name="unbind_sns_description">"Después de haber desconectado esta cuenta, no podrá usar la información de su cuenta %s para iniciar sesión en su Cuenta Mi."</string>
+    <string name="unknown_error_info">Error desconocido</string>
     <string name="unlock_help_notice">"Ayuda:
 1. Si olvidó su contraseña, vaya a id.mi.com para restablecerla.
 2. Si no puede restablecer su contraseña o alguien bloqueó su dispositivo, vaya a i.mi.com para desbloquearlo.

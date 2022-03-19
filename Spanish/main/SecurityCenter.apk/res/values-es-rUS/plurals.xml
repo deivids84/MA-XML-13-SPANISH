@@ -256,6 +256,10 @@ Si activa los datos móviles de nuevo, su operadora puede que le cobre por datos
         <item quantity="other">Desinstalar %2$d juegos (incluyendo %1$s)</item>
         <item quantity="one">Desinstalar %2$d juego (incluyendo %1$s)</item>
     </plurals>
+    <plurals name="gb_dialog_record_way_ai_desc">
+        <item quantity="other">Grabe momentos clave automáticamente y genere videos con momentos destacados de la sesión. Puede elegir guardarlos permanentemente después de cada sesión de juego. Los videos no guardados se eliminarán automáticamente después de %1$d días.</item>
+        <item quantity="one">Grabe momentos clave automáticamente y genere videos con momentos destacados de la sesión. Puede elegir guardarlos permanentemente después de cada sesión de juego. Los videos no guardados se eliminarán automáticamente después de %1$d día.</item>
+    </plurals>
     <plurals name="gb_game_video_ai_record_finish_tips">
         <item quantity="other">%d grabaciones IA guardadas en Game Turbo</item>
         <item quantity="one">%d grabación IA guardada en Game Turbo</item>

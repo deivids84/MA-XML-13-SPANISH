@@ -99,6 +99,14 @@
     <string name="bluetooth_talkback_imaging">Dispositivo de imagen</string>
     <string name="bluetooth_talkback_input_peripheral">Periférico de entrada</string>
     <string name="bluetooth_talkback_phone">Teléfono</string>
+    <string name="bt_plugin_update_dialog_cancle">Ahora no</string>
+    <string name="bt_plugin_update_dialog_title">Actualización Bluetooth</string>
+    <string name="bt_plugin_update_dialog_update">Actualizar</string>
+    <string name="bt_plugin_update_done_dialog_exit">Aplicar</string>
+    <string name="bt_plugin_update_done_dialog_msg">Para aplicar los cambios, se cerrará la Configuración y se desconectará el Bluetooth.</string>
+    <string name="bt_plugin_update_done_dialog_title">Aplicar cambios</string>
+    <string name="bt_plugin_update_done_toast">Actualizado correctamente</string>
+    <string name="bt_plugin_update_notification_updating">Actualización Bluetooth</string>
     <string name="cancel">Cancelar</string>
     <string name="clearable_edittext_clear_description">Limpiar</string>
     <string name="close">Cerrar</string>

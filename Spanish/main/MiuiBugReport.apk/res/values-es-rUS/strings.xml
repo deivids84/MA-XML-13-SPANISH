@@ -700,7 +700,7 @@ Lea y acepte la nueva versión de %3$s antes de continuar."</string>
     <string name="system_app_select">Aplicaciones incorporadas</string>
     <string name="system_error_info">El sistema está ocupado. Espere uno o dos minutos y vuelva a intentarlo.</string>
     <string name="tab_title_chat">Preguntas frecuentes</string>
-    <string name="tab_title_my_reports">Mis reportes</string>
+    <string name="tab_title_my_reports">Mis comentarios</string>
     <string name="tab_title_preferences">Ajustes</string>
     <string name="tab_title_report">Comentarios</string>
     <string name="temporary_not_available">"Esta función todavía no está disponible"</string>

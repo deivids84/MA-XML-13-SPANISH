@@ -1452,7 +1452,6 @@ dd/MM"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">"Eso es todo por ahora"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Un momento…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"No se pudieron cargar los elementos"</string>
-    <string name="mland">Tierra de malvaviscos</string>
     <string name="mobile_data">Datos móviles</string>
     <string name="mobile_data_always_on">Mantener siempre datos móviles activados</string>
     <string name="mobile_data_always_on_summary">Mantener siempre activos los datos móviles, también cuando el Wi-Fi esté activo (para cambio rápido de red).</string>
@@ -1838,9 +1837,12 @@ Si tiene preguntas, comuníquese con %2$s."</string>
     <string name="preference_copied">Se copió \"%1$s\" en el portapapeles.</string>
     <string name="preference_summary_default_combination">%1$s/%2$s</string>
     <string name="priority_conversations">Conversaciones prioritarias</string>
+    <string name="privacy_dialog_title">Notificaciones sobre acciones sensibles</string>
+    <string name="privacy_recent_used_title">Reciente</string>
     <string name="privacy_type_camera">cámara</string>
     <string name="privacy_type_location">ubicación</string>
     <string name="privacy_type_microphone">micrófono</string>
+    <string name="privacy_using_title">Actual</string>
     <string name="private_dns_broken">No se puede acceder al servidor DNS privado</string>
     <string name="private_dns_mode_off">Desactivado</string>
     <string name="private_dns_mode_opportunistic">Automático</string>
@@ -1882,6 +1884,9 @@ Si tiene preguntas, comuníquese con %2$s."</string>
     <string name="qs_rearrange">Reorganizar la Configuración rápida</string>
     <string name="qs_status_phone_muted">Teléfono silenciado</string>
     <string name="qs_status_phone_vibrate">Teléfono en vibración</string>
+    <string name="qs_traffic_message_type_exceed">%1$s %2$s por encima del límite</string>
+    <string name="qs_traffic_message_type_remain">%1$s %2$s restante</string>
+    <string name="qs_traffic_message_type_used">Usado %1$s %2$s</string>
     <string name="quick_controls_title">Controles de dispositivos</string>
     <string name="quick_settings">Configuración rápida</string>
     <string name="quick_settings_autobrightness_label">Brillo automático</string>
@@ -2037,6 +2042,9 @@ Si tiene preguntas, comuníquese con %2$s."</string>
     <string name="reboot_info_auto_boot_global">Próxima alarma: %s</string>
     <string name="reboot_info_shutdown_alarm_global">Apagado de alarma: %s</string>
     <string name="recent_conversations">Conversaciones recientes</string>
+    <string name="recent_used_camera">Esta aplicación usó la cámara</string>
+    <string name="recent_used_camera_and_microphone">Esta aplicación grabó audio y usó la cámara</string>
+    <string name="recent_used_microphone">Esta aplicación grabó audio</string>
     <string name="remaining_length_format">%1$s restantes</string>
     <string name="remote_input_image_insertion_text">envió una imagen</string>
     <string name="remove_from_settings">Quitar de Configuración</string>
@@ -2358,6 +2366,10 @@ Tu teléfono puede calentarse en estos casos:
     <string name="torch_high_temperature_warning">"Su dispositivo se sobrecalentó. No puede usar la linterna."</string>
     <string name="touch_filtered_warning">Como una app está bloqueando una solicitud de permiso, Configuración no puede verificar tu respuesta.</string>
     <string name="track_frame_time">Perfil de renderización GPU</string>
+    <string name="traffic_unit_byte">B</string>
+    <string name="traffic_unit_gigabyte">GB</string>
+    <string name="traffic_unit_kilobyte">KB</string>
+    <string name="traffic_unit_megabyte">MB</string>
     <string name="transcode_default">Suponga que las aplicaciones admiten formatos modernos</string>
     <string name="transcode_disable_cache">Deshabilitar la caché de transcodificación</string>
     <string name="transcode_enable_all">Habilitar la transcodificación</string>
@@ -2496,6 +2508,9 @@ Cualquier usuario puede actualizar las aplicaciones del resto de los usuarios."<
     <string name="user_setup_dialog_title">¿Configurar usuario ahora?</string>
     <string name="user_setup_profile_dialog_message">¿Configurar perfil ahora?</string>
     <string name="user_switch_to_user">Cambie a %s</string>
+    <string name="using_camera">Esta aplicación está usando la cámara</string>
+    <string name="using_camera_and_microphone">Esta aplicación está grabando audio y usando la cámara</string>
+    <string name="using_microphone">Esta aplicación está grabando audio</string>
     <string name="v7_preference_off">DESACTIVADA</string>
     <string name="v7_preference_on">ACTIVADA</string>
     <string name="verify_apps_over_usb_summary">Revisar comportamiento dañino de aplicaciones instaladas vía ADB/ADT.</string>

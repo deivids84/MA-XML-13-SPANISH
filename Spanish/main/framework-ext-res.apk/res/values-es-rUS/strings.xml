@@ -13,6 +13,7 @@
     <string name="android_ringtone_default_with_actual">Tono de llamada predeterminado (%1$s)</string>
     <string name="android_ringtone_silent">Ninguno</string>
     <string name="android_ringtone_unknown">Tono de llamada desconocido</string>
+    <string name="app_continuity_channel_name">Contiuidad de la aplicación</string>
     <string name="application_cannot_open_alipay_health_code">"No se pudo abrir el código de salud de Alipay"</string>
     <string name="application_cannot_open_alipay_payment_code">"No se pudo abrir el código de pago de Alipay"</string>
     <string name="application_cannot_open_alipay_scanner">"No se pudo abrir el escáner de Alipay"</string>
@@ -222,6 +223,7 @@
     <string name="lockscreen_access_pattern_start">Patrón iniciado</string>
     <string name="lockscreen_carrier_customized">Servicio limitado</string>
     <string name="lollipop">Lollipop</string>
+    <string name="magic_window_toast">Multiplicador de aplicaciones habilitado.</string>
     <string name="makewishes">Deseo de cumpleaños</string>
     <string name="maml_component_customization_title">Ajustes</string>
     <string name="martix">Matrix</string>
@@ -241,6 +243,7 @@
     <string name="miui">miui</string>
     <string name="miui_device_name">Android</string>
     <string name="miui_forbid_poweroff_when_device_locked">"No se puede apagar, el dispositivo está bloqueado."</string>
+    <string name="miui_landscape_compat_toast">"No puede ser adecuado para plegar el dispositivo mientras usa la aplicación en posición horizontal, se recomienda usarla en posición vertical"</string>
     <string name="miui_multiwindow_not_support_cvw">"No se puede ajustar el tamaño de la ventana para esta aplicación"</string>
     <string name="miui_multiwindow_not_support_small_window">"%1$s no admite ventanas flotantes"</string>
     <string name="miui_multiwindow_not_support_split">"%1$s no admite pantalla dividida"</string>
@@ -321,11 +324,15 @@
     <string name="redmi_note_5">Redmi Note 5</string>
     <string name="redmi_note_7">Redmi Note 7</string>
     <string name="redmi_note_7_pro">Redmi Note 7 Pro</string>
+    <string name="relaunch_action">Reiniciar la aplicación</string>
     <string name="relaunch_dialog_alwaysUsePrompt">Recordar mi elección</string>
     <string name="relaunch_dialog_button_cancel">Cancelar</string>
     <string name="relaunch_dialog_button_confirm">OK</string>
     <string name="relaunch_dialog_message">"No se puede ajustar el tamaño de la ventana mientras usa la aplicación. Puede reiniciar la aplicación para ajustar el tamaño de la ventana, pero los datos de la aplicación generados durante esta sesión se perderán. ¿Reiniciar de todos modos?"</string>
     <string name="relaunch_dialog_title">¿Reiniciar \"%s\"?</string>
+    <string name="relaunch_fold_notification_content">La aplicación \"%s\" puede mostrarse de manera anormal después de plegar el teléfono y debe reiniciarse para volver a la normalidad.</string>
+    <string name="relaunch_notification_title">Reiniciar la aplicación \"%s\"</string>
+    <string name="relaunch_unfold_notification_content">La aplicación \"%s\" puede mostrarse de manera anormal después de desplegar el teléfono y debe reiniciarse para volver a la normalidad.</string>
     <string name="remain">Restante: %s</string>
     <string name="replace">Reemplazar</string>
     <string name="resolver_app_recommend_flag">Recomendar</string>
@@ -341,6 +348,10 @@
     <string name="rog">ROG</string>
     <string name="rog_phone">ROG</string>
     <string name="samsung_phone">Teléfono Samsung</string>
+    <string name="sc_notification_warning_content">El diseño puede ser anormal en el modo de pantalla completa. Puede volver al estado anterior al cambio o ir a la configuración.</string>
+    <string name="sc_notification_warning_restore">Restaurar</string>
+    <string name="sc_notification_warning_settings">Ir a la configuración</string>
+    <string name="sc_relaunch_dialog_message">"No puede ser adecuado para plegar el dispositivo mientras usa la aplicación. Puede reiniciar la aplicación para cambiar al modo de pantalla completa. ¿Reiniciar de todos modos?"</string>
     <string name="scanning_device_tips">Buscando dispositivos cercanos… Asegúrese de que el otro dispositivo está en modo visible.</string>
     <string name="screen_button_notification_text">Para activarlos, presione los bones de Inicio y Encender simultáneamente.</string>
     <string name="screen_button_notification_title">Los botones de navegación están desactivados</string>
@@ -446,6 +457,9 @@
     <string name="talk_back_water_mark_string2">Mantenga presionados los botones de subir y bajar volumen por 3 segundos para desactivar</string>
     <string name="throwing_print">Imprimir</string>
     <string name="throwing_screen">Emitir</string>
+    <string name="tip_close_screen_phone">Cambia a manos libres o pliega el dispositivo para usar el altavoz integrado</string>
+    <string name="tip_for_phone_and_camera">Pliega el dispositivo para usar el altavoz integrado o la cámara frontal</string>
+    <string name="tip_use_front_camera">Pliega tu dispositivo para usar la cámara frontal</string>
     <string name="tips_prompt_enable_midrop">Mi Share</string>
     <string name="total">No molestar</string>
     <string name="total_description">Silenciar sonidos y desactivar vibración para todos las funciones excepto el despertador</string>

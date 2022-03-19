@@ -79,6 +79,7 @@ Para comprender plenamente sus derechos como usuario, así como las formas en qu
     <string name="account_settings_description_label">Nombre de la cuenta</string>
     <string name="account_settings_display">Mostrar</string>
     <string name="account_settings_does_not_support_pop">"Esta función no es compatible con POP3"</string>
+    <string name="account_settings_does_not_support_pop_attachment">"POP3 puede descargar archivos adjuntos automáticamente pero no puede editarlos"</string>
     <string name="account_settings_edit_quick_responses_label">Respuesta rápida</string>
     <string name="account_settings_edit_quick_responses_summary">Editar mensajes cortos para pegar en correos electrónicos</string>
     <string name="account_settings_incoming_summary">Usuario, contraseña y otros ajustes del servidor</string>
@@ -466,6 +467,10 @@ Para comprender plenamente sus derechos como usuario, así como las formas en qu
     <string name="default_signature_phone">Enviado desde mi teléfono Mi</string>
     <string name="delete">Eliminar</string>
     <string name="delete_contact_content">¿Eliminar este contacto?</string>
+    <string name="delete_message_dialog_content">¿Desea eliminar este correo electrónico y bloquear al remitente?</string>
+    <string name="delete_message_dialog_left_button">Eliminar y bloquear</string>
+    <string name="delete_message_dialog_right_button">Eliminar solamente</string>
+    <string name="delete_message_dialog_title">Eliminando correo electrónico</string>
     <string name="delete_message_event">¿Desea eliminar esta invitación?</string>
     <string name="deleted">Eliminado</string>
     <string name="device_activity_btn_str">Activar</string>
@@ -669,6 +674,7 @@ Para comprender plenamente sus derechos como usuario, así como las formas en qu
     <string name="from_heading">"De: "</string>
     <string name="general_preference_confirm_delete_label">Confirmar antes de eliminar</string>
     <string name="general_preference_confirm_send_label">Confirmar antes de enviar</string>
+    <string name="general_preference_delete_message_prompt_title">Preguntar antes de eliminar</string>
     <string name="general_preference_load_picture">Cargar imágenes en línea</string>
     <string name="general_preference_str_auto_translation">Traducción rápida</string>
     <string name="general_preference_str_auto_translation_prompt">Copiar texto para ver la traducción</string>
@@ -728,7 +734,8 @@ Para comprender plenamente sus derechos como usuario, así como las formas en qu
     <string name="installation_failed">Instalación fallida.</string>
     <string name="installing_module">Instalando módulo:</string>
     <string name="interact_with_server_error">"No se pudo conectar al servidor"</string>
-    <string name="invalid_recipient">La dirección %s no es válida.</string>
+    <string name="invalid_recipient_dialog_message">Introduzca una dirección de correo electrónico de destinatario válida</string>
+    <string name="invalid_recipient_dialog_title">"No se pudo enviar"</string>
     <string name="invalid_recipient_title">Error de destinatario</string>
     <string name="invoice_card_amount">Monto</string>
     <string name="invoice_card_buyer">Consignatario</string>
@@ -1302,6 +1309,7 @@ Espere hasta que esté completamente sincronizado o vea el mensaje en su computa
     <string name="request_entity_large">El archivo es demasiado grande</string>
     <string name="request_permission_activity">Permisos necesarios</string>
     <string name="respond_inline">"   Responder entre líneas"</string>
+    <string name="respond_inline_text">Editar correo electrónico original</string>
     <string name="retry">Reintentar</string>
     <string name="retry_login">Volver a iniciar sesión</string>
     <string name="saturday">Sábado</string>
@@ -1390,6 +1398,7 @@ Espere hasta que esté completamente sincronizado o vea el mensaje en su computa
     <string name="show_images_all">Cargar y mostrar todas las imágenes</string>
     <string name="show_password">Mostrar contraseña</string>
     <string name="show_server_cet">Ver certificado</string>
+    <string name="shrink">Contraer</string>
     <string name="sign_in_dialog_outlook_enterprise">Outlook para empresas (sin calendario)</string>
     <string name="sign_in_dialog_outlook_exchange">EXCHANGE (con calendario)</string>
     <string name="sign_in_dialog_outlook_imap">IMAP (sin calendario)</string>

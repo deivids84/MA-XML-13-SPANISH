@@ -43,6 +43,10 @@
     <string name="apple_image">Fotos</string>
     <string name="apple_video">Vídeos</string>
     <string name="appname_app_data_suffix">%1$s datos de la aplicación</string>
+    <string name="apps_cannot_be_transfered_confirm_button">Iniciar</string>
+    <string name="apps_cannot_be_transfered_next_button">Siguiente</string>
+    <string name="apps_cannot_be_transfered_summary">"Estas aplicaciones de 64 bits no se pueden transferir a un dispositivo de 32 bits. Puede descargarlos directamente desde GetApps después de la transferencia."</string>
+    <string name="apps_cannot_be_transfered_title">"No puedo transferir estas aplicaciones"</string>
     <string name="audio">Sonido</string>
     <string name="audio_video_document">Audio, video y documentos</string>
     <string name="back">Atrás</string>
@@ -559,6 +563,7 @@ Abre WeChat y ve a Yo &gt; Ajustes &gt; General &gt; Respaldo y migración."</st
     <string name="recommend_hint">Recomendado</string>
     <string name="reconnect">Reconectar</string>
     <string name="recreate_soft_ap_tips">Toca el botón de abajo para intentar otra vez.</string>
+    <string name="refuse_accept">"No estoy de acuerdo"</string>
     <string name="request_all_permission_content">"Mi Mover necesita acceder a los siguientes elementos para poder transferir elementos a un nuevo dispositivo:
 - Ubicación
 - Contactos
