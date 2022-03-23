@@ -29,6 +29,7 @@
     <string name="abc_toolbar_collapse_description">Ocultar</string>
     <string name="about_device_info">Ver detalles de dispositivo</string>
     <string name="accept">Permitir</string>
+    <string name="access_denied_info">Demasiados intentos. Espera uno o dos minutos e inténtalo de nuevo.</string>
     <string name="access_token_expired_warning">La cuenta de Weibo ha expirado</string>
     <string name="access_token_invalid_warning">La cuenta de Weibo no es válida</string>
     <string name="account">Cuenta</string>
@@ -82,6 +83,7 @@
     <string name="account_verify_guide_bind_mail_desc">Agregar un correo de recuperación</string>
     <string name="account_verify_guide_bind_phone_desc">Agregar un teléfono de recuperación</string>
     <string name="account_verify_guide_set_password_desc">Establecer una contraseña</string>
+    <string name="account_verify_guide_verify_phone_desc">Confirmar teléfono de recuperación</string>
     <string name="account_xiaomi_service">Servicios</string>
     <string name="action_add_phone">Añadir número de teléfono</string>
     <string name="action_retry">Vuelve a intentarlo</string>
@@ -94,6 +96,8 @@
     <string name="agreement_and_privacy">Términos y Condiciones</string>
     <string name="am">AM</string>
     <string name="app_name">Cuenta Mi</string>
+    <string name="area_code_no_search_result">"No se pudieron encontrar resultados"</string>
+    <string name="area_code_search_hint">Buscar país o región</string>
     <string name="auth_fail_warning">Sesión expirada, inicia sesión de nuevo</string>
     <string name="authorize_title">Autorización</string>
     <string name="bind_facebook">Conectar cuenta de Facebook</string>
@@ -120,6 +124,10 @@ Ahora puedes iniciar sesión en tu Cuenta Mi usando %s."</string>
     <string name="close">Cerrar</string>
     <string name="cloud_description_closed">Ocupado | Sincronización desactivada</string>
     <string name="cloud_description_normal">Ocupado</string>
+    <string name="cloud_service_status_backup_not_open">La copia de seguridad está desactivada</string>
+    <string name="cloud_service_status_cloud_not_open">Desactivar</string>
+    <string name="cloud_service_status_storage_full">El almacenamiento está lleno</string>
+    <string name="cloud_service_status_storage_not_enough">Sin espacio suficiente</string>
     <string name="collect_diagnosis_log">Generando diagnóstico del registro</string>
     <string name="com_facebook_device_auth_instructions">Ve a &lt;b&gt;facebook.com/device&lt;/b&gt; e ingresa el código que se muestra arriba.</string>
     <string name="com_facebook_image_download_unknown_error">Se produjo un error inesperado al descargar una imagen.</string>
@@ -317,6 +325,7 @@ Envía este código al supervisor."</string>
     <string name="miuix_appcompat_select_all">Seleccionar todo</string>
     <string name="miuix_appcompat_select_all_description">Seleccionar todo</string>
     <string name="miuix_appcompat_select_item">Seleccionar elementos</string>
+    <string name="miuix_indexer_collect">Colecciones</string>
     <string name="miuix_indexer_selected">Seleccionado %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tire hacia abajo para actualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado con éxito</string>
@@ -373,7 +382,10 @@ Envía este código al supervisor."</string>
     <string name="multi_user_not_show_sync_activity_title">"No activar la sincronización con la nube"</string>
     <string name="my_device_title">Dispositivo actual</string>
     <string name="need_install_wechat">Instala WeChat primero</string>
+    <string name="network_error_info">Se ha producido un error de red. Compruebe la configuración de red e inténtelo de nuevo.</string>
+    <string name="network_timeout_info">"No se pudo conectar a la red. Vuelve a intentarlo."</string>
     <string name="night">Tarde</string>
+    <string name="no_account_or_forget_password">¿Crear cuenta u olvidó la contraseña?</string>
     <string name="no_install">No instalado</string>
     <string name="no_network_btn">Actualizar</string>
     <string name="no_network_title">"No es posible conectarse a la red."</string>
@@ -390,6 +402,8 @@ Envía este código al supervisor."</string>
     <string name="notify_network_restricted_content_hidden_state">"La actividad de Cuenta Mi está restringida en segundo plano. Toca para permitir."</string>
     <string name="notify_network_restricted_content_mobile_network">"El acceso a internet por parte de Cuenta Mi está restringido. Toca para permitir."</string>
     <string name="notify_network_restricted_title">"Cuenta Mi no se pudo conectar a la red"</string>
+    <string name="notify_verify_again_security_phone">Confirmar</string>
+    <string name="notify_verify_security_phone">Teléfono</string>
     <string name="oauth_get_scopes_failed">"No se pudo obtener la información de cuenta"</string>
     <string name="oauth_getting_scopes">Verificando la cuenta…</string>
     <string name="oauth_scopes_intro">&lt;font color=#%1$s&gt;%2$s&lt;/font&gt; obtendrá los siguientes permisos:&lt;br&gt; &lt;br&gt; %3$s</string>
@@ -605,6 +619,8 @@ Envía este código al supervisor."</string>
     <string name="passport_talkback_switch_voice_captcha">Cambiar a código de verificación de voz</string>
     <string name="passport_talkback_voice_captcha">Reproducir código de verificación de voz</string>
     <string name="passport_ticket_login_select_sim_card">Seleccionar tarjeta SIM</string>
+    <string name="passport_ticket_login_select_sim_card_1_with_phone_number">SIM %1$d: %2$s</string>
+    <string name="passport_ticket_login_select_sim_card_2_with_phone_number">SIM %1$d: %2$s</string>
     <string name="passport_ticket_login_select_sim_card_cancel">Cancelar</string>
     <string name="passport_title_reg">Crear una cuenta</string>
     <string name="passport_trust_device">Añadir este dispositivo a dispositivos verificados</string>
@@ -662,6 +678,7 @@ Envía este código al supervisor."</string>
     <string name="privacy_policy_reject_confirm_title">"No se puede usar la cuenta Mi"</string>
     <string name="privacy_policy_update_msg">La Política de privacidad de Mi cuenta se actualizó:&lt;br/&gt;%1$s&lt;br/&gt;Lea y acepte la nueva versión de &lt;a href=%2$s&gt;&lt;u&gt;Política de privacidad&lt;/u&gt;&lt;/a&gt; antes de continuar.</string>
     <string name="privacy_policy_update_title">Política de privacidad actualizada</string>
+    <string name="progressbar_title">Comprobando problemas de seguridad…</string>
     <string name="provision_back">Atrás</string>
     <string name="provision_next">Siguiente</string>
     <string name="provision_skip_underline">Saltar</string>
@@ -760,6 +777,7 @@ Envía este código al supervisor."</string>
     <string name="system_ad_summary">"Activa esta función para permitir que se muestre un pequeño número de anuncios en las aplicaciones del sistema. Estos anuncios nos ayudan a desarrollar y mejorar nuestros productos y servicios. Puedes elegir desactivar esta función es cualquier momento. ¡Gracias por tu apoyo! "</string>
     <string name="system_ad_switch">Anuncios en aplicaciones del sistema</string>
     <string name="system_ad_switch_failed">"No se pudo aplicar los ajustes"</string>
+    <string name="system_error_info">El sistema está ocupado. Espere uno o dos minutos y vuelva a intentarlo.</string>
     <string name="talkback_scan_barcode">Escanear código QR</string>
     <string name="temporary_not_available">"Esta función todavía no está disponible."</string>
     <string name="the_anniversary_of_lifting_martial_law">Aniversario del Levantamiento de la Ley Marcial</string>
@@ -822,6 +840,7 @@ Envía este código al supervisor."</string>
     <string name="two_factor_auth_need_code_summary">"Verás un código en el otro dispositivo Mi conectado. Introduce este código en un nuevo dispositivo para iniciar sesión."</string>
     <string name="two_factor_auth_summary">"Cuando intentes iniciar sesión en un nuevo dispositivo o en una nueva localización, serás notificado acerca de este u otros dispositivos conectados. Tendrás que confirmar si estos intentos de inicio de sesión están autorizados por ti."</string>
     <string name="unbind_sns_description">"Después de desvincular esta cuenta, no podrá usar la información de su Cuenta %s para iniciar sesión en su Cuenta Mi."</string>
+    <string name="unknown_error_info">Error desconocido</string>
     <string name="unlock_help_notice">"Ayuda:
 1. Si olviaste tu contraseña, visita id.mi.com para restablecerla.
 2. Si no puedes resetear tu contraseña o alguien ha bloqueado tu dispositivo, ve a i.mi.com para desbloquearlo.

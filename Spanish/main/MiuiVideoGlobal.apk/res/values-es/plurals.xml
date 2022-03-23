@@ -100,6 +100,18 @@
         <item quantity="other">%d vídeos</item>
         <item quantity="one">%d vídeo</item>
     </plurals>
+    <plurals name="mangotv_feature_list_title1">
+        <item quantity="other">%1$1d de %2$2d episodios disponibles</item>
+        <item quantity="one">%1$1d de %2$2d episodio disponible</item>
+    </plurals>
+    <plurals name="mangotv_feature_list_title2">
+        <item quantity="other">%1$1d de %2$2d episodios disponibles</item>
+        <item quantity="one">%1$1d de %2$2d episodio disponible</item>
+    </plurals>
+    <plurals name="mangotv_feature_list_title_all">
+        <item quantity="other">%d episodios totales</item>
+        <item quantity="one">%d episodio total</item>
+    </plurals>
     <plurals name="mediation_animate_close_after">
         <item quantity="other">Quedan %s s</item>
         <item quantity="one">Queda %s s</item>
@@ -175,5 +187,13 @@
     <plurals name="subtitle_offset_delay_times">
         <item quantity="other">Subtítulos retrasados %.1f segundos</item>
         <item quantity="one">Subtítulos retrasados %.1f segundo</item>
+    </plurals>
+    <plurals name="toast_bookmark_max_size">
+        <item quantity="other">Agregar hasta %d marcadores</item>
+        <item quantity="one">Agregar hasta %d marcador</item>
+    </plurals>
+    <plurals name="video_view_count">
+        <item quantity="other">%d vistas</item>
+        <item quantity="one">%d vista</item>
     </plurals>
 </resources>

@@ -30,6 +30,7 @@
     <string name="account_other">Otros</string>
     <string name="actionbar_button_up_description">Atrás</string>
     <string name="afternoon">Tarde</string>
+    <string name="app_name">Emitir</string>
     <string name="audio_record_des">Para transmitir audio desde su dispositivo móvil a monitores externos</string>
     <string name="casting_tips">Emitiendo…</string>
     <string name="clearable_edittext_clear_description">Eliminar</string>
@@ -37,11 +38,15 @@
     <string name="close_hotspot_hint">Desactiva el punto de acceso portátil antes de emitir</string>
     <string name="close_slave_wifi_hint">Desconecta de redes Wi-Fi auxiliares antes de emitir</string>
     <string name="close_slave_wifi_hint_china">Disconnect from auxiliary WLAN networks before casting</string>
+    <string name="config_wifi_label_china">Conferencia Xiaomi Tapcast Wi-Fi</string>
+    <string name="config_wifi_label_global">Conferencia Xiaomi Tapcast Wi-Fi</string>
+    <string name="connect_device_fail">"No se pudo conectar al dispositivo"</string>
     <string name="console_guide_btn_got_it">Entendido</string>
     <string name="console_guide_subtitle_hang_up">Puedes seguir emitiendo cuando la pantalla de tu dispositivo está apagada. Esta función disminuye el consumo de energía.</string>
     <string name="console_guide_subtitle_private">"No mostrar notificaciones flotantes, llamadas entrantes y otros elementos privados en monitores externos"</string>
     <string name="console_guide_subtitle_small_window">"Minimiza la ventana que está siendo emitida para poder usar otras funciones en tu teléfono"</string>
     <string name="copy">Copiar</string>
+    <string name="current_wifi_tv">Red actual</string>
     <string name="date_picker_lunar">Calendario chino tradicional</string>
     <string name="date_time_picker_dialog_title">Ajustar fecha y hora</string>
     <string name="device_desc_trust">Dispositivos de confianza</string>
@@ -81,6 +86,8 @@ Consulta la ayuda si tienes problemas para conectarte."</string>
     <string name="dialog_select_tv">Seleccionar dispositivo (%1$d)</string>
     <string name="dialog_show_help">Ayuda</string>
     <string name="disconnect">Detener la emisión</string>
+    <string name="dual_wifi_warning_china">Apague el Wi-Fi dual y vuelva a intentarlo</string>
+    <string name="dual_wifi_warning_global">Apague el Wi-Fi dual y vuelva a intentarlo</string>
     <string name="early_morning">Mañana</string>
     <string name="enable_screen_projection_summary">Emitir los contenidos de la pantalla a un monitor externo</string>
     <string name="eras_ad">d.C</string>
@@ -193,8 +200,14 @@ Si necesitas activar Miracast, pulsa el botón [MENU] y selecciona Mis aplicacio
     <string name="help_page_text_55_global">"Si no puede conectarse a la red, asegúrese de que su monitor externo admita la funcionalidad Miracast y que esté encendido. En algunos modelos, esta función se llama Pantalla inalámbrica, Duplicación de pantalla o Pantallas múltiples.
 %1$d. Si encuentra algún problema, puede informarlo utilizando nuestra aplicación \"Comentarios de &amp;"</string>
     <string name="help_page_text_end">"Si la marca de tu dispositivo no está en la lista, contacta con el fabricante para conocer más sobre la funcionalidad de emisión."</string>
+    <string name="invisible_mode_dialog_content">"No puedes usar el casting cuando estás de incógnito. Primero desactiva el modo incógnito."</string>
+    <string name="invisible_mode_dialog_content_audio_relay">"No puedes transferir la reproducción cuando estás de incógnito. Primero desactiva el modo incógnito."</string>
+    <string name="invisible_mode_dialog_pos">Desactivar</string>
+    <string name="invisible_mode_dialog_title">"Estás de incógnito"</string>
     <string name="keyguard_security_setting_privacy_policy">Política de Privacidad</string>
     <string name="midnight">Noche</string>
+    <string name="miuix_access_state_desc">Seleccionado</string>
+    <string name="miuix_alphabet_indexer_name">Barra de índice</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleccionar todo</string>
     <string name="miuix_appcompat_action_mode_title_empty">Seleccionar elementos</string>
@@ -209,6 +222,8 @@ Si necesitas activar Miracast, pulsa el botón [MENU] y selecciona Mis aplicacio
     <string name="miuix_appcompat_select_all">Seleccionar todo</string>
     <string name="miuix_appcompat_select_all_description">Seleccionar todo</string>
     <string name="miuix_appcompat_select_item">Seleccionar elementos</string>
+    <string name="miuix_indexer_collect">Colecciones</string>
+    <string name="miuix_indexer_selected">Seleccionado %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Desliza hacia abajo para actualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado con éxito</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualizando…</string>
@@ -258,6 +273,7 @@ Si necesitas activar Miracast, pulsa el botón [MENU] y selecciona Mis aplicacio
     <string name="month_september_shortest">Septiembre</string>
     <string name="more">Más</string>
     <string name="morning">Mañana</string>
+    <string name="msg_send_fail">"No se pudieron transferir los datos"</string>
     <string name="nfc_connect_failed_toast">"No se pudo emitir. Inténtalo de nuevo."</string>
     <string name="night">Tarde-noche</string>
     <string name="noon">Mediodía</string>
@@ -271,8 +287,16 @@ Si necesitas activar Miracast, pulsa el botón [MENU] y selecciona Mis aplicacio
     <string name="notification_rc_title">Asistente de TV de Xiaomi</string>
     <string name="notification_show_more">Toca para ver más funciones</string>
     <string name="notify">La transmisión está funcionando en segundo plano</string>
+    <string name="notify_wifiap_dialog_msg">Para escanear el código y configurar la red, primero apague el punto de acceso portátil.</string>
+    <string name="notify_wifiap_dialog_negative">Entendido</string>
+    <string name="notify_wifiap_dialog_title">Configurar red</string>
     <string name="open_game_accelerate">Activar Game Turbo</string>
     <string name="p2p_location_des">Para conectar su dispositivo móvil a monitores externos</string>
+    <string name="paipai_connect_btn_text">Listo</string>
+    <string name="paipai_connect_tv1_text">Conectado al dispositivo</string>
+    <string name="paipai_connect_tv2_text">Datos transferidos</string>
+    <string name="paipai_error_dialog_msg">Verifique su configuración de red y vuelva a intentarlo.</string>
+    <string name="paipai_error_dialog_negative">Entendido</string>
     <string name="path_setting_cast">Conexión y compartir/Emitir</string>
     <string name="path_setting_cast_demo">Conexión y compartir/Emitir/Demos</string>
     <string name="path_setting_cast_demo_document">Conexión y compartir/Emitir/Demos/Documentos</string>
@@ -280,9 +304,12 @@ Si necesitas activar Miracast, pulsa el botón [MENU] y selecciona Mis aplicacio
     <string name="path_setting_cast_demo_game">Conexión y compartir/Emitir/Demos/Juegos</string>
     <string name="path_setting_cast_feature">Conexión y compartir/Emitir/Funciones especiales</string>
     <string name="path_setting_cast_help">Conexión y compartir/Emitir/Ayuda</string>
+    <string name="permission_allowed">Concedido</string>
+    <string name="permission_uballowed">No concedido</string>
+    <string name="pre_privacy_setting_title">Privacidad</string>
     <string name="preference_copied">\"%1$s\" se ha copiado en el portapapeles.</string>
     <string name="privacy_agree">Aceptar</string>
-    <string name="privacy_detail">&lt;Data&gt;Esta aplicación necesita conectarse a internet y recopilar los datos personales necesarios para poder funcionar con normalidad. Para comprender plenamente tus derechos como usuario, así como la forma en que usamos tus datos, lee y acepta nuestro &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &lt;a href=%2$s&gt;Política de Privacidad&lt;/a&gt;.&lt;/Data&gt;</string>
+    <string name="privacy_detail">Permita que esta aplicación se conecte a Internet y otorgue los permisos necesarios antes de continuar.</string>
     <string name="privacy_detail_extra">&lt;Data&gt;Algunas características son proporcionadas por el proveedor de servicios externo HappyCast. Antes de usar esta función, lee y acepta la &lt;a href=%1$s&gt;Política de Privacidad de HappyCast&lt;/a&gt; y la &lt;a href=%2$s&gt;Declaración Legal de HappyCast&lt;/a&gt;.&lt;/Data&gt;</string>
     <string name="privacy_explain">"¡Bienvenido a Emitir! Emitir permite proyectar elementos desde la pantalla de tu teléfono en un monitor externo más grande. Esta aplicación necesita conectarse a internet y requiere los siguientes permisos para poder funcionar con normalidad:"</string>
     <string name="privacy_negative">Salir</string>
@@ -300,6 +327,24 @@ Si necesitas activar Miracast, pulsa el botón [MENU] y selecciona Mis aplicacio
     <string name="privacy_permission_wlan_desc">Para encontrar dispositivos cercanos disponibles</string>
     <string name="privacy_permission_wlan_desc_china">Para encontrar dispositivos cercanos disponibles</string>
     <string name="privacy_positive">Aceptar</string>
+    <string name="privacy_revoke_confirm_cancel">Cancelar</string>
+    <string name="privacy_revoke_confirm_message">"No podrá seguir usando las funciones de transmisión a menos que nos permita brindar nuestros servicios en función de la recopilación de la información personal necesaria. ¿Retirar el consentimiento a la Política de privacidad de HappyCast de todos modos?"</string>
+    <string name="privacy_revoke_confirm_sure">OK</string>
+    <string name="privacy_revoke_confirm_title">"No se pueden utilizar los servicios"</string>
+    <string name="privacy_revoke_dialog_agree">De acuerdo</string>
+    <string name="privacy_revoke_dialog_message">"Si continúa, retirará su consentimiento a la Política de privacidad de HappyCast. La información personal ya recopilada y retenida se eliminará dentro del período específico de acuerdo con las leyes y regulaciones aplicables a menos que se requiera lo contrario. Como HappyCast proporciona sus servicios en base a la recopilación de la información personal necesaria, su retiro de consentimiento se considerará como negarse a aceptar los servicios de HappyCast. ¿Retirar el consentimiento ahora?"</string>
+    <string name="privacy_revoke_dialog_revoke">Retirar</string>
+    <string name="privacy_revoke_dialog_title">Retiro del consentimiento</string>
+    <string name="privacy_setting_category_1">Política de privacidad</string>
+    <string name="privacy_setting_category_2">Política de privacidad de HappyCast</string>
+    <string name="privacy_setting_category_3">Permisos</string>
+    <string name="privacy_setting_permission_manager">Administrar permisos</string>
+    <string name="privacy_setting_revoke_lelink_policy">Retiro del consentimiento a la Política de privacidad de HappyCast</string>
+    <string name="privacy_setting_show_authority">Detalles de permisos</string>
+    <string name="privacy_setting_show_lelink_law">Ver declaración legal de HappyCast</string>
+    <string name="privacy_setting_show_lelink_policy">Ver la política de privacidad de HappyCast</string>
+    <string name="privacy_setting_show_policy">Ver política de privacidad</string>
+    <string name="privacy_setting_show_user_agreement">Ver acuerdo de usuario</string>
     <string name="privacy_text_1">&lt;Data&gt;¡Bienvenido a Emitir! Emitir te permite proyectar elementos desde la pantalla de tu teléfono hacia un monitor externo más grande.
 Protegeremos tu información personal de acuerdo con las leyes relevantes, regulaciones y políticas de privacidad. Algunas funciones son proporcionadas por el proveedor de servicios HappyCast. Antes de usar esta función, lee y acepta la &lt;a href=%2$s&gt;Declaración Legal de HappyCast&lt;/a&gt; y la &lt;a href=%1$s&gt;Política de Privacidad de HappyCast&lt;/a&gt;.
 Para poder funcionar con normalidad, esta aplicación necesita conectarse a internet y requiere los siguientes permisos con el fin de recolectar tu información personal:&lt;/Data&gt;</string>
@@ -310,6 +355,9 @@ Lee y acepta nuestro &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &
 　　•Acceder al número telefónico, IMEI e IMSI para identificar tu dispositivo
 　　•Acceder a tu ubicación para encontrar dispositivos cercanos"</string>
     <string name="privacy_title">Atención</string>
+    <string name="privacy_update_dialog_negative_btn">Cancelar</string>
+    <string name="privacy_update_dialog_positive_btn">De acuerdo</string>
+    <string name="privacy_update_dialog_quit">Salir</string>
     <string name="private_protect">Ocultar elementos privados</string>
     <string name="san_wait_msg_1">Active la transmisión inalámbrica en el dispositivo de destino</string>
     <string name="san_wait_msg_2">La búsqueda de dispositivos podría tomar algo de tiempo…</string>
@@ -318,6 +366,8 @@ Lee y acepta nuestro &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &
     <string name="saturday">Sábado</string>
     <string name="saturday_short">Sáb</string>
     <string name="saturday_shortest">Sáb</string>
+    <string name="scan_wifi_label_china">Conectarse a Wi-Fi</string>
+    <string name="scan_wifi_label_global">Conectarse a Wi-Fi</string>
     <string name="screen_projection">Emitir</string>
     <string name="screen_projection_characteristics">Funciones especiales</string>
     <string name="screen_projection_characteristics_off_screen_summary">Puedes seguir emitiendo cuando la pantalla de tu dispositivo está apagada. Esta función disminuye el consumo de energía.</string>
@@ -338,6 +388,7 @@ Lee y acepta nuestro &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &
     <string name="screen_projection_title">Emitir</string>
     <string name="search_menu_title">Buscar</string>
     <string name="send">Enviar</string>
+    <string name="show_result_on_tv">Ver resultados en la TV</string>
     <string name="small_window">Minimizar ventana</string>
     <string name="small_window_not_supported">"No se puede minimizar esta aplicación mientras se está emitiendo"</string>
     <string name="status_bar_in_casting">Emitiendo…</string>
@@ -396,6 +447,7 @@ Lee y acepta nuestro &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &
     <string name="toast_guide_show_more">Aprender más</string>
     <string name="toast_guide_title">Conoce nuestras nuevas funciones aquí</string>
     <string name="toast_invisible_mode">"Estás de incógnito. No se puede utilizar la transmisión ahora."</string>
+    <string name="toast_invisible_mode1">"La transmisión no funcionará cuando estés de incógnito"</string>
     <string name="toast_msg_for_multi_window">"No puede usar esta función con la Pantalla dividida"</string>
     <string name="toast_msg_for_small_window">"Puedes minimizar la ventana que está siendo emitida para poder usar otras funciones en tu teléfono sin interrumpir la emisión."</string>
     <string name="toast_nfc_dont_move">"No alejes tu teléfono"</string>
@@ -418,5 +470,11 @@ Lee y acepta nuestro &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &
     <string name="wednesday">Miércoles</string>
     <string name="wednesday_short">Mié</string>
     <string name="wednesday_shortest">Mié</string>
+    <string name="wifi_connect_btn_text">Configurar</string>
+    <string name="wifi_other">Otras redes</string>
+    <string name="wifi_passwd_et_hint">Contraseña</string>
+    <string name="wifi_recommendation">Seleccione %1$d GHz para una mejor experiencia de transmisión</string>
+    <string name="wifi_scan_btn_text">Escanear de nuevo</string>
+    <string name="wifi_username_et_hint">ID de la cuenta</string>
     <string name="yesterday">Ayer</string>
 </resources>

@@ -30,7 +30,9 @@
     <string name="actionbar_button_up_description">Atrás</string>
     <string name="add">Agregar</string>
     <string name="afternoon">Tarde</string>
+    <string name="androidx_startup">androidx.startup</string>
     <string name="app_name">Extensión Xiaomi.eu</string>
+    <string name="auto">Automático</string>
     <string name="clearable_edittext_clear_description">Limpiar</string>
     <string name="close">Cerrar</string>
     <string name="confirm_reset">Confirmar reinicio</string>
@@ -152,5 +154,6 @@
     <string name="wednesday">Miércoles</string>
     <string name="wednesday_short">Mié</string>
     <string name="wednesday_shortest">Mié</string>
+    <string name="wifi_region">Región Wi-Fi</string>
     <string name="yesterday">Ayer</string>
 </resources>

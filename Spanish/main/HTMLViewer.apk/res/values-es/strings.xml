@@ -27,6 +27,7 @@
     <string name="abc_shareactionprovider_share_with">Compartir con</string>
     <string name="abc_shareactionprovider_share_with_application">Compartir con %s</string>
     <string name="abc_toolbar_collapse_description">Ocultar</string>
+    <string name="action_use_network">Usar</string>
     <string name="actionbar_button_up_description">Atrás</string>
     <string name="ad_service">Servicio publicidad</string>
     <string name="afternoon">Tarde</string>
@@ -44,6 +45,7 @@
     <string name="early_morning">Mañana</string>
     <string name="eras_ad">d.C</string>
     <string name="eras_bc">a.C</string>
+    <string name="error_continue_via_browser">Detalles</string>
     <string name="evening">Tarde</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
     <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
@@ -64,6 +66,8 @@ ve a %s en otro dispositivo conectado."</string>
     <string name="loading">Un momento…</string>
     <string name="mibi_license">Condiciones de Uso de Créditos Mi</string>
     <string name="midnight">Noche</string>
+    <string name="miuix_access_state_desc">Seleccionado</string>
+    <string name="miuix_alphabet_indexer_name">Barra de índice</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleccionar todo</string>
     <string name="miuix_appcompat_action_mode_title_empty">Seleccionar elementos</string>
@@ -78,6 +82,8 @@ ve a %s en otro dispositivo conectado."</string>
     <string name="miuix_appcompat_select_all">Seleccionar todo</string>
     <string name="miuix_appcompat_select_all_description">Seleccionar todo</string>
     <string name="miuix_appcompat_select_item">Seleccionar elementos</string>
+    <string name="miuix_indexer_collect">Colecciones</string>
+    <string name="miuix_indexer_selected">Seleccionado %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Desliza hacia abajo para actualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado con éxito</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualizando…</string>
@@ -187,6 +193,7 @@ ve a %s desde cualquier ordenador conectado a Internet."</string>
     <string name="solar_term_white_dews">Rocío</string>
     <string name="solar_term_winter_begins">Comienza el invierno</string>
     <string name="solar_term_winter_solstice">Solsticio de invierno</string>
+    <string name="ssl_error_untrusted">"El certificado no lo emite una autoridad certificadora de confianza. ¿Usar de todos modos?"</string>
     <string name="sunday">Domingo</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>

@@ -20,6 +20,7 @@
     <string name="check_new_version">Comprobar</string>
     <string name="dialog_3g_desc">Ten en cuenta que el uso de datos móviles para descargar actualizaciones puede suponer un gasto de datos importante</string>
     <string name="dialog_3g_title">¡Advertencia!</string>
+    <string name="dialog_ab">Su dispositivo admite \"Actualizaciones continuas del sistema\", recuerde seleccionar \"Ranura A\" cuando se le solicite en TWRP!</string>
     <string name="dialog_btn_3g">Continuar de todos modos</string>
     <string name="dialog_btn_wifi">Cambiar a Wi-Fi</string>
     <string name="dialog_stop_desc">¿Seguro que quiere detener la descarga? Todo el progreso se perderá y no se podrá reanudar. El siguiente intento de descarga comenzará desde el principio.</string>
@@ -31,6 +32,20 @@
     <string name="download_fail_desc">MD5 no coincide…</string>
     <string name="downloading">Descargando:</string>
     <string name="downloading_desc">La descarga está en curso, puedes comprobar el progreso en la barra de notificaciones.</string>
+    <string name="fastboot_update_warning">¡Esta actualización es solo para la instalación de Fastboot!</string>
+    <string name="fetch_notification_default_channel_name">Descargas</string>
+    <string name="fetch_notification_download_cancel">Cancelar</string>
+    <string name="fetch_notification_download_complete">Completo</string>
+    <string name="fetch_notification_download_downloading">Descargando</string>
+    <string name="fetch_notification_download_eta_hrs">%1$dh %2$dm %3$ds restantes</string>
+    <string name="fetch_notification_download_eta_min">%1$dm %2$ds restantes</string>
+    <string name="fetch_notification_download_eta_sec">%1$ds restantes</string>
+    <string name="fetch_notification_download_failed">Falló</string>
+    <string name="fetch_notification_download_pause">Pausa</string>
+    <string name="fetch_notification_download_paused">Pausado</string>
+    <string name="fetch_notification_download_resume">Reanudar</string>
+    <string name="fetch_notification_download_retry">Reintentar</string>
+    <string name="fetch_notification_download_starting">Iniciando</string>
     <string name="fetching_data">Obteniendo enlace de descarga, por favor espera…</string>
     <string name="install_desc">El dispositivo se reiniciará al modo Recovery e instalará el archivo: %1$s\"
 Los datos no serán borrados.\"</string>

@@ -84,6 +84,7 @@
     <string name="aqi_station_best_quality_station">La mejor alrededor</string>
     <string name="aqi_station_min_distance_station">Estación más cercana</string>
     <string name="aqi_sub_desc">AQI</string>
+    <string name="aqi_title_pad">ICA: %1$s</string>
     <string name="aqi_top_pollution">Contaminantes principales</string>
     <string name="button_allow">Aceptar</string>
     <string name="button_confirm">Acepto</string>
@@ -138,6 +139,11 @@
     <string name="dialog_msg_score_midrop">¿Qué opina de Tiempo?</string>
     <string name="dialog_msg_score_not_good">¿Podría darnos su opinión?</string>
     <string name="dialog_msg_score_perfect">¡Bien! ¿Valorar también Tiempo en la Play Store?</string>
+    <string name="dialog_score_bad">Insatisfecho</string>
+    <string name="dialog_score_general">Indiferente</string>
+    <string name="dialog_score_good">Satisfecho</string>
+    <string name="dialog_score_very_bad">Muy insatisfecho</string>
+    <string name="dialog_score_very_good">Muy Satisfecho</string>
     <string name="dialog_title_score">Valorar Tiempo</string>
     <string name="download_rsc_tips">Cargando audio de fondo…</string>
     <string name="dynamic_weather">Clima</string>
@@ -311,6 +317,7 @@
     <string name="pad_keyboard_add_city">Añadir ubicación</string>
     <string name="pad_keyboard_left_switch">Ubicación anterior</string>
     <string name="pad_keyboard_right_switch">Siguiente ubicación</string>
+    <string name="pad_real_time_detail_title">Сonfortable</string>
     <string name="particulate_matter_exceeded">Alta</string>
     <string name="particulate_matter_not_exceeded">Normal</string>
     <string name="particulate_matter_serious_exceeded">Muy alta</string>

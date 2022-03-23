@@ -344,9 +344,9 @@
         <item>LDAC</item>
         <item>Qualcomm® aptX™ Adaptativo audio</item>
         <item>Qualcomm® aptX™ TWS+ audio</item>
-        <item>LHDC_V3</item>
-        <item>LHDC_V2</item>
-        <item>LHDC_V1</item>
+        <item>LHDC V3/V4</item>
+        <item>LHDC V2</item>
+        <item>LHDC V1</item>
         <item>Habilitar códecs opcionales</item>
         <item>Deshabilitar códecs opcionales</item>
     </string-array>
@@ -359,9 +359,9 @@
         <item>LDAC</item>
         <item>Qualcomm® aptX™ Adaptive audio</item>
         <item>Qualcomm® aptX™ TWS+ audio</item>
-        <item>LHDC_V3</item>
-        <item>LHDC_V2</item>
-        <item>LHDC_V1</item>
+        <item>LHDC V3/V4</item>
+        <item>LHDC V2</item>
+        <item>LHDC V1</item>
         <item>Habilitar códecs opcionales</item>
         <item>Deshabilitar códecs opcionales</item>
     </string-array>
@@ -892,6 +892,14 @@
         <item>Comprobar solo contenido DRM</item>
         <item>Comprobar siempre</item>
     </string-array>
+    <string-array name="inputdebuglog_select_level_entries">
+        <item>Nivel 0</item>
+        <item>Nivel 1</item>
+        <item>Nivel 2</item>
+        <item>Nivel 3</item>
+        <item>Nivel 4</item>
+        <item>Nivel 5</item>
+    </string-array>
     <string-array name="keyguard_notification_status_entries">
         <item>"No activar la pantalla"</item>
         <item>Activar la pantalla</item>
@@ -1071,37 +1079,37 @@ Nota: ¡Solo para Ubuntu 8.04!"</item>
         <item>Preferencia: GSM o WCDMA</item>
         <item>Solo GSM</item>
         <item>Solo WCDMA</item>
-        <item>GSM o WCDMA (automático)</item>
-        <item>CDMA o EvDo (automático)</item>
+        <item>GSM/WCDMA auto</item>
+        <item>CDMA/EvDo auto</item>
         <item>CDMA sin EvDo</item>
         <item>Solo EvDo</item>
-        <item>CDMA, EvDo, GSM o WCDMA</item>
-        <item>CDMA y LTE o EvDo</item>
-        <item>GSM, WCDMA o LTE</item>
+        <item>CDMA/EvDo/GSM/WCDMA</item>
+        <item>CDMA + LTE/EvDo</item>
+        <item>GSM/WCDMA/LTE</item>
         <item>LTE/CDMA/EvDo/GSM/WCDMA</item>
         <item>LTE</item>
-        <item>LTE o WCDMA</item>
+        <item>LTE / WCDMA</item>
         <item>Solo TD-SCDMA</item>
-        <item>TD-SCDMA o WCDMA</item>
-        <item>LTE o TD-SCDMA</item>
-        <item>TD-SCDMA o GSM</item>
-        <item>LTE, TD-SCDMA o GSM</item>
-        <item>TD-SCDMA, GSM o WCDMA</item>
-        <item>LTE, TD-SCDMA o WCDMA</item>
-        <item>LTE, TD-SCDMA, GSM o WCDMA</item>
-        <item>TD-SCDMA, CDMA, EvDo, GSM o WCDMA</item>
-        <item>LTE, TD-SCDMA, CDMA, EvDo, GSM o WCDMA</item>
+        <item>TDSCDMA/WCDMA</item>
+        <item>LTE/TDSCDMA</item>
+        <item>TDSCDMA/GSM</item>
+        <item>LTE/TDSCDMA/GSM</item>
+        <item>TDSCDMA/GSM/WCDMA</item>
+        <item>LTE/TDSCDMA/WCDMA</item>
+        <item>LTE/TDSCDMA/GSM/WCDMA</item>
+        <item>TDSCDMA/CDMA/EVDO/GSM/WCDMA</item>
+        <item>LTE/TDSCDMA/CDMA/EVDO/GSM/WCDMA</item>
         <item>Solo NR</item>
-        <item>NR o LTE</item>
-        <item>NR, LTE, CDMA o EvDo</item>
-        <item>NR, LTE, GSM o WCDMA</item>
+        <item>NR/LTE</item>
+        <item>NR/LTE/CDMA/EvDo</item>
+        <item>NR/LTE/GSM/WCDMA</item>
         <item>Global</item>
-        <item>NR, LTE o WCDMA</item>
-        <item>NR, LTE o TDSCDMA</item>
-        <item>NR, LTE, TDSCDMA o GSM</item>
-        <item>NR, LTE, TDSCDMA o WCDMA</item>
-        <item>NR, LTE, TDSCDMA, GSM o WCDMA</item>
-        <item>NR, LTE, TDSCDMA, CDMA, EvDo, GSM o WCDMA</item>
+        <item>NR/LTE/WCDMA</item>
+        <item>NR/LTE/TDSCDMA</item>
+        <item>NR/LTE/TDSCDMA/GSM</item>
+        <item>NR/LTE/TDSCDMA/WCDMA</item>
+        <item>NR/LTE/TDSCDMA/GSM/WCDMA</item>
+        <item>NR/LTE/TDSCDMA/CDMA/EvDo/GSM/WCDMA</item>
     </string-array>
     <string-array name="preferred_network_mode_gsm_wcdma_choices">
         <item>Solo GSM</item>
@@ -1198,27 +1206,13 @@ Nota: ¡Solo para Ubuntu 8.04!"</item>
         <item>No permitir nunca</item>
         <item>Permitir siempre</item>
     </string-array>
-    <string-array name="select_logd_size_lowram_titles">
-        <item>Desactivado</item>
-        <item>64 KB</item>
-        <item>256 KB</item>
-        <item>1 MB</item>
-    </string-array>
     <string-array name="select_logd_size_summaries">
         <item>Desactivado</item>
         <item>64 KB por búfer de registro</item>
         <item>256 KB por búfer de registro</item>
         <item>1 MB por búfer de registro</item>
         <item>4 MB por búfer de registro</item>
-        <item>16 MB por búfer de registro</item>
-    </string-array>
-    <string-array name="select_logd_size_titles">
-        <item>Desactivado</item>
-        <item>64 KB</item>
-        <item>256 KB</item>
-        <item>1 MB</item>
-        <item>4 MB</item>
-        <item>16 MB</item>
+        <item>8 MB por búfer de registro</item>
     </string-array>
     <string-array name="select_logd_system_levels">
         <item>Desactivado</item>
@@ -1266,33 +1260,6 @@ Nota: ¡Solo para Ubuntu 8.04!"</item>
     <string-array name="status_bar_settings_qs_layout_entries">
         <item>Predeterminado</item>
         <item>Compacto</item>
-    </string-array>
-    <string-array name="support_settings_haptic_device_list">
-        <item>apollo</item>
-        <item>cas</item>
-        <item>cmi</item>
-        <item>umi</item>
-        <item>alioth</item>
-        <item>aliothin</item>
-        <item>ares</item>
-        <item>chopin</item>
-        <item>haydn</item>
-        <item>thyme</item>
-        <item>star</item>
-        <item>mars</item>
-        <item>agate</item>
-        <item>vili</item>
-        <item>ámbar</item>
-        <item>odin</item>
-        <item>pissarro</item>
-        <item>pissarropro</item>
-        <item>pissarroin</item>
-        <item>pissarroinpro</item>
-        <item>zeus</item>
-        <item>cupid</item>
-        <item>psyche</item>
-        <item>poussin</item>
-        <item>ingres</item>
     </string-array>
     <string-array name="tabs_taptic_detail">
         <item>Nítido</item>

@@ -144,6 +144,10 @@
         <item quantity="other">%d dispositivos disponibles</item>
         <item quantity="one">%d dispositivo disponible</item>
     </plurals>
+    <plurals name="clean_time">
+        <item quantity="other">%d segundos</item>
+        <item quantity="one">%d segundo</item>
+    </plurals>
     <plurals name="color_game_led_freq_entries">
         <item quantity="other">Cada %d segundos</item>
         <item quantity="one">Cada %d segundo</item>
@@ -419,6 +423,10 @@
     <plurals name="saved_network_checked_num">
         <item quantity="other">%d elementos seleccionados</item>
         <item quantity="one">%d elemento seleccionado</item>
+    </plurals>
+    <plurals name="search_application_count">
+        <item quantity="one">Buscar aplicaciones</item>
+        <item quantity="other">Buscar aplicaciones</item>
     </plurals>
     <plurals name="seconds">
         <item quantity="other">%s segundos</item>

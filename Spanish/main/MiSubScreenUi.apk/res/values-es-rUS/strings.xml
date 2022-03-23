@@ -234,6 +234,7 @@ dd/MM"</string>
     <string name="small_display_style">Pantalla trasera</string>
     <string name="sps_cancel">Mantenga pulsado para salir</string>
     <string name="step_to_image_community">Encuentre más en Comunidad Mi</string>
+    <string name="subscreen_brightness">Brillo de la pantalla trasera</string>
     <string name="subscreen_could_edit_pic">Arrastre imágenes para cambiar la escala y mantenga pulsado para eliminar</string>
     <string name="subscreen_other">Otro</string>
     <string name="subscreen_other_dialog_cancel">Cancelar</string>

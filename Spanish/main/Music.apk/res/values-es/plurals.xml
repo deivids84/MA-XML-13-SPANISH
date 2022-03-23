@@ -106,6 +106,10 @@ Nota: El archivo también será eliminado de este dispositivo."</item>
         <item quantity="other">¿Quitar %d canciones?</item>
         <item quantity="one">¿Quitar %d canción?</item>
     </plurals>
+    <plurals name="dialog_request_delete_permission_descript">
+        <item quantity="other">%d de las canciones seleccionadas se almacenan en una carpeta externa. Otorgue los permisos necesarios para eliminarlos.</item>
+        <item quantity="one">%d de las canciones seleccionadas se almacena en una carpeta externa. Otorgue los permisos necesarios para eliminarlo.</item>
+    </plurals>
     <plurals name="download_finished">
         <item quantity="other">&lt;font color=\"red\"&gt;%d canciones&lt;/font&gt; descargadas</item>
         <item quantity="one">&lt;font color==\"red\"&gt;%d canción&lt;/font&gt; descargada</item>
@@ -153,6 +157,10 @@ Nota: El archivo también será eliminado de este dispositivo."</item>
     <plurals name="list_header_follow_count">
         <item quantity="other">Siguiendo %d personas</item>
         <item quantity="one">Siguiendo %d persona</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d elementos seleccionados</item>
+        <item quantity="one">%d elemento seleccionado</item>
     </plurals>
     <plurals name="mtrl_badge_content_description">
         <item quantity="other">%d nuevas notificaciones</item>

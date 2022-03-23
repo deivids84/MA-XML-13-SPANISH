@@ -36,6 +36,10 @@
         <item quantity="other">hace %d mins</item>
         <item quantity="one">hace 1 min</item>
     </plurals>
+    <plurals name="area_code_search_result_size">
+        <item quantity="other">Encontrados %d resultados</item>
+        <item quantity="one">Encontrado %d resultado</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="one">Hace media hora</item>
         <item quantity="other">Hace media hora</item>

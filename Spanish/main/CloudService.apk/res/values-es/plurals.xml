@@ -36,10 +36,6 @@
         <item quantity="other">hace %d mins</item>
         <item quantity="one">hace 1 min</item>
     </plurals>
-    <plurals name="cloud_space_full_gallery_notification_content_title">
-        <item quantity="other">"No se puede sincronizar %s ítems"</item>
-        <item quantity="one">"No se puede sincronizar %s ítem"</item>
-    </plurals>
     <plurals name="dirty_blocklist_count">
         <item quantity="other">%d entradas en la lista de bloqueo</item>
         <item quantity="one">%d entrada en la lista de bloqueo</item>
@@ -68,10 +64,6 @@
         <item quantity="other">%d mensajes</item>
         <item quantity="one">%d mensaje</item>
     </plurals>
-    <plurals name="dirty_music_count">
-        <item quantity="other">%d canciones</item>
-        <item quantity="one">%d canción</item>
-    </plurals>
     <plurals name="dirty_note_count">
         <item quantity="other">%d notas</item>
         <item quantity="one">%d nota</item>
@@ -91,10 +83,6 @@
     <plurals name="dirty_recorder_count">
         <item quantity="other">%d grabaciones</item>
         <item quantity="one">%d grabación</item>
-    </plurals>
-    <plurals name="dirty_secretphoto_count">
-        <item quantity="other">"%d fotos ocultas no se han sincronizado. Cierra sesión después de haber sincronizado todos los elementos para mantenerlos; o serán eliminados."</item>
-        <item quantity="one">"%d foto oculta no se ha sincronizado. Cierra sesión después de haber sincronizado todos los elementos para mantenerlos; o serán eliminados."</item>
     </plurals>
     <plurals name="dirty_wlan_count">
         <item quantity="other">%d redes Wi-Fi</item>

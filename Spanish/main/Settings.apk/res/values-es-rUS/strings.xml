@@ -389,6 +389,7 @@ Si quieres cambiar de función, desliza 3 dedos hacia arriba y mantén presionad
     <string name="activity_picker_label">Elige actividad</string>
     <string name="activity_title_power_manager">Ahorro de batería;Ahorrar batería</string>
     <string name="ad_service">Servicios de publicidad</string>
+    <string name="adapt_embedded">Las ventanas paralelas están disponibles</string>
     <string name="adaptive_battery_main_switch_title">Usar batería adaptativa</string>
     <string name="adaptive_brightness_main_switch_title">Usar brillo adaptativo</string>
     <string name="adaptive_connectivity_summary">Extiende la vida útil de la batería y mejora el rendimiento del dispositivo al administrar automáticamente sus conexiones de red</string>
@@ -753,6 +754,8 @@ Si este permiso está desactivado, las alarmas existentes y los eventos basados 
     <string name="application_item_permission">Permitir</string>
     <string name="application_lock_name">Bloqueo de aplicaciones</string>
     <string name="application_manager_section_title">Aplicaciones</string>
+    <string name="application_mode_empty_text">No hay aplicaciones aquí todavía</string>
+    <string name="application_mode_name">Modo de visualización de la aplicación</string>
     <string name="application_permission_manager">Permisos de aplicación</string>
     <string name="application_permissions">Permisos de aplicaciones</string>
     <string name="application_restrictions">Permitir aplicaciones y contenido</string>
@@ -1778,6 +1781,7 @@ Puede desactivar esta función en Configuración &gt; Bluetooth &gt; Dispositivo
     <string name="bt_lhdc_open_dialog_title">¿Activar LHDC?</string>
     <string name="bt_lhdc_pre_title">LHDC</string>
     <string name="bt_lhdc_property">Propiedades</string>
+    <string name="bt_plugin_current_version">Versión actual</string>
     <string name="bt_plugin_new_version">Actualizar</string>
     <string name="bt_plugin_preference_button">Actualizar</string>
     <string name="bt_plugin_preference_msg">Actual: %1$s | Nuevo: %2$s</string>
@@ -3287,6 +3291,8 @@ Reinicie su dispositivo y vuelva a intentarlo."</string>
     <string name="external_source_untrusted">No permitido</string>
     <string name="extreme_threats_summary">Recibir alertas de amenazas extremas contra la vida y propiedad</string>
     <string name="extreme_threats_title">Amenazas extremas</string>
+    <string name="eye_gaze_summary">"El dispositivo no se bloqueará cuando detecte que estás mirando la pantalla"</string>
+    <string name="eye_gaze_title">Detectar mirada</string>
     <string name="face_add_max">Puedes agregar hasta %d rostros</string>
     <string name="face_data_apply_for_category_title">No se puede añadir datos de más de 2 rostros</string>
     <string name="face_data_apply_for_keyguard_title">Pantalla de bloqueo</string>
@@ -4808,10 +4814,6 @@ del segundo espacio"</string>
     <string name="low_label">Baja</string>
     <string name="low_storage_summary">Queda poco espacio de almacenamiento (en uso: %1$s; libre: %2$s)</string>
     <string name="macaddr_label">Dirección MAC:</string>
-    <string name="magic_list_empty_text">No hay aplicaciones compatibles con esta función ahora</string>
-    <string name="magic_list_empty_text_pad">No hay aplicaciones compatibles con esta función ahora</string>
-    <string name="magic_window_name">Ventanas paralelas</string>
-    <string name="magic_window_name_pad">Optimice las aplicaciones para la vista horizontal</string>
     <string name="main_clear_accounts">"
 
 Actualmente ha iniciado sesión en las siguientes cuentas:
@@ -6722,6 +6724,7 @@ Presione Encendido y Subir volumen al mismo tiempo."</string>
     <string name="remove_from_frequently_fragment">¿Eliminar %s de ajustes rápidos?</string>
     <string name="remove_managed_profile_label">Eliminar perfil de trabajo</string>
     <string name="remove_sourceinfo_btn_txt">Eliminar información de la fuente</string>
+    <string name="rename_words_reached_limit">"El nuevo nombre no puede ser más largo que este"</string>
     <string name="repeat">Repetir</string>
     <string name="repeat_call">Notificar llamadas repetidas</string>
     <string name="repeat_call_info">Suena o vibra mientras recibes la segunda llamada del mismo contacto en %d minutos</string>
@@ -7854,6 +7857,8 @@ PIN posiblemente incorrecto."</string>
 Presione el botón Inicio para regresar.
 Presione dos veces para abrir Recientes."</string>
     <string name="single_press_AI_button">Presionar botón AI</string>
+    <string name="size_embedded">Ventanas paralelas</string>
+    <string name="size_full">Pantalla completa</string>
     <string name="skip_anyway_button_label">Omitir</string>
     <string name="skip_label">Omitir</string>
     <string name="skip_lock_screen_confirm_msg">"Notificaciones, controles del reproductor de música y accesos directos, no serán mostrados en la pantalla de bloqueo."</string>
@@ -8810,6 +8815,7 @@ Con este software de Google, puedes sincronizar tus datos y acceder a tus contac
     <string name="tx_link_speed_label">Transmitir velocidad de enlace:</string>
     <string name="tx_wifi_speed">Velocidad enlace de transmisión</string>
     <string name="ucar_screen_projection_title">CarWith</string>
+    <string name="unadapt_embedded">"Las ventanas paralelas no están disponibles"</string>
     <string name="under_keyguard">Pantalla desactivada</string>
     <string name="unimportant">No importante</string>
     <string name="uninstall_all_users_text">Desinstalar en todos los usuarios</string>

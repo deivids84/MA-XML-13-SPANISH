@@ -142,7 +142,6 @@
     <string name="app_category_tools">Herramientas</string>
     <string name="app_category_travel">Viajes</string>
     <string name="app_category_vr">VR</string>
-    <string name="app_name">smallWindow</string>
     <string name="application_name">Lanzador del sistema</string>
     <string name="apply">Establecer</string>
     <string name="apply_action">Establecer</string>
@@ -161,7 +160,7 @@
     <string name="auto_add_app_shortcut">Colocar aplicaciones nuevas en la Pantalla de inicio</string>
     <string name="auto_delete_category_dialog_content">Las aplicaciones actuales serán eliminadas de esta categoría y esta también será eliminada. ¿Eliminar esta categoría?</string>
     <string name="auto_delete_category_dialog_title">Eliminando categoría</string>
-    <string name="auto_disable_screenbuttons_summary">Pulsa dos veces cualquier botón de navegación para volver a habilitar</string>
+    <string name="auto_disable_screenbuttons_summary">"Desactive automáticamente los botones de navegación cuando no se muestra la barra de estado. Toque dos veces cualquier botón de navegación para volver a habilitar."</string>
     <string name="auto_disable_screenbuttons_title">Desactivar automáticamente los botones de navegación</string>
     <string name="back">Atrás</string>
     <string name="backup_fail">"No se pudo hacer copia del launcher"</string>
@@ -208,6 +207,13 @@
     <string name="copy">Copiar</string>
     <string name="current_preview">Vista previa</string>
     <string name="current_wallpaper">Actual</string>
+    <string name="custom_define_permission_desc_android.permission.CALL_PHONE">Para realizar llamadas a contactos de emergencia en modo básico</string>
+    <string name="custom_define_permission_desc_android.permission.READ_CONTACTS">Para mostrar contactos de emergencia en modo básico</string>
+    <string name="custom_define_permission_desc_android.permission.READ_PHONE_STATE">Para mostrar el estado del dispositivo</string>
+    <string name="custom_define_permission_desc_android.permission_group.CALENDAR">Para mostrar widgets de calendario</string>
+    <string name="custom_define_permission_desc_android.permission_group.CAMERA">Para mostrar los widgets de la galería</string>
+    <string name="custom_define_permission_desc_android.permission_group.LOCATION">Para acceder al nombre del widget de Wi-Fi en Android Q</string>
+    <string name="custom_define_permission_desc_android.permission_group.STORAGE">Para acceder y guardar datos de la pantalla de inicio</string>
     <string name="custom_wallpaper_picker">Buscar</string>
     <string name="date_time_picker_dialog_title">Establecer fecha y hora</string>
     <string name="defalut_launcher_title">Lanzador predefinido</string>
@@ -391,7 +397,7 @@
     <string name="lock_screen_wallpaper">Fondo de Pantalla de bloqueo</string>
     <string name="maml_download_dialog_cancel_text">Espere por Wi-Fi</string>
     <string name="maml_download_dialog_cancel_text_china">Espere por Wi-Fi</string>
-    <string name="maml_download_dialog_checkbox_text">"No volver a mostrar"</string>
+    <string name="maml_download_dialog_checkbox_text">"No volver a aparecer durante %d minutos"</string>
     <string name="maml_download_dialog_confirm_text">Descargar</string>
     <string name="maml_download_dialog_message">%s MB de datos móviles para descargar este elemento. Descargar de todos modos?</string>
     <string name="maml_download_dialog_title">Advertencia de uso de datos</string>
@@ -415,6 +421,7 @@
     <string name="menu_launcher_setting">Ajustes del lanzador</string>
     <string name="menu_lock">Bloquear diseño de Pantalla de inicio</string>
     <string name="menu_more">Más</string>
+    <string name="menu_no_word">"No mostrar texto"</string>
     <string name="menu_picktheme">Selecciona un tema</string>
     <string name="menu_reset_scene">Volver al diseño predeterminado</string>
     <string name="menu_search">Buscar</string>
@@ -427,6 +434,8 @@
     <string name="midnight">Noche</string>
     <string name="minus_one_screen">Bóveda de aplicaciones</string>
     <string name="miui_screen_config_title">Ajustes de Pantalla de inicio</string>
+    <string name="miuix_access_state_desc">Seleccionado</string>
+    <string name="miuix_alphabet_indexer_name">Barra de índice</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deseleccionar</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleccionar todo</string>
     <string name="miuix_appcompat_action_mode_title_empty">Seleccionar elementos</string>
@@ -441,6 +450,8 @@
     <string name="miuix_appcompat_select_all">Seleccionar todo</string>
     <string name="miuix_appcompat_select_all_description">Seleccionar todo</string>
     <string name="miuix_appcompat_select_item">Seleccionar elementos</string>
+    <string name="miuix_indexer_collect">Colecciones</string>
+    <string name="miuix_indexer_selected">Seleccionado %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Desliza hacia abajo para actualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado con éxito</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualizando…</string>
@@ -543,7 +554,7 @@
     <string name="online_wallpaper">Online</string>
     <string name="open_personal_assistant_dialog_btn_cancel">Cancelar</string>
     <string name="open_personal_assistant_dialog_btn_confirm">Desactivar</string>
-    <string name="open_personal_assistant_dialog_desc">"No podrás usar la Bóveda de aplicaciones ni recibir sus actualizaciones. ¿Desactivar ahora?"</string>
+    <string name="open_personal_assistant_dialog_desc">"Después de desactivar App Vault, no podrá ver ni utilizar los widgets de App Vault. Sus versiones actualizadas tampoco estarán disponibles para usted. ¿Desactivar de todos modos?"</string>
     <string name="open_personal_assistant_dialog_desc_international">"No podrás usar las tarjetas de la Bóveda de aplicaciones (valores, atajos, etc.) ni recibir actualizaciones después de desactivar esta función."</string>
     <string name="open_personal_assistant_dialog_title">Desactivar Bóveda de aplicaciones</string>
     <string name="open_personal_assistant_settings">Configuración de App vault</string>
@@ -619,6 +630,11 @@
     <string name="recents_title_market">Encontrar aplicaciones</string>
     <string name="recents_title_security_scan">Análisis de seguridad</string>
     <string name="recents_tv_small_window_text">Ventanas flotantes</string>
+    <string name="recents_worldcirculate_text">Suelte para seleccionar</string>
+    <string name="recnets_worldcirculate_button_text">Mi Smart Hub</string>
+    <string name="recnets_worldcirculate_display_computer_info">La aplicación está funcionando en %s.</string>
+    <string name="recnets_worldcirculate_display_default_info">Toque para traerlo aquí de vuelta.</string>
+    <string name="recnets_worldcirculate_display_pad_info">La aplicación está funcionando en %s.</string>
     <string name="recommend_apk_size_and_desc">%1$dMB | %2$s</string>
     <string name="recommend_app">Sugerencias de aplicaciones</string>
     <string name="recommend_apps_default_title">Vacío</string>
@@ -643,8 +659,6 @@
     <string name="reset_fail">"No se pudo restaurar"</string>
     <string name="reset_scene_prompt">La pantalla volverá al diseño predeterminado.</string>
     <string name="reset_title">Restaurar</string>
-    <string name="resource_canary_leak_tip">tiene fuga!</string>
-    <string name="resource_canary_wait_for_heapdump_message">Volcando instantánea de montón ...</string>
     <string name="restore_icon_successful">Añadido con éxito</string>
     <string name="russia_preinstall_folder_name">Rusia</string>
     <string name="saturday">Sábado</string>

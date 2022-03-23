@@ -1145,7 +1145,7 @@ No perderá ningún dato de aplicación."</string>
     <string name="cta_dialog_negative">Salir</string>
     <string name="cta_dialog_positive">Aceptar</string>
     <string name="cta_dialog_title">Conexión a Internet</string>
-    <string name="cta_main_purpose">¡Bienvenido a Seguridad! Puede usar Seguridad y sus módulos (incluidos los componentes de seguridad MIUI y los servicios del sistema) para liberar espacio de almacenamiento, escanear su dispositivo en busca de virus, controlar el uso de la batería, optimizar su dispositivo para juegos, administrar aplicaciones, recibir alertas tempranas de terremotos y más.</string>
+    <string name="cta_main_purpose">"¡Bienvenido a Seguridad! Puede usar Seguridad y sus módulos (incluidos los componentes de seguridad MIUI y los servicios del sistema) para liberar espacio de almacenamiento, escanear su dispositivo en busca de virus, controlar el uso de la batería, optimizar su dispositivo para juegos, administrar aplicaciones, recibir alertas tempranas de terremotos y más. Los componentes de seguridad de MIUI se conectarán a Internet y realizarán escaneos de seguridad mientras instala aplicaciones y realiza pagos."</string>
     <string name="cta_settings">Permitir conectarse a internet y acceder a la ubicación</string>
     <string name="current_network_state_not_need_diagnose">La conexión a Internet funciona con normalidad.</string>
     <string name="custom_define_permission_desc_android.permission.CALL_PHONE">Para usar la lista de bloqueo y hacer llamadas a contactos de emergencia cuando se emiten advertencias de terremoto</string>
@@ -1539,6 +1539,7 @@ voluntario"</string>
     <string name="exit_dialog_homepage_optimise_message">"El rendimiento de su dispositivo está por debajo de 80 puntos. ¿Optimizar?"</string>
     <string name="exit_dialog_release_memory_positive_button">Cerrar</string>
     <string name="exit_dialog_release_memory_title">&lt;Data&gt;Acelere su dispositivo por &lt;font color=#0099ff&gt;%d%%&lt;/font&gt;&lt;/Data&gt;</string>
+    <string name="exit_dialog_release_memory_title_new"><Data>Dispositivo acelerado un &lt;font color=#0099ff&gt;%s&lt;/font&gt;</Data></string>
     <string name="exit_dialog_release_storage_message">Más del 80% del almacenamiento de su dispositivo está ocupado. Libere espacio desinstalando aplicaciones que no use.</string>
     <string name="exit_dialog_release_storage_message_new">Más de %s espacio de almacenamiento en su dispositivo está ocupado. Libere espacio desinstalando las aplicaciones que nunca usa.</string>
     <string name="exit_dialog_release_storage_positive_button">Liberar espacio</string>
@@ -1749,12 +1750,20 @@ voluntario"</string>
 1. Mientras juega, todas las llamadas entrantes a la tarjeta SIM sin servicio de datos móviles se rechazarán automáticamente. 
 2. Verá notificaciones sobre llamadas perdidas y la otra persona escuchará un mensaje de audio que indica que está ocupado en este momento. 
 3. Esta función solo la admiten los operadores de telefonía móvil en China."</string>
+    <string name="function_auto_reject_detail_new">"Acerca de esta función:
+%1$d. Mientras juega, todas las llamadas entrantes a la tarjeta SIM sin servicio de datos móviles se rechazarán automáticamente.
+%2$d. Verás notificaciones sobre llamadas perdidas y la otra persona escuchará un mensaje de audio diciendo que estás ocupado en este momento.
+%3$d. Esta función solo es compatible con los operadores de telefonía móvil en China."</string>
     <string name="function_auto_reject_title">Rechazar llamadas VoLTE a tarjetas SIM sin servicio de datos</string>
     <string name="function_close">Desactivado</string>
     <string name="function_gwsd_detail">"Acerca de esta función:
  1. Cuando esté utilizando datos móviles en una SIM de datos o en una tarjeta SIM normal conectada a una red VoLTE, las llamadas entrantes no interrumpirán la conexión hasta que responda.
  2. Cuando esto la función está activada, la otra persona no podrá escuchar sus tonos de devolución de llamada a menos que esté usando una tarjeta SIM normal. Las llamadas entrantes serán rechazadas automáticamente después de 7-10 segundos de inactividad.
  3. Las tarjetas SIM de datos emitidas por China Mobile y China Unicom son compatibles. Las tarjetas SIM regulares emitidas por China Mobile, China Unicom y China Telecom son compatibles."</string>
+    <string name="function_gwsd_detail_new">"Acerca de esta función:
+ %1$d. Cuando usas datos móviles en una SIM de datos o una tarjeta SIM normal conectada a una red VoLTE, las llamadas entrantes no interrumpirán la conexión hasta que contestes.
+ %2$d. Cuando esta función está activada, la otra persona no podrá escuchar tus tonos de devolución de llamada a menos que estés usando una tarjeta SIM normal. Las llamadas entrantes se rechazarán automáticamente después %3$da%4$d segundos de inactividad.
+ %5$d. Se admiten las tarjetas SIM de datos emitidas por China Mobile y China Unicom. Se admiten las tarjetas SIM normales emitidas por China Mobile, China Unicom y China Telecom."</string>
     <string name="function_gwsd_title">"No permitir que las llamadas entrantes interrumpan la conexión de datos de la SIM"</string>
     <string name="function_shield_auto_bright">Desactivar brillo automático</string>
     <string name="function_shield_eye_shield">Desactivar modo lectura</string>
@@ -1788,7 +1797,6 @@ voluntario"</string>
     <string name="game_video_network_eror">"No se pudo conectar a la red. Comprueba tus ajustes de red y vuelve a intentarlo."</string>
     <string name="game_wid_viewpoint_buttom">Tómate un descanso corto.</string>
     <string name="gamebooster_lowbattery_notification_summary">Cargue su dispositivo antes de que se apague.</string>
-    <string name="gamebooster_lowbattery_notification_title">La batería está a menos del 5%%</string>
     <string name="gamebooster_main_activity_back">Atrás</string>
     <string name="gamebooster_network_dialog_cn_message">"No puede usar Game Turbo cuando Seguridad no tiene permiso para conectarse a Internet y acceder a su ubicación. ¿Permitir ahora?"</string>
     <string name="gamebooster_network_dialog_message">¿Permitir a Seguridad conectarse a la red para usar todas las funciones de Game Turbo?</string>
@@ -1895,9 +1903,11 @@ voluntario"</string>
     <string name="gb_dialog_game_uninstall_tips_message_xspace">Todos los datos de la aplicación y aplicaciones duales relacionadas serán eliminadas.</string>
     <string name="gb_dialog_game_uninstall_tips_title">Desinstalar %s</string>
     <string name="gb_dialog_record_way_ai">Las grabaciones de IA se guardan en la caja del juego y se almacenan allí durante 7 días.</string>
+    <string name="gb_dialog_record_way_ai_new">Las grabaciones de IA se guardan en el gamebox y se almacenan allí durante %d días.</string>
     <string name="gb_dialog_record_way_finish">Listo</string>
     <string name="gb_dialog_record_way_manual">Grabe videos de hasta 30 segundos de forma manual</string>
     <string name="gb_dialog_record_way_manual_desc" formatted="false">Grabar %d-%d segundos de vídeo durante la sesión de juego manualmente.</string>
+    <string name="gb_dialog_record_way_manual_new">Graba videos manualmente de hasta %d segundos de duración</string>
     <string name="gb_dialog_record_way_setting_tip_one">Aumento del consumo de energía y retraso</string>
     <string name="gb_dialog_record_way_setting_tip_title">Esta característica puede causar los siguientes problemas:</string>
     <string name="gb_dialog_record_way_setting_tip_two">Conflictos con otras grabadoras de pantalla</string>
@@ -1925,6 +1935,7 @@ voluntario"</string>
 ¡Registre secuencias y úselas en cualquier momento!"</string>
     <string name="gb_game_time_toast">¡El temporizador ya está disponible!</string>
     <string name="gb_game_video_bottom_tips">Reviva los momentos clave de sus sesiones de juego en Game Turbo. Los vídeos se eliminarán automáticamente después de 7 días.</string>
+    <string name="gb_game_video_bottom_tips_new">Vuelva a visitar los momentos clave de sus sesiones de juego en Game Turbo. Los videos se eliminarán automáticamente después de %d días.</string>
     <string name="gb_game_video_item_tag">Momento clave</string>
     <string name="gb_game_video_page_delete_success">Eliminado con éxito</string>
     <string name="gb_game_video_page_null">Grabe los momentos clave de sus sesiones de juego</string>
@@ -2043,8 +2054,6 @@ pero también aumenta el consumo de energía y permite que su dispositivo se sob
     <string name="gb_voice_changer_setting_realtime_subtitle">Compruebe cómo cambia su voz en tiempo real</string>
     <string name="gb_voice_changer_setting_realtime_title">Comentarios en tiempo real</string>
     <string name="gb_voice_changer_setting_rights">Terminos del Servicio y Politica de Privacidad</string>
-    <string name="gb_voice_changer_toast_window_bubble_tips">"Prueba Voice Changer ahora 
-para obtener una prueba gratuita de 3 días."</string>
     <string name="gb_voice_changer_toast_window_new_tips">"¡Pruebe el cambiador de voz! 
 Cambie entre diferentes personajes y efectos especiales."</string>
     <string name="gb_voice_changer_toast_window_open">Se activó el efecto \"%s\"</string>
@@ -2069,8 +2078,11 @@ de sus sesiones de juego"</string>
     <string name="gb_wonderful_video_header_title">Hoy</string>
     <string name="gb_wonderful_video_save_suc">Guardado</string>
     <string name="gb_xunyou_gift_type_one">1 día de Aceleración Xunyou</string>
+    <string name="gb_xunyou_gift_type_one_new">Optimización Xunyou de %d-días</string>
     <string name="gb_xunyou_gift_type_three">3 días de Aceleración Xunyou</string>
+    <string name="gb_xunyou_gift_type_three_new">Optimización Xunyou de %d-días</string>
     <string name="gb_xunyou_gift_type_two">2 días de Aceleración Xunyou</string>
+    <string name="gb_xunyou_gift_type_two_new">Optimización Xunyou de %d-días</string>
     <string name="gd_app_edit_done">Hecho</string>
     <string name="gd_app_edit_title">Agregar aplicaciones</string>
     <string name="gd_app_edit_title_new">Editar accesos directos de ventana flotante</string>
@@ -2125,11 +2137,9 @@ de sus sesiones de juego"</string>
     <string name="gs_dialog_confirm_close_title">Desactivar</string>
     <string name="gs_forbid_autosync">Restringir sincronización en segundo plano</string>
     <string name="gs_game_ai_record">Grabar usando IA</string>
-    <string name="gs_game_ai_record_subtitle">Grabe momentos claves automáticamente y genere vídeos con lo más destacado de la sesión. Los vídeos se eliminarán automáticamente después de 7 días. Puede elegir guardarlos permanentemente después de cada sesión de juego.</string>
     <string name="gs_game_disturb_msg">No molestar</string>
     <string name="gs_game_duration">Duración</string>
     <string name="gs_game_manual_record">Grabar manualmente</string>
-    <string name="gs_game_manual_record_subtitle">Use el acceso directo flotante para grabar hasta 30 segundos de vídeo a la vez. Los vídeos se eliminarán automáticamente después de 7 días.</string>
     <string name="gs_game_manual_record_subtitle_child">Puede encontrar algunos problemas al usar esta función:</string>
     <string name="gs_game_manual_record_subtitle_child_carton">La grabación de sus sesiones de juego requiere un mayor consumo de energía, lo que puede provocar un retraso.</string>
     <string name="gs_game_manual_record_subtitle_child_conflict">Es posible que otras funciones de grabación de pantalla no funcionen correctamente.</string>
@@ -2149,6 +2159,7 @@ de sus sesiones de juego"</string>
     <string name="gs_show_way_horizontal">Horizontal</string>
     <string name="gs_show_way_vertical">Vertical</string>
     <string name="gs_sign_notification">Recuerde registrarse todos los días a las 8 p. m.</string>
+    <string name="gs_sign_notification_new">Recuerde registrarse a las %d PM todos los días</string>
     <string name="gs_slip_gamebox_detail">Use la barra deslizadora o deslice desde el borde superior de la pantalla para que aparezca el panel de acceso directo</string>
     <string name="gtb_after_acceleration">Después</string>
     <string name="gtb_auto_memory_clean">Limpiar memoria automáticamente</string>
@@ -2202,6 +2213,7 @@ de sus sesiones de juego"</string>
     <string name="gtb_setting_item_summary_disable_ndds_sim">Bloquee todos los servicios de comunicación en la SIM secundaria durante las sesiones de juego para mantener la conexión estable y evitar cambiar entre redes. La SIM secundaria se desbloqueará cuando dejes de jugar.</string>
     <string name="gtb_setting_item_summary_smart_5g">Cada vez que Game Turbo detecta una red 5G, puede conectar su dispositivo a la mejor red disponible para reducir el retraso de red</string>
     <string name="gtb_setting_item_summary_smart_wlan_speed" formatted="false">Aumente la velocidad de conexión en un 10%-20% cuando esté conectado a routers Mi/Redmi</string>
+    <string name="gtb_setting_item_summary_smart_wlan_speed_new">Aumenta la velocidad de conexión de %1$s-%2$s cuando estés conectado a enrutadores Mi/Redmi</string>
     <string name="gtb_setting_item_title_brightness">Bajar brillo de la pantalla automáticamente</string>
     <string name="gtb_setting_item_title_disable_ndds_sim">Bloquear SIM secundaria</string>
     <string name="gtb_setting_item_title_smart_5g">Optimización de redes 5G</string>
@@ -2468,6 +2480,8 @@ responda"</string>
     <string name="memory_clean_no_need_clean">Todo está en orden</string>
     <string name="memory_clean_no_need_clean_1" formatted="false">"%s liberados.
 Su dispositivo ahora es un %d%% más rápido."</string>
+    <string name="memory_clean_no_need_clean_1_new" formatted="false">"Liberado %s.
+Tu dispositivo es %s más rápido ahora."</string>
     <string name="memory_clear_unused">Borrar caché (%s)</string>
     <string name="memory_title">Disponible: %1$s\u0009\u0009Total: %2$s</string>
     <string name="menu_add">Agregar</string>
@@ -2490,6 +2504,7 @@ Su dispositivo ahora es un %d%% más rápido."</string>
     <string name="menu_item_notification_antispam_text_avail">Lista de bloqueo</string>
     <string name="menu_item_notification_antispam_text_normal">Lista de bloqueo</string>
     <string name="menu_item_notification_optimize_text">%d%% ocupado</string>
+    <string name="menu_item_notification_optimize_text_new">%s ocupado</string>
     <string name="menu_item_notification_power_text">Optimización de batería</string>
     <string name="menu_item_notification_title">Mostrar menú en el panel de notificaciones</string>
     <string name="menu_item_shortcut_summary">Colocar funciones en la pantalla de inicio</string>
@@ -2510,12 +2525,14 @@ Su dispositivo ahora es un %d%% más rápido."</string>
     <string name="menu_summary_garbage_cleanup">No se encontró basura</string>
     <string name="menu_summary_garbage_cleanup_ex">Liberar %s</string>
     <string name="menu_summary_garbage_cleanup_new">%d%% de espacio de almacenamiento</string>
+    <string name="menu_summary_garbage_cleanup_new_new">%s de espacio de almacenamiento</string>
     <string name="menu_summary_networkassistants">Administre su plan de datos</string>
     <string name="menu_summary_networkassistants_2">Excedió el límite</string>
     <string name="menu_summary_networkassistants_3">Suficientes datos restantes</string>
     <string name="menu_summary_networkassistants_4">Se están agotando los datos</string>
     <string name="menu_summary_optimize_manage">Limpiar memoria</string>
     <string name="menu_summary_optimize_manage_1">Haga su dispositivo %d%% más rápido</string>
+    <string name="menu_summary_optimize_manage_1_new">Haz que tu dispositivo sea %s más rápido</string>
     <string name="menu_summary_power_manager">El ahorro de batería le da más tiempo entre cargas</string>
     <string name="menu_summary_power_manager_1">La batería está cargada</string>
     <string name="menu_summary_power_manager_2">%s restante</string>
@@ -2775,6 +2792,7 @@ Intente usar otro cable Ethernet para conectar el router. Si sospecha que hay un
     <string name="notification_link_cleaner_3002">Eliminar basura de WeChat</string>
     <string name="notification_link_cleaner_4000">Limpiar la basura QQ</string>
     <string name="notification_link_optimizemanage_1011">%d%% de memoria está ocupada. Limpiar ahora.</string>
+    <string name="notification_link_optimizemanage_1011_new">%s de memoria está ocupado. Limpiar ahora.</string>
     <string name="notification_low_battery_need_charge">Cargue su dispositivo</string>
     <string name="notification_low_battery_open_save_mode">Activar Ahorro de batería</string>
     <string name="notification_low_battery_title">Menos del %s de batería restante</string>
@@ -2791,6 +2809,7 @@ Intente usar otro cable Ethernet para conectar el router. Si sospecha que hay un
     <string name="notification_optimize_button_text">Limpiar</string>
     <string name="notification_optimize_message">Limpiar memoria para aumentar la velocidad</string>
     <string name="notification_optimize_title">%d%% de memoria ocupada</string>
+    <string name="notification_optimize_title_new">%s de memoria está ocupado</string>
     <string name="notification_power_consume_issue_summary">Alto consumo de energía</string>
     <string name="notification_power_consume_suggest_summary">Solucionar problemas para ahorrar batería</string>
     <string name="notification_qq_clean_hint">La basura ralentiza su dispositivo</string>
@@ -4043,8 +4062,11 @@ Retirar el consentimiento ahora?"</string>
     <string name="signal_exception_title">Probar intensidad de la señal</string>
     <string name="signed_rule">Reglas</string>
     <string name="signed_rule_one">1. Regístrese 10, 20 o 28 días seguidos cada mes para obtener Aceleración Xunyou 1, 2, o 3 días respectivamente.</string>
+    <string name="signed_rule_one_new">%1$d. Regístrate %2$d, %3$d, o %4$d días seguidos cada mes para obtener un impulso de Xunyou durante %5$d, %6$d, o %7$d días respectivamente.</string>
     <string name="signed_rule_three">"3. Cada inicio de mes se eliminan los días que se ha registrado previamente. Los días restantes no se vuelven a contar."</string>
+    <string name="signed_rule_three_new">"%1$dLos días de registro se anulan al principio de cada mes. Los días restantes no se transfieren."</string>
     <string name="signed_rule_two">2. Puede obtener solo 1 Aceleración Xunyou por mes.</string>
+    <string name="signed_rule_two_new">%d. Solo puedes obtener 1 impulso Xunyou por mes.</string>
     <string name="sim_car_absent__tip">Confirma el bloqueo de pantalla para desactivar el modo Perdido</string>
     <string name="sim_car_absent_intercept_action">Confirmar bloqueo de pantalla (%d)</string>
     <string name="sim_car_absent_intercept_action_last">Confirmar bloqueo de pantalla</string>
@@ -4621,6 +4643,7 @@ El formateo eliminará el contenido existente en la ^2. Para evitar perder conte
     <string name="superpower_dialog_massage">"El Ahorro de batería ultra restringe las funciones con mayor consumo de energía y reduce el rendimiento de su dispositivo para mantener las funciones básicas (p. ej. llamadas, SMS y la conexión a red) disponibles el mayor tiempo posible. ¿Activar ahorrador de batería ultra?"</string>
     <string name="superpower_dialog_title">Ahorro de batería ultra</string>
     <string name="superpower_notification_new_title">Menos de %d%% de batería restante</string>
+    <string name="superpower_notification_new_title_new">Queda menos de %s de batería</string>
     <string name="superpower_notification_summary">Activar Ahorro de batería ultra</string>
     <string name="superpower_notification_time_12">EEEE dd \'de\' MMMM</string>
     <string name="superpower_notification_time_24">EEEE dd \'de\' MMMM</string>

@@ -49,6 +49,10 @@
     <string name="add_slide_hint">Pulsa para crear una nueva diapositiva</string>
     <string name="add_smiley">Emoticono</string>
     <string name="add_timing">Establecido</string>
+    <string name="add_to_block_by_number">"Agregado %s
+a la lista de bloqueo"</string>
+    <string name="add_to_block_by_tag">"Mensajes que contienen \"%s\"
+añadidos a la lista de bloqueos"</string>
     <string name="add_to_browser_favorite_failed">"No se pudo añadir"</string>
     <string name="add_to_browser_favorite_success">Añadido con éxito</string>
     <string name="add_video">Añadir vídeo</string>
@@ -82,6 +86,7 @@
     <string name="attach_transaction">Transferir dinero</string>
     <string name="attach_video">Vídeo</string>
     <string name="attach_video_call">Videollamada</string>
+    <string name="attachment_panel_show_part">Página %1$d</string>
     <string name="audio_download_failed">"No se pudo descargar el audio"</string>
     <string name="audio_message_expired">Este mensaje de voz ha expirado.</string>
     <string name="audio_message_mx_offline">"No se pudo descargar audio. Mi Message está fuera de línea o no disponible."</string>
@@ -193,6 +198,12 @@
     <string name="context_menu_send_sms">Enviar mensaje</string>
     <string name="context_menu_view_contact">Ver contacto</string>
     <string name="context_menu_view_mms">Ver MMS</string>
+    <string name="conv_content_defraud_tip">Reportar fraude</string>
+    <string name="conv_content_risk">Enviado desde un número desconocido</string>
+    <string name="conv_head_link_tip">Reportar fraude</string>
+    <string name="conv_head_risk_tip">Podría ser un fraude en el extranjero</string>
+    <string name="conv_item_official">Oficial</string>
+    <string name="conv_item_risk_tip">Riesgo</string>
     <string name="conversation">Mensajes</string>
     <string name="conversation_listitem_avatar">Avatar</string>
     <string name="converting_to_picture_message">Convirtiendo en mensaje multimedia…</string>
@@ -422,6 +433,7 @@
     <string name="menu_new_manual">Introduce número de teléfono</string>
     <string name="menu_pick_from_contact">Seleccionar desde contactos</string>
     <string name="menu_preferences">Ajustes</string>
+    <string name="menu_report">Comentarios</string>
     <string name="menu_send_as_common">Enviar como SMS</string>
     <string name="menu_sms_block">Lista negra</string>
     <string name="menu_traffic_destination">Destino</string>
@@ -461,6 +473,8 @@ Verifique su tarjeta SIM."</string>
     <string name="messaging">Mensajes</string>
     <string name="mi_message_title">Mi mensaje</string>
     <string name="midnight">Noche</string>
+    <string name="miuix_access_state_desc">Seleccionado</string>
+    <string name="miuix_alphabet_indexer_name">Barra de índice</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleccionar todo</string>
     <string name="miuix_appcompat_action_mode_title_empty">Seleccionar elementos</string>
@@ -478,6 +492,8 @@ Verifique su tarjeta SIM."</string>
     <string name="miuix_appcompat_select_all">Seleccionar todo</string>
     <string name="miuix_appcompat_select_all_description">Seleccionar todo</string>
     <string name="miuix_appcompat_select_item">Seleccionar elementos</string>
+    <string name="miuix_indexer_collect">Colecciones</string>
+    <string name="miuix_indexer_selected">Seleccionado %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tira hacia abajo para actualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado correctamente</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualizando...</string>
@@ -495,7 +511,13 @@ Verifique su tarjeta SIM."</string>
 Este mensaje podría ser no deseado."</string>
     <string name="mms_block_hint_highlight">Bloquear MMS</string>
     <string name="mms_main_purpose">"Para tener acceso a todas las funciones de Mensajes, activa Mi Message y Mensajes Inteligentes."</string>
+    <string name="mms_mi_message_main_purpose">¡Bienvenido a Mi Mensaje! Se requiere un mensaje SMS saliente para activar Mi Message. Su operador le cobrará por este mensaje.</string>
+    <string name="mms_mi_message_request_notice">Queremos que aproveches al máximo Mi Mensaje.</string>
+    <string name="mms_mx_privacy_policy">Política de privacidad de Mi Mensaje</string>
+    <string name="mms_smart_msg_main_purpose">La mensajería inteligente puede reconocer los ID de remitente, proporcionar servicios de menú inteligente e identificar mensajes sospechosos.</string>
+    <string name="mms_smart_msg_privacy_policy">Política de privacidad de mensajería inteligente</string>
     <string name="mms_title">Mensajes</string>
+    <string name="mms_user_agreement">Acuerdo de Usuario</string>
     <string name="monday">Lunes</string>
     <string name="monday_short">Lun</string>
     <string name="monday_shortest">Lun</string>
@@ -1090,6 +1112,9 @@ Echa un vistazo a los recomendados!"</string>
     <string name="send_to">Para:</string>
     <string name="sent_at_time">Enviado a las: %1s</string>
     <string name="sent_label">"Enviado: "</string>
+    <string name="service_abandon_alert">Atención</string>
+    <string name="service_abandon_retry_deny">Atrás</string>
+    <string name="service_abandon_retry_setting">Ajustes</string>
     <string name="service_message_not_found">Mensaje expirado o no disponible</string>
     <string name="service_network_problem">"No se pudo enviar debido a un problema con la red"</string>
     <string name="service_not_activated">Servicio no activado en la red</string>
@@ -1101,6 +1126,7 @@ Echa un vistazo a los recomendados!"</string>
     <string name="show_all_messages">Mostrar todos los mensajes</string>
     <string name="show_delivery_status">Mostrar estado de la entrega</string>
     <string name="show_sender">Mostrar información del remitente</string>
+    <string name="sim_activation_service_retry_main_purpose">La activación de SIM debe estar activada para que Mi Message funcione normalmente. Puede activar la activación de SIM en Configuración &gt; Administrar aplicaciones.</string>
     <string name="sim_card1">Tarjeta SIM 1</string>
     <string name="sim_card2">Tarjeta SIM 2</string>
     <string name="sim_card_cloud">%s (Mi mensaje)</string>
@@ -1197,21 +1223,29 @@ Echa un vistazo a los recomendados!"</string>
     <string name="sunday">Domingo</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
+    <string name="suspected_fraud_action">Toca para reportar.</string>
+    <string name="suspected_fraud_action_tip">"Posible estafa. "</string>
+    <string name="suspected_fraud_link_tip">"URL insegura. "</string>
+    <string name="suspected_fraud_tip">Posible estafa</string>
     <string name="switch_to_editor">Modo edición</string>
     <string name="switch_to_menu">Modo menú</string>
     <string name="system_permission_declare_agree">Aceptar</string>
     <string name="system_permission_declare_disagree">Cancelar</string>
     <string name="system_permission_declare_double_link" formatted="false">Lee y acepta nuestro %1s y %2s antes de usar esta función.</string>
     <string name="system_permission_declare_main_purpose" formatted="false">¡Bienvenido a %1s! %2s</string>
+    <string name="system_permission_declare_mi_message">¡Bienvenido a Mi Mensaje!</string>
     <string name="system_permission_declare_no_say_no">"Protegeremos su información personal de acuerdo con las leyes, regulaciones y políticas de privacidad relevantes.
 Si no acepta conceder dichos permisos ni compartir o subir su información personal, no podrá usar esta aplicación."</string>
     <string name="system_permission_declare_privacy_declare">%1s necesita recolectar tus datos y los siguientes permisos para funcionar con normalidad:</string>
     <string name="system_permission_declare_privacy_declare_new">Esta aplicación necesita conectarse a Internet y requiere los siguientes permisos para funcionar con normalidad:</string>
     <string name="system_permission_declare_privacy_link">Para comprender completamente sus derechos como usuario, así como las formas en que usamos sus datos, lea y acepte nuestra %1s.</string>
+    <string name="system_permission_declare_rcs">¡Bienvenido a Mensajería 5G!</string>
     <string name="system_permission_declare_revoke_path">Puede revocar su autorización y desactivar los servicios en los ajustes de Mensajes.</string>
     <string name="system_permission_declare_single_link">Lee y acepta nuestra %1s antes de usar esta función.</string>
+    <string name="system_permission_declare_smart_message">¡Bienvenido a la mensajería inteligente!</string>
     <string name="system_permission_declare_triple_link" formatted="false">Lee y acepta nuestro %1s, %2s y %3s antes de usar estas funciones.</string>
     <string name="system_permission_declare_use_network">Conectarse a la red</string>
+    <string name="system_permission_declare_user_agree">Estar de acuerdo</string>
     <string name="system_permission_disabled">No concedido</string>
     <string name="system_permission_enabled">Concedido</string>
     <string name="system_permission_perm_agree_desc">Permita que esta aplicación se conecte a Internet y otorgue los permisos opcionales para poder utilizar todas sus funciones.</string>
@@ -1243,6 +1277,7 @@ Si no acepta conceder dichos permisos ni compartir o subir su información perso
     <string name="system_permission_perm_write_mms">Permitir que la mensajería escriba MMS</string>
     <string name="system_permission_perm_write_sms">Permitir que la mensajería escriba SMS</string>
     <string name="system_permission_requested">Preguntar</string>
+    <string name="system_permission_user_privacy">Antes de continuar, lea y acepte los siguientes términos y condiciones.</string>
     <string name="tab_finance">Finanzas</string>
     <string name="tab_message">Mensajes</string>
     <string name="tab_promotions">Promociones</string>
@@ -1389,6 +1424,7 @@ Intentos realizados: %s."</string>
     <string name="wednesday_shortest">Mié</string>
     <string name="wild_msg_processing">Procesando…</string>
     <string name="wild_msg_title">Selecciona los números de teléfono que deseas sincronizar</string>
+    <string name="xiaomi_account_service_retry_main_purpose">Los servicios de Mi Cuenta deben estar activados para que esta función funcione normalmente. Puede activar los servicios de Mi Cuenta en Configuración &gt; Administrar aplicaciones.</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Ahora no</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Actualizar</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Hay disponible una actualización</string>

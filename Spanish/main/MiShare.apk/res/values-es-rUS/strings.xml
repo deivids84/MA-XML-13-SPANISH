@@ -166,6 +166,7 @@ Esta función es compatible con OPPO, vivo, realme y otros fabricantes de teléf
     <string name="miuix_appcompat_select_all">Seleccionar todo</string>
     <string name="miuix_appcompat_select_all_description">Seleccionar todo</string>
     <string name="miuix_appcompat_select_item">Seleccionar elementos</string>
+    <string name="miuix_indexer_collect">Colecciones</string>
     <string name="miuix_indexer_selected">Seleccionado %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Deslice hacia abajo para actualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado con éxito</string>
@@ -227,6 +228,8 @@ Esta función es compatible con OPPO, vivo, realme y otros fabricantes de teléf
     <string name="operate_too_fast">¡Demasiado rápido! Espere hasta que las operaciones en curso sean completadas.</string>
     <string name="pad_device_model_name">Xiaomi Pad</string>
     <string name="pc_device_model_name">Computadora</string>
+    <string name="pc_redmi_device_model_name">Laptop Redmi</string>
+    <string name="pc_xiaomi_device_model_name">Xiaomi laptop</string>
     <string name="permission_denied_hint">Conceda los permisos necesarios para poder usar Mi Share</string>
     <string name="pm">PM</string>
     <string name="preference_copied">Se copió \"%1$s\" en el portapapeles.</string>
@@ -250,6 +253,8 @@ Antes de usar Mi Share, debe conceder los siguientes permisos, así como permiti
     <string name="scanning_device_tips">Buscando dispositivos cercanos…Asegúrese de que el otro dispositivo está en modo visible.</string>
     <string name="scanning_only_xiaomi_device">Este artículo solo se puede transferir a dispositivos Xiaomi o Black Shark</string>
     <string name="search_menu_title">Buscar</string>
+    <string name="seize_content">Dejar de compartir la pantalla para poder transferir elementos. ¿Dejar de compartir ahora?</string>
+    <string name="seize_title">Dejar de compartir pantalla</string>
     <string name="send">Enviar</string>
     <string name="send_file">ENVIAR ARCHIVO</string>
     <string name="send_files_by">Comparte archivos a través de</string>

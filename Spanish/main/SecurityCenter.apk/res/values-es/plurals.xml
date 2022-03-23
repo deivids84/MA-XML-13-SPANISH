@@ -256,6 +256,10 @@ Si activas los datos móviles otra vez, tu compañia telefónica puede cargar ga
         <item quantity="other">Desinstalar %2$d juegos (incluyendo %1$s)</item>
         <item quantity="one">Desinstalar %2$d juego (incluyendo %1$s)</item>
     </plurals>
+    <plurals name="gb_dialog_record_way_ai_desc">
+        <item quantity="other">Grabe momentos clave automáticamente y genere videos con momentos destacados de la sesión. Puede elegir guardarlos permanentemente después de cada sesión de juego. Los videos no guardados se eliminarán automáticamente después de %1$d días.</item>
+        <item quantity="one">Grabe momentos clave automáticamente y genere videos con momentos destacados de la sesión. Puede elegir guardarlos permanentemente después de cada sesión de juego. Los videos no guardados se eliminarán automáticamente después de %1$d día.</item>
+    </plurals>
     <plurals name="gb_game_video_ai_record_finish_tips">
         <item quantity="other">%d grabaciones IA guardadas en Game Turbo</item>
         <item quantity="one">%d grabación IA guardada en Game Turbo</item>
@@ -299,6 +303,14 @@ para obtener un prueba gratuita de %d días!"</item>
     <plurals name="gb_voice_changer_user_tips_info">
         <item quantity="other">Obtén una prueba gratuita de %d días</item>
         <item quantity="one">Obtén una prueba gratuita de %d día</item>
+    </plurals>
+    <plurals name="gd_app_edit_desc">
+        <item quantity="other">Agregue hasta %d aplicaciones. Arrastre los elementos agregados para reorganizarlos.</item>
+        <item quantity="one">Agregue hasta %d aplicación. Arrastre los elementos agregados para reorganizarlos.</item>
+    </plurals>
+    <plurals name="gd_app_edit_desc_new">
+        <item quantity="other">Agregue hasta %d aplicaciones. Mantenga pulsado para reorganizar.</item>
+        <item quantity="one">Agregue hasta %d aplicación. Mantenga pulsado para reorganizar.</item>
     </plurals>
     <plurals name="gtb_brightness_dialog_message">
         <item quantity="other">Esta característica reduce el brillo de la pantalla después de %d minutos de inactividad automáticamente para ahorrar energía. ¿Continuar esta función?</item>
@@ -723,6 +735,10 @@ para obtener un prueba gratuita de %d días!"</item>
     <plurals name="privacy_permission_summary">
         <item quantity="other">%s aplicaciones tienen acceso permanente</item>
         <item quantity="one">%s aplicación tiene acceso permanente</item>
+    </plurals>
+    <plurals name="privacy_permission_summary_allow">
+        <item quantity="other">Permitido para %s aplicaciones</item>
+        <item quantity="one">Permitido para %s aplicación</item>
     </plurals>
     <plurals name="privacy_pop_times">
         <item quantity="other">%s veces</item>

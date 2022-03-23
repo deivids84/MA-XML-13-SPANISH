@@ -590,6 +590,7 @@ con %s"</string>
     <string name="face_error_timeout">Prueba el Desbloqueo facial de nuevo</string>
     <string name="face_error_unable_to_process">No se ha verificado tu cara. Vuelve a intentarlo.</string>
     <string name="face_error_user_canceled">Desbloqueo facial cancelado por el usuario</string>
+    <string name="face_error_vendor_unknown">Algo salió mal. Vuelve a intentarlo.</string>
     <string name="face_icon_content_description">Icono cara</string>
     <string name="face_name_template">Cara %d</string>
     <string name="face_or_screen_lock_app_setting_name">Usar bloqueo facial o de pantalla</string>
@@ -641,6 +642,7 @@ Si tienes alguna pregunta, ponte en contacto con el administrador de tu organiza
     <string name="fingerprint_error_timeout">Se ha alcanzado el tiempo de espera de la huella digital. Vuelve a intentarlo.</string>
     <string name="fingerprint_error_unable_to_process">Vuelve a intentarlo.</string>
     <string name="fingerprint_error_user_canceled">El usuario ha cancelado la operación de huella digital.</string>
+    <string name="fingerprint_error_vendor_unknown">Algo salió mal. Vuelve a intentarlo.</string>
     <string name="fingerprint_icon_content_description">Icono de huella digital</string>
     <string name="fingerprint_name_template">Dedo %d</string>
     <string name="fingerprint_or_screen_lock_app_setting_name">Usar huella digital o bloqueo de pantalla</string>

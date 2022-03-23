@@ -70,6 +70,7 @@
     <string name="cancel">Cancelar</string>
     <string name="cancel_running_download">Cancelar</string>
     <string name="cancle">Cancelar</string>
+    <string name="category">Categoría</string>
     <string name="choose_open_picture">Seleccionar acción</string>
     <string name="choose_open_time">"Elija cuando le gustaría comenzar"</string>
     <string name="clear_data">Borrar</string>
@@ -136,6 +137,7 @@
     <string name="do_not_support_url">"Este tipo de URL no es compatible"</string>
     <string name="doc_filter">Documentos</string>
     <string name="download">Descargas</string>
+    <string name="downloadCount">Descargas</string>
     <string name="download_auth">Obteniendo autorización…</string>
     <string name="download_complete">Descargado</string>
     <string name="download_description_content">"Descargas es una aplicación del sistema. No podrá administrar sus descargas después de eliminarlo."</string>
@@ -301,6 +303,8 @@
     <string name="mi_money_">Mis créditos</string>
     <string name="midnight">Noche</string>
     <string name="missing_title">&lt;Desconocido&gt;</string>
+    <string name="miuix_access_state_desc">Seleccionado</string>
+    <string name="miuix_alphabet_indexer_name">Barra de índice</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleccionar todo</string>
     <string name="miuix_appcompat_action_mode_title_empty">Seleccionar elementos</string>
@@ -315,6 +319,8 @@
     <string name="miuix_appcompat_select_all">Seleccionar todo</string>
     <string name="miuix_appcompat_select_all_description">Seleccionar todo</string>
     <string name="miuix_appcompat_select_item">Seleccionar elementos</string>
+    <string name="miuix_indexer_collect">Colecciones</string>
+    <string name="miuix_indexer_selected">Seleccionado %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Desliza hacia abajo para actualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado correctamente</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualizando...</string>
@@ -378,6 +384,7 @@
     <string name="no_share_file_content">El archivo seleccionado ya ha sido eliminado</string>
     <string name="no_share_files">"No se pueden compartir archivos que ya han sido eliminados"</string>
     <string name="no_share_files_content">"Algunos de los archivos que se estaban tratando de compartir ya habían sido eliminados. Los otros archivos se compartieron con éxito."</string>
+    <string name="no_support_modify_path">"No se puede cambiar la ubicación de los elementos descargados por motivos de seguridad"</string>
     <string name="no_vip_info">Obtenga la membresía de Xunlei para acelerar las descargas</string>
     <string name="no_vip_show_info">"Acelera las descargas
 en todos tus dispositivos con Xunlei"</string>
@@ -389,6 +396,7 @@ en todos tus dispositivos con Xunlei"</string>
     <string name="notify_install_guide_title">Instaladas %s correctamente</string>
     <string name="notify_not_support">"Tales notificaciones no son compatibles, actualice ahora"</string>
     <string name="notify_only_wifi_download">Esperando conexión Wi-Fi</string>
+    <string name="nowInstall">Instalar</string>
     <string name="one_month">1 mes</string>
     <string name="only_support_torrent">Solo se admiten archivos torrent</string>
     <string name="open">Abrir</string>
@@ -418,6 +426,7 @@ en todos tus dispositivos con Xunlei"</string>
     <string name="pref_download_revert_default">Guardar en la ubicación predeterminada</string>
     <string name="pref_download_settings_title">Las descargas usando datos móviles están restringidas</string>
     <string name="pref_download_storage_path">Guardar en una localización personalizada</string>
+    <string name="pref_download_storage_path_2">Ubicación de los elementos descargados</string>
     <string name="pref_permission_description">Detalles de permisos</string>
     <string name="pref_sniff_shortcut">Crear acceso directo a la pantalla de inicio para búsquedas web</string>
     <string name="pref_summary_any_bytes_popup">Esperar siempre a una conexión Wi-Fi para descargar archivos</string>
@@ -506,6 +515,7 @@ en todos tus dispositivos con Xunlei"</string>
     <string name="shortcut_dialog_create">Crear</string>
     <string name="shortcut_dialog_title">Crear acceso directo en la Pantalla de inicio?</string>
     <string name="show_more">Mostrar %s más</string>
+    <string name="size">Tamaño</string>
     <string name="size_byte">B</string>
     <string name="size_giga_byte">GB</string>
     <string name="size_kilo_byte">KB</string>

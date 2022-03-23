@@ -36,6 +36,12 @@
     <string name="account_add_other_sub_des">Otras cuentas</string>
     <string name="account_add_title">Seleccionar servicio de correo electrónico</string>
     <string name="account_change">Cambiar cuentas</string>
+    <string name="account_child_dialog_neg_text">Salir</string>
+    <string name="account_child_dialog_pos_text">Guardian está de acuerdo</string>
+    <string name="account_child_dialog_text">"Si es menor de 14 años, informe a su tutor que debe leer y aceptar la \"Declaración de Kingsoft sobre la protección de datos personales de menores\". También debe buscar su consentimiento y orientación antes de utilizar nuestros servicios o enviarnos cualquier información personal.
+Para comprender plenamente sus derechos como usuario, así como las formas en que procesamos sus datos, lea la \"Declaración de Kingsoft sobre la protección de datos personales de menores\"."</string>
+    <string name="account_child_dialog_title">"Declaración sobre protección de datos personales de menores"</string>
+    <string name="account_child_save_statement">"Declaración de Kingsoft sobre la protección de datos personales de menores"</string>
     <string name="account_duplicate_dlg_message_fmt">"Ya está usando este nombre de usuario para la cuenta \"%s\"."</string>
     <string name="account_duplicate_dlg_title">Cuenta duplicada</string>
     <string name="account_failure">Tiempo de sesión superado</string>
@@ -45,6 +51,12 @@
     <string name="account_options_sync_title">Sincronizar</string>
     <string name="account_password_spaces_error">"Esta contraseña comienza o termina con uno o varios
         espacios. Muchos servidores no admiten contraseñas con espacios."</string>
+    <string name="account_permission_child_statement">"Declaración sobre protección de datos personales de menores"</string>
+    <string name="account_permission_dialog_cancel_text">Retirar</string>
+    <string name="account_permission_dialog_text">"Si continúa, retirará su consentimiento al Acuerdo de licencia de usuario final, la Política de privacidad y la Declaración sobre la protección de datos personales de menores. Después de eso, no podrá usar WPS Mail y se eliminarán todos los datos generados en este dispositivo."</string>
+    <string name="account_permission_dialog_title">Retiro del consentimiento</string>
+    <string name="account_permission_private_policy">Política de privacidad</string>
+    <string name="account_permission_user_privacy">Acuerdo de licencia de usuario final</string>
     <string name="account_security_dialog_content_fmt">"%s requiere que actualice su configuración
          de seguridad."</string>
     <string name="account_security_dialog_title">Actualización de seguridad</string>
@@ -67,6 +79,7 @@
     <string name="account_settings_description_label">Nombre de la cuenta</string>
     <string name="account_settings_display">Mostrar</string>
     <string name="account_settings_does_not_support_pop">"Esta función no es compatible con POP3"</string>
+    <string name="account_settings_does_not_support_pop_attachment">"POP3 puede descargar archivos adjuntos automáticamente pero no puede editarlos"</string>
     <string name="account_settings_edit_quick_responses_label">Respuesta rápida</string>
     <string name="account_settings_edit_quick_responses_summary">Editar mensajes cortos para pegar en correos electrónicos</string>
     <string name="account_settings_incoming_summary">Nombre de usuario, contraseña y otros ajustes del servidor</string>
@@ -121,6 +134,7 @@
     <string name="account_setup_correct_address_tips">La dirección de correo electrónico introducida no es válida.</string>
     <string name="account_setup_creating_account_msg">"    Creando cuenta…"</string>
     <string name="account_setup_deleting_account_msg">"    Eliminando cuenta…"</string>
+    <string name="account_setup_domain_invalid_toast">Introduzca un dominio de correo electrónico válido</string>
     <string name="account_setup_exchange_certificate_title">Certificado de cliente</string>
     <string name="account_setup_exchange_no_certificate">Ninguno</string>
     <string name="account_setup_failed_auth_required">"Este método de autentificación no es soportado por el servidor."</string>
@@ -243,6 +257,9 @@
     <string name="attachment_decoding">Descomprimiendo adjuntos…</string>
     <string name="attachment_detail_empty_prompt">Seleccionar archivos</string>
     <string name="attachment_download_all">Descargar todo</string>
+    <string name="attachment_drag_add_inline">Incrustar</string>
+    <string name="attachment_drag_add_picture_prompt">¿Le gustaría incrustar o adjuntar las imágenes seleccionadas?</string>
+    <string name="attachment_drag_create_email_prompt">¿Adjuntar los archivos seleccionados a un nuevo correo electrónico?</string>
     <string name="attachment_image">Imagen</string>
     <string name="attachment_list_search_hint">Buscar adjuntos</string>
     <string name="attachment_mgr_name">Adjuntos</string>
@@ -297,7 +314,7 @@
     <string name="broker_helper_signature">Firma para ingresar al registrar la aplicación</string>
     <string name="broker_helper_title">Información de URI de redireccionamiento de MSAL</string>
     <string name="broker_processing">Broker está procesando</string>
-    <string name="calendar_remind_dialog_title">Recordar más tarde</string>
+    <string name="calendar_remind_dialog_title">Añadir al calendario</string>
     <string name="calendar_remind_gridview_pick_date">Elegir fecha</string>
     <string name="calendar_skip_no_account_alert">"No se pudo encontrar esta cuenta"</string>
     <string name="cancel">Cancelar</string>
@@ -339,14 +356,20 @@
     <string name="click_download_all_content">[ Pulse para descargar contenido ]</string>
     <string name="click_to_reload">Toque la pantalla para actualizar</string>
     <string name="close">Cerrar</string>
+    <string name="close_custom_folder">Ocultar subcarpetas</string>
     <string name="collapse_recipient_details">Contraer detalles del destinatario</string>
     <string name="compose">Crear</string>
     <string name="compose_add_attachment_permission_denied">"No se puede reenviar el correo electrónico. Se requieren permisos para acceder al almacenamiento externo."</string>
+    <string name="compose_encrypt_lock_description">Cifrar</string>
+    <string name="compose_encrypt_unlock_description">Descifrar</string>
+    <string name="compose_encrypt_unlock_w_description">No es un contacto de confianza</string>
     <string name="compose_event">Invitación</string>
     <string name="compose_paste_address_oob">Demasiados caracteres</string>
     <string name="compose_picturesexceedlimits">Puedes añadir más imágenes como archivos adjuntos</string>
     <string name="compose_send">Enviar</string>
     <string name="compose_sent">Correo enviado</string>
+    <string name="compose_smime_sign_description">Aplicar firma</string>
+    <string name="compose_smime_unsign_description">Eliminar firma</string>
     <string name="compose_to_label">Para</string>
     <string name="compress_failed_and_retry">"No se pudo comprimir. Intente otra vez."</string>
     <string name="compress_img">Comprimir imágenes</string>
@@ -440,8 +463,13 @@
     <string name="default_signature">Enviado desde mi teléfono Mi</string>
     <string name="default_signature_2">Enviado desde mi %s</string>
     <string name="default_signature_pad">Enviado desde mi Mi Pad</string>
+    <string name="default_signature_phone">Enviado desde mi teléfono Mi</string>
     <string name="delete">Eliminar</string>
     <string name="delete_contact_content">¿Eliminar ahora este contacto?</string>
+    <string name="delete_message_dialog_content">¿Desea eliminar este correo electrónico y bloquear al remitente?</string>
+    <string name="delete_message_dialog_left_button">Eliminar y bloquear</string>
+    <string name="delete_message_dialog_right_button">Eliminar solamente</string>
+    <string name="delete_message_dialog_title">Eliminando correo electrónico</string>
     <string name="delete_message_event">¿Eliminar esta invitación?</string>
     <string name="deleted">Eliminado</string>
     <string name="device_activity_btn_str">Activar</string>
@@ -458,6 +486,7 @@
     <string name="dialog_system_auto_sync_account_no_open">Activar sincronización de la cuenta para recibir correos automáticamente</string>
     <string name="dialog_system_auto_sync_master_no_open">Activar sincronización para recibir correos automáticamente</string>
     <string name="disable_admin_warning">"ADVERTENCIA: Al desactivar la autorización de la aplicación de Correo electrónico para administrar su dispositivo se eliminarán todas las cuentas de correo electrónico que la requieran, junto con sus mensajes, contactos, eventos y otros datos."</string>
+    <string name="disallow_qq_auth_how_get_auth_code">¿Cómo obtengo un código de autorización?</string>
     <string name="discard_drafts">Descartar borradores</string>
     <string name="dismiss_tip_hover_text">Descartar consejo</string>
     <string name="disturb_switch">No molestar</string>
@@ -509,6 +538,18 @@
     <string name="eras_bc">a.C</string>
     <string name="error">Error</string>
     <string name="error_icon_content_description">Error</string>
+    <string name="error_message_account_or_password">El ID de cuenta o la contraseña son incorrectos.</string>
+    <string name="error_message_auth_error">Utilice un código de verificación para iniciar sesión.</string>
+    <string name="error_message_blacklist">Su cuenta ha sido agregada a la lista de bloqueo. Comuníquese con su proveedor de servicios de correo electrónico para resolver este problema.</string>
+    <string name="error_message_imap_or_pop3_service_not_open">Activa IMAP o POP3 y vuelva a intentarlo.</string>
+    <string name="error_message_imap_service_not_open">Activa IMAP e inténtalo de nuevo.</string>
+    <string name="error_message_outlook_error">Verifique su identidad en la versión web de Outlook primero.</string>
+    <string name="error_message_respond_revert_03">"Este nombre de dominio no existe. Verifique la URL y vuelva a intentarlo."</string>
+    <string name="error_message_respond_revert_06">La contraseña que ha ingresado es incorrecta.</string>
+    <string name="error_message_respond_revert_07">"No se pudo verificar tu identidad. Utilice un código de verificación para iniciar sesión."</string>
+    <string name="error_message_respond_revert_16">Tu contraseña ha expirado. Actualice su contraseña e inicie sesión nuevamente.</string>
+    <string name="error_message_respond_revert_21">Activa POP3 e inténtalo de nuevo.</string>
+    <string name="error_message_respond_revert_25">Verifique su conexión de red y vuelva a intentarlo.</string>
     <string name="evening">Tarde</string>
     <string name="exception_cancel">"
         Este evento se ha cancelado
@@ -579,6 +620,7 @@
     <string name="folder_list_current_account">Cuenta actual</string>
     <string name="folder_list_display_all">Mostrar todas las carpetas</string>
     <string name="folder_list_display_only_import">Solo mostrar carpetas importantes</string>
+    <string name="folder_list_switch_account">Cambiar</string>
     <string name="folder_no_mails">Sin correo</string>
     <string name="folder_notification_setting_tip">Tiene varias carpetas en su bandeja de entrada. Configure notificaciones sobre mensajes nuevos en carpetas específicas.</string>
     <string name="folder_picker_title">Seleccionar carpetas</string>
@@ -631,6 +673,7 @@
     <string name="from_heading">"De: "</string>
     <string name="general_preference_confirm_delete_label">Confirmar antes de eliminar</string>
     <string name="general_preference_confirm_send_label">Confirmar antes de enviar</string>
+    <string name="general_preference_delete_message_prompt_title">Preguntar antes de eliminar</string>
     <string name="general_preference_load_picture">Cargar imágenes online</string>
     <string name="general_preference_str_auto_translation">Traducción rápida</string>
     <string name="general_preference_str_auto_translation_prompt">Copiar texto para ver la traducción</string>
@@ -690,7 +733,8 @@
     <string name="installation_failed">Instalación fallida.</string>
     <string name="installing_module">Instalando módulo:</string>
     <string name="interact_with_server_error">"No se pudo conectar con el servidor"</string>
-    <string name="invalid_recipient">La dirección %s no es válida.</string>
+    <string name="invalid_recipient_dialog_message">Introduzca una dirección de correo electrónico de destinatario válida</string>
+    <string name="invalid_recipient_dialog_title">"No se pudo enviar"</string>
     <string name="invalid_recipient_title">Error de destinatario</string>
     <string name="invoice_card_amount">Monto</string>
     <string name="invoice_card_buyer">Consignatario</string>
@@ -854,6 +898,7 @@ Declinado:
     <string name="message_invite_tentative">Quizás</string>
     <string name="message_saved">Mensaje guardado como borrador.</string>
     <string name="message_view_attachment_background_load">Los documentos adjuntos en el mensaje serán descargados antes de enviarse.</string>
+    <string name="mi_slide_menu">Barra lateral</string>
     <string name="mibill_privacy_policy_button1">Más tarde</string>
     <string name="mibill_privacy_policy_button2">De acuerdo</string>
     <string name="mibill_privacy_policy_description">Permitir que el Monedero Mi analice y gestione sus facturas automáticamente. Esta función está desactivada por defecto para las direcciones de correo relacionadas con el trabajo.</string>
@@ -861,6 +906,8 @@ Declinado:
     <string name="mibill_privacy_policy_title">Gestionar facturas automáticamente</string>
     <string name="midnight">Noche</string>
     <string name="min_payment_text">Pago mínimo</string>
+    <string name="miuix_access_state_desc">Seleccionado</string>
+    <string name="miuix_alphabet_indexer_name">Barra de índice</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleccionar todo</string>
     <string name="miuix_appcompat_action_mode_title_empty">Seleccionar elementos</string>
@@ -875,6 +922,8 @@ Declinado:
     <string name="miuix_appcompat_select_all">Seleccionar todo</string>
     <string name="miuix_appcompat_select_all_description">Seleccionar todo</string>
     <string name="miuix_appcompat_select_item">Seleccionar elementos</string>
+    <string name="miuix_indexer_collect">Colecciones</string>
+    <string name="miuix_indexer_selected">Seleccionado %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Desliza hacia abajo para actualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado con éxito</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualizando…</string>
@@ -1025,6 +1074,7 @@ Intente cambiando a una cuenta de correo electrónico diferente."</string>
     <string name="ntes_send_to_content">Si tu número de teléfono actual está asociado con la cuenta, pulsa sobre \"Enviar SMS\".</string>
     <string name="ntes_verification_code">Introducir código: %s</string>
     <string name="oauth_error_description">"No se pudo autenticar"</string>
+    <string name="oauth_find_browser_error_description">Instale un navegador antes de iniciar sesión</string>
     <string name="oauth_gmail_login_notify">Introduzca su usuario y contraseña de su cuenta de Google en la siguiente pantalla de inicio de sesión.</string>
     <string name="oauth_login_continue">Continuar</string>
     <string name="oauth_login_continue_qq">Obtenga un código de acceso e inicie sesión en &gt;</string>
@@ -1035,6 +1085,7 @@ Intente cambiando a una cuenta de correo electrónico diferente."</string>
     <string name="one_month">1 mes</string>
     <string name="one_week">1 semana</string>
     <string name="open_calendar_and_contacts_permission">Permitir a Correo acceder a la información de calendario y contactos en Ajustes</string>
+    <string name="open_custom_folder">Mostrar subcarpetas</string>
     <string name="open_external_storage_and_calendar_permission">Permitir a Correo acceder a la información de calendario y almacenamiento en Ajustes</string>
     <string name="open_external_storage_and_contacts_and_calendar_permission">Permitir a Correo acceder al almacenamiento, contactos e información de calendario en Ajustes</string>
     <string name="open_external_storage_and_contacts_permission">Permitir a Correo acceder al almacenamiento y contactos en Ajustes</string>
@@ -1091,9 +1142,12 @@ Intente cambiando a una cuenta de correo electrónico diferente."</string>
     <string name="pdf_save_error">"No se puede convertir a PDF. Este mensaje es demasiado largo."</string>
     <string name="pdf_save_no_body">Espere hasta que el mensaje esté completamente cargado antes de convertir a PDF</string>
     <string name="pdf_save_to">"Guardado en "</string>
+    <string name="pdf_signature_add">Agregar una nueva firma</string>
     <string name="pdf_signature_create_title">Dibuja tu firma</string>
+    <string name="pdf_signature_delete">Eliminar firma</string>
     <string name="pdf_signature_manager_max_count">"No se pueden agregar más firmas. Elimine firmas antiguas para agregar nuevas."</string>
     <string name="pdf_signature_manager_title">Gestionar firmas</string>
+    <string name="pdf_signature_select">Seleccionar firma</string>
     <string name="pdf_viewer_actionbar_more_other">Otras aplicaciones</string>
     <string name="pdf_viewer_actionbar_more_wps">Abrir en WPS</string>
     <string name="pdf_viewer_file_damage_toast">El archivo PDF está dañado. Verifique este archivo y vuelva a intentarlo.</string>
@@ -1159,6 +1213,7 @@ para recibir recordatorios de pagos y viajes"</string>
     <string name="print">Imprimir</string>
     <string name="print_scheduler_title">Imprimir todos los programadores</string>
     <string name="privacy_and_help">Privacidad y ayuda</string>
+    <string name="privacy_and_private_permission">Consentimiento para el Acuerdo de usuario y la Política de privacidad</string>
     <string name="privacy_des">"Los registros contienen información de depuración del correo electrónico del cliente y su dispositivo. Esta información se utiliza para localizar problemas más rápido. Pulsando \"%1$s\" estás aceptando nuestra \"%2$s\"."</string>
     <string name="privacy_policy">Política de Privacidad</string>
     <string name="privacy_setting_agree">Aceptar</string>
@@ -1253,6 +1308,7 @@ Espera hasta que esté completamente sincronizado o mira el mensaje en tu ordena
     <string name="request_entity_large">El archivo es demasiado grande</string>
     <string name="request_permission_activity">Permisos requeridos</string>
     <string name="respond_inline">"   Responder entre líneas"</string>
+    <string name="respond_inline_text">Editar correo electrónico original</string>
     <string name="retry">Reintentar</string>
     <string name="retry_login">Volver a iniciar sesión</string>
     <string name="saturday">Sábado</string>
@@ -1282,6 +1338,7 @@ Espera hasta que esté completamente sincronizado o mira el mensaje en tu ordena
     <string name="select_attachment_type">Elegir adjunto de</string>
     <string name="select_no_file">No se han seleccionado adjuntos</string>
     <string name="select_path">Seleccionar ruta</string>
+    <string name="selected">seleccionado</string>
     <string name="send">Enviar</string>
     <string name="send_encrypt_dialog_fail_content">"Parece que el destinatario no posee el certificado de confianza requerido para encriptar este correo electrónico. ¿Enviar un correo electrónico en su lugar?"</string>
     <string name="send_encrypt_dialog_fail_title">"No se puede enviar un correo electrónico encriptado"</string>
@@ -1340,6 +1397,7 @@ Espera hasta que esté completamente sincronizado o mira el mensaje en tu ordena
     <string name="show_images_all">Cargar y mostrar todas las imágenes</string>
     <string name="show_password">Mostrar contraseña</string>
     <string name="show_server_cet">Ver certificado</string>
+    <string name="shrink">Contraer</string>
     <string name="sign_in_dialog_outlook_enterprise">Outlook para empresas (sin calendario)</string>
     <string name="sign_in_dialog_outlook_exchange">EXCHANGE (con calendario)</string>
     <string name="sign_in_dialog_outlook_imap">IMAP (sin calendario)</string>
@@ -1520,6 +1578,7 @@ Espera hasta que esté completamente sincronizado o mira el mensaje en tu ordena
     <string name="undo">Deshacer</string>
     <string name="unknow">Desconocido</string>
     <string name="unread_string">conversación sin leer</string>
+    <string name="unselected">Deseleccionado</string>
     <string name="unzip_file_failed">"No se pudo descomprimir el archivo"</string>
     <string name="update_domain_summary">Actualizar la lista de dominios disponibles y configuraciones</string>
     <string name="update_domain_title">Actualizar los ajustes del dominio</string>
@@ -1553,7 +1612,7 @@ Pulse \"<b>Sincronizar ahora</b> para sincronizar el correo una vez, o <b>Cambia
     <string name="wait_for_sync_title">Esperando sincronización</string>
     <string name="wait_help_context">esperar</string>
     <string name="wait_while_update_db">Actualizando base de datos…</string>
-    <string name="web_view_load_error_tip">"El cuerpo de este correo electrónico no se pudo mostrar correctamente. Infórmanos de este problema a nuestro grupo QQ (952315061)."</string>
+    <string name="web_view_load_error_tip">Su navegador se ha bloqueado. Descargue la última versión de Webview de Google Play para ayudar a resolver este problema.</string>
     <string name="webview_logout">Puede volver a intentar iniciar la sesión</string>
     <string name="webview_logout_cancel">Ahora no</string>
     <string name="webview_logout_sure">Inténtelo de nuevo</string>

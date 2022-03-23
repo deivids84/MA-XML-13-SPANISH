@@ -307,7 +307,7 @@ no se generan en el segundo espacio"</string>
     <string name="hsv_space_color_saturation">Saturación</string>
     <string name="hsv_space_color_value">Valor</string>
     <string name="intelligent_radio_btn_summary">Ajuste la frecuencia de actualización de forma dinámica según los escenarios para equilibrar el rendimiento con el consumo de energía</string>
-    <string name="intelligent_radio_btn_title">Auto (recomendado)</string>
+    <string name="intelligent_radio_btn_title">Por defecto (recomendado)</string>
     <string name="intelligent_recognition_item_summary">Usa un tono designado para las llamadas de taxis y servicios de reparto. Esta función funcionará cuando %s sea establecido como tu tono por defecto.</string>
     <string name="intelligent_recognition_item_title">Identificar servicios</string>
     <string name="item_anura">Anura</string>
@@ -374,6 +374,7 @@ no se generan en el segundo espacio"</string>
     <string name="miuix_appcompat_select_all">Seleccionar todo</string>
     <string name="miuix_appcompat_select_all_description">Seleccionar todo</string>
     <string name="miuix_appcompat_select_item">Seleccionar elementos</string>
+    <string name="miuix_indexer_collect">Colecciones</string>
     <string name="miuix_indexer_selected">Seleccionado %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Desliza hacia abajo para actualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado con éxito</string>

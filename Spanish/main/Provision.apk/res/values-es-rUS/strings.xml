@@ -56,6 +56,7 @@
     <string name="back">Anterior</string>
     <string name="backup_introduction">Puedes usar esta aplicación para hacer una copia de seguridad y restaurar elementos en su dispositivo.</string>
     <string name="bluetooth_introduction">El sistema utiliza Bluetooth para la comunicación inalámbrica. Para poder funcionar con normalidad, Bluetooth necesita los siguientes permisos:</string>
+    <string name="bluetooth_usage_desc">La configuración inicial le permite establecer sus preferencias básicas para este dispositivo. Para configurar correctamente su dispositivo, los servicios del sistema Bluetooth utilizarán los siguientes permisos:</string>
     <string name="boot_video_replay">Volver a reproducir</string>
     <string name="boot_video_skip">Saltar</string>
     <string name="calculator_introduction">Puede usar esta aplicación para realizar cálculos, convertir unidades y divisas, y estimar sus pagos de hipoteca.</string>
@@ -111,6 +112,7 @@
     <string name="enable_accessibility_dialog_message">Activó TalkBack al tocar la pantalla con dos dedos por más de 10 segundos. TalkBack provee comentarios de voz de personas con discapacidad visual. Si lo activó por accidente, toque el botón Cancelar y luego doble toque en la pantalla.</string>
     <string name="enable_accessibility_dialog_negative_btn">Cancelar</string>
     <string name="enable_accessibility_dialog_positive_btn">Aceptar</string>
+    <string name="enable_or_disable_bluetooth">Activar y desactivar Bluetooth</string>
     <string name="eras_ad">DC</string>
     <string name="eras_bc">AC</string>
     <string name="evening">Tarde</string>
@@ -169,6 +171,7 @@
     <string name="mint_keyboard_oobe_checkbox">"He leído y acepto la Política de Privacidad del Teclado Mint"</string>
     <string name="mint_keyboard_oobe_terms">Política de Privacidad del Teclado Mint</string>
     <string name="miui_privacy_policy_no_network">"No tiene una conexión a Internet. Vea la Política de privacidad en %s."</string>
+    <string name="miui_provision">Configuración inicial</string>
     <string name="miui_terms_no_network">"No tiene conexión a internet. Vea el Acuerdo de Usuario en %s."</string>
     <string name="miuix_access_state_desc">Seleccionado</string>
     <string name="miuix_alphabet_indexer_name">Barra de índice</string>
@@ -312,6 +315,7 @@ Puede controlar esta función desde Configuración &gt; Contraseñas &amp; Segur
     <string name="permission_direct_call">Hacer llamadas</string>
     <string name="permission_direct_call_introduction">Para agregar elementos a la lista de bloqueo</string>
     <string name="permission_download_introduction">Para almacenar temporalmente elementos y guardarlos en su dispositivo</string>
+    <string name="permission_enable_disable_bluetooth_summary">Para encontrar dispositivos cercanos para conectarse y transferir datos</string>
     <string name="permission_fast_pairing">Para poder encontrar dispositivos cercanos, Mi Link necesita conectarse a Internet y requiere los siguientes permisos:</string>
     <string name="permission_imei_service">Para acceder al IMEI y proporcionar servicios asociados con su dispositivo</string>
     <string name="permission_interaction_introduction">Para guardar fotos y videos en el dispositivo</string>

@@ -140,6 +140,32 @@
         <item>El mes que viene</item>
         <item>Elegir fecha</item>
     </string-array>
+    <string-array name="error_message_respond">
+        <item>INICIAR SESIÓN Error de inicio de sesión o error de contraseña</item>
+        <item>INICIAR SESIÓN Error de inicio de sesión error de contraseña</item>
+        <item>ERR.LOGIN.DOMAINNOTEXIST</item>
+        <item>Utilice el código autorizado para iniciar sesión. Más información en https://service.mail.qq.com/cgi-bin/help?subtype=1&amp;&amp;no = 1001607&amp;&amp;id = 28</item>
+        <item>INICIAR SESIÓN Error de inicio de sesión usuario suspendido</item>
+        <item>LOGIN errno:1423, error de contraseña de usuario (sp return:2200019)</item>
+        <item>AUTENTICACIÓN INICIO DE SESIÓN FALLIDA Credenciales inválidas</item>
+        <item>Error de inicio de sesión. La contraseña es incorrecta o el servicio no está abierto</item>
+        <item>INICIAR SESIÓN imap4 nosupport</item>
+        <item>LOGIN errno:1328, imap personalizado desactivado</item>
+        <item>INICIAR SESIÓN Error de inicio de sesión usuario suspendido</item>
+        <item>INICIAR SESIÓN usuario en lista negra</item>
+        <item>Error de inicio de sesión. La cuenta está bloqueada. Inicie sesión en su cuenta a través de un navegador web para verificar su identidad.</item>
+        <item>INICIAR SESIÓN usuario en lista negra</item>
+        <item>LOGIN errno:1412 status=51 La contraseña no se cambia durante mucho tiempo. Modifique la contraseña. http://mail.10086.cn</item>
+        <item>INICIAR SESIÓN imap4 nosupport</item>
+        <item>Error de inicio de sesión. La cuenta está bloqueada. Inicie sesión en su cuenta a través de un navegador web para verificar su identidad.</item>
+        <item>ERR Usuario o contraseña de inicio de sesión no válidos</item>
+        <item>Error de inicio de sesión. Utilice la contraseña de la aplicación para iniciar sesión. Más información en http://service.exmail.qq.com/cgi-bin/help?subtype=1&amp;&amp;id=10000&amp;&amp;no=1001494</item>
+        <item>ERR pop3 personalizado desactivado</item>
+        <item>LOGIN Error de inicio de sesión error de nombre de usuario o contraseña</item>
+        <item>Nombre de usuario o contraseña inválidos</item>
+        <item>ip XXXXXXX en la lista negra, cambie su red o inicie sesión en https://mail.sohu.com para configurar la lista blanca de ip del cliente</item>
+        <item>java.net.UnknownHostException: No se puede resolver el host XXXX : Ninguna dirección asociada con el nombre de host</item>
+    </string-array>
     <string-array name="general_preference_text_zoom_summary_array">
         <item>Diminuto</item>
         <item>Pequeño</item>

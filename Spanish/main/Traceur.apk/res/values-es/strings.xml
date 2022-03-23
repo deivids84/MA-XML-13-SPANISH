@@ -604,6 +604,7 @@ Selección"</string>
     <string name="speed_label_very_fast">Muy rápida</string>
     <string name="speed_label_very_slow">Muy lenta</string>
     <string name="standby_bucket_summary">Estado de la aplicación en espera:  %s</string>
+    <string name="start_new_trace">Iniciar nuevo seguimiento</string>
     <string name="status_unavailable">No disponible</string>
     <string name="stop_on_bugreport">Detener el seguimiento de informes de errores</string>
     <string name="stop_on_bugreport_summary">Finaliza las grabaciones de trazas activas cuando se inicia un informe de error</string>

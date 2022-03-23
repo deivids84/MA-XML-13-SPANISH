@@ -163,6 +163,7 @@
     <string name="accessibility_keyguard_face_unlock_view">Desbloqueo facial</string>
     <string name="accessibility_left_control_center_button">Acceso directo</string>
     <string name="accessibility_left_lock_screen_magazine_button">Carrusel de fondos de pantalla</string>
+    <string name="accessibility_left_xmyzl_button">Control Mágico de Xiaomi</string>
     <string name="accessibility_location_active">Solicitudes de ubicación activas</string>
     <string name="accessibility_lock_icon">Dispositivo bloqueado</string>
     <string name="accessibility_long_click_tile">Abrir ajustes</string>
@@ -427,7 +428,6 @@ Si este permiso está desactivado, las alarmas existentes y los eventos basados 
     <string name="battery_low_percent_format_saver_started">Queda un %s de batería. Se ha activado el modo Ahorro de batería.</string>
     <string name="battery_low_title">Es posible que te quedes sin batería pronto</string>
     <string name="battery_low_why">Ajustes</string>
-    <string name="battery_meter_very_low_overlay_symbol">！</string>
     <string name="battery_panel_title">Uso de la batería</string>
     <string name="battery_saver_confirmation_ok">Activar</string>
     <string name="battery_saver_confirmation_title">¿Activar Ahorro de batería?</string>
@@ -847,6 +847,7 @@ Si vuelves a activar el uso de datos, es posible que se apliquen cargos."</strin
     <string name="face_unlock_fail">"No se pudo verificar el rostro"</string>
     <string name="face_unlock_fail_retry">"No se pudo verificar tu rostro. Pulsa arriba para volver a intentarlo."</string>
     <string name="face_unlock_fail_retry_global">Pulsa arriba para usar el desbloqueo facial</string>
+    <string name="face_unlock_locked">"No se puede usar el desbloqueo facial ahora"</string>
     <string name="face_unlock_not_found">"No se pudo reconocerte"</string>
     <string name="face_unlock_open_eye">Abre los ojos un poco más</string>
     <string name="face_unlock_password_and_fingerprint">Introducir contraseña o usar huella dactilar para desbloquear</string>
@@ -920,6 +921,7 @@ Introduzca su PIN para desbloquear."</string>
     <string name="fs_gesture_back_ready_title">Volver</string>
     <string name="fs_gesture_final_over">"He terminado"</string>
     <string name="fs_gesture_final_restart">Una vez más</string>
+    <string name="fs_gesture_final_see_more">Ver más demos en Configuración &gt; Pantalla de inicio &gt; Navegación del sistema</string>
     <string name="fs_gesture_final_summary">Puede volver a usar los botones en la Configuración &gt; Pantalla completa</string>
     <string name="fs_gesture_final_title">"¡Listo para disfrutar!​"</string>
     <string name="fs_gesture_finish">¡Genial!</string>
@@ -930,6 +932,7 @@ Introduzca su PIN para desbloquear."</string>
     <string name="fsg_demo_back">Atrás</string>
     <string name="fsg_demo_go_on">Aprender</string>
     <string name="game_status">Reproduciendo</string>
+    <string name="garbage_count">Hay %1$s instancias antiguas</string>
     <string name="global_action_lock_message">Desbloquea el teléfono para ver más opciones</string>
     <string name="global_action_screenshot">Captura de pantalla</string>
     <string name="go_to_web">Ir al navegador</string>
@@ -973,7 +976,6 @@ Introduzca su PIN para desbloquear."</string>
     <string name="gxzw_quick_open_title">Acceso directo al menú abierto</string>
     <string name="gxzw_quick_open_wechat_pay">Código de pago</string>
     <string name="gxzw_quick_open_wechat_scan">Escáner</string>
-    <string name="gxzw_quick_open_xiaoai_sub">Mi IA</string>
     <string name="gxzw_quick_open_xiaoai_title1">Di el nombre de la aplicación que quieres abrir</string>
     <string name="gxzw_quick_open_xiaoai_title2">Di el nombre de la función que quieres usar</string>
     <string name="gxzw_quick_tip_press">Sigue presionando…</string>
@@ -1051,11 +1053,15 @@ Una vez que se haya enfriado, funcionará con normalidad."</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_superpower_active">"No se puede cambiar entre espacios cuando el Ahorro de batería extremo está activado"</string>
     <string name="input_password_after_boot_msg_must_enter_owner_space">Es necesario entrar al Primer espacio después de haber reiniciado el dispositivo</string>
     <string name="input_password_hint_text">Introducir contraseña</string>
-    <string name="input_pattern_after_boot_msg">Es necesario confirmar su patrón cuando el dispositivo se reinicia</string>
+    <string name="input_pattern_after_boot_msg">Se requiere dibujar su patrón cuando el dispositivo se reinicia</string>
+    <string name="input_pattern_after_face_not_allowed">Ingrese su contraseña al menos una vez cada %d horas para mantener este dispositivo seguro</string>
+    <string name="input_pattern_after_restart_msg">Confirma tu bloqueo de pantalla para continuar</string>
     <string name="input_pattern_hint_text">Dibuja tu patrón de desbloqueo</string>
-    <string name="input_pin_after_boot_msg">Se requiere la confirmación de su PIN cuando el dispositivo se reinicia</string>
+    <string name="input_pattern_or_finger_after_face_not_allowed">Ingrese su contraseña o use la huella digital al menos una vez cada %d horas para mantener este dispositivo seguro</string>
+    <string name="input_pin_after_boot_msg">Se requiere ingresar su PIN cuando el dispositivo se reinicia</string>
     <string name="input_pin_code">Introduce PIN</string>
     <string name="input_puk_code">Introduce el PUK</string>
+    <string name="input_second_pattern_after_restart_msg">Confirme la contraseña del segundo espacio para continuar</string>
     <string name="install_other_apps">Instalar aplicaciones desconocidas</string>
     <string name="installer_cd_button_title">Instalar Android File Transfer para Mac</string>
     <string name="instant_apps">Aplicaciones Instantáneas</string>
@@ -1248,8 +1254,6 @@ Vuelve a intentarlo dentro de %2$d segundos."</string>
     <string name="label_view">Ver</string>
     <string name="launch_defaults_none">Sin ajustes predefinidos</string>
     <string name="launch_defaults_some">Algunos ajustes predefinidos</string>
-    <string name="lb_control_display_fast_forward_multiplier">%1$dx</string>
-    <string name="lb_control_display_rewind_multiplier">%1$dx</string>
     <string name="lb_guidedaction_continue_title">Continuar</string>
     <string name="lb_guidedaction_finish_title">Finalizar</string>
     <string name="lb_media_player_error">Código de error de MediaPlayer %1$d extra %2$d</string>
@@ -1370,6 +1374,7 @@ d MMMM"</string>
     <string name="media_transfer_wired_device_name">Dispositivo de audio con cable</string>
     <string name="media_transfer_wired_usb_device_name">Auriculares con cable</string>
     <string name="megabyte_per_second">MB/s</string>
+    <string name="memory_leak">Pérdida de memoria</string>
     <string name="menu_ime">Cambio de teclado</string>
     <string name="mic_active">Micrófono activado</string>
     <string name="mic_and_camera_recording_announcement">La cámara y el micrófono están grabando</string>
@@ -1380,6 +1385,10 @@ d MMMM"</string>
     <string name="missed_call">Llamada perdida</string>
     <string name="miui_clock_city_name_local">Local</string>
     <string name="miui_clock_city_name_second">Segundo reloj</string>
+    <string name="miui_keyboard_shortcut_click">Presione</string>
+    <string name="miui_keyboard_shortcut_double_click">Doble pulsación</string>
+    <string name="miui_keyboard_shortcut_system_dock">Mostrar base de aplicaciones</string>
+    <string name="miui_keyboard_shortcut_system_quickly_recent">Cambiar entre aplicaciones recientes</string>
     <string name="miui_keyguard_ble_unlock_succeed_msg">Desbloqueado por un dispositivo Bluetooth</string>
     <string name="miui_lock_screen_date">EEEE dd/MM</string>
     <string name="miui_lock_screen_date_12">EEEE dd/MM</string>
@@ -1403,6 +1412,7 @@ dd/MM"</string>
     <string name="miui_notification_menu_snooze">Posponer</string>
     <string name="miui_notification_menu_title_not_allow">Restringir</string>
     <string name="miui_notification_menu_unfold">Marcar como importante</string>
+    <string name="miui_quick_settings_tiles_stock_pad">vowifi1,vowifi2,cell,wifi,rotation,airplane,mute,screenshot,bt,autobrightness,screenlock,night,papermode,quietmode,batterysaver,extremebatterysaver,gps,flashlight,scanner,powermode,freeformhang,vibrate,hotspot,sync,screenbutton,wirelesspower,nfc,dolbyatomssound,pcmode,edit ,drivemode,workmode</string>
     <string name="miui_screen_rotation_freeze_message">Orientación de la pantalla bloqueada en el modo paisaje</string>
     <string name="miui_snooze_always_float">"No ocultar"</string>
     <string name="miui_snooze_cancel">Cancelar</string>
@@ -1430,6 +1440,7 @@ dd/MM"</string>
     <string name="miuix_appcompat_select_all">Seleccionar todo</string>
     <string name="miuix_appcompat_select_all_description">Seleccionar todo</string>
     <string name="miuix_appcompat_select_item">Seleccionar elementos</string>
+    <string name="miuix_indexer_collect">Colecciones</string>
     <string name="miuix_indexer_selected">Seleccionado %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Desliza hacia abajo para actualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado con éxito</string>
@@ -1439,14 +1450,12 @@ dd/MM"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">"Eso es todo por ahora"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Un momento…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"No se pudo cargar los elementos"</string>
-    <string name="mland">Tierra de malvaviscos</string>
     <string name="mobile_data">Datos móviles</string>
     <string name="mobile_data_always_on">Mantener siempre datos móviles activados</string>
     <string name="mobile_data_always_on_summary">Mantener siempre activos los datos móviles, también cuando el Wi-Fi esté activo (para cambio rápido de red).</string>
     <string name="mobile_data_disable_message">No tendrá acceso a los datos ni a Internet a través de %s. Internet solo estará disponible a través de Wi-Fi.</string>
     <string name="mobile_data_disable_message_default_carrier">tu operador</string>
     <string name="mobile_data_disable_title">¿Desactivar datos móviles?</string>
-    <string name="mobile_data_text_format">%1$s ‑ %2$s</string>
     <string name="mock_location_app">Seleccionar aplicación para localización ficticia</string>
     <string name="mock_location_app_not_set">No hay aplicación de localización ficticia definida</string>
     <string name="mock_location_app_set">Aplicación de localización ficticia: %1$s</string>
@@ -1674,10 +1683,8 @@ Si tiene preguntas, comuníquese con %2$s."</string>
     <string name="notification_disclosure_vpn_text">Vía %1$s</string>
     <string name="notification_done">Listo</string>
     <string name="notification_group_collapse_button_text">Doblar</string>
-    <string name="notification_group_overflow_indicator">%s más</string>
     <string name="notification_header_default_channel">Notificaciones</string>
     <string name="notification_hidden_text">Tiene un nuevo mensaje</string>
-    <string name="notification_menu_accessibility">%2$s de %1$s</string>
     <string name="notification_menu_gear_description">Controles de las notificaciones</string>
     <string name="notification_menu_settings_action">Ajustes</string>
     <string name="notification_menu_snooze_action">Recordar</string>
@@ -1713,6 +1720,7 @@ Si tiene preguntas, comuníquese con %2$s."</string>
     <string name="open_lock_screen_magazine_hint_text">Desliza a la derecha para más opciones</string>
     <string name="open_remote_center_hint_text">Desliza a la derecha para ver los controles</string>
     <string name="open_saver_setting_action">Ajustes</string>
+    <string name="open_xmyzl_hint_text">Desliza hacia la derecha para abrir Xiaomi Magic Control</string>
     <string name="orb_search_action">Buscar acción</string>
     <string name="osu_completing_sign_up">Completando el registro…</string>
     <string name="osu_connect_failed">No se puede conectar</string>
@@ -1749,6 +1757,8 @@ Si tiene preguntas, comuníquese con %2$s."</string>
     <string name="phone_locked_forget_password_suggesstion_two_content">&lt;Data&gt;Selecciona &lt;font color=#a5220e&gt;\"Limpiar y Restablecer\"&lt;/font&gt; y espera hasta que el dispositivo se reinicie.;&lt;/Data&gt;</string>
     <string name="phone_locked_forget_password_suggesstions_title">¿Cómo borrar los datos?</string>
     <string name="phone_locked_string">Este dispositivo está bloqueado</string>
+    <string name="phone_locked_string_owner_user">Demasiados intentos fallidos para ingresar la contraseña del primer espacio. Este dispositivo está bloqueado ahora.</string>
+    <string name="phone_locked_string_second_user">Demasiados intentos fallidos para ingresar la contraseña del segundo espacio. Este dispositivo está bloqueado ahora.</string>
     <string name="picture_color_mode">Modo color de imagen</string>
     <string name="picture_color_mode_desc">Usar sRGB</string>
     <string name="pip_close">Cerrar PIP</string>
@@ -1822,9 +1832,12 @@ Si tiene preguntas, comuníquese con %2$s."</string>
     <string name="pref_show_lunar_calendar_title">Mostrar el calendario tradicional chino en la Pantalla de bloqueo</string>
     <string name="preference_copied">\"%1$s\" se ha copiado en el portapapeles.</string>
     <string name="priority_conversations">Conversaciones prioritarias</string>
+    <string name="privacy_dialog_title">Notificaciones sobre acciones sensibles</string>
+    <string name="privacy_recent_used_title">Reciente</string>
     <string name="privacy_type_camera">cámara</string>
     <string name="privacy_type_location">ubicación</string>
     <string name="privacy_type_microphone">micrófono</string>
+    <string name="privacy_using_title">Actual</string>
     <string name="private_dns_broken">No se puede acceder al servidor DNS privado</string>
     <string name="private_dns_mode_off">Desactivado</string>
     <string name="private_dns_mode_opportunistic">Automático</string>
@@ -1866,6 +1879,9 @@ Si tiene preguntas, comuníquese con %2$s."</string>
     <string name="qs_rearrange">Reorganizar ajustes rápidos</string>
     <string name="qs_status_phone_muted">Teléfono silenciado</string>
     <string name="qs_status_phone_vibrate">Teléfono en vibración</string>
+    <string name="qs_traffic_message_type_exceed">%1$s %2$s por encima del límite</string>
+    <string name="qs_traffic_message_type_remain">%1$s %2$s restante</string>
+    <string name="qs_traffic_message_type_used">Usado %1$s %2$s</string>
     <string name="quick_controls_title">Control de dispositivos</string>
     <string name="quick_settings">Ajustes rápidos</string>
     <string name="quick_settings_autobrightness_label">Brillo automático</string>
@@ -2021,6 +2037,9 @@ Si tiene preguntas, comuníquese con %2$s."</string>
     <string name="reboot_info_auto_boot_global">Próxima alarma: %s</string>
     <string name="reboot_info_shutdown_alarm_global">Apagado de alarma: %s</string>
     <string name="recent_conversations">Conversaciones recientes</string>
+    <string name="recent_used_camera">Esta aplicación usó la cámara</string>
+    <string name="recent_used_camera_and_microphone">Esta aplicación grabó audio y usó la cámara</string>
+    <string name="recent_used_microphone">Esta aplicación grabó audio</string>
     <string name="remaining_length_format">%1$s restante</string>
     <string name="remote_input_image_insertion_text">ha enviado una imagen</string>
     <string name="remove_from_settings">Quitar de Ajustes</string>
@@ -2219,7 +2238,7 @@ puede supervisar"</string>
     <string name="status_bar_clock_date_format">E, d MMM</string>
     <string name="status_bar_clock_date_format_12">E, d MMM</string>
     <string name="status_bar_clock_date_time_format">H:mm E, d MMM</string>
-    <string name="status_bar_clock_date_time_format_12">h:mm aa, E, d MMM</string>
+    <string name="status_bar_clock_date_time_format_12">h:mm a, E, d MMM</string>
     <string name="status_bar_clock_date_weekday_format">EEEE, dd MMMM</string>
     <string name="status_bar_clock_date_weekday_format_12">EEEE, dd MMMM</string>
     <string name="status_bar_date_format">"E
@@ -2342,6 +2361,10 @@ Puede calentarse demasiado si:
     <string name="torch_high_temperature_warning">"Tu dispositivo está sobrecalentado. Ahora no se puede usar la linterna."</string>
     <string name="touch_filtered_warning">Una aplicación impide ver una solicitud de permiso, por lo que Ajustes no puede verificar tu respuesta.</string>
     <string name="track_frame_time">Perfil de renderización HWUI</string>
+    <string name="traffic_unit_byte">B</string>
+    <string name="traffic_unit_gigabyte">GB</string>
+    <string name="traffic_unit_kilobyte">KB</string>
+    <string name="traffic_unit_megabyte">MB</string>
     <string name="transcode_default">Suponga que las aplicaciones admiten formatos modernos</string>
     <string name="transcode_disable_cache">Deshabilitar la caché de transcodificación</string>
     <string name="transcode_enable_all">Habilitar la transcodificación</string>
@@ -2480,6 +2503,9 @@ Cualquier usuario puede actualizar las aplicaciones del resto de usuarios."</str
     <string name="user_setup_dialog_title">¿Configurar usuario ahora?</string>
     <string name="user_setup_profile_dialog_message">¿Configurar perfil ahora?</string>
     <string name="user_switch_to_user">Cambiar a %s</string>
+    <string name="using_camera">Esta aplicación está usando la cámara</string>
+    <string name="using_camera_and_microphone">Esta aplicación está grabando audio y usando la cámara</string>
+    <string name="using_microphone">Esta aplicación está grabando audio</string>
     <string name="v7_preference_off">DESACTIVADA</string>
     <string name="v7_preference_on">ACTIVADO</string>
     <string name="verify_apps_over_usb_summary">Verificar comportamiento dañino de aplicaciones instaladas vía ADB/ADT.</string>

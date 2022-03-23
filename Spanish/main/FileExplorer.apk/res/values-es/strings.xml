@@ -102,7 +102,7 @@
     <string name="category_video">Vídeos</string>
     <string name="category_wechat">WeChat</string>
     <string name="category_zip">Archivos</string>
-    <string name="cdd_message">"Debido a las restricciones de Android 11, no podrá ver algunos de los archivos generados dentro de las aplicaciones de terceros en el Administrador de Archivos."</string>
+    <string name="cdd_message">"Debido a las restricciones de Android 11, no podrá ver algunos de los archivos generados en aplicaciones de terceros en el Administrador de archivos."</string>
     <string name="cdd_title">Atención</string>
     <string name="character_counter_content_description">%1$d de %2$d carácteres ingresados</string>
     <string name="character_counter_overflowed_content_description">Límite de caracteres excedido %1$d de %2$d</string>
@@ -317,6 +317,7 @@
     <string name="instruction">Introduzca la siguiente dirección en un cliente FTP: </string>
     <string name="instruction_pre_pad">Toca para iniciar el servidor FTP</string>
     <string name="instruction_pre_phone">Toca para iniciar el servidor FTP</string>
+    <string name="internal_storage">Almacenamiento interno</string>
     <string name="item_view_role_description">Pestaña</string>
     <string name="just_now">Justo ahora</string>
     <string name="kilobyteShort">KB</string>
@@ -352,6 +353,8 @@
     <string name="mi_router_label">Router</string>
     <string name="mi_share">MiShare</string>
     <string name="midnight">Noche</string>
+    <string name="midriver_install_button_text">Instalar</string>
+    <string name="midriver_not_install_title">Mi Drive está desinstalado</string>
     <string name="midrop_msg_1">Encender Mi Drop en el otro dispositivo</string>
     <string name="midrop_msg_2">Cuando Mi Drop esté activo, puede buscar dispositivos cercanos y enviar archivos</string>
     <string name="midrop_send_files">Elegir archivos para enviar</string>
@@ -377,6 +380,8 @@
     <string name="mirror_tip_list">Lista</string>
     <string name="mirror_tip_refresh">Recargar</string>
     <string name="mirror_tip_show_type">Ordenar por</string>
+    <string name="miuix_access_state_desc">Seleccionado</string>
+    <string name="miuix_alphabet_indexer_name">Barra de índice</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleccionar todo</string>
     <string name="miuix_appcompat_action_mode_title_empty">Seleccionar elementos</string>
@@ -391,6 +396,8 @@
     <string name="miuix_appcompat_select_all">Seleccionar todo</string>
     <string name="miuix_appcompat_select_all_description">Seleccionar todo</string>
     <string name="miuix_appcompat_select_item">Seleccionar elementos</string>
+    <string name="miuix_indexer_collect">Colecciones</string>
+    <string name="miuix_indexer_selected">Seleccionado %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tire hacia abajo para actualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado con éxito</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualizando…</string>
@@ -477,6 +484,8 @@
     <string name="mtrl_picker_toggle_to_text_input_mode">Cambiar al modo de ingreso de texto</string>
     <string name="mtrl_picker_toggle_to_year_selection">Toque para cambiar a seleccionar un año</string>
     <string name="name_empty">Debes introducir un nombre.</string>
+    <string name="need_open_content">Permita que el Administrador de archivos acceda a sus fotos y archivos para usar esta función.</string>
+    <string name="need_open_permission">Permisos requeridos</string>
     <string name="need_read_storage_permission">"Gestor de archivos requiere permiso para acceder al almacenamiento del dispositivo para funcionar con normalidad."</string>
     <string name="network_not_available">"No se pudo conectar a la red"</string>
     <string name="new_folder_name">Nueva carpeta</string>
@@ -488,6 +497,7 @@
     <string name="no_enough_storage_indication">"Almacenamiento del dispositivo lleno."</string>
     <string name="no_enough_storage_title">No hay suficiente espacio</string>
     <string name="no_file">Vacío</string>
+    <string name="no_permission">Conceder los permisos necesarios para acceder a esta función</string>
     <string name="no_wifi">Sin redes Wi-Fi</string>
     <string name="noon">Mediodía</string>
     <string name="not_added_category">Disponible</string>
@@ -591,6 +601,7 @@
     <string name="qq_title">"No puedo acceder a los documentos de WeChat"</string>
     <string name="recent_hide_camera_and_screenshots">"No mostrar elementos de la Galería ni capturas de pantalla entre los archivos recientes"</string>
     <string name="refresh_success">Actualización completa</string>
+    <string name="reinstall_midriver_message">¿Volver a instalar ahora?</string>
     <string name="release_enter_private">Suelte para abrir la carpeta privada</string>
     <string name="remainder_size">Restante: %s</string>
     <string name="rename_alert">"Si cambias la extensión de este archivo podrías no poder abrirlo."</string>
@@ -765,6 +776,8 @@
     <string name="title_expire_video">A punto de expirar</string>
     <string name="title_recent">Reciente</string>
     <string name="title_select_volume">Seleccionar carpeta</string>
+    <string name="to_open">Ajustes</string>
+    <string name="to_setting">Ajustes</string>
     <string name="toast_file_not_can_read">No se ha encontrado ninguna aplicación para esta acción.</string>
     <string name="today">Hoy</string>
     <string name="tomorrow">Mañana</string>

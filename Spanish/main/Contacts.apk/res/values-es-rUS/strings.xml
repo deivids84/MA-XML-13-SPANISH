@@ -971,7 +971,7 @@ Pulsa \"%1$s\" y luego selecciona \"%2$s\"."</string>
     <string name="preference_privacy_settings_title">Privacidad</string>
     <string name="preference_remove_duplicate">Combinar contactos duplicados</string>
     <string name="preference_show_firewall_calllog">Mostrar llamadas bloqueadas en el historial de llamadas</string>
-    <string name="preference_show_yellowpage_tab_description">Páginas amarillas puede no funcionar correctamente cuando esta función está desactivada.</string>
+    <string name="preference_show_yellowpage_tab_description">"Las páginas amarillas y sus servicios no se mostrarán si desactiva esta función"</string>
     <string name="preference_show_yellowpage_tab_title">Mostrar Páginas amarillas</string>
     <string name="preference_simple_mode_title">Mostrar fotos e información</string>
     <string name="preference_smart_group_company_summary">Agrupar por compañía</string>
@@ -982,6 +982,7 @@ Pulsa \"%1$s\" y luego selecciona \"%2$s\"."</string>
     <string name="preference_smart_group_location_title">Ubicaciones</string>
     <string name="preference_smart_group_title">Grupos inteligentes</string>
     <string name="preference_tone_title">Tonos</string>
+    <string name="preference_yellowpage_function_setting">Configuración de páginas amarillas</string>
     <string name="previous">Anterior</string>
     <string name="privacy_password_message1">La contraseña de protección de privacidad sirve para fotos, notas y carpetas ocultas.</string>
     <string name="privacy_password_message2">Utilice la contraseña de protección de privacidad. Sirve para fotos, notas y carpetas ocultas.</string>

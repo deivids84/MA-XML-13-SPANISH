@@ -128,6 +128,10 @@
         <item quantity="other">Se encontraron %d grabaciones</item>
         <item quantity="one">Se encontró %d grabación</item>
     </plurals>
+    <plurals name="text_btn_list_with_message">
+        <item quantity="other">%d nuevas grabaciones</item>
+        <item quantity="one">%d nueva grabación</item>
+    </plurals>
     <plurals name="time_left_for_clear_file">
         <item quantity="other">%d días restantes</item>
         <item quantity="one">%d día restante</item>

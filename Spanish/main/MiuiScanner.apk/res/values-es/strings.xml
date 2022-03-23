@@ -69,6 +69,7 @@
     <string name="calories_logo_text">Soporte para IA proporcionado por Health Hope</string>
     <string name="calories_request_interface_text">Soporte IA</string>
     <string name="camera_error_title">Error de cámara</string>
+    <string name="camera_permissions_text">Permita que el escáner acceda a la cámara para poder utilizar esta función.</string>
     <string name="camera_stealth_mode_message">No se puede conectar a la cámara. Si necesita una cámara, desactive el modo oculto.</string>
     <string name="camera_stealth_mode_title">El modo sigiloso está habilitado</string>
     <string name="can_only_be_English_Chinese">El idioma de la traducción en línea solo puede ser inglés y chino simplificado</string>
@@ -258,6 +259,7 @@
     <string name="food_module_thumbs_up">Me gusta</string>
     <string name="food_module_tip">Coloca la comida dentro del recuadro</string>
     <string name="food_module_title_food">Calorías</string>
+    <string name="format_error">Contraseña invalida</string>
     <string name="friday">Viernes</string>
     <string name="friday_short">Vie</string>
     <string name="friday_shortest">Vie</string>
@@ -308,7 +310,8 @@
     <string name="kuaidi100_data">Desarrollado por Kuaidi 100</string>
     <string name="label_choose_picture">Elegir imagen</string>
     <string name="label_flash_light">Flash</string>
-    <string name="language_entry_chinese_cn">Chino simplificado</string>
+    <string name="label_flash_light_off">La linterna está apagada</string>
+    <string name="label_flash_light_on">La linterna está encendida</string>
     <string name="language_entry_english">Inglés</string>
     <string name="language_entry_french">Francés</string>
     <string name="language_entry_german">Alemán</string>
@@ -354,6 +357,7 @@
     <string name="miuix_appcompat_select_all">Seleccionar todo</string>
     <string name="miuix_appcompat_select_all_description">Seleccionar todo</string>
     <string name="miuix_appcompat_select_item">Seleccionar elementos</string>
+    <string name="miuix_indexer_collect">Colecciones</string>
     <string name="miuix_indexer_selected">Seleccionado %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Desliza hacia abajo para actualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado con éxito</string>
@@ -632,6 +636,7 @@
     <string name="solar_term_winter_begins">Empieza el invierno</string>
     <string name="solar_term_winter_solstice">Solsticio de invierno</string>
     <string name="spaceIsLow_content">No hay suficiente espacio en el almacenamiento interno. Libera algo de espacio.</string>
+    <string name="storage_permissions_text">Permita que el escáner acceda al almacenamiento del dispositivo para poder utilizar esta función.</string>
     <string name="store_feedback_prompt">Introduce tus comentarios primero</string>
     <string name="store_location_dialog">Este servicio es proporcionado por Dianping. Todas las fotos que tomas al usar este servico, incluyendo la información local relacionada serán compartidas con Dianping con el fin de obtener información acerca de las tiendas.</string>
     <string name="store_location_fail">"No se pudo obtener la información de ubicación"</string>
@@ -651,6 +656,7 @@
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
     <string name="switch_open">Activar</string>
+    <string name="switchover">Cambiar</string>
     <string name="take_a_picture">Cámara</string>
     <string name="take_the_word">Ponga la palabra en el cuadro y presione para obtener la palabra</string>
     <string name="taobao">Taobao</string>

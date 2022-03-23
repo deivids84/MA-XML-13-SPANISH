@@ -41,6 +41,10 @@
     <string name="antispam_local_marked">Marcado localmente</string>
     <string name="antispam_notification_title">Número desconocido</string>
     <string name="antispam_provider">Identificado por %s</string>
+    <string name="bluetooth_permission_content">Se actualizaron los permisos del sistema. Permite que esta aplicación acceda a los nombres de tus dispositivos Bluetooth para poder verlos.</string>
+    <string name="bluetooth_permission_grant_immediately">Permitir</string>
+    <string name="bluetooth_permission_later">Ahora no</string>
+    <string name="bluetooth_permission_title">Permisos requeridos</string>
     <string name="callFailed_cb_enabled">"No puede realizar llamadas mientras el bloqueo de llamada esté activo."</string>
     <string name="callFailed_congestion">Red ocupada</string>
     <string name="callFailed_dialToDial">Petición de marcado modificada para marcar con un número diferente.</string>
@@ -174,6 +178,7 @@
     <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
     <string name="fmt_time_12hour">"h 'en punto'"</string>
     <string name="fmt_time_24hour">"HH 'en punto'"</string>
+    <string name="font_camera_tip">Dobla el dispositivo para usar la cámara frontal</string>
     <string name="friday">Viernes</string>
     <string name="friday_short">Vie</string>
     <string name="friday_shortest">Vie</string>

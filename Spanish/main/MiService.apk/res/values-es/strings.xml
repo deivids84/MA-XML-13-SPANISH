@@ -52,6 +52,7 @@
     <string name="friday">Viernes</string>
     <string name="friday_short">Vie</string>
     <string name="friday_shortest">Vie</string>
+    <string name="i_get_it">Entendido</string>
     <string name="icon_add_description">Añade un acceso directo en la Pantalla de inicio</string>
     <string name="icon_remove_confirm">Eliminar</string>
     <string name="icon_remove_description_content">"\"Servicios y comentarios\" es una aplicación del sistema. Aún podrás usarlo a través de Ajustes después de eliminar el acceso directo de la Pantalla de inicio."</string>
@@ -137,8 +138,11 @@
     <string name="miui_feedback_edit_toast_screenshot_too_large">"No se pueden subir imágenes o vídeos mayores de 100MB"</string>
     <string name="miui_feedback_edit_toast_third_packagename_required">Introduce el nombre de la aplicación</string>
     <string name="miui_feedback_main_answer_title">"Hay una respuesta para esta pregunta"</string>
+    <string name="miui_feedback_main_customer_service_onfo_for_jp">"Línea directa de servicio: 0120-300-521
+Horario de atención: 9:00 - 18:00 (excepto festivos bancarios y programados)
+Correo electrónico: service.jp@xiaomi.com"</string>
     <string name="miui_feedback_main_frequent_question_title">Preguntas frecuentes</string>
-    <string name="miui_feedback_main_item_catch_full_log">Obtener registros</string>
+    <string name="miui_feedback_main_item_catch_full_log">Registros</string>
     <string name="miui_feedback_main_item_customer_service">Servicios posventa</string>
     <string name="miui_feedback_main_item_feedback_list">Mis comentarios</string>
     <string name="miui_feedback_main_menu_view_privacy">Política de privacidad</string>
@@ -219,6 +223,7 @@
     <string name="miuix_appcompat_select_all">Seleccionar todo</string>
     <string name="miuix_appcompat_select_all_description">Seleccionar todo</string>
     <string name="miuix_appcompat_select_item">Seleccionar elementos</string>
+    <string name="miuix_indexer_collect">Colecciones</string>
     <string name="miuix_indexer_selected">Seleccionado %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Desliza hacia abajo para actualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado con éxito</string>
@@ -293,6 +298,10 @@
     <string name="permission_storage_introduce">Para guardar elementos en tu dispositivo</string>
     <string name="permission_user_protocol">Acuerdo de Usuario (obligatorio)</string>
     <string name="preference_copied">\"%1$s\" se ha copiado en el portapapeles.</string>
+    <string name="privacy_policy_update_hint">"%1$s Se actualizó la Política de privacidad:
+%2$s
+Lea y acepte la nueva versión de %3$s antes de continuar."</string>
+    <string name="privacy_policy_update_title">Política de privacidad actualizada</string>
     <string name="public_authorize_now">Ajustes</string>
     <string name="public_loading_text">Un momento…</string>
     <string name="public_net_error_retry">Vuelve a intentarlo</string>
@@ -308,13 +317,6 @@
     <string name="saturday_shortest">Sáb</string>
     <string name="search_menu_title">Buscar</string>
     <string name="send">Enviar</string>
-    <string name="share_cancel">Compartir cancelado</string>
-    <string name="share_failed">"No se pudo compartir"</string>
-    <string name="share_no_network">"No se pudo conectar a la red"</string>
-    <string name="share_not_install_wechat">Instalar WeChat primero</string>
-    <string name="share_not_install_weibo">Instalar Weibo primero</string>
-    <string name="share_success">Compartido con éxito</string>
-    <string name="share_title">Compartir</string>
     <string name="sunday">Domingo</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
@@ -365,10 +367,16 @@
     <string name="tuesday">Martes</string>
     <string name="tuesday_short">Mar</string>
     <string name="tuesday_shortest">Mar</string>
+    <string name="user_must_known">Atención</string>
+    <string name="user_must_known_content">"No podrá seguir utilizando nuestros servicios a menos que esté de acuerdo con la nueva versión de nuestro %s. ¿Acepta la Política de privacidad actualizada ahora?"</string>
     <string name="v7_preference_off">DESACTIVADA</string>
     <string name="v7_preference_on">ACTIVADO</string>
     <string name="wednesday">Miércoles</string>
     <string name="wednesday_short">Mié</string>
     <string name="wednesday_shortest">Mié</string>
+    <string name="withdraw_consent_failed">"No se pudo retirar el consentimiento"</string>
+    <string name="withdraw_consent_failed_hint">Ocurrió un error en el servidor. Espere uno o dos minutos y vuelva a intentarlo.</string>
+    <string name="withdraw_consent_failed_hint_connect_net">Su dispositivo debe conectarse a la red para que pueda retirar el consentimiento. Verifique su configuración de red y vuelva a intentarlo.</string>
+    <string name="withdrawing">Retirar el consentimiento…</string>
     <string name="yesterday">Ayer</string>
 </resources>
