@@ -10,7 +10,7 @@ Bienvenidos al repositorio de la traducción al ESPAÑOL de MIUI, el sistema ope
 
 Estado de la traducción: ![es-ES translation](https://img.shields.io/badge/dynamic/json?color=blue&label=es-ES&style=for-the-badge&query=%24.progress.1.data.translationProgress&url=https%3A%2F%2Fbadges.awesome-crowdin.com%2Fstats-22663-391213.json)
 
-# Si desea colaborar con la traducción, http://bit.ly/385HaRf
+# Si desea colaborar con la traducción, https://crowdin.com/project/miui-xiaomieu
 
 Translation xml checker (updated every 30min)
 http://translators.xiaomi.eu/XML_MIUI13-Spanish-es.html
