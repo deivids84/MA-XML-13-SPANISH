@@ -1336,6 +1336,7 @@ Si no acepta conceder dichos permisos ni compartir o subir su información perso
     <string name="title_allow_network_access">Actualizar la información automáticamente</string>
     <string name="title_collapse_sp_messages">Agrupar notificaciones</string>
     <string name="title_hide_verification_code">Ocultar OTP automáticamente en la Pantalla de bloqueo</string>
+    <string name="title_not_show_read_mms_perm_req">Permisos requeridos</string>
     <string name="title_pref_cm_smart_sms">China SMS elegante móvil</string>
     <string name="title_show_blocked_messages">Mostrar SMS bloqueados</string>
     <string name="title_show_list_avatar">Mostrar fotos de perfil</string>
@@ -1358,6 +1359,7 @@ Si no acepta conceder dichos permisos ni compartir o subir su información perso
     <string name="toast_not_show_email_perm_req">Permitir que Mensajería acceda a su correo electrónico para usar esta función</string>
     <string name="toast_not_show_location_perm_req">Permitir que Mensajería acceda a su ubicación para usar esta función</string>
     <string name="toast_not_show_microphone_perm_req">Permitir que Messaging use el micrófono para poder usar esta función</string>
+    <string name="toast_not_show_read_mms_perm_req">Para poder ver los mensajes recibidos, debe dar permiso a Mensajería para leer SMS y MMS. Puede conceder este permiso en Configuración.</string>
     <string name="toast_not_show_send_sms_perm_req">Para poder utilizar esta función, permita que esta aplicación envíe mensajes primero.</string>
     <string name="toast_not_show_storage_perm_req">Permitir que Messaging acceda al almacenamiento para poder utilizar esta función</string>
     <string name="toast_not_show_write_contacts_perm_req">Permitir que Mensajería edite contactos para usar esta función</string>

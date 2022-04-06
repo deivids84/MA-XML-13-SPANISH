@@ -79,7 +79,9 @@
     <string name="aqi_quality_no2_desc">Dióxido de nitrógeno</string>
     <string name="aqi_quality_o3_desc">Ozono</string>
     <string name="aqi_quality_pm10_desc">Partículas gruesas inhalables</string>
+    <string name="aqi_quality_pm10_pad">PM10: %1$s</string>
     <string name="aqi_quality_pm25_desc">Partículas finas</string>
+    <string name="aqi_quality_pm25_pad">PM2.5: %1$s</string>
     <string name="aqi_quality_so2_desc">Dióxido de azufre</string>
     <string name="aqi_station_best_quality_station">La mejor alrededor</string>
     <string name="aqi_station_min_distance_station">Estación más cercana</string>

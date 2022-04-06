@@ -903,6 +903,7 @@ Selección"</string>
     <string name="enhanced_4g_lte_mode_title">Modo 4G LTE mejorado</string>
     <string name="enhanced_connectivity_summary">Habilita la función de conectividad mejorada.</string>
     <string name="enter_callbarring_password">Introduce una contraseña para la restricción de llamadas (%d dígitos)</string>
+    <string name="enter_esim_manager">Administrar eSIM</string>
     <string name="enter_input">El mensaje USSD debe tener entre %1$d y %2$d caracteres. Inténtalo de nuevo.</string>
     <string name="enter_pin2_text">PIN2</string>
     <string name="enter_pin_text">PIN de la tarjeta SIM:</string>
@@ -913,6 +914,10 @@ Selección"</string>
     <string name="eras_bc">a.C</string>
     <string name="error_icon_content_description">Error</string>
     <string name="error_updating_title">Error de configuración de llamada</string>
+    <string name="esim_goto_active">Activar</string>
+    <string name="esim_inactive_message">eSIM inactiva</string>
+    <string name="esim_inactive_notification_message">No se detectó ninguna tarjeta SIM. Toca para activar la eSIM.</string>
+    <string name="esim_inactive_settings_title">SIM dual &amp; redes móviles</string>
     <string name="evening">Tarde</string>
     <string name="exception_error">Error en la tarjeta SIM o en la red.</string>
     <string name="expand_button_title">Avanzado</string>

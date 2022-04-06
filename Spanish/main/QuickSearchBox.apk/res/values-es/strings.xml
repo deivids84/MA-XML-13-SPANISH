@@ -37,12 +37,15 @@ Para borrar su historial de navegación, use los ajustes del navegador"</string>
     <string name="cta_declaration_title">Términos del Servicio</string>
     <string name="default_hint">Buscar localmente o en la web…</string>
     <string name="device_settings_category_title">Borrar accesos directos</string>
+    <string name="distance_unit_kilometer">km</string>
+    <string name="distance_unit_meter">m</string>
     <string name="entrance_setting">Abrir búsqueda</string>
     <string name="google_app_label">Búsqueda en Google</string>
     <string name="google_search_description">Sugerencias de Google</string>
     <string name="google_search_hint">Búsqueda en Google</string>
     <string name="google_search_label">Google</string>
     <string name="google_settings_category_title">Búsqueda en Google</string>
+    <string name="hot_search">Popular</string>
     <string name="loading">Un momento…</string>
     <string name="local_app">Aplicaciones</string>
     <string name="local_setting">Ajustes</string>
@@ -103,6 +106,7 @@ Para borrar su historial de navegación, use los ajustes del navegador"</string>
     <string name="switch_email">Correo</string>
     <string name="switch_file">Archivos</string>
     <string name="switch_mms">Mensajes</string>
+    <string name="switch_notes">Notas</string>
     <string name="switch_online">En línea</string>
     <string name="switch_prompt_ignore">Ignorar</string>
     <string name="switch_prompt_set">Ver opciones</string>

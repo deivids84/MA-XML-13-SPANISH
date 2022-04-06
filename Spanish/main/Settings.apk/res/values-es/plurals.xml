@@ -424,10 +424,6 @@
         <item quantity="other">%d elementos seleccionados</item>
         <item quantity="one">%d elemento seleccionado</item>
     </plurals>
-    <plurals name="search_application_count">
-        <item quantity="one">Buscar aplicaciones</item>
-        <item quantity="other">Buscar aplicaciones</item>
-    </plurals>
     <plurals name="seconds">
         <item quantity="other">%s segundos</item>
         <item quantity="one">1 segundo</item>

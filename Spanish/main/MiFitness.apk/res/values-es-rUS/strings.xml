@@ -218,11 +218,16 @@ Si cambias de opinión, antes de utilizar nuestros servicios, debes aceptar nues
     <string name="activate_failed_no_retry">Por favor, contacta con el Servicio de atención al cliente del banco</string>
     <string name="activity_not_found_notice">"No se pudo encontrar la aplicación"</string>
     <string name="add_device">Añadir dispositivo</string>
+    <string name="add_test_env_permission">añadir permiso de entorno de prueba</string>
+    <string name="add_test_env_permission_hint">Advertencia: una vez en el entorno de prueba, el dispositivo ya no puede acceder al entorno de producción.</string>
+    <string name="add_test_key">Añadir clave de seguridad</string>
+    <string name="add_test_key_hint">Aprobado, haga clic en el botón de añadir la clave para añadir la clave de prueba</string>
     <string name="add_to_trust_device">Este es un dispositivo de confianza</string>
     <string name="add_wifi_desc">Para conectar tu dispositivo wearable al Wi-Fi, introduce la contraseña de \"%1$s\".</string>
     <string name="add_wifi_title">Introducir contraseña</string>
     <string name="afternoon">Tarde</string>
     <string name="agree">Aceptar</string>
+    <string name="agree_protocol">Protocolo de acuerdo</string>
     <string name="aivs_huami_operate_on_app">Continúa en la aplicación en tu teléfono</string>
     <string name="aivs_huami_timer_limit">Puedes establacer un temporizador por un máximo de 99 min y 59 s</string>
     <string name="am">AM</string>
@@ -230,8 +235,20 @@ Si cambias de opinión, antes de utilizar nuestros servicios, debes aceptar nues
     <string name="app_name">Mi Fitness</string>
     <string name="app_upgrade_no_newer_version">Esta es la versión más reciente</string>
     <string name="app_upgrade_test_title">Descubre nuevas versiones beta</string>
+    <string name="apply_add_test_key">Entrar en modo desarrollador</string>
+    <string name="apply_add_test_key_data_exception">"No se pudieron descifrar los datos"</string>
+    <string name="apply_add_test_key_error_data">Los parámetros son incorrectos</string>
+    <string name="apply_add_test_key_no_data">Parámetros inválidos</string>
+    <string name="apply_add_test_key_reason">aplicar motivo</string>
+    <string name="apply_add_test_key_reason_not_null">"motivo no permitir nulo"</string>
+    <string name="apply_add_test_key_repeat">Ocurrió un error, inténtalo de nuevo</string>
+    <string name="apply_se_key_status_applying">Aplicando</string>
+    <string name="apply_se_key_status_denied">Denegado</string>
+    <string name="apply_se_key_status_original">"No se ha aplicado, se usa la clave original"</string>
+    <string name="apply_se_key_status_succeed">Aprobado</string>
     <string name="apply_times_exceed_limit">Los tiempos de aplicación exceden el límite máximo</string>
     <string name="auth_fail_warning">Sesión expirada. Inicia sesión de nuevo.</string>
+    <string name="auth_failure_exception">auth_failure_exception, por favor borrar caché de la aplicación</string>
     <string name="bank_card_not_supported">No soportado</string>
     <string name="bank_card_type_credit">Crédito</string>
     <string name="bank_card_type_debit">Débito</string>
@@ -248,6 +265,7 @@ Si cambias de opinión, antes de utilizar nuestros servicios, debes aceptar nues
     <string name="ble_ota_push_error_info">Una actualización requiere al menos el 20% de la batería en tu dispositivo wearable</string>
     <string name="bottomsheet_action_expand_halfway">Desplegar hasta la mitad</string>
     <string name="cancel">Cancelar</string>
+    <string name="cancel_text">Abandonar</string>
     <string name="card_recharge_promo_code_exhausted">"Oh, estás un poco tarde, por favor espera la próxima promoción"</string>
     <string name="card_status_no_apply_privilege">El estado de su tarjeta no tiene privilegios para aplicar el negocio</string>
     <string name="card_type_no_apply_privilege">El tipo de tarjeta no tiene privilegios para aplicar el negocio</string>
@@ -371,6 +389,7 @@ Si cambias de opinión, antes de utilizar nuestros servicios, debes aceptar nues
     <string name="confirm_bundled_phone_dialog_title">Confirmar número de teléfono asociado</string>
     <string name="confirm_new_pwd">Confirma la nueva contraseña</string>
     <string name="confirm_unbundled_phone_dialog_message">Este número de teléfono fue asociado con la Cuenta Mi %2$s el %1$s. Ya no estará asociado a la Cuenta Mi %3$s si continúas. ¿Continuar?</string>
+    <string name="continue_text">Continuar</string>
     <string name="copy">Copiar</string>
     <string name="country_or_region_AE">Emiratos Árabes Unidos</string>
     <string name="country_or_region_AR">Argentina</string>
@@ -541,6 +560,7 @@ Si cambias de opinión, antes de utilizar nuestros servicios, debes aceptar nues
     <string name="course_video_1080">1080P</string>
     <string name="course_video_4k">4K</string>
     <string name="course_video_720">720P</string>
+    <string name="create_session_failed">error al crear sesión</string>
     <string name="data_sleep_reference_detail">"1. Principios y práctica de la medicina del sueño, 4ª edición. 
 2. Fundamentos de la Medicina del Sueño. 
 3. Patel, AK, Reddy, V., &amp; Araujo, JF (2020, abril). Fisiología, Etapas del Sueño. Publicación de StatPearls. 
@@ -582,6 +602,8 @@ Si cambias de opinión, antes de utilizar nuestros servicios, debes aceptar nues
     <string name="device_add_discovery_paired">Se encontró el dispositivo vinculado</string>
     <string name="device_add_failed">"No se pudo añadir"</string>
     <string name="device_add_new">Añadir dispositivo</string>
+    <string name="device_agree_all">Estoy de acuerdo con todo</string>
+    <string name="device_agree_to_terms">Términos y condiciones</string>
     <string name="device_alarm_notify">Sincronizar alarmas desde el teléfono</string>
     <string name="device_all_skills">Todas las funciones</string>
     <string name="device_amazon_alexa">Amazon Alexa</string>
@@ -706,6 +728,8 @@ Si cambias de opinión, antes de utilizar nuestros servicios, debes aceptar nues
     <string name="device_remove_device_in_other">Ve a la página Dispositivo y pulsa Desvincular.</string>
     <string name="device_remove_fail">"No se pudo eliminar"</string>
     <string name="device_remove_fail_many_time">Para desvincular el dispositivo, ve a la página Dispositivo y pulsa Desvincular.</string>
+    <string name="device_required_agree_collect_info">&lt;Data&gt;Acepto &lt;a href=\"%1$s\"&gt;Recopilación y uso de información personal&lt;/a&gt; (obligatorio)&lt;/Data&gt;</string>
+    <string name="device_required_agree_use_location">&lt;Data&gt;Acepto &lt;a href=\"%1$s\"&gt;Recopilación de información de ubicación&lt;/a&gt; (obligatorio)&lt;/Data&gt;</string>
     <string name="device_retry">Vuelve a intentarlo</string>
     <string name="device_scan_login">Escáner</string>
     <string name="device_scan_qr_add_device">Añadir dispositivo</string>
@@ -864,6 +888,19 @@ Para aplicar los cambios a tu dispositivo wearable, ve a Diseño de la aplicaci�
     <string name="device_settings_common_wechat_pay">WeChat</string>
     <string name="device_settings_common_world_clock">Reloj mundial</string>
     <string name="device_settings_common_xiaoai">Mi IA</string>
+    <string name="device_settings_contact">Contactos favoritos</string>
+    <string name="device_settings_contact_add">Añadir</string>
+    <string name="device_settings_contact_add_fail">"No se pudo añadir a los contactos favoritos. Vuelve a intentarlo."</string>
+    <string name="device_settings_contact_delete_fail">"No se pudo eliminar. Vuelve a intentarlo."</string>
+    <string name="device_settings_contact_edit">Editar</string>
+    <string name="device_settings_contact_list_fail">"No se pudo obtener información del contacto. Vuelve a intentarlo."</string>
+    <string name="device_settings_contact_list_tips1">1. Para llamar a tus contactos en tu dispositivo portátil, agrégalos a sus contactos favoritos.</string>
+    <string name="device_settings_contact_list_tips2">2. Puedes agregar hasta 10 contactos favoritos.</string>
+    <string name="device_settings_contact_search">Buscar contactos</string>
+    <string name="device_settings_contact_select">Seleccionar contacto</string>
+    <string name="device_settings_contact_sort">Ordenar</string>
+    <string name="device_settings_contact_sync_failt">"No se pudo sincronizar. Vuelve a intentarlo."</string>
+    <string name="device_settings_contact_sync_success">Sincronizado con éxito</string>
     <string name="device_settings_continue">Siguiente</string>
     <string name="device_settings_customize_schedule">Programar</string>
     <string name="device_settings_desc_pressure">Mide tu nivel de estrés durante el día</string>
@@ -1023,6 +1060,7 @@ Este paso es necesario para pagar con tu dispositivo."</string>
     <string name="device_settings_night_model_sunset_open">Desactivado hasta el atardecer</string>
     <string name="device_settings_night_model_tomorrow">Mañana</string>
     <string name="device_settings_night_start_time">Comenzar</string>
+    <string name="device_settings_no_contact">Aún no hay favoritos</string>
     <string name="device_settings_not_open_for_now">Ahora no</string>
     <string name="device_settings_notify_permission_is_not_enabled">Permite el acceso a las notificaciones</string>
     <string name="device_settings_nromal_alarm">Normal</string>
@@ -1152,6 +1190,7 @@ Los datos relacionados serán eliminados en 7 días."</string>
     <string name="device_settings_unwear_close_cofirm_msg">"Después de desactivar el PIN no podrás usar esta función, ¿continuar de todas formas?"</string>
     <string name="device_settings_unwear_close_cofirm_title">¿Desactivar PIN?</string>
     <string name="device_settings_unwear_close_pwd">Desactivar PIN</string>
+    <string name="device_settings_unwear_get_status_fail">"No se pudieron sincronizar los datos"</string>
     <string name="device_settings_unwear_no_set">No establecido</string>
     <string name="device_settings_unwear_set_pwd">PIN</string>
     <string name="device_settings_unwear_set_pwd_huami_alert">Introduce un PIN de 6 dígitos</string>
@@ -1762,9 +1801,15 @@ Envía este código al supervisor."</string>
     <string name="friday_short">Vie</string>
     <string name="friday_shortest">Vie</string>
     <string name="get_back_pwd">Restableciendo contraseña</string>
+    <string name="get_permission_failed">no se pudo obtener el permiso, ve a Configuración-Permisos para abrir</string>
     <string name="get_ph_ticket">Obtener el código</string>
     <string name="get_phone_bind_exceed_limit">"Puedes asociar hasta 3 Cuenta Mi con un número de teléfono. No puedes añadir nuevas cuentas."</string>
     <string name="get_phone_verifycode_exceed_limit">Se han enviado demasiados códigos de verificación a este número. Espera 24 horas y prueba de nuevo.</string>
+    <string name="get_test_key_duplicate_access_data">datos de acceso duplicados</string>
+    <string name="get_test_key_error_default">error predeterminado</string>
+    <string name="get_test_key_invalid_access_data">datos de acceso inválidos</string>
+    <string name="get_test_key_invalid_param">parámetro inválido</string>
+    <string name="get_test_key_no_access_data">sin datos de acceso</string>
     <string name="goto_sign_up">Crear cuenta</string>
     <string name="habit_add_day_time_empty">Elige una hora</string>
     <string name="habit_add_evety_day">Diario</string>
@@ -2355,6 +2400,7 @@ Rango típico: 10%– 30%"</string>
     <string name="health_sleep_whether_to_override_history_records">Ya existe un registro de sueño en este período de tiempo. ¿Eliminar el registro anterior?</string>
     <string name="health_snore_detection_close_title">Turn off detection of snoring and talking?</string>
     <string name="health_snore_duration">Roncando</string>
+    <string name="health_spo2_abnormal_count">Alertas</string>
     <string name="health_spo2_abnormal_low">Alertas</string>
     <string name="health_spo2_avg">Media</string>
     <string name="health_spo2_desc_day">Oxígeno en sangre %1$s</string>
@@ -2495,6 +2541,7 @@ Severo: 81–100."</string>
     <string name="health_training_load">Carga de entrenamiento</string>
     <string name="health_training_load_last_seven_days">Últimos 7 días</string>
     <string name="health_training_load_understand">Carga de entrenamiento</string>
+    <string name="health_training_load_unit">EPOC</string>
     <string name="health_v02max_name">VO₂ max</string>
     <string name="health_vo2max_composite_grade">Nivel</string>
     <string name="health_vo2max_content">VO₂ max representa el volumen máximo de consumo de oxígeno medido durante el ejercicio incremental con el máximo esfuerzo. Es un indicador de resistencia aeróbica y capacidad. En general, un valor máximo de VO₂ alto significa que puedes hacer ejercicio a una intensidad más alta que aquellos que no están en tan buena forma.</string>
@@ -2517,6 +2564,7 @@ Severo: 81–100."</string>
     <string name="health_weight_please_choose">Seleccionar</string>
     <string name="health_weight_recommend">Sugerido</string>
     <string name="health_weight_unit_kg">kg</string>
+    <string name="health_weight_unit_kg_capital">kg</string>
     <string name="health_widget_sleep_end_desc">%1$s</string>
     <string name="health_widget_sleep_start_desc">%1$s</string>
     <string name="heartrate">Ritmo cardíaco</string>
@@ -2608,8 +2656,12 @@ Empieza de nuevo."</string>
     <string name="keep_alive_notification_channel">Conexión del dispositivo</string>
     <string name="keep_alive_notification_content_connected">Conectado</string>
     <string name="keep_alive_notification_content_connecting">Conectando…</string>
+    <string name="key_info">"valor clave de prueba 0x40-4F
+ versión clave № 0x22"</string>
     <string name="loading">Un momento…</string>
     <string name="lock_support_description2">"¿No encuentras tu Tarjeta médica en tu pantalla de bloqueo?"</string>
+    <string name="logIn_failed">Error de inicio de sesion</string>
+    <string name="logIn_success">Iniciar sesión con éxito</string>
     <string name="log_off_account_failure">"No se pudo eliminar la cuenta"</string>
     <string name="log_off_account_success">Cuenta eliminada con éxito</string>
     <string name="login_account_desc">Esta función requiere iniciar sesión con una Cuenta Mi. ¿Iniciar sesión ahora?</string>
@@ -2747,6 +2799,7 @@ Gana este premio"</string>
     <string name="medal_show_more">Mostrar todo</string>
     <string name="medal_total_progress">100%</string>
     <string name="medal_wall">Mis premios</string>
+    <string name="mi_ID">Mi ID:</string>
     <string name="midnight">Noche</string>
     <string name="mine_about">Acerca de esta aplicación</string>
     <string name="mine_activity">Desafíos</string>
@@ -2817,6 +2870,7 @@ Gana este premio"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">"Eso es todo por ahora"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Un momento…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"No se pudo cargar los elementos"</string>
+    <string name="mobile_environment_staging">El entorno está en escena, por favor cambia en línea</string>
     <string name="monday">Lunes</string>
     <string name="monday_short">Lun</string>
     <string name="monday_shortest">Lun</string>
@@ -2892,6 +2946,7 @@ Gana este premio"</string>
     <string name="mtrl_picker_toggle_to_day_selection">Toca para seleccionar un día</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Cambiar al modo de introducción Texto</string>
     <string name="mtrl_picker_toggle_to_year_selection">Toca para seleccionar un año</string>
+    <string name="net_data_error">error de datos del servidor.</string>
     <string name="network_error_info">Se ha producido un error de red. Comprueba tus ajustes de red e inténtalo de nuevo.</string>
     <string name="network_timeout_info">"No se pudo conectar a la red. Vuelve a intentarlo."</string>
     <string name="nfc_activate_interrupt_dialog">Siempre puedes continuar en la aplicación.</string>
@@ -3282,6 +3337,7 @@ Este paso es necesario para pagar con tu dispositivo."</string>
     <string name="nfc_settings_update_card_failed">"No se pudo actualizar"</string>
     <string name="nfc_settings_update_card_succeed">Actualizado con éxito</string>
     <string name="nfc_show_unset_wear_pwd">Establece un PIN en tu dispositivo para hacer que los pagos sean seguros.</string>
+    <string name="nfc_status_exception">Excepción del estado NFC</string>
     <string name="nfc_syncese_btn_txt_global">Comenzar</string>
     <string name="nfc_syncese_content">"Si no puede agregar una tarjeta a su cuenta, podemos intentar solucionar este problema."</string>
     <string name="nfc_syncese_content_mastercard_url">"Si tienes problemas con tu tarjeta, podemos intentar solucionar el problema. Si el problema persiste, ponte en contacto con nuestro &lt;a href=\"%1$s\"&gt;servicio de atención al cliente&lt;/a&gt;."</string>
@@ -3557,6 +3613,8 @@ Este paso es necesario para pagar con tu dispositivo."</string>
     <string name="privacy_permission_read_call_log">Acceder al historial de llamadas</string>
     <string name="privacy_permission_read_contacts">Acceder a los contactos</string>
     <string name="privacy_permission_read_phone_state">Acceder a la información del dispositivo</string>
+    <string name="privacy_permission_record_audio">Grabar audio</string>
+    <string name="privacy_permission_record_audio_des">Para grabar conversaciones y ronquidos mientras analiza su ciclo de sueño</string>
     <string name="privacy_permission_write_read_file">Acceder al almacenamiento</string>
     <string name="privacy_sensitive_notify_des">Para realizar un seguimiento de tus entrenamientos y tu progreso físico, recopilamos y procesamos tu información, incluidas las rutas de entrenamiento, los datos de sueño, el ritmo cardíaco y el peso.</string>
     <string name="privacy_sensitive_notify_msg">"&lt;Data&gt;Lee y acepta nuestra &lt;a href=\"%1$s\"&gt;Recopilación y uso de datos sensibles&lt;/a&gt; para comprender mejor cómo recopilamos y procesamos tu información. No podrás utilizar este servicio si no das tu consentimiento para la recopilación y procesamiento.&lt;/Data&gt;"</string>
@@ -3577,6 +3635,7 @@ Este paso es necesario para pagar con tu dispositivo."</string>
     <string name="psw_sign_in">Iniciar sesión usando contraseña</string>
     <string name="qr_code_desc">Coloca el código QR en el marco</string>
     <string name="qr_code_title">Escáner</string>
+    <string name="query_se_key_status">Comprobar el estado de la clave de seguridad</string>
     <string name="register_by_local_phone_long_text">Crear cuenta</string>
     <string name="register_by_local_phone_short_text">Crear cuenta</string>
     <string name="reject">Denegar</string>
@@ -3634,6 +3693,7 @@ Este paso es necesario para pagar con tu dispositivo."</string>
     <string name="share_wx_not_support_timeline">Primero actualiza WeChat.</string>
     <string name="share_wx_session">WeChat</string>
     <string name="share_wx_timeline">Momentos</string>
+    <string name="show_info_text">¿Añadir clave de prueba de seguridad al dispositivo?</string>
     <string name="sign_in">Iniciando sesión</string>
     <string name="sign_in_progress">Iniciando sesión…</string>
     <string name="sign_in_title">Inica sesión con tu Mi Account</string>
@@ -3871,6 +3931,7 @@ Este paso es necesario para pagar con tu dispositivo."</string>
     <string name="stand_notice_title5">"Parece que no te has levantado en la última hora"</string>
     <string name="stand_notice_title6">¿Te has levantado durante la última hora?</string>
     <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="success">Hecho</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Domingo</string>
     <string name="sunday_short">Dom</string>
@@ -3878,6 +3939,8 @@ Este paso es necesario para pagar con tu dispositivo."</string>
     <string name="sync_password">Contraseña</string>
     <string name="sync_user_name">Nombre de usuario</string>
     <string name="sync_weather_notification_message">Actualizando la información del tiempo en tu dispositivo wearable…</string>
+    <string name="sync_wifi_no_permission_desc">¿Compartir la contraseña Wi-Fi con tu dispositivo portable?</string>
+    <string name="sync_wifi_no_permission_title">Compartir contraseña</string>
     <string name="system_error_info">El sistema está ocupado. Espera un minuto o dos y vuelve a intentarlo.</string>
     <string name="taiwan">Taiwán</string>
     <string name="tb_current_select">%1$s</string>
@@ -4033,11 +4096,15 @@ Este paso es necesario para pagar con tu dispositivo."</string>
     <string name="trail_label_type">Tipo</string>
     <string name="trail_lactate_threshold">Límite</string>
     <string name="trail_low_intensity_description">Podría hablar sin jadear</string>
+    <string name="trail_map_style_common">Por defecto</string>
+    <string name="trail_map_style_no_label">Ninguno</string>
+    <string name="trail_map_style_satillite">Satélite</string>
     <string name="trail_max_stress">Máx.</string>
     <string name="trail_middle_intensity_description">Podría hablar pero no cantar</string>
     <string name="trail_month_dialog_go_today">Seleccionado hoy</string>
     <string name="trail_month_dialog_select_date">%1$s seleccionado</string>
     <string name="trail_not_exercising">Ahora no</string>
+    <string name="trail_open_mail_points">Marcadores de kilómetros</string>
     <string name="trail_pace_best">Ritmo</string>
     <string name="trail_press_gym_button">Pulsa el botón</string>
     <string name="trail_rate_average_heart_rate">LPM</string>
@@ -4171,6 +4238,7 @@ Este paso es necesario para pagar con tu dispositivo."</string>
     <string name="trail_sport_hang_in_air_duration">Tiempo en el aire</string>
     <string name="trail_sport_list_record">Mostrar todo</string>
     <string name="trail_sport_location_amap">Ubicación GPS de Amap</string>
+    <string name="trail_sport_map_edit">Mapa</string>
     <string name="trail_sport_max_cadence_desc">Máx: %1$s</string>
     <string name="trail_sport_max_height_desc">Máx: %1$s</string>
     <string name="trail_sport_max_rate_desc">Máx: %1$s</string>
@@ -4228,6 +4296,7 @@ Este paso es necesario para pagar con tu dispositivo."</string>
     <string name="trail_sport_summary_max_hrm">LPM máximo</string>
     <string name="trail_sport_summary_rise_height">Aumento de elevación (m)</string>
     <string name="trail_sport_summary_skipping_height">Altura de salto (cm)</string>
+    <string name="trail_sport_summary_speed">Velocidad (km/h)</string>
     <string name="trail_sport_summary_sport_time">Tiempo</string>
     <string name="trail_sport_summary_steps">Pasos</string>
     <string name="trail_sport_summary_stroke_count">Brazadas</string>
@@ -4289,7 +4358,15 @@ Este paso es necesario para pagar con tu dispositivo."</string>
     <string name="trail_stress">Estrés</string>
     <string name="trail_stroke_avg_feq">Pasos/min</string>
     <string name="trail_stroke_count">Brazadas</string>
+    <string name="trail_summary_avg_back_swing_duration">Atrás (s)</string>
+    <string name="trail_summary_avg_down_swing_duration">Abajo (s)</string>
+    <string name="trail_summary_avg_hrm">BPM</string>
     <string name="trail_summary_best">Récords</string>
+    <string name="trail_summary_detail_fall_height">Pérdida de elevación (m)</string>
+    <string name="trail_summary_detail_rise_height">Ganancia de elevación (m)</string>
+    <string name="trail_summary_golf_avg_swing_speed">Velocidad (m/s)</string>
+    <string name="trail_summary_row_avg_freq">SPM</string>
+    <string name="trail_summary_row_energy_working">Trabajo (kJ)</string>
     <string name="trail_swim_avg_swolf">Med.</string>
     <string name="trail_swim_best_swolf">Mejor</string>
     <string name="trail_swim_consume_time">%1$s | %2$s</string>

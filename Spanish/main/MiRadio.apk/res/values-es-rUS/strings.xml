@@ -154,7 +154,6 @@
     <string name="being_enable_auto_payment">Activando...</string>
     <string name="bind_sign_in_title">Añadir cuenta</string>
     <string name="bluetooth_device">Dispositivo de audio Bluetooth</string>
-    <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
     <string name="broadcast_list">Canales</string>
     <string name="buffering">Almacenando en buffer…</string>
     <string name="button_cancel_download">Cancelar</string>
@@ -436,6 +435,7 @@ Envíe este código al supervisor."</string>
     <string name="feedback">Realimentación</string>
     <string name="file_not_found">"El archivo no existe"</string>
     <string name="filter_by_duration">Por duración</string>
+    <string name="filter_by_duration_format">%2$dm %5$2ds</string>
     <string name="filter_by_duration_max">%d min</string>
     <string name="filter_by_duration_min">%d seg</string>
     <string name="filter_by_duration_prefix">"Ocultar archivos de audio que duren menos de "</string>
@@ -443,9 +443,13 @@ Envíe este código al supervisor."</string>
     <string name="filter_by_folder">Por carpeta</string>
     <string name="filter_by_folder_summary">Elegir carpetas para mostrar</string>
     <string name="filter_by_size">Por tamaño</string>
+    <string name="filter_by_size_max">%dMB</string>
+    <string name="filter_by_size_min">%dKB</string>
     <string name="filter_by_size_prefix">"Ocultar archivos más pequeños que "</string>
     <string name="filter_by_size_summary">Ocultar pequeños archivos de audio</string>
+    <string name="filter_size_unit">%dKB</string>
     <string name="find_psw">Contraseña olvidada</string>
+    <string name="fm_browser_label">FM</string>
     <string name="fm_detai_add_icon">%s Acceso directo creado a la pantalla de inicio con éxito</string>
     <string name="fm_has_turned_off">Radio FM apagada</string>
     <string name="fm_headline">Noticias</string>
@@ -592,6 +596,7 @@ Envíe este código al supervisor."</string>
     <string name="lyric_setting">Ajustes de letras</string>
     <string name="manager_cloud_space">Administrar el almacenamiento en la nube de Xiaomi</string>
     <string name="market_download_failure">Error, inténtelo de nuevo？</string>
+    <string name="media_filter">Multimedia</string>
     <string name="menu_all_task_pause">Pausar todo</string>
     <string name="menu_all_task_start">Iniciar todo</string>
     <string name="menu_enter_edit_mode">Editor</string>
@@ -939,6 +944,7 @@ Envíe este código al supervisor."</string>
     <string name="playlist_type_album">Álbumes</string>
     <string name="playlist_type_artist">Artista</string>
     <string name="playlist_type_billboard">Listas</string>
+    <string name="playlist_type_fm">FM</string>
     <string name="playlist_type_my">Listas</string>
     <string name="playlist_type_recommend">Listas de reproducción destacadas</string>
     <string name="please_download_first">Debes descargar esta canción antes de poder usarla como tono de llamada</string>
@@ -978,7 +984,6 @@ Envíe este código al supervisor."</string>
     <string name="pulluprefreshrecyclerview_loading_running">Cargando…</string>
     <string name="purchased_empty_hint">No hay elementos todavía.</string>
     <string name="push_message_switch">Notificar sobre nuevos episodios</string>
-    <string name="qq_login_protocol_scheme">com.xiaomi.passport.ui</string>
     <string name="radio_cancel_subscribe">Eliminado de favoritos con éxito</string>
     <string name="radio_not_support">Radio no es compatible</string>
     <string name="radio_subscribe_success">Añadido a favoritos correctamente</string>
@@ -1155,6 +1160,7 @@ Envíe este código al supervisor."</string>
     <string name="start_to_download">Agregado para descargar la cola con éxito</string>
     <string name="start_to_play">Reproducir</string>
     <string name="station_check_favorite">Añadir a emisoras</string>
+    <string name="station_freq_format">%sMHz</string>
     <string name="stations_list">Emisoras</string>
     <string name="stations_list_empty">No hay emisoras disponibles</string>
     <string name="stop">Detener</string>

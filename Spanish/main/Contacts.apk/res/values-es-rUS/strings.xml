@@ -992,6 +992,7 @@ Pulsa \"%1$s\" y luego selecciona \"%2$s\"."</string>
     <string name="privacy_password_title2">Utilice la contraseña de protección de privacidad</string>
     <string name="privacy_password_title3">Actualizar contraseña</string>
     <string name="privacy_password_title4">Contraseña actualizada</string>
+    <string name="privacy_settings_blue_scan_connect">Conectarse a dispositivos cercanos</string>
     <string name="privacy_settings_call_phone">Hacer llamadas</string>
     <string name="privacy_settings_call_phone_description">Para realizar llamadas a través de los atajos de la pantalla de inicio</string>
     <string name="privacy_settings_call_phone_description_for_pad">Para realizar llamadas en aplicaciones de terceros</string>
@@ -1290,6 +1291,7 @@ Pulsa \"%1$s\" y luego selecciona \"%2$s\"."</string>
     <string name="toast_for_failed_saving_nickname">"No se pudo guardar el alias"</string>
     <string name="toast_for_saving_nickname">Alias guardado</string>
     <string name="toast_join_with_empty_contact">Escriba el nombre del contacto antes de combinarlo con algún otro</string>
+    <string name="toast_not_show_blue_scan_connect_perm_req">Permitir que esta función se conecte a dispositivos cercanos a través de Bluetooth para poder importar contactos de otros dispositivos.</string>
     <string name="toast_not_show_camera_perm_req">Para poder usar la cámara para tomar fotos de perfil, primero permita que esta aplicación tome fotos y grabe videos.</string>
     <string name="toast_not_show_location_perm_req">Para poder importar contactos de otros dispositivos a través de Bluetooth, primero permita que esta aplicación acceda a su ubicación.</string>
     <string name="toast_not_show_read_calllogs_perm_req">Para poder ver el historial de llamadas, primero permita que esta aplicación acceda al historial de llamadas.</string>

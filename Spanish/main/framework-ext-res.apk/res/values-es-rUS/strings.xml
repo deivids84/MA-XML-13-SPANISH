@@ -105,6 +105,10 @@
     <string name="customer_location_judgment">China</string>
     <string name="cut">Cortar</string>
     <string name="dance">Danza</string>
+    <string name="dark_mode_enable">Activar</string>
+    <string name="dark_mode_suggest_message">Puede cambiar al modo oscuro automáticamente al atardecer para obtener una experiencia de visualización más cómoda</string>
+    <string name="dark_mode_suggest_title">"Se está oscureciendo"</string>
+    <string name="dark_mode_suggest_toast">El modo oscuro se activará automáticamente al atardecer y se desactivará al amanecer a partir de ahora</string>
     <string name="data_usage_context">Si el Wi-Fi no está activado, su dispositivo se conectará a una red móvil, lo que puede generar cargos adicionales de acuerdo a su plan de pago. ¡Gracias!</string>
     <string name="daydream">Ensueño</string>
     <string name="default_device_name">Dispositivo desconocido</string>
@@ -214,6 +218,8 @@
     <string name="ks_screenshot">Captura de pantalla (pantalla completa)</string>
     <string name="kungfu">Kung fu</string>
     <string name="leisure">Ocio</string>
+    <string name="lenovo">Lenovo</string>
+    <string name="lenovo_phone">Teléfono Lenovo</string>
     <string name="livetalk_not_enable">Paquete de recarga desactivado</string>
     <string name="location_usage_restricted_body">Toque para permitir.</string>
     <string name="location_usage_restricted_title">Ubicación en segundo plano restringida</string>
@@ -384,6 +390,7 @@
     <string name="set_password_action">Establecer contraseña</string>
     <string name="set_password_message">Establezca una contraseña para usar esta característica.</string>
     <string name="set_password_title">Establecer contraseña</string>
+    <string name="shortcut_no_support_on_pc_mode">"Este gesto no es compatible con el modo PC"</string>
     <string name="shutdown_confirm_title">¿Apagar el dispositivo ahora?</string>
     <string name="shutdown_progress">Apagando…</string>
     <string name="silence_mode">Modo silencio</string>

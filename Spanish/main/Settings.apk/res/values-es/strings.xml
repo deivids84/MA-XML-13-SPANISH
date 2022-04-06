@@ -2660,6 +2660,7 @@ Este ajuste afecta a todos los usuarios de este dispositivo."</string>
     <string name="default_theme">Predeterminado</string>
     <string name="default_usb_mode">Conexión USB</string>
     <string name="default_vol_stream_title">Control de volumen predeterminado</string>
+    <string name="deferred_setup_hintViewTitle">Comprobando…</string>
     <string name="delete">Eliminar</string>
     <string name="delete_blob_confirmation_text">¿Estás seguro de que deseas eliminar estos datos compartidos?</string>
     <string name="delete_blob_text">Eliminar datos compartidos</string>
@@ -3253,7 +3254,7 @@ Reinicie su dispositivo y vuelva a intentarlo."</string>
     <string name="error_mcc_not3">El campo MCC debe contener 3 dígitos.</string>
     <string name="error_mnc_not23">El campo MNC debe contener 2 o 3 dígitos.</string>
     <string name="error_name_empty">El campo Nombre no puede estar vacío.</string>
-    <string name="error_xcap_not_add">El tipo de APN no puede ser XCAP.</string>
+    <string name="error_xcap_not_add">"El tipo de APN no puede ser XCAP."</string>
     <string name="estimated_charging_time_left">Hasta completar la carga</string>
     <string name="estimated_time_description">La estimación puede variar en función del uso</string>
     <string name="estimated_time_left">Tiempo restante estimado</string>
@@ -3266,6 +3267,7 @@ Reinicie su dispositivo y vuelva a intentarlo."</string>
     <string name="every_day">Cada día</string>
     <string name="exceptional_case">Excepciones</string>
     <string name="expand_button_title">Avanzado</string>
+    <string name="expand_card_action">Tarjetas adicionales</string>
     <string name="expandable_under_keyguard_title">Mostrar en la Pantalla de bloqueo</string>
     <string name="experimental_category_title">Experimental</string>
     <string name="experimental_preference">(Experimental)</string>
@@ -3498,6 +3500,8 @@ Para obtener más información, comuníquese con su proveedor acreedor."</string
     <string name="firmware_version">Versión de Android</string>
     <string name="fiveg_sa_switch_summary">Usar la red SA en la SIM secundaria (sólo para pruebas)</string>
     <string name="fiveg_sa_vice_switch_title">SA en la SIM secundaria</string>
+    <string name="fiveg_vonr_switch_summary">Use VoNR en entornos de red 5G para mejorar la experiencia de llamadas. Esta función se proporciona únicamente con fines de prueba.</string>
+    <string name="fiveg_vonr_switch_title">Configuración de VoNR</string>
     <string name="fix_connectivity">Fijar conectividad</string>
     <string name="flash_drive_backup_disable">Primero conecta un dispositivo USB</string>
     <string name="flash_drive_backup_enable">Usa un dispositivo USB para copiar o restaurar elementos</string>
@@ -3534,6 +3538,10 @@ Para obtener más información, comuníquese con su proveedor acreedor."</string
     <string name="fold_rule_important">Importante</string>
     <string name="fold_rule_unimportant">No importante</string>
     <string name="fold_title">Reglas para notificaciones en grupo</string>
+    <string name="font_cta_alert_btn_negative">Cancelar</string>
+    <string name="font_cta_alert_btn_positive">Aceptar</string>
+    <string name="font_cta_alert_message">Lea y acepte los términos y condiciones de Temas para continuar.</string>
+    <string name="font_cta_alert_title">Términos y Condiciones</string>
     <string name="font_setting_weight_toast">"La fuente actual no admite ajustar el peso de la fuente"</string>
     <string name="font_settings_jump">Accesibilidad &gt; Tamaño de pantalla</string>
     <string name="font_settings_recommend_title">"¿El tamaño del texto no es lo suficientemente grande?"</string>
@@ -3647,8 +3655,12 @@ Esta función solo funciona cuando la navegación del sistema está configurada 
     <string name="freeform_guide_slide_to_small_freeform_title">Minimizar una aplicación</string>
     <string name="freeform_guide_slide_up_to_close_summary">Desliza hacia arriba en la barra de acción de una ventana flotante</string>
     <string name="freeform_guide_slide_up_to_close_title">Cerrar ventanas flotantes</string>
+    <string name="freeform_guide_to_sidehide_summary">Arrastra rápidamente la aplicación a un lado de la pantalla para ocultarla</string>
+    <string name="freeform_guide_to_sidehide_title">Ocultar ventanas flotantes</string>
     <string name="freeform_vedio_description">"· Mantén pulsado y después arrastra hacia abajo una notificación para abrirla en una ventana flotante.
 · Pulsa \"Ventanas flotantes\" en Recientes para seleccionar aplicaciones."</string>
+    <string name="freeform_vedio_description_open_freeform_and_splitscreen">"· Toca una aplicación en la barra lateral para abrirla en una ventana flotante.
+· Arrastra una aplicación al centro de la pantalla para abrirla en una ventana flotante o hacia un lado para usar la pantalla dividida."</string>
     <string name="freeform_vedio_description_pad">Arrastra elementos fuera del dock para abrir ventanas flotantes</string>
     <string name="frequently_fragment_delete">Eliminar</string>
     <string name="frequently_fragment_tempty">Los elementos frecuentes se mostrarán aquí</string>
@@ -3707,8 +3719,6 @@ Al activar la copia de seguridad automática, los datos del dispositivo y de las
     <string name="getConnectionInfo">getConnectionInfo</string>
     <string name="global_change_warning">Este ajuste afecta a todos los usuarios de este teléfono.</string>
     <string name="global_locale_change_title">Cambiar idioma</string>
-    <string name="global_stylus_summary">"Convierta la entrada escrita a mano en texto en cualquier área donde sea compatible"</string>
-    <string name="global_stylus_title">Escribir a mano</string>
     <string name="gmscore_settings_title">Servicios básicos de Google</string>
     <string name="go_back_button_label">Volver</string>
     <string name="go_to_sleep">Apagar pantalla</string>
@@ -3759,6 +3769,16 @@ Al activar la copia de seguridad automática, los datos del dispositivo y de las
     <string name="guest_reset_guest_confirm_button">Restablecer</string>
     <string name="guest_reset_guest_dialog_title">¿Restablecer invitado ahora?</string>
     <string name="guest_resetting">Restableciendo invitado…</string>
+    <string name="guide_button_text">Entendido</string>
+    <string name="guide_text_center">"Desliza el dedo hacia arriba en el centro de la pantalla.
+El área donde puede confirmar su bloqueo de pantalla se alineará al centro."</string>
+    <string name="guide_text_left">"Desliza derecho hacia arriba desde la esquina inferior izquierda.
+El área donde puedes confirmar que el bloqueo de la pantalla se moverá a la izquierda."</string>
+    <string name="guide_text_right">"Desliza derecho desde la esquina inferior derecha.
+El área donde puedes confirmar que el bloqueo de la pantalla se moverá a la derecha."</string>
+    <string name="guide_title_center">Desliza hacia arriba en el centro</string>
+    <string name="guide_title_left">Desliza hacia arriba a la izquierda</string>
+    <string name="guide_title_right">Desliza hacia arriba a la derecha</string>
     <string name="gxzw_add_fingerprint_area">Escáner de huella dactilar</string>
     <string name="gxzw_add_fingerprint_continue">Continuar</string>
     <string name="gxzw_add_fingerprint_edge_message">Mueve tu dedo para grabar los límites de tu huella dactilar</string>
@@ -4142,8 +4162,6 @@ Abre Xiaomi Cloud y restaura elementos desde allí."</string>
     <string name="key_gesture_function_optional">Gestos opcionales y botones</string>
     <string name="key_gesture_function_preview">Previsualización de botones y gestos</string>
     <string name="key_gesture_function_shortcut">Accesos directos funcionales</string>
-    <string name="key_handwriting_input_summary">Edite el texto usando un lápiz óptico. Las acciones que puede realizar incluyen eliminar, seleccionar, pegar y comenzar un nuevo párrafo.</string>
-    <string name="key_handwriting_input_title">Escribir a mano</string>
     <string name="key_none">Ninguno</string>
     <string name="key_operation_diagram">Previsualizar</string>
     <string name="key_position_cat">Posición de los botones</string>
@@ -5054,6 +5072,8 @@ No podrá revertir esta acción."</string>
     <string name="mi_service">Servicios Mi</string>
     <string name="mi_service_app_detail">Detalles del uso de datos</string>
     <string name="mi_shopping_mall">Tienda Mi</string>
+    <string name="mi_smart_hub_entry_title">Mi Smart Hub</string>
+    <string name="mi_smart_play_entry_title">Mi Smart Play</string>
     <string name="mi_transfer">Mi Mover</string>
     <string name="mi_upi_settings">Cuenta de Mi Pay</string>
     <string name="mic_toggle_title">Acceso al micrófono</string>
@@ -5569,6 +5589,8 @@ Selecciona tu sistema operativo:"</string>
     <string name="multifunction_keyboard">Multifuncional</string>
     <string name="multiple_users_main_switch_title">Utilice varios usuarios</string>
     <string name="music_equalizer">Ecualizador</string>
+    <string name="music_playback_control_cross_device_flow">Transferir la reproducción de audio entre dispositivos</string>
+    <string name="music_video_flow_across_device">Controle y transfiera la reproducción de audio entre dispositivos</string>
     <string name="musicfx_title">Efectos de música</string>
     <string name="mute">Modo silencio</string>
     <string name="mute_media_sound_summary">Juegos, música, vídeos y otras aplicaciones</string>
@@ -7168,6 +7190,7 @@ Para fijar una aplicación, sigue estos pasos: \u0009
     <string name="search_apn_settings">APN;Nombres de Puntos de Acceso</string>
     <string name="search_app_invisible">Aplicación invisible;Aplicaciones invisibles</string>
     <string name="search_app_switch_key">Recientes;Reciente;Menú;Botón de menú;Administrador de tareas</string>
+    <string name="search_application_count">Buscar aplicaciones</string>
     <string name="search_application_lock_name">Bloqueo de aplicaciones</string>
     <string name="search_applications_settings">Aplicaciones instaladas</string>
     <string name="search_back_key">Atrás;Botón para volver;Tecla para volver</string>
@@ -7734,6 +7757,7 @@ Nota: No puedes utilizar tu huella digital para desbloquear este dispositivo. Si
     <string name="shut_down_find_device_network_failure_content">"No se pudo desactivar Encontrar dispositivo. Asegúrate de que el dispositivo está conectado a internet."</string>
     <string name="shut_down_find_device_network_failure_title">"No se pudo conectar a la red"</string>
     <string name="shuting_down_find_device">Desactivando Encontrar dispositivo…</string>
+    <string name="sidebar_setting">Configuración de la barra lateral</string>
     <string name="silent_duration">Duración</string>
     <string name="silent_mode">Modo silencio</string>
     <string name="silent_mode_disable_media">Silenciar todo</string>
@@ -7850,6 +7874,7 @@ Es posible que el PIN no sea correcto."</string>
     <string name="sim_status_title_sim_slot">Estado de la SIM (ranura SIM %1$d)</string>
     <string name="sim_switch_button">Cambiar</string>
     <string name="sim_switch_channel_id">Cambio de operador</string>
+    <string name="sim_vonr_title">SIM %1$s (%2$s)</string>
     <string name="simulate_color_space">Simular espacio de color</string>
     <string name="single_key_use">Botón simple</string>
     <string name="single_key_use_summary">"Usa el Botón de inicio para las funciones realizadas por los otros 2 botones.
@@ -7977,6 +8002,19 @@ Para enviar grabaciones de sonido ambiental a contactos de emergencia
 Para enviar fotos a contactos de emergencia
 Si no acepta conceder tales permisos o compartir y cargar su información personal, no podrá usar esta aplicación. Puede optar por desactivar o no utilizar Emergencia SOS en tales casos.
 Antes de utilizar nuestros servicios, lea y acepte nuestra %s."</string>
+    <string name="sos_privacy_dialog_message_old_version">"El SOS de Emergencia le permite compartir su ubicación en tiempo real y enviar mensajes de texto a sus contactos de emergencia.
+Protegeremos su información personal de acuerdo con las leyes, reglamentos y políticas de privacidad pertinentes.
+Tenga en cuenta que esta aplicación necesita conectarse a Internet y requiere los siguientes permisos para recopilar su información personal:
+• Accediendo al almacenamiento
+Para guardar contactos de emergencia
+• Accediendo a los contactos
+Para marcar contactos como contactos de emergencia
+• Enviar mensajes SMS
+Para enviar mensajes de texto a contactos de emergencia
+• Accediendo a la ubicación
+Para compartir su ubicación con contactos de emergencia
+Si no acepta conceder dichos permisos o compartir y cargar su información personal, no podrás usar esta aplicación. Puede elegir desactivar o no usar SOS de Emergencia en tales casos.
+Antes de utilizar nuestros servicios, lea y acepte nuestro %s."</string>
     <string name="sos_privacy_dialog_title">Términos y Condiciones</string>
     <string name="sos_privacy_policy">Política de privacidad</string>
     <string name="sos_privacy_policy_change_endtitle">Lea y acepte la nueva versión de %s antes de continuar.</string>
@@ -8389,7 +8427,6 @@ Prueba a utilizar una ^3 más rápida o utiliza esta ^4 como almacenamiento port
     <string name="stylus_function_and_action">Características</string>
     <string name="stylus_keyboard_settings_title">Lápiz óptico &amp; teclado</string>
     <string name="stylus_language_summary">Reconocer números y texto escrito a mano en inglés y un idioma seleccionado más</string>
-    <string name="stylus_language_title">Idioma</string>
     <string name="stylus_not_connect_message">"El lápiz no está conectado"</string>
     <string name="stylus_ota_check_failed_battery">"No se pudo comprobar. La batería de su lápiz óptico se está agotando."</string>
     <string name="stylus_ota_check_failed_info">"No se pudo verificar la versión del firmware. Vuelva a conectar su lápiz óptico."</string>
@@ -9361,6 +9398,7 @@ Durante las llamadas de voz, no podrás utilizar Internet y es posible que algun
     <string name="volume_ring_mute">Silenciar tono y notificaciones</string>
     <string name="volume_system_description">Cámara, capturas de pantalla, botones y notificaciones del sistema</string>
     <string name="volume_voice_description">Llamada de voz entrante</string>
+    <string name="vonr_switch_title">Usar VoNR</string>
     <string name="vpn_always_on_invalid_reason_dns">Las direcciones del servidor DNS deben ser numéricas en el modo de VPN siempre activada</string>
     <string name="vpn_always_on_invalid_reason_no_dns">Debes especificar un servidor DNS para el modo de VPN siempre activada</string>
     <string name="vpn_always_on_invalid_reason_other">"La información introducida no es compatible con el modo de VPN siempre activada"</string>

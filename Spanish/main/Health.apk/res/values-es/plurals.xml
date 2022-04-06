@@ -300,6 +300,10 @@
         <item quantity="other">%1$.2f hrs</item>
         <item quantity="one">%1$.2f hr</item>
     </plurals>
+    <plurals name="time_duration_hour_int">
+        <item quantity="other">%d hrs</item>
+        <item quantity="one">%d hr</item>
+    </plurals>
     <plurals name="time_duration_hour_standard">
         <item quantity="other">%1$.1f-%2$.1f hours</item>
         <item quantity="one">%1$.1f-%2$.1f hour</item>
