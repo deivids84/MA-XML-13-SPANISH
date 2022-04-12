@@ -330,6 +330,7 @@
     <string name="menu_create_folder">Nueva carpeta</string>
     <string name="menu_delete">Eliminar</string>
     <string name="menu_delete_forever">Eliminar permanentemente</string>
+    <string name="menu_edit">Editar</string>
     <string name="menu_folders">Carpetas</string>
     <string name="menu_group">Crear una carpeta</string>
     <string name="menu_hide">Ocultar</string>
@@ -543,6 +544,7 @@
     <string name="note_mindnote_entrance_hint_newversion">"Empiece a escribir "</string>
     <string name="note_mindnote_entrance_icon_text">Crear un mapa mental</string>
     <string name="note_mindnote_entrance_icon_text_newversion">Crear un mapa mental</string>
+    <string name="note_module_name">Notas</string>
     <string name="note_not_text_stub">Sin texto</string>
     <string name="note_sort_way">Seleccione como desea ordenar sus notas</string>
     <string name="notealert_enter">Abrir nota</string>
@@ -710,8 +712,9 @@
     <string name="setting_big_screen_layout_columns">Barra lateral</string>
     <string name="setting_big_screen_layout_flat">Tiles</string>
     <string name="setting_big_screen_layout_title">Diseño de pantalla grande</string>
+    <string name="setting_cloud_service">Servicios en la nube</string>
     <string name="setting_layout">Diseño</string>
-    <string name="setting_micloud_sync_title">Sincroniza con la nube</string>
+    <string name="setting_micloud_sync_title">Xiaomi Cloud</string>
     <string name="setting_note_list_layout_title">Diseño</string>
     <string name="setting_other">OTROS</string>
     <string name="setting_privacy">Política de Privacidad</string>

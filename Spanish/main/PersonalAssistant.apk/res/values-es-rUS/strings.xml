@@ -373,6 +373,7 @@ También puede realizar un seguimiento de la entrega urgente en los sitios web o
     <string name="pa_picker_detail_small_widget">Widgets</string>
     <string name="pa_picker_detail_theme_app_cta">Ajustes</string>
     <string name="pa_picker_detail_theme_app_cta_pre">"Para poder usar este widget, primero permita que Temas se conecte a Internet. "</string>
+    <string name="pa_picker_detail_vp2_indicator">Página seleccionada %1$d de %2$d</string>
     <string name="pa_picker_detail_wait_wifi_download_maml">Este elemento se descargará a través de Wi-Fi</string>
     <string name="pa_picker_home_app_group_title">Aplicaciones con widgets</string>
     <string name="pa_picker_home_group_more">Todos</string>

@@ -3656,7 +3656,7 @@ Esta función solo funciona cuando la navegación del sistema está configurada 
     <string name="freeform_guide_slide_up_to_close_summary">Desliza hacia arriba en la barra de acción de una ventana flotante</string>
     <string name="freeform_guide_slide_up_to_close_title">Cerrar ventanas flotantes</string>
     <string name="freeform_guide_to_sidehide_summary">Arrastra rápidamente la aplicación a un lado de la pantalla para ocultarla</string>
-    <string name="freeform_guide_to_sidehide_title">Ocultar ventanas flotantes</string>
+    <string name="freeform_guide_to_sidehide_title">Ocultando ventanas flotantes</string>
     <string name="freeform_vedio_description">"· Mantén pulsado y después arrastra hacia abajo una notificación para abrirla en una ventana flotante.
 · Pulsa \"Ventanas flotantes\" en Recientes para seleccionar aplicaciones."</string>
     <string name="freeform_vedio_description_open_freeform_and_splitscreen">"· Toca una aplicación en la barra lateral para abrirla en una ventana flotante.

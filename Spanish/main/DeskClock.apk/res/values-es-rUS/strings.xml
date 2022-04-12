@@ -37,6 +37,7 @@
     <string name="add_clock">Agregar reloj</string>
     <string name="add_common_timer">Agregar temporizador</string>
     <string name="add_timer">Temporizador frecuente</string>
+    <string name="add_timer_dialog_title">Añadir temporizador</string>
     <string name="add_timezone_title">Agregar zona horaria</string>
     <string name="afternoon">Tarde</string>
     <string name="agree">Acepto</string>
@@ -578,6 +579,7 @@
     <string name="timer_alert_type_beach">Playa</string>
     <string name="timer_alert_type_forest">Bosque</string>
     <string name="timer_alert_type_mute">Predeterminado</string>
+    <string name="timer_alert_type_no">Ninguno</string>
     <string name="timer_alert_type_rain">Llovizna</string>
     <string name="timer_alert_type_spring_rain">Lluvia de verano</string>
     <string name="timer_alert_type_stove_fire">Fuego de la estufa</string>
@@ -589,6 +591,9 @@
     <string name="timer_continue">Continuar</string>
     <string name="timer_continue_timer">Reanudar temporizador</string>
     <string name="timer_created">Temporizador agregado con éxito</string>
+    <string name="timer_desc_use_brush_teeth">Cepillarse los dientes</string>
+    <string name="timer_desc_use_facial_mask">Mascarilla</string>
+    <string name="timer_desc_use_sleep">Siesta</string>
     <string name="timer_end_time">El temporizador se detendrá a las %s</string>
     <string name="timer_end_time_format">HH:mm dd \'de\' MMM.</string>
     <string name="timer_end_time_format_today">HH:mm</string>
@@ -597,6 +602,7 @@
     <string name="timer_is_paused">Temporizador pausado</string>
     <string name="timer_item_delete">Eliminar</string>
     <string name="timer_item_duration_display">%1$d min %2$d s</string>
+    <string name="timer_item_edit">Editar</string>
     <string name="timer_item_label_hint">Nombre del temporizador</string>
     <string name="timer_item_picker_hour">h</string>
     <string name="timer_item_picker_minute">min</string>
@@ -652,6 +658,7 @@
     <string name="wednesday_shortest">Mie</string>
     <string name="week_ringtone_recommend_desc">La alarma de la naturaleza reproduce diferentes sonidos según la fecha. ¿Establecerla como alarma predeterminada?</string>
     <string name="white_noise">Ruido ambiental</string>
+    <string name="white_noise_guide_desc">Añade un sonido de fondo para mantenerte centrado</string>
     <string name="white_noise_selector">Seleccionar audio</string>
     <string name="workday_alarm_clock">Alarma de días laborales</string>
     <string name="worldclock_edit_label">Reloj mundial</string>

@@ -357,6 +357,7 @@
     <string name="sc_notification_warning_content">El diseño puede ser anormal en el modo de pantalla completa. Puede volver al estado anterior al cambio o ir a la configuración.</string>
     <string name="sc_notification_warning_restore">Restaurar</string>
     <string name="sc_notification_warning_settings">Ir a la configuración</string>
+    <string name="sc_notification_warning_title">Cambiar el modo de presentación</string>
     <string name="sc_relaunch_dialog_message">"No puede ser adecuado para plegar el dispositivo mientras usa la aplicación. Puede reiniciar la aplicación para cambiar al modo de pantalla completa. ¿Reiniciar de todos modos?"</string>
     <string name="scanning_device_tips">Buscando dispositivos cercanos… Asegúrate de que el otro dispositivo está en modo visible.</string>
     <string name="screen_button_notification_text">Para activarlos, presiona los botones de Inicio y Encendido simultáneamente.</string>
