@@ -106,7 +106,7 @@
     <string name="cut">Cortar</string>
     <string name="dance">Danza</string>
     <string name="dark_mode_enable">Activar</string>
-    <string name="dark_mode_suggest_message">Puede cambiar al modo oscuro automáticamente al atardecer para obtener una experiencia de visualización más cómoda</string>
+    <string name="dark_mode_suggest_message">Puedes cambiar al modo oscuro automáticamente al atardecer para obtener una experiencia de visualización más cómoda</string>
     <string name="dark_mode_suggest_title">"Se está oscureciendo"</string>
     <string name="dark_mode_suggest_toast">El modo oscuro se activará automáticamente al atardecer y se desactivará al amanecer a partir de ahora</string>
     <string name="data_usage_context">Si el Wi-Fi no está activado, su dispositivo se conectará a una red móvil, lo que puede generar cargos adicionales de acuerdo a su plan de pago. ¡Gracias!</string>

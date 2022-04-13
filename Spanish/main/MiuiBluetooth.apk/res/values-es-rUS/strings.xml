@@ -199,6 +199,10 @@ Protocolo de conexión más rápido."</string>
     <string name="headset_fw_error_failed">"No se puede actualizar. La información del firmware es incorrecta."</string>
     <string name="headset_fw_file_position_failed">"No se pudo acceder al archivo"</string>
     <string name="headset_fw_file_readfailed">"No se pudo obtener información de la actualización"</string>
+    <string name="headset_incall_answer">Responder</string>
+    <string name="headset_incall_reject">Cancelar</string>
+    <string name="headset_incall_summary">¿Responde a una llamada en %1$s con tus auriculares? Tus auriculares permanecerán conectados a ese dispositivo una vez finalice la llamada.</string>
+    <string name="headset_incall_title">Responder llamada con auriculares</string>
     <string name="headset_loss_notify_summary">Parece que al menos uno de sus auriculares no está en el estuche de carga. ¡Mire a su alrededor!</string>
     <string name="headset_loss_notify_summary1">"Parece que sus auriculares no están en el estuche. Vuelve a ponerlos para que se carguen."</string>
     <string name="headset_loss_notify_title">Alerta de auricular faltante</string>

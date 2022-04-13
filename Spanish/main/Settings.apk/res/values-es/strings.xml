@@ -1262,7 +1262,7 @@ para ^2"</string>
     <string name="block_list_dialog_title">¿Desconectar ahora?</string>
     <string name="block_list_no_device">Aún no hay dispositivos en la lista negra</string>
     <string name="block_list_remove_dialog_content">%s” podrá conectarse a este punto de acceso de nuevo</string>
-    <string name="block_list_remove_dialog_title">Eliminar %s de la lista negra</string>
+    <string name="block_list_remove_dialog_title">Atención</string>
     <string name="block_list_summary">"Ver dispositivos sin permiso para conectarse a este punto de acceso"</string>
     <string name="block_list_title">Lista negra</string>
     <string name="block_title">Mostrar notificaciones</string>
@@ -4408,6 +4408,7 @@ Abre Xiaomi Cloud y restaura elementos desde allí."</string>
     <string name="layout_size_medium_text">Medio</string>
     <string name="layout_size_normal_text">Pequeño</string>
     <string name="layout_size_small_text">Muy pequeño</string>
+    <string name="le_audio_title">LE Audio</string>
     <string name="learn_more">Más información</string>
     <string name="led_colors_summary">Color de la luz para notificaciones</string>
     <string name="led_frequence_summary">Establecer intervalo de pulso para luz LED</string>
@@ -8426,7 +8427,6 @@ Prueba a utilizar una ^3 más rápida o utiliza esta ^4 como almacenamiento port
     <string name="stylus_connecting">Conectando…</string>
     <string name="stylus_function_and_action">Características</string>
     <string name="stylus_keyboard_settings_title">Lápiz óptico &amp; teclado</string>
-    <string name="stylus_language_summary">Reconocer números y texto escrito a mano en inglés y un idioma seleccionado más</string>
     <string name="stylus_not_connect_message">"El lápiz no está conectado"</string>
     <string name="stylus_ota_check_failed_battery">"No se pudo comprobar. La batería de su lápiz óptico se está agotando."</string>
     <string name="stylus_ota_check_failed_info">"No se pudo verificar la versión del firmware. Vuelva a conectar su lápiz óptico."</string>

@@ -250,6 +250,7 @@
     <string name="msim_setting_default_data">SIM de datos</string>
     <string name="msim_setting_default_voice">SIM por defecto para llamadas</string>
     <string name="multisim_settings_category">Ajustes de la SIM</string>
+    <string name="multisim_settings_sb_title">Tarjeta SIM %d detectada</string>
     <string name="multisim_settings_title">Se han detectado 2 tarjetas SIM</string>
     <string name="navigation_picker_gesture_guide">Guía de gestos</string>
     <string name="navigation_picker_radio_text_full_screen">Gestos de pantalla completa</string>
@@ -481,7 +482,11 @@ Puede controlar esta función desde Configuración &gt; Contraseñas &amp; Segur
     <string name="sim_card_detecting_title">Comprobando la tarjeta SIM…</string>
     <string name="sim_card_detection">Inserta tarjeta SIM</string>
     <string name="sim_card_detection_info">Lee las instrucciones de tu dispositivo para insertar la tarjeta SIM.</string>
+    <string name="sim_card_detection_info_sb">"Inserta una tarjeta SIM antes de continuar. La funcionalidad relacionada con la búsqueda de dispositivos y la sincronización no estará completamente disponible para ti si creas una cuenta sin una tarjeta SIM. Este dispositivo es compatible con eSIM. "</string>
+    <string name="sim_card_detection_info_sb_esim">Toca para activar la eSIM.</string>
     <string name="sim_card_detection_mobile_not_available">"La tarjeta SIM no se pudo conectar a la red"</string>
+    <string name="sim_card_detection_sb_esim">Activar eSIM</string>
+    <string name="sim_card_detection_sb_nonactivated">No activado</string>
     <string name="sim_card_dial_card">SIM %d para llamadas</string>
     <string name="sim_card_do_not_select_dial_card">Seleccione la tarjeta SIM al marcar</string>
     <string name="sim_card_network_card">SIM %d de Datos</string>

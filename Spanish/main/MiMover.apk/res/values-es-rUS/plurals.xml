@@ -44,6 +44,10 @@
         <item quantity="other">Versiones de 64 bits para %1$d aplicaciones están disponibles</item>
         <item quantity="one">Una versión de 64 bits para la aplicación %1$d está disponible</item>
     </plurals>
+    <plurals name="apple_install_install_immediately">
+        <item quantity="other">Instalar %d aplicaciones</item>
+        <item quantity="one">Instalar %d aplicación</item>
+    </plurals>
     <plurals name="data_item_count">
         <item quantity="other">%d elementos</item>
         <item quantity="one">%d elemento</item>
