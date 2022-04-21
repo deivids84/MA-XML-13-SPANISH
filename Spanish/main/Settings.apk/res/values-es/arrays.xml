@@ -1206,6 +1206,12 @@ Nota: ¡Solo para Ubuntu 8.04!"</item>
         <item>No permitir nunca</item>
         <item>Permitir siempre</item>
     </string-array>
+    <string-array name="select_logd_size_lowram_titles">
+        <item>Desactivar</item>
+        <item>64 KB</item>
+        <item>256 KB</item>
+        <item>1 MB</item>
+    </string-array>
     <string-array name="select_logd_size_summaries">
         <item>Desactivado</item>
         <item>64 KB por búfer de registro</item>
@@ -1213,6 +1219,14 @@ Nota: ¡Solo para Ubuntu 8.04!"</item>
         <item>1 MB por búfer de registro</item>
         <item>4 MB por búfer de registro</item>
         <item>8 MB por búfer de registro</item>
+    </string-array>
+    <string-array name="select_logd_size_titles">
+        <item>Desactivar</item>
+        <item>64 KB</item>
+        <item>256 KB</item>
+        <item>1 MB</item>
+        <item>4 MB</item>
+        <item>8 MB</item>
     </string-array>
     <string-array name="select_logd_system_levels">
         <item>Desactivado</item>

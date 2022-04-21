@@ -68,7 +68,7 @@
     <string name="alert_vibrate_enable_summary">Vibrar cuando la alarma suene</string>
     <string name="alert_volume">Volumen del tono de llamada</string>
     <string name="alert_volume_summary">Establecer el volumen del tono de llamada para alarmas y temporizadores</string>
-    <string name="alert_xiaoai_ringtone_desc">Mi AI está hablando…</string>
+    <string name="alert_xiaoai_ringtone_desc">Mi IA está hablando…</string>
     <string name="already_exist">Este temporizador ya existe</string>
     <string name="am">AM</string>
     <string name="analog_gadget">Reloj analógico</string>
@@ -177,14 +177,14 @@
     <string name="every_day">Diariamente</string>
     <string name="expand_button_title">Avanzado</string>
     <string name="expired_timers_dismissed">Temporizador descartado con éxito</string>
-    <string name="fmt_date_long_month_day">dd MMMM</string>
-    <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
-    <string name="fmt_date_numeric_month_day">dd/MM</string>
-    <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
-    <string name="fmt_date_short_month_day">dd/MM</string>
-    <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
-    <string name="fmt_time_12hour">"hh"</string>
-    <string name="fmt_time_24hour">"H"</string>
+    <string name="fmt_date_long_month_day">d MMMM</string>
+    <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
+    <string name="fmt_date_numeric_month_day">d-M</string>
+    <string name="fmt_date_numeric_year_month_day">d-M-yyyy</string>
+    <string name="fmt_date_short_month_day">d MMM</string>
+    <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
+    <string name="fmt_time_12hour">"h 'o''clock'"</string>
+    <string name="fmt_time_24hour">"H 'o''clock'"</string>
     <string name="force_touch_add_alarm">Añadir alarma</string>
     <string name="force_touch_enter_stopwatch">Cronómetro</string>
     <string name="force_touch_enter_timer">Temporizador</string>
@@ -302,17 +302,17 @@
     <string name="module_weather_ringtone_introduce_global">La alarma meteorológica selecciona diferentes tonos dependiendo del estado del tiempo actual.</string>
     <string name="module_weather_ringtone_update_data">La alerta meteorológica ahora cuenta con música de fondo y mejores anuncios de voz. El Reloj necesita descargar aproximadamente 30MB de audio para esto. ¿Descargar?</string>
     <string name="module_weather_ringtone_update_success">La alerta meteorológica ahora cuenta con música de fondo y mejores anuncios de voz. Puedes crear una nueva alarma para probar esta función.</string>
-    <string name="module_week_ringtone_download_data">La alarma de naturaleza reproduce diferentes sonidos dependiendo de la fecha. Reloj necesita descargar aproximadamente 30MB de audio para que funcione. ¿Descargar?</string>
+    <string name="module_week_ringtone_download_data">La alarma de la naturaleza reproduce diferentes sonidos dependiendo de la fecha. Reloj necesita descargar aproximadamente 30MB de audio para que funcione. ¿Descargar?</string>
     <string name="module_week_ringtone_download_data_privacy">&lt;Data&gt;La alarma semanal reproduce diferentes sonidos de la naturaleza cada día de la semana. El Reloj necesita conectarse a internet para descargar 30MB de audio. Antes de usar el Reloj, debes leer y aceptar nuestro &lt;a href=\"%1$s\"&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &lt;a href=\"%2$s\"&gt;Política de Privacidad&lt;/a&gt;. ¿Aceptar?&lt;/Data&gt;</string>
-    <string name="module_week_ringtone_download_wifi">La alarma de naturaleza reproduce diferentes sonidos dependiendo de la fecha. Reloj necesita descargar audio para que funcione. ¿Descargar?</string>
+    <string name="module_week_ringtone_download_wifi">La alarma de la naturaleza reproduce diferentes sonidos dependiendo de la fecha. Reloj necesita descargar audio para que funcione. ¿Descargar?</string>
     <string name="module_week_ringtone_download_wifi_privacy">&lt;Data&gt;La alarma semanal reproduce diferentes sonidos de la naturaleza cada día de la semana. El Reloj necesita conectarse a internet para descargar audio. Antes de usar el Reloj, debes leer y aceptar nuestro &lt;a href=\"%1$s\"&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &lt;a href=\"%2$s\"&gt;Política de Privacidad&lt;/a&gt;. ¿Aceptar?&lt;/Data&gt;</string>
-    <string name="module_week_ringtone_introduce">La alarma de naturaleza reproduce diferentes sonidos dependiendo de la fecha.</string>
-    <string name="module_week_ringtone_update_data">La alarma de naturaleza reproduce diferentes sonidos dependiendo de la fecha. Reloj necesita descargar aproximadamente 30MB de audio para que funcione. ¿Descargar?</string>
-    <string name="module_week_ringtone_update_success">La alarma de naturaleza reproduce diferentes sonidos dependiendo de la fecha. Puedes crear una alarma para probar esta función.</string>
+    <string name="module_week_ringtone_introduce">La alarma de la naturaleza reproduce diferentes sonidos dependiendo de la fecha.</string>
+    <string name="module_week_ringtone_update_data">La alarma de la naturaleza reproduce diferentes sonidos dependiendo de la fecha. Reloj necesita descargar aproximadamente 30MB de audio para que funcione. ¿Descargar?</string>
+    <string name="module_week_ringtone_update_success">La alarma de la naturaleza reproduce diferentes sonidos dependiendo de la fecha. Puedes crear una alarma para probar esta función.</string>
     <string name="module_white_noise_download_data">El Reloj necesita descargar archivos de audio para los temporizadores de ruidos ambientales. Se requerirán 30MB de tus datos móviles para esta descarga. ¿Descargar ahora?</string>
     <string name="module_white_noise_download_data_privacy">&lt;Data&gt;Para descargar archivos de audio para temporizadores de sonido ambiental (aproximadamente 30MB) y proveer servicios personalizados, el Reloj necesita conectarse a internet. Antes de usar el Reloj, debes leer y aceptar nuestro &lt;a href=\"%1$s\"&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &lt;a href=\"%2$s\"&gt;Política de Privacidad&lt;/a&gt;. Estás usando datos móviles. ¿Aceptar?&lt;/Data&gt;</string>
     <string name="module_white_noise_download_wifi">El Reloj necesita descargar archivos de audio para los temporizadores de ruidos ambientales. ¿Descargar ahora?</string>
-    <string name="module_white_noise_download_wifi_privacy"><Data>Para descargar archivos de audio para temporizadores de ruido ambiental y ofrecer servicios personalizados, Clock debe conectarse a Internet. Antes de usar Clock, debe además leer y aceptar nuestro &lt;a href=\"%1$s\"&gt;Acuerdo de usuario&lt;/a&gt; y &lt;a href=\"%2$s\"&gt;Política de privacidad&lt;/a&gt;. ¿Está de acuerdo?</Data></string>
+    <string name="module_white_noise_download_wifi_privacy">&lt;Data&gt;Para descargar archivos de audio para temporizadores de sonido ambiental y proveer servicios personalizados, el Reloj necesita conectarse a internet. Antes de usar el Reloj, debes leer y aceptar nuestro &lt;a href=\"%1$s\"&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &lt;a href=\"%2$s\"&gt;Política de Privacidad&lt;/a&gt;. ¿Aceptar?&lt;/Data&gt;</string>
     <string name="monday">Lunes</string>
     <string name="monday_short">Lun</string>
     <string name="monday_shortest">Lun</string>
@@ -378,9 +378,9 @@
     <string name="other_category_title">Otros</string>
     <string name="other_settings">Ajustes adicionales</string>
     <string name="pause">Pausar</string>
-    <string name="permission_desc">Detalles de permisos</string>
-    <string name="permission_granted">Concedido</string>
-    <string name="permission_rejected">No concedido</string>
+    <string name="permission_desc">Detalles de los permisos</string>
+    <string name="permission_granted">Otorgado</string>
+    <string name="permission_rejected">No otorgado</string>
     <string name="permission_related">Permisos</string>
     <string name="personal_recommend">Recomendaciones de contenido personalizado</string>
     <string name="pm">PM</string>
@@ -388,9 +388,9 @@
     <string name="privacy_policy">Política de Privacidad</string>
     <string name="privacy_policy_title">Política de Privacidad</string>
     <string name="privacy_settings_title">Privacidad</string>
-    <string name="query_privacy_policy">Ver política de privacidad</string>
+    <string name="query_privacy_policy">Ver Política de Privacidad</string>
     <string name="reach_upper_limit">"No se pueden añadir más temporizadores"</string>
-    <string name="read_external_storage_permission_desc">Para configurar tonos de llamada personalizados</string>
+    <string name="read_external_storage_permission_desc">Para establecer tonos de llamada personalizados</string>
     <string name="read_internal_storage">Acceder al almacenamiento</string>
     <string name="read_phone_state">Acceder a la información del dispositivo</string>
     <string name="read_phone_state_desc">Acceder al estado de la llamada cuando suena la alarma</string>
@@ -409,7 +409,7 @@
     <string name="ringtone_more">Otros</string>
     <string name="ringtone_other">Más tonos</string>
     <string name="ringtone_weather">Alarma del tiempo</string>
-    <string name="ringtone_week">Alarma de naturaleza</string>
+    <string name="ringtone_week">Alarma de la naturaleza</string>
     <string name="saturday">Sábado</string>
     <string name="saturday_short">Sáb</string>
     <string name="saturday_shortest">Sáb</string>
@@ -439,7 +439,7 @@
     <string name="show_life_post_lable">Mostrar informe matutino</string>
     <string name="shut_down_keep_screen">"La pantalla no se mantendrá encendida"</string>
     <string name="shutdown_alarm_alert_enable_summary">Las alarmas sonarán si fueron programadas para hacerlo al menos 10 minutos después de apagar tu dispositivo</string>
-    <string name="shutdown_alarm_alert_enable_summary_new">Enciéndalo para que las alarmas configuradas se apaguen cuando su dispositivo esté apagado. Solo se apagarán las alarmas configuradas durante al menos %d minutos después de apagar el dispositivo.</string>
+    <string name="shutdown_alarm_alert_enable_summary_new">Actívalo para que las alarmas establecidas se apaguen cuando tu dispositivo esté apagado. Solo se apagarán las alarmas establecidas al menos %d minutos después de apagar el dispositivo.</string>
     <string name="shutdown_alarm_alert_title">Alarma con teléfono apagado</string>
     <string name="shutdown_alarm_disable_summary">"La alarma no sonará después de que el dispositivo se apague"</string>
     <string name="shutdown_alarm_enable_summary">"La alarma sonará si se establece para al menos 10 minutos después de que apagues tu dispositivo"</string>
@@ -469,7 +469,7 @@
     <string name="sleep_time">Quedarse dormido</string>
     <string name="sleep_wake_time">%1$s-%2$s</string>
     <string name="slider_text">Desliza hacia arriba para desactivar</string>
-    <string name="slider_text_new">Deslice hacia arriba para detener</string>
+    <string name="slider_text_new">Desliza hacia arriba para detener</string>
     <string name="snooze_confirm_cancel">Descartar alarma</string>
     <string name="snooze_duration">Posponer</string>
     <string name="snooze_duration_text">%1$s | %2$s</string>
@@ -597,7 +597,7 @@
     <string name="timer_end_time_format">HH:mm dd MMM</string>
     <string name="timer_end_time_format_today">HH:mm</string>
     <string name="timer_got_it">OK</string>
-    <string name="timer_got_it_new">Silencio</string>
+    <string name="timer_got_it_new">Silenciar</string>
     <string name="timer_is_paused">Temporizador en pausa</string>
     <string name="timer_item_delete">Eliminar</string>
     <string name="timer_item_duration_display">%1$d min %2$d s</string>
@@ -622,9 +622,9 @@
     <string name="tuesday_shortest">Mar</string>
     <string name="turn_off_a_repeat_alarm">Desactivar una alarma repetida</string>
     <string name="turn_off_this_repeat_alarm">Desactivar esta alarma de repetición</string>
-    <string name="tv_blank_list_other_text">Nada aqui todavia</string>
-    <string name="tv_blank_list_show_text">Nada aquí todavía. Busque una ubicación para agregarla a su reloj mundial.</string>
-    <string name="tv_world_clock_edit_title1">Ubicaciones mostradas en la pantalla de inicio</string>
+    <string name="tv_blank_list_other_text">No hay nada todavía</string>
+    <string name="tv_blank_list_show_text">No hay nada todavía. Busca una ubicación para añadirla al reloj mundial.</string>
+    <string name="tv_world_clock_edit_title1">Ubicaciones mostradas en la Pantalla de inicio</string>
     <string name="tv_world_clock_edit_title2">Otras ubicaciones guardadas</string>
     <string name="unselect_all">Deseleccionar todo</string>
     <string name="upcoming_alarm">Siguiente alarma: %s</string>
@@ -655,7 +655,7 @@
     <string name="wednesday">Miércoles</string>
     <string name="wednesday_short">Mié</string>
     <string name="wednesday_shortest">Mié</string>
-    <string name="week_ringtone_recommend_desc">La alarma de la naturaleza reproduce diferentes sonidos según la fecha. ¿Establecerla como alarma predeterminada?</string>
+    <string name="week_ringtone_recommend_desc">La alarma de la naturaleza reproduce diferentes sonidos dependiendo de la fecha. ¿Establecerla como tu alarma predeterminada?</string>
     <string name="white_noise">Ruido ambiental</string>
     <string name="white_noise_guide_desc">Añade un sonido de fondo para mantenerte centrado</string>
     <string name="white_noise_selector">Seleccionar audio</string>
@@ -677,6 +677,6 @@
     <string name="worldcolock_timezone_date">dd MMM</string>
     <string name="worldcolock_timezone_gap">%s H</string>
     <string name="worldcolock_timezone_local">Igual a la hora local</string>
-    <string name="xiaoai_ringtone_title">Tonos de llamada Mi AI</string>
+    <string name="xiaoai_ringtone_title">Tonos de llamada Mi IA</string>
     <string name="yesterday">Ayer</string>
 </resources>

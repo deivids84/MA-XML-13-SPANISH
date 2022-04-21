@@ -148,6 +148,12 @@
         <item>4K (mejorado, seguro)</item>
         <item>720p, 1080p (pantalla doble)</item>
     </string-array>
+    <string-array name="select_logd_size_lowram_titles">
+        <item>Desactivar</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+    </string-array>
     <string-array name="select_logd_size_summaries">
         <item>Desactivado</item>
         <item>64 K/búfer registro</item>
@@ -155,6 +161,14 @@
         <item>1 M/búfer registro</item>
         <item>4 M/búfer registro</item>
         <item>8 M por búfer de registro</item>
+    </string-array>
+    <string-array name="select_logd_size_titles">
+        <item>Desactivar</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+        <item>4M</item>
+        <item>8M</item>
     </string-array>
     <string-array name="select_logpersist_summaries">
         <item>Desactivado</item>

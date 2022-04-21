@@ -336,9 +336,9 @@
     <string name="relaunch_dialog_button_confirm">OK</string>
     <string name="relaunch_dialog_message">"No se puede ajustar el tamaño de la ventana mientras usa la aplicación. Puede reiniciar la aplicación para ajustar el tamaño de la ventana, pero los datos de la aplicación generados durante esta sesión se perderán. ¿Reiniciar de todos modos?"</string>
     <string name="relaunch_dialog_title">¿Reiniciar \"%s\"?</string>
-    <string name="relaunch_fold_notification_content">La aplicación \"%s\" puede mostrarse de manera anormal después de plegar el teléfono y debe reiniciarse para volver a la normalidad.</string>
+    <string name="relaunch_fold_notification_content">Esta aplicación puede mostrarse de manera anormal después de plegar el teléfono y debe reiniciarse para volver a la normalidad</string>
     <string name="relaunch_notification_title">Reiniciar la aplicación \"%s\"</string>
-    <string name="relaunch_unfold_notification_content">La aplicación \"%s\" puede mostrarse de manera anormal después de desplegar el teléfono y debe reiniciarse para volver a la normalidad.</string>
+    <string name="relaunch_unfold_notification_content">Esta aplicación puede mostrarse de manera anormal después de desplegar el teléfono y debe reiniciarse para volver a la normalidad</string>
     <string name="remain">Restante: %s</string>
     <string name="replace">Reemplazar</string>
     <string name="resolver_app_recommend_flag">Recomendado</string>

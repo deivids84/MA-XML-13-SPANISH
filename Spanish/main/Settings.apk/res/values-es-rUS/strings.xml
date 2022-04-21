@@ -2606,6 +2606,7 @@ Esta configuración afecta a todos los usuarios de este dispositivo."</string>
     <string name="dc_light_summary">Aplicar atenuación DC para reducir la fatiga visual</string>
     <string name="dc_light_summary_new">La atenuación DC evita el parpadeo excesivo y reduce la fatiga visual en condiciones de baja luz. No obstante, la calidad de imagen podría ser afectada cuando la función está activada.</string>
     <string name="dc_light_title">Modo antiparpadeo</string>
+    <string name="dclight_unavailable_prompt">El modo antiparpadeo sólo es compatible con la pantalla externa</string>
     <string name="debug_app">Seleccione la aplicación de depuración</string>
     <string name="debug_app_not_set">"La aplicación de depuración no está configurada"</string>
     <string name="debug_app_set">Aplicación de depuración: %1$s</string>
@@ -2868,6 +2869,7 @@ Si el problema persiste, es posible que debas desinstalar la app para mejorar el
     <string name="display_dashboard_summary">Fondo de pantalla, suspensión, tamaño de la fuente</string>
     <string name="display_label">Pantalla</string>
     <string name="display_order_text">Ordenar por:</string>
+    <string name="display_prompt_confirm">Entendido</string>
     <string name="display_settings">Pantalla</string>
     <string name="display_settings_title">Pantalla</string>
     <string name="display_summary">Suspender después de %1$s de inactividad</string>
@@ -4147,6 +4149,10 @@ Abra Xiaomi Cloud y restaure elementos desde allí."</string>
     <string name="kddi_nfc_secure_toggle_summary">Mantenga NFC/Osaifu-keitai activado solo cuando el dispositivo esté desbloqueado</string>
     <string name="keep_legacy_fingerprint">Mantener</string>
     <string name="keep_screen_on">"No bloquear la pantalla"</string>
+    <string name="keep_screen_on_after_folding_off_summary">Mantén la pantalla exterior encendida después de plegarla durante las llamadas o cuando se usa la cámara</string>
+    <string name="keep_screen_on_after_folding_on_summary">Mantén la pantalla exterior encendida después de plegarla para continuar con tus tareas actuales</string>
+    <string name="keep_screen_on_after_folding_text">Mantén la pantalla exterior encendida después de plegarla para continuar con tus tareas actuales</string>
+    <string name="keep_screen_on_after_folding_title">Mantén la pantalla encendida después de plegar</string>
     <string name="keep_screen_on_summary">"La pantalla no se duerme mientras se carga"</string>
     <string name="kernel_version">Versión de kernel</string>
     <string name="key_combination_power_back">Encender + Atrás</string>
@@ -7087,6 +7093,7 @@ Para fijar una aplicación, sigue estos pasos: \u0009
     <string name="screen_projection_title">Emitir</string>
     <string name="screen_reader_category_title">Lectores de pantalla</string>
     <string name="screen_recorder_title">Grabador de pantalla</string>
+    <string name="screen_refresh_unavailable_prompt">El cambio de velocidad de actualización sólo es compatible con la pantalla externa</string>
     <string name="screen_resolution_dialog_title">Cambiar resolución</string>
     <string name="screen_resolution_high_format">Alta (%1$s)</string>
     <string name="screen_resolution_normal_format">Normal (%1$s)</string>
@@ -9322,7 +9329,7 @@ Toque \"+\" para agregar palabras."</string>
     <string name="virtual_sim_global_title">Servicio de datos móviles</string>
     <string name="virtual_sim_title">Red de datos de roaming</string>
     <string name="virtual_surround_sound_switch_summary">"Enriquezca la profundidad del sonido para la reproducción de audio y video en los auriculares (Esta función no funcionará cuando %.1f audio se reproduzca)"</string>
-    <string name="virtual_surround_sound_switch_title">Sonido envolvente virtual</string>
+    <string name="virtual_surround_sound_switch_title">Sonido inmersivo</string>
     <string name="virus_scan">Análisis de virus</string>
     <string name="virus_scan_app_continue">Reanudar escaneo</string>
     <string name="virus_scan_app_finish">Hecho</string>

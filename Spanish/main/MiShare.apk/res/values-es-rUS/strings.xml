@@ -137,6 +137,8 @@
     <string name="hisense">Hisense</string>
     <string name="hisense_phone">Hisense</string>
     <string name="i_know">Entendido</string>
+    <string name="lenovo">Lenovo</string>
+    <string name="lenovo_phone">Teléfono Lenovo</string>
     <string name="location_enabled">Mi Share activó los servicios de ubicación para encontrar dispositivos cercanos</string>
     <string name="menu_item_permission_title">Detalles de permisos</string>
     <string name="menu_item_privacy_title">Política de Privacidad</string>

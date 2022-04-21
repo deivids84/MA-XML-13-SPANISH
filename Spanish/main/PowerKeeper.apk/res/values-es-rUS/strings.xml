@@ -118,7 +118,7 @@ El economizador de batería tratará de forma selectiva las aplicaciones importa
     <string name="high_temp_benchmark_state_message">"Parece que este dispositivo está demasiado caliente ahora. Use esta aplicación después de que el dispositivo se enfríe: "</string>
     <string name="high_temp_state">Sobrecalentamiento</string>
     <string name="high_temp_state_message">Su dispositivo se está sobrecalentando. Se restringirán el uso de datos móviles, el punto de acceso móvil, GPS y la cámara.</string>
-    <string name="high_temp_state_message_orange_es">Algunas aplicaciones no se han podido utilizar temporalmente para mejorar el rendimiento del teléfono.</string>
+    <string name="high_temp_state_message_orange_es">Para mejorar el rendimiento del dispositivo, algunas aplicaciones se han deshabilitado temporalmente.</string>
     <string name="hints_loading_text">Un momento…</string>
     <string name="icon_content_description">Icono de diálogo</string>
     <string name="important_warning">Advertencia</string>

@@ -25,15 +25,15 @@
         <item quantity="other">Inmediatamente</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">en %d min</item>
+        <item quantity="other">en %d mins</item>
         <item quantity="one">en 1 min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
-        <item quantity="one">Justo ahora</item>
-        <item quantity="other">Justo ahora</item>
+        <item quantity="one">Ahora mismo</item>
+        <item quantity="other">Ahora mismo</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">Hace %d minutos</item>
+        <item quantity="other">Hace %d mins</item>
         <item quantity="one">Hace 1 minuto</item>
     </plurals>
     <plurals name="common_selected_num">
@@ -189,8 +189,8 @@
         <item quantity="one">%1$d elemento seleccionado</item>
     </plurals>
     <plurals name="exo_controls_fastforward_by_amount_description">
-        <item quantity="other">Avanzar %d segundos</item>
-        <item quantity="one">Avanzar %d segundo</item>
+        <item quantity="other">Adelantar %d segundos</item>
+        <item quantity="one">Adelantar %d segundo</item>
     </plurals>
     <plurals name="exo_controls_rewind_by_amount_description">
         <item quantity="other">Retroceder %d segundos</item>
@@ -381,8 +381,8 @@
         <item quantity="one">en 1 minuto</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
-        <item quantity="one">Justo ahora</item>
-        <item quantity="other">Justo ahora</item>
+        <item quantity="one">Ahora mismo</item>
+        <item quantity="other">Ahora mismo</item>
     </plurals>
     <plurals name="medal_count">
         <item quantity="other">Total: %1$d | Reciente: %2$d</item>
@@ -401,8 +401,8 @@
         <item quantity="one">%d elemento seleccionado</item>
     </plurals>
     <plurals name="mtrl_badge_content_description">
-        <item quantity="other">%d notificaciones nuevas</item>
-        <item quantity="one">%d notificación nueva</item>
+        <item quantity="other">%d notificaciones nuevas</item>
+        <item quantity="one">%d notificación nueva</item>
     </plurals>
     <plurals name="nfc_common_card_num">
         <item quantity="other">%1$d</item>

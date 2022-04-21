@@ -90,7 +90,6 @@
     <string name="friday_short">Vie</string>
     <string name="friday_shortest">Vie</string>
     <string name="functions_are_being_developed">Esta característica estará disponible pronto. ¡Manténganse al tanto!</string>
-    <string name="garbage_count">Hay %1$s instancias antiguas</string>
     <string name="global_main_purpose">¡Bienvenido al editor de capturas de pantalla! Puede usar esta aplicación para recortar y editar sus capturas de pantalla. Esta aplicación necesita conectarse a Internet para poder funcionar normalmente.</string>
     <string name="help">"¿No puede encontrar dispositivos?"</string>
     <string name="help_content">"Si no puede encontrar el dispositivo que necesita, pídale a la otra persona que encienda Mi Share."</string>
@@ -108,7 +107,6 @@
     <string name="long_screenshot_top_msg_description_accessibility">Creando captura de pantalla</string>
     <string name="long_screenshot_top_msg_manual">Corta la captura de pantalla y pulsa el botón para finalizar</string>
     <string name="main_save_error_msg">"No se pudieron guardar los cambios debido a un error"</string>
-    <string name="memory_leak">Pérdida de memoria</string>
     <string name="midnight">Noche</string>
     <string name="miuix_access_state_desc">Seleccionado</string>
     <string name="miuix_alphabet_indexer_name">Barra de índice</string>
@@ -181,7 +179,6 @@
     <string name="night">Noche</string>
     <string name="noon">Mediodía</string>
     <string name="not_set">Sin establecer</string>
-    <string name="notification_channel_alerts">Alertas</string>
     <string name="operation_send">Enviar</string>
     <string name="partial_screenshot_edit">Editar</string>
     <string name="partial_screenshot_failed_to_capture_title">"Esta aplicación no permite tomar capturas de pantalla"</string>

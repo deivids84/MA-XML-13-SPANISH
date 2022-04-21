@@ -57,6 +57,7 @@
     <string name="backup_introduction">Puedes usar esta aplicación para hacer una copia de seguridad y restaurar elementos en su dispositivo.</string>
     <string name="bluetooth_introduction">El sistema utiliza Bluetooth para la comunicación inalámbrica. Para poder funcionar con normalidad, Bluetooth necesita los siguientes permisos:</string>
     <string name="bluetooth_usage_desc">La configuración inicial le permite establecer sus preferencias básicas para este dispositivo. Para configurar correctamente su dispositivo, los servicios del sistema Bluetooth utilizarán los siguientes permisos:</string>
+    <string name="boot_video_desc">Ver el mundo en 2K</string>
     <string name="boot_video_replay">Volver a reproducir</string>
     <string name="boot_video_skip">Saltar</string>
     <string name="calculator_introduction">Puede usar esta aplicación para realizar cálculos, convertir unidades y divisas, y estimar sus pagos de hipoteca.</string>

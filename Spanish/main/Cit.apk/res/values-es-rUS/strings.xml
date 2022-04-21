@@ -124,6 +124,8 @@ Base el resultado de la prueba, haga clic en el botón de aprobar o suspender"</
 Haga clic en el botón de cámara para ver si la cámara entra"</string>
     <string name="pop_push_camera_test_title">Prueba de cámara emergente y push</string>
     <string name="push_camera">Empuje la cámara</string>
+    <string name="radio_info_data_connected">Conectado</string>
+    <string name="radio_info_data_disconnected">Desconectado</string>
     <string name="sar_sensor_collect_data_self_cali">Autocalibración</string>
     <string name="sar_sensor_collect_test_summary">"Rotar el dispositivo, ponlo en el dispositivo
 Haga clic en el botón Iniciar adquisición de datos

@@ -68,7 +68,7 @@
     <string name="alert_vibrate_enable_summary">Vibrar cuando la alarma suene</string>
     <string name="alert_volume">Volumen del tono de llamada</string>
     <string name="alert_volume_summary">Establecer el volumen del tono de llamada para alarmas y temporizadores</string>
-    <string name="alert_xiaoai_ringtone_desc">Mi AI está hablando…</string>
+    <string name="alert_xiaoai_ringtone_desc">Mi IA está hablando…</string>
     <string name="already_exist">Este temporizador ya existe</string>
     <string name="am">AM</string>
     <string name="analog_gadget">Reloj analógico</string>
@@ -138,7 +138,7 @@
     <string name="date_time_picker_dialog_title">Ajustar fecha y hora</string>
     <string name="day_concat">", "</string>
     <string name="default_alarm_alert">Sonido de alarma predeterminado</string>
-    <string name="default_alarm_title">Tono predeterminado</string>
+    <string name="default_alarm_title">Tono de llamada predeterminado</string>
     <string name="default_label">Alarma</string>
     <string name="delete">Eliminar</string>
     <string name="delete_alarm">Eliminar alarma</string>
@@ -155,7 +155,7 @@
     <string name="dialog_legal_workday_desc">"Reloj no tiene permiso para conectarse a internet y actualizar la información de días laborables. Las alarmas de días entre semana sonarán de lunes a viernes."</string>
     <string name="dialog_message_agree">Acepto</string>
     <string name="dialog_message_for_contact_permission">Para tener disponibles las alarmas de cumpleaños, el Reloj necesita acceder a sus contactos. ¿Aceptar?</string>
-    <string name="dialog_message_negative">"No acepto"</string>
+    <string name="dialog_message_negative">"Rechazar"</string>
     <string name="dialog_message_not_remind">"No volver a mostrar"</string>
     <string name="dialog_net_permission_in_repeat_type">&lt;Data&gt;Esta función necesita conectarse a internet para funcionar correctamente. Antes de usar esta función, debe aceptar nuestro &lt;a href=\"%1$s\"&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &lt;a href=\"%2$s\"&gt;Política de Privacidad&lt;/a&gt;. ¿Aceptar?&lt;/Data&gt;</string>
     <string name="dialog_privacy_content">Con el fin de obtener y sincronizar información relevante de días feriados públicos y proporcionar servicios personalizados, el reloj necesita conectarse a internet. Antes de usar el reloj debe leer y aceptar nuestro %1$s y nuestra %2$s. ¿Aceptar?</string>
@@ -163,7 +163,7 @@
     <string name="dialog_privacy_content_news">Con el fin de proporcionar servicios personalizados e incluir noticias matutinas en sus alarmas, el reloj necesita conectarse a internet. Antes de usar el reloj debe leer y aceptar nuestro %1$s y nuestra %2$s. ¿Aceptar?</string>
     <string name="dialog_privacy_content_timer">Con el fin de descargar archivos de audio para los temporizadores de sonido ambiental y proporcionar servicios personalizados, el reloj necesita conectarse a internet. Antes de usar el reloj debe leer y aceptar nuestro %1$s y nuestra %2$s. ¿Aceptar?</string>
     <string name="dialog_privacy_content_timer_data">"Con el fin de descargar archivos de audio para los temporizadores de sonido ambiental (20 MB) y proporcionar servicios personalizados, el reloj necesita conectarse a internet. Antes de usar el reloj debe leer y aceptar nuestro %1$s y nuestra %2$s. Está usando datos móviles. ¿Aceptar?"</string>
-    <string name="disagree">"No acepto"</string>
+    <string name="disagree">"Rechazar"</string>
     <string name="done">Listo</string>
     <string name="dynamic_alarm_speech">Alarma inteligente</string>
     <string name="early_morning">Mañana</string>
@@ -178,14 +178,14 @@
     <string name="every_day">Diario</string>
     <string name="expand_button_title">Opciones avanzadas</string>
     <string name="expired_timers_dismissed">Temporizador descartado con éxito</string>
-    <string name="fmt_date_long_month_day">dd MMMM</string>
-    <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
-    <string name="fmt_date_numeric_month_day">dd/MM</string>
-    <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
-    <string name="fmt_date_short_month_day">dd/MM</string>
-    <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
-    <string name="fmt_time_12hour">"hh"</string>
-    <string name="fmt_time_24hour">"H"</string>
+    <string name="fmt_date_long_month_day">d \'de\' MMMM</string>
+    <string name="fmt_date_long_year_month_day">d \'de\' MMMM \'de\' yyyy</string>
+    <string name="fmt_date_numeric_month_day">d/M</string>
+    <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
+    <string name="fmt_date_short_month_day">d \'de\' MMM.</string>
+    <string name="fmt_date_short_year_month_day">d \'de\' MMM. yyyy</string>
+    <string name="fmt_time_12hour">"h 'en punto'"</string>
+    <string name="fmt_time_24hour">"H 'en punto'"</string>
     <string name="force_touch_add_alarm">Agregar alarma</string>
     <string name="force_touch_enter_stopwatch">Cronómetro</string>
     <string name="force_touch_enter_timer">Temporizador</string>
@@ -313,7 +313,7 @@
     <string name="module_white_noise_download_data">Reloj necesita descargar archivos de audio para temporizadores de sonido ambiental. Aproximadamente 30 MB de sus datos móviles serán usados para esta descarga. ¿Descargar?</string>
     <string name="module_white_noise_download_data_privacy">&lt;Data&gt;Para descargar archivos de audio para temporizadores de sonido ambiental (aproximadamente 30 MB) y proveer servicios personalizados, Reloj necesita conectarse a internet. Antes de usar Reloj, debe leer y aceptar nuestro &lt;a href=\"%1$s\"&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &lt;a href=\"%2$s\"&gt;Política de Privacidad&lt;/a&gt;. Está usando datos móviles. ¿Aceptar?&lt;/Data&gt;</string>
     <string name="module_white_noise_download_wifi">Reloj necesita descargar archivos de audio para temporizadores de sonido ambiental. ¿Descargar?</string>
-    <string name="module_white_noise_download_wifi_privacy"><Data>Para descargar archivos de audio para temporizadores de ruido ambiental y ofrecer servicios personalizados, Reloj debe conectarse a Internet. Antes de usar Reloj, debe además leer y aceptar nuestro &lt;a href=\"%1$s\"&gt;Acuerdo de usuario&lt;/a&gt; y &lt;a href=\"%2$s\"&gt;Política de privacidad&lt;/a&gt;. ¿Está de acuerdo?</Data></string>
+    <string name="module_white_noise_download_wifi_privacy">&lt;Data&gt;Para descargar archivos de audio para temporizadores de sonido ambiental y proveer servicios personalizados, el Reloj necesita conectarse a internet. Antes de usar el Reloj, debes leer y aceptar nuestro &lt;a href=\"%1$s\"&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &lt;a href=\"%2$s\"&gt;Política de Privacidad&lt;/a&gt;. ¿Aceptar?&lt;/Data&gt;</string>
     <string name="monday">Lunes</string>
     <string name="monday_short">Lun</string>
     <string name="monday_shortest">Lun</string>
@@ -359,7 +359,7 @@
     <string name="more_setting">Más ajustes</string>
     <string name="more_settings">Ajustes</string>
     <string name="morning">Mañana</string>
-    <string name="net_permission_cancel">"No acepto"</string>
+    <string name="net_permission_cancel">"Rechazar"</string>
     <string name="net_permission_ok">Aceptar</string>
     <string name="network_privacy">&lt;Data&gt;Para obtener información importante sobre días feriados locales y ajustar alarmas, Reloj necesita conectarse a internet. Antes de usar Reloj, debe leer y aceptar nuestro &lt;a href=\"%1$s\"&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &lt;a href=\"%2$s\"&gt;Política de Privacidad&lt;/a&gt;. ¿Aceptar?&lt;/Data&gt;</string>
     <string name="network_privacy_global">&lt;Data&gt;Para proveer servicios personalizados, Reloj necesita conectarse a internet. Antes de usar Reloj, debe leer y aceptar nuestro &lt;a href=\"%1$s\"&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &lt;a href=\"%2$s\"&gt;Política de Privacidad&lt;/a&gt;. ¿Aceptar?&lt;/Data&gt;</string>
@@ -371,7 +371,7 @@
     <string name="noon">Mediodía</string>
     <string name="normal_settings">Ajustes generales</string>
     <string name="not_set">Sin definir</string>
-    <string name="not_set_temporarily">No, gracias</string>
+    <string name="not_set_temporarily">No gracias</string>
     <string name="not_update">No ahora</string>
     <string name="oneshot_alarm">Eliminar cuando suene la alarma</string>
     <string name="open_keep_screen">La pantalla se mantendrá encendida</string>
@@ -389,7 +389,7 @@
     <string name="privacy_policy">Política de Privacidad</string>
     <string name="privacy_policy_title">Política de Privacidad</string>
     <string name="privacy_settings_title">Privacidad</string>
-    <string name="query_privacy_policy">Ver política de privacidad</string>
+    <string name="query_privacy_policy">Ver Política de Privacidad</string>
     <string name="reach_upper_limit">"No puede agregar más temporizadores"</string>
     <string name="read_external_storage_permission_desc">Para configurar tonos de llamada personalizados</string>
     <string name="read_internal_storage">Acceder al almacenamiento</string>
@@ -402,7 +402,7 @@
     <string name="repeat_type">Repetir</string>
     <string name="reset">Reiniciar</string>
     <string name="revert">Deshacer</string>
-    <string name="ringtone_all">Todos los tonos</string>
+    <string name="ringtone_all">Todos los tonos de llamada</string>
     <string name="ringtone_dew">Rocío matutino</string>
     <string name="ringtone_digital_timer">Temporizador</string>
     <string name="ringtone_dream">Ensueño</string>
@@ -421,10 +421,10 @@
     <string name="search_worldclock_keywords">Hora;Reloj mundial;Reloj</string>
     <string name="select_all">Seleccionar todo</string>
     <string name="select_operation">Seleccionar</string>
-    <string name="selected">Seleccionado</string>
+    <string name="selected">Seleccionados</string>
     <string name="send">Enviar</string>
     <string name="set_alarm">Seleccionar hora</string>
-    <string name="set_alarm_choose_ringtone">Seleccionar tono</string>
+    <string name="set_alarm_choose_ringtone">Seleccionar tono de llamada</string>
     <string name="set_alarm_done">Listo</string>
     <string name="set_alarm_other">Otro</string>
     <string name="set_now">Establecer</string>
@@ -440,7 +440,7 @@
     <string name="show_life_post_lable">Mostrar informe matutino</string>
     <string name="shut_down_keep_screen">"La pantalla no se mantendrá encendida"</string>
     <string name="shutdown_alarm_alert_enable_summary">Las alarmas sonarán si fueron programadas para hacerlo al menos 10 minutos después de apagar su dispositivo</string>
-    <string name="shutdown_alarm_alert_enable_summary_new">Enciéndalo para que las alarmas configuradas se apaguen cuando su dispositivo esté apagado. Solo se apagarán las alarmas configuradas durante al menos %d minutos después de apagar el dispositivo.</string>
+    <string name="shutdown_alarm_alert_enable_summary_new">Enciéndalo para que las alarmas configuradas suenen cuando su dispositivo esté apagado. Solo sonarán las alarmas configuradas durante al menos %d minutos después de apagar el dispositivo.</string>
     <string name="shutdown_alarm_alert_title">Alarmas con teléfono apagado</string>
     <string name="shutdown_alarm_disable_summary">"La alarma no sonará después de apagar el dispositivo"</string>
     <string name="shutdown_alarm_enable_summary">"La alarma sonará si está establecida para sonar al menos 10 minutos después de que apague el dispositivo"</string>
@@ -598,7 +598,7 @@
     <string name="timer_end_time_format">HH:mm dd \'de\' MMM.</string>
     <string name="timer_end_time_format_today">HH:mm</string>
     <string name="timer_got_it">Aceptar</string>
-    <string name="timer_got_it_new">Silencio</string>
+    <string name="timer_got_it_new">Silenciar</string>
     <string name="timer_is_paused">Temporizador pausado</string>
     <string name="timer_item_delete">Eliminar</string>
     <string name="timer_item_duration_display">%1$d min %2$d s</string>
@@ -623,9 +623,9 @@
     <string name="tuesday_shortest">Mar</string>
     <string name="turn_off_a_repeat_alarm">Desactivar repetición de la alarma</string>
     <string name="turn_off_this_repeat_alarm">Desactivar esta alarma repetida</string>
-    <string name="tv_blank_list_other_text">Nada aqui todavia</string>
-    <string name="tv_blank_list_show_text">Nada aquí todavía. Busque una ubicación para agregarla a su reloj mundial.</string>
-    <string name="tv_world_clock_edit_title1">Ubicaciones mostradas en la pantalla de inicio</string>
+    <string name="tv_blank_list_other_text">No hay nada todavía</string>
+    <string name="tv_blank_list_show_text">No hay nada todavía. Busque una ubicación para añadirla al reloj mundial.</string>
+    <string name="tv_world_clock_edit_title1">Ubicaciones mostradas en la Pantalla de inicio</string>
     <string name="tv_world_clock_edit_title2">Otras ubicaciones guardadas</string>
     <string name="unselect_all">Deseleccionar todo</string>
     <string name="upcoming_alarm">Próxima alarma: %s</string>
@@ -657,7 +657,7 @@
     <string name="wednesday_short">Mie</string>
     <string name="wednesday_shortest">Mie</string>
     <string name="week_ringtone_recommend_desc">La alarma de la naturaleza reproduce diferentes sonidos según la fecha. ¿Establecerla como alarma predeterminada?</string>
-    <string name="white_noise">Ruido ambiental</string>
+    <string name="white_noise">Sonido ambiente</string>
     <string name="white_noise_guide_desc">Añade un sonido de fondo para mantenerte centrado</string>
     <string name="white_noise_selector">Seleccionar audio</string>
     <string name="workday_alarm_clock">Alarma de días laborales</string>
@@ -678,6 +678,6 @@
     <string name="worldcolock_timezone_date">dd \'de\' MMM.</string>
     <string name="worldcolock_timezone_gap">%s h</string>
     <string name="worldcolock_timezone_local">Igual a la hora local</string>
-    <string name="xiaoai_ringtone_title">Tonos de llamada Mi AI</string>
+    <string name="xiaoai_ringtone_title">Tonos de llamada Mi IA</string>
     <string name="yesterday">Ayer</string>
 </resources>

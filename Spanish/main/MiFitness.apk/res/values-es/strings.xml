@@ -602,8 +602,8 @@ Si cambias de opinión, antes de utilizar nuestros servicios, debes aceptar nues
     <string name="device_add_discovery_paired">Se encontró el dispositivo vinculado</string>
     <string name="device_add_failed">"No se pudo añadir"</string>
     <string name="device_add_new">Añadir dispositivo</string>
-    <string name="device_agree_all">Estoy de acuerdo con todo</string>
-    <string name="device_agree_to_terms">Términos y condiciones</string>
+    <string name="device_agree_all">Acepto todo</string>
+    <string name="device_agree_to_terms">Términos y Condiciones</string>
     <string name="device_alarm_notify">Sincronizar alarmas desde el teléfono</string>
     <string name="device_all_skills">Todas las funciones</string>
     <string name="device_amazon_alexa">Amazon Alexa</string>
@@ -728,8 +728,8 @@ Si cambias de opinión, antes de utilizar nuestros servicios, debes aceptar nues
     <string name="device_remove_device_in_other">Ve a la página Dispositivo y pulsa Desvincular.</string>
     <string name="device_remove_fail">"No se pudo eliminar"</string>
     <string name="device_remove_fail_many_time">Para desvincular el dispositivo, ve a la página Dispositivo y pulsa Desvincular.</string>
-    <string name="device_required_agree_collect_info">&lt;Data&gt;Acepto &lt;a href=\"%1$s\"&gt;Recopilación y uso de información personal&lt;/a&gt; (obligatorio)&lt;/Data&gt;</string>
-    <string name="device_required_agree_use_location">&lt;Data&gt;Acepto &lt;a href=\"%1$s\"&gt;Recopilación de información de ubicación&lt;/a&gt; (obligatorio)&lt;/Data&gt;</string>
+    <string name="device_required_agree_collect_info">&lt;Data&gt;Acepto la &lt;a href=\"%1$s\"&gt;Recogida y Uso de Información Personal&lt;/a&gt; (obligatorio)&lt;/Data&gt;</string>
+    <string name="device_required_agree_use_location">&lt;Data&gt;Acepto la &lt;a href=\"%1$s\"&gt;Recogida de Información de Ubicación&lt;/a&gt; (obligatorio)&lt;/Data&gt;</string>
     <string name="device_retry">Vuelve a intentarlo</string>
     <string name="device_scan_login">Escáner</string>
     <string name="device_scan_qr_add_device">Añadir dispositivo</string>

@@ -285,6 +285,131 @@
         <item>Dibujar un área no rectangular en azul</item>
         <item>Resaltar en verde los comandos de dibujo probados</item>
     </string-array>
+    <string-array name="tile_states_airplane">
+        <item>No disponible</item>
+        <item>Desactivar</item>
+        <item>Activar</item>
+    </string-array>
+    <string-array name="tile_states_alarm">
+        <item>No disponible</item>
+        <item>Desactivar</item>
+        <item>Activar</item>
+    </string-array>
+    <string-array name="tile_states_battery">
+        <item>No disponible</item>
+        <item>Desactivar</item>
+        <item>Activar</item>
+    </string-array>
+    <string-array name="tile_states_bt">
+        <item>No disponible</item>
+        <item>Desactivar</item>
+        <item>Activar</item>
+    </string-array>
+    <string-array name="tile_states_cameratoggle">
+        <item>No disponible</item>
+        <item>Desactivar</item>
+        <item>Activar</item>
+    </string-array>
+    <string-array name="tile_states_cast">
+        <item>No disponible</item>
+        <item>Desactivar</item>
+        <item>Activar</item>
+    </string-array>
+    <string-array name="tile_states_cell">
+        <item>No disponible</item>
+        <item>Desactivar</item>
+        <item>Activar</item>
+    </string-array>
+    <string-array name="tile_states_controls">
+        <item>No disponible</item>
+        <item>Desactivar</item>
+        <item>Activar</item>
+    </string-array>
+    <string-array name="tile_states_dark">
+        <item>No disponible</item>
+        <item>Desactivar</item>
+        <item>Activar</item>
+    </string-array>
+    <string-array name="tile_states_dnd">
+        <item>No disponible</item>
+        <item>Desactivar</item>
+        <item>Activar</item>
+    </string-array>
+    <string-array name="tile_states_flashlight">
+        <item>No disponible</item>
+        <item>Desactivar</item>
+        <item>Activar</item>
+    </string-array>
+    <string-array name="tile_states_hotspot">
+        <item>No disponible</item>
+        <item>Desactivar</item>
+        <item>Activar</item>
+    </string-array>
+    <string-array name="tile_states_internet">
+        <item>No disponible</item>
+        <item>Desactivar</item>
+        <item>Activar</item>
+    </string-array>
+    <string-array name="tile_states_inversion">
+        <item>No disponible</item>
+        <item>Desactivar</item>
+        <item>Activar</item>
+    </string-array>
+    <string-array name="tile_states_location">
+        <item>No disponible</item>
+        <item>Desactivar</item>
+        <item>Activar</item>
+    </string-array>
+    <string-array name="tile_states_mictoggle">
+        <item>No disponible</item>
+        <item>Desactivar</item>
+        <item>Activar</item>
+    </string-array>
+    <string-array name="tile_states_night">
+        <item>No disponible</item>
+        <item>Desactivar</item>
+        <item>Activar</item>
+    </string-array>
+    <string-array name="tile_states_reduce_brightness">
+        <item>No disponible</item>
+        <item>Desactivar</item>
+        <item>Activar</item>
+    </string-array>
+    <string-array name="tile_states_reverse">
+        <item>No disponible</item>
+        <item>Desactivar</item>
+        <item>Activar</item>
+    </string-array>
+    <string-array name="tile_states_rotation">
+        <item>No disponible</item>
+        <item>Desactivar</item>
+        <item>Activar</item>
+    </string-array>
+    <string-array name="tile_states_saver">
+        <item>No disponible</item>
+        <item>Desactivar</item>
+        <item>Activar</item>
+    </string-array>
+    <string-array name="tile_states_screenrecord">
+        <item>No disponible</item>
+        <item>Desactivar</item>
+        <item>Activar</item>
+    </string-array>
+    <string-array name="tile_states_wallet">
+        <item>No disponible</item>
+        <item>Desactivar</item>
+        <item>Activar</item>
+    </string-array>
+    <string-array name="tile_states_wifi">
+        <item>No disponible</item>
+        <item>Desactivar</item>
+        <item>Activar</item>
+    </string-array>
+    <string-array name="tile_states_work">
+        <item>No disponible</item>
+        <item>Desactivar</item>
+        <item>Activar</item>
+    </string-array>
     <string-array name="track_frame_time_entries">
         <item>Desactivado</item>
         <item>En la pantalla como barras</item>
@@ -353,6 +478,20 @@
         <item>Sin éxito</item>
         <item>Bloqueado</item>
         <item>Evitando temporalmente conexión débil</item>
+    </string-array>
+    <string-array name="wifitrackerlib_wifi_status">
+        <item></item>
+        <item>Scanning…</item>
+        <item>Connecting…</item>
+        <item>Authenticating…</item>
+        <item>Obtaining IP address…</item>
+        <item>Conectado</item>
+        <item>Suspended</item>
+        <item>Disconnecting…</item>
+        <item>Desconectado</item>
+        <item>Unsuccessful</item>
+        <item>Blocked</item>
+        <item>Temporarily avoiding poor connection</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Animación desactivada</item>
