@@ -59,9 +59,9 @@
     <string name="accessibility_camera_switch_capture_recording">Cambiar entre modos de foto y video</string>
     <string name="accessibility_camera_ultra_wide_bokeh_off">Modo cuerpo completo desactivado</string>
     <string name="accessibility_camera_ultra_wide_bokeh_on">Modo cuerpo completo activado</string>
-    <string name="accessibility_camera_video_960fps_120">120FPS</string>
-    <string name="accessibility_camera_video_960fps_240">240FPS</string>
-    <string name="accessibility_camera_video_960fps_960">960FPS</string>
+    <string name="accessibility_camera_video_960fps_120">%dFPS</string>
+    <string name="accessibility_camera_video_960fps_240">%dFPS</string>
+    <string name="accessibility_camera_video_960fps_960">%dFPS</string>
     <string name="accessibility_camera_video_fps_120">120FPS</string>
     <string name="accessibility_camera_video_fps_30">30FPS</string>
     <string name="accessibility_closed">Desactivado</string>
@@ -378,15 +378,24 @@ y ajustar las preferencias automáticamente"</string>
     <string name="beauty_lens_none">Desenfocar</string>
     <string name="beauty_lens_use_hint">Utilice una gran apertura para desenfocar el fondo y hacer que los elementos del primer plano se destaquen.</string>
     <string name="beauty_makeups_bluefemale">Escarcha</string>
+    <string name="beauty_makeups_danyan">Desnudo</string>
     <string name="beauty_makeups_gentleman">Plata</string>
     <string name="beauty_makeups_nude">Desnudo</string>
     <string name="beauty_makeups_pinkfemale">Pétalo</string>
+    <string name="beauty_makeups_qianjin">Castaño</string>
+    <string name="beauty_makeups_ruanmei">Adolescente</string>
     <string name="beauty_makeups_solid">Contorno</string>
+    <string name="beauty_makeups_subeffect_filter">Filtros</string>
+    <string name="beauty_makeups_subeffect_makeup">Maquillaje</string>
     <string name="beauty_makeups_toughman">Bronce</string>
+    <string name="beauty_makeups_xiazhi">Sombra de ojos del párpado inferior</string>
+    <string name="beauty_makeups_yanku">Reyna de hielo</string>
+    <string name="beauty_makeups_yuanqi">Fresco</string>
     <string name="beauty_mo_fe">Natural</string>
     <string name="beauty_mo_ma">Clásico</string>
     <string name="beauty_mo_or">Original</string>
     <string name="beauty_mode_reset_toast">Efectos de remodelación borrados con éxito</string>
+    <string name="beauty_mutex_toast_tip">&lt;a href=&gt;Desactiva&lt;/a&gt; efecto de maquillaje primero</string>
     <string name="beauty_ne">Original</string>
     <string name="beauty_no_t">Modo belleza desactivado</string>
     <string name="beauty_origin_skincolor">Original</string>
@@ -411,6 +420,7 @@ y ajustar las preferencias automáticamente"</string>
     <string name="button_normal_video_title">Grabar video</string>
     <string name="camcorder_tip_8k_max_video_duration">Puedes grabar hasta %1$d minutos en 8K</string>
     <string name="camcorder_tip_current_max_video_duration">Puede grabar hasta %d minutos de vídeo con la resolución actual</string>
+    <string name="camcorder_tip_super_night_video_4k_max_video_duration">Puedes grabar hasta %d minutos en 4K</string>
     <string name="camera_disabled">Se deshabilitó la cámara</string>
     <string name="camera_error_title">Error de cámara</string>
     <string name="camera_facedetection_sub_option_hint">Característica experimental</string>
@@ -554,6 +564,7 @@ y ajustar las preferencias automáticamente"</string>
     <string name="cta_perm_voice">Usar el micrófono</string>
     <string name="cta_perm_voice_desc">Para grabar audio mientras se graba vídeo</string>
     <string name="cta_user_tips">&lt;Data&gt;Para comprender plenamente sus derechos como usuario y la forma en que usamos sus datos, lea y acepte nuestro &lt;a href =%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &lt;a href =%2$s&gt;Política de Privacidad&lt;/a&gt;.&lt;/Data&gt;</string>
+    <string name="custom_content_unavailable_alert">"No se puede usar el texto que ingresaste. Prueba otra cosa en su lugar."</string>
     <string name="custom_sound_art">Retro</string>
     <string name="custom_sound_default">Predeterminado</string>
     <string name="custom_sound_modern">Moderno</string>
@@ -654,6 +665,7 @@ La Grabación dual también le permite conectarse al otro dispositivo y crear un
     <string name="dual_video_user_guide_standalone_content_new">Los vídeos grabados simultáneamente también se pueden separar y guardar como dos archivos.</string>
     <string name="early_morning">Mañana</string>
     <string name="edit_blusher">Rubor</string>
+    <string name="edit_cheekbone">Pómulos</string>
     <string name="edit_chin">Barbilla</string>
     <string name="edit_color_skin">Tono de piel</string>
     <string name="edit_eye_large">Ojos grandes</string>
@@ -661,11 +673,14 @@ La Grabación dual también le permite conectarse al otro dispositivo y crear un
     <string name="edit_face_ruddy">Rojizo</string>
     <string name="edit_face_slender">Esbelto</string>
     <string name="edit_hairline">Línea del cabello</string>
+    <string name="edit_head_narrow">Tamaño de la cabeza</string>
+    <string name="edit_jaw">Mandíbula inferior</string>
     <string name="edit_jelly_lips">Brillo labial</string>
     <string name="edit_lips">Labios</string>
     <string name="edit_makeup">Maquillaje</string>
     <string name="edit_neck">Cuello</string>
     <string name="edit_nose">Nariz</string>
+    <string name="edit_nose_tip">Punta nasal</string>
     <string name="edit_pupil_line">Delineador de ojos</string>
     <string name="edit_risorius">Músculo risorio</string>
     <string name="edit_skin_smooth">Suave</string>
@@ -673,6 +688,8 @@ La Grabación dual también le permite conectarse al otro dispositivo y crear un
     <string name="edit_slim_nose">Nariz</string>
     <string name="edit_smile">Sonrisa</string>
     <string name="edit_solid">Contorno</string>
+    <string name="edit_temple">Templos</string>
+    <string name="edit_touch_up">Maquillaje</string>
     <string name="emoticon">Paquete de stickers</string>
     <string name="eras_ad">DC</string>
     <string name="eras_bc">AC</string>
@@ -1242,6 +1259,10 @@ Mantiene al sujeto nítido mientras desenfoca el fondo."</string>
     <string name="pref_audio_focus_title">Enfoque por sonido</string>
     <string name="pref_auto_boot">Autoencendido</string>
     <string name="pref_auto_boot_summary">Haga que la cámara responda mejor al permitir que se inicie automáticamente. Puede administrar los permisos de inicio automático en los detalles de la aplicación.</string>
+    <string name="pref_beauty_me_mp_switch_desc">Ajusta los efectos de maquillaje para hombres en fotos grupales</string>
+    <string name="pref_beauty_me_mp_switch_title">Ajusta los efectos de maquillaje para hombres</string>
+    <string name="pref_beauty_nvs_wp_desc">Eliminar lunares cuando se utilizan efectos suavizantes de la piel</string>
+    <string name="pref_beauty_nvs_wp_title">Eliminar lunares</string>
     <string name="pref_burst_shoot_title">Ráfaga de fotos</string>
     <string name="pref_camcorder_settings">Video</string>
     <string name="pref_camcorder_settings_category">Ajustes de cámara</string>
@@ -1528,6 +1549,7 @@ Mantiene al sujeto nítido mientras desenfoca el fondo."</string>
     <string name="pref_e_p_s_n">Grabe el sonido a través de un micrófono externo cuando los auriculares Bluetooth equipados con micrófono estén conectados</string>
     <string name="pref_face_beauty_title">Embellecer</string>
     <string name="pref_fingerprint_capture_title">Obturador con huella digital</string>
+    <string name="pref_focus_view_bg_tip">AE/AF bloqueado</string>
     <string name="pref_front_denoise_summary">Reduce los ruidos generados detrás de la cámara frontal</string>
     <string name="pref_front_denoise_title">Filtro de ruido Selfie</string>
     <string name="pref_front_mirror_entry_auto">Al detectar el rostro</string>
@@ -1599,6 +1621,7 @@ Mantiene al sujeto nítido mientras desenfoca el fondo."</string>
     <string name="pref_smart_guide_title">Sugerencias inteligentes</string>
     <string name="pref_super_night_se_summary">Detecta condiciones de poca luz y mejora la calidad de la imagen automáticamente</string>
     <string name="pref_super_night_se_title">Modo nocturno automático</string>
+    <string name="pref_true_colour_video_mode_introduction">TC</string>
     <string name="pref_userdefine_watermark_title">Personalizar marca de agua</string>
     <string name="pref_video_ai_audio_effect_comparation_3d">3D</string>
     <string name="pref_video_ai_audio_effect_comparation_3d_i">Sonido 3D</string>
@@ -1618,12 +1641,14 @@ Mantiene al sujeto nítido mientras desenfoca el fondo."</string>
     <string name="pref_video_focusmode_entry_continuous">AF-C</string>
     <string name="pref_video_focusmode_title">Modo de enfoque</string>
     <string name="pref_video_hfr_title">Cuadros por segundo</string>
-    <string name="pref_video_quality_entry_1080p">FHD 1080p, 30FPS</string>
-    <string name="pref_video_quality_entry_1080p_60fps">FHD 1080p, 60FPS</string>
+    <string name="pref_video_quality_entry_1080p">FHD 1080p, %dfps</string>
+    <string name="pref_video_quality_entry_1080p_24fps">Alta definición completa, 1080p, 24 fotogramas por segundo</string>
+    <string name="pref_video_quality_entry_1080p_60fps">FHD 1080p, %dfps</string>
     <string name="pref_video_quality_entry_480p">SD 480p, 30FPS</string>
-    <string name="pref_video_quality_entry_4kuhd">UHD 4K, 30FPS</string>
-    <string name="pref_video_quality_entry_4kuhd_60fps">UHD 4K, 60FPS</string>
-    <string name="pref_video_quality_entry_720p">HD 720p, 30FPS</string>
+    <string name="pref_video_quality_entry_4kuhd">UHD 4K, %dfps</string>
+    <string name="pref_video_quality_entry_4kuhd_24fps">Ultra alta definición, 4K, 24 fotogramas por segundo</string>
+    <string name="pref_video_quality_entry_4kuhd_60fps">UHD 4K, %dfps</string>
+    <string name="pref_video_quality_entry_720p">HD 720p, %dfps</string>
     <string name="pref_video_quality_entry_720p_60fps">HD 720p, 60FPS</string>
     <string name="pref_video_quality_entry_8kuhd">UHD 8K, 30FPS</string>
     <string name="pref_video_quality_hfr_title">Velocidad de fotogramas y calidad de imagen</string>

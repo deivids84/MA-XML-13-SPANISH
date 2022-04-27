@@ -60,6 +60,8 @@
     <string name="freeform_demo_title_skip">Omitir</string>
     <string name="freeform_guide_slide_to_small_freeform_summary_pad">Arrastra la esquina para minimizar una aplicación</string>
     <string name="freeform_guide_slide_to_small_freeform_summary_pad_global">Arrastra la esquina para minimizar una aplicación</string>
+    <string name="freeform_guide_to_sidehide_summary">Arrastra rápidamente la ventana por la barra de acción hasta el borde de la pantalla</string>
+    <string name="freeform_guide_to_sidehide_title">Ocultando ventanas flotantes</string>
     <string name="freeform_slide_to_small_freeform">Minimice una ventana flotante</string>
     <string name="freeform_slide_to_small_freeform_summary">Mantenga presionada la barra de acción y arrastre a una esquina</string>
     <string name="friday">Viernes</string>

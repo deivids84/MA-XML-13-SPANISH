@@ -150,6 +150,7 @@
     <string name="intent_filter_verification_service">Servicio de verificación de filtros de intentos</string>
     <string name="interconnection_communication_introduction">Los servicios de comunicación por Internet de Xiaomi le permiten descubrir, conectarse y comunicarse con otros dispositivos Xiaomi.</string>
     <string name="item_contents_wwarning">"Si su dispositivo se pierde, no podrá evitar que otras personas lo usen y accedan a sus datos a menos que establezca un bloqueo de pantalla. ¿Saltar de todos modos?"</string>
+    <string name="item_facerecognition">Desbloqueo facial</string>
     <string name="item_fingerprint">Huella dactilar</string>
     <string name="item_lock_screen_password">Solo bloqueo de pantalla</string>
     <string name="item_lock_screen_password_only">Pantalla de bloqueo</string>

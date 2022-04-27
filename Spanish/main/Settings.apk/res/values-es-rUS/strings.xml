@@ -2729,6 +2729,7 @@ Esta configuración afecta a todos los usuarios de este dispositivo."</string>
     <string name="device_info_default">Desconocido</string>
     <string name="device_info_not_available">No disponible</string>
     <string name="device_internal_memory">Almacenamiento interno</string>
+    <string name="device_mall_card_title">Consulta los beneficios disponibles</string>
     <string name="device_miui_more">Ver más</string>
     <string name="device_miui_version">Versión MIUI</string>
     <string name="device_miui_version_for_POCO">Versión MIUI (para POCO)</string>
@@ -3323,8 +3324,8 @@ Reinicie su dispositivo y vuelva a intentarlo."</string>
     <string name="face_data_siggesstion_next_time">Siguiente (%d s)</string>
     <string name="face_data_siggesstion_next_time_cn">OK (%ds)</string>
     <string name="face_data_suggesstion_first">El desbloqueo facial es menos seguro que un PIN, una contraseña o un patrón. Su dispositivo puede estar desbloqueado con su foto, así como por personas u objetos con una apariencia similar.</string>
-    <string name="face_data_suggesstion_first_cn">"Para que pueda utilizar el Desbloqueo facial, necesitamos recopilar sus datos faciales. Los datos faciales se almacenarán localmente en este dispositivo. Para eliminarlo, busque \"Desbloqueo facial\" en la Configuración y luego seleccione Desbloqueo &gt; Datos faciales.
-El desbloqueo facial es menos seguro que un PIN, una contraseña o un patrón. Su dispositivo puede estar desbloqueado con su foto, así como por personas u objetos con una apariencia similar."</string>
+    <string name="face_data_suggesstion_first_cn">Para que puedas usar el desbloqueo facial, necesitamos recopilar los datos de tu rostro que luego se almacenarán localmente en este dispositivo. Para eliminarlo, busca Desbloqueo facial en Configuración y luego selecciona Desbloqueo facial &gt; Datos faciales.</string>
+    <string name="face_data_suggesstion_first_cn_highlight">El desbloqueo facial es menos seguro que un PIN, una contraseña o un patrón. Tu dispositivo puede ser desbloqueado con tu foto, así como también por personas u objetos con una apariencia similar.</string>
     <string name="face_data_suggesstion_second">"Asegúrese de que todas las partes de su rostro sean claramente visibles. No use ningún accesorio que pueda cubrir su rostro. Mantenga su rostro iluminado uniformemente y evite la luz directa."</string>
     <string name="face_intro_error_max">Agregaste la cantidad máxima permitida de rostros</string>
     <string name="face_intro_error_unknown">No se pueden agregar más rostros</string>
@@ -3805,7 +3806,7 @@ El área donde puedes confirmar que el bloqueo de la pantalla se moverá a la de
     <string name="gxzw_anim_rhythm">Ritmo</string>
     <string name="gxzw_anim_star">Estrellas</string>
     <string name="gxzw_anim_title">Animación de huella digital</string>
-    <string name="gxzw_aod_show_summary">Levante su dispositivo o toque la pantalla para que el ícono de huella digital aparezca. Esta función aumenta el consumo de energía del sistema.</string>
+    <string name="gxzw_aod_show_summary">Levanta el dispositivo o toca la pantalla para que aparezca el ícono de la huella digital. Esta característica aumenta el consumo de energía del sistema pero le permite desbloquear el dispositivo más rápido.</string>
     <string name="gxzw_aod_show_tittle">Mostrar ícono de huella digital cuando la pantalla está apagada</string>
     <string name="gxzw_dialog_message">"Para poder usar el sensor de huellas digitales en pantalla normalmente, no utilice protectores de pantalla. Si todavía considera que necesita el protector, elija uno de entre las opciones compatibles autorizadas."</string>
     <string name="gxzw_dialog_not_show_again">"No volver a mostrar"</string>
@@ -3825,6 +3826,7 @@ El área donde puedes confirmar que el bloqueo de la pantalla se moverá a la de
     <string name="gxzw_vibrate_title">Vibra mientras desbloqueas</string>
     <string name="handy_mode">Modo a una mano</string>
     <string name="handy_mode_enable">Modo a una mano</string>
+    <string name="handy_mode_hint">El modo con una sola mano solo está disponible en la pantalla exterior</string>
     <string name="handy_mode_size">Tamaño de pantalla</string>
     <string name="handy_mode_tips">Active el modo de una mano deslizando el dedo hacia la izquierda o hacia la derecha desde el centro del panel de navegación.</string>
     <string name="handy_mode_tips_full_screen">"Cuando estás usando gestos a pantalla completa puedes activar el modo a una mano usando la Bola flotante. También puedes cambiar para usar los botones en lugar de los gestos a pantalla completa."</string>
@@ -5718,6 +5720,8 @@ Seleccione su sistema operativo:"</string>
     <string name="networks_title">Redes móviles</string>
     <string name="never">Nunca</string>
     <string name="new_backup_pw_prompt">Escribe una nueva contraseña para copias de seguridad completas.</string>
+    <string name="new_fingerprint_to_new_face_dialog_msg">Para poder usar el desbloqueo facial, agrega primero los datos faciales. ¿Añadir ahora?</string>
+    <string name="new_fingerprint_to_new_face_dialog_tittle">Añadir datos faciales</string>
     <string name="new_password_to_new_fingerprint_dialog_msg">Agregue su huella digital para desbloquear el dispositivo con ella.</string>
     <string name="new_password_to_new_fingerprint_dialog_negative_msg">Cancelar</string>
     <string name="new_password_to_new_fingerprint_dialog_positive_msg">Agregar</string>
@@ -9617,6 +9621,7 @@ Revisa su política de privacidad."</string>
     <string name="wifi_ap_5G">5.0 GHz</string>
     <string name="wifi_ap_band_config">Seleccionar banda AP</string>
     <string name="wifi_ap_band_select_one">Elige al menos una banda para el hotspot de Wi-Fi:</string>
+    <string name="wifi_ap_choose">%1$s GHz</string>
     <string name="wifi_ap_choose_2G">Banda de 2.4 GHz</string>
     <string name="wifi_ap_choose_5G">Banda de 5.0 GHz</string>
     <string name="wifi_ap_choose_auto">Automático</string>

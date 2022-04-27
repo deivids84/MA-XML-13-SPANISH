@@ -200,6 +200,7 @@ Si no desea acceder a las clases recomendadas, puede seguir utilizando los entre
     <string name="character_counter_content_description">Caracteres ingresados %1$d de %2$d</string>
     <string name="character_counter_overflowed_content_description">Límite de caracteres excedido %1$d de %2$d</string>
     <string name="chart_no_data">No hay datos</string>
+    <string name="chip_text">Chip de texto</string>
     <string name="choose_from_album">Galería</string>
     <string name="chronic">Condiciones crónicas</string>
     <string name="chronic_hint">Describe tus condiciones crónicas (por ejemplo, presión arterial alta, asma, etc.)</string>
@@ -836,7 +837,10 @@ Si no desea compartir su información, puede desactivar esta función."</string>
     <string name="mesens_card_title_stop_today">Period ends today</string>
     <string name="mesens_card_title_today_begin">Period might start today</string>
     <string name="mesens_card_title_tomorrow_begin">Period might start tomorrow</string>
+    <string name="mi_belt">Xiaomi Wear</string>
     <string name="mi_health">Xiaomi Salud</string>
+    <string name="mi_sport">Mi Fit</string>
+    <string name="mi_sports">Mi Fit</string>
     <string name="middle">Medio</string>
     <string name="middle_intensity_description">Frecuencia respiratoria más rápida que le permite terminar oraciones</string>
     <string name="midnight">Noche</string>

@@ -30,7 +30,6 @@
     <string name="account_other">Otros</string>
     <string name="actionbar_button_up_description">Atrás</string>
     <string name="afternoon">Tarde</string>
-    <string name="app_name">Emitir</string>
     <string name="audio_record_des">Para transmitir audio desde su dispositivo móvil a monitores externos</string>
     <string name="casting_tips">Emitiendo…</string>
     <string name="clearable_edittext_clear_description">Eliminar</string>
@@ -82,7 +81,7 @@ Consulta la ayuda si tienes problemas para conectarte."</string>
     <string name="dialog_scanning_device">Buscando dispositivos cercanos…</string>
     <string name="dialog_scanning_precondition">Activa el Wi-Fi y Bluetooth en tu teléfono para usar la Pantalla inalámbrica.</string>
     <string name="dialog_scanning_precondition_new_china">Activa los servicios de ubicación, WLAN y Bluetooth para poder emitir. ¿Activar ahora?</string>
-    <string name="dialog_scanning_precondition_new_global">Activa los servicios de ubicación, Wi-Fi y Bluetooth para poder emitir. ¿Activar ahora?</string>
+    <string name="dialog_scanning_precondition_new_global">Activar Wi-Fi y servicios de ubicación para poder usar la función. ¿Activar ahora?</string>
     <string name="dialog_select_tv">Seleccionar dispositivo (%1$d)</string>
     <string name="dialog_show_help">Ayuda</string>
     <string name="disconnect">Detener la emisión</string>

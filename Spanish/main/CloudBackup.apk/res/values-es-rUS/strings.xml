@@ -45,6 +45,8 @@
     <string name="backup_action_buy_cloud_space">Obtener más espacio de almacenamiento</string>
     <string name="backup_action_check_network">Verifique los ajustes de red</string>
     <string name="backup_action_clean_disk_space">Liberar espacio</string>
+    <string name="backup_action_long_time_not_backup_action">Copia de seguridad</string>
+    <string name="backup_action_long_time_not_backup_title">No hay copias de seguridad recientes</string>
     <string name="backup_action_no_space_with_wechat_off_content">No hay suficiente espacio de almacenamiento en la nube para realizar copias de seguridad de los elementos de este dispositivo. Toque para ver las opciones de almacenamiento en la nube disponibles para usted.</string>
     <string name="backup_action_no_space_with_wechat_off_title">"No se pudo realizar una copia de seguridad de los elementos"</string>
     <string name="backup_action_no_space_with_wechat_on_content">No hay suficiente espacio de almacenamiento en la nube para realizar copias de seguridad de los datos de WeChat. Actualice su plan de almacenamiento para realizar copias de seguridad de los elementos.</string>
@@ -200,10 +202,18 @@ Envía este código al técnico."</string>
     <string name="dialog_cancel_backup_msg">Al mover el interruptor se cancelarán los respaldos.</string>
     <string name="dialog_cancel_backup_title">¿Cancelar respaldo?</string>
     <string name="dialog_cloud_space_not_enough">Esta copia de seguridad requiere %1$s de espacio libre de almacenamiento en la nube. Actualice su plan de almacenamiento para realizar copias de seguridad de los elementos.</string>
+    <string name="dialog_content_cancel_backup">Los datos ya cargados se perderán si cancelas la copia de seguridad. ¿Cancelar de todos modos?</string>
+    <string name="dialog_content_cancel_restore">Los datos ya restaurados se conservarán si dejas de restaurar. ¿Dejar de restaurar ahora?</string>
     <string name="dialog_msg_overwrite_backup">El respaldo local es diferente al respaldo en Xiaomi Cloud. Si continúa, el respaldo actual sustituirá al anterior.</string>
     <string name="dialog_msg_restore_require_wlan">Para restaurar los respaldos se necesita una conexión Wi-Fi.</string>
     <string name="dialog_msg_restore_require_wlan_china">Restoring backups requires connecting to WLAN.</string>
     <string name="dialog_need_permission">Permisos requeridos</string>
+    <string name="dialog_negative_btn_cancel_backup">Cancelar copia de seguridad</string>
+    <string name="dialog_negative_btn_cancel_restore">Detener restauración</string>
+    <string name="dialog_positive_btn_cancel_backup">"No cancelar"</string>
+    <string name="dialog_positive_btn_cancel_restore">"No detener"</string>
+    <string name="dialog_title_cancel_backup">Cancelar copia de seguridad</string>
+    <string name="dialog_title_cancel_restore">Detener restauración</string>
     <string name="dialog_title_require_wlan">Conectar a Wi-Fi</string>
     <string name="dialog_title_require_wlan_china">Connect to WLAN</string>
     <string name="dialog_wechat_data_close_agree">Continuar</string>

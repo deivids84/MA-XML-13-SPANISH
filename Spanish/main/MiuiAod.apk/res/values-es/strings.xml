@@ -345,6 +345,7 @@ dd/M"</string>
     <string name="text_length_exceed_limit_alert">*El texto que has introducido es demasiado largo</string>
     <string name="text_size">Tamaño del texto</string>
     <string name="theme_cate_title">tema</string>
+    <string name="theme_manager_other">Más elementos</string>
     <string name="thursday">Jueves</string>
     <string name="thursday_short">Jue</string>
     <string name="thursday_shortest">Jue</string>

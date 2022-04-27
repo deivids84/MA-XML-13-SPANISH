@@ -351,6 +351,7 @@
     <string name="download_while_playing_title">Descargar mientras se reproduce</string>
     <string name="downloaded">Descargado</string>
     <string name="downloaded_empty">Vacío</string>
+    <string name="downloading">Cargando...</string>
     <string name="downloading_apk">Descargardo… Vea el progreso en el panel de notificaciones.</string>
     <string name="downloading_empty">Vacío</string>
     <string name="downloading_pause_apk">Pausado. Reanude la descarga en el panel de notificaciones.</string>
@@ -361,6 +362,7 @@
     <string name="empty_page_no_artist">No hay artistas.</string>
     <string name="enabled">Activado</string>
     <string name="enjoy_hungama_pro">Disfrute Hungama PRO</string>
+    <string name="enroll_in">Inscribirse</string>
     <string name="enter_garbage_clean">Limpiar almacenamiento interno.</string>
     <string name="eq_auto">Personalizado</string>
     <string name="eq_blues">Blues</string>
@@ -530,6 +532,8 @@
     <string name="google_account_login">Iniciar sesión con Google</string>
     <string name="goto_local_search">Buscar en el dispositivo</string>
     <string name="goto_online_search">Buscar en línea</string>
+    <string name="gps_prompt_context">¿Descargando con la red móvil?</string>
+    <string name="gps_prompt_title">Consejos</string>
     <string name="handle_later">Ahora no</string>
     <string name="hd_quality_audio">Calidad de audio HD</string>
     <string name="headset_and_audio_effect_category">Audífonos y efectos de audio</string>

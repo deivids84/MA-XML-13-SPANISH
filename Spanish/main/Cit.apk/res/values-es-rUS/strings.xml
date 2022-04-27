@@ -118,6 +118,7 @@ Base el resultado de la prueba, haga clic en el botón de aprobar o suspender"</
     <string name="front_mic_check_record_tip">Grabación, por favor diga algo a MIC en la parte frontal del dispositivo</string>
     <string name="main_mic_check_record_tip">Grabando, por favor diga algo al MIC en el principal del dispositivo</string>
     <string name="motor_calibration">Calibración del motor</string>
+    <string name="mtb_tool_modem_user_panel">Panel de usuario</string>
     <string name="open_third_color_led">abrir led de tres colores</string>
     <string name="pop_camera">Cámara pop</string>
     <string name="pop_push_camera_test_summary">"Haga clic en el botón de cámara emergente para ver si la cámara sale
