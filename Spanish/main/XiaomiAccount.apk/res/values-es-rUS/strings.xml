@@ -291,6 +291,9 @@ Enviar este código al supervisor."</string>
     <string name="login_check_find_device">Obteniendo información de seguridad del dispositivo…</string>
     <string name="login_check_find_device_failed_title">"No se pudo comprobar la información de seguridad del dispositivo"</string>
     <string name="login_find_device_bind">Este dispositivo está asociado con un ID de una cuenta Mi existente (%s).</string>
+    <string name="login_notification_button_text">Iniciar sesión</string>
+    <string name="login_notification_desc">Disfruta de servicios en la nube, espacio de almacenamiento familiar y más</string>
+    <string name="login_notification_title">Inicia sesión en tu Cuenta Mi</string>
     <string name="login_with_other">Más opciones</string>
     <string name="logout_account">Cerrar sesión</string>
     <string name="logout_failed">"No se pudo cerrar sesión"</string>

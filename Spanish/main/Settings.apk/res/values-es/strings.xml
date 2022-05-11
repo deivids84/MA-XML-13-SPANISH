@@ -129,7 +129,7 @@ Esta opción no funciona con todas las aplicaciones."</string>
     <string name="accessibility_dialog_button_deny">Denegar</string>
     <string name="accessibility_dialog_button_stop">Detener</string>
     <string name="accessibility_disable_animations">Quitar animaciones</string>
-    <string name="accessibility_display_daltonizer_preference_subtitle">Ajusta cómo se muestran los colores en tu dispositivo. Esto puede ser útil cuando desee:<br/><br/><ol><li> Ver los colores con mayor precisión</li><li> Eliminar colores para ayudarlo a enfocarse</li></ol></string>
+    <string name="accessibility_display_daltonizer_preference_subtitle">Ajusta cómo se muestran los colores en tu dispositivo. Esto puede ser útil cuando desees:<br><br/></br><ol><li> Ver colores con mayor precisión<li/> Eliminar colores para ayudarte a concentrarse</li></ol></string>
     <string name="accessibility_display_daltonizer_preference_title">Corrección del color</string>
     <string name="accessibility_display_inversion_preference_subtitle">La inversión de color oscurece las pantallas de colores claros.&lt;br/&gt;&lt;br/&gt; Nota: &lt;ol&gt; &lt;li&gt; La inversión de color también hace más claras las pantallas oscuras.&lt;/li&gt; &lt;li&gt; Los colores cambiarán en el contenido multimedia y en las imágenes.&lt;/li&gt; &lt;li&gt; Con el tema oscuro, puedes aplicar un fondo oscuro a las pantallas. El tema oscuro solo funciona con aplicaciones compatibles, mientras que la inversión de color funciona con todas las aplicaciones.&lt;/li&gt; &lt;/ol&gt;</string>
     <string name="accessibility_display_inversion_preference_title">Invertir colores</string>
@@ -1401,6 +1401,8 @@ No se ha conectado a %2$s antes."</string>
     <string name="bluetooth_enable_alphanumeric_pin">El PIN contiene letras o símbolos.</string>
     <string name="bluetooth_enable_gabeldorsche">Habilitar Gabeldorsche</string>
     <string name="bluetooth_enable_gabeldorsche_summary">Habilita el grupo de funciones Bluetooth Gabeldorsche.</string>
+    <string name="bluetooth_enable_opp_high_speed">Transferencias Bluetooth de alta velocidad</string>
+    <string name="bluetooth_enable_opp_high_speed_summary">Usa protocolos Bluetooth P2P de alta velocidad para transferencias</string>
     <string name="bluetooth_enable_page_scan">habilitar escaneo de página bluetooth</string>
     <string name="bluetooth_enable_page_scan_summary">deshabilitar/habilitar la exploración de páginas para la prueba de Bluetooth</string>
     <string name="bluetooth_enable_pts_test">habilitar la prueba PTS de bluetooth</string>
@@ -3324,7 +3326,7 @@ Reinicie su dispositivo y vuelva a intentarlo."</string>
     <string name="face_data_siggesstion_next_time">Siguiente (%ds)</string>
     <string name="face_data_siggesstion_next_time_cn">OK (%ds)</string>
     <string name="face_data_suggesstion_first">El reconocimiento facial es menos seguro que un código PIN, contraseña o patrón. Tu dispositivo puede ser desbloqueado con tu foto u otras personas y objetos con un parecido similar.</string>
-    <string name="face_data_suggesstion_first_cn">Para que puedas usar el desbloqueo facial, necesitamos recopilar los datos de tu rostro que luego se almacenarán localmente en este dispositivo. Para eliminarlo, busca Desbloqueo facial en Configuración y luego selecciona Desbloqueo facial &gt; Datos faciales.</string>
+    <string name="face_data_suggesstion_first_cn">Para que puedas usar el desbloqueo facial, necesitamos recopilar los datos de tu rostro que luego se almacenarán localmente en este dispositivo. Para eliminarlo, busca desbloqueo facial en configuración y luego selecciona desbloqueo facial &gt; datos faciales.</string>
     <string name="face_data_suggesstion_first_cn_highlight">El desbloqueo facial es menos seguro que un PIN, una contraseña o un patrón. Tu dispositivo puede ser desbloqueado con tu foto, así como también por personas u objetos con una apariencia similar.</string>
     <string name="face_data_suggesstion_second">"Asegúrese de que todas las partes de su rostro sean claramente visibles. No use ningún accesorio que pueda cubrir su rostro. Mantenga su rostro iluminado uniformemente y evite la luz directa."</string>
     <string name="face_intro_error_max">Has añadido el número máximo de caras</string>
@@ -3501,6 +3503,8 @@ Para obtener más información, comuníquese con su proveedor acreedor."</string
     <string name="firewall_wifi">Wi-Fi</string>
     <string name="firewall_wifi_dialog_message">"La aplicación instalada no podrá conectarse a internet con Wi-Fi cuando este interruptor esté desactivado."</string>
     <string name="firmware_version">Versión de Android</string>
+    <string name="fiveg_nrca_switch_summary">Mejora la conexión 5G para entornos de prueba</string>
+    <string name="fiveg_nrca_switch_title">Agregación de portadores 5G</string>
     <string name="fiveg_sa_switch_summary">Usar la red SA en la SIM secundaria (sólo para pruebas)</string>
     <string name="fiveg_sa_vice_switch_title">SA en la SIM secundaria</string>
     <string name="fiveg_vonr_switch_summary">Use VoNR en entornos de red 5G para mejorar la experiencia de llamadas. Esta función se proporciona únicamente con fines de prueba.</string>
@@ -3664,6 +3668,7 @@ Esta función solo funciona cuando la navegación del sistema está configurada 
 · Pulsa \"Ventanas flotantes\" en Recientes para seleccionar aplicaciones."</string>
     <string name="freeform_vedio_description_open_freeform_and_splitscreen">"· Toca una aplicación en la barra lateral para abrirla en una ventana flotante.
 · Arrastra una aplicación al centro de la pantalla para abrirla en una ventana flotante o hacia un lado para usar la pantalla dividida."</string>
+    <string name="freeform_vedio_description_open_freeform_and_splitscreen_pad">· Arrastra una aplicación desde la barra lateral al centro de la pantalla para abrirla en una ventana flotante o hacia un lado para usar la pantalla dividida</string>
     <string name="freeform_vedio_description_pad">Arrastra elementos fuera del dock para abrir ventanas flotantes</string>
     <string name="frequently_fragment_delete">Eliminar</string>
     <string name="frequently_fragment_tempty">Los elementos frecuentes se mostrarán aquí</string>
@@ -4840,6 +4845,8 @@ como el PIN de tu Primer espacio."</string>
     <string name="low_label">Baja</string>
     <string name="low_storage_summary">Queda poco espacio. %1$s usado - %2$s libre</string>
     <string name="macaddr_label">Dirección MAC:</string>
+    <string name="magic_list_empty_text_pad">No hay aplicaciones compatibles con esta característica ahora</string>
+    <string name="magic_window_name_pad">Optimizar aplicaciones para vista horizontal</string>
     <string name="main_clear_accounts">"
 
 Actualmente ha iniciado sesión en las siguientes cuentas:
@@ -5093,6 +5100,9 @@ No podrá revertir esta acción."</string>
     <string name="miheadet_up_music">Pista anterior</string>
     <string name="miheadset_Box">Case</string>
     <string name="miheadset_Intelligentpickfree_summary">Cuando la cancelación de ruido está activada, sus auriculares cambiarán automáticamente a transparencia durante un breve período de tiempo cuando detecten voces</string>
+    <string name="miheadset_LEAudio_summary">"Algunas funciones no estarán disponibles cuando LE Audio esté activado."</string>
+    <string name="miheadset_LEAudio_title">¿Activar LE Audio?</string>
+    <string name="miheadset_LE_on_toast">Asegúrate de que ambos auriculares estén cargados y sacarlos del estuche antes de activar esta función</string>
     <string name="miheadset_LeftEar">Izquierdo</string>
     <string name="miheadset_RightEar">Derecho</string>
     <string name="miheadset_active">Energético</string>
@@ -5147,6 +5157,8 @@ No podrá revertir esta acción."</string>
     <string name="miheadset_enhence_low">Graves mejorados</string>
     <string name="miheadset_equalizer">Ecualizador</string>
     <string name="miheadset_feedback">Comentarios</string>
+    <string name="miheadset_feedback_summary">Para poder enviar registros, coloca ambos auriculares en el estuche de carga y mantén la tapa abierta.</string>
+    <string name="miheadset_feedback_title">Enviar registros</string>
     <string name="miheadset_fitness_check">Prueba de ajuste de las almohadillas del auricular</string>
     <string name="miheadset_fitness_check_checking">Comprobando…</string>
     <string name="miheadset_fitness_check_continue">Siguiente</string>
@@ -5213,9 +5225,12 @@ No podrá revertir esta acción."</string>
     <string name="miheadset_preferences">Preferencias</string>
     <string name="miheadset_rename">Renombrar</string>
     <string name="miheadset_rename_device">Renombrar</string>
+    <string name="miheadset_same_account_incall">Recibir llamadas de todos los dispositivos sincronizados</string>
+    <string name="miheadset_same_account_incall_summary">Conecta los auriculares a otros dispositivos sincronizados para recibir llamadas entrantes</string>
     <string name="miheadset_shared_contacts">Compartir contactos</string>
     <string name="miheadset_shared_contacts_summary">Para compartir contactos</string>
     <string name="miheadset_single_ear_indicate">Use ambos auriculares para usar la cancelación de ruido</string>
+    <string name="miheadset_singleear_toast">No es compatible con un solo auricular</string>
     <string name="miheadset_soft">Suave</string>
     <string name="miheadset_sound_settings">Audio</string>
     <string name="miheadset_spatial_audio_off">Desactivado</string>
@@ -5719,7 +5734,7 @@ Selecciona tu sistema operativo:"</string>
     <string name="networks_title">Redes móviles</string>
     <string name="never">Nunca</string>
     <string name="new_backup_pw_prompt">Introduce una contraseña nueva para las copias de seguridad completas.</string>
-    <string name="new_fingerprint_to_new_face_dialog_msg">Para poder usar el desbloqueo facial, agrega primero los datos faciales. ¿Añadir ahora?</string>
+    <string name="new_fingerprint_to_new_face_dialog_msg">Para poder usar el desbloqueo facial, añade primero los datos faciales. ¿Añadir ahora?</string>
     <string name="new_fingerprint_to_new_face_dialog_tittle">Añadir datos faciales</string>
     <string name="new_password_to_new_fingerprint_dialog_msg">Añade tu huella para desbloquear con ella el dispositivo.</string>
     <string name="new_password_to_new_fingerprint_dialog_negative_msg">Cancelar</string>
@@ -6038,6 +6053,7 @@ Además, podrá activar o desactivar el modo No molestar y modificar ajustes rel
     <string name="notifications_summary_divider"> / </string>
     <string name="notifications_title">Notificaciones</string>
     <string name="now">Reiniciar ahora</string>
+    <string name="nrca_switch_title">Usar agregación de operadores 5G</string>
     <string name="number_of_device_admins_none">No hay aplicaciones activas</string>
     <string name="oaid_apps_summary">Permitir o restringir el acceso a aplicaciones individuales</string>
     <string name="oaid_apps_title">Administrar ID virtual</string>
@@ -7864,6 +7880,7 @@ Es posible que el PIN no sea correcto."</string>
     <string name="sim_no_service">Sin servicio</string>
     <string name="sim_notification_summary">Toca para configurar</string>
     <string name="sim_notification_title">Tarjetas SIM cambiadas.</string>
+    <string name="sim_nrca_title">SIM %1$s (%2$s)</string>
     <string name="sim_other_call_settings">Otras opciones de llamada</string>
     <string name="sim_outgoing_call_title">SIM para hacer llamadas</string>
     <string name="sim_pin_change">Cambiar PIN de la tarjeta SIM</string>

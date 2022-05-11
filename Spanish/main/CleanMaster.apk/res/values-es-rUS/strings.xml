@@ -814,6 +814,7 @@
     <string name="start_clean">Iniciar</string>
     <string name="start_downloading_app">Iniciando descarga: %1$s</string>
     <string name="start_install">Instalar ahora</string>
+    <string name="storage_system_log">Registros del sistema</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="summary_delete_apk">¿Eliminar APK seleccionadas permanentemente?</string>
     <string name="summary_delete_cache">¿Limpiar caché de las aplicaciones seleccionadas?</string>

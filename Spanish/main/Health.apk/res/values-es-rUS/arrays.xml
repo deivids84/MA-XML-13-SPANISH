@@ -109,15 +109,15 @@
         <item>O(+)</item>
     </string-array>
     <string-array name="contact_relation_array">
-        <item>Sin indicar</item>
+        <item>Sin establecer</item>
         <item>Padre/Madre</item>
         <item>Hermana</item>
         <item>Hermano</item>
         <item>Cónyuge</item>
         <item>Pareja</item>
         <item>Amigo/a</item>
-        <item>Colega</item>
-        <item>Compañero/a</item>
+        <item>Compañero/a de trabajo</item>
+        <item>Compañero/a de clase</item>
     </string-array>
     <string-array name="energy_unit">
         <item>" kcal"</item>
@@ -210,13 +210,13 @@
         <item>" m/s"</item>
     </string-array>
     <string-array name="stand_guide_page_content1">
-        <item>"Sentarse no beneficia su salud. En caso de no poder reducir el tiempo que pasa sentado, es una buena idea ponerse de pie de vez en cuando."</item>
-        <item>Esta función le recordará que debe pasar al menos 1 minuto de cada hora de pie. 12 horas con descansos de pie todos los días le ayudará a evitar los riesgos de un estilo de vida sedentario.</item>
+        <item>"Sentarse no beneficia tu salud. En caso de no poder reducir el tiempo que pasas sentado, es una buena idea ponerse de pie de vez en cuando."</item>
+        <item>Esta función te recordará que debes pasar al menos 1 minuto de cada hora de pie. 12 horas con descansos de pie todos los días te ayudará a evitar los riesgos de un estilo de vida sedentario.</item>
         <item>Toca \"Continuar\" para obtener más información y activar esta función.</item>
     </string-array>
     <string-array name="stand_guide_page_content2">
-        <item>Xiaomi Health puede detectar y grabar cuando se pone de pie. También puede recibir recordatorios para ponerse de pie después de 1 hora de inactividad.</item>
-        <item>Esta función rastrea su movimiento y envía recordatorios basados en los resultados.</item>
+        <item>Salud puede detectar y grabar cuando te pones de pie. También puedes recibir recordatorios para ponerte de pie después de 1 hora de inactividad.</item>
+        <item>Esta función rastrea tu movimiento y envía recordatorios basados en los resultados.</item>
     </string-array>
     <string-array name="temperature_unit">
         <item>℃</item>
@@ -250,7 +250,7 @@
         <item>Sat</item>
     </string-array>
     <string-array name="weight_unit">
-        <item>" gramo"</item>
+        <item>" g"</item>
         <item>" kg"</item>
         <item>" t"</item>
         <item>" liang"</item>

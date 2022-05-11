@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="Icon_name_classic_mode">Configuración de la pantalla de inicio</string>
     <string name="abc_action_bar_home_description">Navegar a la página principal</string>
     <string name="abc_action_bar_up_description">Navegar hacia arriba</string>
     <string name="abc_action_menu_overflow_description">Más opciones</string>
@@ -40,7 +41,9 @@
     <string name="accessibility_recent_task_exit">Se cerró Recientes</string>
     <string name="accessibility_recent_task_locked_state">Bloqueado</string>
     <string name="accessibility_recent_task_memory_info">RAM total: %2$s | RAM disponible: %1$s. Toque dos veces para borrar.</string>
+    <string name="accessibility_recent_task_show_menu">Más opciones</string>
     <string name="accessibility_recent_task_unlocked_state">Desbloqueado</string>
+    <string name="accessibility_recents_item_dismissed">%1$s borrado</string>
     <string name="accessibility_recents_item_open_app_info">Abrir información de la aplicación %s.</string>
     <string name="accessibility_splite_screen_primary">Añadida como la aplicación principal en la Pantalla dividida</string>
     <string name="accessibility_splite_screen_secondary">Añadida como la aplicación secundaria en la Pantalla dividida</string>
@@ -52,6 +55,7 @@
     <string name="add_screen">Agregar pantalla</string>
     <string name="added_all_category">Todas las aplicaciones agregadas con éxito</string>
     <string name="afternoon">Tarde</string>
+    <string name="agree_button">Aceptar</string>
     <string name="alexa_notification_add">Añadir</string>
     <string name="alexa_notification_cancel">Ahora no</string>
     <string name="alexa_notification_content">¿Añadir acceso directo de Alexa al Centro de control?</string>
@@ -90,6 +94,7 @@
     <string name="all_apps_slide_up_tips">Deslizar hacia arriba está reservado para abrir el Cajón de aplicaciones. Cambia al Modo pantalla de inicio normal y vuelve a intentarlo.</string>
     <string name="all_apps_suggestions">Sugerencias de aplicaciones</string>
     <string name="am">AM</string>
+    <string name="animation_rate_title">Tasa de animación</string>
     <string name="announce_for_app_move_in_folder">Movido a la posición %1$d en la carpeta</string>
     <string name="announce_for_checked">%1$s, verificado</string>
     <string name="announce_for_choose_default_screen">Establecer la pantalla %1$d como pantalla de inicio por defecto</string>
@@ -142,6 +147,13 @@
     <string name="app_category_tools">Herramientas</string>
     <string name="app_category_travel">Viajes</string>
     <string name="app_category_vr">VR</string>
+    <string name="app_drawer_double_confirm_description">"Esto cambiará el diseño de la pantalla de inicio. Podrás revertir estos cambios en la Configuración más tarde."</string>
+    <string name="app_drawer_double_confirm_title">Atención</string>
+    <string name="app_drawer_feature_description">El cajón de aplicaciones es una herramienta perfecta para organizar todas tus aplicaciones. ¡Categoriza las aplicaciones automáticamente y encuentra todo lo que necesitas en un abrir y cerrar de ojos!</string>
+    <string name="app_drawer_guide_description">"Encuentra lo que buscas en tus aplicaciones favoritas"</string>
+    <string name="app_drawer_guide_title">Cajón de aplicaciones</string>
+    <string name="app_drawer_tip_title">"Hemos reemplazado la fuente de contenido con el cajón de la aplicación."</string>
+    <string name="app_install_state">Instalado</string>
     <string name="application_name">Launcher del sistema</string>
     <string name="apply">Aplicar</string>
     <string name="apply_action">Aplicar</string>
@@ -165,8 +177,40 @@
     <string name="back">Atrás</string>
     <string name="backup_fail">"No se pudo respaldar el launcher"</string>
     <string name="bad_wallpaper_source_prompt">"No se puede cargar el fondo de pantalla"</string>
+    <string name="branch_core_version">Versión de Branch Core</string>
+    <string name="branch_deepview_button">Obtener la aplicación</string>
+    <string name="branch_deepview_button_description">Ver este contenido inmediatamente después de la instalación</string>
+    <string name="branch_feature_description">Además de las aplicaciones, Buscador Rápido puede encontrar contenido en la aplicación y elementos en línea.</string>
+    <string name="branch_guide_attention">El uso de la búsqueda mejorada requiere compartir tus solicitudes de búsqueda, el ID de Google Ads y la dirección IP con Branch Metrics Inc. Lee y acepta <a href="http://url1"><font color="#B3000000">Términos de descubrimiento de usuarios finales &amp; Condiciones</font></a> y <a href="http://url2"><font color="#B3000000">Política de privacidad de descubrimiento de sucursales</font></a> antes de usar esta función.</string>
+    <string name="branch_guide_description_one">"Pondremos todas tus aplicaciones en el cajón de aplicaciones. Tu pantalla de inicio se verá ordenada y organizada."</string>
+    <string name="branch_guide_description_three">"¡Con la búsqueda integrada, podrás encontrar lo que necesites en un instante!"</string>
+    <string name="branch_guide_description_two">El cajón de aplicaciones clasifica las aplicaciones automáticamente.</string>
+    <string name="branch_guide_tip_title">Cada aplicación en su propio lugar</string>
+    <string name="branch_guide_title">Conoce el cajón de aplicaciones</string>
+    <string name="branch_guide_type_four_desc">Puedes volver a las formas antiguas con un solo toque</string>
+    <string name="branch_guide_type_four_main">En \"Configuración\" - \"Pantalla de inicio\", cambia entre los dos modos.</string>
+    <string name="branch_guide_type_four_step_one">Paso 1: has clic en \"Configuración\"</string>
+    <string name="branch_guide_type_four_step_two">Paso 2: has clic en \"Pantalla de inicio\"</string>
+    <string name="branch_guide_type_one_desc">El cajón de aplicaciones te ayuda a administrar tu aplicación</string>
+    <string name="branch_guide_type_one_main">Pondremos todas tus aplicaciones en el cajón de aplicaciones. ¡La búsqueda integrada te ayuda a encontrar lo que necesita en un instante!</string>
+    <string name="branch_key">Clave de Branch</string>
+    <string name="branch_new_feature">Nueva caracteristica</string>
+    <string name="branch_privacy_policy">Política de privacidad</string>
+    <string name="branch_search_guide_description">Nuestros resultados de búsqueda son mucho más completos ahora</string>
+    <string name="branch_search_guide_privacy">\"Este servicio es impulsado por Branch Metrics Inc. Tu información de ubicación, consultas de búsqueda e ID de Google Ads se compartirán con Branch. Lee y acepta los \"<a href="http://url1"><font color="#B3000000">Términos y condiciones</font></a> y <a href="http://url2"><font color="#B3000000">Política de privacidad</font></a> de Branch antes de usar este Servicio.</string>
+    <string name="branch_search_guide_title">"Encuentra lo que buscas en tus aplicaciones favoritas"</string>
+    <string name="branch_terms_condition">Términos y Condiciones</string>
+    <string name="branch_tip_title">Con Buscador Rápido, puedes encontrar todo lo que necesitas en un instante.</string>
+    <string name="branch_ui_version">Versión de UI de Branch</string>
+    <string name="btn_agree">Aceptar</string>
+    <string name="btn_cancel">Cancelar</string>
+    <string name="btn_close">Desactivar</string>
+    <string name="btn_open">Activar</string>
+    <string name="btn_request_permission">Otorgar permisos</string>
+    <string name="btn_set_right_now">Otorgar permisos</string>
     <string name="buffering">Almacenando en búfer…</string>
     <string name="cancel_action">Cancelar</string>
+    <string name="cancel_botton">Cancelar</string>
     <string name="cancel_btn_label">Cancelar</string>
     <string name="cant_edit_lock_screen">"No puede editar el estilo de la pantalla de bloqueo"</string>
     <string name="cant_remove_folder">"No se pudo eliminar la carpeta"</string>
@@ -188,7 +232,10 @@
     <string name="chooser_wallpaper">Seleccione un nuevo fondo de pantalla</string>
     <string name="clearable_edittext_clear_description">Borrar</string>
     <string name="close">Cerrar</string>
+    <string name="close_multi_finger_slide_summary">Estos gestos se ignorarán en algunos escenarios (por ejemplo, reproducción de juegos y videos)</string>
+    <string name="close_multi_finger_slide_title">"No responder a gestos de tres y cuatro dedos"</string>
     <string name="cloud_app_restore_title">Pendiente</string>
+    <string name="common_google_play_services_unknown_issue">%1$s estás teniendo problemas con los servicios de Google Play. Inténtalo de nuevo.</string>
     <string name="common_home_search_delete">Eliminar la barra de búsqueda</string>
     <string name="common_home_search_delete_cancle">Cancelar</string>
     <string name="common_home_search_delete_confirm">Eliminar</string>
@@ -246,6 +293,7 @@
     <string name="disable_wallpaper_scroll">Desactivar desplazamiento entre pantallas</string>
     <string name="double_tap_to_lock_title">Doble toque para bloquear</string>
     <string name="download_action">Descargar</string>
+    <string name="drag_icon_to_homescreen_guide">Mantén presionado el ícono de una aplicación, luego arrástralo para agregar un acceso directo a la pantalla de inicio</string>
     <string name="drawer_background">Fondos</string>
     <string name="drawer_background_dark">Oscuro</string>
     <string name="drawer_background_light">Claro</string>
@@ -274,9 +322,11 @@
     <string name="emptyplaylist">Toque para agregar canciones</string>
     <string name="enable_wallpaper_scroll">Activar desplazamiento entre pantallas</string>
     <string name="encryption">Encriptación</string>
+    <string name="enter_search_setting_title">Abrir búsqueda después de abrir el cajón de la aplicación</string>
     <string name="eras_ad">DC</string>
     <string name="eras_bc">AC</string>
     <string name="evening">Tarde</string>
+    <string name="exit_overview_because_task_stack_changed">Cerrados recientes debido a cambios ocurridos en segundo plano</string>
     <string name="expand_button_title">Opciones avanzadas</string>
     <string name="failed_to_delete_temporary">"No se pudo eliminar"</string>
     <string name="failed_to_drop">"No se pudo mover"</string>
@@ -345,11 +395,14 @@
     <string name="gadget_weather_title_14">Tiempo</string>
     <string name="gadget_weather_title_24">Tiempo</string>
     <string name="global_search_hint">Buscar</string>
+    <string name="got_it_botton">Entendido</string>
     <string name="group_folder">Nueva carpeta</string>
     <string name="group_live_folders">Carpetas</string>
     <string name="group_shortcuts">Accesos directos</string>
     <string name="guide_install_app_msg">"Esta aplicación no está instalada en su dispositivo. ¿Buscar e instalar la aplicación?"</string>
     <string name="guide_install_app_title">¿Buscar e instalar aplicación?</string>
+    <string name="guide_permission_title">Permisos requeridos</string>
+    <string name="guide_privacy_dialog_title">Términos de Servicio</string>
     <string name="guide_tips_editing_mode">Mantenga presionado para escoger un widget</string>
     <string name="hide_apps_title">Ocultar iconos de aplicaciones</string>
     <string name="home_gesture_content_center">Centro de contenido</string>
@@ -366,6 +419,7 @@
     <string name="icon_size">Tamaño del icono</string>
     <string name="icon_style">Estilo</string>
     <string name="image_too_small_message">"La imagen original no es lo suficientemente grande."</string>
+    <string name="in_app_result_by">Resultados en la aplicación por</string>
     <string name="install">Instalar</string>
     <string name="invalid_contact_shortcut">Contacto inválido</string>
     <string name="is_setting_wallpaper_message">Estableciendo fondo de pantalla…</string>
@@ -383,6 +437,9 @@
     <string name="launcher_slide_up_title">Deslizar hacia arriba en la pantalla de inicio</string>
     <string name="launcher_sliding_up_gesture">Deslice hacia arriba en la pantalla de inicio para buscar</string>
     <string name="launcher_title">Pantalla de inicio y Recientes</string>
+    <string name="layout_guide_description">"Si no te gusta el cajón de aplicaciones, siempre puedes volver a la pantalla de inicio clásica. Simplemente usa el atajo \"Configuración de la pantalla de inicio\" y cambia entre los dos modos."</string>
+    <string name="layout_guide_tip_title">Puedes volver a las formas antiguas con un solo toque</string>
+    <string name="layout_guide_title">Cómo quitar el cajón de aplicaciones</string>
     <string name="lib_name">Filamento Android</string>
     <string name="like">Agregar a favoritos</string>
     <string name="liked">Agregado a favoritos</string>
@@ -504,8 +561,12 @@
     <string name="mtzgadget_missing_text">"Widget no disponible"</string>
     <string name="multi_selecting_tips">Para elegir una aplicación, arrastre su ícono y colóquelo aquí.</string>
     <string name="navigation_guide_app_quick_switch_hide_line_summary">Deslice hacia arriba desde la parte inferior de la pantalla, después deslice a la izquierda o derecha</string>
+    <string name="navigation_guide_app_quick_switch_hide_line_summary_pad">Deslizar hacia la izquierda o hacia la derecha en la parte inferior de la pantalla</string>
     <string name="navigation_guide_app_quick_switch_summary">Deslice a la izquierda o derecha desde el indicador de pantalla completa o la parte inferior de la pantalla</string>
+    <string name="navigation_guide_app_quick_switch_summary_pad">Desliza a la izquierda o a la derecha desde el indicador de pantalla completa o la parte inferior de la pantalla</string>
+    <string name="navigation_guide_app_quick_switch_summary_spec_pad">Desliza a la izquierda o derecha desde la parte inferior de la pantalla</string>
     <string name="navigation_guide_app_quick_switch_title">Cambiar entre aplicaciones</string>
+    <string name="navigation_guide_app_quick_switch_title_spec_with_quotation_pad">Cambiar entre aplicaciones</string>
     <string name="navigation_guide_app_summary">Deslice a la izquierda o derecha desde el borde de la pantalla en la parte superior</string>
     <string name="navigation_guide_app_title">"Activar la acción de la aplicación"</string>
     <string name="navigation_guide_appswitch_anim_summary">Deslice a través de la pantalla empezando desde el borde para volver a la aplicación anterior</string>
@@ -514,24 +575,46 @@
     <string name="navigation_guide_appswitch_summary">Deslice a la izquierda o derecha desde el borde de la pantalla y mantenga presionado por un momento</string>
     <string name="navigation_guide_appswitch_title">Cambiar a la aplicación previa</string>
     <string name="navigation_guide_back_summary">Deslice hacia la izquierda o la derecha desde el borde de la pantalla</string>
+    <string name="navigation_guide_back_summary_pad">Deslizar desde el lateral hacia el centro de la pantalla</string>
+    <string name="navigation_guide_back_summary_spec_pad">Deslizar desde el borde hacia el centro de la pantalla</string>
     <string name="navigation_guide_back_title">Volver</string>
+    <string name="navigation_guide_back_title_spec_with_quotation_pad">Volver</string>
     <string name="navigation_guide_dialog_dont_show_again">"No volver a mostrar"</string>
     <string name="navigation_guide_dialog_ok">Aprender</string>
     <string name="navigation_guide_dialog_skip">Ahora no</string>
     <string name="navigation_guide_dialog_summary">Aprenda qué gestos puede usar para la navegación del sistema.</string>
     <string name="navigation_guide_dialog_title">Aprender gestos</string>
+    <string name="navigation_guide_dock_summary_pad">Desliza hacia arriba desde la parte inferior de la pantalla</string>
+    <string name="navigation_guide_dock_summary_spec_pad">Desliza hacia arriba desde el borde inferior de la pantalla</string>
+    <string name="navigation_guide_dock_title_pad">Mostrar base de aplicaciones</string>
+    <string name="navigation_guide_dock_title_spec_pad">Mostrar base de aplicaciones dentro de una aplicación</string>
+    <string name="navigation_guide_dock_title_spec_with_quotation_pad">Mostrar base de aplicaciones dentro de una aplicación</string>
     <string name="navigation_guide_finish_text">Entendido</string>
     <string name="navigation_guide_gesture_line_dialog_summary">Se usará un nuevo gesto para cambiar entre aplicaciones después de ocultar el indicador de pantalla completa. ¿Aprender ahora este gesto?</string>
     <string name="navigation_guide_gesture_line_dialog_title">Aprender un nuevo gesto</string>
     <string name="navigation_guide_hide_gesture_line_summary">"No mostrar el indicador de pantalla completa al usar los gestos a pantalla completa"</string>
     <string name="navigation_guide_hide_gesture_line_title">Ocultar indicador de pantalla completa</string>
     <string name="navigation_guide_home_summary">Deslice hacia arriba desde la parte inferior de la pantalla</string>
+    <string name="navigation_guide_home_summary_spec_pad">Deslizar hacia arriba desde el borde inferior de la pantalla</string>
     <string name="navigation_guide_home_title">Ir a la Pantalla de inicio</string>
+    <string name="navigation_guide_home_title_spec_with_quotation_pad">Ir a la pantalla de inicio</string>
+    <string name="navigation_guide_next_spec_pad">Siguiente</string>
+    <string name="navigation_guide_prev_spec_pad">Atrás</string>
     <string name="navigation_guide_prohibit_gesture_hint">"No puedo usar gestos de pantalla completa mientras observas demostraciones"</string>
+    <string name="navigation_guide_provision_see_more_pad">Ver más demostraciones en Configuración &gt; Pantalla de inicio &gt; Gestos de pantalla completa</string>
     <string name="navigation_guide_provision_see_more_pad_with_virtual_key">Ver más demostraciones en Configuración &gt; Pantalla de inicio &gt; Navegación del sistema</string>
+    <string name="navigation_guide_provision_title_pad">Gestos de pantalla completa</string>
     <string name="navigation_guide_recent_summary">Deslice hacia arriba desde la parte inferior de la pantalla y pause</string>
+    <string name="navigation_guide_recent_summary_pad">Desliza hacia arriba desde la parte inferior de la pantalla y has una pausa</string>
+    <string name="navigation_guide_recent_summary_spec_pad">Desliza hacia arriba desde el borde inferior de la pantalla, has una pausa y levanta el dedo</string>
     <string name="navigation_guide_recent_title">Abrir Recientes</string>
+    <string name="navigation_guide_recent_title_spec_with_quotation_pad">Abrir Recientes</string>
     <string name="navigation_guide_settings">Demostraciones de gestos</string>
+    <string name="navigation_position_center">Centro</string>
+    <string name="navigation_position_left">Izquierda</string>
+    <string name="navigation_position_right">Derecha</string>
+    <string name="navigation_position_summary">Las posiciones personalizadas de los botones de navegación solo se pueden aplicar a la pantalla de inicio</string>
+    <string name="navigation_position_title">Posición de los botones de navegación</string>
     <string name="navigation_set_miui_home_as_default_dialog_cancel">Cancelar</string>
     <string name="navigation_set_miui_home_as_default_dialog_message">"No se pueden usar gestos de pantalla completa con lanzadores de terceros. ¿Cambiar al iniciador del sistema y activar los gestos de pantalla completa?"</string>
     <string name="navigation_set_miui_home_as_default_dialog_ok">OK</string>
@@ -540,6 +623,7 @@
     <string name="navigation_type_title">Navegación del sistema</string>
     <string name="navigation_type_virtual_key">Botones</string>
     <string name="network_error">"No se pudo conectar a la red. Vuelva a intentarlo."</string>
+    <string name="new_feature_title">"Novedades"</string>
     <string name="night">Tarde</string>
     <string name="no_detail_page">No hay página de detalles</string>
     <string name="no_space_toast">No hay suficiente espacio</string>
@@ -582,6 +666,7 @@
     <string name="photo_load_failed">"No se pudo cargar la foto"</string>
     <string name="please_slide_agian">Vuelva a deslizar</string>
     <string name="pm">PM</string>
+    <string name="popular_search">Popular</string>
     <string name="pref_cell_layout_size">Orden de íconos</string>
     <string name="pref_enable_drawing_cache_summary">Desactivar esta opción liberará memoria. Podría ralentizar el desempeño.</string>
     <string name="pref_enable_drawing_cache_title">Caché de dibujo</string>
@@ -602,6 +687,14 @@
     <string name="privacy_thumbnail_blur_summary">Desenfocar vistas previas de aplicaciones Recientes</string>
     <string name="privacy_thumbnail_blur_title">Desenfocar vistas previas de aplicaciones</string>
     <string name="quick_app">Aplicaciones rápidas</string>
+    <string name="quick_finder_feature_description">Buscador Rápido te permite encontrar aplicaciones, contenido dentro de la aplicación y artículos en línea más rápido. Puedes desactivar esta función en la Configuración.</string>
+    <string name="quick_finder_tip_title">Encuentra todo lo que necesitas más rápido</string>
+    <string name="quick_search_all_app_desc">Mostrar todas las aplicaciones en el cajón de aplicaciones</string>
+    <string name="quick_search_desc">Abrir búsqueda después de abrir el cajón de la aplicación</string>
+    <string name="quick_search_guide_all_apps">Todas las aplicaciones</string>
+    <string name="quick_search_guide_ok_btn">OK </string>
+    <string name="quick_search_guide_quick_search">Búsqueda rápida</string>
+    <string name="quick_search_guide_title">Selecciona el modo predeterminado</string>
     <string name="recent_apps">Recientes</string>
     <string name="recent_menu_item_info">Información</string>
     <string name="recent_menu_item_lock">Bloquear</string>
@@ -652,6 +745,8 @@
     <string name="remove_invalidate_gadget_tips">Uno de los widgets que usa ya no está disponible. Puede agregar otro.</string>
     <string name="remove_sys_app_content">"Podrá volver a agregar el acceso directo a la Pantalla de inicio en Ajustes &gt; Aplicaciones &gt; Administrar accesos directos de la Pantalla de inicio. ¿Quitar ahora?"</string>
     <string name="remove_sys_app_title">¿Eliminar el acceso directo de la Pantalla de inicio?</string>
+    <string name="request_permission_msg">POCO Launcher necesita un par de permisos para darte acceso a su funcionalidad completa.</string>
+    <string name="request_permission_title">Permisos requeridos</string>
     <string name="reset_cate_tip_content">Si continúa, los grupos de aplicaciones por defecto serán restaurados. ¿Continuar?</string>
     <string name="reset_cate_tip_title">Restaurar grupos por defecto</string>
     <string name="reset_description_first_time">Puede restaurar el diseño de %1$s en 2 horas</string>
@@ -667,6 +762,8 @@
     <string name="screen_cells_config_title">Diseño de la pantalla de inicio</string>
     <string name="screen_locked_toast">Diseño de la pantalla de inicio fijado.</string>
     <string name="screen_number">%d pantalla</string>
+    <string name="search_bar_hint_content">Buscar aplicaciones y contenido</string>
+    <string name="search_guide_btn">Entendido</string>
     <string name="search_in_apps_store">Buscar \"%1$s\" en %2$s</string>
     <string name="search_menu_title">Buscar</string>
     <string name="search_no_result">"No se pudo encontrar ningún resultado"</string>
@@ -675,6 +772,7 @@
     <string name="select_photo">Foto</string>
     <string name="send">Enviar</string>
     <string name="server_error">Se produjo un error del servidor. Espera un minuto o dos y vuelve a intentarlo.</string>
+    <string name="service_double_attention">Branch Metrics Inc. proporciona la función de búsqueda mejorada. Para que esta función funcione, debemos compartir tus solicitudes de búsqueda, el ID de Google Ads y la dirección IP con Branch Metrics Inc. Lee y acepta <a href="http://url1"><font color="#B3000000">Términos de descubrimiento de usuarios finales &amp; Condiciones</font></a> y <a href="http://url2"><font color="#B3000000">Política de privacidad de detección de sucursales</font></a> antes de usar esta función.</string>
     <string name="setting_wallpaper_tip">Pellizque o deslice para ajustar</string>
     <string name="settings">Ajustes</string>
     <string name="settings_shortcut">Ajustes</string>
@@ -690,6 +788,7 @@
     <string name="show_most_popular_apps_you_used">Mostrar las aplicaciones más usadas en el Cajón de Aplicaciones</string>
     <string name="show_recents_recommend_title">Mostrar sugerencias</string>
     <string name="slide_to_open_newhome">Deslice hacia arriba para abrir el Centro de Contenido</string>
+    <string name="small_window">Ventana flotante</string>
     <string name="small_window_button_complete">Listo</string>
     <string name="small_window_edit_content">Puede añadir hasta %d aplicaciones</string>
     <string name="small_window_edit_title">Aplicaciones actuales</string>
@@ -710,12 +809,14 @@
     <string name="status_installing">Instalando</string>
     <string name="status_paused">Pausado</string>
     <string name="status_pending">En espera</string>
+    <string name="suggestions">Sugerencias</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Domingo</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
     <string name="swipe_the_desktop_to_the_left">Desliza hacia la izquierda en la pantalla de inicio</string>
     <string name="swipe_the_desktop_to_the_right">Desliza hacia la derecha en la pantalla de inicio</string>
+    <string name="switch_on_button">Activar</string>
     <string name="switch_personal_assistant_app_vault">Bóveda de aplicaciones</string>
     <string name="switch_personal_assistant_google">Google Discover</string>
     <string name="switch_personal_assistant_none">Ninguno</string>
@@ -726,6 +827,10 @@
     <string name="system_shortcuts_remove">Eliminar</string>
     <string name="system_text">Automático</string>
     <string name="task_access_locked_app_msg">Bloqueo de aplicaciones activado</string>
+    <string name="term_of_service">Términos y Condiciones</string>
+    <string name="terms_of_services_one">\"Bienvenido al cajón de aplicaciones y al Buscador Rápido. El Buscador Rápido te permite encontrar aplicaciones, contenido dentro de la aplicación y elementos en línea más rápido. Lee y acepta la \"<a href="http://url1"><font color="#B3000000">Política de privacidad</font></a> de Xiaomi antes de usar estas funciones.</string>
+    <string name="terms_of_services_three">Puedes desactivar esta función en Configuración.</string>
+    <string name="terms_of_services_two">El uso de la búsqueda mejorada requiere compartir la información personal necesaria, incluidas tus consultas de búsqueda, el ID de publicidad de Google y la dirección IP, con Branch Metrics Inc. Branch procesará su información personal de acuerdo con la Política de privacidad de <a href="http://url1"><font color="#B3000000">Branch Discovery</font></a>. Lea y acepte <a href="http://url2"><font color="#B3000000">Términos de descubrimiento de usuarios finales &amp; Condiciones</font></a> y <a href="http://url3"><font color="#B3000000">Política de privacidad de descubrimiento de sucursales</font></a> antes de usar esta función.</string>
     <string name="thursday">Jueves</string>
     <string name="thursday_short">Jue</string>
     <string name="thursday_shortest">Jue</string>
@@ -750,6 +855,11 @@
     <string name="tuesday">Martes</string>
     <string name="tuesday_short">Mar</string>
     <string name="tuesday_shortest">Mar</string>
+    <string name="uni_search_permission_content">Activa las funciones de búsqueda en línea. (Los servicios de búsqueda son proporcionados por Branch.)</string>
+    <string name="uni_search_permission_msg">Permite que POCO Launcher acceda a tu ubicación y contactos para mejorar los resultados de búsqueda.</string>
+    <string name="uni_search_permission_title">Búsqueda mejorada</string>
+    <string name="uni_search_setting_summary">Encuentra contenido directamente dentro de la aplicación</string>
+    <string name="uni_search_setting_title">Modo de consulta en la aplicación</string>
     <string name="uninstall">Desinstalar</string>
     <string name="uninstall_dialog_message">Desinstalar la aplicación eliminará todos sus datos.</string>
     <string name="uninstall_dialog_title_format">¿Desinstalar %s?</string>

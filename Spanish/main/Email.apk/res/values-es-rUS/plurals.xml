@@ -116,6 +116,10 @@
         <item quantity="other">Borradores</item>
         <item quantity="one">Borrador</item>
     </plurals>
+    <plurals name="email_filter_rule_max_tips">
+        <item quantity="other">Puedes añadir hasta %1$d condiciones</item>
+        <item quantity="one">Puedes añadir hasta %1$d condición</item>
+    </plurals>
     <plurals name="empty_folder_dialog_message">
         <item quantity="other">%1$d mensajes se eliminarán permanentemente.</item>
         <item quantity="one">%1$d mensaje se eliminará permanentemente.</item>

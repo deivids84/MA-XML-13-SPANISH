@@ -196,6 +196,10 @@
         <item quantity="other">Agregar hasta %d marcadores</item>
         <item quantity="one">Agregar hasta %d marcador</item>
     </plurals>
+    <plurals name="video_like_text">
+        <item quantity="other">%s me gusta</item>
+        <item quantity="one">%s me gusta</item>
+    </plurals>
     <plurals name="video_view_count">
         <item quantity="other">%d vistas</item>
         <item quantity="one">%d vista</item>

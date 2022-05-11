@@ -272,6 +272,7 @@
     <string name="month_september_shortest">Sep</string>
     <string name="more">Más</string>
     <string name="morning">Mañana</string>
+    <string name="msim_select_default_last">Usado recientemente</string>
     <string name="msim_select_default_time_left">(%d s)</string>
     <string name="night">Tarde</string>
     <string name="noon">Mediodía</string>

@@ -602,6 +602,7 @@ Selección"</string>
     <string name="notification_disconnectedCall_body">Se ha interrumpido la llamada a %s debido a una llamada de emergencia.</string>
     <string name="notification_disconnectedCall_generic_body">Se ha interrumpido tu llamada debido a una llamada de emergencia.</string>
     <string name="notification_disconnectedCall_title">Llamada interrumpida</string>
+    <string name="notification_disconnectedDialing_message">No se puede realizar una llamada porque otra llamada saliente ya está marcando.</string>
     <string name="notification_incallservice_not_responding_body">La llamada se utilizó la aplicación para teléfonos que venía con tu dispositivo</string>
     <string name="notification_incallservice_not_responding_title">%s ha dejado de responder</string>
     <string name="notification_incoming_call">Llamada de %1$s de %2$s</string>

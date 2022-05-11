@@ -320,9 +320,9 @@ añadidos a la lista de bloqueos"</string>
     <string name="favorite_at_time">Añadido a favoritos a las: %1s</string>
     <string name="fdn_check_failure">Solo puede enviar mensajes a los números de marcación fija.</string>
     <string name="feature_mx">Mi mensaje</string>
-    <string name="feature_mx_summary"><b>Mi Mensajes le permite enviar mensajes a otros usuarios de Mi Mensajes a través de Internet sin incurrir en cargos</b>. Se requiere un mensaje SMS saliente para activar este servicio. Su operador le cobrará por este mensaje. Lea y acepte nuestro <font color="#B3000000"><a href="http://url1">Acuerdo de usuario</a></font> y <font color="#B3000000"><a href="http://url2">Política de privacidad</a></font> antes de utilizar esta función.</string>
+    <string name="feature_mx_summary"><b>Mi Message te permite enviar mensajes a otros usuarios de Mi Message a través de Internet sin incurrir en cargos</b>. Se requiere un mensaje SMS saliente para activar este servicio. Tu operador te cobrará por este mensaje. Lee y acepta nuestro <a href="http://url1"><font color="#B3000000">Acuerdo de usuario</font></a> y <a href="http://url2"><font color="#B3000000">Política de privacidad</font></a> antes de usar esta función.</string>
     <string name="feature_smart_sms">Mensajes Inteligentes</string>
-    <string name="feature_smart_sms_summary"><b>Mensajería Inteligente proporciona reconocimiento de ID de remitente y menús inteligentes</b>\". Mensajería Inteligente es proporcionado en parte por Yulore. Lea y acepte la\"<font color="#B3000000"><a href="http://url3">Política de privacidad</a></font> Yulore antes de usar esta función.</string>
+    <string name="feature_smart_sms_summary"><b>Mensajería Inteligente proporciona reconocimiento de ID de remitente y menús inteligentes</b>\". Mensajería Inteligente es proporcionado en parte por Yulore. Lee y acepta la\"<a href="http://url3"><font color="#B3000000">Política de privacidad</font></a> Yulore antes de usar esta función.</string>
     <string name="festival_sms_loading">Cargando…</string>
     <string name="file_create_time">Creado:</string>
     <string name="file_size">Tamaño:</string>
@@ -354,7 +354,7 @@ añadidos a la lista de bloqueos"</string>
     <string name="ft_cfs_dialog_content">"No se pudo enviar los archivos usando RCS. ¿Envíar un link en un mensaje de texto en su lugar?"</string>
     <string name="ft_cfs_dialog_title">Transferencia de archivos alternativa</string>
     <string name="go_close">Ajustes</string>
-    <string name="google_message_promo_content">Xiaomi recomienda actualizar a Mensajes de Google. Instálelo ahora para compartir fotos de alta calidad, chatear por Wi-Fi y más. <font color="#B3000000"><a href="https://support.google.com/messages/answer/6089066">Más información</a></font></string>
+    <string name="google_message_promo_content">Xiaomi recomienda actualizar a Mensajes de Google. Instálelo ahora para compartir fotos de alta calidad, chatear en Wi-Fi y más. <a href="https://support.google.com/messages/answer/6089066"><font color="#B3000000">Más información</font></a></string>
     <string name="google_message_promo_title">Actualice su aplicación de mensajería</string>
     <string name="group_already_kicked_hint">"No se puede enviar mensajes. No eres miembro de este chat de grupo."</string>
     <string name="group_member_is_composing">Escribiendo…</string>

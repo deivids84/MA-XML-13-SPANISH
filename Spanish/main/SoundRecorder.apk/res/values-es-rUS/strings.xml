@@ -157,6 +157,7 @@
     <string name="low_battery_error_for_pad">"Menos de %s de batería restante. Deténgalo y ahorre su grabación para asegurarse de que no se pierda."</string>
     <string name="low_battery_error_title">Batería baja</string>
     <string name="lyric_item_point_count">%1$d a %2$d</string>
+    <string name="manage_external_storage">Acceder a todos los archivos</string>
     <string name="mark_point_list_title">Marcas</string>
     <string name="material_clock_toggle_content_description">Seleccione AM o PM</string>
     <string name="material_hour_selection">Seleccione la hora</string>
@@ -536,6 +537,7 @@ Toque \"%1$s\" y luego seleccione \"%2$s\"."</string>
     <string name="sunday">Domingo</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom.</string>
+    <string name="sync_desc_state_complete">Sincronizado con la nube: %1$s</string>
     <string name="tab_all">Todo</string>
     <string name="tab_apps">Aplicaciones</string>
     <string name="tab_call">Llamadas</string>

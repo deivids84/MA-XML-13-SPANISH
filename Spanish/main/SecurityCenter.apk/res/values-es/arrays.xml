@@ -122,6 +122,10 @@
         <item>Extra grande</item>
         <item>XXL</item>
     </string-array>
+    <string-array name="cache_sort_type">
+        <item>Tamaño</item>
+        <item>Nombre</item>
+    </string-array>
     <string-array name="cellular_data_unit">
         <item>GB</item>
         <item>MB</item>
@@ -245,19 +249,17 @@
         <item>Uso de datos</item>
         <item>Saldo del teléfono</item>
     </string-array>
-    <string-array name="sort_title">
-        <item>Ordenar por estado</item>
-        <item>Ordenar por nombre de app</item>
+    <string-array name="sort_title_new">
+        <item>Ordenar por nombre de aplicación</item>
         <item>Ordenar por frecuencia de uso</item>
         <item>Ordenar por almacenamiento usado</item>
-        <item>Ordenar por fecha de instalación</item>
+        <item>Ordenar por tiempo de instalación</item>
     </string-array>
-    <string-array name="sort_type">
-        <item>Estado</item>
-        <item>Nombre de la app</item>
+    <string-array name="sort_type_new">
+        <item>Nombre de la aplicación</item>
         <item>Frecuencia de uso</item>
         <item>Almacenamiento usado</item>
-        <item>Hora de instalación</item>
+        <item>Tiempo de instalación</item>
     </string-array>
     <string-array name="tether_limit_warn_type">
         <item>Desactivar y notificar</item>

@@ -493,6 +493,7 @@
     <string name="cloud_full_space_tip_negative">Ahora no</string>
     <string name="cloud_full_space_tip_positive">Actualizar</string>
     <string name="cloud_full_space_tip_title">Almacenamiento en la nube insuficiente</string>
+    <string name="cloud_full_space_tip_title_completely">El almacenamiento en la nube está lleno</string>
     <string name="cloud_guide_auto_backup_title">Seleccionar álbumes a sincronizar</string>
     <string name="cloud_guide_login_title">Respalde fotos y videos automáticamente</string>
     <string name="cloud_guide_welcome_title">Xiaomi Cloud</string>
@@ -574,6 +575,7 @@
     <string name="correct_photo_time">Corregir fecha y hora en fotos</string>
     <string name="correct_time_success">Corregido con éxito</string>
     <string name="correct_time_tip">Corrigiendo fecha y hora…</string>
+    <string name="create_album_failed_because_dup">Este álbum ya existe. ¿Añadir elementos a este álbum ahora?</string>
     <string name="create_baby_album">Crear un Álbum de bebé</string>
     <string name="create_baby_album_dialog_msg">¿Crear un álbum para \"%s\"?</string>
     <string name="create_baby_album_later_toast">Cree un Álbum de bebé en cualquier momento desde Ajustes</string>
@@ -1082,6 +1084,8 @@ disponibles"</string>
     <string name="grant_permission_go_and_set">Establecer</string>
     <string name="grant_permission_go_and_set_2">Ajustes</string>
     <string name="grant_permission_go_and_set_3">Ajustes</string>
+    <string name="grant_permission_manage_storage">Permisos necesarios</string>
+    <string name="grant_permission_manage_storage_unlock">Desbloquea tu dispositivo y permite que esta aplicación acceda a todos los archivos para poder ver los elementos.</string>
     <string name="grant_permission_shortcut">Primero permita que esta aplicación cree accesos directos a la pantalla de inicio.</string>
     <string name="grant_permission_storage">Permita que esta aplicación acceda al almacenamiento primero.</string>
     <string name="grant_permission_storage_unlock">Desbloquee su dispositivo y permita que esta aplicación acceda al almacenamiento primero.</string>
@@ -1204,6 +1208,9 @@ disponibles"</string>
     <string name="last_some_day_travel_title_one">En %1$s</string>
     <string name="last_some_day_travel_title_three">Explorando %1$s</string>
     <string name="last_some_day_travel_title_two">Memorias de %1$s</string>
+    <string name="last_some_performance_title">Cosas que vi</string>
+    <string name="lenovo">Lenovo</string>
+    <string name="lenovo_phone">Teléfono Lenovo</string>
     <string name="limit_height">La altura debe ser &gt; 0</string>
     <string name="limit_width">El ancho debe ser &gt; 0</string>
     <string name="live_photo">Disparo dinámico</string>
@@ -1688,6 +1695,7 @@ La transcodificación puede llevar algo de tiempo cuando utiliza esta función p
     <string name="operation_too_often">¡Hola! Existen demasiadas solicitudes realizadas desde su dirección IP. Espere un minuto o dos y vuelva a intentarlo.</string>
     <string name="operation_unforce_top">Desanclar</string>
     <string name="operation_unhide">Mostrar</string>
+    <string name="operation_upgrade_gallery">Actualizar</string>
     <string name="operation_video_compress">Comprimir video</string>
     <string name="operation_watermark">Marca de agua protectora</string>
     <string name="orientation_lock_tip">Rotación automática desactivada</string>
@@ -1877,7 +1885,7 @@ La transcodificación puede llevar algo de tiempo cuando utiliza esta función p
     <string name="photo_vlog_module_loading">Descargando editor de vídeo…</string>
     <string name="photodetail_failed_already_exist">Este archivo ya existe</string>
     <string name="photodetail_rename_failed">"No se pudo renombrar"</string>
-    <string name="photodetail_rename_invalid">"Los nombres de archivo no pueden contener estos caracteres: /\\:*?&lt;&gt;|."</string>
+    <string name="photodetail_rename_invalid">"Los nombres de archivo no pueden contener estos caracteres: /\\:*?&lt;&gt;|.\""</string>
     <string name="photodetail_rename_success">Renombrado con éxito</string>
     <string name="photodetail_rename_title">Renombrar</string>
     <string name="photodetail_rename_too_long">El nombre ingresado es demasiado largo</string>
@@ -2199,8 +2207,8 @@ La transcodificación puede llevar algo de tiempo cuando utiliza esta función p
     <string name="send_file_beautify_failed">"No se pudo compartir"</string>
     <string name="send_files_by">Comparte archivos a través de</string>
     <string name="send_files_to">Enviar elementos a</string>
-    <string name="send_heif_summary">Convierte imágenes HEIF en JPEG para asegurar la compatibilidad</string>
-    <string name="send_heif_title">Convertir HEIF a JPEG antes de enviar</string>
+    <string name="send_heif_summary">Convierte imágenes HEIF a JPEG antes de enviarlas</string>
+    <string name="send_heif_title">Convertir HEIF antes de enviar</string>
     <string name="send_multiple_files_hint_format">Enviar (%s)</string>
     <string name="send_public_url">Enviar álbum por URL</string>
     <string name="send_secret_file_failed">"No se pudo compartir"</string>

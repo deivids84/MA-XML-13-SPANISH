@@ -958,6 +958,8 @@ Selección"</string>
     <string name="fiveg_network_config_type1">Tipo de configuración de red:</string>
     <string name="fiveg_network_mode_title">Selecciona el modo de red 5G</string>
     <string name="fiveg_network_title">Redes 5G</string>
+    <string name="fiveg_nrca_switch_summary">Usa la agregación de operadores 5G para una mejor conectividad</string>
+    <string name="fiveg_nrca_switch_title">Agregación de portadores 5G</string>
     <string name="fiveg_plmn_info_list1">Lista de información PLMN:</string>
     <string name="fiveg_power_switch_summary">Hacer que la conectividad 5G consuma menos energía en ciertos escenarios</string>
     <string name="fiveg_power_switch_title">Ahorro de batería 5G</string>
@@ -1578,6 +1580,8 @@ Póngase en contacto con sus operadores"</string>
     <string name="nr_usaged_network_usaged">"Datos de hoy"</string>
     <string name="nr_usaged_operator">Operadora</string>
     <string name="nr_usaged_used_time">Tiempo de uso</string>
+    <string name="nrca_switch_summary">Usa la agregación de operadores 5G para una mejor conectividad</string>
+    <string name="nrca_switch_title">Usar NRCA</string>
     <string name="number">Número</string>
     <string name="numerous_emergency_numbers_title">Números de emergencia</string>
     <string name="obtain_location_information">Ubicación</string>
@@ -2136,6 +2140,7 @@ Interfaz UT: %5$s"</string>
     <string name="sim_me_lock_disabled">Simlock está desactivado.</string>
     <string name="sim_ndp_dismiss_text">Cerrar</string>
     <string name="sim_ndp_unlock_text">Desbloquear</string>
+    <string name="sim_nrca_title">SIM %1$s (%2$s)</string>
     <string name="sim_roaming_settings_summary">Conectarse a redes de datos móviles en itinerancia</string>
     <string name="sim_roaming_settings_title">Roaming Mi</string>
     <string name="sim_selection_required_pref">Debes seleccionar una opción</string>
@@ -2406,6 +2411,8 @@ Próx periodo en %2$d días (%3$s)"</string>
     <string name="undefined">Ninguno</string>
     <string name="unfold_close_camera_pref_summary">Despliegue el dispositivo durante una videollamada para apagar la cámara</string>
     <string name="unfold_close_camera_pref_title">Despliegue para apagar la cámara</string>
+    <string name="unfold_show_bublle_pref_summary">Despliega el dispositivo durante las llamadas para mostrarlas en ventanas flotantes</string>
+    <string name="unfold_show_bublle_pref_title">Desplegar para minimizar las llamadas</string>
     <string name="unfold_speaker_pref_summary">Despliegue el dispositivo durante una llamada para encender el altavoz</string>
     <string name="unfold_speaker_pref_title">Despliegue para usar el altavoz</string>
     <string name="unknown">Desconocido</string>

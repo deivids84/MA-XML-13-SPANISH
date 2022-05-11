@@ -311,6 +311,7 @@ Envíe este código al supervisor."</string>
     <string name="dialog_edit_hint_bookmarks_url">URL</string>
     <string name="dialog_edit_hint_name">Nombre</string>
     <string name="dialog_edit_hint_url">URL</string>
+    <string name="dialog_item_add_video">Añadir vídeos</string>
     <string name="dialog_jumpto_choose">"No volver a mostrar"</string>
     <string name="dialog_jumpto_content">¿Cambiar a Mi Video para acceder a funciones de reproducción adicionales?</string>
     <string name="dialog_jumpto_title">Mi Video</string>
@@ -426,7 +427,9 @@ Envíe este código al supervisor."</string>
     <string name="favorite_cancel_success">Eliminado de favoritos con éxito</string>
     <string name="favorite_fail">"No se pudo agregar a favoritos. Vuelva a intentarlo."</string>
     <string name="favorite_success">Agregado a favoritos con éxito</string>
+    <string name="fcm_2_args">Primero: %1$s y segundo %2$s</string>
     <string name="fcm_fallback_notification_channel_label">Varios</string>
+    <string name="fcm_no_args">Cadena sin argumentos</string>
     <string name="fcm_push_title">Videos populares</string>
     <string name="feedback">Comentarios</string>
     <string name="feedback_activity_title">Comentarios</string>
@@ -494,7 +497,7 @@ Envíe este código al supervisor."</string>
     <string name="galleryplus_double_tap_to_higher_definition">Toque dos veces otra vez para abrir la previsualización en HD</string>
     <string name="galleryplus_fr_unsupport_restore_speed">Ratio de cuadros por segundo no soportado. Se cambió a la velocidad normal.</string>
     <string name="galleryplus_gallery_fold_tags">Ocultar etiquetas</string>
-    <string name="galleryplus_gallery_video_adjust_hint">Solo los videos de 960FPS son soportados</string>
+    <string name="galleryplus_gallery_video_adjust_hint">Solo se admiten videos de %dfps</string>
     <string name="galleryplus_gallery_video_adjust_text">Ajustar</string>
     <string name="galleryplus_gallery_video_default_music_text">Automático</string>
     <string name="galleryplus_gallery_video_icon_is_8k">8K</string>
@@ -662,6 +665,11 @@ para videos"</string>
     <string name="local_push_setting_power_tag">Notificaciones sobre videos locales</string>
     <string name="local_push_title">Popular hoy</string>
     <string name="local_push_video_title">Buscar nuevos videos locales</string>
+    <string name="local_subtitle_choose_language_text">Idioma</string>
+    <string name="local_subtitle_exemption_hint">Buscar subtítulos en opensubtitle.org</string>
+    <string name="local_subtitle_input_keyword_text">Buscar palabras clave</string>
+    <string name="local_subtitle_search_result_text">Resultados</string>
+    <string name="local_subtitle_searching_text">Buscando…</string>
     <string name="local_video_create_a_new_playlist">Nueva lista de reproducción</string>
     <string name="local_video_date">Fecha</string>
     <string name="local_video_dialog_default">Predeterminado</string>
@@ -724,7 +732,6 @@ para videos"</string>
     <string name="lv_brightness">Brillo</string>
     <string name="lv_cast">Emitir</string>
     <string name="lv_check_delete_file">Seleccione elementos a eliminar</string>
-    <string name="lv_check_send_file">Solo puede enviar 1 archivo a la vez</string>
     <string name="lv_check_send_file_new">Solo puedes enviar %d archivos a la vez</string>
     <string name="lv_confirm_delete_history">¿Eliminar elementos seleccionados?</string>
     <string name="lv_confirm_delete_videos">¿Eliminar elementos?</string>
@@ -1513,6 +1520,7 @@ Aumentar la seguridad de su cuenta."</string>
     <string name="slide_save_message">Generando video…</string>
     <string name="small_video_cancel_button">Cancelar</string>
     <string name="small_video_download_button">Descargar</string>
+    <string name="small_video_load_more_hint">Desliza hacia arriba para reproducir más videos</string>
     <string name="small_video_snack_download_description">Descarga SnackVideo para ver los últimos videos de tus creadores favoritos.</string>
     <string name="small_video_snack_download_title">SnackVideo</string>
     <string name="sms_send_success">Enviado con éxito</string>
@@ -1622,10 +1630,13 @@ Aumentar la seguridad de su cuenta."</string>
     <string name="tab_name_movies">Películas</string>
     <string name="tab_name_trending">Tendencias</string>
     <string name="tab_name_video">Videos</string>
+    <string name="tab_name_vk">Vídeo VK</string>
     <string name="tab_playlist_local">Local</string>
     <string name="tab_playlist_online">En línea</string>
     <string name="talkback_ad_clicked">Anuncio</string>
     <string name="talkback_background_playback">Reproducción en segundo plano</string>
+    <string name="talkback_music_play">Reproducir música</string>
+    <string name="talkback_video_play">Reproducir vídeo</string>
     <string name="talkback_voice_search">Búsqueda por voz</string>
     <string name="target_sdk_version_30_upgrade_tips">Es posible que algunos videos no se vean aquí debido a restricciones de Android. Toca \"Archivos\" para buscar otros videos.</string>
     <string name="temporary_not_available">"Esta función todavía no está disponible"</string>
@@ -1683,6 +1694,7 @@ Aumentar la seguridad de su cuenta."</string>
     <string name="tip_download_video_to_save_here">%d. El vídeo se guardará en tus descargas</string>
     <string name="tip_enter_the_website">%d. Abrir un sitio web o aplicación</string>
     <string name="tip_local_long_press_for_manager">Presiona y mantén pulsado para gestionar vídeos</string>
+    <string name="tip_local_long_press_for_manager_folder">Mantén pulsado para administrar carpetas</string>
     <string name="tip_local_manager_here">Administra tus archivos aquí</string>
     <string name="tip_login_for_your_online_playlist">Inicia sesión para ver tus listas de reproducción.</string>
     <string name="tip_play_a_video">%d. Reproducir un vídeo</string>
@@ -1694,6 +1706,8 @@ Aumentar la seguridad de su cuenta."</string>
     <string name="title_download_setting">Ajustes de descarga</string>
     <string name="title_firework_recommend">Recomendaciones de Firework</string>
     <string name="title_history">Historial</string>
+    <string name="title_mangotv_history_sub" formatted="false">%s (Episodio %d)</string>
+    <string name="title_mangotv_subtitle_language">Idioma de los subtítulos</string>
     <string name="title_publisher">Creadores</string>
     <string name="title_select_directory">Seleccionar carpeta</string>
     <string name="title_selected">Seleccionada</string>
@@ -1791,6 +1805,7 @@ Aumentar la seguridad de su cuenta."</string>
     <string name="video_noyet_download_tip">Este vídeo todavía está siendo descargado</string>
     <string name="video_offline">Este elemento ya no está disponible</string>
     <string name="view">Ver</string>
+    <string name="vk_video_tab">Para ti</string>
     <string name="vp_VideoView_error_button">Aceptar</string>
     <string name="vp_VideoView_error_text_unknown">Se produjo un error</string>
     <string name="vp_VideoView_error_title">Error desconocido</string>

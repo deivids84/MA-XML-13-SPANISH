@@ -332,13 +332,34 @@ Envíe este código al supervisor."</string>
     <string name="lks_cta_summary1">Carrusel de fondos de pantalla proporciona las siguientes características:</string>
     <string name="lks_cta_summary2">"1. Fondos de pantalla actualizados automáticamente&lt;br&gt;2. Imágenes e historias frescas enviadas a su pantalla de bloqueo&lt;br&gt;3. Opciones de personalización&lt;br&gt;Esta característica necesita conectarse a Internet para funcionar normalmente.&lt;br&gt;&lt;br&gt;Para brindar servicios adicionales, es posible que solicitemos permiso para acceder y guardar elementos en el almacenamiento de este dispositivo. Lee y acepta nuestro &lt;font color ='#37A5FF'&gt;&lt;a href='%1$s'&gt;Acuerdo de usuario&lt;/font&gt;&lt;/a&gt; y &lt;font color ='#37A5FF'&gt;&lt;a href='%2$s'&gt;Política de privacidad&lt;/font&gt;&lt;/a&gt; antes de continuar."</string>
     <string name="lks_cta_title">Términos y condiciones</string>
+    <string name="lks_data_warning_toast_1">"Estás usando datos móviles para buscar fondos de pantalla.
+Esto puede generar cargos adicionales."</string>
+    <string name="lks_dislike">"No me gusta"</string>
     <string name="lks_left_net_deny">La conexión de red está restringida</string>
     <string name="lks_left_net_error">"No se pudo conectar a la red."</string>
     <string name="lks_left_top_notice">Toca aquí para volver al principio</string>
     <string name="lks_left_top_notice_refresh">Toque para ver nuevos elementos</string>
     <string name="lks_logo_desc2">Fondos de pantalla frescos todos los días</string>
     <string name="lks_logo_desc_search">Nuevos fondos de pantalla todos los días</string>
+    <string name="lks_loop_icon_ask_cancle">Cancelar</string>
+    <string name="lks_loop_icon_ask_dlg">Activa la presentación de diapositivas en la pantalla de bloqueo para que las imágenes e historias sean enviadas a tu pantalla de bloqueo diariamente.</string>
+    <string name="lks_loop_icon_ask_ok">Activar</string>
+    <string name="lks_loop_icon_ask_title">Presentación de diapositivas de la pantalla de bloqueo</string>
+    <string name="lks_loop_icon_close_cancle">Cancelar</string>
+    <string name="lks_loop_icon_close_dlg">La presentación de diapositivas de la pantalla de bloqueo se desactivará si configuras esta imagen como tu pantalla de bloqueo. ¿Establecer como pantalla de bloqueo ahora?</string>
+    <string name="lks_loop_icon_close_ok">OK</string>
+    <string name="lks_loop_icon_close_title">Atención</string>
+    <string name="lks_loop_icon_dlg_title">Presentación de diapositivas de la pantalla de bloqueo</string>
+    <string name="lks_loop_icon_open_dlg">La presentación de diapositivas de la pantalla de bloqueo está activada y entrega imágenes e historias frescas a tu pantalla de bloqueo todos los días.</string>
+    <string name="lks_loop_icon_open_ok">Entendido</string>
+    <string name="lks_more_pics_coming_toast">Nuevas imágenes están en camino</string>
+    <string name="lks_new_user_help_anime">Desliza hacia arriba para ver más de Carrusel de fondos de pantalla</string>
+    <string name="lks_no_network">"No se pudo conectar a la red"</string>
+    <string name="lks_please_reload">Recargar</string>
+    <string name="lks_retry">Intentar otra vez</string>
     <string name="lks_subscription_toast">Se ha cambiado correctamente el fondo de pantalla.</string>
+    <string name="lks_to_history">Historial</string>
+    <string name="lks_to_setting">Configuración del Carrusel de fondos de pantalla</string>
     <string name="llks_add_cate">Suscríbete a %s</string>
     <string name="llks_auto_switch_wp">Suscríbete a las categorías que te gustan</string>
     <string name="llks_display_error">Se necesitan permisos</string>
