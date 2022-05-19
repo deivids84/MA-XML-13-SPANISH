@@ -99,9 +99,9 @@
     <string name="catch_full_log_item_content_catch_direct">"1. Vuelve a la función que quieres reportar y reproducir.
 2. Vuelve a esta página y pulsa \"Finalizar y subir\"."</string>
     <string name="catch_full_log_item_content_catching">Generando registros…</string>
-    <string name="catch_full_log_item_content_need_open">"1. Pulsa \"Generar registro\".
-2. Vuelve a la función que quieres reportar y reproducir.
-3. Vuelve a esta página y pulsa \"Finalizar y subir\"."</string>
+    <string name="catch_full_log_item_content_need_open">"%1$d. Toca \"Iniciar\" para empezar a generar registros.
+%2$d. Detalla el problema que has encontrado.
+%3$d. Vuelve a esta página y pulsa \"Finalizar y enviar\"."</string>
     <string name="catch_full_log_item_content_title">Pasos</string>
     <string name="catch_full_log_item_title_audio">Audio, grabación de sonido y audio de llamadas</string>
     <string name="catch_full_log_item_title_bt">Bluetooth</string>

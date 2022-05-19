@@ -1227,7 +1227,7 @@ Su operadora puede cobrarle cargos adicionales si vuelve a activar los datos mó
     <string name="deep_power_save_item_title_lock_screen_time">Apaga la pantalla</string>
     <string name="deep_save_memory_clean_summary">Limpiar caché cuando bloquee el dispositivo para evitar que las aplicaciones consuman batería</string>
     <string name="deep_save_ontime_boot_shutdown_summary">Programar hora de encendido/apagado del dispositivo</string>
-    <string name="default_condition_summary">Por ejemplo, \"La batería es inferior a 20%\"</string>
+    <string name="default_condition_summary">Por ejemplo, \"La batería es inferior a %s%\"</string>
     <string name="default_condition_title">Agregar condición</string>
     <string name="default_condition_title_continue">Agregar condición</string>
     <string name="default_result_summary">Por ejemplo, \"Desactivar el modo avión\"</string>
@@ -1545,6 +1545,8 @@ voluntario"</string>
     <string name="ew_settings_push_tips">Las advertencias sobre áreas fuera de su ubicación vendrán en forma de notificaciones únicamente.</string>
     <string name="ew_settings_set_level_summary">Recibe avisos sobre terremotos cuando su intensidad sea %s o superior</string>
     <string name="ew_settings_set_level_title">Establecer umbral de advertencia de terremoto</string>
+    <string name="ew_sleep_mode_alert_content">"Para asegurarte de que puede recibir alertas tempranas de terremotos, MIUI desactivará el modo de suspensión. Las aplicaciones en segundo plano, NFC, Bluetooth, GPS, datos móviles y Wi-Fi funcionarán normalmente incluso cuando esté durmiendo. ¿Activar la advertencia de terremoto ahora?"</string>
+    <string name="ew_sleep_mode_alert_title">Alerta de terremoto</string>
     <string name="ew_subscribe_area_title">Administrar áreas agregadas</string>
     <string name="ew_subscribe_city">Áreas agregadas</string>
     <string name="ew_subscribe_search_hint">Buscar áreas</string>
@@ -1960,9 +1962,31 @@ voluntario"</string>
     <string name="gb_first_window_summary">Aumento de la velocidad y rendimiento a nivel de sistema</string>
     <string name="gb_first_window_title">Game Turbo</string>
     <string name="gb_game_end_toast">Revive los momentos clave de tus partidas</string>
+    <string name="gb_game_fill_desc">El contenido puede estar distorsionado en algunos casos</string>
     <string name="gb_game_macro_bubble_tips">Try combos</string>
     <string name="gb_game_macro_toast_tips">"Try combos!
 Record sequences and use them anytime!"</string>
+    <string name="gb_game_mode">Modo de visualización</string>
+    <string name="gb_game_mode_change">Cambiar entre modos de visualización aquí</string>
+    <string name="gb_game_mode_change_btn_right">Reiniciar</string>
+    <string name="gb_game_mode_change_message">¿Reiniciar el juego para aplicar los cambios ahora?</string>
+    <string name="gb_game_mode_change_title">Reiniciar el juego</string>
+    <string name="gb_game_mode_choose_game_area">Área activa</string>
+    <string name="gb_game_mode_choose_title">Seleccionar modo de visualización</string>
+    <string name="gb_game_mode_empty">Aún no hay juegos aquí</string>
+    <string name="gb_game_mode_fill">Pantalla de relleno</string>
+    <string name="gb_game_mode_fill_type">Pantalla de relleno</string>
+    <string name="gb_game_mode_ratio">Original</string>
+    <string name="gb_game_mode_ratio_type">Original</string>
+    <string name="gb_game_mode_recommend">" (Recomendado)"</string>
+    <string name="gb_game_mode_search">Buscar aplicaciones</string>
+    <string name="gb_game_ratio_bottom">Abajo</string>
+    <string name="gb_game_ratio_center">Centro</string>
+    <string name="gb_game_ratio_desc_h">"El área activa no se recortará, pueden aparecer zonas negras"</string>
+    <string name="gb_game_ratio_desc_v">"El área activa no se recortará, pueden aparecer zonas negras"</string>
+    <string name="gb_game_ratio_left">Izquierda</string>
+    <string name="gb_game_ratio_right">Derecha</string>
+    <string name="gb_game_ratio_top">Arriba</string>
     <string name="gb_game_time_toast">¡El temporizador ya está disponible!</string>
     <string name="gb_game_video_bottom_tips">Revive los momentos clave de tus sesiones de juego en Game Turbo. Los vídeos se eliminarán automáticamente después de 7 días.</string>
     <string name="gb_game_video_bottom_tips_new">Vuelva a visitar los momentos clave de sus sesiones de juego en Game Turbo. Los videos se eliminarán automáticamente después de %d días.</string>
@@ -4611,12 +4635,16 @@ Para usar esta ^1 primero debes activarla."</string>
     <string name="storage_dialog_unsupported">"Este dispositivo no soporta esta ^1.
 
 Para usar esta ^1 con este dispositivo primero tienes que configurarla."</string>
+    <string name="storage_fbo_clear">Desfragmentación</string>
+    <string name="storage_fbo_des">"El almacenamiento interno sufre fragmentación, lo que podría ralentizar significativamente tu dispositivo. La desfragmentación se ejecuta automáticamente cuando no estás usanto el dispositivo. Organiza físicamente tus archivos en la menor cantidad de fragmentos, lo que reduce el retraso."</string>
+    <string name="storage_fbo_number_tip">Fusionado en %1$s</string>
+    <string name="storage_fbo_tools">Optimización de almacenamiento</string>
     <string name="storage_file_delete_tip">¿Eliminar los elementos seleccionados de forma permanente? Algunos de ellos pueden volver a cargarse cuando sea necesario.</string>
     <string name="storage_file_dialog_delete_title">Eliminar elementos</string>
     <string name="storage_file_list_btn">Eliminar %1$s</string>
     <string name="storage_file_list_form_default">Tarjeta SD</string>
     <string name="storage_file_list_from">Desde %s</string>
-    <string name="storage_fob_date_format">dd-MM</string>
+    <string name="storage_fob_date_format">dd/MM</string>
     <string name="storage_format_failure">"No se pudo formatear %1$s"</string>
     <string name="storage_format_success">%1$s formateada con éxito</string>
     <string name="storage_item_apk_name">APKs</string>

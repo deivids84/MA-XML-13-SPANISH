@@ -166,6 +166,7 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="cloud_task_in_process">"¿Detener %s y borrar esta copia de seguridad? No se puede revertir esta acción."</string>
     <string name="collect_diagnosis_log">Recopilar registro de diagnóstico</string>
     <string name="confirm_restore">Restaurar</string>
+    <string name="confirm_restore_app_data">"WeChat ya está instalado. No es posible restaurar sus datos."</string>
     <string name="confirm_restore_summary">Su pantalla de inicio será restaurada. Las aplicaciones respaldadas serán descargadas automáticamente.</string>
     <string name="confirm_restore_title">Restaurar</string>
     <string name="copy">Copiar</string>
@@ -339,7 +340,7 @@ Envía este código al técnico."</string>
     <string name="morning">Mañana</string>
     <string name="msg_alert_cancel_restore">Los elementos se están restaurando desde Xiaomi Cloud. ¿Cancelar ahora?</string>
     <string name="msg_alert_restore_error">"No se pudieron restaurar los elementos desde Xiaomi Cloud. Vuelva a intentarlo."</string>
-    <string name="msg_restore_start_with_metered_network">"Su pantalla de inicio será restaurada. Las aplicaciones respaldadas serán descargadas automáticamente. &lt;br /&gt;&lt;b&gt;&lt;font color='red'&gt;%s de archivos descargados.&lt;/font&gt;&lt;/b&gt;"</string>
+    <string name="msg_restore_start_with_metered_network">"Si restauras esta copia de seguridad, la pantalla de inicio se reiniciará y tus aplicaciones se descargarán e instalarán automáticamente.&lt;br /&gt;&lt;b&gt;&lt;font color='red'&gt;Tamaño de copia de seguridad: %s&lt;/font&gt;&lt;/b&gt;"</string>
     <string name="msg_restore_with_metered_network_hint">Se usarán los datos móviles para descargar si continúa restaurando estos elementos.</string>
     <string name="msg_restore_with_metered_network_pattern">"&lt;font color='red'&gt;&lt;b&gt;%s&lt;/b&gt;&lt;/font&gt; de archivos serán descargados."</string>
     <string name="network_error">Conectarse a la red</string>
@@ -402,6 +403,7 @@ Compruebe sus ajustes de red y vuelva a intentarlo."</string>
     <string name="restore_from_cloud">Restaurar desde el respaldo en la nube</string>
     <string name="restore_from_mimover">Transfiera desde su dispositivo anterior usando Mi Mudanza</string>
     <string name="restore_from_this_device">Seleccionar copia de seguridad</string>
+    <string name="restore_header_backup_size">Tamaño de la copia: %s</string>
     <string name="restore_header_msg">"Antes de restaurar los datos de WeChat, asegurate de que WeChat no esté instalado en este dispositivo. Mientras se restauran los datos, no abras ni uses WeChat."</string>
     <string name="restore_header_title">Tamaño total: %s</string>
     <string name="restore_header_title2">Total de copias de seguridad: %s</string>

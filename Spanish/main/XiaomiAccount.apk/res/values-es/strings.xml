@@ -28,6 +28,7 @@
     <string name="abc_shareactionprovider_share_with_application">Compartir con %s</string>
     <string name="abc_toolbar_collapse_description">Ocultar</string>
     <string name="about_device_info">Ver detalles de dispositivo</string>
+    <string name="about_mi_account">Acerca de la Cuenta Mi</string>
     <string name="accept">Permitir</string>
     <string name="access_denied_info">Demasiados intentos. Espera uno o dos minutos e inténtalo de nuevo.</string>
     <string name="access_token_expired_warning">La cuenta de Weibo ha expirado</string>
@@ -120,6 +121,7 @@ Ahora puedes iniciar sesión en tu Cuenta Mi usando %s."</string>
     <string name="change_password">Cambiar contraseña</string>
     <string name="change_phone_number">Cambiar número del teléfono</string>
     <string name="character_counter_content_description">Límite de caracteres excedido %1$d de %2$d</string>
+    <string name="check_apk_update">Buscar actualizaciones</string>
     <string name="clearable_edittext_clear_description">Limpiar</string>
     <string name="close">Cerrar</string>
     <string name="cloud_description_closed">Ocupado | Sincronización desactivada</string>
@@ -243,6 +245,7 @@ Envía este código al supervisor."</string>
     <string name="find_device_title">Encontrar dispositivo</string>
     <string name="find_device_unknown_error">"No se puede obtener el estado del dispositivo. Espere uno o dos minutos y vuelva a intentarlo."</string>
     <string name="find_equipment">Encontrar dispositivo</string>
+    <string name="find_new_apk_version">Actualización disponible</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
     <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
     <string name="fmt_date_numeric_month_day">d/M</string>
@@ -264,6 +267,7 @@ Envía este código al supervisor."</string>
     <string name="google_login">Iniciar sesión con Google</string>
     <string name="goto_accept">OK</string>
     <string name="guest_account_label">Cuenta de Mi Invitado</string>
+    <string name="has_no_new_version">Actualizado</string>
     <string name="health_action_activate">Activar</string>
     <string name="health_action_install">Instalar</string>
     <string name="health_action_update">Actualizar</string>
@@ -387,6 +391,7 @@ Envía este código al supervisor."</string>
     <string name="need_install_wechat">Instala WeChat primero</string>
     <string name="network_error_info">Se ha producido un error de red. Compruebe la configuración de red e inténtelo de nuevo.</string>
     <string name="network_timeout_info">"No se pudo conectar a la red. Vuelve a intentarlo."</string>
+    <string name="new_version">Versión nueva</string>
     <string name="night">Tarde</string>
     <string name="no_account_or_forget_password">¿Crear cuenta u olvidó la contraseña?</string>
     <string name="no_install">No instalado</string>
@@ -848,6 +853,8 @@ Envía este código al supervisor."</string>
 1. Si olviaste tu contraseña, visita id.mi.com para restablecerla.
 2. Si no puedes resetear tu contraseña o alguien ha bloqueado tu dispositivo, ve a i.mi.com para desbloquearlo.
 3. Tu número de desbloqueo es: %s"</string>
+    <string name="update_apk_version_later">Por ahora no</string>
+    <string name="update_apk_version_now">Actualizar</string>
     <string name="update_email_address_dialog_message">Es necesario verificar tu identidad antes de poder actualizar el correo electrónico.</string>
     <string name="update_email_address_dialog_title">Actualizar correo electrónico</string>
     <string name="update_phone_notice">Cambiar la configuración de seguridad</string>

@@ -77,6 +77,8 @@ No apague la pantalla durante la prueba"</string>
     <string name="cit_proximity_sensor_check_summary">"Cubra el sensor de proximidad (situado en la parte superior del dispositivo cerca del receptor) con su mano, luego mueva la mano. El valor debe aumentar a partir de 0.0 al mover la mano más lejos del dispositivo.
 Al calibrar, asegúrate de que no hay nada entre el sensor y tu mano (por ejemplo, pantalla de protección o guantes)."</string>
     <string name="cit_reverse_wireless_charge_check_tips">Por favor, ponga el dispositivo a cargar según sea necesario y empiece a probar</string>
+    <string name="cit_tool_gps_path_loss_test_request_location">solicitar ubicación</string>
+    <string name="cit_tool_gps_path_loss_title">Herramienta de prueba para pérdida de ruta Gnss</string>
     <string name="cit_tool_modem_mbn_opt_fail_notfiy">opt falló, reinicie el dispositivo para reintentarlo</string>
     <string name="cit_tool_opt_fail_info_notify">Opt falló, necesita reiniciar el dispositivo para el modo no online.</string>
     <string name="cit_touch_auto_main_tips">Autoprueba de la pantalla de inicio en curso, no toque la pantalla</string>

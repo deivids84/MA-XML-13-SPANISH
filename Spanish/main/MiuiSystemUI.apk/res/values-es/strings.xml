@@ -1412,7 +1412,6 @@ dd/MM"</string>
     <string name="miui_notification_menu_snooze">Posponer</string>
     <string name="miui_notification_menu_title_not_allow">Restringir</string>
     <string name="miui_notification_menu_unfold">Marcar como importante</string>
-    <string name="miui_quick_settings_tiles_stock_pad">vowifi1,vowifi2,cell,wifi,rotation,airplane,mute,screenshot,bt,autobrightness,screenlock,night,papermode,quietmode,batterysaver,extremebatterysaver,gps,flashlight,scanner,powermode,freeformhang,vibrate,hotspot,sync,screenbutton,wirelesspower,nfc,dolbyatomssound,pcmode,edit ,drivemode,workmode</string>
     <string name="miui_screen_rotation_freeze_message">Orientación de la pantalla bloqueada en el modo paisaje</string>
     <string name="miui_snooze_always_float">"No ocultar"</string>
     <string name="miui_snooze_cancel">Cancelar</string>

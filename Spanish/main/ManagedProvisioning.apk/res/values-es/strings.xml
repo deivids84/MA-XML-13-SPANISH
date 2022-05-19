@@ -5,7 +5,7 @@
     <string name="abc_action_menu_overflow_description">Más opciones</string>
     <string name="abc_action_mode_done">Listo</string>
     <string name="abc_activity_chooser_view_see_all">Ver todo</string>
-    <string name="abc_activitychooserview_choose_application">Seleccionar una aplicación</string>
+    <string name="abc_activitychooserview_choose_application">Elige una aplicación</string>
     <string name="abc_capital_off">DESACTIVADO</string>
     <string name="abc_capital_on">ACTIVADO</string>
     <string name="abc_menu_alt_shortcut_label">Alt +</string>
@@ -114,7 +114,7 @@
     <string name="expand">Mostrar</string>
     <string name="expand_button_title">Avanzado</string>
     <string name="exposed_dropdown_menu_content_description">Mostrar menú desplegable</string>
-    <string name="financed_device_screen_header">Este dispositivo se compró con crédito de %1$s</string>
+    <string name="financed_device_screen_header">Dispositivo proporcionado por %s</string>
     <string name="financed_make_payments_subheader_description">%1$s puede instalar la %2$s para que pueda realizar pagos para este dispositivo.</string>
     <string name="financed_make_payments_subheader_title">Realizar pagos para este dispositivo</string>
     <string name="financed_restrict_device_subheader_description">%1$s puede restringir el acceso a este dispositivo si no realiza pagos.</string>

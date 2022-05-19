@@ -5,7 +5,7 @@
         <item>Gesto</item>
     </string-array>
     <string-array name="accessibility_button_location_selector_titles">
-        <item>Flotando sobre otras aplicaciones</item>
+        <item>Mostrar sobre otras aplicaciones</item>
         <item>Barra de navegación</item>
     </string-array>
     <string-array name="accessibility_button_size_selector_titles">
@@ -67,7 +67,7 @@
         <item>PAP o CHAP</item>
     </string-array>
     <string-array name="app_install_location_entries">
-        <item>Almacenamiento de dispositivo interno</item>
+        <item>Almacenamiento interno</item>
         <item>Tarjeta SD extraíble</item>
         <item>Selección del sistema</item>
     </string-array>
@@ -104,7 +104,7 @@
         <item>Escribir SMS/MMS</item>
         <item>Modificar la configuración</item>
         <item>Dibujar en parte superior</item>
-        <item>Acceder a las notificaciones</item>
+        <item>Acceso a notificaciones</item>
         <item>Cámara</item>
         <item>Grabar audio</item>
         <item>Reproducir audio</item>
@@ -117,7 +117,7 @@
         <item>Volumen del tono</item>
         <item>Volumen de multimedia</item>
         <item>Volumen de alarma</item>
-        <item>Volumen de notificaciones</item>
+        <item>Volumen de notificación</item>
         <item>Volumen de Bluetooth</item>
         <item>Mantener activo</item>
         <item>Ubicación</item>
@@ -129,7 +129,7 @@
         <item>Activar VPN</item>
         <item>Editar fondo de pantalla</item>
         <item>Proporcionar asistencia a estructura</item>
-        <item>Proporcionar asistencia a captura de pantalla</item>
+        <item>Asistente de captura de pantalla</item>
         <item>Leer el estado del teléfono</item>
         <item>Añadir buzón de voz</item>
         <item>Utilizar SIP</item>
@@ -150,7 +150,7 @@
         <item>ubicación precisa</item>
         <item>GPS</item>
         <item>vibrar</item>
-        <item>consultar contactos</item>
+        <item>leer contactos</item>
         <item>modificar los contactos</item>
         <item>leer el registro de llamadas</item>
         <item>modificar el registro de llamadas</item>
@@ -165,7 +165,7 @@
         <item>recibir SMS</item>
         <item>recibir SMS de emergencia</item>
         <item>recibir MMS</item>
-        <item>recibir WAP Push</item>
+        <item>recibir WAP</item>
         <item>enviar SMS</item>
         <item>leer SMS ICC</item>
         <item>escribir SMS ICC</item>
@@ -188,7 +188,7 @@
         <item>volumen de Bluetooth</item>
         <item>mantener activo</item>
         <item>controlar ubicación</item>
-        <item>supervisar ubicación de alta potencia</item>
+        <item>supervisar ubicación precisa</item>
         <item>obtener estadísticas de uso</item>
         <item>silenciar/activar micrófono</item>
         <item>mostrar notificación emergente</item>
@@ -196,7 +196,7 @@
         <item>activar VPN</item>
         <item>editar fondo de pantalla</item>
         <item>proporcionar asistencia a estructura</item>
-        <item>proporcionar asistencia a captura de pantalla</item>
+        <item>ayuda para captura de pantalla</item>
         <item>leer el estado del teléfono</item>
         <item>añadir buzón de voz</item>
         <item>utilizar SIP</item>
@@ -226,14 +226,14 @@
         <item>Detallado</item>
     </string-array>
     <string-array name="automatic_storage_management_days">
-        <item>De más de 30 días de antigüedad</item>
-        <item>De más de 60 días de antigüedad</item>
-        <item>De más de 90 días de antigüedad</item>
+        <item>Más de 30 días</item>
+        <item>Más de 60 días</item>
+        <item>Más de 90 días</item>
     </string-array>
     <string-array name="battery_indicator_style_entries">
         <item>Gráfico</item>
         <item>Porcentaje (en el icono)</item>
-        <item>Porcentaje (al lado del icono)</item>
+        <item>Porcentaje (junto al icono)</item>
         <item>Barra superior</item>
     </string-array>
     <string-array name="bearer_entries">
@@ -342,7 +342,7 @@
         <item>Qualcomm® aptX™ audio</item>
         <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
-        <item>Qualcomm® aptX™ Adaptativo audio</item>
+        <item>Qualcomm® aptX™ Adaptive audio</item>
         <item>Qualcomm® aptX™ TWS+ audio</item>
         <item>LHDC V3/V4</item>
         <item>LHDC V2</item>
@@ -383,7 +383,7 @@
         <item>MAP 1.4</item>
     </string-array>
     <string-array name="bluetooth_max_connected_audio_devices">
-        <item>Usar opción predeterminada del sistema: %1$d</item>
+        <item>Ppción predeterminada: %1$d</item>
         <item>1</item>
         <item>2</item>
         <item>3</item>
@@ -1179,7 +1179,7 @@ Nota: ¡Solo para Ubuntu 8.04!"</item>
         <item>Mostrar el menú</item>
     </string-array>
     <string-array name="screen_optimize_summary">
-        <item>Ajustar los colores según el contenido que se muestra</item>
+        <item>Ajustar los colores al contenido mostrado</item>
         <item>Mejorar siempre los colores</item>
         <item>El contraste permanecerá constante</item>
     </string-array>
@@ -1238,14 +1238,14 @@ Nota: ¡Solo para Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="select_logpersist_summaries">
         <item>Desactivado</item>
-        <item>Todos los búferes del registro</item>
-        <item>Todo excepto los registros de búfer de la radio</item>
-        <item>Solo el búfer de registro del kernel</item>
+        <item>Todos los registros</item>
+        <item>Todo excepto registros de señal móvil</item>
+        <item>Solo los registros del kernel</item>
     </string-array>
     <string-array name="select_logpersist_titles">
         <item>Desactivado</item>
         <item>Todo</item>
-        <item>Todo excepto la radio</item>
+        <item>Todo excepto la señal móvil</item>
         <item>Solo el kernel</item>
     </string-array>
     <string-array name="show_non_rect_clip_entries">
@@ -1283,7 +1283,7 @@ Nota: ¡Solo para Ubuntu 8.04!"</item>
     <string-array name="time_format_entries">
         <item>12 horas 1:00 PM</item>
         <item>24 horas 13:00</item>
-        <item>Automático (basado en el idioma del sistema)</item>
+        <item>Automático (según el idioma del sistema)</item>
     </string-array>
     <string-array name="timezone_filters">
         <item>América</item>
@@ -1297,7 +1297,7 @@ Nota: ¡Solo para Ubuntu 8.04!"</item>
     <string-array name="track_frame_time_entries">
         <item>Desactivado</item>
         <item>En la pantalla como barras</item>
-        <item>En adb shell dumpsys gfxinfo</item>
+        <item>Consola adb volcado de gfxinfo</item>
     </string-array>
     <string-array name="traffic_balance_entries">
         <item>Desactivado</item>
@@ -1318,9 +1318,9 @@ Nota: ¡Solo para Ubuntu 8.04!"</item>
         <item>Escala de animación 10x</item>
     </string-array>
     <string-array name="true_color_screen_optimize_summary">
-        <item>Ajustar los colores según el contenido que se muestra</item>
+        <item>Ajustar colores según el contenido mostrado</item>
         <item>Mejorar siempre los colores</item>
-        <item>Restaura el color estándar del contenido de la pantalla con la calibración del color</item>
+        <item>Restaurar el color estándar de la pantalla con calibrado del color</item>
     </string-array>
     <string-array name="true_color_screen_optimize_title">
         <item>Vivid (recomendado)</item>
@@ -1359,7 +1359,7 @@ Nota: ¡Solo para Ubuntu 8.04!"</item>
         <item>MIDI</item>
     </string-array>
     <string-array name="usb_connection_mode_entries">
-        <item>Preguntarme al conectar</item>
+        <item>Preguntar al conectar</item>
         <item>Solo carga</item>
         <item>Montar tarjeta SD</item>
     </string-array>
@@ -1371,9 +1371,9 @@ Nota: ¡Solo para Ubuntu 8.04!"</item>
         <item>Mono</item>
     </string-array>
     <string-array name="vip_mode_text">
-        <item>De cualquier persona</item>
+        <item>De cualquiera</item>
         <item>Solo de contactos</item>
-        <item>Solo de personas destacadas</item>
+        <item>Solo de contactos destacadas</item>
         <item>Ninguno</item>
     </string-array>
     <string-array name="vpn_proxy_settings">
@@ -1416,7 +1416,7 @@ Nota: ¡Solo para Ubuntu 8.04!"</item>
     <string-array name="wide_notch_battery_indicator_style_entries">
         <item>Gráfico</item>
         <item>Porcentaje (en el icono)</item>
-        <item>Porcentaje (al lado del icono en la Barra de notificaciones)</item>
+        <item>Porcentaje (junto al icono en barra de notificación)</item>
     </string-array>
     <string-array name="wifi_calling_mode_choices_v2">
         <item>Wi-Fi</item>
@@ -1464,8 +1464,8 @@ Nota: ¡Solo para Ubuntu 8.04!"</item>
         <item>Completo</item>
     </string-array>
     <string-array name="wifi_link_turbo_mode_summary_entries">
-        <item>Aumente la velocidad utilizando datos móviles solo cuando la señal de Wi-Fi sea deficiente</item>
-        <item>Combine Wi-Fi y datos móviles para aumentar la velocidad de conexión</item>
+        <item>Aumentar la velocidad usando datos móviles con señal Wi-Fi deficiente</item>
+        <item>Combinar Wi-Fi y datos móviles para aumentar la velocidad de conexión</item>
     </string-array>
     <string-array name="wifi_metered_entries">
         <item>Detectar automáticamente</item>
@@ -1485,13 +1485,13 @@ Nota: ¡Solo para Ubuntu 8.04!"</item>
         <item>PIN del dispositivo</item>
     </string-array>
     <string-array name="wifi_privacy_entries">
-        <item>Usar MAC aleatorio</item>
-        <item>Usar dispositivo MAC</item>
+        <item>Usar MAC aleatoria</item>
+        <item>Usar MAC del dispositivo</item>
     </string-array>
     <string-array name="wifi_proxy_settings">
         <item>Ninguno</item>
         <item>Manual</item>
-        <item>Proxy configurado automáticamente</item>
+        <item>Configuración automática de proxy</item>
     </string-array>
     <string-array name="wifi_signal">
         <item>Mala</item>
@@ -1516,12 +1516,12 @@ Nota: ¡Solo para Ubuntu 8.04!"</item>
         <item>Desconectado</item>
         <item>Con error</item>
         <item>Bloqueada</item>
-        <item>Inhabilitando conexión inestable temporalmente...</item>
+        <item>Desactivando temporalmente conexión inestable</item>
     </string-array>
     <string-array name="wifi_status_with_ssid">
         <item></item>
         <item>Buscando...</item>
-        <item>Estableciendo conexión con %1$s...</item>
+        <item>Conectando con %1$s...</item>
         <item>Autenticando con %1$s…</item>
         <item>Obteniendo dirección IP de %1$s...</item>
         <item>Conectado a %1$s</item>
@@ -1530,7 +1530,7 @@ Nota: ¡Solo para Ubuntu 8.04!"</item>
         <item>Desconectado</item>
         <item>Con error</item>
         <item>Bloqueada</item>
-        <item>Inhabilitando conexión inestable temporalmente...</item>
+        <item>Desactivando temporalmente conexión inestable</item>
     </string-array>
     <string-array name="wifitrackerlib_wifi_status">
         <item></item>
@@ -1544,7 +1544,7 @@ Nota: ¡Solo para Ubuntu 8.04!"</item>
         <item>Desconectado</item>
         <item>Fallido</item>
         <item>Bloqueado</item>
-        <item>Inhabilitando temporalmente por una mala conexión</item>
+        <item>Desactivando temporalmente conexión inestable</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Animaciones desactivadas</item>

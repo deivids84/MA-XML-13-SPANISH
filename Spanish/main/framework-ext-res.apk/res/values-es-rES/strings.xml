@@ -122,6 +122,7 @@
     <string name="dewdrops">Rocío de la mañana</string>
     <string name="digitaluniverse">Universo digital (estéreo)</string>
     <string name="disable_nfc">NFC para carga inalámbrica desactivado</string>
+    <string name="disable_nfc_haptic_reverse">NFC y vibración desactivados para carga inalámbrica inversa</string>
     <string name="disable_nfc_reverse">NFC para carga inalámbrica inversa desactivado</string>
     <string name="dock_tip_floatwindow">Mantenga presionada la barra y arrástrela hasta el borde de la pantalla para ingresar a la vista de pantalla dividida.</string>
     <string name="dock_tip_splitscreen_landscape_drag">Arrastre la barra horizontalmente para intercambiar las posiciones de las dos ventanas de la aplicación.</string>
@@ -134,6 +135,7 @@
     <string name="enable_livetalk_title">Activar paquete de recarga</string>
     <string name="enable_midrop">Activar</string>
     <string name="enable_nfc">La carga se ha detenido. El NFC vuelve a estar activo.</string>
+    <string name="enable_nfc_haptic_reverse">Se detuvo la carga inversa. NFC y vibración están encendidos de nuevo.</string>
     <string name="enable_nfc_reverse">La carga inversa se ha detenido. El NFC vuelve a estar activo.</string>
     <string name="expect">Emoción</string>
     <string name="fadein">Fundirse</string>
@@ -158,8 +160,7 @@
     <string name="fp_nav_center_action_choose_dlg_negative_btn_text">Ahora no</string>
     <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Activar</string>
     <string name="fp_nav_center_action_choose_dlg_title">Activar Toque rápido</string>
-    <string name="freeform_exchange_tip">Suelte para abrir la aplicación</string>
-    <string name="freeform_exchange_tip2">Arrastra a la esquina para cancelar</string>
+    <string name="freeform_exchange_tip">Abrir ventana flotante en modo de pantalla completa</string>
     <string name="frenchchic">Elegante</string>
     <string name="frequent_email">Correo electrónico usado frecuentemente</string>
     <string name="frequent_phrases">Frases frecuentes</string>

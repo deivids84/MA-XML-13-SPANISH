@@ -790,6 +790,11 @@ Selección"</string>
     <string name="disable_cfb_forbidden">"Tu operador no permite inhabilitar el desvío de llamadas si el teléfono está ocupado."</string>
     <string name="disable_cfnrc_forbidden">"Tu operador no permite inhabilitar el desvío de llamadas si no se puede establecer la llamada."</string>
     <string name="disable_cfnry_forbidden">"Tu operador no permite inhabilitar el desvío de llamadas si el teléfono no responde."</string>
+    <string name="disable_esim_dialog_summary">"La SIM %s se activará si desactivas eSIM ahora.
+¿Desactivar eSIM de todos modos?"</string>
+    <string name="disable_esim_dialog_title">Desactivando eSIM</string>
+    <string name="disable_esim_error_toast_message">"No se pudo desactivar la eSIM"</string>
+    <string name="disable_esim_progress_activating_message">Desactivando eSIM…</string>
     <string name="disable_fdn">Inhabilitar FDN</string>
     <string name="disable_fdn_ok">Habilitar FDN</string>
     <string name="disable_overlays">Inhabilitar superposiciones de hardware</string>
@@ -873,6 +878,12 @@ Selección"</string>
     <string name="enable_disable_technology_news">Noticias tecnológicas</string>
     <string name="enable_dual_4g_if_dual_ct">Preferir redes 4G para ambas tarjetas SIM para usar VoLTE en la SIM secundaria cuando dos tarjetas de China Telecom sean instaladas.</string>
     <string name="enable_dual_4g_prompt_when_turn_on_volte">VoLTE requiere conectividad 4G para ambas ranuras SIM. ¿Cambiar a 4G dual ahora?</string>
+    <string name="enable_esim_dialog_summary">"La SIM %s se desactivará si activas la eSIM ahora.
+¿Activar eSIM de todos modos?"</string>
+    <string name="enable_esim_dialog_title">Activando eSIM</string>
+    <string name="enable_esim_error_toast_message">"No se pudo activar la eSIM"</string>
+    <string name="enable_esim_progress_activating_message">Activando eSIM…</string>
+    <string name="enable_esim_title">Usar eSIM</string>
     <string name="enable_fdn">Habilitar FDN</string>
     <string name="enable_fdn_ok">Inhabilitar FDN</string>
     <string name="enable_freeform_support">Habilitar ventanas de forma libre</string>
@@ -904,6 +915,7 @@ Selección"</string>
     <string name="enhanced_connectivity_summary">Habilita la función de conectividad mejorada.</string>
     <string name="enter_callbarring_password">Introduce una contraseña para la restricción de llamadas (%d dígitos)</string>
     <string name="enter_esim_manager">Administrar eSIM</string>
+    <string name="enter_esim_manager_title">Administrar eSIM</string>
     <string name="enter_input">El mensaje USSD debe tener entre %1$d y %2$d caracteres. Inténtalo de nuevo.</string>
     <string name="enter_pin2_text">PIN2</string>
     <string name="enter_pin_text">PIN de la tarjeta SIM:</string>
@@ -917,7 +929,10 @@ Selección"</string>
     <string name="esim_goto_active">Activar</string>
     <string name="esim_inactive_message">eSIM inactiva</string>
     <string name="esim_inactive_notification_message">No se detectó ninguna tarjeta SIM. Toca para activar la eSIM.</string>
+    <string name="esim_inactive_notification_message_global">No se detectó ninguna tarjeta SIM. Toca para activar la eSIM.</string>
+    <string name="esim_inactive_notification_title_global">Redes móviles &amp; Dual SIM</string>
     <string name="esim_inactive_settings_title">SIM dual &amp; redes móviles</string>
+    <string name="esim_setting_title">Configuración de eSIM</string>
     <string name="evening">Tarde</string>
     <string name="exception_error">Error en la tarjeta SIM o en la red.</string>
     <string name="expand_button_title">Avanzado</string>
@@ -1542,6 +1557,7 @@ Se usarán las redes preferidas en su lugar."</string>
     <string name="new_pin2_label">Nuevo PIN2</string>
     <string name="new_pin_label">Nuevo PIN</string>
     <string name="night">Tarde-noche</string>
+    <string name="no_active_esim_text">eSIM inactiva</string>
     <string name="no_application">Ninguna</string>
     <string name="no_change">No se ha realizado ningún cambio.</string>
     <string name="no_checked_network">"No podrá conectarse a la red móvil y realizar llamadas. ¿Seleccionar otra red?"</string>
@@ -2090,6 +2106,7 @@ Interfaz UT: %5$s"</string>
     <string name="send_keepalive_title">Enviar mensajes keep-alive</string>
     <string name="sensor_answer_summary">Lleve el teléfono a su oído para contestar una llamada entrante automáticamente</string>
     <string name="sensor_answer_title">Levanta para responder</string>
+    <string name="set_esim_toast_phone_in_call">"No se puede realizar esta acción durante las llamadas"</string>
     <string name="set_primary_summary">Usada para llamadas salientes</string>
     <string name="set_primary_title">Establecer como cuenta principal</string>
     <string name="set_smsc_address_error">"No se puede establecer el número"</string>
@@ -2284,6 +2301,8 @@ Confirme la configuración de su cuenta de llamadas predeterminada."</string>
     <string name="supp_service_over_ut_precautions_roaming">Para utilizar %s, los datos móviles y la itinerancia de datos deben estar activados. Puede cambiar estas opciones en los ajustes de red móvil.</string>
     <string name="supp_service_over_ut_precautions_roaming_dual_sim">Para utilizar %1$s, los datos móviles y la itinerancia de datos deben estar activados en la SIM %2$d. Puede cambiar estas opciones en los ajustes de red móvil.</string>
     <string name="support_forbidden_fakecell">Nota: Restringir la conexión a estaciones base falsas puede reducir la señal en áreas con poca cobertura.</string>
+    <string name="switch_cancel_btn_text">Cancelar</string>
+    <string name="switch_confirm_btn_text">OK</string>
     <string name="switch_dds_to_sub_alert">Establece esta tarjeta como tu tarjeta de datos por defecto.</string>
     <string name="switch_debug_menu">Configuraciones de red adicionales</string>
     <string name="switch_off">Desactivado</string>

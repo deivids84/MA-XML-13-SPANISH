@@ -2728,6 +2728,8 @@ Esta configuración afecta a todos los usuarios de este dispositivo."</string>
     <string name="device_edit_title">Renombrar dispositivo</string>
     <string name="device_feedback">Enviar comentarios del dispositivo</string>
     <string name="device_id">ID del dispositivo para recomendaciones personalizadas</string>
+    <string name="device_ime_keyboard_fold">Opciones de teclado para dispositivos plegables</string>
+    <string name="device_ime_keyboard_pad">Opciones de teclado para tablets</string>
     <string name="device_info_default">Desconocido</string>
     <string name="device_info_not_available">No disponible</string>
     <string name="device_internal_memory">Almacenamiento interno</string>
@@ -2777,6 +2779,8 @@ Para solucionar este problema, detén %1$s y evita que se ejecute en segundo pla
     <string name="dialog_check_title">"No se puede conectar a Internet"</string>
     <string name="dialog_chose_item">Seleccione un elemento a mostrar</string>
     <string name="dialog_content_login">¿Iniciar sesión con su Cuenta Mi para actualizar?</string>
+    <string name="dialog_esim_button_negative">Cancelar</string>
+    <string name="dialog_esim_button_positive">OK </string>
     <string name="dialog_location_message">"Tu teléfono no puede administrar el uso de la batería con normalidad porque %1$s solicita tu ubicación incluso cuando no estás usando la app.
 
 Para solucionar el problema, desactiva la ubicación en esta app."</string>
@@ -2790,6 +2794,12 @@ Para solucionar el problema, desactiva la ubicación en esta app."</string>
     <string name="dialog_restrict_all_wlan_title">Restringir conexión Wi-Fi</string>
     <string name="dialog_restrict_negative">Restringir</string>
     <string name="dialog_restrict_positive">Cancelar</string>
+    <string name="dialog_softbank_esim_wipe_cancel">Mantener</string>
+    <string name="dialog_softbank_esim_wipe_info">"¿Borrar todos los datos eSIM descargados ahora? Esto no cancelará tu plan de servicio móvil."</string>
+    <string name="dialog_softbank_esim_wipe_ok">Limpiar</string>
+    <string name="dialog_softbank_esim_wipe_title">Borrar datos de eSIM</string>
+    <string name="dialog_softbank_esime_context">Este dispositivo necesita conectarse a Internet para poder activar eSIM. ¿Omitir también la activación de eSIM?</string>
+    <string name="dialog_softbank_esime_title">Omitir activación de eSIM</string>
     <string name="dialog_speaker_auto_clean_button">Entendido</string>
     <string name="dialog_speaker_auto_clean_content">"La limpieza dura 30 segundos. No abandone esta página. Suba el volumen al máximo para el mejor efecto."</string>
     <string name="dialog_speaker_auto_clean_content_new">"Estás a punto de reproducir el audio que limpiará el altavoz. Ajuste el volumen al máximo para obtener el mejor efecto."</string>
@@ -2968,6 +2978,8 @@ Si el problema persiste, es posible que debas desinstalar la app para mejorar el
     <string name="double_click_volume_down_when_lock">Presione dos veces para bajar el volumen cuando la pantalla esté bloqueada</string>
     <string name="double_connect">Conexión dual</string>
     <string name="double_connect_summary">Para conectar a dos dispositivos</string>
+    <string name="double_g_v">Duplicar G y V</string>
+    <string name="double_g_v_sumary">Duplicar los botones centrales del teclado ergonómico para una experiencia más flexible</string>
     <string name="double_knock">Doble toque de nudillos</string>
     <string name="double_tap_power_for_camera_suggestion_title">Abre la cámara rápidamente</string>
     <string name="double_tap_power_for_camera_summary">Para abrir la cámara rápidamente, presiona dos veces el botón de encendido. Funciona desde cualquier pantalla.</string>
@@ -3386,6 +3398,8 @@ Reinicie su dispositivo y vuelva a intentarlo."</string>
     <string name="feedback_btn_text">Enviar comentario</string>
     <string name="feedback_settings">Servicios y comentarios</string>
     <string name="feedback_settings_new">Comentarios</string>
+    <string name="felica_wallet">FeliCa Wallet</string>
+    <string name="felica_wallet_desc">FeliCa Wallet</string>
     <string name="file_privacy_password_role_instruction">Sus archivos privados serán almacenados aquí.</string>
     <string name="filter">Filtro</string>
     <string name="filter_all_apps">Todas las apps</string>
@@ -3541,9 +3555,11 @@ Para obtener más información, comuníquese con su proveedor acreedor."</string
     <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
     <string name="fmt_time_12hour">"h 'en punto'"</string>
     <string name="fmt_time_24hour">"HH 'en punto'"</string>
+    <string name="fold_game_adaptation">Juegos</string>
     <string name="fold_rule_default">Recomendado</string>
     <string name="fold_rule_important">Importante</string>
     <string name="fold_rule_unimportant">No relevante</string>
+    <string name="fold_screen_settings_title">Funciones para pantalla grande</string>
     <string name="fold_title">Reglas para notificaciones en grupo</string>
     <string name="font_cta_alert_btn_negative">Cancelar</string>
     <string name="font_cta_alert_btn_positive">Aceptar</string>
@@ -4005,6 +4021,8 @@ Abra Xiaomi Cloud y restaure elementos desde allí."</string>
     <string name="imei_information_summary">Información relacionada con IMEI</string>
     <string name="imei_information_title">Información de IMEI</string>
     <string name="imei_multi_sim">IMEI (ranura de SIM %1$d)</string>
+    <string name="imitate_real_keyboard">Teclado tradicional</string>
+    <string name="imitate_real_keyboard_summary">Útil cuando el dispositivo está apoyado en una superficie plana</string>
     <string name="immediately_destroy_activities">"No guardes actividades"</string>
     <string name="immediately_destroy_activities_summary">Termine cada actividad tan pronto como el usuario la abandone</string>
     <string name="importance_default">Normal</string>
@@ -4429,6 +4447,8 @@ Abra Xiaomi Cloud y restaure elementos desde allí."</string>
     <string name="led_settings">Luz LED</string>
     <string name="left_edge">Borde izquierdo</string>
     <string name="left_function_key">Atajo izquierdo</string>
+    <string name="left_right_hand_switch">Izquierda y derecha</string>
+    <string name="left_right_hand_switch_summary">Cambiar de posición las partes izquierda y derecha del teclado con un solo toque</string>
     <string name="legacy_control_center_desc">Deslice la barra de estado hacia abajo para ver los conmutadores y las notificaciones</string>
     <string name="legacy_control_center_title">Versión antigua</string>
     <string name="legacy_navigation_summary">Ve atrás o a la pantalla principal y cambia de app con los botones de la parte inferior de la pantalla.</string>
@@ -5093,6 +5113,8 @@ No podrá revertir esta acción."</string>
     <string name="mi_smart_play_entry_title">Mi Smart Play</string>
     <string name="mi_transfer">Mi Mudanza</string>
     <string name="mi_upi_settings">Cuenta Mi Pago</string>
+    <string name="mi_wallet">Mi Wallet</string>
+    <string name="mi_wallet_desc">Mi Wallet</string>
     <string name="mic_toggle_title">Acceso al micrófono</string>
     <string name="micloud_service_summary">Sincronizar la lista de aplicaciones, hacer copia de seguridad de los ajustes del sistema y diseño de la Pantalla de inicio</string>
     <string name="micloud_service_title">Xiaomi Cloud</string>
@@ -5252,6 +5274,7 @@ No podrá revertir esta acción."</string>
     <string name="misc_files">Archivos variados</string>
     <string name="misc_files_selected_count">Se seleccionaron %1$d de entre %2$d.</string>
     <string name="misc_files_selected_count_bytes">%1$s de %2$s</string>
+    <string name="mishow_disable_password_setting">"No se pueden usar contraseñas en el modo demostración"</string>
     <string name="miui_accessibility_asr_summary">Transcriba audio y guarde texto</string>
     <string name="miui_accessibility_asr_title">Mi Ditto</string>
     <string name="miui_allow_alarm">Alarmas</string>
@@ -5273,6 +5296,7 @@ Continúe para acceder a los ajustes adicionales."</string>
     <string name="miui_lab_aiasst_call_screen_desc">Responder llamadas usando IA</string>
     <string name="miui_lab_aiasst_call_screen_title">Asistente de llamadas IA</string>
     <string name="miui_lab_drive_mode_desc">Utilice controles de voz y escuche mensajes de WeChat</string>
+    <string name="miui_lab_drive_mode_desc_new">Usar controles de voz</string>
     <string name="miui_lab_drive_mode_title">Modo carro</string>
     <string name="miui_lab_feature_applied">Aplicado</string>
     <string name="miui_lab_feature_off">Desactivado</string>
@@ -5290,6 +5314,11 @@ Continúe para acceder a los ajustes adicionales."</string>
     <string name="miui_master_clear_prompt_battery_low">"No se puede realizar un restablecimiento de fábrica cuando queda menos de %1$s de batería. Cargue su dispositivo antes de continuar."</string>
     <string name="miui_master_clear_summary">Eliminar todos los datos del dispositivo</string>
     <string name="miui_more_special_feature">Conozca nuevas funciones</string>
+    <string name="miui_nfc_dialog_message">"No podrás utilizar las funciones de NFC, que incluyen Mi Pay, tarjetas de transporte, tarjetas de acceso y más, si desactivas NFC. ¿Desactivar de todos modos?"</string>
+    <string name="miui_nfc_dialog_negative">Desactivar</string>
+    <string name="miui_nfc_dialog_positive">Cancelar</string>
+    <string name="miui_nfc_dialog_title">Desactivando NFC</string>
+    <string name="miui_nfc_mi_pay_summary">Mi Pay, tarjetas de transporte, tarjetas clave</string>
     <string name="miui_optimization_disabled">Desactivar optimización MIUI</string>
     <string name="miui_sos_around_photo_summary">Adjunte %d foto de cada una de las cámaras delantera y trasera al mensaje de texto enviado a sus contactos de emergencia</string>
     <string name="miui_sos_around_photo_title">Adjuntar fotos</string>
@@ -5754,6 +5783,8 @@ Seleccione su sistema operativo:"</string>
     <string name="nfc_how_it_works_content">Configura una aplicación para efectuar pagos. A continuación, solo tienes que sostener la parte posterior del teléfono sobre cualquier terminal con el símbolo de pago sin contacto.</string>
     <string name="nfc_how_it_works_got_it">Entendido</string>
     <string name="nfc_how_it_works_title">Cómo pagar en la terminal</string>
+    <string name="nfc_image_preference_text_click">Comprueba dónde está el área de la antena NFC en este dispositivo</string>
+    <string name="nfc_image_preference_text_noclick">"Coloca tu dispositivo cerca de una terminal sin contacto para usar Mi Pay, tarjetas de transporte, tarjetas de acceso y otras funciones de NFC. "</string>
     <string name="nfc_main_switch_title">Utilizar NFC</string>
     <string name="nfc_more_title">Más...</string>
     <string name="nfc_payment_btn_text_set_deault">Establecer como predeterminada</string>
@@ -6421,6 +6452,7 @@ Presione Encendido y Subir volumen al mismo tiempo."</string>
     <string name="pref_volume_wake_title">Activar con botones de volumen</string>
     <string name="preference_change_password_title">Cambiar contraseña</string>
     <string name="preference_copied">Se copió \"%1$s\" en el portapapeles.</string>
+    <string name="preference_toggle_nfc_dnd_mode_summary">"No recibir notificaciones sobre etiquetas NFC no reconocidas"</string>
     <string name="preferred_app_settings">Por defecto</string>
     <string name="preferred_app_settings_default">Por defecto</string>
     <string name="preferred_app_settings_not_selected">No seleccionado</string>
@@ -7192,6 +7224,8 @@ Para fijar una aplicación, sigue estos pasos: \u0009
     <string name="sdcard_settings_unmounted_status">Puedes extraer el almac. USB.</string>
     <string name="sdcard_settings_used_bytes_label">Bytes utilizados:</string>
     <string name="sdcard_unmount">Desmontar almacenamiento USB</string>
+    <string name="se_in_ese">Elemento seguro integrado</string>
+    <string name="se_in_ese_desc">Elemento seguro integrado</string>
     <string name="se_route_default">Seleccionar automáticamente</string>
     <string name="se_route_ese">Elemento seguro incorporado</string>
     <string name="se_route_uicc">Elemento seguro en la tarjeta SIM</string>
@@ -7643,6 +7677,9 @@ Nota: No puedes usar tu huella digital para desbloquear este dispositivo. Para o
     <string name="send">Enviar</string>
     <string name="sensor_toggle_description">Para todas las aplicaciones y servicios</string>
     <string name="sensors_off_quick_settings_title">Sensores desactivados</string>
+    <string name="separate_keyboard">Teclado ergonómico</string>
+    <string name="separate_keyboard_summary_fold">Particiona el teclado en el centro para escribir más cómodo mientras sostienes el dispositivo con ambas manos</string>
+    <string name="separate_keyboard_summary_pad">Particiona el teclado en el centro para que escribir sea más cómodo y rápido</string>
     <string name="service_background_processes">%1$s libre</string>
     <string name="service_foreground_processes">%1$s en uso</string>
     <string name="service_manage">Configuración</string>
@@ -7905,6 +7942,8 @@ PIN posiblemente incorrecto."</string>
     <string name="sim_switch_button">Cambiar</string>
     <string name="sim_switch_channel_id">Cambio de operador</string>
     <string name="sim_vonr_title">SIM %1$s (%2$s)</string>
+    <string name="sim_wallet">SIM Wallet</string>
+    <string name="sim_wallet_desc">SIM Wallet</string>
     <string name="simulate_color_space">Simular espacio de color</string>
     <string name="single_key_use">Botón único</string>
     <string name="single_key_use_summary">"Use el botón Inicio para las funciones realizadas por los otros 2 botones.
@@ -8551,6 +8590,8 @@ Intenta usar un ^3 más rápido o usa ^4 como almacenamiento portátil."</string
     <string name="switch_sim_dialog_title">¿Usar %1$s?</string>
     <string name="switch_to_removable_notification">Cambiado a %1$s</string>
     <string name="switch_to_removable_notification_no_carrier_name">Cambiado a otro operador</string>
+    <string name="symbol_fast_input">Caracteres especiales</string>
+    <string name="symbol_fast_input_summary">Pulsa un botón designado para permanecer en el teclado con caracteres especiales e introduce varios símbolos a la vez</string>
     <string name="symbols_not_allowed_for_password">La contraseña solo puede contener dígitos y letras</string>
     <string name="sync_active">Sincronización activada</string>
     <string name="sync_automatically">Autosincronizar datos de aplic.</string>
@@ -8599,6 +8640,7 @@ Con este software de Google, puedes sincronizar tus datos y acceder a tus contac
     <string name="system_ui_settings">Mostrar sintonizador de IU del sistema</string>
     <string name="system_update_settings_list_item_title">Actualiz. del sistema</string>
     <string name="tab_text">Pestaña</string>
+    <string name="tablet_screen_settings_title">Características para tablets</string>
     <string name="take_call_on_title">Atender llamada en</string>
     <string name="talkback_summary">Lector de pantalla, principalmente, para personas con ceguera o visión reducida</string>
     <string name="talkback_title">Talkback</string>
@@ -9532,6 +9574,7 @@ Durante una llamada de voz, no puedes usar Internet y es posible que algunas app
     <string name="wallpaper_desktop">Pantalla de inicio</string>
     <string name="wallpaper_live">Fondo animado</string>
     <string name="wallpaper_lockscreen">Pantalla de bloqueo</string>
+    <string name="wallpaper_setting_title">Fondo de pantalla</string>
     <string name="wallpaper_settings_fragment_title">Elegir fondo de pantalla</string>
     <string name="wallpaper_settings_summary_custom">Personalizado</string>
     <string name="wallpaper_settings_summary_default">Predeterminado</string>

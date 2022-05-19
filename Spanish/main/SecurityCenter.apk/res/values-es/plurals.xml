@@ -42,7 +42,7 @@
     </plurals>
     <plurals name="app_behavior_dashboard_title_desc">
         <item quantity="other">%d aplicaciones</item>
-        <item quantity="one">%d aplicación</item>
+        <item quantity="one">Aplicación %d</item>
     </plurals>
     <plurals name="app_behavior_dashboard_total_usage_item">
         <item quantity="other">%d aplicaciones</item>
@@ -179,7 +179,7 @@
     <plurals name="daily_sim_over_limit_dialog_message">
         <item quantity="other">"Ya has usado %s de tu límite de datos diario. 
 
-Si activas los datos móviles otra vez, tu compañia telefónica puede cargar gastos por datos adicionales."</item>
+Si activas los datos móviles otra vez, tu compañía telefónica puede cargar gastos por datos adicionales."</item>
         <item quantity="one">"Ya has usado %s de tu límite de datos diario. 
 
 Si activas los datos móviles otra vez, tu compañia telefónica puede cargar gastos por datos adicionales."</item>
@@ -271,6 +271,10 @@ Si activas los datos móviles otra vez, tu compañia telefónica puede cargar ga
     <plurals name="gb_signed_days_sum">
         <item quantity="other">Registrado %d días seguidos</item>
         <item quantity="one">Registrado %d vez</item>
+    </plurals>
+    <plurals name="gb_smart_battery_surplus">
+        <item quantity="other">%2$1.2f horas restantes</item>
+        <item quantity="one">%2$1.2f hora restante</item>
     </plurals>
     <plurals name="gb_toolbox_guide_known">
         <item quantity="other">Entendido (%ds)</item>
@@ -859,6 +863,10 @@ para obtener un prueba gratuita de %d días!"</item>
     <plurals name="st_show_num_number">
         <item quantity="other">%d números</item>
         <item quantity="one">%d número</item>
+    </plurals>
+    <plurals name="storage_fbo_number_unit">
+        <item quantity="other">&lt;big&gt;&lt;big&gt;&lt;big&gt;&lt;big&gt;&lt;big&gt;&lt;big&gt;%s&lt;/big&gt;&lt;/big&gt;&lt;/big&gt;&lt;/big&gt;&lt;/big&gt;&lt;/big&gt; fragmentos</item>
+        <item quantity="one">&lt;big&gt;&lt;big&gt;&lt;big&gt;&lt;big&gt;&lt;big&gt;&lt;big&gt;%s&lt;/big&gt;&lt;/big&gt;&lt;/big&gt;&lt;/big&gt;&lt;/big&gt;&lt;/big&gt; fragmento</item>
     </plurals>
     <plurals name="summary_absorbed_time_foramt">
         <item quantity="other">Encienda el modo de enfoque durante %d minutos</item>

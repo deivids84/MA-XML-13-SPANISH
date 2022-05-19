@@ -195,6 +195,7 @@
     <string name="confirm_exit">¿Guardar cambios?</string>
     <string name="connect_now">Conectar</string>
     <string name="connecting_apk">Conectando…</string>
+    <string name="content_failed_to_load">"No se pudo cargar el contenido"</string>
     <string name="copy">Copiar</string>
     <string name="create_playlist">Crear lista de reproducción</string>
     <string name="create_playlist_failure">"No se pudo crear la lista de reproducción"</string>

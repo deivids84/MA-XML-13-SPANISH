@@ -522,7 +522,7 @@
     <string name="note_mindnote_entrance_icon_text_newversion">Crear un mapa mental</string>
     <string name="note_module_name">Notas</string>
     <string name="note_not_text_stub">Sin texto</string>
-    <string name="note_sort_way">Selecciona cómo desea ordenar tus notas</string>
+    <string name="note_sort_way">Ordenar tus notas</string>
     <string name="notealert_enter">Abrir nota</string>
     <string name="notealert_ok">Rechazar</string>
     <string name="notes_description_content">"Notas es una aplicación del sistema. No podrás utilizar esta aplicación después de desinstalarla."</string>
@@ -921,14 +921,14 @@ Permite a las Notas grabar audio."</string>
     <string name="toolbar_undo_description">Deshacer</string>
     <string name="toolbar_voice_description">Voz</string>
     <string name="trash_folder_name">Papelera</string>
-    <string name="trash_folder_reminder">Las notas que elimines se eliminarán de forma permanente en %1$d días.</string>
-    <string name="trash_folder_reminder_new">Las notas se mantienen en la papelera durante %d días antes de ser eliminadas permanentemente</string>
+    <string name="trash_folder_reminder">Las notas que elimines se borrarán definitivamente en %1$d días.</string>
+    <string name="trash_folder_reminder_new">Las notas se mantienen en la papelera durante %d días antes de ser borradas definitivamente</string>
     <string name="tuesday">Martes</string>
     <string name="tuesday_short">Mar</string>
     <string name="tuesday_shortest">Mar</string>
     <string name="unclassfied_folder_name">Sin categoría</string>
     <string name="undo">Deshacer</string>
-    <string name="unknown_source">Fuente desconocida</string>
+    <string name="unknown_source">Origen desconocido</string>
     <string name="v7_preference_off">DESACTIVADA</string>
     <string name="v7_preference_on">ACTIVADO</string>
     <string name="view_all_notes">Ver todo</string>

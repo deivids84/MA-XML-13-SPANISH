@@ -30,6 +30,8 @@
     <string name="access_non_personal_data">Si retira el consentimiento para el acceso y el uso de datos no personales de su dispositivo, los servicios de Wallpaper Carousel se desactivarán y los datos recopilados se eliminarán dentro del período especificado en las leyes y regulaciones aplicables.</string>
     <string name="accessibility_enabled">Accesibilidad activada.</string>
     <string name="actionbar_button_up_description">Atrás</string>
+    <string name="activate_esim_tips">"No se pudo activar. Vuelve a intentarlo."</string>
+    <string name="activating_esim_tips">Activando…</string>
     <string name="address_dialing_introduction">Puede usar esta aplicación para hacer llamadas, ver el historial de llamadas y administrar contactos.</string>
     <string name="afternoon">Tarde</string>
     <string name="agree">Aceptar</string>
