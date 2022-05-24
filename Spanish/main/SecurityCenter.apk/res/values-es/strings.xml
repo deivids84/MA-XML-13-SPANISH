@@ -1227,7 +1227,7 @@ Su operadora puede cobrarle cargos adicionales si vuelve a activar los datos mó
     <string name="deep_power_save_item_title_lock_screen_time">Apaga la pantalla</string>
     <string name="deep_save_memory_clean_summary">Limpiar caché cuando bloquee el dispositivo para evitar que las aplicaciones consuman batería</string>
     <string name="deep_save_ontime_boot_shutdown_summary">Programar hora de encendido/apagado del dispositivo</string>
-    <string name="default_condition_summary">Por ejemplo, \"La batería es inferior a %s%\"</string>
+    <string name="default_condition_summary">Por ejemplo, \"La batería es inferior a 20%\"</string>
     <string name="default_condition_title">Agregar condición</string>
     <string name="default_condition_title_continue">Agregar condición</string>
     <string name="default_result_summary">Por ejemplo, \"Desactivar el modo avión\"</string>
