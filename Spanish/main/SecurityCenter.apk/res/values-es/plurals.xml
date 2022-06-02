@@ -272,9 +272,13 @@ Si activas los datos móviles otra vez, tu compañia telefónica puede cargar ga
         <item quantity="other">Registrado %d días seguidos</item>
         <item quantity="one">Registrado %d vez</item>
     </plurals>
-    <plurals name="gb_smart_battery_surplus">
-        <item quantity="other">%2$1.2f horas restantes</item>
-        <item quantity="one">%2$1.2f hora restante</item>
+    <plurals name="gb_smart_battery_hrs">
+        <item quantity="other">%d horas</item>
+        <item quantity="one">%d hora</item>
+    </plurals>
+    <plurals name="gb_smart_battery_min">
+        <item quantity="other">%d minutos</item>
+        <item quantity="one">%d minuto</item>
     </plurals>
     <plurals name="gb_toolbox_guide_known">
         <item quantity="other">Entendido (%ds)</item>

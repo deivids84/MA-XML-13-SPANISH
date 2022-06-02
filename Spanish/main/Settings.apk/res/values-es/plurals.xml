@@ -316,6 +316,10 @@
         <item quantity="other">%d agentes de confianza activos</item>
         <item quantity="one">1 agente de confianza activo</item>
     </plurals>
+    <plurals name="max_number_of_processes">
+        <item quantity="other">Como máximo %d procesos</item>
+        <item quantity="one">Como máximo %d proceso</item>
+    </plurals>
     <plurals name="memory_usage_apps_summary">
         <item quantity="other">%1$d aplicaciones han utilizado memoria durante las últimas %2$s</item>
         <item quantity="one">1 aplicación ha utilizado memoria durante las últimas %2$s</item>
@@ -495,6 +499,26 @@ Ponte en contacto con el administrador para obtener más información sobre este
     <plurals name="status_bar_settings_enabled_header_title">
         <item quantity="other">%d aplicaciones pueden mostrar notificaciones</item>
         <item quantity="one">%d aplicación puede mostrar notificaciones</item>
+    </plurals>
+    <plurals name="string_after_int_minute">
+        <item quantity="other">Después de %d minutos</item>
+        <item quantity="one">Después de %d minuto</item>
+    </plurals>
+    <plurals name="string_bits_per_sample">
+        <item quantity="other">%d bits/muestra</item>
+        <item quantity="one">%d bit/muestra</item>
+    </plurals>
+    <plurals name="string_int_hour">
+        <item quantity="other">%d horas</item>
+        <item quantity="one">%d hora</item>
+    </plurals>
+    <plurals name="string_int_minute">
+        <item quantity="other">%d minutos</item>
+        <item quantity="one">%d minuto</item>
+    </plurals>
+    <plurals name="string_int_second">
+        <item quantity="other">%d segundos</item>
+        <item quantity="one">%d segundo</item>
     </plurals>
     <plurals name="suggestions_collapsed_summary">
         <item quantity="other">Más de %1$d sugerencias</item>

@@ -162,7 +162,7 @@
     <string name="fmt_weekday_time">W T</string>
     <string name="fmt_weekday_time_timezone">W T z</string>
     <string name="fmt_weekday_timezone">W z</string>
-    <string name="four_note">La prueba durará alrededor de 3 minutos.</string>
+    <string name="four_note">La prueba durará alrededor de %d minutos.</string>
     <string name="friday">Viernes</string>
     <string name="friday_short">Vie</string>
     <string name="friday_shortest">Vie</string>
@@ -326,7 +326,7 @@
     <string name="music_audio_effect_settings">Configuración de efectos</string>
     <string name="music_audio_visual_wake_lock">Mantener la pantalla activa</string>
     <string name="music_audio_visual_wake_lock_summary">"No apagar la pantalla cuando se muestran los efectos visuales"</string>
-    <string name="music_below_thirty_years">Hasta 30 años</string>
+    <string name="music_below_thirty_years">Hasta %d años de edad</string>
     <string name="music_customized_sound_summary">Personalizar volumen acorde a tu percepción auditiva</string>
     <string name="music_customized_sound_title">Ajuste de volumen</string>
     <string name="music_delete">Eliminar</string>
@@ -409,10 +409,10 @@
     <string name="music_sound_num">Preajuste personalizado %s</string>
     <string name="music_sound_sample">Preajustes del sistema</string>
     <string name="music_sure_to_delete_sound_msg">¿Eliminar ahora los preajustes seleccionados?</string>
-    <string name="music_thirty_to_sixty_years">30-60 años</string>
+    <string name="music_thirty_to_sixty_years" formatted="false">%d-%d años de edad</string>
     <string name="music_title_dolby_control">Dolby Digital Plus</string>
     <string name="music_unsupport_effect_summary">"Los auriculares USB no son compatibles"</string>
-    <string name="music_upper_sixty_years">Más de 60 años</string>
+    <string name="music_upper_sixty_years">Más de %d años de edad</string>
     <string name="name">Nombre</string>
     <string name="night">Tarde-noche</string>
     <string name="noon">Mediodía</string>

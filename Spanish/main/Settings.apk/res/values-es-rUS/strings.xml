@@ -66,6 +66,7 @@
     <string name="access_control_password_title">Bloqueo de aplicaciones</string>
     <string name="access_control_recording_intro_header">Dibuje un patrón de desbloqueo</string>
     <string name="access_control_reset_by_account">Inicie sesión en su Cuenta Mi para restablecer la contraseña</string>
+    <string name="access_denied_info">Demasiados intentos. Espera uno o dos minutos e inténtalo de nuevo.</string>
     <string name="access_point_names">Nombres de puntos de acceso</string>
     <string name="accessibility_audio_adjustment_title">Ajuste de audio</string>
     <string name="accessibility_autoclick_custom_title">Personalizado</string>
@@ -129,7 +130,7 @@ No todas las apps admiten esta opción."</string>
     <string name="accessibility_dialog_button_deny">Rechazar</string>
     <string name="accessibility_dialog_button_stop">Detener</string>
     <string name="accessibility_disable_animations">Quitar animaciones</string>
-    <string name="accessibility_display_daltonizer_preference_subtitle">Ajusta cómo se muestran los colores en tu dispositivo. Esto puede ser útil cuando desees:<br><br/></br><ol><li> Ver colores con mayor precisión<li/> Eliminar colores para ayudarte a concentrarse</li></ol></string>
+    <string name="accessibility_display_daltonizer_preference_subtitle">Ajusta cómo se ven los colores en el dispositivo. Esto puede ser útil cuando desees:<ol><li><br/><br/> Ver los colores con mayor precisión</li><li> Eliminar colores para conccentrarte mejor</li></ol></string>
     <string name="accessibility_display_daltonizer_preference_title">Corrección de color</string>
     <string name="accessibility_display_inversion_preference_subtitle">La inversión de color oscurece la pantalla.&lt;br/&gt;&lt;br/&gt; Nota: &lt;ol&gt; &lt;li&gt; También puede aclararla.&lt;/li&gt; &lt;li&gt; Los colores cambiarán para el contenido multimedia y las imágenes.&lt;/li&gt; &lt;li&gt; El Tema oscuro permite mostrar un fondo oscuro y funciona solo con apps compatibles. Por otro lado, la inversión de color funciona con todas las apps.&lt;/li&gt; &lt;/ol&gt;</string>
     <string name="accessibility_display_inversion_preference_title">Inversión de color</string>
@@ -454,7 +455,7 @@ Si quieres cambiar de función, desliza 3 dedos hacia arriba y mantén presionad
     <string name="add_fingerprint_done_msg">Ahora puede desbloquear este dispositivo con su huella digital.</string>
     <string name="add_fingerprint_done_title">"¡Ya está listo para disfrutar!"</string>
     <string name="add_fingerprint_edge_instruction_msg">Mueva su dedo para que el sensor pueda grabar los bordes de su huella digital.</string>
-    <string name="add_fingerprint_edge_instruction_title">Mueva su dedo ligeramente</string>
+    <string name="add_fingerprint_edge_instruction_title">Ajusta el agarre para la captura de los bordes de la huella</string>
     <string name="add_fingerprint_failed_retry_text">"No se pudo agregar la huella digital. Vuelva a intentarlo"</string>
     <string name="add_fingerprint_finished_button_text">Listo</string>
     <string name="add_fingerprint_instruction_msg">El sensor de huellas digitales se encuentra en el botón de Inicio.</string>
@@ -612,7 +613,6 @@ Si este permiso está desactivado, las alarmas existentes y los eventos basados 
     <string name="angle_enabled_app">Seleccionar app compatible con ANGLE</string>
     <string name="angle_enabled_app_not_set">No se estableció ninguna app compatible con ANGLE</string>
     <string name="angle_enabled_app_set">App compatible con ANGLE: %1$s</string>
-    <string name="animation_off">Animación desactivada</string>
     <string name="animator_duration_scale_title">Escala de duración del animador</string>
     <string name="another_migration_already_in_progress">Hay otra migración en curso.</string>
     <string name="anti_spam">Lista de bloqueo</string>
@@ -755,7 +755,7 @@ Si este permiso está desactivado, las alarmas existentes y los eventos basados 
     <string name="application_lock_name">Bloqueo de aplicaciones</string>
     <string name="application_manager_section_title">Aplicaciones</string>
     <string name="application_mode_empty_text">No hay aplicaciones aquí todavía</string>
-    <string name="application_mode_name">Modo de visualización de la aplicación</string>
+    <string name="application_mode_name">Diseños de aplicaciones</string>
     <string name="application_permission_manager">Permisos de aplicación</string>
     <string name="application_permissions">Permisos de aplicaciones</string>
     <string name="application_restrictions">Permitir aplicaciones y contenido</string>
@@ -810,7 +810,6 @@ Si este permiso está desactivado, las alarmas existentes y los eventos basados 
     <string name="asst_feedback_indicator_title">Comentarios de notificación adaptativos</string>
     <string name="asst_importance_reset_summary">Restablezca la configuración de importancia cambiada por el usuario y permita que el asistente de notificación priorice</string>
     <string name="asst_importance_reset_title">Restablecer la importancia de la notificación</string>
-    <string name="at_most_one_process">Como máximo %d proceso</string>
     <string name="attempt_other_network">Cambiar redes</string>
     <string name="audio_and_captions_category_title">Audio y texto en pantalla</string>
     <string name="audio_category_title">Audio</string>
@@ -847,9 +846,9 @@ Si este permiso está desactivado, las alarmas existentes y los eventos basados 
     <string name="auto_brightness_very_low_title">Muy bajo</string>
     <string name="auto_caps">Uso de mayúsculas automático</string>
     <string name="auto_caps_summary">Escribir con mayúscula la primera letra en las oraciones</string>
-    <string name="auto_clean_description">"Acerca de esta función
-1. Ejecute esta función una o dos veces si encuentra que su altavoz está ligeramente bloqueado por el polvo.
-2. Si el altavoz está muy bloqueado, ejecute esta función %1$d-%2$d veces mientras agita el dispositivo con el altavoz hacia abajo."</string>
+    <string name="auto_clean_description">"Acerca de esta característica
+%3$d. Ejecuta esta función una o dos veces si encuentras que tu altavoz está ligeramente bloqueado por el polvo.
+%4$d. Si el altavoz está bloqueado fuertemente, ejecuta esta función %1$d-%2$d veces mientras agitas tu dispositivo con el altavoz hacia abajo."</string>
     <string name="auto_clean_description_pad">"Acerca de esta función
 - Ejecute esta función una o dos veces si descubre que su altavoz está ligeramente bloqueado por el polvo.
 - Si el altavoz está muy bloqueado, ejecute esta función %1$d,%2$d veces mientras agita su dispositivo con el altavoz hacia abajo."</string>
@@ -1773,9 +1772,11 @@ Puede desactivar esta función en Configuración &gt; Bluetooth &gt; Dispositivo
     <string name="bt_ldac_open_dialog_summary">LDAC ofrece una experiencia de audio de alta calidad pero también tiene un mayor consumo de energía. Pueden presentarse problemas durante la reproducción debido a las limitaciones del hardware del Bluetooth.</string>
     <string name="bt_ldac_open_dialog_title">¿Activar LDAC?</string>
     <string name="bt_ldac_property">Propiedades</string>
+    <string name="bt_leaudio_cg_dialog_summary">"Algunas características no estarán disponibles al activar esta función. Tampoco se soporta la conexión de varios dispositivos a los auriculares. Si ya has conectado dos dispositivos diferentes, desconecta uno de ellos. ¿Activar LC3?"</string>
     <string name="bt_leaudio_open_dialog_summary">"No podrá conectar varios dispositivos a sus audífonos cuando LC3 esté activado. Otros dispositivos conectados se desconectarán si activa esta función. ¿Activar LC3 de todos modos?"</string>
     <string name="bt_leaudio_open_dialog_title">Atención</string>
     <string name="bt_leaudio_summary">Experiencia de audio de alta calidad</string>
+    <string name="bt_leaudio_support_multi_dialog_summary">"Algunas características no estarán disponibles después de activar esta función. ¿Activar LC3 ahora?"</string>
     <string name="bt_lhdc_declaration">Cuando un dispositivo Bluetooth es compatible con LHDC, se conectará de manera predeterminada. LHDC permite reproducir audio de alta calidad y reduce la latencia durante los juegos, pero también aumenta el consumo de energía. Pueden producirse problemas durante la reproducción debido a limitaciones de hardware de Bluetooth.</string>
     <string name="bt_lhdc_dialog_summary">LHDC permite reproducir audio de alta calidad y reduce la latencia durante los juegos, pero también aumenta el consumo de energía. Esta característica se puede desactivar en Ajustes.</string>
     <string name="bt_lhdc_dialog_title">El dispositivo actual soporta LHDC, el cual ha sido conectado por defecto:</string>
@@ -2081,6 +2082,7 @@ Esto afecta otras apps o conversaciones que pueden crear burbujas."</string>
     <string name="codec_low_latency_video_summary">Proporciona una experiencia de audio de baja latencia para juegos y videos, lo que hace que la sincronización de sonido e imagen sea más natural.</string>
     <string name="codec_low_latency_zmi_summary">Reduce el retraso de audio y mejora los efectos de sonido de los juegos automáticamente</string>
     <string name="codec_low_latency_zmi_title">Baja latencia para juegos</string>
+    <string name="collect_diagnosis_log">Recopilar registro de diagnóstico</string>
     <string name="color_black">Negro</string>
     <string name="color_blue">Azul</string>
     <string name="color_calibration_none">Este dispositivo</string>
@@ -2278,6 +2280,7 @@ Esta información te avisa si tus contactos pueden usar determinadas funciones, 
     <string name="continue_reset_factory">Restablecer a los ajustes de fábrica</string>
     <string name="contributors_title">Colaboradores</string>
     <string name="control_center">Centro de Control</string>
+    <string name="control_center_force_use_panel_guide_text">Desliza hacia abajo la barra de estado a la izquierda para ver las notificaciones. Desliza hacia abajo a la derecha abrirá el centro de Control. Puedes cambiar entre las dos deslizando a la izquierda y a la derecha.</string>
     <string name="control_center_style">Estilo de centro de control</string>
     <string name="control_center_style_summary">"Seleccione cómo le gustaría mostrar los conmutadores y las notificaciones"</string>
     <string name="control_panel_switch_side">Cambiar de lado el Centro de control</string>
@@ -2422,6 +2425,11 @@ Para reanudar el uso de tu dispositivo, debes restablecer los datos de fábrica.
     <string name="dark_color_mode">Modo oscuro</string>
     <string name="dark_color_summary_lcd">"Usar una paleta de colores más oscuros para funciones del sistema en segundo plano y aplicaciones compatibles. El Modo oscuro puede ayudar a aliviar la fatiga ocular cuando usa el dispositivo en la oscuridad."</string>
     <string name="dark_color_summary_oled">Usar una paleta de colores más oscuros para funciones del sistema en segundo plano y aplicaciones compatibles. El Modo oscuro reduce el consumo de energía y ayuda a aliviar la fatiga ocular.</string>
+    <string name="dark_mode_alert_dialog_cancel">Cancelar</string>
+    <string name="dark_mode_alert_dialog_checkbox">"No volver a mostrar"</string>
+    <string name="dark_mode_alert_dialog_confirm">Activar</string>
+    <string name="dark_mode_alert_dialog_message">Es posible que esta aplicación no se muestre correctamente en el modo Oscuro. ¿Activar el modo Oscuro de todos modos?</string>
+    <string name="dark_mode_alert_dialog_title">Atención</string>
     <string name="dark_mode_apps_header">Aplicaciones individuales</string>
     <string name="dark_mode_auto_time_summary">Activar y desactivar el modo oscuro a la hora programada</string>
     <string name="dark_mode_auto_time_title">Personalizado</string>
@@ -2728,8 +2736,8 @@ Esta configuración afecta a todos los usuarios de este dispositivo."</string>
     <string name="device_edit_title">Renombrar dispositivo</string>
     <string name="device_feedback">Enviar comentarios del dispositivo</string>
     <string name="device_id">ID del dispositivo para recomendaciones personalizadas</string>
-    <string name="device_ime_keyboard_fold">Opciones de teclado para dispositivos plegables</string>
-    <string name="device_ime_keyboard_pad">Opciones de teclado para tablets</string>
+    <string name="device_ime_keyboard_fold">Teclados para dispositivos plegables</string>
+    <string name="device_ime_keyboard_pad">Teclados para tablets</string>
     <string name="device_info_default">Desconocido</string>
     <string name="device_info_not_available">No disponible</string>
     <string name="device_internal_memory">Almacenamiento interno</string>
@@ -2763,6 +2771,10 @@ Esta configuración afecta a todos los usuarios de este dispositivo."</string>
     <string name="device_total_memory">"Almacenamiento total "</string>
     <string name="device_usage_list_summary">Uso del dispositivo desde la última carga completa</string>
     <string name="devices_title">Dispositivos</string>
+    <string name="diagnosis_log_send_failed">Error al enviar el registro de diagnóstico.</string>
+    <string name="diagnosis_log_sent_format">"Se ha enviado el registro de diagnóstico.
+ID:%s
+Envía este código al técnico."</string>
     <string name="dial_application_title">Marcar</string>
     <string name="dial_pad_tones_title">Tonos del teclado</string>
     <string name="dialog_background_check_message">"Tu teléfono no puede administrar el uso de la batería con normalidad porque %1$s lo mantiene activo.
@@ -3555,11 +3567,14 @@ Para obtener más información, comuníquese con su proveedor acreedor."</string
     <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
     <string name="fmt_time_12hour">"h 'en punto'"</string>
     <string name="fmt_time_24hour">"HH 'en punto'"</string>
-    <string name="fold_game_adaptation">Juegos</string>
+    <string name="fold_application_mode_name">Diseños de aplicaciones</string>
+    <string name="fold_game_adaptation">Diseños de juego</string>
     <string name="fold_rule_default">Recomendado</string>
     <string name="fold_rule_important">Importante</string>
     <string name="fold_rule_unimportant">No relevante</string>
-    <string name="fold_screen_settings_title">Funciones para pantalla grande</string>
+    <string name="fold_screen_application_adaptation_title">Diseños personalizados para dispositivos plegables</string>
+    <string name="fold_screen_settings_title">Funciones para dispositivos plegables</string>
+    <string name="fold_screen_special_function_title">Funciones para dispositivos plegables</string>
     <string name="fold_title">Reglas para notificaciones en grupo</string>
     <string name="font_cta_alert_btn_negative">Cancelar</string>
     <string name="font_cta_alert_btn_positive">Aceptar</string>
@@ -3594,6 +3609,7 @@ Parecía no haber caballos ni animales de ningún tipo. Los hombres cargaban obj
     <string name="font_size_summary1">"Si el texto del sistema es demasiado pequeño, pruebe "</string>
     <string name="font_size_summary2">Modo lite</string>
     <string name="footer_learn_more_content_description">Más información sobre %1$s</string>
+    <string name="for_diagnosis_usage_only">Usa esta información solo para diagnóstico.</string>
     <string name="forbidden_network">(prohibida)</string>
     <string name="forbidden_set_unlock_password_msg">Actualmente en modo de mantenimiento, la contraseña no se puede establecer ni cambiar.</string>
     <string name="forbidden_switch_apn_string">"Los ajustes de la APN seleccionada no coinciden con el tipo de red actual"</string>
@@ -3609,9 +3625,9 @@ Parecía no haber caballos ni animales de ningún tipo. Los hombres cargaban obj
     <string name="force_immersive_compatibility_hint_message">Algunas aplicaciones podrían no funcionar bien si decide ocultar los botones virtuales.</string>
     <string name="force_immersive_compatibility_hint_title">Problemas de compatibilidad</string>
     <string name="force_msaa">Forzar MSAA 4x</string>
-    <string name="force_msaa_new">Forzar %dx MSAA</string>
+    <string name="force_msaa_new">Forzar 4x MSAA</string>
+    <string name="force_msaa_prefrence_summary_new">Habilita 4x MSAA en aplicaciones OpenGL ES %1$.1f</string>
     <string name="force_msaa_summary">Habilitar MSAA 4x en aplicaciones OpenGL ES 2.0</string>
-    <string name="force_msaa_summary_new">Habilitar %2$dx MSAA en OpenGL ES %1$.1f aplicaciones</string>
     <string name="force_resizable_activities">Forzar que las actividades sean redimensionables</string>
     <string name="force_resizable_activities_summary">Hacer todas las actividades redimensionables para ventana múltiple, sin importar los valores mostrados.</string>
     <string name="force_rtl_layout_all_locales">Forzar dirección del diseño RTL</string>
@@ -3747,6 +3763,11 @@ Cuando activas la copia de seguridad automática, los datos del dispositivo y la
     <string name="go_back_button_label">Atrás</string>
     <string name="go_to_sleep">Apagar pantalla</string>
     <string name="google_account_title">Google</string>
+    <string name="google_assistant_guide_cancel">Cancelar</string>
+    <string name="google_assistant_guide_message">Puedes mantener presionado el botón de Encendido durante %s segundos para comenzar a hablar con el Asistente de Google. ¿Establecer este acceso directo ahora?</string>
+    <string name="google_assistant_guide_ok">Establecer</string>
+    <string name="google_assistant_guide_tip">*Mantén presionado el botón de encendido durante %s segundos para abrir el menú de apagado.</string>
+    <string name="google_assistant_guide_title">Asistente de Google</string>
     <string name="google_assistant_label">Asistente de Google</string>
     <string name="google_backup_enable">Activar respaldos</string>
     <string name="google_backup_section_title">Copias de seguridad Google</string>
@@ -3795,7 +3816,7 @@ Cuando activas la copia de seguridad automática, los datos del dispositivo y la
     <string name="guest_resetting">Restableciendo invitado…</string>
     <string name="guide_button_text">Entendido</string>
     <string name="guide_text_center">"Desliza el dedo hacia arriba en el centro de la pantalla.
-El área donde puede confirmar su bloqueo de pantalla se alineará al centro."</string>
+El área donde puedes confirmar su bloqueo de pantalla estará alineada al centro."</string>
     <string name="guide_text_left">"Desliza derecho hacia arriba desde la esquina inferior izquierda.
 El área donde puedes confirmar que el bloqueo de la pantalla se moverá a la izquierda."</string>
     <string name="guide_text_right">"Desliza derecho desde la esquina inferior derecha.
@@ -4867,7 +4888,7 @@ del segundo espacio"</string>
     <string name="low_storage_summary">Queda poco espacio de almacenamiento (en uso: %1$s; libre: %2$s)</string>
     <string name="macaddr_label">Dirección MAC:</string>
     <string name="magic_list_empty_text_pad">No hay aplicaciones compatibles con esta característica ahora</string>
-    <string name="magic_window_name_pad">Optimizar aplicaciones para vista horizontal</string>
+    <string name="magic_window_name_pad">Optimización de la vista horizontal</string>
     <string name="main_clear_accounts">"
 
 Actualmente ha iniciado sesión en las siguientes cuentas:
@@ -4997,7 +5018,6 @@ No podrá revertir esta acción."</string>
     <string name="max_cpu8_info">"Octa-core Max "</string>
     <string name="max_fingerprint_number_reached">"No puede agregar más de 5 huellas digitales. Para agregar una nueva huella digital, elimine una existente."</string>
     <string name="max_fingerprint_reached_toast">Puedes añadir hasta 5 huellas digitales</string>
-    <string name="max_number_of_processes">Como máximo %d procesos</string>
     <string name="maximum_memory_use">Uso máximo de la memoria</string>
     <string name="mechanical_ime">Teclado mecánico</string>
     <string name="mechanical_ime_hint">Soportado solo por el teclado personalizado para Xiaomi</string>
@@ -5281,6 +5301,8 @@ No podrá revertir esta acción."</string>
     <string name="miui_allow_light">Luz de notificación</string>
     <string name="miui_allow_music">Multimedia</string>
     <string name="miui_allow_vibrate">Vibraciones</string>
+    <string name="miui_bubbles_notification">Burbuja de notificaciones</string>
+    <string name="miui_bubbles_notification_status_opened">Activado</string>
     <string name="miui_data_usage_menu_metered">Puntos de acceso móviles</string>
     <string name="miui_experience_optimization">Activar optimización MIUI</string>
     <string name="miui_face_enroll_risk_warning_btn_cancel">Cancelar</string>
@@ -5733,6 +5755,7 @@ Seleccione su sistema operativo:"</string>
     <string name="network_detail">%s detalles de la red</string>
     <string name="network_disconnected">Desconectado</string>
     <string name="network_error">Error de red</string>
+    <string name="network_error_info">Se ha producido un error de red. Comprueba tu configuración de red e inténtalo de nuevo.</string>
     <string name="network_global">Global</string>
     <string name="network_id">Identificador de red</string>
     <string name="network_lte">LTE (recomendado)</string>
@@ -5756,6 +5779,7 @@ Seleccione su sistema operativo:"</string>
     <string name="network_speed_for_apps_title">Conexión</string>
     <string name="network_speed_for_apps_total">Velocidad de conexión</string>
     <string name="network_state_label">Estado de la red:</string>
+    <string name="network_timeout_info">"No se pudo conectar a la red. Inténtalo de nuevo."</string>
     <string name="network_world_mode_cdma_lte">LTE / CDMA</string>
     <string name="network_world_mode_gsm_lte">LTE / GSM / UMTS</string>
     <string name="networkid_label">Identificación de red:</string>
@@ -6085,6 +6109,7 @@ Además, podrá activar y desactivar No interrumpir y cambiar la configuración 
     <string name="notifications_summary_divider"> / </string>
     <string name="notifications_title">Notificaciones</string>
     <string name="now">Reiniciar ahora</string>
+    <string name="nrca_need_reset">Reinicia el dispositivo para aplicar los cambios</string>
     <string name="nrca_switch_title">Usar agregación de operadores 5G</string>
     <string name="number_of_device_admins_none">No hay apps activas</string>
     <string name="oaid_apps_summary">Permitir o restringir el acceso a aplicaciones individuales</string>
@@ -6099,6 +6124,7 @@ Además, podrá activar y desactivar No interrumpir y cambiar la configuración 
     <string name="oem_unlock_enable_disabled_summary_sim_locked_device">No disponible en dispositivos bloqueados por el proveedor</string>
     <string name="oem_unlock_enable_summary">Permitir el desbloqueo del bootloader</string>
     <string name="off">Desactivado</string>
+    <string name="ok">OK</string>
     <string name="ok_rules">Hecho</string>
     <string name="okay">Aceptar</string>
     <string name="oldman_app_label">Modo simplificado</string>
@@ -6695,6 +6721,7 @@ Presione Encendido y Subir volumen al mismo tiempo."</string>
     <string name="progress_dialog_speaker_auto_clean_button">Detener</string>
     <string name="progress_dialog_speaker_auto_clean_title">Limpiando altavoz…</string>
     <string name="progress_scanning">Buscando</string>
+    <string name="progressbar_title">Comprobando problemas de seguridad…</string>
     <string name="promote_conversation_summary">Agregar a la sección de conversaciones</string>
     <string name="promote_conversation_title">Esta es una conversación</string>
     <string name="provider_internet_settings">Internet</string>
@@ -7675,6 +7702,8 @@ Nota: No puedes usar tu huella digital para desbloquear este dispositivo. Para o
     <string name="select_webview_provider_title">Implementación WebView</string>
     <string name="select_webview_provider_toast_text">Esta opción ya no es válida. Vuelva a intentarlo.</string>
     <string name="send">Enviar</string>
+    <string name="send_diagnosis_log">Enviar registro de diagnóstico</string>
+    <string name="sending">Enviando…</string>
     <string name="sensor_toggle_description">Para todas las aplicaciones y servicios</string>
     <string name="sensors_off_quick_settings_title">Sensores desactivados</string>
     <string name="separate_keyboard">Teclado ergonómico</string>
@@ -8403,11 +8432,8 @@ Intenta usar un ^3 más rápido o usa ^4 como almacenamiento portátil."</string
     <string name="string_KB_per_log_buffer">%d KB por búfer de registro</string>
     <string name="string_MB">%d MB</string>
     <string name="string_MB_per_log_buffer">%d MB por búfer de registro</string>
-    <string name="string_after_int_minute">Después de %d minuto</string>
-    <string name="string_after_int_minutes">Después de %d minutos</string>
     <string name="string_after_int_seconds">Después de %d segundos</string>
     <string name="string_always">Siempre</string>
-    <string name="string_bits_per_sample">%d bits/muestra</string>
     <string name="string_bluetooth_a2dp_codec_lhdc_latency_titles_1">Latencia corta (%1$d~%2$dms)</string>
     <string name="string_bluetooth_a2dp_codec_lhdc_latency_titles_2">Latencia media (%1$d~%2$dms)</string>
     <string name="string_bluetooth_a2dp_codec_lhdc_latency_titles_3">Larga latencia (%1$d~%2$dms)</string>
@@ -8416,21 +8442,15 @@ Intenta usar un ^3 más rápido o usa ^4 como almacenamiento portátil."</string
     <string name="string_bluetooth_a2dp_codec_lhdc_playback_quality_titles_3">Audio equilibrado y calidad de conexión (%1$d/%2$dkbps)</string>
     <string name="string_bluetooth_a2dp_codec_lhdc_playback_quality_titles_4">Optimizado para calidad de audio (%dkbps)</string>
     <string name="string_bluetooth_a2dp_codec_lhdc_playback_quality_titles_5">Mejor esfuerzo (velocidad de bits automática)</string>
-    <string name="string_float_inches">%f pulgadas</string>
     <string name="string_float_seconds">%f segundos</string>
     <string name="string_immediately">Inmediatamente</string>
-    <string name="string_int_hour">%d hora</string>
-    <string name="string_int_hours">%d horas</string>
-    <string name="string_int_minute">%d minuto</string>
-    <string name="string_int_minutes">%d minutos</string>
-    <string name="string_int_second">%d segundo</string>
-    <string name="string_int_seconds">%d segundos</string>
-    <string name="string_kHz">%.1f kHz</string>
+    <string name="string_kHz_1">%.1f kHz</string>
+    <string name="string_kHz_2">%.1f kHz</string>
+    <string name="string_kHz_3">%.1f kHz</string>
+    <string name="string_kHz_4">%.1f kHz</string>
     <string name="string_never">Nunca</string>
     <string name="string_off">Desactivado</string>
     <string name="string_offed">Desactivado</string>
-    <string name="string_scale_float">Escala de animación %.1fx</string>
-    <string name="string_scale_int">Escala de animación %dx</string>
     <string name="string_unlimited">Ilimitado</string>
     <string name="strong_suppression_summary">Su dispositivo será menos sensible a toques accidentales, algunos controles por gestos podrían no funcionar cerca de los bordes</string>
     <string name="strong_suppression_title">Área grande</string>
@@ -8630,6 +8650,7 @@ Con este software de Google, puedes sincronizar tus datos y acceder a tus contac
     <string name="system_dashboard_summary">Idiomas, gestos, hora, copia de seguridad</string>
     <string name="system_default_app">(Predeterminada de sistema)</string>
     <string name="system_default_app_subtext">Predeterminada del sistema</string>
+    <string name="system_error_info">El sistema está ocupado. Espera uno o dos minutos e inténtalo de nuevo.</string>
     <string name="system_haptic_feedback">Respuesta táctil</string>
     <string name="system_navigation_title">Navegación del sistema</string>
     <string name="system_package">Las actualizaciones del sistema no se pueden instalar en medios externos.</string>
@@ -8640,7 +8661,9 @@ Con este software de Google, puedes sincronizar tus datos y acceder a tus contac
     <string name="system_ui_settings">Mostrar sintonizador de IU del sistema</string>
     <string name="system_update_settings_list_item_title">Actualiz. del sistema</string>
     <string name="tab_text">Pestaña</string>
+    <string name="tablet_screen_application_adaptation_title">Diseños personalizados para tablets</string>
     <string name="tablet_screen_settings_title">Características para tablets</string>
+    <string name="tablet_screen_special_function_title">Características para tablets</string>
     <string name="take_call_on_title">Atender llamada en</string>
     <string name="talkback_summary">Lector de pantalla, principalmente, para personas con ceguera o visión reducida</string>
     <string name="talkback_title">Talkback</string>
@@ -8650,6 +8673,7 @@ Con este software de Google, puedes sincronizar tus datos y acceder a tus contac
     <string name="tap_to_wake">Presionar para activar</string>
     <string name="tap_to_wake_summary">Presiona dos veces en cualquier lugar de la pantalla para activar el dispositivo.</string>
     <string name="taplus_title">Taplus</string>
+    <string name="temporary_not_available">temporalmente no disponible</string>
     <string name="terms_title">Términos y condiciones</string>
     <string name="testing">Probando</string>
     <string name="testing_phone_info">Información del dispositivo</string>
@@ -8938,6 +8962,7 @@ Con este software de Google, puedes sincronizar tus datos y acceder a tus contac
     <string name="uninstall_xspace_app_dlg_title">¿Desinstalar aplicación dual?</string>
     <string name="unknown">Desconocido</string>
     <string name="unknown_app">Aplicación desconocida</string>
+    <string name="unknown_error_info">Error desconocido</string>
     <string name="unknown_unavailability_setting_summary">Configuración no disponible</string>
     <string name="unlock_change_lock_password_title">Cambiar la contraseña de desbloqueo</string>
     <string name="unlock_change_lock_pattern_title">Cambiar patrón de desbloqueo</string>
@@ -9574,7 +9599,7 @@ Durante una llamada de voz, no puedes usar Internet y es posible que algunas app
     <string name="wallpaper_desktop">Pantalla de inicio</string>
     <string name="wallpaper_live">Fondo animado</string>
     <string name="wallpaper_lockscreen">Pantalla de bloqueo</string>
-    <string name="wallpaper_setting_title">Fondo de pantalla</string>
+    <string name="wallpaper_setting_title">Fondos de pantalla para dispositivos plegables</string>
     <string name="wallpaper_settings_fragment_title">Elegir fondo de pantalla</string>
     <string name="wallpaper_settings_summary_custom">Personalizado</string>
     <string name="wallpaper_settings_summary_default">Predeterminado</string>

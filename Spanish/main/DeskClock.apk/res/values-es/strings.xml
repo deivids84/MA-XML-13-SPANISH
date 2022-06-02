@@ -36,6 +36,7 @@
     <string name="add_alarm">Añadir alarma</string>
     <string name="add_clock">Añadir reloj</string>
     <string name="add_common_timer">Añadir temporizador</string>
+    <string name="add_new_sound">Añadir tono de llamada</string>
     <string name="add_timer">Temporizador frecuente</string>
     <string name="add_timer_dialog_title">Añadir temporizador</string>
     <string name="add_timezone_title">Añadir zona horaria</string>
@@ -64,6 +65,7 @@
     <string name="alarmclock_empty_text">No hay alarmas</string>
     <string name="alarmclock_silent_hint">La alarma está silenciada</string>
     <string name="alert">Tono de alarma</string>
+    <string name="alert_page_desc">Mantén pulsado y desliza hacia arriba para apagar la alarma</string>
     <string name="alert_ringtone">Tono de alarma</string>
     <string name="alert_vibrate_enable_summary">Vibrar cuando la alarma suene</string>
     <string name="alert_volume">Volumen del tono de llamada</string>
@@ -126,6 +128,7 @@
     <string name="common_timer_selector">Seleccionar temporizador</string>
     <string name="confirm">Confirmar</string>
     <string name="confirm_abort">Descartar</string>
+    <string name="confirm_remove_custom_ringtone">Si eliminas este tono de llamada, las alarmas y los temporizadores que lo usan reproducirán el tono de llamada predeterminado. ¿Eliminar ahora?</string>
     <string name="content_desc_keep_screen">Botón \"Mantener pantalla encendida\"</string>
     <string name="continue_operation">Continuar</string>
     <string name="continue_step">Siguiente</string>
@@ -133,6 +136,7 @@
     <string name="control_set_alarm_with_existing">Establecer alarma: %s</string>
     <string name="copy">Copiar</string>
     <string name="current_stopwatch_time">Tiempo actual</string>
+    <string name="custom_ringtone_lost_permissions">"No se puede acceder a este sonido."</string>
     <string name="date_picker_lunar">Calendario chino tradicional</string>
     <string name="date_time_picker_dialog_title">Ajustar fecha y hora</string>
     <string name="day_concat">", "</string>
@@ -145,6 +149,7 @@
     <string name="delete_timer_item_title">Eliminar tarea de temporizador</string>
     <string name="delete_timezone_title">Eliminar zona horaria</string>
     <string name="deskclock_sleep_no_disturbance">Reloj - Hora de acostarse - Modo no molestar</string>
+    <string name="device_sounds">Sonidos del dispositivo</string>
     <string name="dialog_confirm_abort">¿Descartar cambios?</string>
     <string name="dialog_legal_off_day">&lt;Data&gt;Parece que estás usando alarmas de festivos. Esta función necesita conectarse a internet para trabajar con normalidad. Antes de aceptar esta función debes aceptar nuestro &lt;a href=\"%1$s\"&gt;Acuerdo de Usuario&lt;/a&gt; y &lt;a href=\"%2$s\"&gt;Política de Privacidad&lt;/a&gt;. ¿Aceptar?&lt;/Data&gt;</string>
     <string name="dialog_legal_off_day_desc">"El Reloj no tiene permitido conectarse a internet para actualizar la información acerca de festivos. Las alarmas de festivos sonarán los sábados y domingos."</string>
@@ -626,6 +631,7 @@
     <string name="tv_blank_list_show_text">No hay nada todavía. Busca una ubicación para añadirla al reloj mundial.</string>
     <string name="tv_world_clock_edit_title1">Ubicaciones mostradas en la Pantalla de inicio</string>
     <string name="tv_world_clock_edit_title2">Otras ubicaciones guardadas</string>
+    <string name="unknown_ringtone_title">Desconocido</string>
     <string name="unselect_all">Deseleccionar todo</string>
     <string name="upcoming_alarm">Siguiente alarma: %s</string>
     <string name="upcoming_alarm_hint">Ahora puedes desactivar esta función</string>
@@ -658,6 +664,8 @@
     <string name="week_ringtone_recommend_desc">La alarma de la naturaleza reproduce diferentes sonidos dependiendo de la fecha. ¿Establecerla como tu alarma predeterminada?</string>
     <string name="white_noise">Ruido ambiental</string>
     <string name="white_noise_guide_desc">Añade un sonido de fondo para mantenerte centrado</string>
+    <string name="white_noise_not_selected">No seleccionado</string>
+    <string name="white_noise_selected">Seleccionado</string>
     <string name="white_noise_selector">Seleccionar audio</string>
     <string name="workday_alarm_clock">Alarma de días laborables</string>
     <string name="worldclock_edit_label">Reloj mundial</string>
@@ -679,4 +687,5 @@
     <string name="worldcolock_timezone_local">Igual a la hora local</string>
     <string name="xiaoai_ringtone_title">Tonos de llamada Mi IA</string>
     <string name="yesterday">Ayer</string>
+    <string name="your_sounds">Mis sonidos</string>
 </resources>

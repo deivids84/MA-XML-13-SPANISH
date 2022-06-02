@@ -284,10 +284,6 @@ debería crear una copia de seguridad de iCloud primero."</string>
     <string name="icloud_need_wifi_title">Conectar a Wi-Fi</string>
     <string name="import_again">Importar de nuevo</string>
     <string name="import_data_from_icloud">Importar datos de iCloud</string>
-    <string name="import_from_xiaomi_account_hint1">"1.\u0009Descarga la app de Mi Talk e inicia sesión.
-\u0009http://www.miliao.com
-
-2.\u0009Ve a los Ajustes de Mi Talk y selecciona ”Crear copia de contactos en Cuenta Mii”"</string>
     <string name="import_from_xiaomi_account_hint2">Si ya existe una copia de seguridad, pulsa Siguiente.</string>
     <string name="import_from_xiaomi_account_hint_title">Usa Mi Talk para crear copias de seguridad de tus contactos entre dispositivos.</string>
     <string name="import_tip_summary">Debido a problemas de compatibilidad, solo puede transferir datos parciales desde dispositivos iOS. Asegúrese de crear una copia de seguridad de iCloud antes de comenzar la transferencia.</string>

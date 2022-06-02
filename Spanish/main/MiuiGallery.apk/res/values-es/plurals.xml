@@ -96,6 +96,10 @@
         <item quantity="other">%1$d elementos</item>
         <item quantity="one">%1$d elemento</item>
     </plurals>
+    <plurals name="all_story_count_desc">
+        <item quantity="other">%d recuerdos</item>
+        <item quantity="one">%d recuerdo</item>
+    </plurals>
     <plurals name="baby_album_sharer_recommand_new_pictures">
         <item quantity="other">%1$d fotos de %2$s se añadirán</item>
         <item quantity="one">%1$d foto de %2$s se añadirá</item>
@@ -567,6 +571,14 @@
     <plurals name="talkback_album_item_content">
         <item quantity="other">%1$s, %2$s elementos</item>
         <item quantity="one">%1$s, %2$s elemento</item>
+    </plurals>
+    <plurals name="today_of_year_location_num_unit">
+        <item quantity="other"></item>
+        <item quantity="one"></item>
+    </plurals>
+    <plurals name="today_of_year_photo_num_unit">
+        <item quantity="other"></item>
+        <item quantity="one"></item>
     </plurals>
     <plurals name="trash_purge_dialog_message_cloud">
         <item quantity="other">%d elementos seleccionados se eliminarán permanentemente de la nube y de todos los dispositivos sincronizados. ¿Eliminar de todos modos?</item>

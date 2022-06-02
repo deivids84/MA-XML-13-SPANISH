@@ -7,6 +7,11 @@
     <string name="floating_toolbar_menu_item_text_tag">floating_toolbar_menu_item_text</string>
     <string name="floating_toolbar_open_overflow_description">Más opciones</string>
     <string name="frequent_phrases">Frases frecuentes</string>
+    <string name="google_call">Llamada</string>
+    <string name="google_email">Correo</string>
+    <string name="google_map">Mapa</string>
+    <string name="google_open">Abrir</string>
+    <string name="google_translate">Traducir</string>
     <string name="open">Navegar</string>
     <string name="query">Consulta</string>
     <string name="select">Seleccionar</string>

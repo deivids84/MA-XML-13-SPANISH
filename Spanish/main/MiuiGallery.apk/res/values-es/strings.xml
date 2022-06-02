@@ -202,6 +202,10 @@
     <string name="alert_selection_title">Seleccionar el mejor disparo</string>
     <string name="all_faces">Fotos con esta persona</string>
     <string name="all_items_synced">Todos los álbumes fueron sincronizados con la nube</string>
+    <string name="all_story_empty_desc">Aún no hay recuerdos aquí</string>
+    <string name="all_story_empty_tip">"Aún no hay recuerdos aquí.
+Conecta el cargador y apaga la pantalla para que aparezcan los recuerdos."</string>
+    <string name="all_story_title">Todos los recuerdos</string>
     <string name="all_video_album_display_name">Todos los vídeos</string>
     <string name="already_authorize_to_device">Autorizado</string>
     <string name="already_cancel_authorize_to_device">Autorización cancelada</string>
@@ -570,7 +574,6 @@ El/La %4$s de %3$s ha compartido el álbum de %5$s"</string>
     <string name="context_menu_add_contact">Añadir a contactos</string>
     <string name="context_menu_copy">Copiar</string>
     <string name="context_menu_copy_notice">Copiado al portapapeles</string>
-    <string name="continue_feedback">Comentarios adicionales</string>
     <string name="copy">Copiar</string>
     <string name="correct_photo_time">Corregir datos y hora de las fotos</string>
     <string name="correct_time_success">Corregido con éxito</string>
@@ -659,6 +662,8 @@ El/La %4$s de %3$s ha compartido el álbum de %5$s"</string>
     <string name="download_delete_error_title">Elemento perdido</string>
     <string name="download_error_format">"No se pudo descargar %s"</string>
     <string name="download_error_tip">. Las descargas fueron interrumpidas.</string>
+    <string name="download_library_dialog_message">La galería necesita plantillas para crear recuerdos en el dispositivo. Recomendamos usar Wi-Fi para descargar plantillas.</string>
+    <string name="download_library_dialog_title">Descargar plantillas</string>
     <string name="download_retry_message">"No se pudieron descargar los archivos, comprueba la conexión de red e inténtalo de nuevo"</string>
     <string name="download_retry_text">Inténtalo de nuevo</string>
     <string name="download_retry_title">"No se pudieron descargar los archivos"</string>
@@ -704,6 +709,7 @@ El/La %4$s de %3$s ha compartido el álbum de %5$s"</string>
     <string name="empty_recommend_back">Atrás</string>
     <string name="empty_recommend_face_page_view">No hay más recomendaciones</string>
     <string name="empty_relation">"El nombre del grupo no puede estar vacío"</string>
+    <string name="empty_tip_btn">Toma una foto</string>
     <string name="empty_title_no_cards">Recuerdos</string>
     <string name="empty_title_no_photos">No hay fotos ni vídeos</string>
     <string name="enable_auto_upload_tip">¿Activar la sincronización con la nube para este álbum?</string>
@@ -831,6 +837,9 @@ El/La %4$s de %3$s ha compartido el álbum de %5$s"</string>
     <string name="feature_guidance_photo_effects">"Nuevos efectos de foto
 disponibles"</string>
     <string name="feature_guidance_video_editor_smart_effects">Nuevos efectos disponibles</string>
+    <string name="feedback_my_reports">Comentarios</string>
+    <string name="feedback_problem">Reportar un problema</string>
+    <string name="feedback_suggest">Enviar una sugerencia</string>
     <string name="file_cannot_print">"No se puede imprimir este elemento."</string>
     <string name="file_cannot_screen_throw">"No se puede emitir este elemento."</string>
     <string name="file_sending">Transfiriendo archivos…</string>
@@ -1110,6 +1119,7 @@ disponibles"</string>
     <string name="home_page_camera">Cámara</string>
     <string name="home_page_custom">Personalizado</string>
     <string name="home_page_empty_action">Hacer una foto</string>
+    <string name="home_page_empty_action_new">Importar desde dispositivo anterior</string>
     <string name="home_page_label">Fotos</string>
     <string name="homepage_allphotos_tip_dialog_button_negative">Saltar</string>
     <string name="homepage_allphotos_tip_dialog_button_positive">OK </string>
@@ -1173,6 +1183,7 @@ disponibles"</string>
     <string name="invite_tip">"Compartir fotos de tu bebé"</string>
     <string name="is">Sí</string>
     <string name="is_higher_definition">Previsualización HD</string>
+    <string name="is_in_ocr">Reconociendo…</string>
     <string name="keyboard_shortcut_copy">Copiar</string>
     <string name="keyboard_shortcut_cut">Cortar</string>
     <string name="keyboard_shortcut_day">Día</string>
@@ -1589,9 +1600,11 @@ para personalizar la Galería"</string>
     <string name="ocr_abnormal_pic_format">"No se pudo reconocer el texto. Este formato de imagen no es compatible."</string>
     <string name="ocr_abnormal_pic_too_large">"No se pudo reconocer el texto. Esta imagen es demasido grande."</string>
     <string name="ocr_abnormal_pic_too_long">"No se pudo reconocer el texto. Esta imagen es demasido larga."</string>
+    <string name="ocr_aiasst_version">Primero actualiza Mi AI</string>
     <string name="ocr_cancelled">Reconocimiento de texto cancelado</string>
     <string name="ocr_copy">Copiar</string>
     <string name="ocr_entrance">Reconocer texto</string>
+    <string name="ocr_extract">Extraer</string>
     <string name="ocr_no_network">"No se pudo conectar a la red"</string>
     <string name="ocr_no_text_recognized">"No se pudo encontrar el texto para reconocerlo"</string>
     <string name="ocr_note_not_existed">Instala Notas primero</string>
@@ -1601,7 +1614,10 @@ para personalizar la Galería"</string>
     <string name="ocr_save_to_note_new">Guardar en Notas</string>
     <string name="ocr_send">Compartir</string>
     <string name="ocr_text_copied">Copiado con éxito</string>
+    <string name="ocr_text_copied_selected">Copiado correctamente</string>
+    <string name="ocr_text_link">URL</string>
     <string name="ocr_title">Resultado</string>
+    <string name="ocr_translation">Traducir</string>
     <string name="ocr_using_cellular_negative">Reconocer</string>
     <string name="ocr_using_cellular_positive">Cancelar</string>
     <string name="ocr_using_cellular_text">Reconocer el texto utilizando datos móviles podría generar costes adicionales del operador. ¿Reconocer de todas formas?</string>
@@ -2382,6 +2398,18 @@ La transcodificación puede llevar algo de tiempo cuando utilizas esta función 
     <string name="story_cancel_download">Cancelar</string>
     <string name="story_download">Descargar</string>
     <string name="story_download_failed_for_notwork">"No se pudo descargar. Conéctate a la red y vuelve a intentarlo."</string>
+    <string name="story_guide_tip_download_btn">Descargar</string>
+    <string name="story_guide_tip_download_desc">Descarga plantillas para tus recuerdos</string>
+    <string name="story_guide_tip_download_title">Descargar plantillas</string>
+    <string name="story_guide_tip_generate_btn">Iniciar</string>
+    <string name="story_guide_tip_generate_desc">Tomar fotos. Conectar cargador. Bloquear dispositivo.</string>
+    <string name="story_guide_tip_generate_title">Haz que aparezcan los recuerdos</string>
+    <string name="story_guide_tip_open_btn">Activar</string>
+    <string name="story_guide_tip_open_desc">Revive tus momentos más brillantes</string>
+    <string name="story_guide_tip_open_title">Recuerdos</string>
+    <string name="story_guide_tip_revisit_btn">Comenzar</string>
+    <string name="story_guide_tip_revisit_desc">Tomar fotos. Conectar el cargador. Bloquear el dispositivo.</string>
+    <string name="story_guide_tip_revisit_title">Revive tus momentos más brillantes</string>
     <string name="story_option_menu_delete">Eliminar recuerdo</string>
     <string name="story_option_menu_rename">Renombrar</string>
     <string name="story_photo_downloading">Descargando elementos…</string>
@@ -2390,6 +2418,7 @@ La transcodificación puede llevar algo de tiempo cuando utilizas esta función 
     <string name="story_remove_confirm_title">Eliminando fotos</string>
     <string name="story_rename_invalid_char">"No se puede usar \"%s\" en el título de un recuerdo. Usa letras, dígitos y caracteres chinos."</string>
     <string name="story_rename_invalid_prefix">"No se puede iniciar el título de un recuerdo con \".\" o \"_\""</string>
+    <string name="str_scan_form">Interpretar texto</string>
     <string name="sub_discard_confirm_message">¿Guardar los cambios?</string>
     <string name="sub_discard_negative_btn">Descartar</string>
     <string name="sub_discard_positive_btn">Guardar</string>
@@ -2535,6 +2564,7 @@ La transcodificación puede llevar algo de tiempo cuando utilizas esta función 
     <string name="text_item_type_talkback_spot_xihu">Lago Oeste</string>
     <string name="text_item_type_talkback_spot_yiheyuan">Palacio de Verano</string>
     <string name="text_item_type_talkback_spot_zhangjiajie">Zhangjiaya</string>
+    <string name="text_recognition">Reconocer texto</string>
     <string name="text_tab_bubble">Burbuja</string>
     <string name="text_tab_city">Ciudad</string>
     <string name="text_tab_festival">Festivo</string>
@@ -2630,6 +2660,10 @@ La transcodificación puede llevar algo de tiempo cuando utilizas esta función 
     <string name="toast_orientation_unlock">La orientación de pantalla está desbloqueada</string>
     <string name="toast_rename_exit">Este archivo ya existe</string>
     <string name="today">Hoy</string>
+    <string name="today_of_year">En este día</string>
+    <string name="today_of_year_empty_tip">Aún no tienes recuerdos</string>
+    <string name="today_of_year_location_num">Ubicaciones</string>
+    <string name="today_of_year_photo_num">Fotos</string>
     <string name="tomorrow">Tomorrow</string>
     <string name="too_many_recipients">"No se pueden añadir más de %2$s destinatarios (Actualmente ha añadido %1$s)."</string>
     <string name="trash_bin">Papelera</string>
@@ -3052,6 +3086,7 @@ La transcodificación puede llevar algo de tiempo cuando utilizas esta función 
     <string name="where_is_barcode">"¿Dónde está el código QR?"</string>
     <string name="who_is_this">¿Quién es?</string>
     <string name="widget_custom_store_detail_desc">Añade el widget y luego pulsa para seleccionar fotos</string>
+    <string name="widget_disable">"Los widgets de este tamaño no son compatibles"</string>
     <string name="widget_editor_confirm">Hecho</string>
     <string name="widget_editor_load_fail">"No se pudo cargar la foto"</string>
     <string name="widget_editor_reselect">Seleccionar de nuevo</string>

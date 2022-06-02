@@ -41,8 +41,8 @@
         <item quantity="one">Has permitido a %1$s acceder automáticamente %2$d vez a elementos en el portapapeles</item>
     </plurals>
     <plurals name="clipboard_read_ai_deny_more">
-        <item quantity="other">Se bloquearon %2$d intentos de acceder al portapapeles para %1$s</item>
-        <item quantity="one">Se bloqueó %2$d intento de acceder al portapapeles para %1$s</item>
+        <item quantity="other">Bloqueados %2$d intentos de acceso al portapapeles para %1$s</item>
+        <item quantity="one">Bloqueado %2$d intento de acceso al portapapeles para %1$s</item>
     </plurals>
     <plurals name="clipboard_read_allow_more">
         <item quantity="other">%1$s accedió a elementos en el portapapeles %2$d veces</item>

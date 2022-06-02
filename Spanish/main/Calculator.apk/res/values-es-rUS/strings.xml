@@ -376,7 +376,7 @@ LPR de un año y cinco años se cotizarán el día 20 de cada mes (pueden produc
     <string name="network_confirm_content">El convertidor de divisas y la calculadora de impuestos e hipotecas necesitan conectarse a internet y acceder a los servicios de localización para funcionar.</string>
     <string name="network_confirm_title">Se necesitan permisos</string>
     <string name="network_purpose">¡Bienvenido a Calculadora! La calculadora le permite convertir divisas, calcular pagos de hipotecas y más.</string>
-    <string name="new_privacy_string">&lt;Data&gt;Bienvenido a Calculadora!&lt;br/&gt;Esta aplicación contiene las siguientes características: &lt;br/&gt;• Calculadora básica &lt;br/&gt;• Calculadora científica &lt;br/&gt;• Conversor universal (por ejemplo, moneda, unidades de medida, etc.)&lt;br/&gt;• Plantillas de cálculo para préstamos, inversiones, EMI y más&lt;br/&gt;Calculadora necesita recopilar la información personal necesaria para brindarle los servicios básicos. Puede aprender cómo manejamos la información que recopilamos en nuestra &lt;a href= \"%1$s\"&gt;Política de Privacidad&lt;/a&gt;. Lea y acepte nuestro &lt;a href=\"%2$s\"&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &lt;a href=\"%3$s\"&gt;Política de Privacidad&lt;/a&gt; antes de usar Calculadora. Puede retirar su consentimiento a la Política de Privacidad de Calculadora en los Ajustes en cualquier momento. Si no está de acuerdo con nuestra Política de privacidad, no podrá utilizar algunas funciones de esta aplicación; sin embargo, su funcionalidad básica seguirá estando disponible para usted.&lt;/Data&gt;</string>
+    <string name="new_privacy_string"><Data>\"¡Bienvenido a Calculadora!&lt;br/&gt;Esta aplicación contiene las siguientes características:&lt;br/&gt;• Calculadora básica&lt;br/&gt;• Calculadora científica&lt;br/&gt;• Convertidor universal (por ejemplo, moneda, unidades de medida, etc.)&lt;br/&gt;• Plantillas de cálculo para préstamos, inversiones, EMI y más&lt;br/&gt;Puede aprender cómo manejamos la información que recopilamos en nuestra &lt;a href=\"%1$s\"&gt;Política de privacidad&lt;/a&gt;Lee y acepta nuestro &lt;a href=\"%2$s\"&gt;Acuerdo de usuario&lt;/a&gt; y &lt;a href=\"%3$s\"&gt;Política de privacidad&lt;/a&gt; antes de usar Calculadora. Puedes retirar tu consentimiento a la Política de privacidad de Calculadora en la Configuración en cualquier momento. Si no estás de acuerdo con nuestra Política de privacidad, no podrás usar algunas funciones de esta aplicación; sin embargo, su funcionalidad básica seguirá estando disponible\".</Data></string>
     <string name="night">Noche</string>
     <string name="none">Ninguno</string>
     <string name="noon">Mediodía</string>
@@ -503,6 +503,7 @@ LPR de un año y cinco años se cotizarán el día 20 de cada mes (pueden produc
     <string name="tax_total_insurance_provident_fund">Seguro y fondo de vivienda</string>
     <string name="tax_unemployment">Desempleo</string>
     <string name="tax_update_time_format">Datos proporcionados por HeXun (%s)</string>
+    <string name="tenure_year_month">%1$s y %2$s</string>
     <string name="thursday_shortest">Jue</string>
     <string name="time_picker_dialog_title">Establecer hora</string>
     <string name="tuesday_shortest">Mar</string>

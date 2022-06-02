@@ -275,11 +275,15 @@
     <string name="other_settings_ad_enable_summary">Personaliza los anuncios basándose en tus gustos</string>
     <string name="other_settings_auto_update">Actualizaciones automáticas del sistema</string>
     <string name="other_settings_auto_update_summary">MIUI seleccionará el mejor momento para descargar e instalar actualizaciones. Tu dispositivo se reiniciará automáticamente para aplicar los cambios.</string>
+    <string name="other_settings_auto_update_summary_v1">Permite que MIUI seleccione el mejor momento para descargar e instalar actualizaciones. Tu dispositivo se reiniciará automáticamente para aplicar los cambios.</string>
     <string name="other_settings_enhanced_lockscreen">Carrusel de fondos de pantalla</string>
     <string name="other_settings_enhanced_lockscreen_for_india">Glance para Mi</string>
     <string name="other_settings_enhanced_lockscreen_privacy_index">Política de Privacidad</string>
     <string name="other_settings_enhanced_lockscreen_summary">Obtén imágenes e historias enviadas a tu Pantalla de inicio diariamente. %1$s y %2$s</string>
     <string name="other_settings_enhanced_lockscreen_summary_index">Acuerdo de Licencia con el Usuario Final</string>
+    <string name="other_settings_get_apps">Actualizar aplicaciones automáticamente</string>
+    <string name="other_settings_get_apps_summary">"Actualiza el sistema y las aplicaciones de terceros a través de GetApps para poder usar sus funciones más recientes.
+Puedes desactivar las actualizaciones automáticas en GetApps &gt; Configuración &gt; Actualizaciones automáticas."</string>
     <string name="other_settings_location">Ubicación</string>
     <string name="other_settings_location_summary">Permita que las aplicaciones y los sitios web accedan a la información de su ubicación para brindar servicios basados en la ubicación</string>
     <string name="other_settings_quality_service">Permisos MIUI Daemon</string>

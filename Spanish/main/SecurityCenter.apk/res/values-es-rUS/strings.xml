@@ -1970,12 +1970,15 @@ voluntario"</string>
     <string name="gb_game_mode_change">Cambiar entre modos de visualización aquí</string>
     <string name="gb_game_mode_change_btn_right">Reiniciar</string>
     <string name="gb_game_mode_change_message">¿Reiniciar el juego para aplicar los cambios ahora?</string>
+    <string name="gb_game_mode_change_new">Cambiar entre diseños aquí</string>
     <string name="gb_game_mode_change_title">Reiniciar el juego</string>
     <string name="gb_game_mode_choose_game_area">Área activa</string>
     <string name="gb_game_mode_choose_title">Seleccionar modo de visualización</string>
+    <string name="gb_game_mode_choose_title_new">Seleccionar diseño</string>
     <string name="gb_game_mode_empty">Aún no hay juegos aquí</string>
     <string name="gb_game_mode_fill">Pantalla de relleno</string>
     <string name="gb_game_mode_fill_type">Pantalla de relleno</string>
+    <string name="gb_game_mode_new">Diseños de juego</string>
     <string name="gb_game_mode_ratio">Original</string>
     <string name="gb_game_mode_ratio_type">Original</string>
     <string name="gb_game_mode_recommend">" (Recomendado)"</string>
@@ -2026,6 +2029,15 @@ mientras reduce la frecuencia de actualización y los límites de temperatura"</
     <string name="gb_performance_mode">Modo gaming</string>
     <string name="gb_performance_tips">"El modo de rendimiento mejora el rendimiento de los gráficos,
 pero también aumenta el consumo de energía y permite que su dispositivo se sobrecaliente"</string>
+    <string name="gb_predownload_dialog_cancel">No, gracias</string>
+    <string name="gb_predownload_dialog_checked">"No volver a mostrar"</string>
+    <string name="gb_predownload_dialog_confirm">Activar</string>
+    <string name="gb_predownload_dialog_message_china"><Data>\"El contenido actualizado de este juego se puede descargar a este dispositivo automáticamente después de conectarse a Wi-Fi y apagar la pantalla. Por lo tanto, podrá usar la nueva versión tan pronto como se lance.&lt;br&gt;&lt;br&gt;Leer y aceptar a la &lt;a href=\"%1$s\"&gt;Declaración sobre actualizaciones en segundo plano&lt;/a&gt; antes de usar esta función\".</Data></string>
+    <string name="gb_predownload_dialog_title">Las actualizaciones en segundo plano ya están disponibles</string>
+    <string name="gb_predownload_message">"Actualiza King of Glory, Game for Peace y otros juegos compatibles en segundo plano mientras no estés usando este dispositivo"</string>
+    <string name="gb_predownload_noti_message">"%2$1.2f GB de contenido actualizado ya está en este dispositivo. Podrás usarlo tan pronto como se lance la nueva versión."</string>
+    <string name="gb_predownload_noti_title">%s actualizado en segundo plano correctamente</string>
+    <string name="gb_predownload_title">Actualizaciones en segundo plano</string>
     <string name="gb_shortcut_pref_title">Acceso directo en la Pantalla de inicio</string>
     <string name="gb_shoulder_guide_message1">Mueva [L] a cualquier posición funcional para usarlo a través del disparador emergente</string>
     <string name="gb_shoulder_guide_message2">La acción [1] se activa pulsando el botón. La acción [2] se activa soltando el botón.</string>
@@ -2069,6 +2081,7 @@ pero también aumenta el consumo de energía y permite que su dispositivo se sob
     <string name="gb_signed_gift_loading_fail">"No se pudo cargar"</string>
     <string name="gb_signed_gift_loading_summary">Un momento…</string>
     <string name="gb_signed_title">Registrado este mes</string>
+    <string name="gb_smart_battery_surplus_new">%1$s %2$s restantes</string>
     <string name="gb_sound_audition">Intentar</string>
     <string name="gb_storage_game_dialog_message">"Puede almacenar juegos en Game Turbo automáticamente. No aparecerán en la pantalla de inicio si activa esta función. ¿Activar ahora?"</string>
     <string name="gb_storage_game_uninstall">Desinstalar juegos</string>

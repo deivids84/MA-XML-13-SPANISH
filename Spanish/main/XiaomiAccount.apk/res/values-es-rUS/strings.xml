@@ -101,6 +101,7 @@ ID de su cuenta: %s"</string>
     <string name="area_code_search_hint">Buscar país o región</string>
     <string name="auth_fail_warning">Sesión expirada, inicie sesión de nuevo</string>
     <string name="authorize_title">Autorización</string>
+    <string name="auto_fill_not_sport_on_water_mark_version">"El inicio de sesión de Autocompletar no es compatible con las versiones con marca de agua"</string>
     <string name="bind_facebook">Conectar cuenta de Facebook</string>
     <string name="bind_google">Conecte su cuenta de Google</string>
     <string name="bind_safe_phone_msg">Agregue su número telefónico para poder iniciar sesión en su Cuenta Mi la próxima vez.</string>
@@ -290,6 +291,8 @@ Enviar este código al supervisor."</string>
     <string name="kr_permission_phone_desc">Para proteger su cuenta</string>
     <string name="kr_permission_sms_desc">Para rellenar automáticamente códigos de verificación</string>
     <string name="kr_permission_storage_desc">Para guardar diagnósticos</string>
+    <string name="library_android_database_sqlcipher_libraryDescription">API SQLite de Android basada en SQLCipher</string>
+    <string name="library_android_database_sqlcipher_libraryName">SQLCipher para Android</string>
     <string name="loading_micloud_sync_data">Un momento…</string>
     <string name="login_3rd_app_with_system_account">Iniciar sesión en %s</string>
     <string name="login_check_find_device">Obteniendo información de seguridad del dispositivo…</string>
@@ -305,7 +308,7 @@ Enviar este código al supervisor."</string>
     <string name="mi_finance">Finanzas Mi</string>
     <string name="mi_finance_info">Bonos para nuevos usuarios</string>
     <string name="mi_health">Xiaomi Salud</string>
-    <string name="mi_member">Mi comunidad</string>
+    <string name="mi_member">Comunidad Xiaomi</string>
     <string name="mi_vip_info">Ver privilegios</string>
     <string name="midnight">Noche</string>
     <string name="mipay">Pagar</string>
@@ -679,6 +682,7 @@ Enviar este código al supervisor."</string>
     <string name="permission_write_external_storage">Acceda y guarde elementos en el almacenamiento</string>
     <string name="personal_info_desc">Foto, apodo y más</string>
     <string name="phone_num_use_for">El número de teléfono se usa para:</string>
+    <string name="phone_register">Usar número de teléfono</string>
     <string name="photoPickerNotFoundText">No hay fotos disponibles.</string>
     <string name="pm">PM</string>
     <string name="preference_copied">Se copió \"%1$s\" en el portapapeles.</string>
@@ -882,5 +886,8 @@ Enviar este código al supervisor."</string>
     <string name="wednesday_short">Mié</string>
     <string name="wednesday_shortest">Mié</string>
     <string name="weixin_login">Iniciar sesión con WeChat</string>
+    <string name="xiaomi_market_sdk_update_dialog_cancel">Ahora no</string>
+    <string name="xiaomi_market_sdk_update_dialog_ok">Actualizar</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">Hay una actualización disponible</string>
     <string name="yesterday">Ayer</string>
 </resources>

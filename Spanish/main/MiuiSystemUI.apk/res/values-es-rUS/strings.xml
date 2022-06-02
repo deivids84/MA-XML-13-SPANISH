@@ -2358,6 +2358,7 @@ Tu teléfono puede calentarse en estos casos:
     <string name="tile_unavailable">No disponible</string>
     <string name="time_picker_dialog_title">Establecer hora</string>
     <string name="time_unit_just_now">Justo ahora</string>
+    <string name="tip_close_flares">"No recibirás notificaciones sobre el comportamiento de la aplicación durante esta sesión"</string>
     <string name="title_convert_fbe">Convirtiendo a encriptación basada en archivos…</string>
     <string name="title_usb_accessory">Accesorio USB</string>
     <string name="today">Hoy</string>

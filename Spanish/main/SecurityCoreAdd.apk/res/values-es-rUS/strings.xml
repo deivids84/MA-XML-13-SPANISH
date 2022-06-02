@@ -43,6 +43,7 @@ esta función se agregará automáticamente al segundo espacio."</string>
     <string name="air_space_exit">Salir del espacio</string>
     <string name="air_space_setting">Ajustes del Espacio</string>
     <string name="airspace_users_full">"No se pudieron crear más Espacios de trabajo"</string>
+    <string name="alwaysUsePrompt">Recordar mi elección</string>
     <string name="am">AM</string>
     <string name="appData">Aplicaciones instaladas</string>
     <string name="app_name">Componente principal de seguridad</string>
@@ -591,6 +592,7 @@ Algunas aplicaciones duales requieren compatibilidad con el marco de servicios d
     <string name="xspace_guide_description">"Cada cuenta
 merece su propia aplicación"</string>
     <string name="xspace_guide_title">Probar las aplicaciones duales</string>
+    <string name="xspace_head">Aplicación dual</string>
     <string name="xspace_header">Aplicaciones duales</string>
     <string name="xspace_install_complete">&lt;font&gt;Creada aplicación dual con éxito. &lt;/font&gt;&lt;font color=#0D84FF&gt;Abrir ahora&lt;/font&gt;.</string>
     <string name="xspace_install_completed">Ícono agregado a la pantalla de inicio</string>
@@ -604,6 +606,7 @@ merece su propia aplicación"</string>
     <string name="xspace_notification_button">Probar</string>
     <string name="xspace_notification_error">Inicie sesión con WeChat dual y vuelva a intentarlo</string>
     <string name="xspace_remove">"Eliminar cuentas de aplicaciones duales"</string>
+    <string name="xspace_resolver_activity_title">Seleccionar aplicación</string>
     <string name="xspace_setting_label">Ajustes de App dual</string>
     <string name="xspace_settins">Ajustar</string>
     <string name="xspace_start">Crear</string>

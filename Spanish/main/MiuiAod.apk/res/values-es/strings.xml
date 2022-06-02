@@ -175,6 +175,8 @@ dd/MM"</string>
     <string name="midnight">Noche</string>
     <string name="mini_time">Reloj pequeño</string>
     <string name="minimalist_clock">Reloj simple</string>
+    <string name="miuix_access_state_desc">Seleccionado</string>
+    <string name="miuix_alphabet_indexer_name">Barra de índice</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleccionar todo</string>
     <string name="miuix_appcompat_action_mode_title_empty">Seleccionar elementos</string>
@@ -189,6 +191,8 @@ dd/MM"</string>
     <string name="miuix_appcompat_select_all">Seleccionar todo</string>
     <string name="miuix_appcompat_select_all_description">Seleccionar todo</string>
     <string name="miuix_appcompat_select_item">Seleccionar elementos</string>
+    <string name="miuix_indexer_collect">Colecciones</string>
+    <string name="miuix_indexer_selected">Seleccionado %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Desliza hacia abajo para actualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado con éxito</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualizando…</string>
@@ -313,7 +317,7 @@ dd/MM"</string>
     <string name="select_notification_notify_style">Seleccionar efecto de notificación</string>
     <string name="send">Enviar</string>
     <string name="share">Compartir</string>
-    <string name="share_to_community">Compartir con Mi Community</string>
+    <string name="share_to_community">Compartir con la Comunidad Xiaomi</string>
     <string name="show_battery">Mostrar estado de la batería</string>
     <string name="show_battery_status">Mostrar estado de la batería</string>
     <string name="show_lunar">Mostrar calendario chino tradicional</string>
@@ -329,7 +333,7 @@ está a punto de suceder"</string>
     <string name="step_component_info_active_tip">El conteo de pasos es proporcionado por Xiaomi Salud. Acepta los términos y condiciones de Xiaomi Salud para continuar.</string>
     <string name="step_component_info_desc">El conteo de pasos se convertirá en un trofeo cuando alcances tu objetivo. El conteo de pasos es proporcionado por Xiaomi Salud.</string>
     <string name="step_component_info_tip">El conteo de pasos es proporcionado por Xiaomi Salud. Instala o actualiza Xiaomi Salud y acepta sus términos y condiciones para continuar.</string>
-    <string name="step_to_image_community">Encuentra más en Mi Community</string>
+    <string name="step_to_image_community">Encuentra más en la Comunidad Xiaomi</string>
     <string name="summary">"Para reducir el consumo de energía, los elementos no serán mostrados cuando el dispositivo se encuentra en la oscuridad durante bastante tiempo."</string>
     <string name="sunday">Domingo</string>
     <string name="sunday_short">Dom</string>

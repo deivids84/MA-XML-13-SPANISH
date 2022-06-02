@@ -44,8 +44,10 @@
     <string name="afternoon">Tarde</string>
     <string name="agree_app_use">Escaneando códigos QR y otras imágenes (algunas funciones podrían requerir acceso a tu ubicación)</string>
     <string name="agree_btn">Aceptar</string>
-    <string name="agree_camera_permission">Para tomar fotos y grabar vídeo</string>
-    <string name="agree_storage_permission">Para acceder a las fotos y archivos almacenados en tu dispositivo</string>
+    <string name="agree_camera_permission">Usar la cámara para escanear</string>
+    <string name="agree_camera_permission_message">Usar la cámara para escanear</string>
+    <string name="agree_storage_permission">Acceder e importar imágenes de la Galería y salvar archivos</string>
+    <string name="agree_storage_permission_message">Acceder e importar imágenes de la Galería y salvar archivos</string>
     <string name="all_text">Texto completo</string>
     <string name="already_ocr_result">Elementos seleccionados automáticamente</string>
     <string name="always">Siempre</string>
@@ -112,6 +114,7 @@
     <string name="code_always">Recordar mi elección</string>
     <string name="code_determine">Aceptar</string>
     <string name="code_result">Resultados</string>
+    <string name="come_back_picture">Atrás</string>
     <string name="common_google_play_services_enable_button">Activar</string>
     <string name="common_google_play_services_enable_text">"%1$s no funcionará a menos que habilites los servicios de Google Play."</string>
     <string name="common_google_play_services_enable_title">Habilitar los servicios de Google Play</string>
@@ -799,6 +802,8 @@
     <string name="to_date">Hoy</string>
     <string name="to_install_title">Este código QR te redirecciona a una aplicación no instalada. ¿Descargar ahora esta aplicación?</string>
     <string name="to_pay">Completar pago</string>
+    <string name="toast_net_2g">La red tiene poca señal. Cambia de red e inténtalo otra vez</string>
+    <string name="toast_net_timeout">La solicitud caducó. Inténtalo otra vez más tarde</string>
     <string name="today">Hoy</string>
     <string name="toinstall">Descargar</string>
     <string name="tomorrow">mañana</string>

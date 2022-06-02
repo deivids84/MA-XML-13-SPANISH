@@ -960,6 +960,7 @@ Permita a Notas grabar audio."</string>
     <string name="view_all_notes">Ver todo</string>
     <string name="warn_cannot_add_new_bullet">"No se puede agregar una nueva lista con viñetas porque la nota es demasiado larga"</string>
     <string name="warn_cannot_add_new_checkbox">"No se puede agregar una nueva casilla de verificación porque la nota es demasiado larga"</string>
+    <string name="warn_cannot_add_new_content">"No se puede agregar contenido porque la nota es demasiado larga"</string>
     <string name="warn_cannot_add_new_doodle">"No se puede agregar un nuevo garabato porque la nota es demasiado larga"</string>
     <string name="warn_cannot_add_new_element">"No se puede agregar un nuevo elemento porque la nota es demasiado larga"</string>
     <string name="warn_cannot_add_new_link_card">"No se puede agregar un nuevo enlace porque la nota es demasiado larga"</string>
@@ -982,6 +983,8 @@ Permita a Notas grabar audio."</string>
     <string name="widget_size_item_big">Grande</string>
     <string name="widget_size_item_medium">Medio</string>
     <string name="widget_size_item_small">Pequeño</string>
+    <string name="widget_size_item_super_big">Muy grande</string>
+    <string name="widget_size_not_support">"Widgets extra grandes no soportados en este dispositivo"</string>
     <string name="widget_take_notes_title">Notas</string>
     <string name="yesterday">Ayer</string>
 </resources>

@@ -310,6 +310,7 @@
     <string name="calllog_menu_edit_before_call">Editar</string>
     <string name="calllog_menu_send_sms">Enviar mensaje</string>
     <string name="calllog_record_none_toast">No hay grabaciones de llamadas para mostrar</string>
+    <string name="calllog_record_searching_toast">Buscando grabaciones de llamadas…</string>
     <string name="callrecordview_item_op_time_minutes_seconds">%1$dm %2$ds</string>
     <string name="callrecordview_item_op_time_missed">"No se pudo conectar"</string>
     <string name="callrecordview_item_op_time_only_minutes">%d min</string>
@@ -719,6 +720,9 @@ Motivo: \"%s\""</string>
     <string name="low_memory_toast">"Poca memoria, no se puede usar esta función."</string>
     <string name="lunarBirthdayLabelsGroup">Cumpleaños lunar</string>
     <string name="make_primary">Recordar esta elección</string>
+    <string name="manage_external_storage_dialog_message">Permitir a esta aplicación acceder a todos los archivos para administrar las grabaciones de llamadas.</string>
+    <string name="manage_external_storage_dialog_positive">Ajustes</string>
+    <string name="manage_external_storage_dialog_title">Permisos necesarios</string>
     <string name="map_custom">Ver dirección de %s</string>
     <string name="map_home">Ver dirección de casa</string>
     <string name="map_other">Ver dirección</string>

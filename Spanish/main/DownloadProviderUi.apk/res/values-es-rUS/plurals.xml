@@ -41,8 +41,8 @@
         <item quantity="one">¿Eliminar %d tarea?</item>
     </plurals>
     <plurals name="download_info_count_deleted_tasks">
-        <item quantity="other">%1$d descargas borradas</item>
-        <item quantity="one">%1$d descarga borrada</item>
+        <item quantity="other">%1$d descargas eliminadas correctamente</item>
+        <item quantity="one">%1$d descarga eliminada correctamente</item>
     </plurals>
     <plurals name="durationDays">
         <item quantity="other">%1$d días</item>
@@ -92,20 +92,8 @@
         <item quantity="other">Hace %d minutos</item>
         <item quantity="one">Hace 1 minuto</item>
     </plurals>
-    <plurals name="numberOfItemsAvailable">
-        <item quantity="other">¿Eliminar %d elementos?</item>
-        <item quantity="one">¿Eliminar este artículo?</item>
-    </plurals>
     <plurals name="number_items">
-        <item quantity="other">%s elementos</item>
-        <item quantity="one">%s elemento</item>
-    </plurals>
-    <plurals name="sniff_find_resource">
-        <item quantity="other">Encontrados %d artículos</item>
-        <item quantity="one">Encontrado 1 artículo</item>
-    </plurals>
-    <plurals name="sniff_find_result">
-        <item quantity="other">Encontrado %d resultados</item>
-        <item quantity="one">Encontrado 1 resultado</item>
+        <item quantity="other">%1$d elementos</item>
+        <item quantity="one">%1$d elemento</item>
     </plurals>
 </resources>
