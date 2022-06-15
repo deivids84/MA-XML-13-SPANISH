@@ -183,6 +183,7 @@ Ahora puedes iniciar sesión en tu Cuenta Mi usando %s."</string>
     <string name="confirm_unbundled_phone_dialog_message">El número de teléfono %1$s está asociado con Cuenta Mi %2$s. Ya no estará asociado a Cuenta Mi %3$s si continúas. ¿Continuar?</string>
     <string name="continue_action">Continuar</string>
     <string name="copy">Copiar</string>
+    <string name="copy_link">Copiar URL</string>
     <string name="copy_to_clipboard_successful">Copiado con éxito</string>
     <string name="date_picker_lunar">Calendario Chino Tradicional</string>
     <string name="date_time_picker_dialog_title">Establecer fecha y hora</string>
@@ -392,6 +393,8 @@ Envía este código al supervisor."</string>
     <string name="multi_user_not_show_sync_activity_title">"No activar la sincronización con la nube"</string>
     <string name="my_device_title">Dispositivo actual</string>
     <string name="need_install_wechat">Instala WeChat primero</string>
+    <string name="network_error">Se ha producido un error de la red.</string>
+    <string name="network_error_hint">Comprueba la URL e inténtalo otra vez, o copia la URL y ábrela en el navegador.</string>
     <string name="network_error_info">Se ha producido un error de red. Compruebe la configuración de red e inténtelo de nuevo.</string>
     <string name="network_timeout_info">"No se pudo conectar a la red. Vuelve a intentarlo."</string>
     <string name="new_version">Versión nueva</string>
@@ -428,6 +431,7 @@ Envía este código al supervisor."</string>
     <string name="operator_unicom">China Unicom</string>
     <string name="operator_unicom_agreement">Servicios de verificación proporcionados por China Unicom</string>
     <string name="optional_permissions">Permisos opcionales</string>
+    <string name="page_load_failed">"No se puede abrir la página"</string>
     <string name="passport_Resend">Reenviar</string>
     <string name="passport_access_denied">Acceso denegado</string>
     <string name="passport_account_hint_text">Correo electrónico/Número de teléfono/ID de Cuenta Mi</string>

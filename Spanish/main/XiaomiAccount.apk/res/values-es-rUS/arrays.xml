@@ -127,11 +127,6 @@
         <item>Administre los dispositivos asociados con su Cuenta Mi</item>
         <item>Dispositivos;Administrar;Iniciar sesión;Iniciar sesión;Lista de dispositivos;Xiaomi;Cuenta Mi;Cuenta</item>
     </string-array>
-    <string-array name="settings_search_payment_information">
-        <item>Información de pago</item>
-        <item>Ver y administrar la información de pago</item>
-        <item>Pago;Información;Xiaomi;Cuenta Mi;Cuenta</item>
-    </string-array>
     <string-array name="settings_search_privacy_policy">
         <item>Política de Privacidad</item>
         <item>Ver la política de privacidad de Cuenta Mi</item>

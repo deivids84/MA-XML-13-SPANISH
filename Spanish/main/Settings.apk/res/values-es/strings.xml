@@ -65,7 +65,7 @@
     <string name="access_control_no_back_footer">Pulsa [icon] para salir</string>
     <string name="access_control_password_title">Bloqueo de aplicaciones</string>
     <string name="access_control_recording_intro_header">Dibuja un patrón de desbloqueo</string>
-    <string name="access_control_reset_by_account">Inicie sesión en Cuenta Mi para restablecer tu contraseña</string>
+    <string name="access_control_reset_by_account">Inicia sesión en tu cuenta Xiaomi para restablecer la contraseña</string>
     <string name="access_denied_info">Demasiados intentos. Espera uno o dos minutos e inténtalo de nuevo.</string>
     <string name="access_point_names">Nombres de punto de acceso</string>
     <string name="accessibility_audio_adjustment_title">Ajuste de audio</string>
@@ -1232,8 +1232,8 @@ para ^2"</string>
     <string name="billing_cycle_less_than_one_day_left">Queda menos de 1 día</string>
     <string name="billing_cycle_none_left">No queda tiempo</string>
     <string name="bind_xiaomi_account_confirm">Añadir</string>
-    <string name="bind_xiaomi_account_dialog_summery">"Estás a punto de añadir Mi Account %s. Si olvidas tu contraseña, puedes utilizar esta cuenta para reiniciarla."</string>
-    <string name="bind_xiaomi_account_success">Cuenta Mi añadida con éxito</string>
+    <string name="bind_xiaomi_account_dialog_summery">"Estás a punto de añadir la cuenta Xiaomi %s. Si olvidas la contraseña, puedes utilizar esta cuenta para restablecerla."</string>
+    <string name="bind_xiaomi_account_success">Cuenta Xiaomi añadida</string>
     <string name="biometric_settings_category_ways_to_unlock">Maneras de desbloquear</string>
     <string name="biometric_settings_category_ways_to_use">Utilice rostro y huella dactilar para</string>
     <string name="biometric_settings_hand_back_to_guardian">Devuélvele el teléfono a tus padres</string>
@@ -1415,6 +1415,8 @@ No se ha conectado a %2$s antes."</string>
     <string name="bluetooth_grp_source_selection_options_detail">"%1$s está agregando la fuente de transmisión 
        1 a los miembros del grupo conectados.
        (Deje el PIN de transmisión en blanco si es una fuente de transmisión sin cifrar)"</string>
+    <string name="bluetooth_hd_music_play_summary">"Reproducir audio de %d kHz en dispositivos Bluetooth sin reducir la frecuencia de muestra. Los efectos Dolby no estarán disponibles al activar esta opción."</string>
+    <string name="bluetooth_hd_music_play_title">Reproducir audio de %d kHz</string>
     <string name="bluetooth_headset_profile_summary_connected">Conectado a audio del teléfono</string>
     <string name="bluetooth_headset_profile_summary_use_for">Utilizado para el audio del teléfono</string>
     <string name="bluetooth_hearing_aid_profile_summary_connected">Conectado al audífono</string>
@@ -3648,8 +3650,8 @@ No parecía que en aquel lugar hubiese caballos ni animales de ningún tipo, pue
     <string name="forget_password_dialog_content_two">Sigue estos pasos para eliminar datos:</string>
     <string name="forget_password_dialog_title">Limpiar datos</string>
     <string name="forget_pattern"><u>¿Olvidaste el patrón?</u></string>
-    <string name="forget_privacy_password_setting">Añadir Cuenta Mi</string>
-    <string name="forget_privacy_password_summary">Utiliza Mi Account para restablecer tu contraseña</string>
+    <string name="forget_privacy_password_setting">Añadir cuenta Xiaomi</string>
+    <string name="forget_privacy_password_summary">Usa la cuenta Xiaomi para restablecer la contraseña</string>
     <string name="forget_wifi_message">Su dispositivo dejará de conectarse a esta red automáticamente. Es posible que deba ingresar la contraseña cuando vuelva a conectarse a esta red.</string>
     <string name="forgot_password_text">Te podrá ayudar a cambiar el PIN, el patrón o la contraseña</string>
     <string name="forgot_password_title">Contacta con tu administrador de TI</string>
@@ -4620,6 +4622,8 @@ Abre Xiaomi Cloud y restaura elementos desde allí."</string>
     <string name="lock_profile_wipe_warning_content_pattern">Si introduces un patrón de trabajo incorrecto, tu perfil de trabajo y los datos asociados serán eliminados de este dispositivo.</string>
     <string name="lock_profile_wipe_warning_content_pin">Si introduces un PIN de trabajo incorrecto, tu perfil de trabajo y los datos asociados serán eliminados de este dispositivo.</string>
     <string name="lock_screen_action">Los elementos se muestran en la Pantalla de bloqueo después de deslizar hacia abajo</string>
+    <string name="lock_screen_after_fold_screen_summary">"El dispositivo se bloqueará al plegarlo, a menos que estés usando la cámara frontal o el altavoz."</string>
+    <string name="lock_screen_after_fold_screen_title">Plegar para bloquear</string>
     <string name="lock_screen_display_category_name">Pantalla de bloqueo</string>
     <string name="lock_screen_intro_skip_dialog_text">No se activarán las funciones de protección del dispositivo. No podrás evitar que otros usuarios utilicen este teléfono si lo pierdes o te lo roban.</string>
     <string name="lock_screen_intro_skip_dialog_text_frp">No se activarán las funciones de protección del dispositivo. No podrás evitar que otros usuarios utilicen este teléfono si lo pierdes, te lo roban o se restablecen su estado de fábrica.</string>
@@ -6631,9 +6635,9 @@ Presione Encendido y Subir volumen al mismo tiempo."</string>
     <string name="privacy_notes">Notas</string>
     <string name="privacy_password">Contraseña de Protección de la privacidad</string>
     <string name="privacy_password_add_account">Añadir</string>
-    <string name="privacy_password_add_account_info">Añade Cuenta Mi para poder restablecer la contraseña en caso de olvidarla</string>
+    <string name="privacy_password_add_account_info">Añade una cuenta Xiaomi para poder restablecer la contraseña si la olvidas</string>
     <string name="privacy_password_add_account_setting">Cuenta y privacidad</string>
-    <string name="privacy_password_bind_account">Añadir Cuenta Mi</string>
+    <string name="privacy_password_bind_account">Añadir cuenta Xiaomi</string>
     <string name="privacy_password_bind_account_immediate">Añadir</string>
     <string name="privacy_password_confirm_SecondSpace_Password">Confirma la contraseña del Segundo espacio</string>
     <string name="privacy_password_confirm_use_finger">Desbloquear con huella dactilar</string>
@@ -6648,8 +6652,8 @@ Presione Encendido y Subir volumen al mismo tiempo."</string>
     <string name="privacy_password_never_remind">"No preguntar de nuevo"</string>
     <string name="privacy_password_not_add_account">Ahora no</string>
     <string name="privacy_password_not_login_account">"No has iniciado sesión"</string>
-    <string name="privacy_password_remind_bind_notlogin_account">Añadir Cuenta Mi para poder restablecer la contraseña en caso de que la olvides.</string>
-    <string name="privacy_password_remind_bindaccount_title">Añadir Cuenta Mi</string>
+    <string name="privacy_password_remind_bind_notlogin_account">Añade una cuenta Xiaomi para restablecer la contraseña si acaso la olvidas.</string>
+    <string name="privacy_password_remind_bindaccount_title">Añadir cuenta Xiaomi</string>
     <string name="privacy_password_settings">Utiliza la contraseña de Protección de la privacidad</string>
     <string name="privacy_password_settings_next">Siguiente</string>
     <string name="privacy_password_settings_summary">La contraseña de Protección de la privacidad es usada por aplicaciones que podrían contener información delicada</string>

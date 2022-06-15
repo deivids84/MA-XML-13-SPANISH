@@ -46,6 +46,7 @@
     <string name="ad_app_is_downloading">Descargando…</string>
     <string name="ad_begin_to_download_tip">Empezando a descargar ...</string>
     <string name="ad_begin_to_install_tip">Instalando...</string>
+    <string name="ad_close">Cerrar este anuncio</string>
     <string name="ad_closed_tip">"Verás menos anuncios de este tipo."</string>
     <string name="ad_details">Detalles</string>
     <string name="ad_download_download">Descargar</string>
@@ -97,6 +98,7 @@
     <string name="apply_not_support_aod">"La pantalla siempre encendida no es compatible con este dispositivo"</string>
     <string name="apply_not_support_in_second_space">"No se puede aplicar este elemento en el Segundo espacio"</string>
     <string name="apply_not_support_maml_aod">"No se puede combinar la pantalla siempre activa con temas en este dispositivo"</string>
+    <string name="apply_sensor_video_wallpaper_dialog_message">Este fondo de pantalla se aplicará a la pantalla de bloqueo interior, a la exterior y a las de inicio.</string>
     <string name="apply_succeed">Aplicado con éxito</string>
     <string name="apply_success_not_enable_aod">Primero active la pantalla Siempre encendida en la Configuración</string>
     <string name="apply_success_not_support_aod">"No se puede combinar la pantalla Siempre activa con temas en este dispositivo. El resto de los componentes de este tema se aplicaron con éxito."</string>
@@ -150,6 +152,7 @@
     <string name="clearable_edittext_clear_description">Claro</string>
     <string name="close">Cerrar</string>
     <string name="close_custom_permission_warning_text">"Sin permisos de almacenamiento, esta aplicación no podrá descargar elementos ni personalizar su dispositivo. ¿Desactivar de todos modos?"</string>
+    <string name="close_custom_permission_warning_text_above_eleven">"Sin permisos de almacenamiento, esta aplicación no podrá personalizar el dispositivo. ¿Desactivar de todos modos?"</string>
     <string name="common_applying">Aplicando…</string>
     <string name="common_downloading">Descargando…</string>
     <string name="common_format_date_no_year">dd/MM</string>
@@ -184,6 +187,8 @@
     <string name="current_version">Versión actual: %1$s</string>
     <string name="current_version_incompatible">Incompatible</string>
     <string name="custom_storage_permission_desc">Para poder cambiar las preferencias de personalización y guardar los elementos descargados, primero permita que esta función acceda al almacenamiento. Puede otorgar este permiso en Configuración &gt; Privacidad.</string>
+    <string name="custom_storage_permission_desc_above_eleven">Para cambiar las preferencias de personalización, antes debes permitir a esta función acceder al almacenamiento. Puedes hacerlo desde la aplicación de Ajustes.</string>
+    <string name="custom_widget">Widgets recomendados</string>
     <string name="date_picker_lunar">Calendario tradicional chino</string>
     <string name="date_time_picker_dialog_title">Establecer fecha y hora</string>
     <string name="de_apply_icons">Iconos de aplicaciones</string>
@@ -379,6 +384,7 @@
     <string name="fold_restore_default_theme_dialog_content">"Los temas no se pueden usar en este dispositivo ahora. Si cambió su tema antes, puede restaurar el tema predeterminado ahora. No podrás volver a cambiar tu tema después de esto."</string>
     <string name="fold_restore_default_theme_dialog_disagree">No, gracias</string>
     <string name="fold_restore_default_theme_dialog_title">Restaurar tema predeterminado</string>
+    <string name="fold_sensor_video_wallpaper_group">Fondos de pantalla dinámicos para dispositivos plegables</string>
     <string name="font_compat_dialog_buy_confirm">Comprar</string>
     <string name="font_compat_dialog_buy_content">Es posible que algunas aplicaciones no admitan fuentes de terceros. Este problema de compatibilidad se solucionará con una próxima actualización del sistema. ¿Comprar esta fuente de todos modos?</string>
     <string name="font_compat_dialog_cancel">Cancelar</string>
@@ -642,6 +648,7 @@ mm"</string>
     <string name="mtrl_picker_a11y_next_month">Cambiar al próximo mes</string>
     <string name="mtrl_picker_a11y_prev_month">Cambiar al mes anterior</string>
     <string name="mtrl_picker_announce_current_selection">Selección actual: %1$s</string>
+    <string name="mtrl_picker_confirm">OK</string>
     <string name="mtrl_picker_date_header_title">Seleccione la fecha</string>
     <string name="mtrl_picker_date_header_unselected">Fecha seleccionada</string>
     <string name="mtrl_picker_day_of_week_column_header">Columna de días: %1$s</string>
@@ -663,6 +670,7 @@ mm"</string>
     <string name="mtrl_picker_toggle_to_day_selection">Toca para cambiar a seleccionar un día</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Cambiar al modo de ingreso de texto</string>
     <string name="mtrl_picker_toggle_to_year_selection">Toca para cambiar a seleccionar un año</string>
+    <string name="mtrl_timepicker_confirm">OK</string>
     <string name="multi_sim_mms_ringtone_settings_dialog_message">Este tono de llamada se aplicará a ambas tarjetas SIM.</string>
     <string name="multi_sim_ringtone_settings_dialog_message">El tono de llamada se aplica a ambas tarjetas SIM.</string>
     <string name="multi_sim_ringtone_settings_dialog_ok">Entendido</string>
@@ -816,6 +824,7 @@ Todos los elementos de personalización que se utilizan actualmente en este disp
     <string name="privacy_phone_logoff_theme_service_detail_title">Lea y acepte la \"Declaración sobre la cancelación de servicios de temas\" antes de cancelar nuestros servicios.</string>
     <string name="privacy_phone_logoff_theme_service_introduce">"Estás a punto de cancelar los servicios de Temas."</string>
     <string name="privacy_phone_read_and_write_storage">Acceder al almacenamiento</string>
+    <string name="privacy_phone_read_and_write_storage_above_eleven">Acceso al almacenamiento</string>
     <string name="privacy_phone_read_theme_logoff_privacy_policy"><Data>\"He leído y acepto la declaración \"&lt;font color=\"#8E92B0\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;sobre la cancelación de los servicios de temas&lt;/a&gt;&lt;/font&gt;\".\"</Data></string>
     <string name="privacy_phone_read_theme_privacy_policy"><Data>\"He leído y acepto la declaración \"&lt;font color=\"#8E92B0\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;sobre la retirada del consentimiento a la política de privacidad de los temas&lt;/a&gt;&lt;/font&gt;\".</Data></string>
     <string name="privacy_phone_revoke_agree_content_3">3. Todos los temas, fondos de pantalla, fondos de pantalla dinámicos, fuentes, iconos y tonos de llamada descargados en este dispositivo.</string>
@@ -1055,6 +1064,7 @@ Puede otorgar este permiso en Configuración &gt; Privacidad."</string>
     <string name="resource_search_color_hint_purple">Púrpura</string>
     <string name="resource_search_color_hint_red">Rojo</string>
     <string name="resource_search_color_hint_yellow">Amarillo</string>
+    <string name="resource_search_history">Historial de búsquedas</string>
     <string name="resource_search_list_empty">"Sin resultados."</string>
     <string name="resource_see_more">Ver más</string>
     <string name="resource_select">Seleccionar</string>
@@ -1134,6 +1144,7 @@ Puede otorgar este permiso en Configuración &gt; Privacidad."</string>
     <string name="send">Enviar</string>
     <string name="server_internal_error">Se produjo un error en el servidor. Espera un minuto o dos y vuelve a intentarlo.</string>
     <string name="set_as_colorring">Establecer como tono de llamada personalizado</string>
+    <string name="set_calling">Establecer</string>
     <string name="set_color_ring_back_tone">Establezca un tono de espera personalizado</string>
     <string name="set_home_wallpaper_failed">"%s. No se puede aplicar el fondo de pantalla de inicio."</string>
     <string name="set_wallpaper_group_success">Fondo de pantalla \"%1$s\" aplicado correctamente</string>
@@ -1217,6 +1228,7 @@ Puede otorgar este permiso en Configuración &gt; Privacidad."</string>
     <string name="system_cta_runtime_perm_desc_get_accounts">Para acceder al IMEI y proporcionar servicios de descarga</string>
     <string name="system_cta_runtime_perm_desc_read_phone_state">Acceder a la ID del dispositivo para poder identificarlo</string>
     <string name="system_cta_runtime_perm_desc_storage">Para usar los elementos almacenados en su dispositivo para personalizarlos y guardar los elementos comprados</string>
+    <string name="system_cta_runtime_perm_desc_storage_above_eleven">Para cambiar las preferencias de personalización</string>
     <string name="system_cta_runtime_perm_desc_storage_pad">Para usar los elementos almacenados en su dispositivo para personalizarlos y guardar los elementos comprados</string>
     <string name="system_precust">Preinstalado</string>
     <string name="tag_ad">Anuncio</string>
@@ -1352,6 +1364,16 @@ Puede otorgar este permiso en Configuración &gt; Privacidad."</string>
     <string name="title_system_audio_resource">Tono de sistema</string>
     <string name="title_system_wallpaper_resource">Fondos del sistema</string>
     <string name="to_activate_the_account">Activar Cuenta Mi ahora</string>
+    <string name="toast_both_all_apply_failured">"No se pudo aplicar a la pantalla de inicio o de bloqueo"</string>
+    <string name="toast_both_all_apply_success">Aplicado a las pantallas de inicio y de bloqueo</string>
+    <string name="toast_home_apply_failured">"No se pudo aplicar a la pantalla de inicio"</string>
+    <string name="toast_home_apply_success">Aplicado a la pantalla de inicio</string>
+    <string name="toast_lockscreen_apply_failured">"No se pudo aplicar a la pantalla de bloqueo"</string>
+    <string name="toast_lockscreen_apply_failured_but_home_apply_success">"Aplicado a la pantalla de inicio. No se pudo aplicar a la de bloqueo."</string>
+    <string name="toast_lockscreen_apply_success">Aplicado a la pantalla de bloqueo</string>
+    <string name="toast_lockscreen_apply_success_but_home_apply_failured">"Aplicado a la pantalla de bloqueo. No se pudo aplicar a la de inicio."</string>
+    <string name="toast_transparent_wallpaper_filter_set_failured">"No se pudo aplicar"</string>
+    <string name="toast_transparent_wallpaper_filter_set_successfully">Aplicado con éxito</string>
     <string name="today">Hoy</string>
     <string name="tomorrow">mañana</string>
     <string name="trans_wallpaper_offline_notice">"Los fondos de pantalla transparentes no están disponibles"</string>

@@ -182,11 +182,20 @@
     <string name="antispam_notificaiton_type_show_none">Nunca</string>
     <string name="antispam_notification_setting_title">Notificaciones</string>
     <string name="antispam_xpace_text">Cambia al primer espacio para establecer la lista negra</string>
+    <string name="antivirus_antidefraud_risk_desc">Esta aplicación está clasificada como fraude financiero por el Centro Nacional Anti Fraude. Debes desinstalarla para evitar posibles riesgos.</string>
+    <string name="antivirus_antidefraud_risk_type">Fraude financiero</string>
+    <string name="antivirus_antidefraud_risk_type_label">Fraude financiero y riesgos de seguridad</string>
     <string name="antivirus_browser_check">Consultar sitios web en Mi navegador</string>
     <string name="antivirus_browser_check_summary">Consulte los sitios web en Mi Navegador automáticamente y reciba advertencias sobre posibles riesgos</string>
     <string name="antivirus_choose_engine_dialog_title">Seleccionar definiciones</string>
     <string name="antivirus_choose_engine_settings">Ajustes de definiciones de virus</string>
     <string name="antivirus_choose_engine_title">Definiciones</string>
+    <string name="antivirus_detect_apps_dialog_cancel">Ignorar</string>
+    <string name="antivirus_detect_apps_dialog_content">%s está clasificada como fraude financiero por el Centro Nacional Anti Fraude. Supone sustanciales riesgos de seguridad.</string>
+    <string name="antivirus_detect_apps_dialog_uninstall">Desinstalar</string>
+    <string name="antivirus_detect_apps_noti_message">Esta aplicación supone riesgos de seguridad</string>
+    <string name="antivirus_detect_apps_noti_title">Varias aplicaciones, incluida %s, podrían suponer riesgos de seguridad</string>
+    <string name="antivirus_detect_single_app_noti_title">%s podría suponer riesgos de seguridad</string>
     <string name="antivirus_longtime_no_update">Parece que tus definiciones de virus son antiguas. Actualizaciones regulares ayudan a conseguir mejores resultados de análisis. ¿Permitir a Seguridad conectarse a internet y actualizar definiciciones de virus?</string>
     <string name="antivirus_longtime_no_update1">Parece que tus definiciones de virus son antiguas. Actualizaciones regulares ayudan a conseguir mejores resultados de análisis. Actualiza y vuelve a intentarlo.</string>
     <string name="antivirus_main_activity_back">Atrás</string>
@@ -198,6 +207,7 @@
     <string name="antivirus_monitored_app_empty">"No se pudo encontrar aplicaciones de pago compatibles"</string>
     <string name="antivirus_monitored_tips">Verifique el entorno de pago para detectar posibles riesgos automáticamente</string>
     <string name="antivirus_none_engine_dialog_ok">OK</string>
+    <string name="antivirus_not_remind_for_app">"No advertir de nuevo sobre esta aplicación"</string>
     <string name="antivirus_not_wlan">"No estás conectado a Wi-Fi. Usar datos móviles puede generar gastos adicionales. ¿Continuar de todos modos?"</string>
     <string name="antivirus_privacy_dialog_cloudscan">Transferir nombres y detalles de aplicaciones</string>
     <string name="antivirus_privacy_dialog_cloudscan_description">"Para detectar y neutralizar los virus de manera más efectiva, cargaremos los nombres y las propiedades del paquete de las aplicaciones para escanearlas usando un motor en la nube."</string>
@@ -1966,14 +1976,11 @@ voluntario"</string>
     <string name="gb_game_macro_bubble_tips">Try combos</string>
     <string name="gb_game_macro_toast_tips">"Try combos!
 Record sequences and use them anytime!"</string>
-    <string name="gb_game_mode">Modo de visualización</string>
-    <string name="gb_game_mode_change">Cambia aquí entre modos de visualización</string>
     <string name="gb_game_mode_change_btn_right">Reiniciar</string>
     <string name="gb_game_mode_change_message">¿Reiniciar el juego para aplicar los cambios ahora?</string>
     <string name="gb_game_mode_change_new">Alternar diseños</string>
     <string name="gb_game_mode_change_title">Reiniciar el juego</string>
     <string name="gb_game_mode_choose_game_area">Área activa</string>
-    <string name="gb_game_mode_choose_title">Seleccionar modo de visualización</string>
     <string name="gb_game_mode_choose_title_new">Seleccionar diseño</string>
     <string name="gb_game_mode_empty">Aún no hay juegos aquí</string>
     <string name="gb_game_mode_fill">Pantalla completa</string>
@@ -4389,6 +4396,10 @@ Retirar el consentimiento ahora?"</string>
     <string name="sp_sos_title">SOS de emergencia</string>
     <string name="sp_system_security_title">Sistema de seguridad</string>
     <string name="sp_toast_removed_from_sign_white_list">Eliminado de excepciones. El elemento será analizado la próxima vez.</string>
+    <string name="sp_unshelf_dialog_cancel_pay">Cancelar</string>
+    <string name="sp_unshelf_dialog_content">"%s no ha superado las pruebas de seguridad de GetApps. Los pagos en la aplicación pueden causar pérdidas financieras. ¿Pagar de todas formas?"</string>
+    <string name="sp_unshelf_dialog_continue_pay">Pagar</string>
+    <string name="sp_unshelf_dialog_title">Riesgos detectados</string>
     <string name="sp_website_scan_summary">Navegación web segura</string>
     <string name="sp_website_scan_title">Consultar sitios web</string>
     <string name="special_number_group">Bloquear números denunciados</string>

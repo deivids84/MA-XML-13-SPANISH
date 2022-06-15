@@ -110,6 +110,7 @@ Toque para ver"</string>
     <string name="hint_volume_down">Bajar volumen</string>
     <string name="hint_volume_up">Subir volumen</string>
     <string name="home_title_none">Seleccionar elementos</string>
+    <string name="invisible_mode_error_tip">"Estás de incógnito. No se puede grabar audio."</string>
     <string name="is_checked">Seleccionado</string>
     <string name="is_go_home">Volver a la grabadora de pantalla</string>
     <string name="is_go_home_summary">"Abrir la página principal de la grabadora de pantalla después de detener la grabación"</string>
