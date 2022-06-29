@@ -84,4 +84,8 @@
         <item quantity="other">hace %d minutos</item>
         <item quantity="one">Hace 1 minuto</item>
     </plurals>
+    <plurals name="word_limit_prompt">
+        <item quantity="other">%d caracteres por encima del límite</item>
+        <item quantity="one">%d carácter por encima del límite</item>
+    </plurals>
 </resources>

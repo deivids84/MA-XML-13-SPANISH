@@ -32,7 +32,7 @@
     <string name="am">AM</string>
     <string name="cancel">Cancelar</string>
     <string name="clearable_edittext_clear_description">Limpiar</string>
-    <string name="close">Cerrar</string>
+    <string name="close">Desactivar</string>
     <string name="date_picker_lunar">Calendario chino Tradicional</string>
     <string name="date_time_picker_dialog_title">Establecer fecha y hora</string>
     <string name="doc_photo_adjust_section_talkback">Recortar y editar</string>
@@ -54,7 +54,9 @@
     <string name="doc_photo_idcard_emblem">Parte trasera</string>
     <string name="doc_photo_idcard_mode_title">Tarjeta ID</string>
     <string name="doc_photo_idcard_portrait">Frontal</string>
+    <string name="doc_photo_not_save">"No guardar"</string>
     <string name="doc_photo_not_support">"No se puede editar esta imagen como documento"</string>
+    <string name="doc_photo_save_effect_toast">¿Guardar cambios ahora?</string>
     <string name="doc_photo_toast_undistortion_close">Anti-distorsión esta desactivado</string>
     <string name="doc_photo_toast_undistortion_open">Anti-distorsión esta activado</string>
     <string name="doc_photo_view_effect">Vista previa</string>
@@ -157,6 +159,7 @@
     <string name="night">Tarde</string>
     <string name="noon">Mediodía</string>
     <string name="ok">Aceptar</string>
+    <string name="open">Activar</string>
     <string name="pm">PM</string>
     <string name="refocus_discard_confirm_message">¿Guardar cambios?</string>
     <string name="refocus_discard_negative_btn">Descartar</string>

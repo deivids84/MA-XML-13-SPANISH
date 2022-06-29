@@ -741,12 +741,16 @@ Prefijo de ruta"</string>
     <string name="hide_elided">▼ Ocultar texto citado</string>
     <string name="hide_password">Ocultar contraseña</string>
     <string name="hierarchical_folder_parent_top_ellip">%1$s∕…∕%2$s∕</string>
+    <string name="how_to_login_icloud">Cómo iniciar la sesión en el correo iCloud</string>
     <string name="http_auth_dialog_cancel">Cancelar</string>
     <string name="http_auth_dialog_login">Iniciar sesión</string>
     <string name="http_auth_dialog_password">Contraseña</string>
     <string name="http_auth_dialog_title">Ingrese sus credenciales</string>
     <string name="http_auth_dialog_username">Nombre de usuario</string>
+    <string name="icloud_login_tips">Puedes crear una contraseña para tu correo iCloud aquí: iCloud.com</string>
+    <string name="icloud_login_tips_url_part">iCloud.com</string>
     <string name="icon_content_description">Icono de diálogo</string>
+    <string name="icoud_login_pw_hint">Introducir la contraseña</string>
     <string name="imap_password_error">La contraseña para el servidor de correo entrante es incorrecta</string>
     <string name="import_button_text">Importar</string>
     <string name="import_from_other_account">Importar información de otras cuentas</string>
@@ -793,6 +797,7 @@ Prefijo de ruta"</string>
     <string name="login_des_exchange">Iniciar sesión con Exchange</string>
     <string name="login_des_gmail">Iniciar sesión con Gmail</string>
     <string name="login_des_hotmail">Iniciar sesión con Hotmail</string>
+    <string name="login_des_icloud">Iniciar la sesión en correo iCloud</string>
     <string name="login_des_mail_ru">Iniciar sesión con Mail.ru</string>
     <string name="login_des_office365">Iniciar sesión con Office 365</string>
     <string name="login_des_others">Iniciar sesión con otros clientes importantes del servicio de correo electrónico</string>
@@ -964,6 +969,11 @@ Declinado:
     <string name="miuix_sbl_tracking_progress_labe_up_none">"Eso es todo por ahora"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Un momento…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"No se pudo cargar los elementos"</string>
+    <string name="miuix_search_action_mode_cancel">Cancelar</string>
+    <string name="miuix_search_history_clear">Borrar historial de búsqueda</string>
+    <string name="miuix_search_history_default_title">Historial de búsqueda</string>
+    <string name="miuix_search_recommendation_default_title">Podrían interesarte estos</string>
+    <string name="miuix_search_recommendation_item_del_des">Eliminar</string>
     <string name="modify_contact_address">"Editar la dirección de correo electrónico del contacto"</string>
     <string name="monday">Lunes</string>
     <string name="monday_short">Lun</string>

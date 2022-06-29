@@ -484,6 +484,10 @@ para obtener una prueba gratuita de %d días."</item>
         <item quantity="other">Ingrese al menos %d caracteres</item>
         <item quantity="one">Ingrese al menos %d caracter</item>
     </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d notificaciones nuevas</item>
+        <item quantity="one">%d notificación nueva</item>
+    </plurals>
     <plurals name="net_booster_expire_notification_tip">
         <item quantity="other">Quedan %d días antes de que termine la Sesión de aumento de velocidad de la red. Renueve la sesión para evitar problemas de velocidad de red.</item>
         <item quantity="one">Queda %d día antes de que termine la Sesión de aumento de velocidad de la red. Renueve la sesión para evitar problemas de velocidad de red.</item>

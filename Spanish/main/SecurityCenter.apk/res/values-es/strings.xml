@@ -570,6 +570,7 @@ No perderás ningún dato de la aplicación."</string>
     <string name="app_predict_dialog_message">La IA sugerirá aplicaciones que podría necesitar en este momento</string>
     <string name="app_predict_dialog_success">Agregado a la pantalla de inicio con éxito</string>
     <string name="app_predict_folder_name">Buscar</string>
+    <string name="app_predict_folder_tips">Sugerencias derivadas de tus hábitos de uso</string>
     <string name="app_predict_go_shop_search_app">Buscar en GetApps</string>
     <string name="app_predict_guide_button">Agregar</string>
     <string name="app_predict_guide_message">La IA sugerirá aplicaciones que podría necesitar en este momento</string>
@@ -592,6 +593,7 @@ No perderás ningún dato de la aplicación."</string>
     <string name="app_predict_setting_switch_message">Reciba sugerencias de aplicaciones basadas en sus hábitos de uso</string>
     <string name="app_predict_setting_switch_title">Personalizar sugerencias</string>
     <string name="app_predict_setting_title">Sugerencias de aplicaciones</string>
+    <string name="app_predict_settings_train_tip">Optimizar la precisión de las sugerencias</string>
     <string name="app_predict_widget_experience_now">Intentar</string>
     <string name="app_predict_widget_name_2x4">Sugerencias de aplicaciones</string>
     <string name="app_predict_widget_summary">Inicie rápidamente las aplicaciones que pueda necesitar en este momento</string>
@@ -976,6 +978,7 @@ No perderás ningún dato de la aplicación."</string>
     <string name="boot_time_day_tomorrow">Se activará mañana a las %1$s</string>
     <string name="bottom_func_guide_default_text">Más funciones</string>
     <string name="bottom_notice_title">Desliza hacia arriba para abrir la caja de herramientas</string>
+    <string name="bottomsheet_action_expand_halfway">Expandir hasta la mitad</string>
     <string name="btn_back">Atrás</string>
     <string name="btn_finish_diagnostic">OK</string>
     <string name="btn_start_diagnostic">Comprobar la red</string>
@@ -993,6 +996,10 @@ No perderás ningún dato de la aplicación."</string>
     <string name="btn_text_quick_save_power">Enfriar</string>
     <string name="btn_text_quick_scan">Escanear</string>
     <string name="btn_text_stop">Detener</string>
+    <string name="bubble_app_manage">Administrar las burbujas de conversación</string>
+    <string name="bubble_notification">Burbujas de conversación</string>
+    <string name="bubble_notification_switch">Mostrar las burbujas de conversación</string>
+    <string name="bubble_notification_switch_desc">Cuando una aplicación de mensajería en una ventana flotante está oculta al borde de la pantalla, muestra los mensajes entrantes mediante burbujas</string>
     <string name="button_background_connection">Permitir</string>
     <string name="button_block_calls_from_cantacts">Desbloquear</string>
     <string name="button_block_calls_from_strangers">Desbloquear</string>
@@ -1084,6 +1091,8 @@ No perderás ningún dato de la aplicación."</string>
     <string name="cetus_invisible_mode_warn_location">"Está en incógnito. Los permisos de ubicación están suspendidos."</string>
     <string name="cetus_invisible_mode_warn_open">El modo de incógnito suspende los permisos relacionados con el micrófono, la cámara y la ubicación para todas las aplicaciones. ¿Encender ahora?</string>
     <string name="cetus_invisible_mode_warn_record_audio">"Está en incógnito. Los permisos de micrófono están suspendidos."</string>
+    <string name="character_counter_content_description">Caracteres introducidos %1$d de %2$d</string>
+    <string name="character_counter_overflowed_content_description">Límite de caracteres excedido %1$d de %2$d</string>
     <string name="charge_high_temp_warning_dialog_ok">Entiendo</string>
     <string name="charge_high_temp_warning_dialog_text">Parece que el puerto de carga está sobrecalentado ahora. Desconecte el cargador y deje que el puerto se enfríe antes de comenzar a cargar nuevamente.</string>
     <string name="charge_high_temp_warning_text">Desconecte el cargador y deje que la batería se enfríe</string>
@@ -1096,6 +1105,7 @@ No perderás ningún dato de la aplicación."</string>
     <string name="charging_text_battery_full_time">"Última carga "</string>
     <string name="charging_text_battery_nearly_full">Casi cargada</string>
     <string name="charging_text_battery_perfect">Completamente cargada</string>
+    <string name="chip_text">Texto del chip</string>
     <string name="choose">Seleccionar</string>
     <string name="choose_gs_show_way">Seleccionar orientación de la página de inicio</string>
     <string name="clean_immediately">Limpiar</string>
@@ -1111,6 +1121,7 @@ No perderás ningún dato de la aplicación."</string>
     <string name="cleaned">Eliminados</string>
     <string name="clear_garbage">Eliminar basura para liberar espacio</string>
     <string name="clear_immediately">Limpiar ahora</string>
+    <string name="clear_text_end_icon_content_description">Borrar el texto</string>
     <string name="clearable_edittext_clear_description">Eliminar</string>
     <string name="click_to_charge_bill">Completar</string>
     <string name="click_to_set_carrier">Toca para establecer</string>
@@ -1375,6 +1386,7 @@ Se agregará a las excepciones, pero los elementos previamente bloqueados no apa
     <string name="enable_network">Primero active la red</string>
     <string name="eras_ad">d.C</string>
     <string name="eras_bc">a.C</string>
+    <string name="error_icon_content_description">Error</string>
     <string name="evening">Tarde</string>
     <string name="every_day">Todos los días</string>
     <string name="ew_alert_arrive_location">La onda sísmica llegó en %s</string>
@@ -1635,6 +1647,7 @@ voluntario"</string>
     <string name="exo_track_surround_7_point_1">Sonido envolvente 7.1</string>
     <string name="exo_track_unknown">Desconocido</string>
     <string name="expand_button_title">Avanzado</string>
+    <string name="exposed_dropdown_menu_content_description">Mostrar menú desplegable</string>
     <string name="extreme_power_save_mode_card_summary">Activar el Ahorro de batería extremo para ahorrar energía cuando la batería esté baja.</string>
     <string name="extreme_power_save_mode_title">Ahorro de batería extremo</string>
     <string name="face_unlock_be_on_the_screen">Mantén el dispositivo enfrente de tu cara</string>
@@ -1782,6 +1795,8 @@ voluntario"</string>
     <string name="free_time_traffic_settings">Límite de datos fuera de hora punta</string>
     <string name="free_time_traffic_title">Introducir límite de datos fuera de hora punta</string>
     <string name="free_traffic_settings">Ajustes del uso de datos fuera de hora punta</string>
+    <string name="freeform_vedio_description_open_freeform_and_splitscreen">"· Toca una aplicación de la barra lateral para abrirla en una ventana flotante.
+· Arrastra una aplicación al centro de la pantalla para abrirla en una ventana flotante o a un lado para usar la pantalla dividida."</string>
     <string name="friday">Viernes</string>
     <string name="friday_short">Vie</string>
     <string name="friday_shortest">Vie</string>
@@ -1998,6 +2013,7 @@ Record sequences and use them anytime!"</string>
     <string name="gb_game_ratio_right">Derecha</string>
     <string name="gb_game_ratio_top">Arriba</string>
     <string name="gb_game_time_toast">¡El temporizador ya está disponible!</string>
+    <string name="gb_game_tips_restart">El juego se reiniciará para aplicar los cambios</string>
     <string name="gb_game_video_bottom_tips">Revive los momentos clave de tus sesiones de juego en Game Turbo. Los vídeos se eliminarán automáticamente después de 7 días.</string>
     <string name="gb_game_video_bottom_tips_new">Vuelva a visitar los momentos clave de sus sesiones de juego en Game Turbo. Los videos se eliminarán automáticamente después de %d días.</string>
     <string name="gb_game_video_item_tag">Momento clave</string>
@@ -2344,6 +2360,7 @@ para unirte a nuestra búsqueda de huevos!"</string>
     <string name="hot">Popular</string>
     <string name="hot_today">Popular hoy</string>
     <string name="i_know">Entendido</string>
+    <string name="icon_content_description">Icono de diálogo</string>
     <string name="ignore_special_app">Excluye los datos usados por aplicaciones seleccionadas de tu plan</string>
     <string name="image_protect_auto_del">%s está intentando borrar imágenes</string>
     <string name="image_protect_del_pic_tips">Notificar sobre imágenes eliminadas 删除 图片 时 提醒</string>
@@ -2409,6 +2426,7 @@ para unirte a nuestra búsqueda de huevos!"</string>
     <string name="item_mms">Filtrar mensajes no deseados</string>
     <string name="item_system_auto_download">Descargar actualizaciones automáticamente</string>
     <string name="item_usb_debug">Depuración USB</string>
+    <string name="item_view_role_description">Pestaña</string>
     <string name="item_virus_lib">Actualizar definiciones de virus automáticamente</string>
     <string name="kilobyte_per_second">KB/s</string>
     <string name="label_callwait">Notificación de llamada en espera</string>
@@ -2551,6 +2569,20 @@ responda"</string>
     <string name="mark_sell_time_setting">Bloquear números que han sido denunciados como vendedores telefónicos un número determinado de veces</string>
     <string name="mark_time_setting_dialog_title">Denunciar número</string>
     <string name="marked_by_user">"Lo has marcado como "</string>
+    <string name="material_clock_toggle_content_description">Selecciona AM o PM</string>
+    <string name="material_hour_selection">Seleccionar hora</string>
+    <string name="material_hour_suffix">"%1$s en punto"</string>
+    <string name="material_minute_selection">Seleccionar minutos</string>
+    <string name="material_minute_suffix">%1$s minutos</string>
+    <string name="material_slider_range_end">Fin del intervalo,</string>
+    <string name="material_slider_range_start">Inicio del intervalo,</string>
+    <string name="material_timepicker_am">AM</string>
+    <string name="material_timepicker_clock_mode_description">Cambiar al modo reloj para establecer la hora.</string>
+    <string name="material_timepicker_hour">Hora</string>
+    <string name="material_timepicker_minute">Minuto</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_select_time">Seleccionar la hora</string>
+    <string name="material_timepicker_text_input_mode_description">Cambiar al modo de texto para escribir la hora.</string>
     <string name="megabyte_per_second">MB/s</string>
     <string name="memory_check_content">%s liberado(s)</string>
     <string name="memory_clean_memory_size_tip">Caché</string>
@@ -2729,10 +2761,44 @@ Tu dispositivo es %s más rápido ahora."</string>
     <string name="more_settings">Más</string>
     <string name="morning">Mañana</string>
     <string name="mtp_ptp_mode_summary">MTP o PTP está activo</string>
+    <string name="mtrl_badge_numberless_content_description">Notificación nueva</string>
+    <string name="mtrl_chip_close_icon_content_description">Eliminar %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">Más de %1$d notificaciones nuevas</string>
+    <string name="mtrl_picker_a11y_next_month">Cambiar al próximo mes</string>
+    <string name="mtrl_picker_a11y_prev_month">Cambiar al mes anterior</string>
+    <string name="mtrl_picker_announce_current_selection">Selección actual: %1$s</string>
+    <string name="mtrl_picker_confirm">Aceptar</string>
+    <string name="mtrl_picker_date_header_title">Seleccionar la fecha</string>
+    <string name="mtrl_picker_date_header_unselected">Fecha seleccionada</string>
+    <string name="mtrl_picker_day_of_week_column_header">Columna de días: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Formato no válido.</string>
+    <string name="mtrl_picker_invalid_format_example">Ejemplo: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Uso: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Intervalo no válido.</string>
+    <string name="mtrl_picker_navigate_to_year_description">Desplazarse al año %1$s</string>
+    <string name="mtrl_picker_out_of_range">Fuera de rango: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Fecha inicial - %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">Fecha de final - %1$s</string>
+    <string name="mtrl_picker_range_header_title">Seleccionar intervalo</string>
+    <string name="mtrl_picker_range_header_unselected">Fecha inicial - Fecha final</string>
+    <string name="mtrl_picker_save">Guardar</string>
+    <string name="mtrl_picker_text_input_date_hint">Fecha</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Fecha final</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Fecha inicial</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Cambiar al modo entrada de calendario</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Toca para seleccionar un día</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Cambiar al modo entrada de texto</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Toca para seleccionar un año</string>
+    <string name="mtrl_timepicker_confirm">Aceptar</string>
     <string name="na_main_card_ad_subtitle">Multitud de datos, llamadas gratuitas, tarifas bajas</string>
     <string name="na_main_card_ad_text">Encuentra un plan apropiado para ti</string>
     <string name="na_main_card_ad_title">Tarjeta de promoción Mi Fan</string>
     <string name="na_main_card_title_sim">"Tarjeta "</string>
+    <string name="na_open_at_once">Activar</string>
+    <string name="na_query_and_correction">Comprobar y calibrar saldo</string>
+    <string name="na_query_and_correction_msg">"Puedes verificar y calibrar el saldo de tu cuenta y las estadísticas de datos móviles enviando un SMS gratuito a tu proveedor. Estos mensajes están encriptados.
+Los mensajes de consulta de saldo no se almacenan en Messaging y no se mostrarán.
+Puedes desactivar la opción en \"Ajustar automáticamente las estadísticas de uso de datos\" en cualquier momento."</string>
     <string name="na_text_checking">"Comprobando: "</string>
     <string name="name">Nombre</string>
     <string name="nd_result_button_optimize">Optimizar</string>
@@ -3035,6 +3101,7 @@ Utiliza otro cable de Ethernet para conectar tu router. Si crees que hay problem
     <string name="password_promotion_not_login_xiaomi_account_message">Añadir Cuenta Mi para restablecer la contraseña en caso de que la olvide.</string>
     <string name="password_promotion_postbutton_text">Añadir</string>
     <string name="password_promotion_title">Añadir Cuenta Mi</string>
+    <string name="password_toggle_content_description">Mostrar contraseña</string>
     <string name="password_type">Cambiar la contraseña</string>
     <string name="password_type_underline"><u>Cambiar la contraseña</u></string>
     <string name="password_xspace_forget_pattern_message">Para cambiar la contraseña de tu Segundo Espacio, elimina tu Segundo espacio actual y crea uno nuevo.</string>

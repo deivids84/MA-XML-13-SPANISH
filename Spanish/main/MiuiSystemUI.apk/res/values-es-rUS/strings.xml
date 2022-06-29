@@ -1972,6 +1972,7 @@ Si tiene preguntas, comuníquese con %2$s."</string>
     <string name="quick_settings_inversion_label">Invertir colores</string>
     <string name="quick_settings_location_label">Ubicación</string>
     <string name="quick_settings_location_off_label">Ubicación desactivada</string>
+    <string name="quick_settings_low_battery_toast_text">"No se puede usar la linterna. Queda muy poca batería."</string>
     <string name="quick_settings_media_device_label">Dispositivo multimedia</string>
     <string name="quick_settings_mic_label">Acceso al micrófono</string>
     <string name="quick_settings_more_settings">Más ajustes</string>

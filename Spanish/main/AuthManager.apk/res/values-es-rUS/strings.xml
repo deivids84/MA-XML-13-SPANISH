@@ -316,14 +316,14 @@
     <string name="permdesc_get_account">¿Permitir a %1$s acceder a todas las cuentas almacenadas en este dispositivo?</string>
     <string name="permdesc_location">¿Permitir a %1$s acceder a la información de ubicación?</string>
     <string name="permdesc_location_background">¿Permitir a %1$s acceder a la información de ubicación en segundo plano?</string>
-    <string name="permdesc_microphone">¿Permitir a %1$s usar el micrófono para grabar audio y llamadas?</string>
+    <string name="permdesc_microphone">¿Permitir a %1$s usar el micrófono para grabar audio y hacer llamadas?</string>
     <string name="permdesc_nearby_devices">¿Permitir a %1$s descubrir y conectarse a los dispositivos cercanos?</string>
     <string name="permdesc_process_outgoing_call">¿Permitir a %1$s responder y finalizar llamadas?</string>
     <string name="permdesc_read_calendar">¿Permitir a %1$s acceder y editar eventos del calendario?</string>
     <string name="permdesc_read_call_log">¿Permitir a %1$s acceder al historial de llamadas?</string>
     <string name="permdesc_read_contacts">¿Permitir a %1$s acceder a los contactos?</string>
     <string name="permdesc_read_mms">¿Permitir a %1$s leer mensajes multimedia?</string>
-    <string name="permdesc_read_phone_state">¿Permitir a %1$s acceder al estado del dispositivo y a la información de la red móvil?</string>
+    <string name="permdesc_read_phone_state">¿Permitir a %1$s acceder al estado del dispositivo y a la información de la red?</string>
     <string name="permdesc_read_sms">¿Permitir a %1$s leer o enviar mensajes multimedia?</string>
     <string name="permdesc_read_storage">¿Permitir a %1$s acceder a los archivos y fotos en este dispositivo?</string>
     <string name="permdesc_recognition">¿Permitir a %1$s acceder a tu información de tu actividad?</string>
@@ -357,6 +357,7 @@
     <string name="permisson_reject_notice_toast_text2">"no tiene permiso para %1$s."</string>
     <string name="pm">PM</string>
     <string name="pp_privacy_lab_operator_introduction">Atención</string>
+    <string name="precise_location_title">Ubicación precisa</string>
     <string name="preference_copied">\"%1$s\" copiado al portapapeles.</string>
     <string name="real_location_off">Ubicación aproximada esta activada</string>
     <string name="real_location_on">Ubicación aproximada esta desactivada</string>

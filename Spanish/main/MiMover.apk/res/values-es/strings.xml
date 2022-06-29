@@ -578,8 +578,8 @@ Abre WeChat y ve a Yo &gt; Ajustes &gt; General &gt; Respaldo y migración."</st
 - Mensajes de texto
 - Almacenamiento"</string>
     <string name="request_all_permission_title">Permisos requeridos</string>
-    <string name="restore_data_to_device_content">"Tus elementos se sincronizaron con Mi Cloud.
-Inicia sesión en tu cuenta Mi para restaurarlos."</string>
+    <string name="restore_data_to_device_content">"Tus elementos se sincronizaron con la nube Xiaomi Cloud.
+Inicia sesión en tu cuenta Xiaomi para restaurarlos."</string>
     <string name="restore_data_to_device_title">Restaurar elementos a este dispositivo</string>
     <string name="revoke">Retirar el consentimiento</string>
     <string name="revoke_agree">Retiro del consentimiento</string>
@@ -636,7 +636,7 @@ Libera al menos %s."</string>
     <string name="sender_finish_title">Transferencia exitosa</string>
     <string name="sender_scanning_code">Coloca la imagen en el marco</string>
     <string name="sender_scanning_connecting">Conectando con nuevo dispositivo…</string>
-    <string name="set_new_device_account">Sincronizar con Mi Cuenta</string>
+    <string name="set_new_device_account">Sincronizar con la cuenta Xiaomi</string>
     <string name="set_new_device_lock">Establecer bloqueo de pantalla</string>
     <string name="set_new_device_more">Más configuraciones del sistema…</string>
     <string name="set_new_device_navigationbar">Establecer la navegación del sistema</string>

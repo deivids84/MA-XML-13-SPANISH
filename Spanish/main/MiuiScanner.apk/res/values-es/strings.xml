@@ -160,6 +160,7 @@
     <string name="crop_and_create">Recortando y creando archivo Excel…</string>
     <string name="crop_cancel_description">Cancelar</string>
     <string name="crop_done_description">Listo</string>
+    <string name="crop_frame_you_box_selection_cannot_crop_this_picture">El área de selección debe tener cuatro lados</string>
     <string name="crop_frame_you_selected_cannot_crop_this_picture">El corte del cuadrilátero no puede ser cóncavo y el ángulo máximo no puede exceder los 140 grados</string>
     <string name="crop_title_study">Recorta la foto</string>
     <string name="crop_title_translation">Selecciona el texto para traducir</string>
@@ -231,9 +232,9 @@
     <string name="examples_form_guide">Cómo escanear tablas</string>
     <string name="examples_text_guide">Cómo escanear texto</string>
     <string name="expand_button_title">Avanzado</string>
-    <string name="experience_new_feature_tips">"Inicie sesión con su Cuenta Mi para solicitar permiso para usar la versión Beta. Podrá usarla después de que revisemos su solicitud. La versión Beta podría contener errores."</string>
+    <string name="experience_new_feature_tips">"Inicia sesión en tu cuenta Xiaomi para solicitar permisos para usar la versión Beta. Podrás utilizar la versión Beta después de que revisemos tu solicitud. La versión beta puede contener errores."</string>
     <string name="experience_new_features">Versión beta</string>
-    <string name="experiential_version_of_the_prompt_content">Inicia sesión con tu Cuenta Mi para acceder a Escáner Beta. ¿Iniciar sesión ahora?</string>
+    <string name="experiential_version_of_the_prompt_content">Inicia sesión en tu cuenta Xiaomi para acceder a Escáner Beta. ¿Iniciar sesión ahora?</string>
     <string name="express_no_empty">Introduzca primero el número de pedido</string>
     <string name="failed_to_get_xiaomi_account">"No se pudo iniciar sesión"</string>
     <string name="fax">Fax</string>
@@ -295,6 +296,7 @@
     <string name="food_module_title_food">Calorías</string>
     <string name="form_demo_dialog_negative">Toca para escanear la tabla, luego exporta como un archivo Excel.</string>
     <string name="form_excel_save_sucess">Archivo Excel guardado correctamente</string>
+    <string name="form_preview_title">Vista previa de la tabla de Excel</string>
     <string name="form_recognition_crop_hint">Asegúrate de que las esquinas de la tabla están dentro del área seleccionada</string>
     <string name="format_error">Contraseña invalida</string>
     <string name="friday">Viernes</string>
@@ -364,6 +366,8 @@
     <string name="link_to_network">Conectar</string>
     <string name="local_ocr_recognition">Reconocimiento ocr local</string>
     <string name="local_ocr_recognition_str">Cambiado a traducción sin conexión</string>
+    <string name="location_permission_message">Para conectarse a Wi-Fi</string>
+    <string name="location_permissions_text">Permite el acceso a la ubicación en Configuración para poder usar esta función.</string>
     <string name="logistics">Entrega urgente</string>
     <string name="logout_service">Retirar el consentimiento</string>
     <string name="low_version_tip">Actualiza a la última versión de MIUI para poder usar el Escáner.</string>
@@ -483,6 +487,8 @@
     <string name="not_identification_form">"No se pudo reconocer la tabla. Selecciona y comienza de nuevo."</string>
     <string name="not_insert_contact">"No se puede añadir el contacto"</string>
     <string name="not_network">"No se pudo conectar a la red. Espera uno o dos minutos e inténtalo de nuevo."</string>
+    <string name="not_permissions_hint">Permite el acceso a la cámara para poder utilizar esta función.</string>
+    <string name="not_permissions_title">Permisos requeridos</string>
     <string name="not_recommend_access_web_url">Acceder de todos modos</string>
     <string name="not_set">Sin definir</string>
     <string name="note">Comentario:</string>
@@ -802,8 +808,8 @@
     <string name="to_date">Hoy</string>
     <string name="to_install_title">Este código QR te redirecciona a una aplicación no instalada. ¿Descargar ahora esta aplicación?</string>
     <string name="to_pay">Completar pago</string>
-    <string name="toast_net_2g">La red tiene poca señal. Cambia de red e inténtalo otra vez</string>
-    <string name="toast_net_timeout">La solicitud caducó. Inténtalo otra vez más tarde</string>
+    <string name="toast_net_2g">"No se pudo conectar a la red. Cambia de red e inténtalo de nuevo."</string>
+    <string name="toast_net_timeout">La petición caducó. Espera uno o dos minutos e inténtalo de nuevo.</string>
     <string name="today">Hoy</string>
     <string name="toinstall">Descargar</string>
     <string name="tomorrow">mañana</string>
@@ -897,6 +903,9 @@
     <string name="xiaoai_dialog">"Prueba a decir a Mi IA
 lo que quieres escanear"</string>
     <string name="xiaoai_text">Botón de amor pequeño</string>
+    <string name="xiaomi_market_sdk_update_dialog_cancel">Ahora no</string>
+    <string name="xiaomi_market_sdk_update_dialog_ok">Actualizar</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">Hay una actualización disponible</string>
     <string name="yesterday">Ayer</string>
     <string name="you_have_permission_to_download">Pulsa para descargar la versión Beta</string>
     <string name="you_id">"Tu ID: "</string>

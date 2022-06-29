@@ -83,6 +83,8 @@
     <string name="dialog_privacy_revoke_tips">"Después de revocar la autorización, la aplicación dejará de recopilar datos y todos los datos relacionados se eliminarán de los servidores. Esto podría hacer que la aplicación sea prácticamente inutilizable. ¿Deseas revocar la autorización? Para garantizar la seguridad de tu cuenta, inicia sesión en i.mi.com antes de revocar la autorización de los servicios de Xiaomi Cloud."</string>
     <string name="dialog_title_storage_full">No hay suficiente espacio</string>
     <string name="download">Descargar</string>
+    <string name="download_pause">Descarga pausada. Toca para reanudar.</string>
+    <string name="downloading">Descargando. Toca para pausar.</string>
     <string name="duration_format_hour">%sh</string>
     <string name="duration_format_minute">%sm</string>
     <string name="duration_format_second">%ss</string>

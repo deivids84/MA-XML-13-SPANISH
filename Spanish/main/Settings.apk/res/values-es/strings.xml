@@ -1401,6 +1401,10 @@ No se ha conectado a %2$s antes."</string>
     <string name="bluetooth_enable_gabeldorsche">Habilitar Gabeldorsche</string>
     <string name="bluetooth_enable_gabeldorsche_summary">Habilita el grupo de funciones Bluetooth Gabeldorsche.</string>
     <string name="bluetooth_enable_opp_high_speed">Transferencias Bluetooth de alta velocidad</string>
+    <string name="bluetooth_enable_opp_high_speed_dialog_message">Se necesita reiniciar Bluetooth para aplicar los cambios. Las conexiones establecidas podrían interrumpirse. ¿Reiniciar Bluetooth ahora?</string>
+    <string name="bluetooth_enable_opp_high_speed_dialog_negative">Cancelar</string>
+    <string name="bluetooth_enable_opp_high_speed_dialog_positive">Reiniciar</string>
+    <string name="bluetooth_enable_opp_high_speed_dialog_title">Reiniciar Bluetooth</string>
     <string name="bluetooth_enable_opp_high_speed_summary">Usa protocolos Bluetooth P2P de alta velocidad para transferencias</string>
     <string name="bluetooth_enable_page_scan">habilitar escaneo de página bluetooth</string>
     <string name="bluetooth_enable_page_scan_summary">deshabilitar/habilitar la exploración de páginas para la prueba de Bluetooth</string>
@@ -3019,6 +3023,8 @@ Si el problema persiste, desinstala la aplicación para mejorar el rendimiento d
     <string name="dpp_sharing_wifi_summary">Compartiendo Wi-Fi…</string>
     <string name="dpp_theme_title">Wi-Fi compartido</string>
     <string name="draw_overlay">Mostrar sobre otras aplicaciones</string>
+    <string name="dsda_switch_summary">Permitir que simultáneamente ambas SIM usen los datos moviles y hagan llamadas</string>
+    <string name="dsda_switch_title">Modo dual activo</string>
     <string name="dsds_activation_failure_body_msg1">Retire la SIM y vuelva a insertarla. Si el problema continúa, reinicia tu dispositivo.</string>
     <string name="dsds_activation_failure_body_msg2">Intente encender la SIM nuevamente. Si el problema continúa, reinicia tu dispositivo.</string>
     <string name="dsds_activation_failure_title">No se puede activar la SIM</string>
@@ -3374,7 +3380,8 @@ Reinicie su dispositivo y vuelva a intentarlo."</string>
     <string name="face_unlock_offset_right">Muévete a la izquierda</string>
     <string name="face_unlock_offset_top">Sube un poco el teléfono</string>
     <string name="face_unlock_open_eye">Abre los ojos un poco más</string>
-    <string name="face_unlock_prompt">Aviso de desbloqueo facial</string>
+    <string name="face_unlock_prompt">"Grabar datos faciales
+mirando a la pantalla externa"</string>
     <string name="face_unlock_quality">"Tu cara no se ve claramente"</string>
     <string name="face_unlock_reveal_eye">Tus ojos deben estar visibles</string>
     <string name="face_unlock_reveal_mouth">Tus labios deben estar visibles</string>
@@ -3693,6 +3700,8 @@ No parecía que en aquel lugar hubiese caballos ni animales de ningún tipo, pue
 Esta función solo funciona cuando la navegación del sistema está configurada en gestos."</string>
     <string name="freeform_guide_slide_to_small_freeform_summary_pad">Arrastra la esquina para minimizar una aplicación</string>
     <string name="freeform_guide_slide_to_small_freeform_summary_pad_global">Arrastra la esquina para minimizar una aplicación</string>
+    <string name="freeform_guide_slide_to_small_freeform_summary_squarehot">"Mantén presionada la parte inferior de la ventana y arrástrala hasta el borde superior de la pantalla.
+Esta función solo funciona cuando la navegación del sistema está configurada en gestos."</string>
     <string name="freeform_guide_slide_to_small_freeform_title">Minimizar una aplicación</string>
     <string name="freeform_guide_slide_up_to_close_summary">Desliza hacia arriba en la barra de acción de una ventana flotante</string>
     <string name="freeform_guide_slide_up_to_close_title">Cerrar ventanas flotantes</string>
@@ -4044,6 +4053,7 @@ Abre Xiaomi Cloud y restaura elementos desde allí."</string>
     <string name="imei_information_summary">Información relacionada con el IMEI</string>
     <string name="imei_information_title">Información del IMEI</string>
     <string name="imei_multi_sim">IMEI (ranura SIM %1$d)</string>
+    <string name="imei_multi_sim_softbank">IMEI %1$d</string>
     <string name="imitate_real_keyboard">Teclado tradicional</string>
     <string name="imitate_real_keyboard_summary">Útil cuando el dispositivo está apoyado en una superficie plana</string>
     <string name="immediately_destroy_activities">"No guardes actividades"</string>
@@ -4550,6 +4560,7 @@ Abre Xiaomi Cloud y restaura elementos desde allí."</string>
     <string name="location_category_location_services">Servicios de ubicación</string>
     <string name="location_category_recent_location_access">Acceso reciente a la ubicación</string>
     <string name="location_category_recent_location_requests">Solicitudes de ubicación recientes</string>
+    <string name="location_description_no_gps">"Dispositivo no compatible con la navegación por satélite. La información de ubicación obtenida mediante los datos de la red puede ser insuficiente para algunas características."</string>
     <string name="location_gps">Satélites GPS</string>
     <string name="location_high_battery_use">Uso de batería elevado</string>
     <string name="location_indicator_settings_description">Mostrar para todas las ubicaciones, incluida la red y la conectividad</string>
@@ -5173,6 +5184,7 @@ No podrá revertir esta acción."</string>
     <string name="miheadset_auto_ack_mode">"Responde llamadas automáticamente mientras usas los auriculares"</string>
     <string name="miheadset_auto_ack_mode_summary">Contesta llamadas automáticamente</string>
     <string name="miheadset_auto_answer_call">Responde las llamadas automáticamente</string>
+    <string name="miheadset_auto_upgrade_reminder">Desactivar las actualizaciones automáticas y volver a buscar actualizaciones</string>
     <string name="miheadset_bluetooth_audio_title">Frecuencia de muestreo de audio Bluetooth LC3plus</string>
     <string name="miheadset_bright">Brillante</string>
     <string name="miheadset_call_assist">Mi IA</string>
@@ -5304,7 +5316,7 @@ No podrá revertir esta acción."</string>
     <string name="miui_allow_light">Luz de notificaciones</string>
     <string name="miui_allow_music">Multimedia</string>
     <string name="miui_allow_vibrate">Vibraciones</string>
-    <string name="miui_bubbles_notification">Burbuja de notificaciones</string>
+    <string name="miui_bubbles_notification">Burbujas de conversación</string>
     <string name="miui_bubbles_notification_status_opened">Activada</string>
     <string name="miui_data_usage_menu_metered">Puntos de acceso móviles</string>
     <string name="miui_experience_optimization">Activar optimización MIUI</string>
@@ -7971,6 +7983,7 @@ Es posible que el PIN no sea correcto."</string>
     <string name="sim_signal_strength">%1$d dBm %2$d asu</string>
     <string name="sim_status_title">Estado de la SIM</string>
     <string name="sim_status_title_sim_slot">Estado de la SIM (ranura SIM %1$d)</string>
+    <string name="sim_status_title_sim_softbank">Estado de la SIM %1$d</string>
     <string name="sim_switch_button">Cambiar</string>
     <string name="sim_switch_channel_id">Cambio de operador</string>
     <string name="sim_vonr_title">SIM %1$s (%2$s)</string>
@@ -8223,6 +8236,7 @@ Esto es posible por una credencial de confianza instalada en tu dispositivo."</s
     <string name="status_msid_number">MSID</string>
     <string name="status_number">Número de teléfono</string>
     <string name="status_number_sim_slot">Número de teléfono (ranura SIM %1$d)</string>
+    <string name="status_number_sim_softbank">Número de teléfono %1$d</string>
     <string name="status_number_sim_status">Número de teléfono de la SIM</string>
     <string name="status_operator">Red</string>
     <string name="status_prl_version">Versión de PRL</string>
@@ -8579,6 +8593,7 @@ Prueba a utilizar una ^3 más rápida o utiliza esta ^4 como almacenamiento port
     <string name="sunday">Domingo</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
+    <string name="sunlight_low_power_notification">"No se puede activar el modo luz solar. Queda muy poca batería."</string>
     <string name="sunlight_mode">Modo diurno</string>
     <string name="sunlight_mode_summary">Ajuste el brillo a una luz ambiental fuerte para evitar que la pantalla se oscurezca demasiado</string>
     <string name="supl_not_set">&lt;No configurado&gt;</string>

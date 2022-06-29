@@ -576,7 +576,6 @@ y ajustar las preferencias automáticamente"</string>
     <string name="custom_tint_color_select">Personalizar colores</string>
     <string name="custom_tint_color_sky_blue">Azul</string>
     <string name="custom_tint_color_sky_cyan">Cian</string>
-    <string name="custom_watermark_contains_senstive_words">"Las marcas de agua no pueden contener términos restringidos (%1$s)"</string>
     <string name="custom_watermark_tips">Este texto aparecerá en la segunda línea de su marca de agua. Puede contener hasta 18 letras o 14 caracteres chinos.</string>
     <string name="custom_watermark_tips_gen2">Hasta %1$d caracteres chinos o %2$d letras.</string>
     <string name="custom_watermark_too_many_words">El texto introducido es demasiado largo</string>

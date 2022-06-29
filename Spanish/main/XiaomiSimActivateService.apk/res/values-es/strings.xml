@@ -216,6 +216,7 @@ Introduce el número de teléfono asociado con tu nueva tarjeta SIM para reactiv
     <string name="search_menu_title">Buscar</string>
     <string name="send">Enviar</string>
     <string name="sim_activate_failed">"No se pudo activar el servicio"</string>
+    <string name="sim_activate_notificat_channel">Notificaciones de activación</string>
     <string name="sim_activate_prepare">Activar servicio</string>
     <string name="sim_activated_failed_msg">"No se pudo activar el servicio. Pulsa para volver a intentarlo."</string>
     <string name="sim_unactivated_feature_title">"\"%s\" no se activó"</string>

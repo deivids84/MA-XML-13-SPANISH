@@ -703,6 +703,7 @@ Selección"</string>
     <string name="data_enable_summary">Permitir a este dispositivo utilizar datos móviles</string>
     <string name="data_enable_warning">Permitir siempre usar datos móviles podría generar gastos adicionales a su plan. ¿Conectar de todas formas?</string>
     <string name="data_enabled">Datos móviles</string>
+    <string name="data_interruption_remind">"Parece que el entorno de la red no es fiable. Para mejor conexión, permite a tu dispositivo usar datos móviles durante las llamadas VoLTE en la SIM secundaria."</string>
     <string name="data_plan">Planes de datos móviles</string>
     <string name="data_usage_disable_mobile">¿Deseas desactivar los datos móviles?</string>
     <string name="data_usage_ota">Actualizaciones del sistema</string>
@@ -1132,6 +1133,11 @@ Aún puedes realizar llamadas de emergencia.\"</string>
     <string name="ivr_type_ct_2">Cliente de China Telecom</string>
     <string name="ivr_type_settings">Configuración del plan de datos</string>
     <string name="ivr_type_settings_hint">Introduzca su código de plan de datos</string>
+    <string name="jp_sb_label_ndp">"está insertada la USIM de otro operador
+esperando para el código de desbloqueo"</string>
+    <string name="jp_sb_sim_lock_unlock_psw_max_length">El código de desbloqueo tiene menos de 8 dígitos o más de 16</string>
+    <string name="jp_sb_unlock_failed">Error de verificación del código de desbloqueo.</string>
+    <string name="jp_sb_unlock_success">Código de desbloqueo verificado.</string>
     <string name="jump_to_mobile_network_setting">Ajustes de redes móviles</string>
     <string name="keep_screen_on">Permanecer activo</string>
     <string name="keep_screen_on_summary">La pantalla nunca quedará inactiva mientras el dispositivo se esté cargando.</string>

@@ -277,7 +277,7 @@
     <string name="morning">Mañana</string>
     <string name="msim_select_default_last">Usado recientemente</string>
     <string name="msim_select_default_time_left">(%d s)</string>
-    <string name="multi_call_manager_other_calls">otras llamadas (%1$d)</string>
+    <string name="multi_call_manager_other_calls">Otras llamadas (%1$d)</string>
     <string name="night">Tarde</string>
     <string name="noon">Mediodía</string>
     <string name="notification_action_accept">Aceptar</string>

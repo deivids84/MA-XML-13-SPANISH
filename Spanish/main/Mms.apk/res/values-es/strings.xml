@@ -1204,6 +1204,7 @@ Echa un vistazo a los recomendados!"</string>
     <string name="status_unread">No leído</string>
     <string name="stick">Anclar</string>
     <string name="stick_conversation">Anclar conversación actual</string>
+    <string name="sticked">Anclado</string>
     <string name="sticked_conversation">Conversación ya anclada</string>
     <string name="storage_dialog_attachments">Adjuntos de MMS:</string>
     <string name="storage_dialog_available_space">Espacio disponible:</string>
@@ -1393,6 +1394,7 @@ Intentos realizados: %s."</string>
     <string name="unknown_sender">Remitente desconocido</string>
     <string name="unstick">Desanclar</string>
     <string name="unstick_conversation">Desanclar conversación actual</string>
+    <string name="unsticked">Desanclado</string>
     <string name="unsticked_conversation">Conversación ya desanclada</string>
     <string name="unsubscribe">Darse de baja</string>
     <string name="unsupported_media_format">Formato %1$s no admitido.</string>
