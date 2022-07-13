@@ -1236,6 +1236,7 @@ esperando para el código de desbloqueo"</string>
     <string name="location">Área</string>
     <string name="lodgings_disable">Alojamientos inhabilitados</string>
     <string name="lodgings_enable">Alojamientos habilitados</string>
+    <string name="low_battery_flash_when_ring_button_tip">"No se puede usar el flash cuando suena debido a la batería baja"</string>
     <string name="main_netcheck_summary">Probar conexión para detectar fallos de red</string>
     <string name="maintenance_disable">Mantenimiento inhabilitado</string>
     <string name="maintenance_enable">Mantenimiento habilitado</string>
@@ -1478,7 +1479,7 @@ esperando para el código de desbloqueo"</string>
     <string name="msim_setting_sim_info_editor_title">Editar información de la SIM</string>
     <string name="msim_sim_lock">Bloqueado</string>
     <string name="msim_sim_radio_off">Desactivada</string>
-    <string name="msim_switch_data_conn_toast">Tarjetas SIM intercambiadas. El tipo de red ha cambiado. Ver información adicional en tarjetas SIM y redes móviles en el menú Ajustes.</string>
+    <string name="msim_switch_data_conn_toast">Tarjetas SIM intercambiadas. Tipo de red cambiado.</string>
     <string name="msim_switch_data_conn_toast_for_h2xct">La ranura 2 de la SIM sólo soporta redes GSM. El tipo de red preferida ha sido cambiado a sólo redes 2G.</string>
     <string name="mtn_simlock_emergency">Emergencia</string>
     <string name="mtn_simlock_text_tip">La tarjeta SIM insertada no cumple con el requisito. Debe insertar una tarjeta SIM requerida por el contrato antes de usar el teléfono. Para obtener más información, comuníquese con su operador local.</string>

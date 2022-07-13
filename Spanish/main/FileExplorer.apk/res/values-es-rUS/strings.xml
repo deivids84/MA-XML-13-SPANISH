@@ -320,6 +320,8 @@
     <string name="item_view_role_description">Pestaña</string>
     <string name="just_now">Justo ahora</string>
     <string name="kilobyteShort">kB</string>
+    <string name="lack_perm_msg">Administrador de archivos necesita los siguientes permisos para funcionar con normalidad: &lt;b&gt;%s&lt;/b&gt;</string>
+    <string name="lack_perm_title">Permisos requeridos</string>
     <string name="launcher_icon_add_description">Añadir un acceso directo en la pantalla de inicio</string>
     <string name="launcher_icon_remove_description_content">"File Manager es una aplicación del sistema. No podrá administrar archivos en su dispositivo después de eliminar el acceso directo de la pantalla de inicio."</string>
     <string name="launcher_icon_remove_description_title">¿Eliminar \"Administrador de archivos\" de la pantalla de inicio?</string>
@@ -330,6 +332,9 @@
     <string name="local_image">Imágenes</string>
     <string name="local_music">Archivos de audio</string>
     <string name="local_video">Archivos de video</string>
+    <string name="main_button_continue">Ajustes</string>
+    <string name="main_button_ok">OK</string>
+    <string name="main_button_quit">Cancelar</string>
     <string name="make_private">Hacer privado</string>
     <string name="make_private_msg_1">¿Hacer este archivo privado?</string>
     <string name="make_private_msg_2">¿Hacer que estos archivos sean privados?</string>
@@ -348,6 +353,7 @@
     <string name="menu_item_sort_type">Tipo</string>
     <string name="menu_item_usb">USB</string>
     <string name="menu_set_wallpaper">Establecer como fondo de pantalla</string>
+    <string name="message_request_manage_external_storage_perm">Administrador de archivos necesita permiso de acceso a los archivos del dispositivo para poderlos administrar. Puedes otorgar este permiso en Configuración.</string>
     <string name="mi_router_label">Router</string>
     <string name="mi_share">Mi Share</string>
     <string name="midnight">Noche</string>
@@ -549,6 +555,7 @@
     <string name="partial_encrypt_success">"No se pudo hacer que algunos archivos fueran privados. Vuelve a intentarlo."</string>
     <string name="password_toggle_content_description">Mostrar contraseña</string>
     <string name="path_name_email">Correo electrónico</string>
+    <string name="perm_manage_external_storage">Acceder a todos los archivos</string>
     <string name="permission_denial">"No se pudo acceder a los archivos. Permita al Administrador acceder a los archivos en Ajustes."</string>
     <string name="permission_description">Detalles de permisos</string>
     <string name="permission_required">"No se pudo acceder a los archivos. Permita al Administrador acceder a los archivos en Ajustes"</string>
@@ -764,6 +771,7 @@
     <string name="title_app_tags">Aplicaciones</string>
     <string name="title_expire_video">A punto de expirar</string>
     <string name="title_recent">Recientes</string>
+    <string name="title_request_manage_external_storage_perm">Permisos requeridos</string>
     <string name="title_select_volume">Seleccionar carpeta</string>
     <string name="to_open">Ajustes</string>
     <string name="to_setting">Ajustes</string>

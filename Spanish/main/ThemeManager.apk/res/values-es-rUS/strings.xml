@@ -1456,6 +1456,7 @@ Puede otorgar este permiso en Configuración &gt; Privacidad."</string>
     <string name="wallpaper_apply_inner">Aplicar a la pantalla interior</string>
     <string name="wallpaper_apply_large">Pantalla interior</string>
     <string name="wallpaper_apply_outer">Aplicar a la pantalla exterior</string>
+    <string name="wallpaper_apply_outer_and_inner">Aplicar a las pantallas interna y externa</string>
     <string name="wallpaper_apply_pcmode">Establecer fondo de pantalla en modo PC</string>
     <string name="wallpaper_apply_small">Pantalla exterior</string>
     <string name="wallpaper_crop">Recortar</string>

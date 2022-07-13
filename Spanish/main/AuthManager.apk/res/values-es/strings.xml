@@ -161,8 +161,8 @@
     <string name="blur_location_title">Ubicación aproximada</string>
     <string name="cetus_invisible_mode_notice_audio">"Estás en incógnito. No puedes usar el micrófono ahora."</string>
     <string name="cetus_invisible_mode_notice_camera">"Estás incógnito. No puedes usar la cámara ahora."</string>
-    <string name="cetus_invisible_mode_notice_location">"Estás en incógnito. No puedes usar los servicios de ubicación ahora."</string>
-    <string name="cetus_invisible_mode_notice_tip">Pulse para desactivar el modo Incognito en los ajustes</string>
+    <string name="cetus_invisible_mode_notice_location">"Estás en incógnito. No puedes usar la ubicación ahora."</string>
+    <string name="cetus_invisible_mode_notice_tip">Pulsa para desactivar el modo incógnito</string>
     <string name="clearable_edittext_clear_description">Eliminar</string>
     <string name="clipboard_ai_allow_once">Has permitido a %1$s acceder a elementos en el portapapeles automáticamente</string>
     <string name="clipboard_data">"Contenido: "</string>

@@ -113,6 +113,7 @@
     <string name="at_least_one">Seleccione al menos una categoría</string>
     <string name="auth_fail_warning">Sesión caducada. Vuelve a iniciar sesión.</string>
     <string name="auto_interval">Cada vez que el dispositivo se desbloquea</string>
+    <string name="back">Atrás</string>
     <string name="back_icon_content_description">Atrás</string>
     <string name="bind_sign_in_title">Añadir cuenta</string>
     <string name="cancel">Cancelar</string>
@@ -148,6 +149,7 @@
     <string name="clear_text_end_icon_content_description">Borrar texto</string>
     <string name="clearable_edittext_clear_description">Limpiar</string>
     <string name="close">Cerrar</string>
+    <string name="close_country_code_content_description">Eliminar código de país</string>
     <string name="close_gallery">Desactivado</string>
     <string name="collect_diagnosis_log">Recoger registros</string>
     <string name="comment_pop_cancel">Ahora no</string>
@@ -275,6 +277,7 @@ Envíe este código al supervisor."</string>
     <string name="exposed_dropdown_menu_content_description">Mostrar menú desplegable</string>
     <string name="external_storage_permission">Acceder al almacenamiento</string>
     <string name="external_storage_permission_summary">Para seleccionar fondos de pantalla personalizados y guardar elementos descargados</string>
+    <string name="facebook_login_btn_content_description">Iniciar sesión con Facebook</string>
     <string name="failed_dup_secure_phone_number">Este número de teléfono ya está asociado a otra Cuenta Mi</string>
     <string name="favor_list_no_data">No hay elementos aquí.</string>
     <string name="favor_list_title">Favoritos</string>
@@ -299,6 +302,7 @@ Envíe este código al supervisor."</string>
     <string name="get_ph_ticket">Obtener el código</string>
     <string name="get_phone_bind_exceed_limit">"Puede asociar hasta 3 Cuentas Mi con un número de teléfono. No puede añadir nuevas cuentas."</string>
     <string name="get_phone_verifycode_exceed_limit">Se han enviado demasiados códigos de verificación a este número. Espera 24 horas e inténtalo de nuevo.</string>
+    <string name="google_login_btn_content_description">Iniciar sesión con Google</string>
     <string name="goto_confirm">Ajustes</string>
     <string name="goto_sign_up">Crear cuenta</string>
     <string name="header_help">Ayuda</string>
@@ -721,6 +725,7 @@ mm"</string>
     <string name="pull_to_refresh_pull_up_label">Tire hacia arriba para actualizar</string>
     <string name="pull_to_refresh_refreshing_label">Refrescante…</string>
     <string name="pull_to_refresh_release_label">Suéltelo para actualizar</string>
+    <string name="qq_login_btn_content_description">Iniciar sesión con QQ</string>
     <string name="recommend_switch_desc">Reciba recomendaciones de contenido según sus preferencias</string>
     <string name="recommend_switch_dlg_close">Apagar</string>
     <string name="recommend_switch_dlg_desc">"No podrá recibir recomendaciones basadas en sus preferencias si desactiva esta función."</string>
@@ -1064,6 +1069,8 @@ mm"</string>
     <string name="wednesday">Miércoles</string>
     <string name="wednesday_short">Mié</string>
     <string name="wednesday_shortest">Mié</string>
+    <string name="weibo_login_btn_content_description">Iniciar sesión con Weibo</string>
+    <string name="weixin_login_btn_content_description">Iniciar sesión con WeChat</string>
     <string name="wlan_download">Actualizar solo por Wi-Fi</string>
     <string name="wlan_download_cn">Actualizar solo por Wi-Fi</string>
     <string name="wm_storage_left">"Restante: "</string>

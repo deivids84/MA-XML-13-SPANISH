@@ -153,6 +153,7 @@
     <string name="flip_screen_camera_tip">Gire el dispositivo para usar la cámara</string>
     <string name="flute">Flauta</string>
     <string name="fm_record_smaple_prefix_miui">Grabación FM</string>
+    <string name="fold_small_not_split">"La pantalla dividida no es compatible en la pantalla externa"</string>
     <string name="force_exit_message">Cierre forzado %1$s</string>
     <string name="force_exit_skip_message">"No se puede cerrar %1$s porque lo requiere el sistema."</string>
     <string name="fourhours">2 horas</string>
@@ -269,10 +270,18 @@
     <string name="monet">Estanque de lirios</string>
     <string name="morning">Mañana</string>
     <string name="mountainspring">Primavera de montaña</string>
+    <string name="mw_guide_dialog_button_confirm">Entendido</string>
+    <string name="mw_guide_dialog_message">"Parece que esta aplicación no soporta ventanas paralelas. Cambiado a otro formato compatible."</string>
+    <string name="mw_guide_dialog_title">"Las ventanas paralelas no están soportadas"</string>
     <string name="nearby_share">Compartir con Nearby</string>
     <string name="notice_audition">Sonidos de la naturaleza</string>
     <string name="notification_channel_hotspot">Notificación de hotspot</string>
     <string name="notificationxylophone">Notificación (xilófono)</string>
+    <string name="nps_ContentText">Tocar para ver los detalles</string>
+    <string name="nps_ContentTitle">Buscando GPS</string>
+    <string name="nps_description">notificación de estado gps</string>
+    <string name="nps_mock_description">usando ubicación virtual, para restaurar hay que reiniciar</string>
+    <string name="nps_monitor_name">Ubicación GPS</string>
     <string name="nubia">Nubia</string>
     <string name="nubia_phone">Nubia</string>
     <string name="onehour">30 minutos</string>

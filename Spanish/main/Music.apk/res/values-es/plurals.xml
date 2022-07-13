@@ -127,8 +127,8 @@ Nota: El archivo también será eliminado de este dispositivo."</item>
         <item quantity="one">¿Quitar %d canción?</item>
     </plurals>
     <plurals name="dialog_request_delete_permission_descript">
-        <item quantity="other">%d de las canciones seleccionadas se almacenan en una carpeta externa. Otorgue los permisos necesarios para eliminarlos.</item>
-        <item quantity="one">%d de las canciones seleccionadas se almacena en una carpeta externa. Otorgue los permisos necesarios para eliminarlo.</item>
+        <item quantity="other">%d de las canciones seleccionadas se almacenan en una carpeta externa. Otorga los permisos necesarios para eliminarlas.</item>
+        <item quantity="one">%d de las canciones seleccionadas se almacena en una carpeta externa. Otorga los permisos necesarios para eliminarla.</item>
     </plurals>
     <plurals name="download_finished">
         <item quantity="other">&lt;font color=\"red\"&gt;%d canciones&lt;/font&gt; descargadas</item>
@@ -227,8 +227,8 @@ Nota: El archivo también será eliminado de este dispositivo."</item>
         <item quantity="one">%d canción</item>
     </plurals>
     <plurals name="sound_fade_duration_in_seconds">
-        <item quantity="other">Crossfade entre canciones: %d segundos</item>
-        <item quantity="one">Crossfade entre canciones: %d segundo</item>
+        <item quantity="other">Desvanecimiento entre canciones: %d segundos</item>
+        <item quantity="one">Desvanecimiento entre canciones: %d segundo</item>
     </plurals>
     <plurals name="video_count">
         <item quantity="other">Vídeos</item>

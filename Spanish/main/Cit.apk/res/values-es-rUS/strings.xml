@@ -51,6 +51,12 @@ Antes de calibrar el dispositivo, colócalo en una superficie plana."</string>
 Sostenga el dispositivo como si estuviera haciendo una llamada, hable al micrófono principal, debería escuchar la voz del receptor"</string>
     <string name="cit_batterylight_rgb_all">Todos los efectos de luz</string>
     <string name="cit_calibration_finish">Calibración de datos completada</string>
+    <string name="cit_camera_check_summary">"Instrucciones de prueba:
+
+1. Toca el botón de la cámara para ingresar a la interfaz de vista previa de la cámara
+2. Toca el botón del obturador
+3. El sistema guardará la foto automáticamente después de la captura
+4. La foto que tomó debe mostrarse en la pantalla, toque Pase para completar la prueba."</string>
     <string name="cit_camera_otp_download_title">Prueba de descarga de cámara OTP</string>
     <string name="cit_charger_test_tips_pd">El dispositivo actual necesita probar USB_PD</string>
     <string name="cit_cust_img_version">Consultar información de la versión de CUST</string>
@@ -77,6 +83,7 @@ No apague la pantalla durante la prueba"</string>
     <string name="cit_proximity_sensor_check_summary">"Cubra el sensor de proximidad (situado en la parte superior del dispositivo cerca del receptor) con su mano, luego mueva la mano. El valor debe aumentar a partir de 0.0 al mover la mano más lejos del dispositivo.
 Al calibrar, asegúrate de que no hay nada entre el sensor y tu mano (por ejemplo, pantalla de protección o guantes)."</string>
     <string name="cit_reverse_wireless_charge_check_tips">Por favor, ponga el dispositivo a cargar según sea necesario y empiece a probar</string>
+    <string name="cit_soft_light_check_title">Luz suave</string>
     <string name="cit_tool_current_size">Tamaño actual</string>
     <string name="cit_tool_gps_path_loss_test_request_location">solicitar ubicación</string>
     <string name="cit_tool_gps_path_loss_title">Herramienta de prueba para pérdida de ruta Gnss</string>
@@ -106,6 +113,7 @@ haga clic en el botón para cambiar el modo táctil al modo THP o al modo FW"</s
     <string name="cit_uwb_calibrate_title">Prueba de calibración UWB</string>
     <string name="cit_wifi_address_check_summary">A continuación se muestra la dirección de la red Wi-Fi a la que el dispositivo está conectado actualmente. Confirme que la información resaltada en verde es correcta.</string>
     <string name="close_third_color_led">cerrar led de tres colores</string>
+    <string name="cold_light_title">Luz fría</string>
     <string name="edittextdisplay">"
 \u0009\u0009\u0009Welcome to sar tool ! 
 \u0009\u0009\u0009All permissions have been turned on 
@@ -144,8 +152,10 @@ Controlar el dispositivo cerca y lejos del dispositivo"</string>
 Haga clic en el botón \"Calibrar\"
 Después de calibrar con éxito, controle el dispositivo cerca y alejado del dispositivo"</string>
     <string name="search_menu_title">Buscar</string>
+    <string name="soft_light_title">Luz suave</string>
     <string name="tips_not_placed_right_angle">El dispositivo no está situado en el ángulo correcto</string>
     <string name="top_high_speaker_title">Prueba de tweeter superior</string>
     <string name="top_low_speaker_title">Prueba de woofer superior</string>
     <string name="top_mic_check_record_tip">Grabando, por favor diga algo a MIC en la parte superior del dispositivo</string>
+    <string name="warm_light_title">Luz cálida</string>
 </resources>

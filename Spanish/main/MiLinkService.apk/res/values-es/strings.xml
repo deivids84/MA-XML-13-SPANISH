@@ -199,10 +199,10 @@ Si necesitas activar Miracast, pulsa el botón [MENU] y selecciona Mis aplicacio
     <string name="help_page_text_55_global">"Si no puede conectarse a la red, asegúrese de que su monitor externo admita la funcionalidad Miracast y que esté encendido. En algunos modelos, esta función se llama Pantalla inalámbrica, Duplicación de pantalla o Pantallas múltiples.
 %1$d. Si encuentra algún problema, puede informarlo utilizando nuestra aplicación \"Comentarios de &amp;"</string>
     <string name="help_page_text_end">"Si la marca de tu dispositivo no está en la lista, contacta con el fabricante para conocer más sobre la funcionalidad de emisión."</string>
-    <string name="invisible_mode_dialog_content">"No puedes usar el casting cuando estás de incógnito. Primero desactiva el modo incógnito."</string>
-    <string name="invisible_mode_dialog_content_audio_relay">"No puedes transferir la reproducción cuando estás de incógnito. Primero desactiva el modo incógnito."</string>
+    <string name="invisible_mode_dialog_content">"No puedes transmitir cuando estás en incógnito. Primero desactiva el modo incógnito."</string>
+    <string name="invisible_mode_dialog_content_audio_relay">"No puedes transferir la reproducción cuando estás en incógnito. Primero desactiva el modo incógnito."</string>
     <string name="invisible_mode_dialog_pos">Desactivar</string>
-    <string name="invisible_mode_dialog_title">"Estás de incógnito"</string>
+    <string name="invisible_mode_dialog_title">"Estás en modo incógnito"</string>
     <string name="keyguard_security_setting_privacy_policy">Política de Privacidad</string>
     <string name="midnight">Noche</string>
     <string name="miuix_access_state_desc">Seleccionado</string>
@@ -445,7 +445,7 @@ Lee y acepta nuestro &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &
     <string name="time_picker_label_minute">min</string>
     <string name="toast_guide_show_more">Aprender más</string>
     <string name="toast_guide_title">Conoce nuestras nuevas funciones aquí</string>
-    <string name="toast_invisible_mode">"Estás de incógnito. No se puede utilizar la transmisión ahora."</string>
+    <string name="toast_invisible_mode">"Estás en incógnito. No puedes utilizar la transmisión ahora."</string>
     <string name="toast_invisible_mode1">"La transmisión no funcionará cuando estés de incógnito"</string>
     <string name="toast_msg_for_multi_window">"No puede usar esta función con la Pantalla dividida"</string>
     <string name="toast_msg_for_small_window">"Puedes minimizar la ventana que está siendo emitida para poder usar otras funciones en tu teléfono sin interrumpir la emisión."</string>

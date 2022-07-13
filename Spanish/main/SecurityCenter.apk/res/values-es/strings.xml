@@ -996,6 +996,7 @@ No perderás ningún dato de la aplicación."</string>
     <string name="btn_text_quick_save_power">Enfriar</string>
     <string name="btn_text_quick_scan">Escanear</string>
     <string name="btn_text_stop">Detener</string>
+    <string name="bubble_app_empty_page">"No se han encontrado aplicaciones en el dispositivo que soporten las burbujas de conversación"</string>
     <string name="bubble_app_manage">Administrar las burbujas de conversación</string>
     <string name="bubble_notification">Burbujas de conversación</string>
     <string name="bubble_notification_switch">Mostrar las burbujas de conversación</string>
@@ -1086,8 +1087,8 @@ No perderás ningún dato de la aplicación."</string>
     <string name="cetus_invisible_mode">Incógnito</string>
     <string name="cetus_invisible_mode_description_card">Suspender permisos</string>
     <string name="cetus_invisible_mode_description_switch">Actívelo para suspender los permisos relacionados con el micrófono, la cámara y la ubicación para todas las aplicaciones</string>
-    <string name="cetus_invisible_mode_warn_all">"Está en incógnito. Los permisos de micrófono, cámara y ubicación están suspendidos."</string>
-    <string name="cetus_invisible_mode_warn_camera">"Está en incógnito. Los permisos de la cámara están suspendidos."</string>
+    <string name="cetus_invisible_mode_warn_all">"Estás en incógnito. Los permisos de micrófono, cámara y ubicación están suspendidos."</string>
+    <string name="cetus_invisible_mode_warn_camera">"Estás en incógnito. Los permisos de la cámara están suspendidos."</string>
     <string name="cetus_invisible_mode_warn_location">"Está en incógnito. Los permisos de ubicación están suspendidos."</string>
     <string name="cetus_invisible_mode_warn_open">El modo de incógnito suspende los permisos relacionados con el micrófono, la cámara y la ubicación para todas las aplicaciones. ¿Encender ahora?</string>
     <string name="cetus_invisible_mode_warn_record_audio">"Está en incógnito. Los permisos de micrófono están suspendidos."</string>
@@ -2045,6 +2046,7 @@ Record sequences and use them anytime!"</string>
     <string name="gb_new_feature">Nueva función</string>
     <string name="gb_not_support_on_device">"Esta aplicación no se puede utilizar en la pantalla externa"</string>
     <string name="gb_operat_frequently">¡No tan rápido!</string>
+    <string name="gb_performace_guide_disable_desc"><Data>\"No puedes cambiar al modo Equilibrado de Game Turbo cuando está activado el modo Rendimiento del sistema. Puedes cambiar la configuración de batería en Seguridad.&lt;br&gt;&lt;a href=\"#\"&gt;Abrir Seguridad&lt;/a&gt;\"</Data></string>
     <string name="gb_performance_balance">Equilibrado</string>
     <string name="gb_performance_balance_tips">"El modo equilibrado ahorra energía
 mientras reduce la frecuencia de actualización y los límites de temperatura"</string>
@@ -4726,9 +4728,9 @@ Para usar esta ^1 primero debes activarla."</string>
     <string name="storage_dialog_unsupported">"Este dispositivo no soporta esta ^1.
 
 Para usar esta ^1 con este dispositivo primero tienes que configurarla."</string>
-    <string name="storage_fbo_clear">Desfragmentación</string>
-    <string name="storage_fbo_des">"El almacenamiento interno sufre fragmentación, lo que podría ralentizar significativamente tu dispositivo. La desfragmentación se ejecuta automáticamente cuando no estás usanto el dispositivo. Organiza físicamente tus archivos en la menor cantidad de fragmentos, lo que reduce el retraso."</string>
-    <string name="storage_fbo_number_tip">Fusionado en %1$s</string>
+    <string name="storage_fbo_clear">Actualizar almacenamiento FBO</string>
+    <string name="storage_fbo_des">"El almacenamiento se fragmenta y se puede ralentizar el dispositivo. La optimización basada en archivos los organiza, mientras no usas el dispositivo, en el menor número de fragmentos, lo que reduce el retraso."</string>
+    <string name="storage_fbo_number_tip">Procesado el %1$s</string>
     <string name="storage_fbo_tools">Optimización de almacenamiento</string>
     <string name="storage_file_delete_tip">¿Eliminar los elementos seleccionados de forma permanente? Algunos de ellos pueden volver a cargarse cuando sea necesario.</string>
     <string name="storage_file_dialog_delete_title">Eliminar elementos</string>

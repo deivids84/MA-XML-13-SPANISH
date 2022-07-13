@@ -775,6 +775,9 @@ Si vuelves a activar el uso de datos, es posible que se apliquen cargos."</strin
     <string name="device_locked_without_biometric_face">"No se puede desbloquear este dispositivo con datos faciales cuando estás usando un bloqueo de pantalla de terceros"</string>
     <string name="device_locked_without_biometric_finger">"No se puede desbloquear este dispositivo con huellas dactilares cuando estás usando un bloqueo de pantalla de terceros"</string>
     <string name="device_services">Servicios del dispositivo</string>
+    <string name="dialog_forget_password_cancel">Cancelar</string>
+    <string name="dialog_forget_password_message">Si olvidaste tu código PUK, puedes deshabilitar esta eSIM para no perder el acceso al dispositivo. Después, puedes comunicarte con tu operadora para obtener ayuda.</string>
+    <string name="dialog_forget_password_ok">Deshabilitar</string>
     <string name="direct_boot_unaware_dialog_message">"Nota: Después de reiniciar, esta aplicación no se iniciará hasta que desbloquee su dispositivo."</string>
     <string name="disable_carrier_button_text">Inhabilita la tarjeta eSIM</string>
     <string name="disable_overlays">Desactivar superposición HW</string>
@@ -914,6 +917,7 @@ Introduzca su PIN para desbloquear."</string>
     <string name="force_rtl_layout_all_locales_summary">Forzar dirección del diseño de la pantalla a RTL para todo</string>
     <string name="forced_resizable_secondary_display">Es posible que la aplicación no funcione en una pantalla secundaria.</string>
     <string name="forget_password_string">Olvidé la contraseña</string>
+    <string name="forget_password_string_for_esim"><u>Olvidé el código PUK</u></string>
     <string name="friday">Viernes</string>
     <string name="friday_short">Vie</string>
     <string name="friday_shortest">Vie</string>

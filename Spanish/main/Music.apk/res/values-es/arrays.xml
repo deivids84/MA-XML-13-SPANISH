@@ -70,12 +70,12 @@
         <item>grupo</item>
     </string-array>
     <string-array name="recommendation_desc_week">
-        <item>Resomendaciones del domingo</item>
-        <item>Resomendaciones del lunes</item>
-        <item>Resomendaciones del martes</item>
+        <item>Recomendaciones del domingo</item>
+        <item>Recomendaciones del lunes</item>
+        <item>Recomendaciones del martes</item>
         <item>Recomendaciones del miércoles</item>
-        <item>Resomendaciones del jueves</item>
+        <item>Recomendaciones del jueves</item>
         <item>Recomendaciones del viernes</item>
-        <item>Resomendaciones del sábado</item>
+        <item>Recomendaciones del sábado</item>
     </string-array>
 </resources>

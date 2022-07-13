@@ -1734,6 +1734,7 @@ Si ya ha realizado alguna de las acciones anteriores, vuelva a agregar su Cuenta
     <string name="bootloader_tips_ok">Entendido</string>
     <string name="bootloader_tips_warning">"No se desconecte de la red, cierre sesión en su Cuenta Mi, realice una restauración de fábrica o elimine los datos del sistema."</string>
     <string name="bottom_function_settings">Funciones de botones adicionales.</string>
+    <string name="bottom_to_top_slide">Deslizar hacia arriba</string>
     <string name="bottomsheet_action_expand_halfway">Expandir a la mitad</string>
     <string name="breathing_light_color_menu_title">Color de luz</string>
     <string name="breathing_light_color_summary">Color de luz al recibir nuevas notificaciones</string>
@@ -3298,7 +3299,7 @@ Reinicie su dispositivo y vuelva a intentarlo."</string>
     <string name="ethernet">Ethernet</string>
     <string name="ethernet_data_template">Datos de Ethernet: ^1</string>
     <string name="ethernet_data_usage">Uso de datos de Ethernet</string>
-    <string name="ethernet_tether_checkbox_text">Conexión a Ethernet</string>
+    <string name="ethernet_tether_checkbox_text">Compartir por Ethernet</string>
     <string name="ethernet_tethering_subtext">Comparte la conexión a Internet del teléfono por USB Ethernet</string>
     <string name="evening">Tarde</string>
     <string name="every_day">Diario</string>
@@ -3343,7 +3344,7 @@ Reinicie su dispositivo y vuelva a intentarlo."</string>
     <string name="face_data_input_structure_title">Datos faciales 3D</string>
     <string name="face_data_input_title">Agregar datos faciales</string>
     <string name="face_data_introduction_add">Inicio</string>
-    <string name="face_data_introduction_msg">Los datos faciales pueden ser usados para desbloquear su dispositivo o verificar su identidad. Agregue una contraseña de bloqueo de pantalla antes de agregar datos faciales.</string>
+    <string name="face_data_introduction_msg">"El reconocimiento facial se puede usar para desbloquear el dispositivo o verificar tu identidad. Añade una contraseña en la pantalla de bloqueo antes de activar el reconocimiento facial."</string>
     <string name="face_data_introduction_next">Siguiente</string>
     <string name="face_data_introduction_title">Reconocimiento facial</string>
     <string name="face_data_manage_delete">¿Eliminar datos faciales?</string>
@@ -3359,7 +3360,7 @@ Reinicie su dispositivo y vuelva a intentarlo."</string>
     <string name="face_data_siggesstion_next_time_cn">OK (%ds)</string>
     <string name="face_data_suggesstion_first">El desbloqueo facial es menos seguro que un PIN, una contraseña o un patrón. Su dispositivo puede estar desbloqueado con su foto, así como por personas u objetos con una apariencia similar.</string>
     <string name="face_data_suggesstion_first_cn">Para que puedas usar el desbloqueo facial, necesitamos recopilar los datos de tu rostro que luego se almacenarán localmente en este dispositivo. Para eliminarlo, busca Desbloqueo facial en Configuración y luego selecciona Desbloqueo facial &gt; Datos faciales.</string>
-    <string name="face_data_suggesstion_first_cn_highlight">El desbloqueo facial es menos seguro que un PIN, una contraseña o un patrón. Tu dispositivo puede ser desbloqueado con tu foto, así como también por personas u objetos con una apariencia similar.</string>
+    <string name="face_data_suggesstion_first_cn_highlight">El reconocimiento facial es menos seguro que un código PIN, contraseña o patrón. El dispositivo se puede desbloquear con tu foto u otra persona con un buen parecido.</string>
     <string name="face_data_suggesstion_second">"Asegúrese de que todas las partes de su rostro sean claramente visibles. No use ningún accesorio que pueda cubrir su rostro. Mantenga su rostro iluminado uniformemente y evite la luz directa."</string>
     <string name="face_intro_error_max">Agregaste la cantidad máxima permitida de rostros</string>
     <string name="face_intro_error_unknown">No se pueden agregar más rostros</string>
@@ -3461,6 +3462,7 @@ Para obtener más información, comuníquese con su proveedor acreedor."</string
     <string name="finger_add_user_info_dialog_message">"Para que pueda utilizar el desbloqueo de huellas dactilares y realizar pagos con huellas dactilares, debemos recopilar su huella dactilar. La huella digital se almacenará localmente en este dispositivo. Para eliminarlo, busque \"Desbloqueo de huellas dactilares\" en la Configuración y luego seleccione Desbloqueo de &gt; Huella dactilar. No podrá utilizar esta función si no está de acuerdo."</string>
     <string name="finger_add_user_info_dialog_next">Aceptar</string>
     <string name="finger_add_user_info_dialog_title">Atención</string>
+    <string name="finger_detail_info_text">Cambiar nombre de huella dactilar</string>
     <string name="fingerprint_add_max">Puedes agregar hasta %d huellas digitales</string>
     <string name="fingerprint_add_title">Agregar una huella digital</string>
     <string name="fingerprint_and_password_entrance_title">Bloqueo de pantalla &amp; huella digital</string>
@@ -4482,6 +4484,7 @@ Abra Xiaomi Cloud y restaure elementos desde allí."</string>
     <string name="left_function_key">Atajo izquierdo</string>
     <string name="left_right_hand_switch">Izquierda y derecha</string>
     <string name="left_right_hand_switch_summary">Cambiar de posición las partes izquierda y derecha del teclado con un solo toque</string>
+    <string name="left_to_right_slide">Deslizar a la derecha</string>
     <string name="legacy_control_center_desc">Deslice la barra de estado hacia abajo para ver los conmutadores y las notificaciones</string>
     <string name="legacy_control_center_title">Versión antigua</string>
     <string name="legacy_navigation_summary">Ve atrás o a la pantalla principal y cambia de app con los botones de la parte inferior de la pantalla.</string>
@@ -4560,7 +4563,7 @@ Abra Xiaomi Cloud y restaure elementos desde allí."</string>
     <string name="location_category_location_services">Servicios de ubicación</string>
     <string name="location_category_recent_location_access">Acceso reciente a la ubicación</string>
     <string name="location_category_recent_location_requests">Solicitudes de ubicación recientes</string>
-    <string name="location_description_no_gps">"Dispositivo no compatible con la navegación por satélite. La información de ubicación obtenida mediante los datos de la red puede ser insuficiente para algunas características."</string>
+    <string name="location_description_no_gps">"Este dispositivo no soporta navegación por satélite. La información de ubicación basada en la red que se genere, podría ser inexacta para algunas funciones."</string>
     <string name="location_gps">Satélites de GPS</string>
     <string name="location_high_battery_use">Uso de batería alto</string>
     <string name="location_indicator_settings_description">Mostrar para todas las ubicaciones, incluida la red y la conectividad</string>
@@ -4742,9 +4745,8 @@ Un PIN protege el teléfono en caso de pérdida o robo."</string>
     <string name="lockpassword_choose_your_password_header_for_biometrics">Establecer una contraseña para usar rostro o huella digital</string>
     <string name="lockpassword_choose_your_password_header_for_face">Para usar el desbloqueo facial, establece una contraseña</string>
     <string name="lockpassword_choose_your_password_header_for_fingerprint">Configura la contraseña de respaldo</string>
-    <string name="lockpassword_choose_your_password_second_space">"Establezca un PIN para el segundo espacio.
-Este PIN debe contener tantos dígitos
-como su PIN del espacio principal."</string>
+    <string name="lockpassword_choose_your_password_second_space">"Establecer la contraseña
+para el Segundo Espacio"</string>
     <string name="lockpassword_choose_your_pattern_header">Establezca patrón</string>
     <string name="lockpassword_choose_your_pattern_header_for_biometrics">Establecer un patrón para usar rostro o huella digital</string>
     <string name="lockpassword_choose_your_pattern_header_for_face">Para usar el desbloqueo facial, establece un patrón</string>
@@ -4753,8 +4755,9 @@ como su PIN del espacio principal."</string>
     <string name="lockpassword_choose_your_pin_header_for_biometrics">Establecer un PIN para usar rostro o huella digital</string>
     <string name="lockpassword_choose_your_pin_header_for_face">Para usar el desbloqueo facial, establece un PIN</string>
     <string name="lockpassword_choose_your_pin_header_for_fingerprint">Configura el PIN para usar la huella</string>
-    <string name="lockpassword_choose_your_pin_header_second_space">"Establecer PIN
-del segundo espacio"</string>
+    <string name="lockpassword_choose_your_pin_header_second_space">"Establecer el
+PIN para el Segundo Espacio.
+Debe tener la misma longitud que el PIN del Primer Espacio."</string>
     <string name="lockpassword_choose_your_pin_message">Por motivos de seguridad, establece un PIN</string>
     <string name="lockpassword_choose_your_pin_title">Ingrese %1$d a %2$d dígitos</string>
     <string name="lockpassword_choose_your_profile_password_header">Establecer una contraseña de trabajo</string>
@@ -4835,7 +4838,8 @@ del segundo espacio"</string>
     <string name="lockpattern_recording_inprogress">Levante el dedo cuando termine</string>
     <string name="lockpattern_recording_intro_footer">Toque Menú para obtener ayuda.</string>
     <string name="lockpattern_recording_intro_header">Dibuje un patrón de desbloqueo:</string>
-    <string name="lockpattern_recording_intro_header_second_space">Dibuje un patrón de desbloqueo para el segundo espacio:</string>
+    <string name="lockpattern_recording_intro_header_second_space">"Dibuja un patrón de desbloqueo para el Segundo Espacio.
+Como mínimo conecta 4 puntos."</string>
     <string name="lockpattern_restart_button_text">Volver a dibujar</string>
     <string name="lockpattern_retry_button_text">Borrar</string>
     <string name="lockpattern_settings_change_lock_pattern">Cambiar patrón de desbloqueo</string>
@@ -5192,6 +5196,7 @@ No podrá revertir esta acción."</string>
     <string name="miheadset_cancel_device">Cancelar</string>
     <string name="miheadset_checkUpdate">Buscar actualizaciones</string>
     <string name="miheadset_closeAnc">Desactivado</string>
+    <string name="miheadset_close_leaudio_first">Desactivar Audio LE en ajustes adicionales para usar esta función</string>
     <string name="miheadset_codec_sample_rate">Frecuencia de muestreo de audio Bluetooth</string>
     <string name="miheadset_common_problem">Preguntas frecuentes</string>
     <string name="miheadset_connectHeadsetForFw">Conecte los audífonos para ver la versión del firmware</string>
@@ -5209,6 +5214,7 @@ No podrá revertir esta acción."</string>
     <string name="miheadset_double_connection_summary">Cuando activa esta función, puede responder llamadas o reproducir audio o video en ambos dispositivos conectados sin tener que cambiar manualmente</string>
     <string name="miheadset_double_press_left">Presione dos veces el auricular izquierdo</string>
     <string name="miheadset_double_press_right">Presione dos veces el auricular derecho</string>
+    <string name="miheadset_double_toast">Ponte ambos auriculares para usar esta función</string>
     <string name="miheadset_dual_connect_mode">Conectarse a dos dispositivos</string>
     <string name="miheadset_dual_connect_mode_summary">Encienda para conectar sus auriculares a dos dispositivos Bluetooth simultáneamente</string>
     <string name="miheadset_enhanceVoice">Mejorar voz</string>
@@ -5265,6 +5271,9 @@ No podrá revertir esta acción."</string>
     <string name="miheadset_key_config_triple_right">Toque tres veces el audífono derecho</string>
     <string name="miheadset_key_config_volume_down">Bajar volumen</string>
     <string name="miheadset_key_config_volume_up">Subir volumen</string>
+    <string name="miheadset_keyconfig_click_thrice">Presiona tres veces el botón</string>
+    <string name="miheadset_keyconfig_click_twice">Presiona dos veces el botón</string>
+    <string name="miheadset_keyconfig_press_long">Manten presionado el botón durante %d segundos</string>
     <string name="miheadset_last_version">El firmware está actualizado</string>
     <string name="miheadset_local_ota">Actualizar</string>
     <string name="miheadset_low_latency">Baja latencia</string>
@@ -5279,6 +5288,7 @@ No podrá revertir esta acción."</string>
     <string name="miheadset_notification_title">Mostrar en la barra de notificaciones</string>
     <string name="miheadset_ok_device">Aceptar</string>
     <string name="miheadset_openAnc">Cancelación de ruido</string>
+    <string name="miheadset_openAnc2">Cancelación de ruido</string>
     <string name="miheadset_play_pause">Reproducir/Pausar</string>
     <string name="miheadset_plus">Subir volumen</string>
     <string name="miheadset_preferences">Preferencias</string>
@@ -6226,6 +6236,8 @@ OTG se desactiva automáticamente después de 10 minutos de inactividad."</strin
     <string name="owner_space">Espacio principal</string>
     <string name="p2p_summary_enable_GPS">Esta función funciona cuando los servicios de ubicación están activados</string>
     <string name="packages_subtitle">Paquetes incluidos</string>
+    <string name="pad_add_fingerprint_finish_message">Continuar para acceder a ajustes adicionales.</string>
+    <string name="pad_add_fingerprint_message">Coloca el dedo en el botón de encendido</string>
     <string name="page_layout_1">Domingo 16 de agosto</string>
     <string name="page_layout_10">Ajustes</string>
     <string name="page_layout_11">Tiempo</string>
@@ -6965,6 +6977,7 @@ Reinicia el dispositivo y vuelve a intentarlo."</string>
     <string name="rgb_manage_facerecoginition_text">Administrar datos faciales 2D</string>
     <string name="right_edge">Borde derecho</string>
     <string name="right_function_key">Atajo derecho</string>
+    <string name="right_to_left_slide">Deslizar a la izquierda</string>
     <string name="ring_to_you">Tono de llamada personalizado</string>
     <string name="ring_to_you_info">Establezca el tono personalizado que otras personas oirán antes de que coja el teléfono</string>
     <string name="ring_volume_option_title">Tono de llamada</string>
@@ -8063,7 +8076,7 @@ Presione dos veces para abrir Recientes."</string>
     <string name="smart_notifications_title">Notificaciones adaptables</string>
     <string name="smart_rotate_text_headline">La detección de rostros utiliza la cámara frontal para mejorar la precisión de la rotación automática. Las imágenes nunca se almacenan ni se envían a Google.</string>
     <string name="smartcover_lock_or_unlock_screen_tittle">Modo cubierta inteligente</string>
-    <string name="smartcover_sensitive_summary">Bloquee y desbloquee automáticamente su teléfono usando una cubierta inteligente</string>
+    <string name="smartcover_sensitive_summary">Bloquear o desbloquear automáticamente el dispositivo usando el fondo inteligente</string>
     <string name="smartcover_sensitive_title">Cubierta inteligente</string>
     <string name="smooth_adjust_ligth">Suavizar las transiciones</string>
     <string name="smooth_adjust_ligth_summary">Haga que las transiciones sean más suaves a medida que ajusta el brillo manualmente. Cuando esta función está activada, pueden aparecer ligeras inconsistencias de color en algunos casos.</string>
@@ -8846,6 +8859,7 @@ Con este software de Google, puedes sincronizar tus datos y acceder a tus contac
     <string name="toggle_auto_speaker_preference_title">Cambiar a altavoz automáticamente</string>
     <string name="toggle_collapse_after_clicked_title">Contraer al tocar</string>
     <string name="tomorrow">Mañana</string>
+    <string name="top_to_bottom_slide">Deslizar hacia abajo</string>
     <string name="total">No molestar</string>
     <string name="total_info">Silenciar las llamadas entrantes, notificaciones y restringe la vibración</string>
     <string name="total_info_no_vibrator">Silenciar llamadas entrantes y notificaciones</string>
@@ -8953,7 +8967,7 @@ Con este software de Google, puedes sincronizar tus datos y acceder a tus contac
     <string name="turn_on_keyguard_password_alert_foget_cacel">Ahora no</string>
     <string name="turn_on_keyguard_password_alert_foget_ok">Entendido</string>
     <string name="turn_on_keyguard_password_alert_foget_ok_time">Entendido (%d s)</string>
-    <string name="turn_on_keyguard_password_alert_forget_content">"Recuerde su contraseña de bloqueo de pantalla. Si la olvida, tendrá que eliminar todos los datos en su dispositivo, incluidas fotos y contactos y después, volver a establecer una nueva contraseña."</string>
+    <string name="turn_on_keyguard_password_alert_forget_content">"Recuerda la contraseña de la pantalla de bloqueo. Si la olvidas, tendrás que borrar todos los datos del dispositivo, incluyendo fotos y contactos y después establecer una nueva."</string>
     <string name="turn_on_keyguard_password_alert_forget_title">Recuerde su contraseña</string>
     <string name="turn_on_security_lock">Seleccione bloqueo de pantalla</string>
     <string name="turn_on_torch">Encender linterna</string>
@@ -10382,6 +10396,8 @@ Almacenamiento de credenciales desactivado."</string>
     <string name="wizard_finish">Finalizar</string>
     <string name="wizard_next">Siguiente</string>
     <string name="wlan_scanner_unresizeble">"No se puede mostrar la configuración de Wi-Fi en el modo de pantalla dividida"</string>
+    <string name="wlan_switch_tips">Cambiando redes Wi-Fi</string>
+    <string name="wlan_switch_tips_message">Al cambiar entre redes Wi-Fi principales y auxiliares, tu dispositivo se desconectará temporalmente de Wi-Fi auxiliar. ¿Cambiar de todos modos?</string>
     <string name="words_title">Texto</string>
     <string name="work_alarm_ringtone_title">Sonido predeterminado para alarmas de trabajo</string>
     <string name="work_mode_label">Perfil de trabajo</string>

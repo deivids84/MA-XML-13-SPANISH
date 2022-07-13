@@ -400,7 +400,7 @@ añadidos a la lista de bloqueos"</string>
     <string name="invalid_destination">Dirección no válida.</string>
     <string name="invalid_private_contact">Contacto no válido</string>
     <string name="invalid_recipient_message">"Corrige los destinatarios o no podrán recibir el mensaje."</string>
-    <string name="invisible_mode_on">"Eres incógnita"</string>
+    <string name="invisible_mode_on">"Estás en modo incógnito"</string>
     <string name="is_composing">Escribiendo…</string>
     <string name="layout_selector_title">"Diseño de presentación "</string>
     <string name="leave_mms_tips_context_app">¿Dejar mensajería y abrir la aplicación ahora?</string>
@@ -1383,9 +1383,9 @@ Si no acepta conceder dichos permisos ni compartir o subir su información perso
     <string name="type_to_compose_text_or_leave_blank">Escribe un mensaje o deja el campo vacío</string>
     <string name="type_vcard">vCard</string>
     <string name="type_video">vídeo</string>
-    <string name="unable_connect_camera">"Estás incógnito. No puedes usar la cámara ahora."</string>
-    <string name="unable_get_location">"Estás incógnito. No puedes usar los servicios de ubicación ahora."</string>
-    <string name="unable_use_microphone">"Estás incógnito. No puedes usar el micrófono ahora."</string>
+    <string name="unable_connect_camera">"Estás en incógnito. No puedes usar la cámara ahora."</string>
+    <string name="unable_get_location">"Estás en incógnito. No puedes usar la ubicación ahora."</string>
+    <string name="unable_use_microphone">"Estás en incógnito. No puedes usar el micrófono ahora."</string>
     <string name="undelivered_msg_dialog_body">"No se pudo enviar el mensaje.
 Intentos realizados: %s."</string>
     <string name="undelivered_msg_dialog_title">Mensaje no enviado</string>

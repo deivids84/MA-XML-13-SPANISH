@@ -63,6 +63,11 @@
         <item>Z</item>
         <item>\#</item>
     </string-array>
+    <string-array name="bookshelf__general_shared__main_categories">
+        <item>Librería</item>
+        <item>Biblioteca</item>
+        <item>Librería</item>
+    </string-array>
     <string-array name="menu_theme_setting">
         <item>Blanco</item>
         <item>Amarillo</item>
@@ -72,7 +77,7 @@
         <item>Azul</item>
     </string-array>
     <string-array name="nf_ad_feedback_reason">
-        <item>No es interesante</item>
+        <item>No interesante</item>
         <item>Repetitivo</item>
         <item>Baja calidad</item>
         <item>Foto inapropiada</item>
@@ -105,7 +110,7 @@
     </string-array>
     <string-array name="pref_security_do_not_track_keys">
         <item>Activado</item>
-        <item>Solo en el Modo incógnito</item>
+        <item>Solo en el modo incógnito</item>
         <item>Desactivado</item>
     </string-array>
     <string-array name="pref_text_zoom_choices">
@@ -120,6 +125,19 @@
         <item>Escritorio</item>
         <item>iPhone</item>
         <item>iPad</item>
+    </string-array>
+    <string-array name="pref_web_permissions">
+        <item>Restringir</item>
+        <item>Preguntar</item>
+        <item>Permitir</item>
+    </string-array>
+    <string-array name="pref_web_permissions_sub_one">
+        <item>Restringir</item>
+        <item>Preguntar</item>
+    </string-array>
+    <string-array name="pref_web_permissions_sub_two">
+        <item>Restringir</item>
+        <item>Permitir</item>
     </string-array>
     <string-array name="protection_name">
         <item>Automático</item>

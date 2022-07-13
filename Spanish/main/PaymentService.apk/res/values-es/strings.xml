@@ -298,8 +298,8 @@ Compruebe su fecha local y vuelva a intentarlo."</string>
     <string name="mibi_header_network_error">"No se pudo conectar a la red."</string>
     <string name="mibi_illegal_intent">Solicitud de intención ilegal</string>
     <string name="mibi_incognito_mode_dialog_cancel">Cancelar</string>
-    <string name="mibi_incognito_mode_dialog_summary_camera">"No se puede utilizar la cámara ahora. Desactive el modo incógnito en los Ajustes para poder utilizar la cámara."</string>
-    <string name="mibi_incognito_mode_dialog_title">"Estas de incógnito"</string>
+    <string name="mibi_incognito_mode_dialog_summary_camera">"No puedes usar la cámara ahora. Desactiva el modo incógnito para utilizar la cámara."</string>
+    <string name="mibi_incognito_mode_dialog_title">"Estás en modo incógnito"</string>
     <string name="mibi_incognito_mode_dialog_to_close">Ajustes</string>
     <string name="mibi_is_what">¿Qué puede comprar con Monedas Mi?</string>
     <string name="mibi_label_balance">Saldo</string>

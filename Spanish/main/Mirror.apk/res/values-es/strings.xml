@@ -98,9 +98,9 @@
     <string name="guide_window_title">Regresar</string>
     <string name="http_buffer_size">Tamaño de caché HTTP</string>
     <string name="invisible_mode_dialog_cancel">Cancelar</string>
-    <string name="invisible_mode_dialog_message">"No puedes usar MIUI+ Screen Combo cuando estás de incógnito. Primero desactiva el modo de incógnito."</string>
+    <string name="invisible_mode_dialog_message">"No puedes usar MIUI+ Screen Combo en incógnito. Primero desactiva el modo incógnito."</string>
     <string name="invisible_mode_dialog_positive">Desactivar</string>
-    <string name="invisible_mode_dialog_title">"Estas de incógnito"</string>
+    <string name="invisible_mode_dialog_title">"Estás en modo incógnito"</string>
     <string name="invisible_mode_toast">Primero desactiva el modo incógnito</string>
     <string name="loading">Solo un segundo…</string>
     <string name="loading_view_abort_close_text">Cerrar</string>

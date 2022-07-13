@@ -659,8 +659,6 @@
     <string name="scanHistory_close">Desactivado</string>
     <string name="scanHistory_isOpen">¿Comenzar a rastrear el historial de elementos escaneados ahora?</string>
     <string name="scanHistory_open">Activado</string>
-    <string name="scan_document_top_tip">Escanea un documento físico y crea un PDF</string>
-    <string name="scan_document_top_tip_second">Escanea múltiples documentos y crea un PDF</string>
     <string name="scan_form">Escanear tabla</string>
     <string name="scan_form_top_tip">Escanear, guardar y editar tablas</string>
     <string name="scan_general_top_tip">Reconocer plantas, personas y productos</string>

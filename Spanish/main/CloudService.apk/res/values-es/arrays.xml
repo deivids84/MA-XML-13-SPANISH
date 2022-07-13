@@ -21,16 +21,16 @@
         <item>"Bloquea tu dispositivo de forma remota si se pierde"</item>
     </string-array>
     <string-array name="micloud_entrance_subtitleArray_china">
-        <item>Sync your contacts, messages, notes, calendar, and more</item>
-        <item>Back up apps, Home screen layout, and wallpaper</item>
-        <item>Back up important settings, including WLAN and display</item>
-        <item>"Lock your device remotely if it's lost"</item>
+        <item>Sincroniza tus contactos, mensajes, notas, calendario y más</item>
+        <item>Copia de seguridad de apps, pantalla de inicio y fondos de pantalla</item>
+        <item>Copia de seguridad de ajustes importantes, incluyendo Wi-Fi y pantalla</item>
+        <item>"Bloquea el dispositivo remotamente si lo pierdes"</item>
     </string-array>
     <string-array name="micloud_entrance_subtitleArray_china_v2">
-        <item>Sync your contacts, messages, notes, calendar, and more</item>
+        <item>Sincroniza contactos, mensajes, notas, calendario y más</item>
         <item>Back up apps, Home screen layout, and wallpaper</item>
         <item>Back up important settings, including WLAN and display</item>
-        <item>"Lock your device remotely if it's lost"</item>
+        <item>"Bloquea el dispositivo remotamente si lo pierdes"</item>
     </string-array>
     <string-array name="micloud_entrance_subtitleArray_pad">
         <item>Sincroniza tus fotos, notas, grabaciones y más</item>
@@ -53,7 +53,7 @@
         <item>Encontrar dispositivo</item>
     </string-array>
     <string-array name="privacy_dialog_finddevice_runtime_perm_desc_new">
-        <item>Para localizar su dispositivo y cambiar al modo perdido</item>
+        <item>Para localizar el dispositivo y cambiar al modo perdido</item>
         <item>"Para localizar este dispositivo cuando no está conectado a Internet"</item>
         <item>"Para acceder al número de teléfono para localizar este dispositivo cuando no está conectado a Internet"</item>
     </string-array>

@@ -98,6 +98,7 @@
     <string name="controls_favorite_removed">Todos los controles eliminados</string>
     <string name="controls_favorite_subtitle">Seleccione los controles para acceder desde el menú de encendido</string>
     <string name="controls_favorite_toast_no_changes">Cambios no guardados</string>
+    <string name="controls_media_title">Multimedia</string>
     <string name="controls_menu_add">Añadir controles</string>
     <string name="controls_mijia_setup_subtitle">Seleccione aplicaciones para añadir dispositivos y adminístrelas aquí</string>
     <string name="controls_mijia_setup_subtitle_login">Toque para agregar dispositivos</string>
@@ -196,6 +197,8 @@
     <string name="miui_toast_zen_to_dnd_when_lock">Las llamadas y notificaciones se silenciarán cuando el dispositivo esté bloqueado</string>
     <string name="miui_toast_zen_to_standard">El modo silencioso está activado</string>
     <string name="miui_toast_zen_to_standard_when_shield_media">Cambiado a modo silencio. Llamadas, notificaciones y sonidos multimedia silenciados.</string>
+    <string name="miuix_access_state_desc">Seleccionado</string>
+    <string name="miuix_alphabet_indexer_name">Barra de índice</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deseleccionar</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleccionar todo</string>
     <string name="miuix_appcompat_action_mode_title_empty">Seleccionar elementos</string>
@@ -210,6 +213,8 @@
     <string name="miuix_appcompat_select_all">Seleccionar todo</string>
     <string name="miuix_appcompat_select_all_description">Seleccionar todo</string>
     <string name="miuix_appcompat_select_item">Seleccionar elementos</string>
+    <string name="miuix_indexer_collect">Colecciones</string>
+    <string name="miuix_indexer_selected">Seleccionado %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Deslice hacia abajo para actualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado con éxito</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualizando…</string>
