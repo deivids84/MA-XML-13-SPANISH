@@ -177,9 +177,9 @@ Protocolo de conexión más rápido."</string>
     <string name="get_target_info">Obtener información de destino</string>
     <string name="goto_package">Abrir %1$s</string>
     <string name="headset_battery_fw_failed">Cargue su dispositivo primero</string>
-    <string name="headset_battery_low">Batería baja, por favor recárgala</string>
+    <string name="headset_battery_low">Batería baja. Carga los auriculares ahora.</string>
     <string name="headset_connect_device">Conectar dispositivo</string>
-    <string name="headset_connect_timeout">Tiempo de conexión agotado, por favor vuelve a intentarlo</string>
+    <string name="headset_connect_timeout">Tiempo de conexión agotado. Empieza otra vez.</string>
     <string name="headset_device_check_failed">"No se pudieron buscar actualizaciones"</string>
     <string name="headset_device_donot_move">Mantenga el dispositivo cerca</string>
     <string name="headset_device_enter_upgrade_failed">"No se pudo iniciar la actualización"</string>
@@ -209,7 +209,7 @@ Protocolo de conexión más rápido."</string>
     <string name="headset_loss_notify_summary">Parece que al menos uno de sus auriculares no está en el estuche de carga. ¡Mire a su alrededor!</string>
     <string name="headset_loss_notify_summary1">"Parece que sus auriculares no están en el estuche. Vuelve a ponerlos para que se carguen."</string>
     <string name="headset_loss_notify_title">Alerta de auricular faltante</string>
-    <string name="headset_not_in_case">Los audífonos no están en su caja, por favor vuelve a intentarlo</string>
+    <string name="headset_not_in_case">Pon ambos auriculares en el estuche y empieza otra vez</string>
     <string name="headset_read_fw_state">"No se pudo obtener información de la actualización"</string>
     <string name="headset_update_failed">"No se pudo actualizar"</string>
     <string name="headset_update_ok">Hecho</string>

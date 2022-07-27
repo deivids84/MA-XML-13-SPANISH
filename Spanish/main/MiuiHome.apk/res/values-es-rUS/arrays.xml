@@ -64,5 +64,6 @@
         <item>shortcut删除</item>
         <item>拖拽</item>
         <item>desinstalar</item>
+        <item>shortcut更换</item>
     </string-array>
 </resources>

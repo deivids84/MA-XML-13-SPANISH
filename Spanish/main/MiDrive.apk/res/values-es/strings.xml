@@ -361,7 +361,9 @@ Asegúrese de que está utilizando la actual Cuenta Mi como su cuenta del sistem
     <string name="pause_download">En pausa</string>
     <string name="pause_upload">En pausa</string>
     <string name="permission_account_desc">Acceder a todas las cuentas almacenadas en este dispositivo</string>
+    <string name="permission_account_desc_pad">Acceder a todas las cuentas almacenadas en el dispositivo</string>
     <string name="permission_account_title">Cuentas</string>
+    <string name="permission_account_title_pad">Acceder a las cuentas</string>
     <string name="permission_accpeted">Concedido</string>
     <string name="permission_camera_desc">Tomar fotos y hacer videos</string>
     <string name="permission_camera_title">Cámara</string>
@@ -369,7 +371,9 @@ Asegúrese de que está utilizando la actual Cuenta Mi como su cuenta del sistem
     <string name="permission_phone_desc">Acceder al número de teléfono y al estado del dispositivo</string>
     <string name="permission_phone_title">Información del dispositivo</string>
     <string name="permission_storage_desc">Acceda y guarde fotos y archivos en este dispositivo</string>
+    <string name="permission_storage_desc_pad">Acceder a las fotos y demás archivos del dispositivo</string>
     <string name="permission_storage_title">Almacenamiento</string>
+    <string name="permission_storage_title_pad">Acceder al almacenamiento</string>
     <string name="picker_bottom_btn_text">Subir</string>
     <string name="picker_bottom_text_desc">"Subir a "</string>
     <string name="picker_permission_failed">"No se pudo conceder el permiso. Esta función no funcionará sin ella."</string>

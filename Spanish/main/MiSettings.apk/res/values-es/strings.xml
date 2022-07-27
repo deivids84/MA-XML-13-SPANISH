@@ -28,7 +28,7 @@
     <string name="abc_shareactionprovider_share_with_application">Compartir con %s</string>
     <string name="abc_toolbar_collapse_description">Ocultar</string>
     <string name="actionbar_button_up_description">Atrás</string>
-    <string name="adaptive_fps_tip">- Consigue el mejor equilibrio entre fluidez del movimiento y duración de la batería ajustando dinámicamente la tasa de refresco.</string>
+    <string name="adaptive_fps_tip">- Consigue el mejor equilibrio entre fluidez de movimiento y consumo de energía ajustando dinámicamente la frecuencia de pantalla.</string>
     <string name="advanced_mode">Ajustes avanzados</string>
     <string name="africa_introduction">"Wildlife thrives in Africa - home to many of the world's most famous animals."</string>
     <string name="african_bush_elephant">African bush elephant</string>
@@ -46,7 +46,7 @@
     <string name="animal_select_alert_info">Puedes seleccionar hasta 5 elementos</string>
     <string name="anti_flicker_mode">Antiparpadeo</string>
     <string name="anti_flicker_mode_categroy">Modos</string>
-    <string name="anti_flicker_mode_summary">Evita el parpadeo extenso y reduce la fatiga visual en condiciones de poca luz</string>
+    <string name="anti_flicker_mode_summary">Evitar el parpadeo y reducir la fatiga visual en condiciones de poca luz</string>
     <string name="anti_flicker_title">Modo antiparpadeo</string>
     <string name="app_name">Ajustes</string>
     <string name="application_sound">Notificaciones de aplicaciones</string>
@@ -109,8 +109,8 @@
     <string name="branch_walrus">Odobenidae</string>
     <string name="branch_whipbird">Turdidae</string>
     <string name="brown_pelican">Brown pelican</string>
-    <string name="calendar_sound">Recordatorios de eventos</string>
-    <string name="calendar_tip">Los sonidos para recordatorios de eventos funcionan para recordatorios del calendario, notas y tareas</string>
+    <string name="calendar_sound">Recordatorio de eventos</string>
+    <string name="calendar_tip">Los sonidos de recordatorio de eventos funcionan para recordatorios de calendario, notas y tareas</string>
     <string name="canada_goose">Canada goose</string>
     <string name="capybara">Capybara</string>
     <string name="capybara_info">Capybaras are semiaquatic herbivore rodents who can hold their breath underwater for up to five minutes at a time.</string>
@@ -128,7 +128,7 @@
     <string name="color_gamut">Gama de colores</string>
     <string name="common_brushtail">Brushtail possum</string>
     <string name="common_ostrich">Ostrich</string>
-    <string name="contact_description">Pulsa los accesos directos de la Pantalla de inicio para realizar llamadas</string>
+    <string name="contact_description">Pulsar accesos directos de la pantalla de inicio para hacer llamadas</string>
     <string name="contact_title">Accesos directos a contactos</string>
     <string name="contrast_ratio">Contraste</string>
     <string name="control_center_title">Horas de pantalla de hoy</string>
@@ -136,9 +136,9 @@
     <string name="copy">Copiar</string>
     <string name="create">Crear</string>
     <string name="create_failed">"No se pudo crear"</string>
-    <string name="create_shortcut">Acceso directo a la Pantalla de inicio</string>
+    <string name="create_shortcut">Acceso directo a la pantalla de inicio</string>
     <string name="created">Creado</string>
-    <string name="created_successfully">Creado con éxito</string>
+    <string name="created_successfully">Creado</string>
     <string name="crowned_hornbill">Crowned hornbill</string>
     <string name="cu_confirm">Establecer</string>
     <string name="customize_radio_btn_summary">Preferir frecuencia de actualización seleccionada</string>
@@ -148,16 +148,16 @@
     <string name="date_picker_lunar">Calendario chino tradicional</string>
     <string name="date_time_picker_dialog_title">Ajustar fecha y hora</string>
     <string name="dc_light_hint_enable_title">Atención</string>
-    <string name="dc_light_hint_normal">La atenuación DC puede afectar a la forma en que se muestran algunos elementos.</string>
-    <string name="dc_light_hint_normal_anit">El modo antiparpadeo puede afectar la forma en que se muestran algunos elementos.</string>
-    <string name="dc_light_hint_normal_other">El modo antiparpadeo puede afectar la frecuencia de actualización y la forma en que se muestran algunos elementos.</string>
-    <string name="dc_light_hint_other">La atenuación DC puede afectar a la frecuencia de actualización y la forma en que se muestran algunos elementos.</string>
-    <string name="dc_light_hint_unnormal_low">El modo antiparpadeo con poca luz puede afectar la forma en que se muestran algunos elementos.</string>
-    <string name="dc_light_hint_unnormal_other">El modo antiparpadeo con poca luz puede afectar la frecuencia de actualización y la forma en que se muestran algunos elementos.</string>
-    <string name="dc_lignt_enable_hint">El Modo antiparpadeo establecerá la frecuencia de actualización de la pantalla en 60 Hz. ¿Cambiar al Modo antiparpadeo?</string>
+    <string name="dc_light_hint_normal">La atenuación DC puede afectar a como se muestran algunos elementos.</string>
+    <string name="dc_light_hint_normal_anit">El modo antiparpadeo puede afectar a como se muestran algunos elementos.</string>
+    <string name="dc_light_hint_normal_other">El modo antiparpadeo puede afectar a la frecuencia de pantalla y a como se muestran algunos elementos.</string>
+    <string name="dc_light_hint_other">La atenuación DC puede afectar a la frecuencia de pantalla y a como se muestran algunos elementos.</string>
+    <string name="dc_light_hint_unnormal_low">El modo antiparpadeo con poca luz puede afectar a como se muestran algunos elementos.</string>
+    <string name="dc_light_hint_unnormal_other">El modo antiparpadeo, con poca luz, puede afectar a la frecuencia de pantalla y a como se muestran algunos elementos.</string>
+    <string name="dc_lignt_enable_hint">El modo antiparpadeo establecerá la frecuencia de pantalla a 60 Hz. ¿Cambiar al modo antiparpadeo?</string>
     <string name="delete_first_to_add_animal">To add a new item, delete one first.</string>
-    <string name="desktop_widget_authorization">Toque para otorgar permisos y poder ver las estadísticas</string>
-    <string name="desktop_widget_authorization_new">Toque para ver las estadísticas de tiempo en pantalla</string>
+    <string name="desktop_widget_authorization">Pulsa para conceder permisos y ver las estadísticas</string>
+    <string name="desktop_widget_authorization_new">Pulsa para ver las estadísticas de tiempo de pantalla</string>
     <string name="desktop_widget_not_support">"Las estadísticas de tiempo de pantalla
 no se generan en el segundo espacio"</string>
     <string name="desktop_widget_screen_use_time">Tiempo de pantalla</string>
@@ -177,14 +177,14 @@ no se generan en el segundo espacio"</string>
     <string name="eras_bc">a.C</string>
     <string name="ermine">Stoat</string>
     <string name="evening">Tarde</string>
-    <string name="exit_easymode">Desactivar el Modo lite</string>
-    <string name="exo_controls_cc_disabled_description">Habilitar subtítulos</string>
-    <string name="exo_controls_cc_enabled_description">Inhabilitar subtítulos</string>
+    <string name="exit_easymode">Desactivar modo Lite</string>
+    <string name="exo_controls_cc_disabled_description">Activar subtítulos</string>
+    <string name="exo_controls_cc_enabled_description">Desactivar subtítulos</string>
     <string name="exo_controls_fastforward_by_amount_description">Avanzar %d segundos</string>
     <string name="exo_controls_fastforward_description">Avanzar rápidamente</string>
     <string name="exo_controls_fullscreen_enter_description">Activar pantalla completa</string>
     <string name="exo_controls_fullscreen_exit_description">Salir de pantalla completa</string>
-    <string name="exo_controls_hide">Ocultar controles de jugador</string>
+    <string name="exo_controls_hide">Ocultar controles de juego</string>
     <string name="exo_controls_next_description">Siguiente</string>
     <string name="exo_controls_overflow_hide_description">Ocultar ajustes adicionales</string>
     <string name="exo_controls_overflow_show_description">Mostrar ajustes adicionales</string>
@@ -205,7 +205,7 @@ no se generan en el segundo espacio"</string>
     <string name="exo_controls_shuffle_on_description">Con reproducción aleatoria</string>
     <string name="exo_controls_stop_description">Detener</string>
     <string name="exo_controls_vr_description">Modo RV</string>
-    <string name="exo_download_completed">Descarga de archivos completado</string>
+    <string name="exo_download_completed">Descarga de archivos completada</string>
     <string name="exo_download_description">Descargar</string>
     <string name="exo_download_downloading">Descargando</string>
     <string name="exo_download_failed">No se ha podido descargar</string>
@@ -226,7 +226,7 @@ no se generan en el segundo espacio"</string>
     <string name="exo_track_surround_7_point_1">Sonido envolvente 7.1</string>
     <string name="exo_track_unknown">Desconocido</string>
     <string name="expand_button_title">Avanzado</string>
-    <string name="first_unlock_time">"Primera vez desbloqueado: "</string>
+    <string name="first_unlock_time">"Desbloqueado por primera vez: "</string>
     <string name="fmt_date_day">dd</string>
     <string name="fmt_date_long_month_day">dd MMMM</string>
     <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
@@ -260,21 +260,21 @@ no se generan en el segundo espacio"</string>
     <string name="focus_mode_timer_exist">Esta sesión ya existe</string>
     <string name="focus_mode_timer_pick_dialog_summary" formatted="false">%d a %d minutos</string>
     <string name="focus_mode_timer_pick_dialog_title">Introducir duración</string>
-    <string name="focus_time_exception_tip">Parece que la hora del sistema cambió. El Modo concentración se ha desactivado.</string>
+    <string name="focus_time_exception_tip">Parece que la hora del sistema ha cambiado. Modo Concentración desactivado.</string>
     <string name="follow_sim1">Aplicar ajustes de SIM 1</string>
     <string name="fps_high">Alto</string>
     <string name="fps_nature_summary">La tasa de refresco máxima hace que todo sea nítido y claro</string>
     <string name="fps_nature_title">Máxima</string>
     <string name="fps_normal">Estándar</string>
     <string name="fps_radio_btn_title">Tasa de refresco</string>
-    <string name="fps_save_battery_tips">El ahorro de batería está activado. La tasa de refresco establecida en %d Hz.</string>
+    <string name="fps_save_battery_tips">El ahorro de batería está activado. Frecuencia de pantalla establecida a %d Hz.</string>
     <string name="fps_smooth_summary">La tasa de refresco alta añade más claridad a los detalles</string>
     <string name="fps_smooth_title">Alta</string>
     <string name="fps_standard_summary">Una tasa de refresco estándar ahorra batería</string>
     <string name="fps_standard_title">Estándar</string>
     <string name="fps_user_tip">- Estas animaciones de demostración se reproducen a baja velocidad como una referencia. El rendimiento real puede variar en función de diferentes factores.</string>
-    <string name="fps_user_tip_footer">"%1$d. Para que comprenda la diferencia entre frecuencias de actualización más altas y más bajas, las demostraciones se reproducen más lentamente aquí. Puede que le resulte más difícil notar la diferencia durante el uso regular.
-%2$d. En algunos casos, la frecuencia de actualización puede ajustarse dinámicamente en función de los elementos que se muestran."</string>
+    <string name="fps_user_tip_footer">"%1$d. Para que comprendas la diferencia entre diferentes frecuencias de pantalla, las demostraciones se reproducen más lentamente. Puede que en el uso normal te resulte más difícil notar la diferencia.
+%2$d. En algunos casos, la frecuencia de pantalla puede ajustarse dinámicamente según los elementos que se muestren."</string>
     <string name="friday">Viernes</string>
     <string name="friday_short">Vie</string>
     <string name="friday_shortest">Vie</string>
@@ -299,16 +299,16 @@ no se generan en el segundo espacio"</string>
     <string name="has_applied">Applied</string>
     <string name="healthy_use_phone">Gestionar horas de pantalla</string>
     <string name="helmeted_guineafowl">Guineafowl</string>
-    <string name="high_fps_description">Alta tasa de refresco de pantalla. Mayor consumo de energía.</string>
-    <string name="high_fps_tip_footer">El uso de frecuencias de actualización más altas hace que la experiencia de visualización sea más fluida pero consume más energía.</string>
+    <string name="high_fps_description">Alta frecuencia de pantalla. Mayor consumo de energía.</string>
+    <string name="high_fps_tip_footer">Las frecuencias de pantalla más altas hacen la visualización más fluida pero consumen más energía.</string>
     <string name="hippopotamus">Hippo</string>
     <string name="hsv_space_color">Espacio de color HSV</string>
     <string name="hsv_space_color_hue">Tono</string>
     <string name="hsv_space_color_saturation">Saturación</string>
     <string name="hsv_space_color_value">Valor</string>
-    <string name="intelligent_radio_btn_summary">Ajuste la frecuencia de actualización de forma dinámica según los escenarios para equilibrar el rendimiento con el consumo de energía</string>
+    <string name="intelligent_radio_btn_summary">Ajustar la frecuencia de pantalla dinámicamente según los escenarios para equilibrar rendimiento y consumo de energía</string>
     <string name="intelligent_radio_btn_title">Por defecto (recomendado)</string>
-    <string name="intelligent_recognition_item_summary">Usa un tono designado para las llamadas de taxis y servicios de reparto. Esta función funcionará cuando %s sea establecido como tu tono por defecto.</string>
+    <string name="intelligent_recognition_item_summary">Usa un tono para las llamadas de taxis y servicios de reparto. Esta función actuará cuando %s se establezca como tu tono por defecto.</string>
     <string name="intelligent_recognition_item_title">Identificar servicios</string>
     <string name="item_anura">Anura</string>
     <string name="item_artiodactyla">Even-toed ungulates</string>
@@ -347,8 +347,8 @@ no se generan en el segundo espacio"</string>
     <string name="lion_info">Lions are fierce and powerful predators. They live in groups and have a strong sense of territory.</string>
     <string name="lock_summary">Protege tu información personal</string>
     <string name="long_tai1ed_iaeger">Long-tailed jaeger</string>
-    <string name="low_flicker_mode">Luz Baja</string>
-    <string name="low_flicker_mode_summary">Evite el parpadeo en condiciones de poca luz para reducir la fatiga visual</string>
+    <string name="low_flicker_mode">Luz baja</string>
+    <string name="low_flicker_mode_summary">Evitar el parpadeo cuando hay poca luz para reducir la fatiga visual</string>
     <string name="low_fps_description">Baja tasa de refresco de pantalla. Menor consumo de energía.</string>
     <string name="low_light_preview">Previsualización con poca luz</string>
     <string name="lynx">Lynx</string>
@@ -377,7 +377,7 @@ no se generan en el segundo espacio"</string>
     <string name="miuix_indexer_collect">Colecciones</string>
     <string name="miuix_indexer_selected">Seleccionado %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Desliza hacia abajo para actualizar</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado con éxito</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualizando…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Suelta para actualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Eso es todo por ahora"</string>
@@ -438,7 +438,7 @@ no se generan en el segundo espacio"</string>
     <string name="more_ringtones">More ringtones</string>
     <string name="more_settings">Ajustes</string>
     <string name="morning">Mañana</string>
-    <string name="most_unlock_week_day">"Máximo de desbloqueos: "</string>
+    <string name="most_unlock_week_day">"Desbloqueos máximos: "</string>
     <string name="mus_ox">Muskox</string>
     <string name="narwhal">Narwhal</string>
     <string name="narwhal_info">Narwhals possess a large tusk and feed on benthic prey, mostly flatfish.</string>
@@ -446,15 +446,15 @@ no se generan en el segundo espacio"</string>
     <string name="nature_mix">Nature mix</string>
     <string name="nature_mix_summary">Create a custom mix</string>
     <string name="nazca_booby">Nazca booby</string>
-    <string name="network_error">Se produjo un error de red. Vuelve a intentarlo.</string>
+    <string name="network_error">Se produjo un error de red. Inténtalo otra vez.</string>
     <string name="night">Tarde-noche</string>
     <string name="nine_banded_armadillo">Armadillo</string>
-    <string name="no_matching">"No se pudo encontrar una aplicación para abrir este enlace"</string>
+    <string name="no_matching">"No se encuentra aplicación para abrir este enlace"</string>
     <string name="no_sound_summary">None</string>
     <string name="noon">Mediodía</string>
     <string name="normal_mode">Normal</string>
-    <string name="normal_mode_summary">"No reducir el parpadeo en condiciones de poca luz"</string>
-    <string name="normal_mode_summary_new">Permitir parpadeo en condiciones de poca luz</string>
+    <string name="normal_mode_summary">"No reducir el parpadeo con de poca luz"</string>
+    <string name="normal_mode_summary_new">Permitir el parpadeo con poca luz</string>
     <string name="north_white_rhinoceros">White rhinoceros</string>
     <string name="norway_lemmings">Norway lemmings</string>
     <string name="norway_lemmings_info">The Norway lemming dwells in tundra and fells, and prefers to live near water.</string>
@@ -466,7 +466,7 @@ no se generan en el segundo espacio"</string>
     <string name="orca">Killer whale</string>
     <string name="ostrich_info">Ostriches are large flightless birds of Africa who lay the largest eggs of any living land animal.</string>
     <string name="other_parameter">Otros</string>
-    <string name="p3_color_region_summary">Mostrar todo el contenido de la pantalla en la gama de colores P3</string>
+    <string name="p3_color_region_summary">Mostrar el contenido de pantalla en la gama de color P3</string>
     <string name="pallas_s_cat">"Pallas's cat"</string>
     <string name="parasitic_jaeger">Parasitic jaeger</string>
     <string name="personality_hint_ringtone">Personalized sounds</string>
@@ -484,7 +484,7 @@ no se generan en el segundo espacio"</string>
     <string name="preview">Previsualizar</string>
     <string name="primary_color_region">Original</string>
     <string name="primary_color_region_chinese_only">nature</string>
-    <string name="primary_color_region_summary">Identificar la gama de colores automáticamente a través de la calibración del color</string>
+    <string name="primary_color_region_summary">Identificar la gama de color a través de la calibración de color</string>
     <string name="privacy_policy">Política de Privacidad</string>
     <string name="puffin">Atlantic puffin</string>
     <string name="random_play_sound_alert">"Escucharás los sonidos de los animales de esta región cuando recibas notificaciones"</string>
@@ -509,13 +509,13 @@ no se generan en el segundo espacio"</string>
     <string name="scarlet_macaw_info">Macaws are long-tailed, often colorful, New World parrots.</string>
     <string name="screen_cancel">Cancelar</string>
     <string name="screen_confirm">Activar</string>
-    <string name="screen_fps_summary_power_save">Usar un ratio fijo consume menos batería</string>
-    <string name="screen_fps_summary_smooth">Algunas aplicaciones aumentarán la frecuencia de actualización automáticamente para mejorar la calidad de imagen</string>
+    <string name="screen_fps_summary_power_save">Usar una frecuencia de pantalla fija consume menos energía</string>
+    <string name="screen_fps_summary_smooth">Algunas aplicaciones pueden aumentar la frecuencia de pantalla para mejorar la calidad de imagen</string>
     <string name="screen_fps_title">Tasa de refresco</string>
     <string name="screen_fps_unit_power_save">%dHz (Ahorra batería)</string>
     <string name="screen_fps_unit_smooth">%dHz (Mejor calidad)</string>
     <string name="screen_original_gamut">Mejorado</string>
-    <string name="screen_original_gamut_summary">Mostrar todo el contenido de la pantalla en la mayor gama de colores posible</string>
+    <string name="screen_original_gamut_summary">Mostrar el contenido de la pantalla en la mayor gama de color posible</string>
     <string name="screen_paper_mode_apps_loading">Un momento…</string>
     <string name="screen_time_lock">Bloqueo de horas de pantalla</string>
     <string name="sea_eagle_info">White-tailed eagles are powerful apex predators and opportunistic scavengers who usually live near large bodies of open water.</string>
@@ -529,7 +529,7 @@ no se generan en el segundo espacio"</string>
     <string name="several_days_use_time">Horas de pantalla: %2$s</string>
     <string name="short_eared_owl">Short-eared owl</string>
     <string name="shortcut_created">Este acceso directo ya existe</string>
-    <string name="silent_ringtone_hint">El audio está silenciado. Sube el volumen y vuelve a intentarlo.</string>
+    <string name="silent_ringtone_hint">Audio silenciado. Sube el volumen e inténtalo otra vez.</string>
     <string name="silver_pheasant">Silver pheasant</string>
     <string name="sim_slot_1">" (SIM 1)"</string>
     <string name="sim_slot_2">" (SIM 2)"</string>
@@ -565,14 +565,14 @@ no se generan en el segundo espacio"</string>
     <string name="solar_term_winter_solstice">Solsticio de invierno</string>
     <string name="southern_elephant_seal">Southern elephant seal</string>
     <string name="southern_ground_hornbill">Ground hornbill</string>
-    <string name="split_page_authorization">¡Bienvenido a Screen time! Aquí puede establecer límites de tiempo de pantalla y ver estadísticas. Toque \"Inicio\" para activar esta función.</string>
+    <string name="split_page_authorization">¡Te damos la bienvenida a Horas de pantalla! Puedes establecer los límites de uso de pantalla y ver estadísticas. Pulsa \"Inicio\" para activar esta función.</string>
     <string name="split_page_start">Iniciar</string>
     <string name="spotted_hyaena">Spotted hyena</string>
     <string name="spotted_hyaena_info">Hyenas are nocturnal predators with the most complex social behaviours.</string>
     <string name="spur_winged_plover">Spur-winged lapwing</string>
     <string name="srgb_color_region">sRGB</string>
-    <string name="srgb_color_region_summary">Mostrar todo el contenido de la pantalla en la gama de colores sRGB</string>
-    <string name="start_easymode">Activar el Modo lite</string>
+    <string name="srgb_color_region_summary">Mostrar el contenido de la pantalla en la gama de color sRGB</string>
+    <string name="start_easymode">Activar el modo Lite</string>
     <string name="steady_on_screen_notification_title">Deja el teléfono y tómate un descanso</string>
     <string name="steady_on_screen_notification_title_pad">Deja tu dispositivo y tómate un descanso</string>
     <string name="steady_on_screen_notify">Notificar acerca del uso ininterrumpido</string>
@@ -580,9 +580,9 @@ no se generan en el segundo espacio"</string>
     <string name="steady_on_screen_summary">Tiempo límite para sesiones ininterrumpidas</string>
     <string name="stop_app_timer">Desactivar Horas de pantalla</string>
     <string name="stop_app_timer_fail">"No se pudo desactivar Horas de pantalla"</string>
-    <string name="stop_app_timer_success">Horas de pantalla desactivado con éxito</string>
-    <string name="stop_app_timer_tip">Todos los datos y permisos de Horas de pantalla, incluidas las configuraciones individuales, así como los elementos almacenados localmente y sincronizados con la nube, se eliminarán después de que desactives esta función.</string>
-    <string name="stop_summary">Las estadísticas de Horas de pantalla y los datos serán eliminados cuando esta función esté desactivada</string>
+    <string name="stop_app_timer_success">Horas de pantalla desactivado</string>
+    <string name="stop_app_timer_tip">Todos los datos y permisos de Horas de pantalla, incluidas configuraciones individuales, así como los elementos almacenados localmente y sincronizados con la nube, se eliminarán después de que desactives esta función.</string>
+    <string name="stop_summary">Las estadísticas de Horas de pantalla y los datos serán eliminados al desactivar esta función</string>
     <string name="suggestion">Comentarios</string>
     <string name="sunday">Domingo</string>
     <string name="sunday_short">Dom</string>
@@ -631,7 +631,7 @@ no se generan en el segundo espacio"</string>
     <string name="the_united_nations_day">Día de las Naciones Unidas</string>
     <string name="the_valentines_day">"Día de San Valentín"</string>
     <string name="the_water_lantern_festival">Festival de la linterna de agua</string>
-    <string name="thememanager_not_found">"No se pudo abrir Temas. Asegúrate de que la aplicación está instalada en u ditspositivo."</string>
+    <string name="thememanager_not_found">"No se pudo abrir Temas. Comprueba si esta la aplicación está instalada."</string>
     <string name="thursday">Jueves</string>
     <string name="thursday_short">Jue</string>
     <string name="thursday_shortest">Jue</string>
@@ -649,7 +649,7 @@ no se generan en el segundo espacio"</string>
     <string name="today_use_time">Horas de pantalla: %1$s</string>
     <string name="tomorrow">Mañana</string>
     <string name="toucan_info">Toucans have large, colorful bills. They often make their nests in tree hollows.</string>
-    <string name="touch_description">Los botones y accesos directos optimizados te ayudarán a evitar toques accidentales</string>
+    <string name="touch_description">Los botones y accesos directos optimizados ayudan a evitar toques accidentales</string>
     <string name="touch_title">Controles táctiles mejorados</string>
     <string name="tree_hyrax">Tree hyrax</string>
     <string name="trend_from_yesterday_equal">Igual que ayer</string>
@@ -668,27 +668,27 @@ no se generan en el segundo espacio"</string>
     <string name="usage_app_desktop_widget_limit">%s restante</string>
     <string name="usage_app_get_it">Entendido</string>
     <string name="usage_app_holiday_limit">Días libres</string>
-    <string name="usage_app_limit_alter_summary">"Parece que este límite de tiempo es más corto que el tiempo de uso de hoy de esta aplicación. ¿Establecer límite de todas formas?"</string>
-    <string name="usage_app_limit_alter_title">Compruba el límite de horas de pantalla</string>
-    <string name="usage_app_limit_prelong">Extender el tiempo</string>
+    <string name="usage_app_limit_alter_summary">"Este límite de tiempo es inferior al uso de hoy de esta aplicación. ¿Establecer este límite?"</string>
+    <string name="usage_app_limit_alter_title">Comprueba el límite de horas de pantalla</string>
+    <string name="usage_app_limit_prelong">Aumentar el tiempo</string>
     <string name="usage_app_limit_reach_summay">%s restante</string>
     <string name="usage_app_limit_reach_summay_new">Pulsa para añadir %d min</string>
-    <string name="usage_app_limit_reach_title">%s está alcanzando su límite de horas de pantalla</string>
+    <string name="usage_app_limit_reach_title">%s está llegando al límite de horas de pantalla</string>
     <string name="usage_app_limit_reach_title_new" formatted="false">Horas de pantalla restantes para %1s: %2s</string>
     <string name="usage_app_limit_summary">"Las aplicaciones seleccionadas no estarán disponibles al alcanzar el límite"</string>
     <string name="usage_app_limit_title">Limitar las horas de pantalla</string>
     <string name="usage_app_other_settings">Ajustes adicionales</string>
     <string name="usage_app_over_content">"Hoy has usado esta aplicación durante %s."</string>
-    <string name="usage_app_over_summary">"Ya has llegado a tu límite. ¡Tiempo agotado!"</string>
+    <string name="usage_app_over_summary">"Ya has llegado al límite. ¡Tiempo agotado!"</string>
     <string name="usage_app_set_limit_time">Establecer límite</string>
-    <string name="usage_app_stop_desc">Todos los datos y permisos de tiempo de pantalla, incluidas las configuraciones individuales, así como los elementos relacionados almacenados localmente, se eliminarán después de que desactive esta función.</string>
-    <string name="usage_app_system_app_summary">"No se puede limitar las horas de pantalla para aplicaciones del sistema"</string>
+    <string name="usage_app_stop_desc">Todos los datos y permisos de Horas de pantalla, incluidas configuraciones individuales, así como los elementos relacionados almacenados localmente, se eliminarán al  desactivar esta función.</string>
+    <string name="usage_app_system_app_summary">"No puedes limitar el uso de aplicaciones del sistema"</string>
     <string name="usage_app_weekday_limit">Entre semana</string>
     <string name="usage_app_weekend_limit">Fines de semana</string>
     <string name="usage_beat_fans">Mejor que el %s de los Mi Fans</string>
     <string name="usage_continuous_days">Racha</string>
     <string name="usage_creating_weekly_report">Creando informe semanal…</string>
-    <string name="usage_cta_desc">"¡Bienvenido a Configuración! Para proporcionarle estadísticas de tiempo de pantalla y modo de enfoque, esta aplicación debe recopilar los siguientes datos: la cantidad de veces que desbloquea el dispositivo, la lista de sus aplicaciones junto con la duración de uso correspondiente, la cantidad de veces que se enciende la pantalla, y ajustes del modo de enfoque. Los datos recopilados solo se almacenarán localmente en este dispositivo.
+    <string name="usage_cta_desc">"¡Te damos la bienvenida a Configuración! Para proporcionar estadísticas de tiempo de pantalla, esta aplicación recopilará los siguientes datos: cantidad de veces que desbloqueas el dispositivo, la lista de aplicaciones y su tiempo de uso, la cantidad de encendidos de la pantalla y ajustes del modo de enfoque. Los datos recopilados tan solo se almacenarán localmente en el dispositivo.
 "</string>
     <string name="usage_current_week_usage">%s de media en los últimos 7 días</string>
     <string name="usage_device_limit_app_prolong">Añadir tiempo</string>
@@ -697,14 +697,14 @@ no se generan en el segundo espacio"</string>
     <string name="usage_device_limit_app_prolong_time3">Añadir 60 minutos</string>
     <string name="usage_device_limit_app_prolong_time4">"No limitar hoy"</string>
     <string name="usage_device_limit_app_prolong_time5">Añadir tiempo una vez</string>
-    <string name="usage_device_limit_notifation_summary_start">"Llegarás a tu límite en %1$s"</string>
+    <string name="usage_device_limit_notifation_summary_start">"Llegarás al límite en %1$s"</string>
     <string name="usage_device_limit_notifation_title">Tiempo restante de hoy</string>
-    <string name="usage_device_limit_time_over">"Has llegado a tu límite de hoy (%1$s)"</string>
+    <string name="usage_device_limit_time_over">"Has llegado al límite de hoy (%1$s)"</string>
     <string name="usage_exit">Salir</string>
-    <string name="usage_focus_focus_premission_main_summary">Esta aplicación necesita acceder a la información de tu cuenta para registrar tus estadísticas de uso del Modo concentración.</string>
-    <string name="usage_focus_focus_premission_second_summary">"Si no aceptas conceder estos permisos, no podrás usar algunas funciones de esta aplicación; sin embargo, su funcionalidad básica seguirá estando disponible. Siempre puedes restringir los permisos o revocar su autorización en Ajustes."</string>
+    <string name="usage_focus_focus_premission_main_summary">Esta aplicación necesita acceder a la información de tu cuenta para registrar estadísticas de uso del Modo concentración.</string>
+    <string name="usage_focus_focus_premission_second_summary">"Si no aceptas conceder estos permisos, no podrás usar algunas de sus funciones; sin embargo, su funcionalidad básica seguirá disponible. Siempre puedes restringir permisos o revocar autorización en Ajustes."</string>
     <string name="usage_focus_new_summary">Permanece atento y centrado</string>
-    <string name="usage_focus_save_success">Guardado en la Galería con éxito</string>
+    <string name="usage_focus_save_success">Guardado en la Galería</string>
     <string name="usage_focus_summary_level1">Dedicar unos minutos a mantenerse concentrado es fácil.</string>
     <string name="usage_focus_summary_level2">Centrarse puede convertirse en una rutina satisfactoria.</string>
     <string name="usage_focus_summary_level3">Mantén la calma, evita las molestias.</string>
@@ -715,21 +715,21 @@ no se generan en el segundo espacio"</string>
     <string name="usage_focus_title_level3">Destaca entre lo mundano</string>
     <string name="usage_focus_title_level4">Encuentra satisfacción en la consistencia</string>
     <string name="usage_focus_title_level5">Mantente centrado</string>
-    <string name="usage_home_permission_account_summary">Para iniciar sesión con una Cuenta Mi y sincronizar estadísticas de Horas de pantalla</string>
+    <string name="usage_home_permission_account_summary">Para iniciar sesión con una cuenta Xiaomi y sincronizar las estadísticas de Horas de pantalla</string>
     <string name="usage_home_permission_account_title">Acceso a la información de la cuenta</string>
     <string name="usage_home_permission_phone_summary">Para identificar tu dispositivo usando VAID</string>
     <string name="usage_home_permission_phone_title">Acceder a la información del dispositivo</string>
-    <string name="usage_home_premission_main_summary">"¡Bienvenido a Horas de pantalla! Puedes usar esta aplicación para establecer límites de tiempo de pantalla, ver estadísticas y cambiar al Modo concentración. Esta aplicación necesita recopilar información sobre el tiempo de pantalla (por ejemplo, la cantidad de veces que desbloqueas tu teléfono y enciendes la pantalla, así como durante cuánto tiempo usas las aplicaciones) para que funcione con normalidad."</string>
-    <string name="usage_home_premission_main_summary_new">"¡Bienvenido a Horas de pantalla! 
-Para poder trabajar con normalidad, esta aplicación necesita recolectar información sobre el tiempo de pantalla: la cantidad de veces que desbloqueas tu teléfono, los nombres de las aplicaciones y la duración del uso de la aplicación son necesarios para generar estadísticas de Horas de pantalla; la configuración del Modo concentración es requerida para generar estadísticas del Modo concentración.
-Esta aplicación también necesita conectarse a internet y requiere los siguientes permisos para recolectar tu información personal:"</string>
-    <string name="usage_home_premission_main_summary_new_o">"¡Bienvenido a Horas de pantalla! 
-Para poder trabajar con normalidad, esta aplicación necesita recolectar información sobre el tiempo de pantalla: la cantidad de veces que desbloqueas tu teléfono, los nombres de las aplicaciones y la duración del uso de la aplicación son necesarios para generar estadísticas de Horas de pantalla.
-Esta aplicación también necesita conectarse a internet y requiere los siguientes permisos para recolectar tu información personal:"</string>
-    <string name="usage_home_premission_second_summary">Para poder trabajar normalmente, esta aplicación necesita recolectar tu información personal. Protegeremos tu información personal de acuerdo con las leyes, regulaciones y políticas de privacidad relevantes.</string>
-    <string name="usage_home_premission_second_summary_double_link_prefix">"Protegeremos tu información personal de acuerdo con las leyes, regulaciones y políticas de privacidad relevantes. Si no aceptas otorgar tales permisos o compartir y cargar tu información personal, no podrás usar esta aplicación. Revoca tu autorización en Horas de pantalla &gt; Ajustes &gt; Desactivar Horas de pantalla."</string>
-    <string name="usage_home_premission_second_summary_double_link_suffix" formatted="false">&lt;Data&gt;Antes de usar esta aplicación, lee acepta nuestro &lt;a href=\'%1s\'&gt;Acuerdo de Usuario&lt;/a&gt; y &lt;a href=\'%2s\'&gt;Política de Privacidad&lt;/a&gt;.&lt;/Data&gt;</string>
-    <string name="usage_home_premission_second_summary_new">"Protegeremos tu información personal de acuerdo con las leyes, regulaciones y políticas de privacidad relevantes. Si no aceptas otorgar tales permisos o compartir y cargar tu información personal, no podrás usar esta aplicación. Revoca tu autorización en Horas de pantalla &gt; Ajustes &gt; Desactiva Horas de pantalla. Si tienes más preguntas sobre la privacidad, puedes contactarnos en privacy@xiaomi.com."</string>
+    <string name="usage_home_premission_main_summary">"¡Te damos la bienvenida a Horas de pantalla! Aquí puedes establecer límites de uso de pantalla, ver estadísticas y cambiar al Modo concentración. Para funcionar normalmente es necesario recopilar información sobre el tiempo de pantalla (por ejemplo, cuantas veces desbloqueas el dispositivo o enciendes la pantalla y durante cuánto tiempo usas cada aplicación)"</string>
+    <string name="usage_home_premission_main_summary_new">"¡Te damos la bienvenida a Horas de pantalla! 
+Para funcionar normalmente, esta aplicación necesita recopilar tu información personal sobre el tiempo de uso de la pantalla. Las veces que desbloqueas el dispositivo, la lista de las aplicaciones y uso de las mismas se usan para generar estadísticas de Horas de pantalla. La configuración del modo Concentración se usa para generar estadísticas de dicho modo.
+Esta aplicación también usa la conexión de Internet y necesita los siguientes permisos:"</string>
+    <string name="usage_home_premission_main_summary_new_o">"¡Te damos la bienvenida a Horas de pantalla! 
+Para funcionar normalmente, esta aplicación necesita recopilar tu información personal sobre el tiempo de uso de la pantalla. Las veces que desbloqueas el dispositivo, la lista de las aplicaciones y uso de las mismas se usan para generar estadísticas de Horas de pantalla.
+Esta aplicación también usa la conexión de Internet y necesita los siguientes permisos:"</string>
+    <string name="usage_home_premission_second_summary">Para funcionar normalmente, esta aplicación necesita recolectar tu información personal. Protegeremos tu información personal de acuerdo con las leyes, regulaciones y políticas de privacidad relevantes.</string>
+    <string name="usage_home_premission_second_summary_double_link_prefix">"Protegeremos tu información personal de acuerdo con las leyes, regulaciones y políticas de privacidad relevantes. Si no aceptas conceder estos permisos o compartir y cargar tu información personal, no podrás usar esta aplicación. Puedes revocar tu autorización en Horas de pantalla &gt; Ajustes &gt; Desactivar Horas de pantalla."</string>
+    <string name="usage_home_premission_second_summary_double_link_suffix" formatted="false">&lt;Data&gt;Antes de usar esta aplicación, lee y acepta nuestro &lt;a href=\'%1s\'&gt;Acuerdo de Usuario&lt;/a&gt; y &lt;a href=\'%2s\'&gt;Política de Privacidad&lt;/a&gt;.&lt;/Data&gt;</string>
+    <string name="usage_home_premission_second_summary_new">"Protegeremos tu información personal de acuerdo con las leyes, regulaciones y políticas de privacidad relevantes. Si no aceptas conceder estos permisos o compartir y cargar tu información personal, no podrás usar esta aplicación. Puedes revocar tu autorización en Horas de pantalla &gt; Ajustes &gt; Desactivar Horas de pantalla. Si tienes preguntas sobre la privacidad, puedes contactarnos en privacy@xiaomi.com."</string>
     <string name="usage_new_home_app_limit_summary">Establece un límite diario de horas de pantalla en esta aplicación</string>
     <string name="usage_new_home_app_limit_title">Limitar las horas de pantalla</string>
     <string name="usage_new_home_average">"Media "</string>
@@ -751,7 +751,7 @@ Esta aplicación también necesita conectarse a internet y requiere los siguient
     <string name="usage_new_home_name">Nombre</string>
     <string name="usage_new_home_show_more_data_summary">También puedes limitar las horas de pantalla para aplicaciones individuales</string>
     <string name="usage_new_home_show_more_data_title">Ver más estadísticas</string>
-    <string name="usage_new_home_sys_no_limit_summary">"No se puede limitar las horas de pantalla para aplicaciones del sistema"</string>
+    <string name="usage_new_home_sys_no_limit_summary">"No puedes limitar las horas de pantalla de aplicaciones del sistema"</string>
     <string name="usage_new_home_unlock_equals_text">Igual que el día anterior</string>
     <string name="usage_new_home_unused">"Sin uso"</string>
     <string name="usage_new_home_update">Cambiar</string>
@@ -769,23 +769,23 @@ Esta aplicación también necesita conectarse a internet y requiere los siguient
     <string name="usage_new_home_week_unlock_equals_text">Igual que la semana anterior</string>
     <string name="usage_new_home_week_usage_title">Aplicaciones individuales</string>
     <string name="usage_new_home_which_week">Semana %d</string>
-    <string name="usage_no_net_summary">Comprueba la configuración de red y vuelve a intentarlo</string>
-    <string name="usage_optional_summary">"Se requiere de estos permisos al usar las funciones adicionales."</string>
+    <string name="usage_no_net_summary">Comprueba la configuración de red e inténtalo otra vez</string>
+    <string name="usage_optional_summary">"Se necesitan estos permisos al usar las funciones adicionales."</string>
     <string name="usage_optional_title">Permisos opcionales</string>
-    <string name="usage_permisison_agree_desc_o">Para proporcionarte estadísticas de Horas de pantalla, esta aplicación necesita recopilar los siguientes datos: el número de veces que desbloqueas el dispositivo, la lista de tus aplicaciones junto con la duración de uso correspondiente.</string>
-    <string name="usage_permisison_agree_desc_p">Para proporcionarte estadísticas de Horas de pantalla y Modo concentración, esta aplicación necesita recopilar los siguientes datos: el número de veces que desbloqueas el dispositivo, la lista de tus aplicaciones junto con la duración de uso correspondiente, el número de veces que se enciende tu pantalla y los ajustes del Modo concentración.</string>
-    <string name="usage_permission_double_link" formatted="false">&lt;Data&gt;Esta aplicación necesita conectarse a internet y recopilar los datos personales necesarios para poder funcionar con normalidad. Para comprender plenamente tus derechos como usuario, así como la forma en que usamos tus datos, lee y acepta nuestro &lt;a href=\'%1s\'&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &lt;a href=\'%2s\'&gt;Política de Privacidad&lt;/a&gt;.&lt;/Data&gt;</string>
-    <string name="usage_permission_main_desc">"¡Bienvenido a Horas de pantalla!
-Esta aplicación necesita conectarse a internet y requiere de los siguientes permisos para poder trabajar con normalidad:"</string>
+    <string name="usage_permisison_agree_desc_o">Para proporcionarte estadísticas de Horas de pantalla, esta aplicación necesita recopilar los siguientes datos: cuantas veces desbloqueas el dispositivo, la lista de aplicaciones y el uso de las mismas.</string>
+    <string name="usage_permisison_agree_desc_p">Para proporcionarte estadísticas de Horas de pantalla y modo Concentración, esta aplicación necesita recopilar los siguientes datos: cuantas veces desbloqueas el dispositivo, la lista de aplicaciones y el uso de las mismas, cuantas veces activas la pantalla y los ajustes del modo Concentración.</string>
+    <string name="usage_permission_double_link" formatted="false">&lt;Data&gt;Esta aplicación usa la conexión a Internet y recopila los datos personales necesarios para funcionar normalmente. Para comprender plenamente tus derechos como usuario, así como la forma en que usamos tus datos, lee y acepta nuestro &lt;a href=\'%1s\'&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &lt;a href=\'%2s\'&gt;Política de Privacidad&lt;/a&gt;.&lt;/Data&gt;</string>
+    <string name="usage_permission_main_desc">"¡Te damos la bienvenida a Horas de pantalla!
+Esta aplicación usa la conexión a Internet y necesita los siguientes permisos para funcionar normalmente:"</string>
     <string name="usage_permission_title">Atención</string>
-    <string name="usage_reach_device_limit">"¡Tiempo agotado! Has llegado a tu límite."</string>
+    <string name="usage_reach_device_limit">"¡Tiempo agotado! Has alcanzado tu límite."</string>
     <string name="usage_reach_device_limit_warning_text">"Has llegado a tu límite de horas de pantalla de hoy"</string>
-    <string name="usage_refresh">Vuelve a intentarlo</string>
+    <string name="usage_refresh">Inténtalo otra vez</string>
     <string name="usage_request_error_summary">Ha ocurrido un error desconocido</string>
     <string name="usage_request_timeout_summary">Tiempo de espera agotado</string>
     <string name="usage_runtime_per_des_summary">Para guardar tus estadísticas de Horas de pantalla</string>
     <string name="usage_runtime_per_des_title">"Añadir y eliminar archivos en el almacenamiento interno del dispositivo"</string>
-    <string name="usage_runtime_summary">Estos permisos son necesarios para que las funciones y servicios básicos de esta aplicación estén disponibles.</string>
+    <string name="usage_runtime_summary">Estos permisos son necesarios para que estén disponibles las funciones y servicios básicos de la aplicación.</string>
     <string name="usage_runtime_title">Permisos obligatorios</string>
     <string name="usage_special_feature">Funciones especiales</string>
     <string name="usage_state_accurate_date">dd MMMM yyyy</string>
@@ -805,31 +805,31 @@ Esta aplicación necesita conectarse a internet y requiere de los siguientes per
     <string name="usage_state_app_use_time">Horas de pantalla de aplicaciones</string>
     <string name="usage_state_card_add">Añadir</string>
     <string name="usage_state_card_cancel">Cancelar</string>
-    <string name="usage_state_card_summary">Añade la tarjeta \"Horas de pantalla\" a la Bóveda de aplicaciones para administrar tu tiempo de forma más eficiente.</string>
+    <string name="usage_state_card_summary">Añade la tarjeta \"Horas de pantalla\" a la Bóveda de Aplicaciones para administrar mejor tu tiempo.</string>
     <string name="usage_state_category">Categorías</string>
     <string name="usage_state_channel_mouth">Últimos 30 días</string>
     <string name="usage_state_channel_week">Últimos 7 días</string>
     <string name="usage_state_date">d MMM</string>
-    <string name="usage_state_device_limit_summary">Establece límites diarios de horas de pantalla para tu dispositivo</string>
-    <string name="usage_state_device_limit_title">Límites de horas de pantalla del dispositivo</string>
+    <string name="usage_state_device_limit_summary">Establece límites diarios de horas de pantalla</string>
+    <string name="usage_state_device_limit_title">Límites de horas de pantalla</string>
     <string name="usage_state_device_noti_today_tip_title">Notificaciones entre %1$d:00 y %2$d:00</string>
     <string name="usage_state_device_unlock_today_tip_title">Dispositivo desbloqueado entre %1$d:00 y %2$d:00</string>
-    <string name="usage_state_download">Guardar en Galería</string>
+    <string name="usage_state_download">Guardar en la Galería</string>
     <string name="usage_state_duration_title">Esta sesión</string>
     <string name="usage_state_focus_call">Llamada de emergencia</string>
     <string name="usage_state_focus_level1">Estrella emergente</string>
     <string name="usage_state_focus_level_summary">Nivel actual: %s</string>
-    <string name="usage_state_focus_mode_experience_warning_message">"El Modo concentración solo permite usar la cámara y hacer llamadas de emergencia. No podrás desactivar el Modo concentración de forma prematura."</string>
-    <string name="usage_state_focus_mode_experience_warning_message_pad">"El modo concentración solo permite usar la cámara. No podrá desactivar el modo concentración antes de tiempo."</string>
-    <string name="usage_state_focus_mode_experience_warning_message_sim_pad">"El modo concentración solo permite usar la cámara y hacer llamadas de emergencia. No podrá desactivar el modo de enfoque antes de tiempo."</string>
-    <string name="usage_state_focus_mode_summary">Restringe todas las funciones excepto las llamadas de emergencia y la Cámara</string>
+    <string name="usage_state_focus_mode_experience_warning_message">"El modo Concentración solo permite usar la cámara y hacer llamadas de emergencia. No puedes desactivarlo antes de tiempo."</string>
+    <string name="usage_state_focus_mode_experience_warning_message_pad">"El modo Concentración solo permite usar la cámara. No puedes desactivarlo antes de tiempo."</string>
+    <string name="usage_state_focus_mode_experience_warning_message_sim_pad">"El modo Concentración solo permite usar la cámara y hacer llamadas de emergencia. No puedes desactivarlo antes de tiempo."</string>
+    <string name="usage_state_focus_mode_summary">Restringe todas las funciones excepto llamadas de emergencia y Cámara</string>
     <string name="usage_state_focus_mode_summary1">Un buen comienzo es la mitad del camino</string>
     <string name="usage_state_focus_mode_summary2">Mantente concentrado</string>
-    <string name="usage_state_focus_mode_summary3">Se necesita esfuerzo para mantenerse concentrado</string>
-    <string name="usage_state_focus_mode_title">Modo concentración</string>
-    <string name="usage_state_focus_mode_warning_message">"El Modo concentración solo permite usar la cámara y hacer llamadas de emergencia. No podrás desactivar el Modo concentración de forma prematura."</string>
-    <string name="usage_state_focus_mode_warning_message_pad">"El modo concentración solo permite usar la cámara. No podrá desactivar el modo concentración antes de tiempo."</string>
-    <string name="usage_state_focus_mode_warning_message_sim_pad">"El modo concentración solo permite usar la cámara y hacer llamadas de emergencia. No podrá desactivar el modo concentración antes de tiempo."</string>
+    <string name="usage_state_focus_mode_summary3">Necesitas esfuerzo para mantenerse concentrado</string>
+    <string name="usage_state_focus_mode_title">Modo Concentración</string>
+    <string name="usage_state_focus_mode_warning_message">"El modo Concentración solo permite usar la cámara y hacer llamadas de emergencia. No puedes desactivarlo antes de tiempo."</string>
+    <string name="usage_state_focus_mode_warning_message_pad">"El modo Concentración solo permite usar la cámara. No puedes desactivarlo antes de tiempo."</string>
+    <string name="usage_state_focus_mode_warning_message_sim_pad">"El modo Concentración solo permite usar la cámara y hacer llamadas de emergencia. No puedes desactivarlo antes de tiempo."</string>
     <string name="usage_state_focus_mode_warning_title">Atención</string>
     <string name="usage_state_focus_success">Desafío completado</string>
     <string name="usage_state_focus_take_photo">Cámara</string>
@@ -850,7 +850,7 @@ Esta aplicación necesita conectarse a internet y requiere de los siguientes per
     <string name="usage_state_num_level">"Nivel %d: "</string>
     <string name="usage_state_open_focus_mode">Activar el Modo concentración</string>
     <string name="usage_state_over_p">Mejor que</string>
-    <string name="usage_state_remind_new_summary">Recibir una notificación al alcanzar el límite de horas de pantalla</string>
+    <string name="usage_state_remind_new_summary">Recibir notificación al llegar al límite de horas de pantalla</string>
     <string name="usage_state_remind_summary">Activar para recibir alertas de horas de pantalla</string>
     <string name="usage_state_remind_title">Alerta de horas de pantalla</string>
     <string name="usage_state_rest_day">Fines de semana</string>
@@ -887,10 +887,10 @@ Esta aplicación necesita conectarse a internet y requiere de los siguientes per
     <string name="usage_stats_device_limit_summary">Establecer límites diarios de uso</string>
     <string name="usage_stats_experience_text">Pulsa para intentar (1 minuto)</string>
     <string name="usage_stats_limit_time_accuracy_title">Precisión del tiempo restante estimado</string>
-    <string name="usage_stats_limit_time_high_accuracy_summary">Mostrar el tiempo restante con precisión de un minuto. Esto incrementa el consumo de energía.</string>
+    <string name="usage_stats_limit_time_high_accuracy_summary">Mostrar el tiempo restante con precisión de un minuto. Incrementa el consumo de energía.</string>
     <string name="usage_stats_limit_time_high_accuracy_summary_new">Preciso hasta el minuto (consume más energía)</string>
     <string name="usage_stats_limit_time_high_accuracy_title">Alto</string>
-    <string name="usage_stats_limit_time_low_accuracy_summary">Mostrar tiempo restante con precisión de un minuto en las 2 horas restantes para ahorrar batería</string>
+    <string name="usage_stats_limit_time_low_accuracy_summary">Mostrar tiempo restante con precisión de un minuto en las 2 horas restantes para ahorrar energía</string>
     <string name="usage_stats_limit_time_low_accuracy_summary_new">Precisión hasta el minuto en %d horas restantes (ahorra energía)</string>
     <string name="usage_stats_limit_time_low_accuracy_title">Bajo</string>
     <string name="usage_stats_limit_time_warn">Avisos de horas de pantalla</string>
@@ -932,7 +932,7 @@ Esta aplicación necesita conectarse a internet y requiere de los siguientes per
     <string name="usagestats_device_timeout_positive">Entendido</string>
     <string name="usagestats_device_timeout_title">Alerta de horas de pantalla</string>
     <string name="v7_preference_off">DESACTIVADA</string>
-    <string name="v7_preference_on">ACTIVADO</string>
+    <string name="v7_preference_on">ACTIVADA</string>
     <string name="vampire_finch">Vampire ground finch</string>
     <string name="vervet_monkey">Green monkey</string>
     <string name="wait_tip">Un momento…</string>

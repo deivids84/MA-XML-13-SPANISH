@@ -573,6 +573,7 @@ Si este permiso está desactivado, las alarmas existentes y los eventos basados 
     <string name="allow_mock_location_summary">Permitir simular ubicación</string>
     <string name="allow_oaid_used">Usar ID virtual</string>
     <string name="allow_oaid_used_desc">"MIUI no proporcionará una ID virtual (OAID) a las aplicaciones instaladas. algunas funciones de recomendación personal podrían no funcionar correctamente debido a ello."</string>
+    <string name="allow_ongoing_title">Permitir las notificaciones permanentes</string>
     <string name="allow_overlay_description">Permite que esta app se muestre sobre otras en uso. La app podrá ver si tocas o cambias lo que aparece en la pantalla.</string>
     <string name="allow_sound_title">Permitir sonido de reproducción</string>
     <string name="allow_vibrate_title">Permitir vibración</string>
@@ -1949,6 +1950,7 @@ Esto afecta otras apps o conversaciones que pueden crear burbujas."</string>
     <string name="captions_category_title">Subtítulos</string>
     <string name="capture_system_heap_dump_title">Capturar volcado de pila del sistema</string>
     <string name="capturing_system_heap_dump_message">Capturando volcado del montón del sistema</string>
+    <string name="card_holder_header_title">Cartera</string>
     <string name="card_main_hbassistant_title">Sobre rojo;Paquete rojo;Dinero</string>
     <string name="cards_passes_lower">tarjetas y pases</string>
     <string name="cards_passes_sentence">Tarjetas y pases</string>
@@ -9449,8 +9451,9 @@ Toque \"+\" para agregar palabras."</string>
     <string name="virtual_sim_global_description">Conectarse a red de datos sin tarjeta SIM</string>
     <string name="virtual_sim_global_title">Servicio de datos móviles</string>
     <string name="virtual_sim_title">Red de datos de roaming</string>
-    <string name="virtual_surround_sound_switch_summary">"Enriquezca la profundidad del sonido para la reproducción de audio y video en los auriculares (Esta función no funcionará cuando %.1f audio se reproduzca)"</string>
-    <string name="virtual_surround_sound_switch_title">Sonido inmersivo</string>
+    <string name="virtual_surround_sound_switch_summary">Mejorar la profundidad de sonido en la reproducción de audio y vídeo en auriculares</string>
+    <string name="virtual_surround_sound_switch_summary_global">"Mejorar la profundidad de sonido en la reproducción de audio y vídeo en auriculares. Esta característica no funciona con LDAC activado."</string>
+    <string name="virtual_surround_sound_switch_title">Efectos de sonido envolvente</string>
     <string name="virus_scan">Análisis de virus</string>
     <string name="virus_scan_app_continue">Reanudar escaneo</string>
     <string name="virus_scan_app_finish">Hecho</string>

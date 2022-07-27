@@ -32,6 +32,8 @@
     <string name="afternoon">Tarde</string>
     <string name="am">AM</string>
     <string name="app_name">MIUI+ Beta</string>
+    <string name="app_no_storage_permission">Antes, debes permitir que %1$s acceda al almacenamiento en Ajustes &gt; Aplicaciones &gt; %2$s &gt; Permisos</string>
+    <string name="app_opened_in_new_window">Abrir esta aplicación en una ventana nueva</string>
     <string name="cancel">Cancelar</string>
     <string name="cast_mcc_tips_button_cancel">Ignorar</string>
     <string name="cast_mcc_tips_button_ok">Configuración</string>
@@ -195,7 +197,6 @@ Cierra esta página y vuelve a intentarlo."</string>
     <string name="pad_mirror_device_locked_tips_3">Toca dos veces para despertar</string>
     <string name="pad_mirror_disconnect_tips_1">Conexión perdida</string>
     <string name="pad_mirror_disconnect_tips_2">Asegúrese de que Wi-Fi y Bluetooth estén activados en ambos dispositivos y vuelva a intentarlo.</string>
-    <string name="pad_settings_bluetooth_enable_summary">Active Bluetooth para poder encontrar dispositivos cercanos. ¿Activar ahora?</string>
     <string name="pad_settings_bluetooth_enable_title">Activar Bluetooth</string>
     <string name="pad_settings_connect_pad_group">Trabaja con tu tableta</string>
     <string name="pad_settings_connect_pc_group">Trabaja con tu computadora</string>
@@ -206,7 +207,6 @@ Cierra esta página y vuelve a intentarlo."</string>
     <string name="pad_settings_handoff_device_title">Dispositivo conectado</string>
     <string name="pad_settings_handoff_disable">Desactivado</string>
     <string name="pad_settings_handoff_disconnect">No conectado</string>
-    <string name="pad_settings_handoff_enable_bluetooth">Activa Bluetooth para encontrar dispositivos cercanos</string>
     <string name="pad_settings_handoff_enable_disconnect">Mantenga los dispositivos cerca unos de otros con el Bluetooth activado</string>
     <string name="pad_settings_handoff_p2p_summary">Conéctese al punto de acceso portátil con un toque</string>
     <string name="pad_settings_handoff_p2p_title">Punto de acceso</string>
@@ -214,11 +214,11 @@ Cierra esta página y vuelve a intentarlo."</string>
     <string name="pad_settings_handoff_video_title">Vídeos</string>
     <string name="pad_settings_handoff_wps_summary">Vea, edite y guarde documentos mientras cambia de dispositivo</string>
     <string name="pad_settings_handoff_wps_title">Documentos</string>
-    <string name="pad_settings_pad_handoff_summary">Usa la transferencia con aplicaciones, portapapeles, videos y otros elementos en el otro dispositivo asociado con tu cuenta Mi</string>
+    <string name="pad_settings_pad_handoff_summary">Usa la transferencia de aplicaciones, portapapeles, vídeos y demás en el otro dispositivo asociado con tu cuenta Xiaomi</string>
     <string name="pad_settings_pc_history_title">Historial de conexiones</string>
     <string name="pad_settings_pc_trusted_title">Conectar automáticamente</string>
     <string name="pad_settings_pc_use_tile">Acerca de esta característica</string>
-    <string name="pad_settings_phone_handoff_summary">Use la transferencia con aplicaciones, portapapeles, videos y otros elementos en el otro dispositivo asociado con su cuenta Mi</string>
+    <string name="pad_settings_phone_handoff_summary">Usa la transferencia de aplicaciones, portapapeles, vídeos y demás en el otro dispositivo asociado con tu cuenta Xiaomi</string>
     <string name="pad_settings_phone_handoff_title">Manos libres</string>
     <string name="pcmode_not_support_multi_window">"El modo PC no admite la visualización de varias ventanas."</string>
     <string name="pm">PM</string>
@@ -246,6 +246,7 @@ Cierra esta página y vuelve a intentarlo."</string>
     <string name="screen_num_over_limit">"No se pueden abrir más ventanas"</string>
     <string name="search_menu_title">Buscar</string>
     <string name="send">Enviar</string>
+    <string name="settings_bluetooth_enable_summary">Activa Bluetooth para encontrar dispositivos cercanos. ¿Activar ahora?</string>
     <string name="settings_connect_more_help"><u>Ayuda</u></string>
     <string name="settings_connect_summary1">Descargue e instale MIUI+ Beta en su computadora: https://plus.miui.com.</string>
     <string name="settings_connect_summary2">Escanee el código QR en la pantalla de la computadora con su dispositivo móvil. Puede utilizar varias aplicaciones del sistema (por ejemplo, escáner, cámara, mi navegador) para hacer eso.</string>
@@ -260,6 +261,7 @@ Cierra esta página y vuelve a intentarlo."</string>
     <string name="settings_feature_dnd_summary">Silenciar notificaciones cuando su dispositivo está conectado a una computadora</string>
     <string name="settings_feature_dnd_title">No Molestar</string>
     <string name="settings_feature_intro">Acerca de esta característica</string>
+    <string name="settings_handoff_enable_bluetooth">Activar Bluetooth para encontrar dispositivos cercanos</string>
     <string name="settings_history">Historial de conexiones</string>
     <string name="settings_history_clear">Limpiar</string>
     <string name="settings_history_clear_dialog_title">¿Borrar el historial de conexiones ahora?</string>

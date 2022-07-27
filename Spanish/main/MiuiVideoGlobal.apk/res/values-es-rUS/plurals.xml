@@ -98,6 +98,14 @@ Disponible solo hoy"</item>
         <item quantity="other">"Hoy has visto %d minutos"</item>
         <item quantity="one">"Hoy has visto %d minuto"</item>
     </plurals>
+    <plurals name="incentive_popup_window_share_success">
+        <item quantity="other">Compartido. Has ganado %d puntos.</item>
+        <item quantity="one">Compartido. Has ganado %d punto.</item>
+    </plurals>
+    <plurals name="incentive_popup_window_subscribe_success">
+        <item quantity="other">Suscrito. Has ganado %d puntos.</item>
+        <item quantity="one">Suscrito. Has ganado %d punto.</item>
+    </plurals>
     <plurals name="incentive_task_watchvideo_begin">
         <item quantity="other">¡Gana %d puntos!</item>
         <item quantity="one">¡Gana %d punto!</item>

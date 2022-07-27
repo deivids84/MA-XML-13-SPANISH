@@ -1416,6 +1416,8 @@ dd/MM"</string>
     <string name="miui_notification_menu_snooze">Posponer</string>
     <string name="miui_notification_menu_title_not_allow">Restringir</string>
     <string name="miui_notification_menu_unfold">Marcar como importante</string>
+    <string name="miui_notification_slide_menu_msg_ongoing">¿Restringir notificaciones permanentes para \"%1$s\" ahora?</string>
+    <string name="miui_notification_slide_menu_ongoing">Restringir las notificaciones permanentes</string>
     <string name="miui_screen_rotation_freeze_message">Orientación de la pantalla bloqueada en el modo paisaje</string>
     <string name="miui_snooze_always_float">"No ocultar"</string>
     <string name="miui_snooze_cancel">Cancelar</string>

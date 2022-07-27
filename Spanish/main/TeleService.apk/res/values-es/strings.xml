@@ -1062,6 +1062,7 @@ Ponte en contacto con tu operador si el problema persiste."</string>
     <string name="hdcp_checking_title">Comprobación de HDCP</string>
     <string name="help_feedback_label">Ayuda y sugerencias</string>
     <string name="help_label">Ayuda y sugerencias</string>
+    <string name="hide_stk_name">Herramientas USIM</string>
     <string name="home">Página principal de ajustes</string>
     <string name="icon_content_description">Icono de diálogo</string>
     <string name="ime_security_warning">Este método de entrada puede registrar todo lo que escribas, incluidos datos personales, como las contraseñas y los números de las tarjetas de crédito. Procede de la aplicación %1$s. ¿Quieres usar este método de entrada?</string>
@@ -1575,6 +1576,8 @@ Póngase en contacto con sus operadores"</string>
     <string name="no_vm_number">Falta el número del buzón de voz.</string>
     <string name="no_vm_number_msg">No se ha almacenado ningún número de buzón de voz en la tarjeta SIM.</string>
     <string name="no_voip">"Llamada SIP no admitida"</string>
+    <string name="no_volte_call_service_notification_content2_for_cbn">"No puedes hacer llamadas. El servicio de voz HD no está registrado para SIM %d (China Broadnet)."</string>
+    <string name="no_volte_call_service_notification_content_for_cbn">"No puedes hacer llamadas. El servicio de voz HD no está registrado para la SIM de China Broadnet."</string>
     <string name="no_wifi_available">Debes estar conectado a una red Wi-Fi para realizar llamadas SIP (usa la opción de conexiones y redes inalámbricas).</string>
     <string name="noon">Mediodía</string>
     <string name="not_a_valid_port">El número de puerto debe estar comprendido entre %1$d y %2$d.</string>

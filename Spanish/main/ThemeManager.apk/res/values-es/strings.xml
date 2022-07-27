@@ -149,6 +149,7 @@
     <string name="classification_more_understand_you">Selecciona tu categoría favorita</string>
     <string name="clear_text_end_icon_content_description">Borrar texto</string>
     <string name="clearable_edittext_clear_description">Claro</string>
+    <string name="clock">Instalar Reloj</string>
     <string name="close">Cerrar</string>
     <string name="close_custom_permission_warning_text">"Sin permisos de almacenamiento, esta aplicación no podrá descargar elementos ni personalizar su dispositivo. ¿Desactivar de todos modos?"</string>
     <string name="close_custom_permission_warning_text_above_eleven">"Sin permisos de almacenamiento, esta aplicación no podrá personalizar el dispositivo. ¿Desactivar de todos modos?"</string>
@@ -455,6 +456,7 @@ Para desactivar esta función, ve a Ajustes &gt; Sonido y vibración &gt; Perfil
     <string name="incompatible_dialog_message">"Este tema no es compatible con la versión de MIUI instalada en tu dispositivo. Algunas partes de MIUI podrían no funcionar correctamente si aplicas este tema."</string>
     <string name="incompatible_dialog_ok">De acuerdo</string>
     <string name="incompatible_dialog_title">Problemas de compatibilidad</string>
+    <string name="install_clock">"Todavía no has instalado Reloj. ¿Descargar ahora?"</string>
     <string name="install_failed">"No se pudo instalar"</string>
     <string name="is_setting_wallpaper_message">Estableciendo fondo de pantalla…</string>
     <string name="item_resource_audio_optional_alarm_ring">Alarmas</string>

@@ -258,6 +258,8 @@ Mi Video está listo para una actualización.
 ¡Actualice la aplicación ahora para ver nuestras nuevas funcionalidades!
 Mi Video Team"</string>
     <string name="description">Descripción</string>
+    <string name="desktop_widget_local_media">Archivos multimedia</string>
+    <string name="desktop_widget_new">Nuevo</string>
     <string name="detail_select_source">Seleccionar fuente de reproducción</string>
     <string name="diagnosis_log_send_failed">"No se pudieron enviar los registros. Vuelva a intentarlo."</string>
     <string name="diagnosis_log_sent_format">"Registros enviados con éxito.
@@ -510,6 +512,7 @@ Envíe este código al supervisor."</string>
     <string name="galleryplus_notification_linkvideo_title4">Cientos de vídeos, gratis por un tiempo limitado</string>
     <string name="galleryplus_notification_linkvideo_title5">Transmitir tus programas favoritos gratis</string>
     <string name="galleryplus_notification_try_now_btn">Probar ahora</string>
+    <string name="galleryplus_notification_type_link_video">Cambiar a videos locales</string>
     <string name="galleryplus_online_cta">Mi Video necesita conectarse a internet para funcionar con normalidad. ¿Aceptar?</string>
     <string name="galleryplus_online_cta_agree">Aceptar</string>
     <string name="galleryplus_online_cta_disagree">"No acepto"</string>
@@ -616,6 +619,7 @@ Esta operación no afectará las imágenes de tu galería."</string>
     <string name="incentive_exchange">Canjear</string>
     <string name="incentive_exchange_code">Código</string>
     <string name="incentive_exchange_code_copy">Copiar</string>
+    <string name="incentive_exchange_code_copy_and_start">Usar</string>
     <string name="incentive_exchange_details">Detalles</string>
     <string name="incentive_exchange_details_current">Total del pedido</string>
     <string name="incentive_exchange_details_total">Saldo</string>
@@ -641,6 +645,9 @@ Esta operación no afectará las imágenes de tu galería."</string>
     <string name="incentive_task_title_novice">Para los recién llegados</string>
     <string name="incentive_task_to_get">Comenzar</string>
     <string name="incentive_task_to_login">Iniciar sesión</string>
+    <string name="incentive_toast_share_success_new">Se ha compartido</string>
+    <string name="incentive_toast_subscribe_success_new">Te has suscrito</string>
+    <string name="incentive_ui_tab_earn_credits">Puntos</string>
     <string name="incentive_view_all_prizes">Ver todas las recompensas</string>
     <string name="incentive_view_details">Detalles</string>
     <string name="inconsistent_pwd">"Las contraseñas no coinciden"</string>
@@ -1050,6 +1057,7 @@ para videos"</string>
     <string name="notification_recall_desc">Mi Video puede notificarle sobre videos populares y sus suscripciones.</string>
     <string name="notification_recall_title">Activar notificaciones</string>
     <string name="notification_tool">Caja de herramientas</string>
+    <string name="notification_type_channel_music">Reproducción musical</string>
     <string name="notify_apk_installed">Descargado con éxito</string>
     <string name="offline_notification_text">Toque para abrir el anuncio</string>
     <string name="offline_notification_title">Ver el anuncio que guardó cuando estaba sin conexión</string>

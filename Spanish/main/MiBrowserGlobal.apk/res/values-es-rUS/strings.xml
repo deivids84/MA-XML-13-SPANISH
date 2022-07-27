@@ -361,11 +361,9 @@ Desactive el interruptor para dejar de sincronizar."</string>
     <string name="branch_app_suggestion">Recomendados</string>
     <string name="branch_apps">Aplicaciones</string>
     <string name="branch_contacts">Contactos</string>
-    <string name="branch_function_search_for_more">La búsqueda mejorada te permite encontrar elementos en Ajustes, Contactos y más.</string>
     <string name="branch_give_relevant_permissions">Otorga al Navegador Mi los permisos correspondientes en Ajustes</string>
     <string name="branch_grant_permission">Permisos requeridos</string>
     <string name="branch_local_search_settings">Ajustes de búsqueda local</string>
-    <string name="branch_new_function">Nueva función</string>
     <string name="branch_search_guide_privacy">Esta función es proporcionada por Branch Metrics Inc. Compartiremos tu ubicación, búsquedas e ID de publicidad de Google con ellos. Lee y acepta sus <a href="http://url1"><font color="#B3000000">Términos y Condiciones</font></a> y <a href="http://url2"><font color="#B3000000">Política de Privacidad</font></a> antes de continuar.</string>
     <string name="branch_search_in_browser">Busca \"%1$s\" en el Navegador</string>
     <string name="branch_setting">Ajustes</string>
@@ -379,7 +377,6 @@ Desactive el interruptor para dejar de sincronizar."</string>
     <string name="browserFrameNetworkErrorLabel">Error de conexión</string>
     <string name="btn_agree">Aceptar</string>
     <string name="btn_cancel">Cancelar</string>
-    <string name="btn_confirm">Entendido</string>
     <string name="camera_permission_name">Usar la cámara</string>
     <string name="can_not_send_with_too_many">"No puede enviar tantos elementos a la vez"</string>
     <string name="cancel">Cancelar</string>
@@ -582,6 +579,7 @@ Desactive el interruptor para dejar de sincronizar."</string>
     <string name="continue_reading">Continuar leyendo</string>
     <string name="copy">Copiar</string>
     <string name="copy_url">Copiar dirección</string>
+    <string name="core_functions_of_browser">Características principales al alcance de la mano</string>
     <string name="could_not_load_data">"No se pudieron cargar los datos. Actualice y vuelva a intentarlo"</string>
     <string name="crash_page_button">Inténtalo de nuevo</string>
     <string name="crash_page_description">Se produjo un error al mostrar esta página web.</string>
@@ -785,6 +783,7 @@ Envíe este código al supervisor."</string>
     <string name="encrypt_success">Ocultado correctamente</string>
     <string name="encrypting">Encriptando…</string>
     <string name="end_user_license">Acuerdo de Licencia de Usuario Final</string>
+    <string name="enter_bookmark">Marcadores</string>
     <string name="enter_developer_mode">Acceder al modo desarrollador</string>
     <string name="enter_incongnito_mode">Iniciar Modo incógnito</string>
     <string name="enter_news_by_pull_down">Suelte para abrir las noticias</string>
@@ -1124,6 +1123,7 @@ para añadir libros al mismo"</string>
     <string name="go_me">Perfil</string>
     <string name="go_supermarket_button">Ir</string>
     <string name="go_supermarket_title">Más apps, más rápido y menos uso de datos en la App Store</string>
+    <string name="go_to_tab">Pestañas</string>
     <string name="gold_medals">Medallas de oro</string>
     <string name="google_bookmarks">Google</string>
     <string name="googlepay_anonymous_merge_dialog_agree">Iniciar sesión</string>
@@ -1635,7 +1635,6 @@ Dejar esta página ahora?"</string>
     <string name="navigationbar_rightbutton_actiontext_cancle">Cancelar</string>
     <string name="navigationbar_rightbutton_actiontext_go">Ir</string>
     <string name="navigationbar_rightbutton_actiontext_search">Buscar</string>
-    <string name="need_provide_permissions">"Necesitarás otorgar los permisos correspondientes para poder utilizar esta función."</string>
     <string name="net_error">Error de red</string>
     <string name="net_error__button_text">Intentar de nuevo</string>
     <string name="network_show_wifi_setting_tip_dialog_description">Se encontró un punto de acceso móvil cercano. ¿Conectarse?</string>
@@ -1842,6 +1841,7 @@ Dejar esta página ahora?"</string>
     <string name="per_month">Por mes</string>
     <string name="permission_agree_service">"He leído y acepto todos los términos y condiciones."</string>
     <string name="permission_alert_window">Permite al Navegador mostrar ventanas flotantes para poder usar esta función.</string>
+    <string name="permission_allow">Permitir</string>
     <string name="permission_contacts">Contactos</string>
     <string name="permission_deeplink_tip_title">¿Permitir que esta página abra %s?</string>
     <string name="permission_dialog_msg_camera">%s quiere usar su cámara</string>
@@ -1865,9 +1865,11 @@ Dejar esta página ahora?"</string>
     <string name="permission_open_location">Permita que Navegador Mi acceda a su ubicación en los Ajustes primero</string>
     <string name="permission_open_mic">Permita que Navegador Mi acceda al micrófono en los Ajustes primero</string>
     <string name="permission_open_storage">Permita que Navegador Mi acceda al almacenamiento interno en los Ajustes primero</string>
+    <string name="permission_request_contacts">Para funcionar normalmente, necesita permiso para acceder a los contactos.</string>
     <string name="permission_service">Términos y Condiciones</string>
     <string name="permission_sound_toast_message">Reproduciendo audio…</string>
     <string name="permission_storage">Almacenamiento</string>
+    <string name="permission_to_open">Ajustes</string>
     <string name="permission_unknown">Ha ocurrido un error.</string>
     <string name="permission_use">Permisos</string>
     <string name="permisssion_not_ask_again">"No volver a preguntar"</string>
@@ -2738,6 +2740,8 @@ recomendamos que uses el modo de lectura gratuita"</string>
     <string name="search_trending_new">Nuevo</string>
     <string name="search_trending_title">Tendencias</string>
     <string name="search_tupian">Imagen</string>
+    <string name="search_using_traceless_mode">Modo incógnito</string>
+    <string name="search_with_browser">Buscar con Navegador Mi</string>
     <string name="search_yahoo">Yahoo!</string>
     <string name="search_yicha">Yicha</string>
     <string name="secure_download_in_xiaomi_market">Descargar en App Store</string>
@@ -2790,6 +2794,7 @@ recomendamos que uses el modo de lectura gratuita"</string>
     <string name="share_page_text">Mira lo que compartí: %1$s @MIUI| %2$s</string>
     <string name="share_slide_video_text">¡Mira lo que compartí! %1$s</string>
     <string name="shear_plate_permission_name">Acceder o guardar elementos en el portapapeles</string>
+    <string name="shortcut_function">Accesos directos</string>
     <string name="shortcuts_boost_speed">Aumento de velocidad</string>
     <string name="shortcuts_cleanup_cache">Limpiador</string>
     <string name="shortcuts_cleanup_memory">Limpiar caché</string>
