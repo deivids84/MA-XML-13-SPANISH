@@ -375,7 +375,7 @@
     <string name="composer_failed_to_get_database_infomation">"Error al obtener información de la base de datos."</string>
     <string name="composer_has_no_exportable_contact">No hay contactos que exportar. Si ya tienes contactos en el dispositvo, es posible que algunos proveedores de datos no permitan que se exporten los contactos desde el dispositivo.</string>
     <string name="composer_not_initialized">"El redactor de vCard no se ha iniciado correctamente."</string>
-    <string name="conference_call_disable_tip">"No se puede hacer llamadas. Asegúrate de que tu dispositivo está conectado a una red 4G con soporte VoLTE."</string>
+    <string name="conference_call_disable_tip">"No se puede realizar llamadas. Comprueba que el dispositivo está conectado a una red 4G que soporta VoLTE."</string>
     <string name="confirm_call_log_dial_summary">Preguntar antes de marcar desde el registro de llamadas para evitar llamadas accidentales.</string>
     <string name="confirm_call_log_dial_title">Preguntar antes de llamar desde el registro de llamadas</string>
     <string name="confirm_delete_contact_all_call_logs">"¿Borrar el historial de %s?"</string>

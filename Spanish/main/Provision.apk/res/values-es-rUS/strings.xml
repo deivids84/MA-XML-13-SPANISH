@@ -165,7 +165,8 @@
     <string name="locale_picker_other_locale_title">Más regiones</string>
     <string name="locale_picker_title">Seleccione su región</string>
     <string name="location_content">De acuerdo con la ley, los operadores de telefonía móvil pueden obtener la información de ubicación de los dispositivos móviles para cumplir con los requisitos de las agencias de rescate de emergencia (departamentos de bomberos y la policía) que persiguen propósitos de seguridad y rescate de emergencia.</string>
-    <string name="location_introduction">Los servicios de ubicación proporcionan una variedad de servicios basados en la ubicación basados en su información de ubicación.</string>
+    <string name="location_introduction">Los servicios de localización utilizan posicionamiento para proporcionar servicios específicos de ubicación.</string>
+    <string name="location_introduction_qcom">Los servicios de localización utilizan posicionamiento para proporcionar servicios específicos de ubicación. Cuando tu dispositivo utiliza servicios de ubicación, el módulo QCC se conectará a la red para acelerar el proceso de posicionamiento.</string>
     <string name="location_location">Las agencias de emergencia pueden obtener su ubicación actual a pedido</string>
     <string name="lockscreen_introduction">El Carrusel de fondos de pantalla le permite obtener diariamente nuevas imágenes en la pantalla de bloqueo.</string>
     <string name="member_exclusive_medal">Insignia de membresía</string>

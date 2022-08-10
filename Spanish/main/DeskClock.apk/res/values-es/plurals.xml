@@ -29,8 +29,8 @@
         <item quantity="one">en 1 min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
-        <item quantity="one">Justo ahora</item>
-        <item quantity="other">Justo ahora</item>
+        <item quantity="one">Ahora mismo</item>
+        <item quantity="other">Ahora mismo</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">Hace %d minutos</item>
@@ -77,8 +77,8 @@
         <item quantity="one">en 1 minuto</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
-        <item quantity="one">Justo ahora</item>
-        <item quantity="other">Justo ahora</item>
+        <item quantity="one">Ahora mismo</item>
+        <item quantity="other">Ahora mismo</item>
     </plurals>
     <plurals name="life_post_wake_up_item_acumu_day">
         <item quantity="other">%1$d días</item>
@@ -89,8 +89,8 @@
         <item quantity="one">%d minuto</item>
     </plurals>
     <plurals name="minute_text">
-        <item quantity="other">" min"</item>
-        <item quantity="one">" min"</item>
+        <item quantity="other">" minutos"</item>
+        <item quantity="one">" minuto"</item>
     </plurals>
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">%d elementos seleccionados</item>
@@ -117,12 +117,12 @@
         <item quantity="one">%1$s minuto</item>
     </plurals>
     <plurals name="sleep_duration_min_avg">
-        <item quantity="other">%1$s min</item>
-        <item quantity="one">%1$s min</item>
+        <item quantity="other">%1$s minutos</item>
+        <item quantity="one">%1$s minuto</item>
     </plurals>
     <plurals name="snooze_duration_changed_info">
-        <item quantity="other">El intervalo a posponer cambió a %d minutos</item>
-        <item quantity="one">El intervalo a posponer cambió a %d minuto</item>
+        <item quantity="other">Intervalo para posponer cambiado a %d minutos</item>
+        <item quantity="one">Intervalo para posponer cambiado a %d minuto</item>
     </plurals>
     <plurals name="snooze_duration_count">
         <item quantity="other">Sonar %1$s veces</item>
@@ -145,12 +145,12 @@
         <item quantity="one">Posponer %d minuto</item>
     </plurals>
     <plurals name="stopwatch_running_notification_day">
-        <item quantity="other">El cronómetro ha sido usado durante %s días. Pulsa para ver.</item>
-        <item quantity="one">El cronómetro ha sido usado durante %s día. Pulsa para ver.</item>
+        <item quantity="other">El cronómetro se ha usado %s días. Pulsa para ver.</item>
+        <item quantity="one">El cronómetro se ha usado %s día. Pulsa para ver.</item>
     </plurals>
     <plurals name="stopwatch_running_notification_hour">
-        <item quantity="other">El cronómetro ha sido usado durante %s horas. Pulsa para ver.</item>
-        <item quantity="one">El cronómetro ha sido usado durante %s hora. Pulsa para ver.</item>
+        <item quantity="other">El cronómetro se ha usado %s horas. Pulsa para ver.</item>
+        <item quantity="one">El cronómetro se ha usado %s hora. Pulsa para ver.</item>
     </plurals>
     <plurals name="timer_message_hour">
         <item quantity="other">"%1$d horas "</item>
@@ -165,11 +165,11 @@
         <item quantity="one">%1$d segundo</item>
     </plurals>
     <plurals name="worldcolock_timezone_gap_fast">
-        <item quantity="other">%s h adelantadas</item>
-        <item quantity="one">%s h adelantada</item>
+        <item quantity="other">%s horas de adelanto</item>
+        <item quantity="one">%s hora de adelanto</item>
     </plurals>
     <plurals name="worldcolock_timezone_gap_slow">
-        <item quantity="other">%s h atrasadas</item>
-        <item quantity="one">%s h atrasada</item>
+        <item quantity="other">%s horas de retraso</item>
+        <item quantity="one">%s hora de retraso</item>
     </plurals>
 </resources>

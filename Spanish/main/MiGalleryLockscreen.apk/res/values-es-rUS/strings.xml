@@ -184,8 +184,8 @@
     <string name="cw_added_fav_no_pic">No hay elementos aquí.</string>
     <string name="cw_added_toast">Este artículo fue agregado antes.</string>
     <string name="cw_adding">Sumando (%1$d)</string>
-    <string name="cw_album_no_pic">"No se pudieron encontrar imágenes en tu dispositivo."</string>
-    <string name="cw_album_no_right">Permitir que Carrusel de Fondos acceda a la Galería</string>
+    <string name="cw_album_no_pic">Nada aquí todavía</string>
+    <string name="cw_album_no_right">Permisos necesarios</string>
     <string name="cw_all_folder">Imágenes recientes</string>
     <string name="cw_batch_all_added_tip">"No se pueden agregar elementos que se agregaron antes."</string>
     <string name="cw_batch_part_tip_fail">Algunos elementos fueron añadidos</string>
@@ -196,7 +196,7 @@
     <string name="cw_delete">Borrar</string>
     <string name="cw_delete2">Eliminar (%d)</string>
     <string name="cw_deleting">Eliminar (%1$d/%2$d)</string>
-    <string name="cw_local_pic">Galería</string>
+    <string name="cw_local_pic">Seleccionar imágenes</string>
     <string name="cw_my_fav">Favoritos</string>
     <string name="cw_permission_tip">Permite que Carrusel de Fondos acceda al almacenamiento en Configuración&gt; Configuración de la aplicación.</string>
     <string name="cw_wallpaper_empty_dlg_btn">Lo tengo</string>
@@ -223,7 +223,7 @@
     <string name="detail_menu_history">Historia</string>
     <string name="detail_menu_home">Ir a la página de inicio</string>
     <string name="detail_menu_setting">Ajustes de Aplicacion</string>
-    <string name="detail_menu_settingbtn_save">Guardar en la galería</string>
+    <string name="detail_menu_settingbtn_save">Guardar</string>
     <string name="detail_menu_settingbtn_setting">Ajustes</string>
     <string name="detail_menu_settingbtn_share">Compartir</string>
     <string name="detail_menu_wall">"Fondos de pantalla de hoy"</string>
@@ -433,12 +433,12 @@ Esto puede generar cargos adicionales."</string>
     <string name="mishop_login_other">Otra cuenta</string>
     <string name="miui_clock_city_name_local">Local</string>
     <string name="miui_clock_city_name_second">Segundo reloj</string>
-    <string name="miui_lock_screen_date">EEEE, d MMMM</string>
-    <string name="miui_lock_screen_date_12">EEEE, d MMMM</string>
+    <string name="miui_lock_screen_date">EEEE dd/MM</string>
+    <string name="miui_lock_screen_date_12">EEEE dd/MM</string>
     <string name="miui_lock_screen_date_two_lines">"EEEE
-d MMMM"</string>
+dd/MM"</string>
     <string name="miui_lock_screen_date_two_lines_12">"EEEE
-d MMMM"</string>
+dd/MM"</string>
     <string name="miui_lock_screen_large_date">"EEE
 dd/MM"</string>
     <string name="miui_lock_screen_large_date_12">"EEE
@@ -774,7 +774,7 @@ mm"</string>
     <string name="saturday_shortest">Sáb</string>
     <string name="save_hdpicture_in_favor">Ver imágenes HD en \"Favoritos\"</string>
     <string name="save_picture_success">Guardado exitosamente</string>
-    <string name="save_to_album">Guardado en la Galería con éxito</string>
+    <string name="save_to_album">Guardado correctamente</string>
     <string name="save_to_album_fail">"No se pudo guardar"</string>
     <string name="scribe_btn_ok">Suscribir</string>
     <string name="scribe_title1">Suscribirse a Carrusel de Fondos</string>
@@ -786,7 +786,7 @@ mm"</string>
     <string name="see_more">Ver más</string>
     <string name="see_more_content">Ver más</string>
     <string name="select_package">Seleccionar versión</string>
-    <string name="select_photo_album">Seleccionar álbum</string>
+    <string name="select_photo_album">Seleccionar imágenes</string>
     <string name="select_picture">Seleccionar imágenes</string>
     <string name="select_picture_des">Agregue sus fotos e imágenes en línea a la mezcla para que aparezcan en la presentación de diapositivas automáticamente.</string>
     <string name="send">Enviar</string>

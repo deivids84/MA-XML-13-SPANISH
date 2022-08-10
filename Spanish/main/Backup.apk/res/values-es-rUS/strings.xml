@@ -82,6 +82,8 @@
     <string name="backup_hint_pad">Mantenga su dispositivo encendido</string>
     <string name="backup_is_running">Respaldando el dispositivo</string>
     <string name="backup_new">Nuevo:</string>
+    <string name="backup_notice_content">"Tus copias de seguridad no se cifrarán, por lo que aplicaciones de terceros podrían acceder a ellas o modificarlas. También pueden surgir otros riesgos de seguridad. Asegúrate de almacenar los elementos respaldados en un entorno bien protegido."</string>
+    <string name="backup_notice_title">Atención</string>
     <string name="backup_notification_title">\"Copia de seguridad\" está funcionando…</string>
     <string name="backup_progress">Respaldando…</string>
     <string name="backup_report">Ver detalles</string>
@@ -110,6 +112,8 @@
     <string name="cancel_moving_dialog_message">¿Detener la importación ahora?</string>
     <string name="cancel_moving_dialog_title">Detener la importación</string>
     <string name="cancel_restore">Detener</string>
+    <string name="category_contacts">Contactos</string>
+    <string name="category_message_contacts">Mensajes y contactos</string>
     <string name="check_privacy_policy">Ver política de privacidad</string>
     <string name="clearable_edittext_clear_description">Eliminar</string>
     <string name="click_soft_ap_to_link">Seleccione un punto de acceso para conectarse</string>
@@ -319,7 +323,7 @@ primero deberá crear un respaldo de iCloud."</string>
     <string name="local_main_backup_time">Última copia de seguridad: %1$s</string>
     <string name="local_main_date_format">dd/MM/yyyy HH:mm</string>
     <string name="local_main_encrypt_backup_summary">Encripte los elementos que copio usando su Cuenta Mi</string>
-    <string name="local_main_encrypt_backup_title">Cifrar copias de seguridad</string>
+    <string name="local_main_encrypt_backup_title">Verificar cuenta para restaurar elementos</string>
     <string name="local_main_latest_backup_time_loading">Un momento…</string>
     <string name="local_no_backup">No hay copias de seguridad.</string>
     <string name="local_no_backup_data">No hay copias de seguridad aquí todavía</string>
@@ -548,6 +552,8 @@ primero deberá crear un respaldo de iCloud."</string>
     <string name="permission_read_storage_global">Acceso al almacenamiento</string>
     <string name="permission_read_write_storage">Para poder hacer una copia de seguridad de los elementos, primero permita que esta función acceda al almacenamiento.</string>
     <string name="permission_read_write_sys_app">Para poder hacer copias de seguridad y restaurar mensajes, contactos e historial de llamadas, primero permita que esta función acceda a estos elementos.</string>
+    <string name="permission_read_write_sys_app1">Permite que esta función acceda a tus mensajes y contactos para hacerles copias de seguridad y poderlos restaurar.</string>
+    <string name="permission_read_write_sys_app2">Permite que esta función acceda a tus contactos para poder realizar copias de seguridad y restaurar estos elementos.</string>
     <string name="permission_related">Permisos</string>
     <string name="permission_restore_calendar">Para restaurar eventos del calendario</string>
     <string name="permission_restore_calendar_desc">Para poder restaurar los eventos del calendario, primero permita que esta aplicación edite sus eventos del calendario.</string>

@@ -704,6 +704,7 @@ Selección"</string>
     <string name="data_enable_warning">Permitir siempre usar datos móviles podría generar gastos adicionales a su plan. ¿Conectar de todas formas?</string>
     <string name="data_enabled">Datos móviles</string>
     <string name="data_interruption_remind">"Parece que el entorno de la red no es fiable. Para mejor conexión, permite a tu dispositivo usar datos móviles durante las llamadas VoLTE en la SIM secundaria."</string>
+    <string name="data_interruption_remind_for_t">"Parece que el entorno de red no es fiable. Para mejorar la conexión, permite al dispositivo usar datos móviles durante las llamadas VoLTE en la SIM secundaria."</string>
     <string name="data_plan">Planes de datos móviles</string>
     <string name="data_usage_disable_mobile">¿Deseas desactivar los datos móviles?</string>
     <string name="data_usage_ota">Actualizaciones del sistema</string>
@@ -2236,6 +2237,9 @@ Confirme la configuración de su cuenta de llamadas predeterminada."</string>
     <string name="smart_forwarding_settings_menu">Desvío inteligente</string>
     <string name="smart_forwarding_settings_menu_summary">"Cuando un número no está disponible, siempre desvía las llamadas a tu otro número"</string>
     <string name="smart_multinetwork_acceleration_title">Aceleración de red inteligente</string>
+    <string name="smart_switch_dual_sim_prompt">Conectar a la red de datos móviles con la SIM %1$s puede generar cargos adicionales por datos. Establece un límite de uso de datos para evitarlo.</string>
+    <string name="smart_switch_dual_sim_summary">Cambiar automáticamente entre tarjetas SIM de datos según la calidad de conexión y el estado del dispositivo</string>
+    <string name="smart_switch_dual_sim_title">Cambiar entre tarjetas SIM de datos</string>
     <string name="sms_messages_title">SMS</string>
     <string name="smsc_dialog_message">"Asegúrese de que el número que ingresó es correcto o de lo contrario no podrá enviar o recibir mensajes SMS. Contacte a su operador para confirmar su número SMSC."</string>
     <string name="speed_label_fast">Rápida</string>

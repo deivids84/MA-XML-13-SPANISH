@@ -125,8 +125,8 @@
         <item quantity="one">%1$d archivo transferido a %2$s</item>
     </plurals>
     <plurals name="send_file_success_detail_images">
-        <item quantity="other">Se enviaron %1$s imágenes con éxito</item>
-        <item quantity="one">Se envió %1$s imagen con éxito</item>
+        <item quantity="other">Se han enviado %1$s imágenes</item>
+        <item quantity="one">Se ha enviado %1$s imagen</item>
     </plurals>
     <plurals name="send_file_success_detail_images_content">
         <item quantity="other">%1$d imágenes transferidas a %2$s</item>
@@ -245,7 +245,7 @@
         <item quantity="one">Se envió %2$d archivo a %1$s con éxito</item>
     </plurals>
     <plurals name="successfully_sent_images">
-        <item quantity="other">Se han enviado %2$d imágenes a %1$s con éxito</item>
-        <item quantity="one">Se ha enviado %2$d imagen a %1$s con éxito</item>
+        <item quantity="other">Se han enviado %2$d imágenes a %1$s</item>
+        <item quantity="one">Se ha enviado %2$d imagen a %1$s</item>
     </plurals>
 </resources>

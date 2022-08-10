@@ -552,6 +552,7 @@ Envía este código al supervisor."</string>
     <string name="phone_auto_login_register_with_local_number">Crear una cuenta</string>
     <string name="photoPickerNotFoundText">No hay fotos disponibles.</string>
     <string name="please_agree_protocal">Por favor acuerde el protocolo</string>
+    <string name="please_download_gallery">por favor descarga la galería</string>
     <string name="pm">PM</string>
     <string name="post_miui_bbs_failed">"No se pudo publicar en el Foro MIUI"</string>
     <string name="preference_copied">\"%1$s\" se ha copiado en el portapapeles.</string>

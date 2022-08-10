@@ -113,6 +113,7 @@
     <string name="adblock_rules_updated_toast">Actualizado con éxito</string>
     <string name="adblock_websites_settings_empyt_hint">"No has bloqueado ningún sitio."</string>
     <string name="adblock_websites_settings_title">Sitios bloqueados</string>
+    <string name="add">Añadir</string>
     <string name="add_bookmark_group">Añadir grupo</string>
     <string name="add_bookmarks">Marcadores</string>
     <string name="add_bookshelf_popup_text">Añadido a la biblioteca</string>
@@ -129,6 +130,7 @@
     <string name="add_shortcut">Añadir acceso directo</string>
     <string name="add_shortcut_success">Acceso directo añadido</string>
     <string name="add_to_bookmark">Marcadores</string>
+    <string name="add_to_desktop">Añadir a la pantalla de inicio</string>
     <string name="add_to_quicklink">Página de inicio</string>
     <string name="add_to_trust_device">Este es un dispositivo de confianza</string>
     <string name="added_to_bookmarks">Añadido a marcadores</string>
@@ -447,12 +449,14 @@ Desactiva el interruptor para dejar de sincronizar."</string>
     <string name="choose_to_signin">Sí</string>
     <string name="choose_to_signup">"No, crearé una"</string>
     <string name="choosertitle_sharevia">Compartir vía</string>
+    <string name="clear">Limpiar</string>
     <string name="clear_history">Borrar historial</string>
     <string name="clear_most_visited">Historial reciente</string>
     <string name="clear_search_history">Borrar historial</string>
     <string name="clear_transfer_summary">Borre las banderas de configuración del sistema, para que pueda volver a transferir</string>
     <string name="clear_transfer_title">Limpiar banderas de transferencia</string>
     <string name="clearable_edittext_clear_description">Eliminar</string>
+    <string name="cleared_garbage">Se ha limpiado %d MB de basura</string>
     <string name="click_always">Pulsa \'Siempre\"</string>
     <string name="click_to_refresh">Se paró aquí la última vez, pulsa para refrescar</string>
     <string name="clip_dialog_title">¿Abrir la URL copiada?</string>
@@ -649,6 +653,8 @@ Envía este código al supervisor."</string>
     <string name="dkcommon__web_pull_refresh_view__refreshing_tip">Un momento…</string>
     <string name="dkcommon__web_pull_refresh_view__release_tip">Suelta para actualizar</string>
     <string name="dkmibrowsershopad__ad_view_video_replay">Repetir</string>
+    <string name="doc_viewer_label">Lector (Navegador Mi)</string>
+    <string name="doc_viewer_open_out_file_prompt">Para abrir y ver un archivo recibido de fuentes externas, es necesario crear una copia del mismo. ¿Continuar?</string>
     <string name="document_download_background_btn">Descargar en segundo plano</string>
     <string name="document_download_cancel_btn">Cancelar</string>
     <string name="document_download_failed">"No se pudo descargar"</string>
@@ -907,6 +913,7 @@ Envía este código al supervisor."</string>
     <string name="file_type">Formato: %s</string>
     <string name="filename_empty_alert_message">Introduce nombre del archivo</string>
     <string name="filename_illegal_alert_message">Un caracter no válido se eliminó del nombre del archivo</string>
+    <string name="find_garbage">Se ha encontrado %d MB de basura</string>
     <string name="find_new_version">NUEVA ACTUALIZACIÓN DISPONIBLE</string>
     <string name="find_on_page_cancel">Cancelar</string>
     <string name="find_on_page_hint">Buscar página</string>
@@ -992,6 +999,9 @@ Envía este código al supervisor."</string>
     <string name="general__end_page_same_authors">Mismo autor</string>
     <string name="general__end_page_summary">Resumen: %s</string>
     <string name="general__exempt_30_minute_ad">Ver un vídeo de publicidad de hasta 30 minutos</string>
+    <string name="general__fiction_horz_slide_to_see_title_page">Desliza para comenzar a leer</string>
+    <string name="general__fiction_slide_menu">Capítulos</string>
+    <string name="general__fiction_slide_up_to_see_title_page">Desliza hacia arriba para comenzar a leer</string>
     <string name="general__make_purchase_hint">Un bono equivale a una moneda. Los bonos tienen una validez de 15 días y se utilizarán para desbloquear capítulos antes que las monedas.</string>
     <string name="general__make_purchase_rule_reminder">Atención</string>
     <string name="general__make_purchase_total">Cantidad total: %1$d = %2$s + %3$s</string>
@@ -1298,6 +1308,7 @@ para añadir libros al mismo"</string>
     <string name="menu_title_pause_all">Pausar todo</string>
     <string name="menu_title_resume_all">Iniciar todo</string>
     <string name="messenger_send_button_text">Enviar</string>
+    <string name="mi_browser_clean_up_garbage">El Navegador Mi está borrando basura…</string>
     <string name="midi_permission_name">Controlar dispositivos MIDI</string>
     <string name="midnight">Noche</string>
     <string name="mint_games">Juegos populares</string>
@@ -1707,6 +1718,7 @@ para añadir libros al mismo"</string>
     <string name="notification_category_facebook">Facebook</string>
     <string name="notification_category_group_general">General</string>
     <string name="notification_category_media">Multimedia</string>
+    <string name="notification_category_stickcard">StickCard</string>
     <string name="notification_download_completed">Descargado con éxito</string>
     <string name="notification_download_failed">"No se pudo descargar."</string>
     <string name="notification_wechat_expired_empty">WeChat ya ha eliminado estos clips de vídeo.</string>
@@ -2060,6 +2072,7 @@ para añadir libros al mismo"</string>
     <string name="phone_hint">Número de teléfono</string>
     <string name="phone_num_use_for">El número de teléfono se usa para:</string>
     <string name="phone_number">Número de teléfono</string>
+    <string name="phone_very_clean">No hay basura</string>
     <string name="photoPickerNotFoundText">No hay fotos disponibles.</string>
     <string name="pick_file">Seleccionar archivos</string>
     <string name="ping_test_title">Retraso de red</string>
@@ -2980,6 +2993,7 @@ No muestra nada."</string>
     <string name="subscribe_success">Suscrito con éxito</string>
     <string name="subscription_status_error">"No pudiste suscribirte"</string>
     <string name="subscriptions_title">Gestionar tu suscripción</string>
+    <string name="successfully_added">Añadido</string>
     <string name="suggest_access_appstore">Mi App Store</string>
     <string name="suggest_access_btn_install">Instalar</string>
     <string name="suggest_access_btn_open">Abrir</string>

@@ -81,8 +81,8 @@
         <item quantity="one">¿Eliminar %d tarea?</item>
     </plurals>
     <plurals name="exo_controls_fastforward_by_amount_description">
-        <item quantity="other">Avanzar %d segundos</item>
-        <item quantity="one">Avanzar %d segundo</item>
+        <item quantity="other">Avance rápido %d segundos</item>
+        <item quantity="one">Avance rápido %d segundo</item>
     </plurals>
     <plurals name="exo_controls_rewind_by_amount_description">
         <item quantity="other">Retroceder %d segundos</item>
@@ -109,12 +109,12 @@
         <item quantity="one">%d día</item>
     </plurals>
     <plurals name="general__d_hour_unit">
-        <item quantity="other">%d h</item>
-        <item quantity="one">%d h</item>
+        <item quantity="other">%d hrs</item>
+        <item quantity="one">%d hr</item>
     </plurals>
     <plurals name="general__d_minute_unit">
-        <item quantity="other">%d minutos</item>
-        <item quantity="one">%d minuto</item>
+        <item quantity="other">%d mins</item>
+        <item quantity="one">%d min</item>
     </plurals>
     <plurals name="general__make_purchase_bonus">
         <item quantity="other">+%d bonos</item>
@@ -417,7 +417,7 @@
         <item quantity="one">"Recibirás 5 bonos si lees durante %d minuto más. ¿Continuar leyendo?"</item>
     </plurals>
     <plurals name="reading__reading_retain_common_time">
-        <item quantity="other">"Recibirás &lt;&lt;xliff:g format=quantity example=3&gt;%d&lt;/xliff:g&gt; bonos si continúas leyendo. ¿Continuar?"</item>
+        <item quantity="other">"Recibirás %d bono si continúas leyendo. ¿Continuar?"</item>
         <item quantity="one">"Recibirás %d bono si continúas leyendo. ¿Continuar?"</item>
     </plurals>
     <plurals name="reading__shared__toc_new_chapter">
@@ -535,7 +535,7 @@
         <item quantity="one">%s vez</item>
     </plurals>
     <plurals name="welcome_skip_count_down">
-        <item quantity="other">%d s</item>
-        <item quantity="one">%d s</item>
+        <item quantity="other">%d segs</item>
+        <item quantity="one">%d seg</item>
     </plurals>
 </resources>

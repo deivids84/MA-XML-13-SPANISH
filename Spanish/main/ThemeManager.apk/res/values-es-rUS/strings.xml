@@ -458,6 +458,8 @@ Para desactivar esta función, ve a Ajustes &gt; Sonido y vibración &gt; Perfil
     <string name="incompatible_dialog_title">Problemas de compatibilidad</string>
     <string name="install_clock">"Todavía no has instalado Reloj. ¿Descargar ahora?"</string>
     <string name="install_failed">"No se pudo instalar"</string>
+    <string name="install_gallery_content">"Aún no has instalado Galería. ¿Descargar ahora?"</string>
+    <string name="install_gallery_title">Instalar Galería</string>
     <string name="is_setting_wallpaper_message">Estableciendo fondo de pantalla…</string>
     <string name="item_resource_audio_optional_alarm_ring">Alarmas</string>
     <string name="item_resource_audio_optional_color_ring">Tono de llamada</string>
@@ -1458,7 +1460,7 @@ Puede otorgar este permiso en Configuración &gt; Privacidad."</string>
     <string name="wallpaper_apply_inner">Aplicar a la pantalla interior</string>
     <string name="wallpaper_apply_large">Pantalla interior</string>
     <string name="wallpaper_apply_outer">Aplicar a la pantalla exterior</string>
-    <string name="wallpaper_apply_outer_and_inner">Aplicar a las pantallas interna y externa</string>
+    <string name="wallpaper_apply_outer_and_inner">Aplicar a pantallas internas y externas</string>
     <string name="wallpaper_apply_pcmode">Establecer fondo de pantalla en modo PC</string>
     <string name="wallpaper_apply_small">Pantalla exterior</string>
     <string name="wallpaper_crop">Recortar</string>

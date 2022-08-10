@@ -252,7 +252,7 @@ Cierra esta página y vuelve a intentarlo."</string>
     <string name="settings_connect_summary2">Escanee el código QR en la pantalla de la computadora con su dispositivo móvil. Puede utilizar varias aplicaciones del sistema (por ejemplo, escáner, cámara, mi navegador) para hacer eso.</string>
     <string name="settings_connect_title1">Paso 1</string>
     <string name="settings_connect_title2">Paso 2</string>
-    <string name="settings_feature_characteristics_summary_1">Copie texto en su teléfono y péguelo en su ordenador, agregue imágenes y sincronice ediciones en sus documentos.</string>
+    <string name="settings_feature_characteristics_summary_1">Copia texto del dispositivo y pégalo en tu ordenador, agrega imágenes y sincroniza modificaciones de tus documentos.</string>
     <string name="settings_feature_characteristics_summary_2">Arrastre y suelte elementos para transferirlos hacia y desde su dispositivo.</string>
     <string name="settings_feature_characteristics_summary_3">Solo acerque su teléfono a un ordenador previamente conectado para conectarse de nuevo automáticamente.</string>
     <string name="settings_feature_characteristics_title_1">Sincronización y traspaso sin problemas</string>

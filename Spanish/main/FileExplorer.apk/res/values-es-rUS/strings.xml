@@ -35,6 +35,7 @@
     <string name="ad_download">Descargas</string>
     <string name="add_private">Hacer privados los archivos</string>
     <string name="add_private_files">Agregar archivos</string>
+    <string name="add_to_widget">Añadir al widget</string>
     <string name="added_category">Añadido</string>
     <string name="afternoon">Tarde</string>
     <string name="aggree_desc">Permite que esta aplicación se conecte a Internet y otorga los permisos obligatorios mencionados anteriormente.</string>
@@ -158,6 +159,7 @@
     <string name="delete_folder">¿Eliminar?</string>
     <string name="des_hide_pwd">Ocultar contraseña</string>
     <string name="des_show_pwd">Mostrar contraseña</string>
+    <string name="dialog_keep_choice">Recordar mi elección</string>
     <string name="dialog_select_type">Selecciona el tipo</string>
     <string name="dialog_type_audio">Audios</string>
     <string name="dialog_type_image">Imágenes</string>
@@ -768,6 +770,7 @@
     <string name="thursday_shortest">Jue</string>
     <string name="time_picker_dialog_title">Ajustar hora</string>
     <string name="tip">Atención</string>
+    <string name="tips_add_to_widget">Puedes añadir hasta %d archivos a este widget. Si añades más, se sustituiran los añadidos anteriormente.</string>
     <string name="title_app_tags">Aplicaciones</string>
     <string name="title_expire_video">A punto de expirar</string>
     <string name="title_recent">Recientes</string>
@@ -812,6 +815,14 @@
     <string name="wednesday">Miércoles</string>
     <string name="wednesday_short">Mie</string>
     <string name="wednesday_shortest">Mie</string>
+    <string name="widget_add_files">Añadir Archivo</string>
+    <string name="widget_added_fail_content">%1$s ya está en la pantalla de inicio</string>
+    <string name="widget_added_fail_tips">"No se pudo añadir"</string>
+    <string name="widget_added_success_content">Se ha añadido %1$s a la pantalla de inicio</string>
+    <string name="widget_added_success_tips">Añadido correctamente</string>
+    <string name="widget_choose_file">Pulsa para añadir archivos</string>
+    <string name="widget_choose_fragment_title">Seleccionar el tipo de archivo</string>
+    <string name="widget_finish">Hecho</string>
     <string name="wifi_state">Estado de Wi-Fi</string>
     <string name="withdraw">Retirar</string>
     <string name="withdraw_consent">Retiro del consentimiento</string>

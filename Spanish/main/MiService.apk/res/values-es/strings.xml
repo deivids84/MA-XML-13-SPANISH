@@ -100,7 +100,7 @@
     <string name="miui_feedback_edit_mobile_data_note_dialog_content">"Parece que estás conectado a una red de pago. Cargar registros puede generar gastos adicionales."</string>
     <string name="miui_feedback_edit_mobile_data_note_dialog_title">Aviso de uso de datos</string>
     <string name="miui_feedback_edit_need_phone_state_permission">Permite a la aplicación acceder a la información del dispositivo para permitir que lea tu IMEI, el cual ayudará a encontrar problemas. Pulsa \"OK\" para abrir Ajustes.</string>
-    <string name="miui_feedback_edit_need_storage_permission">Permite a la aplicación acceder al almacenamiento del dispositivo para poder adjuntar imágenes y vídeos a tus comentarios. Pulsa \"OK\" para abrir Ajustes.</string>
+    <string name="miui_feedback_edit_need_storage_permission">Permitir a la aplicación acceso al almacenamiento del dispositivo para adjuntar imágenes y vídeos a tus comentarios. Pulsa \"Aceptar\" para abrir Ajustes.</string>
     <string name="miui_feedback_edit_permission_denied_title">Permisos restringidos: %1$s</string>
     <string name="miui_feedback_edit_phone_state_permission_name">Acceder a la información del dispositivo</string>
     <string name="miui_feedback_edit_reproductivity_everytime">Cada vez</string>
@@ -167,7 +167,7 @@ Correo electrónico: service.jp@xiaomi.com"</string>
     <string name="miui_main_control_center_open">Nuevo Centro de control</string>
     <string name="miui_main_control_center_title">Desliza para cambiar entre la Barra de notificaciones y el Centro de control</string>
     <string name="miui_main_mirror_tab_desc1">Conecta automáticamente</string>
-    <string name="miui_main_mirror_tab_desc2">Visualiza imágenes en una pantalla más grande</string>
+    <string name="miui_main_mirror_tab_desc2">Ver imágenes en una pantalla mayor</string>
     <string name="miui_main_mirror_tab_desc3">Comparte archivos en un instante</string>
     <string name="miui_main_mirror_title">Trabaja con ordenadores</string>
     <string name="miui_main_next_page">Siguiente</string>

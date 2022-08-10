@@ -69,11 +69,23 @@
         <item quantity="one">%d nueva notificación</item>
     </plurals>
     <plurals name="net_booster_expire_notification_tip">
-        <item quantity="other">Quedan %d días antes de que termine la Sesión de aumento de velocidad de red. Renueve la sesión para evitar problemas de velocidad de red.</item>
-        <item quantity="one">Queda %d día antes de que termine la Sesión de aumento de velocidad de red. Renueve la sesión para evitar problemas de velocidad de red.</item>
+        <item quantity="other">Tu sesión de aumento de velocidad de red finalizará en %d días. Es posible que comiences a experimentar retrasos en la red. ¿Renovar la sesión ahora?</item>
+        <item quantity="one">Tu sesión de aumento de velocidad de red finalizará en %d días. Es posible que comiences a experimentar retrasos en la red. ¿Renovar la sesión ahora?</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">Hace %d minutos</item>
         <item quantity="one">Hace 1 minuto</item>
+    </plurals>
+    <plurals name="power_battery_hour">
+        <item quantity="other">%s horas</item>
+        <item quantity="one">%s hora</item>
+    </plurals>
+    <plurals name="power_battery_minute">
+        <item quantity="other">%s minutos</item>
+        <item quantity="one">%s minuto</item>
+    </plurals>
+    <plurals name="power_main_battery_last_minute_screen_on">
+        <item quantity="other">Quedan %s minutos de tiempo de pantalla</item>
+        <item quantity="one">Queda %s minuto de tiempo de pantalla</item>
     </plurals>
 </resources>

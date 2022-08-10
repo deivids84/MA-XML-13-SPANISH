@@ -137,14 +137,14 @@
     </string-array>
     <string-array name="daily_brand">
         <item>Personalizado</item>
-        <item>Tarjeta Mi Fan</item>
+        <item>Tarjeta fan de Xiaomi</item>
         <item>Tarjeta Xiao Tiansheng</item>
         <item>Tarjeta Tencent King</item>
     </string-array>
     <string-array name="daily_rent_card_brands">
         <item>Personalizado</item>
         <item>Mi Mobile</item>
-        <item>Tarjeta Mi Fan</item>
+        <item>Tarjeta fan de Xiaomi</item>
         <item>Tarjeta Tianshen</item>
         <item>Tarjeta Tencent</item>
     </string-array>

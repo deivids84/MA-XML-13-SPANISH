@@ -123,7 +123,7 @@ Consulta la ayuda si tienes problemas para conectarte."</string>
     <string name="hang_up_alert_dialog_title">A punto de emitir con la pantalla apagada…</string>
     <string name="help_page_text_01">Ayuda</string>
     <string name="help_page_text_02">¿Qué es emitir?</string>
-    <string name="help_page_text_03">"Emitir es proyectar elementos desde la pantalla de tu teléfono en un monitor externo más grande. Esto te permite compartir imágenes y vídeos con tus amigos y familiares sin usar datos móviles."</string>
+    <string name="help_page_text_03">"Emitir consiste en proyectar elementos desde la pantalla del dispositivo en un monitor externo. Así puedes compartir imágenes y vídeos con amigos y familiares sin usar datos móviles."</string>
     <string name="help_page_text_04">¿Cómo emito elementos en una pantalla más grande?</string>
     <string name="help_page_text_05">Paso %1$d: verifique sus dispositivos y el entorno de red</string>
     <string name="help_page_text_06">"%1$d. Televisores, decodificadores, proyectores Xiaomi:

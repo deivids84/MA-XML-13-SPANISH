@@ -66,7 +66,7 @@
     <string-array name="bookshelf__general_shared__main_categories">
         <item>Librería</item>
         <item>Biblioteca</item>
-        <item>Librería</item>
+        <item>Estantería de libros</item>
     </string-array>
     <string-array name="menu_theme_setting">
         <item>Blanco</item>

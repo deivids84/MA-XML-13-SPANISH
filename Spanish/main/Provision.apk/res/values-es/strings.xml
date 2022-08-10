@@ -81,7 +81,7 @@
     <string name="content_description_start">Iniciar</string>
     <string name="content_introduction">El Centro de contenidos añade material y servicios de distintos canales. Aquí puedes leer artículos, ver vídeos, contenido patrocinado y recibir recomendaciones de contenido.</string>
     <string name="continue_to_enable_accessibility">Mantenga presionado dos dedos para activar la accesibilidad.</string>
-    <string name="cookies_content_one">"Cuando toque las imágenes e historias en Wallpaper Carousel, abriremos sus versiones completas en su navegador. Taboola, nuestro proveedor de contenido externo de confianza, puede recomendar contenido y anuncios adicionales que se adapten a sus intereses. Si acepta activar esta función, Taboola colocará cookies en su dispositivo a través del navegador, como se describe en la &lt;a href =%1$s&gt;Política de cookies&lt;/a&gt;Taboola. Si rechaza el uso de cookies, los elementos del carrusel de fondos de pantalla seguirán apareciendo en su pantalla de bloqueo y se abrirán historias completas en su navegador, pero no se seleccionarán recomendaciones adicionales específicamente para usted. Puede cambiar sus preferencias en cualquier momento en la Configuración."</string>
+    <string name="cookies_content_one">"Cuando toques las imágenes e historias en el Carrusel de Fondos de pantalla, abriremos sus versiones completas en el navegador. Taboola, nuestro proveedor de contenido externo de confianza, puede recomendar contenido y anuncios adicionales que se adapten a tus intereses. Si aceptas activar esta función, Taboola usará cookies en tu dispositivo a través del navegador, como se describe en la &lt;a href =%1$s&gt;Política de Cookies&lt;/a&gt;Taboola. Si rechazas el uso de cookies, los elementos del Carrusel de Fondos de pantalla seguirán apareciendo en la pantalla de bloqueo y se abrirán historias completas en el navegador, pero no tendrás recomendaciones adicionales específicas. Puedes cambiar tus preferencias en cualquier momento en los ajustes."</string>
     <string name="cookies_content_two">"Decida si desea que nuestros proveedores de contenido de terceros de confianza utilicen cookies para personalizar las recomendaciones de contenido y los anuncios en función de sus intereses."</string>
     <string name="cookies_title">Cookies y contenido personalizado</string>
     <string name="copy">Copiar</string>
@@ -165,9 +165,10 @@
     <string name="locale_picker_other_locale_title">Más regiones</string>
     <string name="locale_picker_title">Selecciona tu región</string>
     <string name="location_content">En conformidad con la ley, las operadoras móviles pueden obtener la información de ubicación de los dispositivos móviles para cumplir con los requisitos de las agencias de rescates de emergencia (departamentos de bomberos y policía) con fines de seguridad y realizar rescates de emergencia.</string>
-    <string name="location_introduction">Los servicios de ubicación proporcionan una variedad de servicios basados en la ubicación basados en su información de ubicación.</string>
+    <string name="location_introduction">Los servicios de localización utilizan posicionamiento para proporcionar servicios específicos de ubicación.</string>
+    <string name="location_introduction_qcom">Los servicios de localización usan posicionamiento para proporcionar servicios de ubicación. Cuando el dispositivo utilice servicios de ubicación, el módulo QCC se conectará a la red para acelerar el proceso de posicionamiento.</string>
     <string name="location_location">Las agencias de rescates de emergencia pueden obtener tu ubicación actual bajo solicitud</string>
-    <string name="lockscreen_introduction">El Carrusel de fondos de pantalla te permite obtener nuevas imágenes diariamante en la Pantalla de bloqueo.</string>
+    <string name="lockscreen_introduction">El Carrusel de Fondos de pantalla permite obtener diariamente imágenes nuevas en la pantalla de bloqueo.</string>
     <string name="member_exclusive_medal">Insignia de membresía</string>
     <string name="membership_rights_tip">Inicie sesión en su cuenta Mi para obtener beneficios exclusivos</string>
     <string name="message_introduction">Puede utilizar esta aplicación para enviar y recibir SMS.</string>
@@ -537,7 +538,7 @@ Puede controlar esta función desde Configuración &gt; Contraseñas &amp; Segur
     <string name="sunday_shortest">Dom</string>
     <string name="system_navigation_mode">Modo de navegación del sistema</string>
     <string name="systemdesktop_introduction">El complemento de servicio de la pantalla de inicio le proporciona funciones básicas como la pantalla de inicio, la interfaz de usuario del sistema y capturas de pantalla.</string>
-    <string name="term_condition_detail">"Obtenga imágenes asombrosas e historias emocionantes en su pantalla de bloqueo todos los días. Esta función no utilizará sus datos para la personalización sin su consentimiento. Leído y acepto el tercer proveedor de contenido de fiesta &lt;a href =%1$s&gt;Política de privacidad&lt;/a&gt; y &lt;a href =%2$s&gt;Acuerdo de usuario&lt;/a&gt; antes de usar esta función."</string>
+    <string name="term_condition_detail">"Obtén imágenes asombrosas e historias emocionantes en la pantalla de bloqueo cada dia. No se usarán tus datos para la personalización sin tu consentimiento. Lee y acepta la &lt;a href =%1$s&gt;Política de Privacidad &lt;/a&gt; y &lt;a href =%2$s&gt;el Acuerdo de Usuario&lt;/a&gt; del proveedor de contenido externo antes de usar esta función."</string>
     <string name="terms_of_use">Términos y Condiciones</string>
     <string name="terms_of_use_label_MSA">MSA</string>
     <string name="terms_of_use_label_Mistore">Complemento del sistema Mi Store</string>

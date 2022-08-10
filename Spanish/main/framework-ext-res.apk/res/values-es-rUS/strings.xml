@@ -196,6 +196,9 @@
     <string name="help_content">"Si no puede encontrar el dispositivo que necesita, pida a la otra persona que active Mi Share."</string>
     <string name="hisense">Hisense</string>
     <string name="hisense_phone">Hisense</string>
+    <string name="hs_guide_dialog_button_confirm">Entendido</string>
+    <string name="hs_guide_dialog_message">"Esta aplicación aún no está optimizada para el nuevo modo apaisado. Se ha cambiado a otro diseño compatible."</string>
+    <string name="hs_guide_dialog_title">Atención</string>
     <string name="icelatte">Latte helado</string>
     <string name="ignore_home_when_fingerprint_enrolling_msg">Coloque su dedo en el botón Inicio</string>
     <string name="incomingmessage">Mensaje entrante</string>
@@ -287,7 +290,7 @@
     <string name="onehour">30 minutos</string>
     <string name="open_close_tip_action">Entendido</string>
     <string name="open_close_tip_content">Para cerrar la ventana flotante, mantenga presionada la barra de acción y luego deslice hacia arriba</string>
-    <string name="open_miui_optimization">Activar antes la optimización MIUI</string>
+    <string name="open_miui_optimization">Activa primero la optimización de MIUI</string>
     <string name="oppo">OPPO</string>
     <string name="oppo_phone">OPPO</string>
     <string name="orange">Naranja</string>

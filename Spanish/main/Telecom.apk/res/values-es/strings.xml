@@ -392,6 +392,7 @@ Selección"</string>
     <string name="force_resizable_activities_summary">Hacer que el tamaño de todas las actividades se pueda ajustar para el modo multiventana independientemente de los valores definidos</string>
     <string name="force_rtl_layout_all_locales">Forzar dirección de diseño RTL</string>
     <string name="force_rtl_layout_all_locales_summary">Forzar dirección RTL para todos los idiomas</string>
+    <string name="fraud_toast_message">Puedes administrar el desvío de llamadas en Ajustes</string>
     <string name="friday">Viernes</string>
     <string name="friday_short">Vie</string>
     <string name="friday_shortest">Vie</string>

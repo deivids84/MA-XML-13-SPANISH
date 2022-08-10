@@ -36,6 +36,14 @@
         <item quantity="other">hace %d mins</item>
         <item quantity="one">hace 1 min</item>
     </plurals>
+    <plurals name="dialog_confirm_delete_downloads_message">
+        <item quantity="other">¿Eliminar %d descargas?</item>
+        <item quantity="one">¿Eliminar %d descarga?</item>
+    </plurals>
+    <plurals name="download_info_count_deleted_tasks">
+        <item quantity="other">Descargas %s eliminadas correctamente</item>
+        <item quantity="one">Descarga %s eliminada correctamente</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="one">Hace media hora</item>
         <item quantity="other">Hace media hora</item>

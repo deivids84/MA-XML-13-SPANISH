@@ -5,7 +5,7 @@
     <string name="abc_action_menu_overflow_description">Más opciones</string>
     <string name="abc_action_mode_done">Listo</string>
     <string name="abc_activity_chooser_view_see_all">Ver todo</string>
-    <string name="abc_activitychooserview_choose_application">Seleccionar una aplicación</string>
+    <string name="abc_activitychooserview_choose_application">Elegir una aplicación</string>
     <string name="abc_capital_off">DESACTIVADO</string>
     <string name="abc_capital_on">ACTIVADO</string>
     <string name="abc_menu_alt_shortcut_label">Alt +</string>
@@ -36,12 +36,12 @@
     <string name="add_alarm">Añadir alarma</string>
     <string name="add_clock">Añadir reloj</string>
     <string name="add_common_timer">Añadir temporizador</string>
-    <string name="add_new_sound">Añadir tono de llamada</string>
+    <string name="add_new_sound">Añadir tono</string>
     <string name="add_timer">Temporizador frecuente</string>
     <string name="add_timer_dialog_title">Añadir temporizador</string>
     <string name="add_timezone_title">Añadir zona horaria</string>
     <string name="afternoon">Tarde</string>
-    <string name="agree">Aceptar</string>
+    <string name="agree">De acuerdo</string>
     <string name="alarm_alert_alert_silenced">La alarma se silenciará después de %1$s.</string>
     <string name="alarm_alert_disabled">Desactivado</string>
     <string name="alarm_ascending_mode_summary">El volumen de la alarma aumentará gradualmente</string>
@@ -49,7 +49,7 @@
     <string name="alarm_clock_more_setting">Ajustes adicionales</string>
     <string name="alarm_disabled">Desactivada</string>
     <string name="alarm_in_silent_mode_title">Alarma en Modo silencio</string>
-    <string name="alarm_klaxon_service_desc">Servicio de reproducción de alarmas establecido en el Reloj.</string>
+    <string name="alarm_klaxon_service_desc">Servicio de reproducción de sonido para las alarmas configuradas.</string>
     <string name="alarm_label_hint">Etiqueta de alarma</string>
     <string name="alarm_list_title">Alarma</string>
     <string name="alarm_notify_snooze_label">%s posponer</string>
@@ -69,8 +69,8 @@
     <string name="alert_ringtone">Tono de alarma</string>
     <string name="alert_vibrate_enable_summary">Vibrar cuando la alarma suene</string>
     <string name="alert_volume">Volumen del tono de llamada</string>
-    <string name="alert_volume_summary">Establecer el volumen del tono de llamada para alarmas y temporizadores</string>
-    <string name="alert_xiaoai_ringtone_desc">Mi IA está hablando…</string>
+    <string name="alert_volume_summary">Establecer el volumen del tono para alarmas y temporizadores</string>
+    <string name="alert_xiaoai_ringtone_desc">La IA de Mi está hablando…</string>
     <string name="already_exist">Este temporizador ya existe</string>
     <string name="am">AM</string>
     <string name="analog_gadget">Reloj analógico</string>
@@ -83,19 +83,19 @@
     <string name="bedtime">Hora de acostarte</string>
     <string name="bedtime_analysis_more">Más datos</string>
     <string name="bedtime_banner_desc">Dormir bien es importante</string>
-    <string name="bedtime_banner_guide_desc">Programa tu hora de acostarte</string>
+    <string name="bedtime_banner_guide_desc">Programa la hora de acostarte</string>
     <string name="bedtime_guide_back_desc">"No podrás recibir alertas para acostarte si sales ahora. ¿Salir de todas formas?"</string>
-    <string name="bedtime_manage">Hora de acostarse</string>
-    <string name="bedtime_manage_desc">Programa recordatorios para la hora de acostarse y haz un seguimiento de tu sueño</string>
-    <string name="bedtime_manage_open">Programa tu hora de acostarte</string>
-    <string name="bedtime_manage_tip">Gestiona aquí la hora de acostarse</string>
-    <string name="bedtime_not_open_text">Tus estadísticas aparecerán aquí después de comenzar a usar los recordatorios para acostarte</string>
+    <string name="bedtime_manage">Hora de acostarte</string>
+    <string name="bedtime_manage_desc">Programa recordatorios para la hora de acostarte y haz seguimiento de tu sueño</string>
+    <string name="bedtime_manage_open">Programar la hora de acostarte</string>
+    <string name="bedtime_manage_tip">Gestiona aquí la hora de acostarte</string>
+    <string name="bedtime_not_open_text">Tus estadísticas aparecerán aquí después de usar los recordatorios para acostarte</string>
     <string name="bedtime_repeat_desc">Días en los que recibes recordatorios</string>
     <string name="bedtime_repeat_type">Programar</string>
     <string name="bedtime_setting_complete">¡Qué duermas bien!</string>
-    <string name="bedtime_setting_complete_desc">Sigue tu nuevo horario para acostarte y así funcionar de la mejor forma posible</string>
+    <string name="bedtime_setting_complete_desc">Sigue el nuevo horario para acostarte y funcionar a tu mejor nivel</string>
     <string name="bedtime_setting_no_disturbance">¿Cambiar al Modo no molestar mientras duermes?</string>
-    <string name="bedtime_setting_no_disturbance_desc">Los tonos de llamada, sonidos de notificaciones y la vibración será silenciados hasta que te despiertes</string>
+    <string name="bedtime_setting_no_disturbance_desc">Los tonos de llamada, sonidos de notificación y la vibración se silenciarán hasta que despiertes</string>
     <string name="bedtime_setting_repeat_type">¿Cuándo se aplicará tu horario para acostarte?</string>
     <string name="bedtime_setting_repeat_type_desc">"Selecciona los días en los que recibirás recordatorios"</string>
     <string name="bedtime_settings">Ajustes de la hora de acostarte</string>
@@ -104,7 +104,7 @@
     <string name="bedtime_wake_up_time_remind">Una alarma sonará a esta hora</string>
     <string name="bedtime_wake_up_time_setting">¿Cuándo te levantarás?</string>
     <string name="bedtime_welcome">Gestiona tu hora de acostarte</string>
-    <string name="bedtime_welcome_desc">Mantener un horario de sueño regular y constante es beneficioso para tu salud. Establece recordatorios para ayudarte a irte a la cama y levantarte cada día.</string>
+    <string name="bedtime_welcome_desc">Mantener un horario de sueño regular y constante es beneficioso para la salud. Establece recordatorios que te ayudarán a irte a la cama y levantarte cada día.</string>
     <string name="birthday_alarm">Alarma de cumpleaños</string>
     <string name="birthday_alarm_summary">Reproducir \"Cumpleaños Feliz\" en vez del sonido de alarma predeterminado cuando sea tu cumpleaños</string>
     <string name="cancel">Cancelar</string>
@@ -112,8 +112,8 @@
     <string name="channel_name_sleep">Sueño</string>
     <string name="channel_name_stopwatch">Cronómetro</string>
     <string name="channel_name_timer">Temporizador</string>
-    <string name="check_theme_app_install">Asegúrate de que la aplicación Temas está instalada en tu dispositivo.</string>
-    <string name="check_voice_assist_app_version">Actualizar Mi IA a la última versión.</string>
+    <string name="check_theme_app_install">Comprueba que la aplicación Temas está instalada.</string>
+    <string name="check_voice_assist_app_version">Actualizar IA de Mi a su última versión.</string>
     <string name="cities_show_limit_desc">"No se pueden mostrar más relojes"</string>
     <string name="city_time_contrast_desc">Pulsa para comparar la hora en diferentes ciudades</string>
     <string name="clearable_edittext_clear_description">Eliminar</string>
@@ -128,7 +128,7 @@
     <string name="common_timer_selector">Seleccionar temporizador</string>
     <string name="confirm">Confirmar</string>
     <string name="confirm_abort">Descartar</string>
-    <string name="confirm_remove_custom_ringtone">Si eliminas este tono de llamada, las alarmas y los temporizadores que lo usan reproducirán el tono de llamada predeterminado. ¿Eliminar ahora?</string>
+    <string name="confirm_remove_custom_ringtone">Si eliminas este tono, las alarmas y temporizadores que lo usan utilizarán predeterminado. ¿Eliminar ahora?</string>
     <string name="content_desc_keep_screen">Botón \"Mantener pantalla encendida\"</string>
     <string name="continue_operation">Continuar</string>
     <string name="continue_step">Siguiente</string>
@@ -148,7 +148,7 @@
     <string name="delete_selected_timer_item">¿Eliminar la tarea seleccionada del temporizador?</string>
     <string name="delete_timer_item_title">Eliminar tarea de temporizador</string>
     <string name="delete_timezone_title">Eliminar zona horaria</string>
-    <string name="deskclock_sleep_no_disturbance">Reloj - Hora de acostarse - Modo no molestar</string>
+    <string name="deskclock_sleep_no_disturbance">Reloj - Hora de acostarte - Modo no molestar</string>
     <string name="device_sounds">Sonidos del dispositivo</string>
     <string name="dialog_confirm_abort">¿Descartar cambios?</string>
     <string name="dialog_legal_off_day">&lt;Data&gt;Parece que estás usando alarmas de festivos. Esta función necesita conectarse a internet para trabajar con normalidad. Antes de aceptar esta función debes aceptar nuestro &lt;a href=\"%1$s\"&gt;Acuerdo de Usuario&lt;/a&gt; y &lt;a href=\"%2$s\"&gt;Política de Privacidad&lt;/a&gt;. ¿Aceptar?&lt;/Data&gt;</string>
@@ -255,6 +255,8 @@
     <string name="menu_item_sort_by_gmt_offset">Ordenar por hora</string>
     <string name="menu_item_sort_by_name">Ordenar por nombre</string>
     <string name="midnight">Noche</string>
+    <string name="miuix_access_state_desc">Seleccionado</string>
+    <string name="miuix_alphabet_indexer_name">Barra de índice</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleccionar todo</string>
     <string name="miuix_appcompat_action_mode_title_empty">Seleccionar elementos</string>
@@ -269,6 +271,8 @@
     <string name="miuix_appcompat_select_all">Seleccionar todo</string>
     <string name="miuix_appcompat_select_all_description">Seleccionar todo</string>
     <string name="miuix_appcompat_select_item">Seleccionar elementos</string>
+    <string name="miuix_indexer_collect">Colecciones</string>
+    <string name="miuix_indexer_selected">Seleccionado %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Desliza hacia abajo para actualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado con éxito</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualizando…</string>
@@ -281,43 +285,43 @@
     <string name="module_dialog_neutral">Entendido</string>
     <string name="module_dialog_positive">Aceptar</string>
     <string name="module_download_cancel">No, gracias</string>
-    <string name="module_download_data_msg">Para hacer que las alarmas inteligentes de MIUI estén disponibles, el Reloj necesita descargar archivos de audio. Las alarmas inteligentes continen funciones de audio que permiten incluir la información actual del tiempo. Se requieren 20 MB de datos móviles para esta descarga. ¿Descargar ahora?</string>
-    <string name="module_download_data_msg_golbal">El Reloj necesita descargar archivos de audio para las alarmas inteligentes de MIUI. Se requerirán 20MB de tus datos móviles para esta descarga. ¿Descargar ahora?</string>
-    <string name="module_download_data_msg_replace">Audio actualizado para alarmas inteligentes de MIUI disponible. Se requerirán 20MB de tus datos móviles para esta descarga. ¿Descargar ahora?</string>
-    <string name="module_download_data_msg_timer">El Reloj necesita descargar archivos de audio para los temporizadores de ruidos ambientales. Se requerirán 20MB de tus datos móviles para esta descarga. ¿Descargar ahora?</string>
-    <string name="module_download_fail">"No se pudieron descargar los audios adicionales"</string>
-    <string name="module_download_failure">"No se pudo descargar el audio. Comprueba tus ajustes de red y vuelve a intentarlo."</string>
-    <string name="module_download_msg">Para hacer que las alarmas inteligentes de MIUI estén disponibles, el Reloj necesita descargar archivos de audio. Las alarmas inteligentes continen funciones de audio que permiten incluir la información actual del tiempo. ¿Descargar?</string>
-    <string name="module_download_msg_golbal">El Reloj necesita descargar archivos de audio para las alarmas inteligentes de MIUI. ¿Descargar ahora?</string>
-    <string name="module_download_msg_replace">Actualización de audio para alarmas inteligentes de MIUI disponible. ¿Descargar ahora?</string>
-    <string name="module_download_msg_timer">El Reloj necesita descargar archivos de audio para los temporizadores de ruidos ambientales. ¿Descargar ahora?</string>
-    <string name="module_download_no_network">El Reloj necesita conectarse a internet para descargar audios. Comprueba tus ajustes de red y vuelve a intentarlo.</string>
+    <string name="module_download_data_msg">Para que las alarmas inteligentes de MIUI estén disponibles, Reloj necesita descargar archivos de audio. Las alarmas inteligentes continen funciones de audio que permiten incluir información actual del tiempo. Se usarán 20 MB de datos móviles para ello. ¿Descargar ahora?</string>
+    <string name="module_download_data_msg_golbal">Reloj necesita descargar archivos de audio para las alarmas inteligentes de MIUI. Se usarán 20 MB de datos móviles para ello. ¿Descargar ahora?</string>
+    <string name="module_download_data_msg_replace">Audio actualizado para las alarmas inteligentes de MIUI disponible. Se usarán 20 MB de datos móviles para ello. ¿Descargar ahora?</string>
+    <string name="module_download_data_msg_timer">Reloj necesita descargar archivos de audio para los temporizadores de ruidos ambientales. Se usarán 20 MB de datos móviles para ello. ¿Descargar ahora?</string>
+    <string name="module_download_fail">"No se pudo descargar el audio adicional"</string>
+    <string name="module_download_failure">"No se pudo descargar el audio. Comprueba los ajustes de la red e inténtalo otra vez."</string>
+    <string name="module_download_msg">Para que las alarmas inteligentes de MIUI estén disponibles, Reloj necesita descargar archivos de audio. Las alarmas inteligentes continen funciones de audio que permiten incluir la información actual del tiempo. ¿Descargar ahora?</string>
+    <string name="module_download_msg_golbal">Reloj necesita descargar archivos de audio para las alarmas inteligentes de MIUI. ¿Descargar ahora?</string>
+    <string name="module_download_msg_replace">Actualización de audio para las alarmas inteligentes de MIUI disponible. ¿Descargar ahora?</string>
+    <string name="module_download_msg_timer">Reloj necesita descargar archivos de audio para los temporizadores de ruidos ambientales. ¿Descargar ahora?</string>
+    <string name="module_download_no_network">Reloj necesita conexión a Internet para descargar audios. Comprueba los ajustes de la red e inténtalo otra vez.</string>
     <string name="module_download_ok">Permitir</string>
-    <string name="module_download_success">Audio descargado con éxito</string>
-    <string name="module_download_title">Audios adicionales requeridos</string>
+    <string name="module_download_success">Se ha de descargado el audio</string>
+    <string name="module_download_title">Se necesita audio adicional</string>
     <string name="module_downloading">Descargando audio…</string>
     <string name="module_unzipping">Descomprimiendo audio…</string>
-    <string name="module_update_success">Audio actualizado para alarmas inteligentes de MIUI descargado con éxito. Puedes establecer las alarmas inteligentes de MIUI en los ajustes del Reloj.</string>
+    <string name="module_update_success">Se ha descargado el audio actualizado para las alarmas inteligentes de MIUI. Puedes establecerlas en los ajustes de Reloj.</string>
     <string name="module_update_success_control">Entendido</string>
-    <string name="module_weather_ringtone_download_data">La alarma meteorológica selecciona diferentes tonos dependiendo del estado del tiempo actual. El Reloj necesita descargar aproximadamente 30MB de audio para esto. ¿Descargar?</string>
-    <string name="module_weather_ringtone_download_data_privacy">&lt;Data&gt;La alarma meteorológica selecciona diferentes tonos dependiendo del estado del tiempo actual. El Reloj necesita conectarse a internet para descargar aproximadamente 30MB de audio. Antes de usar el Reloj, debes leer y aceptar nuestro &lt;a href=\"%1$s\"&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &lt;a href=\"%2$s\"&gt;Política de Privacidad&lt;/a&gt;. ¿Aceptar?&lt;/Data&gt;</string>
-    <string name="module_weather_ringtone_download_wifi">La alarma meteorológica selecciona diferentes tonos dependiendo del estado del tiempo actual. El Reloj necesita descargar audio para esto. ¿Descargar?</string>
-    <string name="module_weather_ringtone_download_wifi_privacy">&lt;Data&gt;La alarma meteorológica selecciona diferentes tonos dependiendo del estado del tiempo actual. El Reloj necesita conectarse a internet para descargar audios. Antes de usar el Reloj, debes leer y aceptar nuestro &lt;a href=\"%1$s\"&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &lt;a href=\"%2$s\"&gt;Política de Privacidad&lt;/a&gt;. ¿Aceptar?&lt;/Data&gt;</string>
-    <string name="module_weather_ringtone_introduce">La alarma meteorológica selecciona diferentes tonos dependiendo del estado del tiempo actual. También te permite escuchar la información meteorológica matutina actual.</string>
-    <string name="module_weather_ringtone_introduce_global">La alarma meteorológica selecciona diferentes tonos dependiendo del estado del tiempo actual.</string>
-    <string name="module_weather_ringtone_update_data">La alerta meteorológica ahora cuenta con música de fondo y mejores anuncios de voz. El Reloj necesita descargar aproximadamente 30MB de audio para esto. ¿Descargar?</string>
-    <string name="module_weather_ringtone_update_success">La alerta meteorológica ahora cuenta con música de fondo y mejores anuncios de voz. Puedes crear una nueva alarma para probar esta función.</string>
-    <string name="module_week_ringtone_download_data">La alarma de la naturaleza reproduce diferentes sonidos dependiendo de la fecha. Reloj necesita descargar aproximadamente 30MB de audio para que funcione. ¿Descargar?</string>
-    <string name="module_week_ringtone_download_data_privacy">&lt;Data&gt;La alarma semanal reproduce diferentes sonidos de la naturaleza cada día de la semana. El Reloj necesita conectarse a internet para descargar 30MB de audio. Antes de usar el Reloj, debes leer y aceptar nuestro &lt;a href=\"%1$s\"&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &lt;a href=\"%2$s\"&gt;Política de Privacidad&lt;/a&gt;. ¿Aceptar?&lt;/Data&gt;</string>
-    <string name="module_week_ringtone_download_wifi">La alarma de la naturaleza reproduce diferentes sonidos dependiendo de la fecha. Reloj necesita descargar audio para que funcione. ¿Descargar?</string>
-    <string name="module_week_ringtone_download_wifi_privacy">&lt;Data&gt;La alarma semanal reproduce diferentes sonidos de la naturaleza cada día de la semana. El Reloj necesita conectarse a internet para descargar audio. Antes de usar el Reloj, debes leer y aceptar nuestro &lt;a href=\"%1$s\"&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &lt;a href=\"%2$s\"&gt;Política de Privacidad&lt;/a&gt;. ¿Aceptar?&lt;/Data&gt;</string>
+    <string name="module_weather_ringtone_download_data">La alarma meteorológica selecciona diferentes tonos dependiendo del estado del tiempo. Reloj necesita descargar 30 MB de audio para esto. ¿Descargar ahora?</string>
+    <string name="module_weather_ringtone_download_data_privacy"><Data>La alarma meteorológica selecciona diferentes tonos dependiendo del estado del tiempo. Reloj necesita conexión a Internet para descargar unos 30 MB de audio. Antes de usar Reloj, debes leer y aceptar nuestro &lt;a href=\"%1$s\"&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &lt;a href=\"%2$s\"&gt;Política de Privacidad&lt;/a&gt;. ¿Aceptar?</Data></string>
+    <string name="module_weather_ringtone_download_wifi">La alarma meteorológica selecciona diferentes tonos dependiendo del estado del tiempo. Reloj necesita descargar audio para ello. ¿Descargar ahora?</string>
+    <string name="module_weather_ringtone_download_wifi_privacy"><Data>La alarma meteorológica selecciona diferentes tonos dependiendo del estado del tiempo. Reloj necesita conexión a internet para descargar audios. Antes de usar Reloj, debes leer y aceptar nuestro &lt;a href=\"%1$s\"&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &lt;a href=\"%2$s\"&gt;Política de Privacidad&lt;/a&gt;. ¿Aceptar?</Data></string>
+    <string name="module_weather_ringtone_introduce">La alarma meteorológica selecciona diferentes tonos dependiendo del estado del tiempo. También permite oir la información meteorológica actual.</string>
+    <string name="module_weather_ringtone_introduce_global">La alarma meteorológica selecciona diferentes tonos dependiendo del estado del tiempo.</string>
+    <string name="module_weather_ringtone_update_data">La alerta meteorológica incorpora música de fondo y mejores anuncios de voz. Reloj necesita descargar unos 30 MB de audio para ello. ¿Descargar ahora?</string>
+    <string name="module_weather_ringtone_update_success">La alerta meteorológica incorpora música de fondo y mejores anuncios de voz. Puedes crear una nueva alarma para probarla.</string>
+    <string name="module_week_ringtone_download_data">La alarma de la naturaleza reproduce diferentes sonidos dependiendo de la fecha. Reloj necesita descargar unos 30 MB de audio para ello. ¿Descargar ahora?</string>
+    <string name="module_week_ringtone_download_data_privacy"><Data>La alarma semanal reproduce diferentes sonidos de la naturaleza cada día de la semana. Reloj necesita conexión Internet para descargar 30 MB de audio. Antes de usar Reloj, debes leer y aceptar nuestro &lt;a href=\"%1$s\"&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &lt;a href=\"%2$s\"&gt;Política de Privacidad&lt;/a&gt;. ¿Aceptar?</Data></string>
+    <string name="module_week_ringtone_download_wifi">La alarma de la naturaleza reproduce diferentes sonidos dependiendo de la fecha. Reloj necesita descargar audio para ello. ¿Descargar ahora?</string>
+    <string name="module_week_ringtone_download_wifi_privacy"><Data>La alarma semanal reproduce diferentes sonidos de la naturaleza cada día de la semana. Reloj necesita conexión a Internet para descargar audio. Antes de usar Reloj, debes leer y aceptar nuestro &lt;a href=\"%1$s\"&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &lt;a href=\"%2$s\"&gt;Política de Privacidad&lt;/a&gt;. ¿Aceptar?</Data></string>
     <string name="module_week_ringtone_introduce">La alarma de la naturaleza reproduce diferentes sonidos dependiendo de la fecha.</string>
-    <string name="module_week_ringtone_update_data">La alarma de la naturaleza reproduce diferentes sonidos dependiendo de la fecha. Reloj necesita descargar aproximadamente 30MB de audio para que funcione. ¿Descargar?</string>
-    <string name="module_week_ringtone_update_success">La alarma de la naturaleza reproduce diferentes sonidos dependiendo de la fecha. Puedes crear una alarma para probar esta función.</string>
-    <string name="module_white_noise_download_data">El Reloj necesita descargar archivos de audio para los temporizadores de ruidos ambientales. Se requerirán 30MB de tus datos móviles para esta descarga. ¿Descargar ahora?</string>
-    <string name="module_white_noise_download_data_privacy">&lt;Data&gt;Para descargar archivos de audio para temporizadores de sonido ambiental (aproximadamente 30MB) y proveer servicios personalizados, el Reloj necesita conectarse a internet. Antes de usar el Reloj, debes leer y aceptar nuestro &lt;a href=\"%1$s\"&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &lt;a href=\"%2$s\"&gt;Política de Privacidad&lt;/a&gt;. Estás usando datos móviles. ¿Aceptar?&lt;/Data&gt;</string>
-    <string name="module_white_noise_download_wifi">El Reloj necesita descargar archivos de audio para los temporizadores de ruidos ambientales. ¿Descargar ahora?</string>
-    <string name="module_white_noise_download_wifi_privacy">&lt;Data&gt;Para descargar archivos de audio para temporizadores de sonido ambiental y proveer servicios personalizados, el Reloj necesita conectarse a internet. Antes de usar el Reloj, debes leer y aceptar nuestro &lt;a href=\"%1$s\"&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &lt;a href=\"%2$s\"&gt;Política de Privacidad&lt;/a&gt;. ¿Aceptar?&lt;/Data&gt;</string>
+    <string name="module_week_ringtone_update_data">La alarma de la naturaleza reproduce diferentes sonidos dependiendo de la fecha. Reloj necesita descargar unos 30 MB de audio para ello. ¿Descargar ahora?</string>
+    <string name="module_week_ringtone_update_success">La alarma de la naturaleza reproduce diferentes sonidos dependiendo de la fecha. Puedes crear una alarma para probarla.</string>
+    <string name="module_white_noise_download_data">Reloj necesita descargar archivos de audio para los temporizadores de ruidos ambientales. Se usarán unos 30 MB de datos móviles para ello. ¿Descargar ahora?</string>
+    <string name="module_white_noise_download_data_privacy"><Data>Para descargar archivos de audio para temporizadores de sonido ambiental (unos 30 MB) y proveer servicios personalizados, Reloj necesita conexión a Internet. Antes de usar Reloj, debes leer y aceptar nuestro &lt;a href=\"%1$s\"&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &lt;a href=\"%2$s\"&gt;Política de Privacidad&lt;/a&gt;. Estás usando datos móviles. ¿Aceptar?</Data></string>
+    <string name="module_white_noise_download_wifi">Reloj necesita descargar archivos de audio para los temporizadores de ruidos ambientales. ¿Descargar ahora?</string>
+    <string name="module_white_noise_download_wifi_privacy"><Data>Para descargar archivos de audio para temporizadores de sonido ambiental y proveer servicios personalizados, Reloj necesita conexión a Internet. Antes de usar Reloj, debes leer y aceptar nuestro &lt;a href=\"%1$s\"&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &lt;a href=\"%2$s\"&gt;Política de Privacidad&lt;/a&gt;. ¿Aceptar?</Data></string>
     <string name="monday">Lunes</string>
     <string name="monday_short">Lun</string>
     <string name="monday_shortest">Lun</string>
@@ -463,12 +467,12 @@
     <string name="sleep_no_disturbance">Modo no molestar</string>
     <string name="sleep_no_disturbance_desc">Cambia al Modo no molestar hasta que te despiertes</string>
     <string name="sleep_no_record_text">Comienza a hacer un seguimiento de tu sueño para ver las estadísticas</string>
-    <string name="sleep_notification_desc">Sigue tu horario para acostarte</string>
+    <string name="sleep_notification_desc">Sigue el horario para acostarte</string>
     <string name="sleep_notification_title">Hora de irse a la cama</string>
     <string name="sleep_record">Seguimiento del sueño</string>
     <string name="sleep_record_desc">Activar para comenzar a registrar datos de sueño</string>
     <string name="sleep_record_desc_detailed">La funcionalidad de seguimiento del sueño es proporcionada por Xiaomi Salud. Una vez activado, Xiaomi Salud registra automáticamente tu sueño en función del uso de tu teléfono, las estadísticas de actividad, así como el tiempo en que te duermes y te despiertas, y te muestra estadísticas en forma de gráficos. Para hacer un seguimiento de tu sueño con mayor precisión, permite que Xiaomi Salud se inicie automáticamente. Todos los datos relacionados se almacenarán localmente en tu dispositivo, lo que le permite administrarlos fácilmente.</string>
-    <string name="sleep_record_desc_detailed_new">El seguimiento del sueño lo proporciona la función Mi Fitness Sleep. Si activa esta función, Mi Fitness recopilará y mostrará automáticamente datos sobre su sueño en función del uso del teléfono, la actividad y la hora de acostarse y despertarse que establezca. Para realizar un seguimiento del sueño con mayor precisión, permita que Mi Fitness se inicie automáticamente.</string>
+    <string name="sleep_record_desc_detailed_new">El seguimiento del sueño lo proporciona Mi Fitness Sleep. Si lo activas recopilará y mostrará automáticamente datos sobre tu sueño en función del uso del teléfono, la actividad y la hora de acostarte y despertarte que establezcas. Para hacer un seguimiento del sueño con mayor precisión, permite que Mi Fitness se inicie automáticamente.</string>
     <string name="sleep_record_no_data">Tus estadísticas aparecerán después de que Xiaomi Salud analice los suficientes datos</string>
     <string name="sleep_remind">Recordatorio para acostarte</string>
     <string name="sleep_time">Quedarse dormido</string>
@@ -686,7 +690,7 @@
     <string name="worldcolock_timezone_gap">%s H</string>
     <string name="worldcolock_timezone_local">Igual a la hora local</string>
     <string name="xiaoai_ringtone_title">Tonos de llamada Mi IA</string>
-    <string name="xiaomi_deskclock_uninstall_description_content">"Reloj es una aplicación de sistema. No podrás consultar la hora, configurar alarmas ni utilizar otras funciones después de desinstalar la aplicación."</string>
+    <string name="xiaomi_deskclock_uninstall_description_content">"Reloj es una aplicación del sistema. No podrás consultar la hora, configurar alarmas ni utilizar sus otras funciones si la desinstalas."</string>
     <string name="xiaomi_deskclock_uninstall_description_title">¿Desinstalar Reloj?</string>
     <string name="yesterday">Ayer</string>
     <string name="your_sounds">Mis sonidos</string>

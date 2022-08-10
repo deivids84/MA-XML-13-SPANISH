@@ -107,13 +107,15 @@
     <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
     <string name="fmt_time_24hour">"HH 'en punto'"</string>
     <string name="free_send_net_booster">Optimización gratuita de velocidad de red</string>
-    <string name="free_send_net_booster_busniess">Obtén un aumento de velocidad Xunlei de forma gratuita</string>
-    <string name="free_send_net_booster_busniess_tip">Toca para obtenerlo</string>
+    <string name="free_send_net_booster_busniess">Prueba Game Turbo gratis</string>
+    <string name="free_send_net_booster_busniess_tip">Mejora tu experiencia de juego y gana una carátula de juego. ¡Oferta solo disponible hoy!</string>
     <string name="free_send_net_booster_tip">Juega de forma fluida con la optimización gratuita de velocidad de red.</string>
     <string name="friday">Viernes</string>
     <string name="friday_short">Vie</string>
     <string name="friday_shortest">Vie</string>
     <string name="game_booster">Acelerador de velocidad en los juegos</string>
+    <string name="gamebooster_dialog_recover">Renovar</string>
+    <string name="gamebooster_dialog_start_booster">Iniciar</string>
     <string name="gamebooster_network_dialog_message">¿Permitir que Security se conecte a la red para utilizar todas las funciones de Game Turbo?</string>
     <string name="gamebooster_network_dialog_message_pad">¿Permitir que la seguridad se conecte a la red para usar todas las características de Game Turbo?</string>
     <string name="gamebooster_network_dialog_title">"Algunas funciones no están disponibles"</string>
@@ -305,7 +307,7 @@
     <string name="mtrl_picker_toggle_to_year_selection">Toca para cambiar a seleccionar un año</string>
     <string name="net_booster_expire_notification">La sesión de aumento de velocidad de red está a punto de terminar</string>
     <string name="net_booster_overdue_notification">La sesión de aumento de velocidad de red está a punto de terminar</string>
-    <string name="net_booster_overdue_notification_tip">La sesión de aumento de velocidad de red terminará pronto. ¿Renovar la sesión?</string>
+    <string name="net_booster_overdue_notification_tip">Ha finalizado la sesión de aumento de velocidad de red. Es posible que comiences a notar lentitud. ¿Renovar ahora?</string>
     <string name="network_not_available">"No se puede conectar a la red"</string>
     <string name="night">Tarde-noche</string>
     <string name="no_network">"No se puede conectar a la red"</string>
@@ -318,6 +320,8 @@
     <string name="pc_activity_title">Optimizar batería</string>
     <string name="pm">PM</string>
     <string name="pm_lable_name">Acerca del acceso raíz</string>
+    <string name="power_center_battery_duration_screen_on">Tiempo de pantalla restante</string>
+    <string name="power_main_battery_last_hour_minute_screen_on">Queda %1$s %2$s de tiempo de pantalla</string>
     <string name="preference_copied">\"%1$s\" se ha copiado en el portapapeles.</string>
     <string name="privacy_declare_dialog_title">Términos de Servicio</string>
     <string name="privacy_prompt_traffic_purchase_message">"Su número de teléfono y los detalles del operador serán cifrados y enviados a los servidores Mi para obtener más información acerca de las opciones de compra de datos."</string>

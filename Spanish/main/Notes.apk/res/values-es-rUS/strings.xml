@@ -27,7 +27,7 @@
     <string name="abc_shareactionprovider_share_with">Compartir con</string>
     <string name="abc_shareactionprovider_share_with_application">Compartir con %s</string>
     <string name="abc_toolbar_collapse_description">Contraer</string>
-    <string name="access_denied_info">Demasiados intentos. Espera un minuto o dos e inténtalo otra vez.</string>
+    <string name="access_denied_info">Demasiados intentos. Espera uno o dos minutos e inténtalo de nuevo.</string>
     <string name="action_collapse">Ocultar</string>
     <string name="action_expand">Mostrar más</string>
     <string name="action_folder_description">Ver carpetas</string>
@@ -136,6 +136,7 @@
     <string name="dlg_hide_message">Ocultando…</string>
     <string name="dlg_info_creating_message">Creando imagen…</string>
     <string name="dlg_info_save_to_gallery_message">Guardando imagen en la galería…</string>
+    <string name="dlg_info_save_to_local_message">Guardando…</string>
     <string name="dlg_message_password_reset">"La contraseña de las notas ocultas será reemplazada por la contraseña de protección de privacidad, funciona para mensajes, fotos y carpetas ocultas"</string>
     <string name="dlg_message_set_password">La contraseña de protección de privacidad funciona para mensajes, fotos y carpetas ocultas</string>
     <string name="dlg_message_use_privacy_password">Utilice la contraseña de Protección de privacidad. Sirve para mensajes, fotos y carpetas ocultas.</string>
@@ -298,8 +299,8 @@
     <string name="info_note_enter_desktop">Agregada a la pantalla de inicio</string>
     <string name="item_view_role_description">Pestaña</string>
     <string name="last_excerpt_unfinish_hint">El último extracto está incompleto</string>
-    <string name="library_android_database_sqlcipher_libraryDescription">API SQLite de Android basada en SQLCipher</string>
-    <string name="library_android_database_sqlcipher_libraryName">Cifrado SQL para Android</string>
+    <string name="library_android_database_sqlcipher_libraryDescription">API de Android SQLite basada en SQLCipher</string>
+    <string name="library_android_database_sqlcipher_libraryName">SQLCipher para Android</string>
     <string name="loading_text">Un momento…</string>
     <string name="login_sync">Iniciar sesión y sincronizar</string>
     <string name="lunar_day">%1$s lunar</string>
@@ -517,8 +518,8 @@
     <string name="mtrl_picker_toggle_to_day_selection">Toca para cambiar a la selección de un día</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Cambiar al modo de entrada de texto</string>
     <string name="mtrl_picker_toggle_to_year_selection">Toque para cambiar a la selección de un año</string>
-    <string name="network_error_info">Se ha producido un error de red. Comprueba la configuración e inténtalo otra vez.</string>
-    <string name="network_timeout_info">"No se pudo conectar a la red. Inténtalo otra vez."</string>
+    <string name="network_error_info">Se ha producido un error de red. Comprueba tu configuración de red e inténtelo de nuevo.</string>
+    <string name="network_timeout_info">"No se pudo conectar a la red. Inténtelo de nuevo."</string>
     <string name="new_app_name">Mi Notes</string>
     <string name="new_audio_create_cancel_talkback_des">Cancelado</string>
     <string name="new_audio_create_done_talkback_des">Creado</string>
@@ -620,6 +621,8 @@
     <string name="permission_phone_state_desc">Para dejar de grabar notas de voz durante las llamadas</string>
     <string name="permission_read_contact_desc">Asociar con contactos las notas creadas durante llamadas</string>
     <string name="permission_storage_desc">Para guardar notas como imágenes</string>
+    <string name="permission_storage_desc_new_v12">Para añadir imágenes a las notas y guardar las notas como imágenes</string>
+    <string name="permission_storage_desc_pad_new_v12">Para añadir imágenes a las notas y guardar las notas como imágenes</string>
     <string name="permission_storage_desc_pad_v12">Para agregar imágenes a notas y guardar notas como imágenes</string>
     <string name="permission_storage_desc_v12">Para agregar imágenes a notas y guardar notas como imágenes</string>
     <string name="permission_xiaoai_desc">&lt;Data&gt;Mi AI recolectará sus grabaciones de voz y ID del dispositivo para transcribir audio y crear notas de voz. Aprenda más en la &lt;a href=\"%1$s\"&gt;Política de Privacidad&lt;/a&gt; de Mi AI.&lt;/Data&gt;</string>
@@ -705,6 +708,9 @@
     <string name="save_to_gallery_failure_message">"No se pudo guardar"</string>
     <string name="save_to_gallery_icon_name">Guardar en la galería</string>
     <string name="save_to_gallery_success_message">Guardado con éxito</string>
+    <string name="save_to_local_failure_message">"No se pudo guardar"</string>
+    <string name="save_to_local_icon_name">Guardar</string>
+    <string name="save_to_local_success_message">Guardado exitosamente</string>
     <string name="search">Notas</string>
     <string name="search_hint">Buscar notas</string>
     <string name="search_keyword_notes">Notas;Memos</string>
@@ -713,6 +719,7 @@
     <string name="search_path_notes">Aplicaciones de sistema/Notas</string>
     <string name="search_setting_description">Busque palabras en sus notas</string>
     <string name="select_account_prompt">Sincronizar notas</string>
+    <string name="select_up_limit_toast">Selecciona hasta %d elementos</string>
     <string name="send">Enviar</string>
     <string name="set_alarm_description">Crear alarma</string>
     <string name="setting_big_screen_layout_columns">Barra lateral</string>
@@ -787,7 +794,7 @@
     <string name="sync_note_folder">%1$s y %2$s</string>
     <string name="sync_note_todo">%1$s y %2$s</string>
     <string name="sync_tips">Toque para sincronizar notas en la nube.</string>
-    <string name="system_error_info">El sistema está ocupado. Espera uno o dos minutos e inténtalo otra vez.</string>
+    <string name="system_error_info">El sistema está ocupado. Espera uno o dos minutos e inténtalo de nuevo.</string>
     <string name="the_anniversary_of_lifting_martial_law">Aniversario del Levantamiento de la Ley Marcial</string>
     <string name="the_anti_aggression_day">Día de lucha contra la agresión</string>
     <string name="the_arbor_day">Día del árbol</string>

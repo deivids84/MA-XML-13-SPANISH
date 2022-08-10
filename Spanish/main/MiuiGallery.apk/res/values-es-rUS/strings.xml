@@ -238,6 +238,9 @@ Conecta el cargador y apaga la pantalla para que aparezcan los recuerdos."</stri
     <string name="assistant_page_discovery">Descubrir</string>
     <string name="assistant_page_label">Recuerdos</string>
     <string name="assistant_page_server_error">Compruebe sus ajustes de red</string>
+    <string name="assistant_today_of_year_function_closed_tip">Activar</string>
+    <string name="assistant_today_of_year_function_no_address_tip">Tiempo atrás</string>
+    <string name="assistant_today_of_year_function_no_photo_tip">Iniciar</string>
     <string name="associate_face_album">Elija un álbum</string>
     <string name="authorize_to_device_failed">"No se pudo autorizar"</string>
     <string name="authorize_watch_on_tv_failed">"No se pudo autorizar para ver en TV"</string>
@@ -593,6 +596,7 @@ Conecta el cargador y apaga la pantalla para que aparezcan los recuerdos."</stri
     <string name="crop_label">Fotos recortadas</string>
     <string name="cta_agreement_declare"><Data>Para comprender completamente sus derechos como usuario, así como las formas en que usamos sus datos, lea y acepte nuestro &lt;a href=\"%1$s\"&gt;Acuerdo de usuario&lt;/a&gt; y &lt;a href=\"%2$s\"&gt;Política de privacidad&lt;/a&gt; antes de usar esta aplicación.</Data></string>
     <string name="cta_network_declare">Para sincronizar fotos y videos con Xiaomi Cloud, esta aplicación debe conectarse a Internet.</string>
+    <string name="cta_screenthrow_declare">"Para transmitir la pantalla de este dispositivo a monitores externos, esta aplicación necesita conectarse a Internet."</string>
     <string name="custom_select_title_deselect_all">Deseleccionar</string>
     <string name="custom_select_title_quickly_share">Compartir</string>
     <string name="custom_select_title_select_all">Seleccionar todo</string>
@@ -831,6 +835,7 @@ Conecta el cargador y apaga la pantalla para que aparezcan los recuerdos."</stri
     <string name="face_name_input">Introduce el nombre</string>
     <string name="face_recommend">Recomendaciones</string>
     <string name="fail_hint">"No se pudo completar la operación"</string>
+    <string name="fail_reason_migrate">Procesando elementos… Espera uno o dos minutos e inténtalo otra vez.</string>
     <string name="fail_to_pick_email">Correo electrónico inválido</string>
     <string name="fail_to_sync_album">"Error al sincronizar álbum. Compruebe la conexión de datos y vuelva a intentarlo."</string>
     <string name="family_member_invitation_text">Otro miembro de la familia</string>
@@ -1137,6 +1142,8 @@ disponibles"</string>
     <string name="home_page_empty_action">Tomar una foto</string>
     <string name="home_page_empty_action_new">Importar desde un dispositivo antiguo</string>
     <string name="home_page_label">Fotos</string>
+    <string name="home_sdcard_op_tip_msg">"No se completó esta acción para todas las imágenes seleccionadas. Desmonta y vuelve a montar la tarjeta SD."</string>
+    <string name="home_sdcard_tip_msg">Parece que la tarjeta SD es de solo lectura. Desmóntala y vuelve a montarla en Ajustes &gt; Acerca de... &gt; Almacenamiento.</string>
     <string name="homepage_allphotos_tip_dialog_button_negative">Omitir</string>
     <string name="homepage_allphotos_tip_dialog_button_positive">Aceptar</string>
     <string name="homepage_allphotos_tip_dialog_description_all">Todas</string>
@@ -1632,6 +1639,8 @@ para personalizar la Galería"</string>
     <string name="ocr_save_to_note">Guardar</string>
     <string name="ocr_save_to_note_new">Guardar en notas</string>
     <string name="ocr_send">Compartir</string>
+    <string name="ocr_switch_hint">Reconocer el texto mostrado en las imágenes para seleccionarlo o ejecutar una acción</string>
+    <string name="ocr_switch_title">Reconocer el texto en imágenes</string>
     <string name="ocr_text_copied">Copiado con éxito</string>
     <string name="ocr_text_copied_selected">Copiado con éxito</string>
     <string name="ocr_text_link">URL</string>
@@ -2003,7 +2012,7 @@ La transcodificación puede llevar algo de tiempo cuando utiliza esta función p
     <string name="projection_cancel">Cancelar</string>
     <string name="projection_checkbox_text">Recordar esta pantalla</string>
     <string name="projection_device_connection_failed">"No se pudo conectar el proyector"</string>
-    <string name="projection_local_mobile">Este teléfono</string>
+    <string name="projection_local_mobile">Este dispositivo</string>
     <string name="projection_multi_title">Dispositivos</string>
     <string name="projection_screen_project_in_screening">"Ahora está usando su dispositivo para emitir"</string>
     <string name="projection_single_title">Emitir a %s</string>

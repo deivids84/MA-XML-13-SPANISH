@@ -104,7 +104,7 @@
     <string name="cta_reminder">Notas necesita permiso para conectar con internet, grabar audio y acceder a tus contactos para trabajar con normalidad. ¿Permitir?</string>
     <string name="cta_v2_agree_desc">Permitir a esta aplicación conectarse a internet y conceder los permisos obligatorios arriba mencionados.</string>
     <string name="cta_v2_app_purpose">Creando, visualizando y gestionando notas</string>
-    <string name="cta_v2_app_purpose_v12">¡Bienvenido a Notas! Puedes usar esta aplicación para crear tareas y notas que contengan texto, imágenes y audio.</string>
+    <string name="cta_v2_app_purpose_v12">¡Te damos la bienvenida a Notas! Puedes usar esta aplicación para crear tareas y notas que contengan texto, imágenes y audio.</string>
     <string name="data_empty_folder">No hay otras carpetas para mostrar</string>
     <string name="data_empty_note">No hay notas todavía</string>
     <string name="data_empty_todo">No hay tareas todavía</string>
@@ -136,6 +136,7 @@
     <string name="dlg_hide_message">Ocultando…</string>
     <string name="dlg_info_creating_message">Creando imagen…</string>
     <string name="dlg_info_save_to_gallery_message">Guardando imagen en Galería…</string>
+    <string name="dlg_info_save_to_local_message">Guardando…</string>
     <string name="dlg_message_password_reset">"La contraseña de notas ocultas se sustituirá por la contraseña de Protección de la privacidad, que sirve para aplicaciones, fotos y carpetas ocultas"</string>
     <string name="dlg_message_set_password">La contraseña de Protección de la privacidad sirve para mensajes, fotos y carpetas ocultas</string>
     <string name="dlg_message_use_privacy_password">Utiliza la contraseña de Protección de la privacidad. Sirve para mensajes, fotos y carpetas ocultas.</string>
@@ -596,6 +597,8 @@
     <string name="permission_phone_state_desc">Para dejar de grabar notas de voz durante las llamadas</string>
     <string name="permission_read_contact_desc">Asociar las notas creadas durante las llamadas con contactos</string>
     <string name="permission_storage_desc">Para guardar notas como imágenes</string>
+    <string name="permission_storage_desc_new_v12">Para añadir imágenes a las notas y guardar las notas como imágenes</string>
+    <string name="permission_storage_desc_pad_new_v12">Para añadir imágenes a las notas y guardar las notas como imágenes</string>
     <string name="permission_storage_desc_pad_v12">Para agregar imágenes a notas y guardar notas como imágenes</string>
     <string name="permission_storage_desc_v12">Para añadir imágenes a las notas y guardar notas como imágenes</string>
     <string name="permission_xiaoai_desc">&lt;Data&gt;Mi AI recolectará tus grabaciones de voz y el ID del dispositivo para transcribir audio y crear notas de voz. Aprende más en la &lt;a href=\"%1$s\"&gt;Política de Privacidad&lt;/a&gt; de Mi AI.&lt;/Data&gt;</string>
@@ -681,6 +684,9 @@
     <string name="save_to_gallery_failure_message">"No se pudo guardar"</string>
     <string name="save_to_gallery_icon_name">Guardar en Galería</string>
     <string name="save_to_gallery_success_message">Guardado con éxito</string>
+    <string name="save_to_local_failure_message">"No se pudo guardar"</string>
+    <string name="save_to_local_icon_name">Guardar</string>
+    <string name="save_to_local_success_message">Guardado</string>
     <string name="search">Notas</string>
     <string name="search_hint">Buscar notas</string>
     <string name="search_keyword_notes">Notas;Nota</string>
@@ -689,6 +695,7 @@
     <string name="search_path_notes">Aplicaciones del sistema/Notas</string>
     <string name="search_setting_description">Busca texto en tus notas</string>
     <string name="select_account_prompt">Activa la sincronización de notas</string>
+    <string name="select_up_limit_toast">Selecciona hasta %d elementos</string>
     <string name="send">Enviar</string>
     <string name="set_alarm_description">Establecer alarma</string>
     <string name="setting_big_screen_layout_columns">Barra lateral</string>

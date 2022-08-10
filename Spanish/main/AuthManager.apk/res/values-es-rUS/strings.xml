@@ -10,7 +10,7 @@
     <string name="HIPS_Perm_Access_Gallery">Acceder a la Galería</string>
     <string name="HIPS_Perm_Access_Gallery_Desc">Permitir que esta aplicación acceda a los elementos de su Galería</string>
     <string name="HIPS_Perm_AudioRecorder">Grabar audio</string>
-    <string name="HIPS_Perm_AudioRecorder_Desc">grabar audio y llamadas telefónicas</string>
+    <string name="HIPS_Perm_AudioRecorder_Desc">grabar audio</string>
     <string name="HIPS_Perm_AutoStart">Ejecutar al inicio</string>
     <string name="HIPS_Perm_AutoStart_Desc">ejecutarse al inicio</string>
     <string name="HIPS_Perm_Bluetooth_Connectivity">Cambiar la conectividad Bluetooth</string>
@@ -27,7 +27,7 @@
     <string name="HIPS_Perm_Contact_Desc">editar contactos</string>
     <string name="HIPS_Perm_External_Storage">Acceder y cambiar archivos en el almacenamiento interno</string>
     <string name="HIPS_Perm_External_Storage_Desc">"agregar y eliminar archivos en el almacenamiento interno del dispositivo"</string>
-    <string name="HIPS_Perm_Intl_group_desc_audio_recorder">Grabar audio y realizar llamadas</string>
+    <string name="HIPS_Perm_Intl_group_desc_audio_recorder">grabar audio</string>
     <string name="HIPS_Perm_Intl_group_desc_auto_start">Ejecutar aplicaciones en segundo plano automáticamente</string>
     <string name="HIPS_Perm_Intl_group_desc_calendar">Acceder a eventos del calendario</string>
     <string name="HIPS_Perm_Intl_group_desc_call_log">Acceder y modificar el historial de llamadas</string>
@@ -47,6 +47,7 @@
     <string name="HIPS_Perm_Location_Desc">obtener su ubicación exacta (basada en GPS y redes de datos)</string>
     <string name="HIPS_Perm_NEARBY_DEVICES">Conectarse a dispositivos cercanos</string>
     <string name="HIPS_Perm_NEARBY_DEVICES_Desc">Descubra y conéctese a los dispositivos cercanos</string>
+    <string name="HIPS_Perm_NEARBY_DEVICES_Desc_T_china">Descubre y conecta con dispositivos cercanos mediante Bluetooth y Wi-Fi</string>
     <string name="HIPS_Perm_PhoneID">Obtener datos del dispositivo</string>
     <string name="HIPS_Perm_PhoneID_Desc">acceder al número telefónico, IMEI e IMSI</string>
     <string name="HIPS_Perm_PhoneID_Desc_Q">Acceder al número telefónico y estado del dispositivo</string>
@@ -316,7 +317,7 @@
     <string name="permdesc_get_account">¿Permitir a %1$s acceder a todas las cuentas almacenadas en este dispositivo?</string>
     <string name="permdesc_location">¿Permitir a %1$s acceder a la información de ubicación?</string>
     <string name="permdesc_location_background">¿Permitir a %1$s acceder a la información de ubicación en segundo plano?</string>
-    <string name="permdesc_microphone">¿Permitir a %1$s usar el micrófono para grabar audio y hacer llamadas?</string>
+    <string name="permdesc_microphone">¿Permitir a %1$s usar el micrófono para grabar audio?</string>
     <string name="permdesc_nearby_devices">¿Permitir a %1$s descubrir y conectarse a los dispositivos cercanos?</string>
     <string name="permdesc_process_outgoing_call">¿Permitir a %1$s responder y finalizar llamadas?</string>
     <string name="permdesc_read_calendar">¿Permitir a %1$s acceder y editar eventos del calendario?</string>
@@ -324,7 +325,7 @@
     <string name="permdesc_read_contacts">¿Permitir a %1$s acceder a los contactos?</string>
     <string name="permdesc_read_mms">¿Permitir a %1$s leer mensajes multimedia?</string>
     <string name="permdesc_read_phone_state">¿Permitir a %1$s acceder al estado del dispositivo y a la información de la red?</string>
-    <string name="permdesc_read_sms">¿Permitir a %1$s leer o enviar mensajes multimedia?</string>
+    <string name="permdesc_read_sms">¿Permitir a %1$s leer mensajes de texto y multimedia?</string>
     <string name="permdesc_read_storage">¿Permitir a %1$s acceder a los archivos y fotos en este dispositivo?</string>
     <string name="permdesc_recognition">¿Permitir a %1$s acceder a tu información de tu actividad?</string>
     <string name="permdesc_send_sms">¿Permitir a %1$s enviar mensajes de texto?</string>

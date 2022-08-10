@@ -129,8 +129,8 @@
     <string name="carousel_declaration_cta">"Carrusel de Fondos requiere la conexión a Internet para funcionar con normalidad. Para acceder al contenido en línea, debe aceptar nuestra %s. ¿Aceptar?"</string>
     <string name="carousel_declaration_cta_btn_text">De acuerdo y encender</string>
     <string name="carousel_declaration_des">Mira lugares hermosos y obtén sorpresas emocionantes con Carrusel de Fondos</string>
-    <string name="carousel_declaration_des2">Añade tus imágenes personalizadas a Carrusel de Fondos</string>
-    <string name="carousel_declaration_des_new">Recibe recomendaciones personalizadas y elige imágenes e historias nuevas enviadas a tu pantalla de bloqueo diariamente.</string>
+    <string name="carousel_declaration_des2">Añadir imágenes personalizadas a Carrusel de Fondos de pantalla</string>
+    <string name="carousel_declaration_des_new">Recibir recomendaciones personalizadas y elegir imágenes e historias nuevas enviadas diariamente a la pantalla de bloqueo.</string>
     <string name="carousel_declaration_title">Suscríbete a hermosos fondos de pantalla</string>
     <string name="carousel_declaration_title_new">Nuevos fondos de pantalla todos los días</string>
     <string name="carousel_suggest">Atención</string>
@@ -170,7 +170,7 @@
     <string name="current_network_invalid">Conectate primero a la red</string>
     <string name="current_no_more_pictures">"Eso es todo por ahora"</string>
     <string name="current_permission_network_denied">Permite que Carrusel de Fondos acceda a la red</string>
-    <string name="custom_wallpaper_des">Active Wallpaper Carousel, agregue sus fotos e imágenes en línea a la mezcla para que aparezcan en la presentación de diapositivas automáticamente.</string>
+    <string name="custom_wallpaper_des">Activa Carrusel de Fondos de pantalla y agrega tus fotos e imágenes en línea para que automáticamente aparezcan en la presentación de diapositivas.</string>
     <string name="cw_add">Añadir</string>
     <string name="cw_add2">Añadir (%1$d)</string>
     <string name="cw_add_fail">"No se pudo agregar a la presentación de diapositivas"</string>
@@ -184,8 +184,8 @@
     <string name="cw_added_fav_no_pic">No hay elementos aquí.</string>
     <string name="cw_added_toast">Este artículo fue agregado antes.</string>
     <string name="cw_adding">Sumando (%1$d)</string>
-    <string name="cw_album_no_pic">"No se pudieron encontrar imágenes en tu dispositivo."</string>
-    <string name="cw_album_no_right">Permitir que Carrusel de Fondos acceda a la Galería</string>
+    <string name="cw_album_no_pic">Nada aquí todavía</string>
+    <string name="cw_album_no_right">Permisos necesarios</string>
     <string name="cw_all_folder">Imágenes recientes</string>
     <string name="cw_batch_all_added_tip">"No se pueden agregar elementos que se agregaron antes."</string>
     <string name="cw_batch_part_tip_fail">Algunos elementos fueron añadidos</string>
@@ -196,7 +196,7 @@
     <string name="cw_delete">Borrar</string>
     <string name="cw_delete2">Eliminar (%d)</string>
     <string name="cw_deleting">Eliminar (%1$d/%2$d)</string>
-    <string name="cw_local_pic">Galería</string>
+    <string name="cw_local_pic">Seleccionar imágenes</string>
     <string name="cw_my_fav">Favoritos</string>
     <string name="cw_permission_tip">Permite que Carrusel de Fondos acceda al almacenamiento en Configuración&gt; Configuración de la aplicación.</string>
     <string name="cw_wallpaper_empty_dlg_btn">Lo tengo</string>
@@ -223,7 +223,7 @@
     <string name="detail_menu_history">Historia</string>
     <string name="detail_menu_home">Ir a la página de inicio</string>
     <string name="detail_menu_setting">Ajustes de Aplicacion</string>
-    <string name="detail_menu_settingbtn_save">Guardar en la galería</string>
+    <string name="detail_menu_settingbtn_save">Guardar</string>
     <string name="detail_menu_settingbtn_setting">Ajustes</string>
     <string name="detail_menu_settingbtn_share">Compartir</string>
     <string name="detail_menu_wall">"Fondos de pantalla de hoy"</string>
@@ -250,7 +250,7 @@
 ID:%s
 Envíe este código al supervisor."</string>
     <string name="disable_dlg_cancel">Cancelar</string>
-    <string name="disable_dlg_content">"No podrá recibir imágenes nuevas en la pantalla de inicio y la pantalla de bloqueo si desactiva Wallpaper Carousel. ¿Apagar de todos modos?"</string>
+    <string name="disable_dlg_content">"No podrás recibir imágenes nuevas en las pantalla de inicio y de bloqueo si desactivas el Carrusel de Fondos de pantalla. ¿Desactivarlo?"</string>
     <string name="disable_dlg_ok">Apagar</string>
     <string name="disable_dlg_title">Desactivar Carrusel de Fondos?</string>
     <string name="dislike">Borrar</string>
@@ -312,11 +312,11 @@ Envíe este código al supervisor."</string>
     <string name="i_know">Entendido</string>
     <string name="icon_content_description">Icono de diálogo</string>
     <string name="idbct_desc">Personaliza el carrusel de papel tapiz según los tipos de red</string>
-    <string name="idbct_opt_auto_select_desc_text">Descargue imágenes estándar usando datos móviles e imágenes HD a través de Wi-Fi</string>
+    <string name="idbct_opt_auto_select_desc_text">Descargar las imágenes normales usando datos móviles y las imágenes HD usando Wi-Fi</string>
     <string name="idbct_opt_auto_select_main_text">Automático</string>
-    <string name="idbct_opt_high_def_desc_text">Siempre descargue imágenes HD</string>
+    <string name="idbct_opt_high_def_desc_text">Descargar siempre las imágenes HD</string>
     <string name="idbct_opt_high_def_main_text">HD</string>
-    <string name="idbct_opt_low_dev_desc_text">Descargue siempre imágenes en calidad estándar</string>
+    <string name="idbct_opt_low_dev_desc_text">Descargar siempre las imágenes en calidad normal</string>
     <string name="idbct_opt_low_dev_main_text">Estándar</string>
     <string name="idbct_title">Tipos de red</string>
     <string name="identity">Identificación</string>
@@ -336,7 +336,7 @@ Envíe este código al supervisor."</string>
     <string name="lks_cta_ok">Aceptar</string>
     <string name="lks_cta_reject">"No aceptar"</string>
     <string name="lks_cta_summary1">Carrusel de fondos de pantalla proporciona las siguientes características:</string>
-    <string name="lks_cta_summary2">"1. Fondos de pantalla actualizados automáticamente&lt;br&gt;2. Imágenes e historias frescas enviadas a su pantalla de bloqueo&lt;br&gt;3. Opciones de personalización&lt;br&gt;Esta característica necesita conectarse a Internet para funcionar normalmente.&lt;br&gt;&lt;br&gt;Para brindar servicios adicionales, es posible que solicitemos permiso para acceder y guardar elementos en el almacenamiento de este dispositivo. Lee y acepta nuestro &lt;font color ='#37A5FF'&gt;&lt;a href='%1$s'&gt;Acuerdo de usuario&lt;/font&gt;&lt;/a&gt; y &lt;font color ='#37A5FF'&gt;&lt;a href='%2$s'&gt;Política de privacidad&lt;/font&gt;&lt;/a&gt; antes de continuar."</string>
+    <string name="lks_cta_summary2">"1. Fondos de pantalla actualizados automáticamente&lt;br&gt;2. Imágenes e historias frescas enviadas a la pantalla de bloqueo&lt;br&gt;3. Opciones de personalización&lt;br&gt;Se necesita conexión a Internet para funcionar normalmente.&lt;br&gt;&lt;br&gt;Para brindar servicios adicionales, es posible que solicitemos permiso para acceder y guardar elementos en el almacenamiento del dispositivo. Lee y acepta nuestro &lt;font color ='#37A5FF'&gt;&lt;a href='%1$s'&gt;Acuerdo de Usuario&lt;/font&gt;&lt;/a&gt; y &lt;font color ='#37A5FF'&gt;&lt;a href='%2$s'&gt;Política de Privacidad&lt;/font&gt;&lt;/a&gt; antes de continuar."</string>
     <string name="lks_cta_title">Términos y condiciones</string>
     <string name="lks_data_warning_toast_1">"Estás usando los datos móviles para ver los fondos de pantalla.
 Se pueden generar cargos adicionales."</string>
@@ -348,7 +348,7 @@ Se pueden generar cargos adicionales."</string>
     <string name="lks_logo_desc2">Fondos de pantalla frescos todos los días</string>
     <string name="lks_logo_desc_search">Nuevos fondos de pantalla todos los días</string>
     <string name="lks_loop_icon_ask_cancle">Cancelar</string>
-    <string name="lks_loop_icon_ask_dlg">Activa la presentación de diapositivas para obtener imágenes e historias diariamente en la pantalla de bloqueo.</string>
+    <string name="lks_loop_icon_ask_dlg">Activa la presentación de diapositivas para tener diariamente imágenes e historias en la pantalla de bloqueo.</string>
     <string name="lks_loop_icon_ask_ok">Activar</string>
     <string name="lks_loop_icon_ask_title">Diapositivas en la pantalla de bloqueo</string>
     <string name="lks_loop_icon_close_cancle">Cancelar</string>
@@ -433,12 +433,12 @@ Se pueden generar cargos adicionales."</string>
     <string name="mishop_login_other">Otra cuenta</string>
     <string name="miui_clock_city_name_local">Local</string>
     <string name="miui_clock_city_name_second">Segundo reloj</string>
-    <string name="miui_lock_screen_date">EEEE, d MMMM</string>
-    <string name="miui_lock_screen_date_12">EEEE, d MMMM</string>
+    <string name="miui_lock_screen_date">EEEE dd/MM</string>
+    <string name="miui_lock_screen_date_12">EEEE dd/MM</string>
     <string name="miui_lock_screen_date_two_lines">"EEEE
-d MMMM"</string>
+dd/MM"</string>
     <string name="miui_lock_screen_date_two_lines_12">"EEEE
-d MMMM"</string>
+dd/MM"</string>
     <string name="miui_lock_screen_large_date">"EEE
 dd/MM"</string>
     <string name="miui_lock_screen_large_date_12">"EEE
@@ -469,12 +469,12 @@ mm"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">"Todo por ahora"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Un momento...</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"No se pudieron cargar los elementos"</string>
-    <string name="mode_auto_desc">Active el carrusel de papel tapiz para recibir nuevas imágenes automáticamente</string>
-    <string name="mode_auto_desc_open">Recibe nuevas imágenes automáticamente</string>
+    <string name="mode_auto_desc">Activar el Carrusel de Fondos de pantalla para recibir automáticamente imágenes nuevas</string>
+    <string name="mode_auto_desc_open">Recibir nuevas imágenes automáticamente</string>
     <string name="mode_auto_desc_selected">Recibir nuevas imágenes automáticamente</string>
     <string name="mode_cw_desc">Active el carrusel de papel tapiz para personalizar su presentación de diapositivas</string>
     <string name="mode_cw_desc_open">Agrega tus imágenes a la presentación de diapositivas</string>
-    <string name="mode_cw_desc_selected">Usando sus imágenes en la presentación de diapositivas</string>
+    <string name="mode_cw_desc_selected">Usando tus imágenes en la presentación de diapositivas</string>
     <string name="mode_des">Carrusel de Fondos está mostrando recomendaciones ahora. Cambie a la presentación de diapositivas para poder ver sus elementos personalizados.</string>
     <string name="mode_ok">Cambiar a la presentación de diapositivas</string>
     <string name="mode_select">Seleccionar modo</string>
@@ -565,7 +565,7 @@ mm"</string>
     <string name="no_long_show">"No mostrar de nuevo"</string>
     <string name="no_networdk">"No se pudo conectar a la red"</string>
     <string name="no_phone">No hay número de teléfono</string>
-    <string name="no_pic_data">"No se pudieron encontrar imágenes"</string>
+    <string name="no_pic_data">"No se encontraron imágenes"</string>
     <string name="noon">Mediodía</string>
     <string name="not_agree_summary">Acepta primero nuestros términos y condiciones</string>
     <string name="not_allowed">No concedido</string>
@@ -581,7 +581,7 @@ mm"</string>
     <string name="open_btn_finish">Hecho</string>
     <string name="open_btn_next">Siguiente</string>
     <string name="open_btn_start">Activar Carrusel de Fondos</string>
-    <string name="open_des">Encienda Carrusel de Fondos para recibir diariamente imágenes e historias nuevas en la pantalla de bloqueo.</string>
+    <string name="open_des">Activa la presentación de diapositivas para tener diariamente imágenes e historias en la pantalla de bloqueo.</string>
     <string name="open_freq_title">Establecer la frecuencia de actualización del fondo de pantalla</string>
     <string name="open_gallery">Carrusel de papel tapiz</string>
     <string name="open_gallery_tips">Toca aquí para activar el carrusel de fondos de pantalla</string>
@@ -774,7 +774,7 @@ mm"</string>
     <string name="saturday_shortest">Sáb</string>
     <string name="save_hdpicture_in_favor">Ver imágenes HD en \"Favoritos\"</string>
     <string name="save_picture_success">Guardado exitosamente</string>
-    <string name="save_to_album">Guardado en la Galería con éxito</string>
+    <string name="save_to_album">Guardado correctamente</string>
     <string name="save_to_album_fail">"No se pudo guardar"</string>
     <string name="scribe_btn_ok">Suscribir</string>
     <string name="scribe_title1">Suscribirse a Carrusel de Fondos</string>
@@ -786,9 +786,9 @@ mm"</string>
     <string name="see_more">Ver más</string>
     <string name="see_more_content">Ver más</string>
     <string name="select_package">Seleccionar versión</string>
-    <string name="select_photo_album">Seleccionar álbum</string>
+    <string name="select_photo_album">Seleccionar imágenes</string>
     <string name="select_picture">Seleccionar imágenes</string>
-    <string name="select_picture_des">Agregue sus fotos e imágenes en línea a la mezcla para que aparezcan en la presentación de diapositivas automáticamente.</string>
+    <string name="select_picture_des">Agrega tus fotos e imágenes en línea para que aparezcan automáticamente en la presentación de diapositivas.</string>
     <string name="send">Enviar</string>
     <string name="send_diagnosis_log">Enviar registros</string>
     <string name="send_email_activate_message">Correo electrónico de verificación enviado correctamente</string>
@@ -808,9 +808,9 @@ mm"</string>
     <string name="shield">"Bloquear: "</string>
     <string name="shield_failed">"No se pudo bloquear el elemento"</string>
     <string name="shield_tag_ceil">"No se pueden bloquear más elementos"</string>
-    <string name="shield_tag_dislike_desc">Seleccione esta opción para que estas imágenes aparezcan con menos frecuencia</string>
+    <string name="shield_tag_dislike_desc">Selecciona esta opción para que estas imágenes aparezcan con menos frecuencia</string>
     <string name="shield_tag_dislike_title">No interesado</string>
-    <string name="shield_tag_entrance_desc">Seleccione para bloquear todas las imágenes de esta categoría</string>
+    <string name="shield_tag_entrance_desc">Selecciona para bloquear todas las imágenes de esta categoría</string>
     <string name="shield_tag_entrance_title">Bloquear esta categoría</string>
     <string name="shield_tag_list_empty">No hay elementos todavía.</string>
     <string name="shield_tag_list_title">Elementos bloqueados</string>
@@ -853,7 +853,7 @@ mm"</string>
     <string name="solar_term_white_dews">Rocío</string>
     <string name="solar_term_winter_begins">Comienza el invierno</string>
     <string name="solar_term_winter_solstice">Solsticio de invierno</string>
-    <string name="sst_auto_recommand_desc">Suscríbase a sus categorías favoritas para recibir diariamente imágenes e historias nuevas en la pantalla de bloqueo.</string>
+    <string name="sst_auto_recommand_desc">Suscríbete a tus categorías favoritas para recibir diariamente imágenes e historias nuevas en la pantalla de bloqueo.</string>
     <string name="sst_auto_recommand_title">Obtener recomendaciones para fondos de pantalla personalizados</string>
     <string name="sst_change_wallpaper_desc">"Seleccione donde le gustaría aplicar el fondo de pantalla"</string>
     <string name="sst_change_wallpaper_desk">Pantalla de inicio</string>
@@ -937,15 +937,15 @@ mm"</string>
     <string name="subscribe_update_time_setting">Establecer un intervalo diferente</string>
     <string name="summary">"Acepta nuestra &lt;a href='%s'&gt;Politica de Privacidad&lt;/a&gt; para acceder a contenido online. Si no estás de acuerdo, los fondos de pantalla locales seguirán estando disponibles."</string>
     <string name="summary2">"Al utilizar esta función, acepta nuestro &lt;font color='#0D84FF'&gt;&lt;a href ='%1$s'&gt;Acuerdo de usuario&lt;/font&gt;&lt;/a&gt; y &lt;font color='#0D84FF'&gt;&lt;a href='%2$s'&gt;Política de privacidad&lt;/font&gt;&lt;/a&gt;. Esta función debe conectarse a Internet para funcionar con normalidad."</string>
-    <string name="summary3">"¡Bienvenido a Wallpaper Carousel! Aquí puede suscribirse a sus categorías de fondos de pantalla favoritos y recibir nuevas imágenes en su pantalla de bloqueo con regularidad. Esta aplicación debe conectarse a Internet y recopilar los datos personales necesarios para poder funcionar con normalidad.&lt;br&gt;Para proporcionar servicios adicionales, es posible que le pidamos permiso para acceder y guardar elementos en el almacenamiento de este dispositivo.&lt;br&gt;Para comprender completamente sus derechos como usuario, así como las formas en que usamos sus datos, lea y acepte nuestro &lt;font color ='#37A5FF'&gt;&lt;a href='%1$s'&gt;Acuerdo de usuario&lt;/font&gt;&lt;/a&gt; y &lt;font color ='#37A5FF'&gt;&lt;a href='%2$s'&gt;Política de privacidad&lt;/font&gt;&lt;/a&gt; antes de usar esta aplicación."</string>
-    <string name="summary4">"¡Bienvenido a Wallpaper Carousel! Aquí puede suscribirse a sus categorías de fondos de pantalla favoritos y recibir nuevas imágenes en su pantalla de bloqueo con regularidad. "</string>
+    <string name="summary3">"¡Te damos la bienvenida a Carrusel de Fondos de pantalla! Aquí puedes suscribirte a tus categorías de fondos de pantalla favoritas y recibir nuevas imágenes en tu pantalla de bloqueo con regularidad. Esta aplicación necesita conexión a Internet y recopilar los datos personales necesarios para funcionar con normalidad.&lt;br&gt;Para proporcionar servicios adicionales, es posible que te pidamos permiso para acceder y guardar elementos en el almacenamiento del dispositivo.&lt;br&gt;Para comprender completamente tus derechos como usuario, así como la manera en que usamos tus datos, lee y acepta nuestro &lt;font color ='#37A5FF'&gt;&lt;a href='%1$s'&gt;Acuerdo de Usuario&lt;/font&gt;&lt;/a&gt; y &lt;font color ='#37A5FF'&gt;&lt;a href='%2$s'&gt;Política de Privacidad&lt;/font&gt;&lt;/a&gt; antes de usar esta aplicación."</string>
+    <string name="summary4">"¡Te damos la bienvenida a Carrusel de Fondos de pantalla! Aquí puedes suscribirte a tus categorías de fondos de pantalla favoritas y recibir nuevas imágenes en tu pantalla de bloqueo con regularidad. "</string>
     <string name="summary5">"Para proporcionar servicios adicionales, es posible que solicitemos permiso para acceder y guardar elementos en el almacenamiento de este dispositivo. "</string>
     <string name="summary_international">"Al utilizar esta función, acepta nuestro &lt;a href ='%1$s'&gt;Acuerdo de usuario&lt;/a&gt; y &lt;a href='%2$s'&gt;Política de privacidad&lt;/a&gt;. Esta función debe conectarse a Internet para funcionar con normalidad"</string>
     <string name="sunday">Domingo</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
     <string name="sure_close_gallery">Desactivar Carrusel de Fondos?</string>
-    <string name="sure_close_gallery_des">"No podrá recibir imágenes nuevas en la pantalla de inicio y la pantalla de bloqueo si desactiva Wallpaper Carousel. ¿Apagar de todos modos?"</string>
+    <string name="sure_close_gallery_des">"No podrás recibir nuevas imágenes en las pantallas de inicio y de bloqueo si desactivas el Carrusel de Fondos de pantalla. ¿Desactivarlo?"</string>
     <string name="system_default">Predeterminado</string>
     <string name="system_error_info">El sistema está ocupado. Espere uno o dos minutos y vuelva a intentarlo.</string>
     <string name="tab_user_title_bar_text">Ajustes</string>
@@ -997,7 +997,7 @@ mm"</string>
     <string name="theme_apply_lockscreen_success">Aplicado con éxito</string>
     <string name="theme_apply_success">Aplicado con éxito</string>
     <string name="theme_applying">Aplicando…</string>
-    <string name="theme_close_maml">Las imágenes del carrusel de fondos de pantalla reemplazarán el fondo de pantalla de bloqueo.</string>
+    <string name="theme_close_maml">Las imágenes del Carrusel de Fondos de pantalla cambiarán el fondo de pantalla de bloqueo.</string>
     <string name="theme_des">Wallpaper Carousel solo admite el tema predeterminado de MIUI. Establezca el tema predeterminado para poder usar Wallpaper Carousel.</string>
     <string name="theme_des_lock_style">Aplique la pantalla de bloqueo predeterminada y vuelva a activar Carrusel de Fondos.</string>
     <string name="theme_des_maml">"Esto puede tardar unos segundos. Otros componentes del tema actual no se verán afectados. El tema se actualizará para aplicar cambios."</string>
@@ -1032,7 +1032,7 @@ mm"</string>
     <string name="tuesday_short">Mar</string>
     <string name="tuesday_shortest">Mar</string>
     <string name="understand_band_story">Aprender más</string>
-    <string name="uninstall_introducation_text_desc">Carrusel de fondos ofrece nuevas imágenes de calidad directamente a su pantalla de bloqueo. Asegúrese de que puede prescindir de sus características antes de desinstalar la aplicación.</string>
+    <string name="uninstall_introducation_text_desc">Carrusel de Fondos de pantalla proporciona imágenes nuevas de calidad en la pantalla de bloqueo. Asegúrate de que puedes prescindir de sus características antes de desinstalar la aplicación.</string>
     <string name="uninstall_introduction_text_title">Sobre Carrusel de fondos</string>
     <string name="uninstall_warning_text_desc">"Sin Carrusel de fondos no podrá recibir nuevos fondos de pantalla de bloqueo con regularidad. Sin embargo, podrá descargar e instalar la aplicación nuevamente. ¿Está seguro?"</string>
     <string name="uninstall_warning_text_title">Borrar Carrusel de fondos</string>

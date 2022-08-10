@@ -221,7 +221,12 @@
     <string name="indices_title_chance_of_rain">Probabilidad de lluvia</string>
     <string name="indices_title_feel">Sensación real</string>
     <string name="indices_title_pressure">Presión</string>
+    <string name="indices_title_uv">UV</string>
     <string name="indices_title_wind_speed">Velocidad del viento</string>
+    <string name="indices_wind_direction_east">E</string>
+    <string name="indices_wind_direction_north">N</string>
+    <string name="indices_wind_direction_south">S</string>
+    <string name="indices_wind_direction_west">O</string>
     <string name="information_settings_title">Información del tiempo</string>
     <string name="international_details_uv_index_title">Índice UV</string>
     <string name="location_provider_btn_text">Activar servicios de localización</string>
@@ -373,6 +378,8 @@
     <string name="search_menu_title">Buscar</string>
     <string name="select_show_city">Seleccionar ubicación</string>
     <string name="send">Enviar</string>
+    <string name="setting_notification_manager">Notificaciones</string>
+    <string name="setting_used_to_push_reminder">Recibir alertas y avisos meteorológicos</string>
     <string name="settings">Ajustes</string>
     <string name="settings_atmospheric_pressure_atm">Atmósfera estándar (atm)</string>
     <string name="settings_atmospheric_pressure_default">0</string>

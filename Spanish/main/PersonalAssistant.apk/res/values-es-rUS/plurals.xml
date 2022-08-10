@@ -152,9 +152,49 @@
         <item quantity="other">%s elementos seleccionados</item>
         <item quantity="one">%s elemento seleccionado</item>
     </plurals>
+    <plurals name="pa_express_main_mul_choice_title">
+        <item quantity="other">%d elementos selecionados</item>
+        <item quantity="one">%d elemento selecionado</item>
+    </plurals>
     <plurals name="pa_express_settings_title_2">
         <item quantity="other">"Has añadido %d números de teléfono"</item>
         <item quantity="one">"Has añadido %d número de teléfono"</item>
+    </plurals>
+    <plurals name="pa_express_widget_list_left_panel_subtitle_abandoned">
+        <item quantity="other">%d paquetes abandonados</item>
+        <item quantity="one">%d paquete abandonado</item>
+    </plurals>
+    <plurals name="pa_express_widget_list_left_panel_subtitle_agent">
+        <item quantity="other">%d paquetes pendientes de recogida</item>
+        <item quantity="one">%d paquete pendiente de recogida</item>
+    </plurals>
+    <plurals name="pa_express_widget_list_left_panel_subtitle_canceled">
+        <item quantity="other">%d paquetes cancelados</item>
+        <item quantity="one">%d paquete cancelado</item>
+    </plurals>
+    <plurals name="pa_express_widget_list_left_panel_subtitle_delivering">
+        <item quantity="other">%d paquetes para su entrega</item>
+        <item quantity="one">%d paquete para su entrega</item>
+    </plurals>
+    <plurals name="pa_express_widget_list_left_panel_subtitle_failed">
+        <item quantity="other">%d paquetes con problemas</item>
+        <item quantity="one">%d paquete con problemas</item>
+    </plurals>
+    <plurals name="pa_express_widget_list_left_panel_subtitle_on_ground">
+        <item quantity="other">%d paquetes en tránsito</item>
+        <item quantity="one">%d paquete en tránsito</item>
+    </plurals>
+    <plurals name="pa_express_widget_list_left_panel_subtitle_reject">
+        <item quantity="other">"%d paquetes no se pudieron entregar"</item>
+        <item quantity="one">"%d paquete no se pudo entregar"</item>
+    </plurals>
+    <plurals name="pa_express_widget_list_left_panel_subtitle_sign">
+        <item quantity="other">%d paquetes entregados</item>
+        <item quantity="one">%d paquete entregado</item>
+    </plurals>
+    <plurals name="pa_shopping_page_product_delete_dialog_message">
+        <item quantity="other">¿Eliminar %d elementos seleccionados?</item>
+        <item quantity="one">¿Eliminar %d elemento seleccionado?</item>
     </plurals>
     <plurals name="pa_stock_display_list_label">
         <item quantity="other">%1$d empresas en el widget</item>

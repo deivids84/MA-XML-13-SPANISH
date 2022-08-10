@@ -72,6 +72,8 @@ Para comprender plenamente sus derechos como usuario, así como las formas en qu
     <string name="account_setting_message_body_load_head_only">Sólo encabezado</string>
     <string name="account_setting_message_body_load_text">Sólo cuerpo</string>
     <string name="account_settings_action">Configuración de cuenta</string>
+    <string name="account_settings_background_attachments_security_summary">Comprueba los archivos adjuntos que contienen paquetes de instalación para detectar riesgos de seguridad</string>
+    <string name="account_settings_background_attachments_security_title">Comprobar los archivos adjuntos para detectar riesgos</string>
     <string name="account_settings_background_attachments_summary">Descargar archivos adjuntos usando WLAN</string>
     <string name="account_settings_background_attachments_summary_inter">Descargar archivos adjuntos usando WLAN</string>
     <string name="account_settings_background_attachments_title">Descargar archivos adjuntos automáticamente</string>
@@ -277,6 +279,10 @@ Prefijo de ruta"</string>
     <string name="attachment_unknown">%s Archivo</string>
     <string name="attachment_video">Video</string>
     <string name="attachments_header">Archivos adjuntos</string>
+    <string name="attachments_security_alert_install_message">Este archivo adjunto es un paquete de instalación. Asegúrate de conocer su origen antes de usarlo. ¿Instalar ahora?</string>
+    <string name="attachments_security_alert_install_title">Atención</string>
+    <string name="attachments_security_alert_message">Este mensaje contiene un paquete de instalación. Asegúrate de conocer su origen antes de usarlo.</string>
+    <string name="attachments_security_install">Instalar</string>
     <string name="attendee_needed">Añadir al menos un invitado.</string>
     <string name="auto_advance_help_title">Después de eliminar un mensaje, ver…</string>
     <string name="auto_advance_label">Eliminar flujo de mensajes</string>
@@ -359,6 +365,7 @@ Prefijo de ruta"</string>
     <string name="click_to_reload">Toque la pantalla para actualizar</string>
     <string name="close">Cerrar</string>
     <string name="close_custom_folder">Ocultar subcarpetas</string>
+    <string name="close_tips">Cerrar recordatorio</string>
     <string name="collapse_recipient_details">Contraer detalles del destinatario</string>
     <string name="compose">Redactar</string>
     <string name="compose_add_attachment_permission_denied">"No se puede reenviar el correo electrónico. Se requieren permisos para acceder al almacenamiento externo."</string>
@@ -650,6 +657,7 @@ Prefijo de ruta"</string>
     <string name="folder_junk_name_en2">Correo Basura</string>
     <string name="folder_junk_name_en3">Correo Basura</string>
     <string name="folder_junk_name_en4">Basura</string>
+    <string name="folder_junk_name_en5">Correo no deseado</string>
     <string name="folder_list_current_account">Cuenta actual</string>
     <string name="folder_list_display_all">Mostrar todas las carpetas</string>
     <string name="folder_list_display_only_import">Solo mostrar carpetas importantes</string>
@@ -929,6 +937,7 @@ Declinado:
     <string name="message_decode_error">"Se produjo un error al decodificar el mensaje"</string>
     <string name="message_discarded">Borrador descartado</string>
     <string name="message_invite_accept">Sí</string>
+    <string name="message_invite_calendar_download_prompt">Descargar el calendario para usar esta función</string>
     <string name="message_invite_calendar_view">Ver en Calendario</string>
     <string name="message_invite_decline">No</string>
     <string name="message_invite_end_time">Hora de finalización</string>

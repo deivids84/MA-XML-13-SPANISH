@@ -704,6 +704,7 @@ Selección"</string>
     <string name="data_enable_warning">Permitir siempre usar datos móviles podría generar gastos adicionales a tu plan. ¿Conectar de todas formas?</string>
     <string name="data_enabled">Datos móviles</string>
     <string name="data_interruption_remind">"Parece que el entorno de la red no es fiable. Para mejor conexión, permite a tu dispositivo usar datos móviles durante las llamadas VoLTE en la SIM secundaria."</string>
+    <string name="data_interruption_remind_for_t">"Parece que el entorno de red no es fiable. Para mejorar la conexión, permite al dispositivo usar datos móviles durante las llamadas VoLTE en la SIM secundaria."</string>
     <string name="data_plan">Planes de datos móviles</string>
     <string name="data_usage_disable_mobile">¿Quieres desactivar los datos móviles?</string>
     <string name="data_usage_ota">Actualizaciones del sistema</string>
@@ -2236,6 +2237,9 @@ Confirme la configuración de su cuenta de llamadas predeterminada."</string>
     <string name="smart_forwarding_settings_menu">Desvío inteligente</string>
     <string name="smart_forwarding_settings_menu_summary">"Cuando no se puede contactar con un número, las llamadas se desvían siempre a otro número"</string>
     <string name="smart_multinetwork_acceleration_title">Aceleración de red inteligente</string>
+    <string name="smart_switch_dual_sim_prompt">Conectar a la red de datos móviles con la SIM %1$s puede generar cargos adicionales por datos. Establece un límite de uso de datos para evitarlo.</string>
+    <string name="smart_switch_dual_sim_summary">Cambiar automáticamente entre tarjetas SIM de datos según la calidad de conexión y el estado del dispositivo</string>
+    <string name="smart_switch_dual_sim_title">Cambiar entre tarjetas SIM de datos</string>
     <string name="sms_messages_title">SMS</string>
     <string name="smsc_dialog_message">"Asegúrese de que el número que ingrese sea correcto. De lo contrario, no podrá enviar ni recibir SMS. Contacte con su operador para confirmar su número SMSC."</string>
     <string name="speed_label_fast">Rápida</string>
@@ -2522,11 +2526,11 @@ Ponte en contacto con tu operador si el problema persiste."</string>
     <string name="voice_service_cannot_call_notification_title">"No puede realizar llamadas usando la red actual"</string>
     <string name="voice_service_switch_summary">Activar para poder realizar llamadas VoLTE usando redes VoLTE</string>
     <string name="voice_service_switch_title">Usar servicios de llamadas VoLTE</string>
-    <string name="voice_service_warning_dialog_body">"Esta tablet soporta llamadas VoLTE en redes 4G. Asegúrate de que la red a la que está conectado soporta esta función. Los servicios VoLTE son ofrecidos por tu operador de red. Contacta con tu operador para saber si VoLTE es soportado en tu área.
+    <string name="voice_service_warning_dialog_body">"Esta tablet soporta llamadas VoLTE en redes 4G. Comprueba que la red conectada las soporta. Los servicios VoLTE son ofrecidos por tu operador de red. Contacta para saber si soporta VoLTE en tu área.
 
-Si ves _ en tu barra de estado, significa que las llamadas VoLTE no están disponibles. Si no puedes realizar o recibir llamadas, o tus llamadas son interrumpidas, asegúrate de que tu red es compatible con VoLTE.
+Si ves _ en la barra de estado, es porque las llamadas VoLTE no están disponibles. Si no puedes realizar o recibir llamadas, o éstas se interrumpen, comprueba que la red es compatible con VoLTE.
 
-Esta tablet no cuenta con un altavoz. Puedes cambiar al modo manos libres o usar audífonos para realizar llamadas."</string>
+Esta tablet no tiene un auricular. Puedes cambiar al modo manos libres o usar audífonos para las llamadas."</string>
     <string name="voice_service_warning_dialog_cancel">Cancelar</string>
     <string name="voice_service_warning_dialog_ok">Entendido</string>
     <string name="voice_service_warning_dialog_ok_timer">Entendido (%d)</string>

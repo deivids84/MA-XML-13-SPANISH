@@ -28,12 +28,12 @@
     <string name="abc_shareactionprovider_share_with_application">Compartir con %s</string>
     <string name="abc_toolbar_collapse_description">Contraer</string>
     <string name="close">Cerrar</string>
-    <string name="close_hit_again">Pulse de nuevo para salir de la pantalla</string>
+    <string name="close_hit_again">Pulsa otra vez para salir de la pantalla</string>
     <string name="important_ration_info">Información importante</string>
     <string name="no_important_ration_info">Información de depuración</string>
-    <string name="qr_load">Cargando... Por favor, espere...</string>
+    <string name="qr_load">Cargando... Por favor, espera...</string>
     <string name="qualitative_info">Información cualitativa</string>
-    <string name="qualitative_title">Información de lista de componentes</string>
-    <string name="ration_title">Información de clase Identidad</string>
+    <string name="qualitative_title">Información de coherencia</string>
+    <string name="ration_title">Información de clase de ID</string>
     <string name="search_menu_title">Buscar</string>
 </resources>

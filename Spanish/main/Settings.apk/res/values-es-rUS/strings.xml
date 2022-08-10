@@ -57,6 +57,8 @@
     <string name="accelerometer_summary_off">Cambiar la orientación automáticamente al girar el dispositivo</string>
     <string name="accelerometer_summary_on">Cambiar la orientación automáticamente al girar el dispositivo</string>
     <string name="accelerometer_title">Girar automáticamente la pantalla</string>
+    <string name="accept_new_connection">Permitir nuevas conexiones</string>
+    <string name="accept_new_connection_detail">Las nuevas conexiones bluetooth se han desactivado desde el centro de control</string>
     <string name="access_control_app_entry_multiple">Abrir %s</string>
     <string name="access_control_app_entry_single">Abrir aplicación</string>
     <string name="access_control_need_password">"%s protegido
@@ -1755,6 +1757,7 @@ Puede desactivar esta función en Configuración &gt; Bluetooth &gt; Dispositivo
     <string name="bt_absVolume_open_dialog_title">Atención</string>
     <string name="bt_absVolume_pre_title">Volumen absoluto</string>
     <string name="bt_absVolume_summary">"Mantenga el volumen de los dispositivos Bluetooth y del teléfono estrictamente constante. Puede activar y desactivar esta función cuando no se reproduzcan elementos multimedia en segundo plano."</string>
+    <string name="bt_always_show_icon">Mostrar siempre el icono de bluetooth en la barra de estado</string>
     <string name="bt_aptx_adaptive_open_dialog_summary">aptX Adaptive proporcionará una reproducción de alta calidad y reducirá la latencia de audio para juegos y vídeos, al tiempo que aumentará el consumo de energía. La reproducción puede ser atascada debido a limitaciones del hardware Bluetooth e interferencia ambiental.</string>
     <string name="bt_aptx_adaptive_open_dialog_title">¿Cambiar a aptX Adaptive?</string>
     <string name="bt_audio_repair_property">Solucionar problemas de audio</string>
@@ -2320,8 +2323,6 @@ Toque \"Limpiar y convertir…\" para continuar."</string>
     <string name="copyable_slice_toast">Se copió %1$s en el portapapeles.</string>
     <string name="copyright">Derechos de autor</string>
     <string name="copyright_title">Derechos de autor</string>
-    <string name="corner_assistant_gesture_summary">Desliza hacia arriba desde la esquina inferior izquierda o inferior derecha para activar el Asistente de Google</string>
-    <string name="corner_assistant_gesture_title">Deslizar desde una esquina para abrir el Asistente de Google</string>
     <string name="country_name">%s (sistema)</string>
     <string name="create">Crear</string>
     <string name="creating_new_user_dialog_message">Creando nuevo usuario…</string>
@@ -3879,7 +3880,7 @@ El área donde puedes confirmar que el bloqueo de la pantalla se moverá a la de
     <string name="gxzw_quick_open_slow_summary">Mantenga presionado el ícono de huella digital para abrir el menú de acceso directo. Deslice para usar un acceso directo.</string>
     <string name="gxzw_quick_open_slow_title">Mantener presionado</string>
     <string name="gxzw_quick_open_title">Accesos directos</string>
-    <string name="gxzw_vibrate_summary">Vibrar mientras se reproduce la animación de desbloqueo de huellas dactilares</string>
+    <string name="gxzw_vibrate_summary">"La vibración no se producirá cuando no selecciones la animación de huella dactilar"</string>
     <string name="gxzw_vibrate_title">Vibra mientras desbloqueas</string>
     <string name="handy_mode">Modo a una mano</string>
     <string name="handy_mode_enable">Modo a una mano</string>
@@ -5291,6 +5292,7 @@ No podrá revertir esta acción."</string>
     <string name="miheadset_ok_device">Aceptar</string>
     <string name="miheadset_openAnc">Cancelación de ruido</string>
     <string name="miheadset_openAnc2">Cancelación de ruido</string>
+    <string name="miheadset_open_closeAnc">Cancelación de ruido activada/desactivada</string>
     <string name="miheadset_play_pause">Reproducir/Pausar</string>
     <string name="miheadset_plus">Subir volumen</string>
     <string name="miheadset_preferences">Preferencias</string>
