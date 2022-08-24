@@ -89,6 +89,7 @@
     <string name="app_name_pad">Personalización</string>
     <string name="application_list_permission_desc">Para mostrar aplicaciones compatibles con fondos de pantalla transparentes</string>
     <string name="application_notify_title">Atención</string>
+    <string name="apply_4k_video_wallpaper_warning">"Los vídeos 4K y 8K no se pueden usar como fondo de pantalla."</string>
     <string name="apply_choosen_type_resource">Aplicar los elementos seleccionados</string>
     <string name="apply_default_font_tip">"¿Continuar usando la fuente original del sistema?"</string>
     <string name="apply_failed">"No se pudo aplicar"</string>

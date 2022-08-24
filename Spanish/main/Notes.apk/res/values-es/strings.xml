@@ -27,7 +27,7 @@
     <string name="abc_shareactionprovider_share_with">Compartir con</string>
     <string name="abc_shareactionprovider_share_with_application">Compartir con %s</string>
     <string name="abc_toolbar_collapse_description">Ocultar</string>
-    <string name="access_denied_info">Demasiados intentos. Espera un minuto o dos e inténtalo otra vez.</string>
+    <string name="access_denied_info">Demasiados intentos. Espera un par de minutos e inténtalo otra vez.</string>
     <string name="action_collapse">Ocultar</string>
     <string name="action_expand">Mostrar más</string>
     <string name="action_folder_description">Ver en carpetas</string>
@@ -41,7 +41,7 @@
     <string name="actionbar_button_up_description">Atrás</string>
     <string name="actionbar_close_description">Cerrar</string>
     <string name="actionbar_home_description">Atrás</string>
-    <string name="add_account_desc">¿Sincronizar tus notas con Cuenta Mi?</string>
+    <string name="add_account_desc">¿Sincronizar tus notas con la cuenta Xiaomi?</string>
     <string name="afternoon">Tarde</string>
     <string name="alarm_bar_title">Recordatorio</string>
     <string name="alert_action_edit_anyway">Continuar editando</string>
@@ -113,7 +113,7 @@
     <string name="date_time_picker_alarm_reminder">Alarma</string>
     <string name="date_time_picker_dialog_title">Establecer fecha y hora</string>
     <string name="date_time_picker_has_not_set_alarm">"Alarma no establecida"</string>
-    <string name="date_time_picker_has_set_alarm">Alarma establecida con éxito</string>
+    <string name="date_time_picker_has_set_alarm">Alarma establecida</string>
     <string name="db_downgrade_clear_button">Limpiar datos de aplicación</string>
     <string name="db_downgrade_clear_date_reminder">"Cambiar a una versión diferente de MIUI requiere limpiar los datos de la aplicación Notas. Antes de hacerlo, asegúrate de que tienes copia de seguridad de tus notas en la nube."</string>
     <string name="default_folder_name">Carpeta sin nombre</string>
@@ -131,7 +131,7 @@
     <string name="dialog_share_as_text">Compartir nota como texto</string>
     <string name="dialog_tip_title">Atención</string>
     <string name="dlg_btn_set_password">Establecer contraseña</string>
-    <string name="dlg_check_reminder">"No mostrar de nuevo"</string>
+    <string name="dlg_check_reminder">"No mostrar otra vez"</string>
     <string name="dlg_delete_message">Eliminando…</string>
     <string name="dlg_hide_message">Ocultando…</string>
     <string name="dlg_info_creating_message">Creando imagen…</string>
@@ -166,7 +166,7 @@
     <string name="doodle_brush_pencil">Lápiz</string>
     <string name="doodle_brush_watercolor">Bolígrafo de acuarela</string>
     <string name="doodle_feature">Garabatos</string>
-    <string name="doodle_guide_brush_config_hint">Pulsa de nuevo para ajustar el ancho y la opacidad del trazo</string>
+    <string name="doodle_guide_brush_config_hint">Pulsa otra vez para ajustar el ancho y la opacidad del trazo</string>
     <string name="doodle_guide_dialog_confirm">OK</string>
     <string name="doodle_guide_dialog_skip">Saltar</string>
     <string name="doodle_guide_dialog_title">Bocetos</string>
@@ -190,7 +190,7 @@
     <string name="empty_folder_import_notes">Importar notas</string>
     <string name="empty_folder_no_notes">No hay notas</string>
     <string name="enable_sync">Sincronizar</string>
-    <string name="enable_sync_desc">¿Sincronizar tus notas con tu Cuenta Mi (%1$s)?</string>
+    <string name="enable_sync_desc">¿Sincronizar tus notas con tu cuenta Xiaomi (%1$s)?</string>
     <string name="eras_ad">d.C</string>
     <string name="eras_bc">a.C</string>
     <string name="error_contact_not_exist">"El contacto no existe"</string>
@@ -222,7 +222,7 @@
     <string name="float_todo_guide_message_v2">Los accesos directos por gestos te permiten ver y crear tareas deslizando el dedo desde el borde de la pantalla. Puedes activar y desactivar esta función en Ajustes.</string>
     <string name="float_todo_guide_ok">Crear</string>
     <string name="float_todo_guide_ok_v2">Activar</string>
-    <string name="float_todo_guide_title">Acceso directo a la Pantalla de inicio</string>
+    <string name="float_todo_guide_title">Acceso directo en la pantalla de inicio</string>
     <string name="float_todo_guide_title_v2">Accesos directos por gestos</string>
     <string name="fmt_date_long_month_day">dd MMMM</string>
     <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
@@ -245,7 +245,7 @@
     <string name="force_touch_menu_add">Añadir nota</string>
     <string name="format_move_note_out_folder">Esta nota fue movida</string>
     <string name="format_move_note_to_folder">Movida a %1$s</string>
-    <string name="frequently_click_tips">¡Demasiado rápido! Espera un minuto o dos y vuelve a intentarlo.</string>
+    <string name="frequently_click_tips">¡Demasiado rápido! Espera un par de minutos e inténtalo otra vez.</string>
     <string name="friday">Viernes</string>
     <string name="friday_short">Vie</string>
     <string name="friday_shortest">Vie</string>
@@ -403,7 +403,7 @@
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Más</string>
     <string name="miuix_appcompat_cancel_description">Cancelar</string>
     <string name="miuix_appcompat_cloud_state_disabled">Sincronización con la nube desactivada</string>
-    <string name="miuix_appcompat_cloud_state_finished">Sincronizado con la nube con éxito</string>
+    <string name="miuix_appcompat_cloud_state_finished">Sincronizado con la nube</string>
     <string name="miuix_appcompat_cloud_state_syncing">Sincronizando con la nube…</string>
     <string name="miuix_appcompat_confirm_description">Confirmar</string>
     <string name="miuix_appcompat_delete_description">Eliminar</string>
@@ -417,7 +417,7 @@
     <string name="miuix_indexer_collect">Colecciones</string>
     <string name="miuix_indexer_selected">Seleccionado %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Desliza hacia abajo para actualizar</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado con éxito</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualizando…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Suelta para actualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Eso es todo por ahora"</string>
@@ -494,7 +494,7 @@
     <string name="mtrl_picker_toggle_to_day_selection">Toca para cambiar a la selección de un día</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Cambiar al modo de entrada de texto</string>
     <string name="mtrl_picker_toggle_to_year_selection">Toque para cambiar a la selección de un año</string>
-    <string name="network_error_info">Se ha producido un error de red. Comprueba la configuración e inténtalo otra vez.</string>
+    <string name="network_error_info">Ocurrió un error de red. Comprueba los ajustes de red e inténtalo otra vez.</string>
     <string name="network_timeout_info">"No se pudo conectar a la red. Inténtalo otra vez."</string>
     <string name="new_app_name">Notas Mi</string>
     <string name="new_audio_create_cancel_talkback_des">Cancelado</string>
@@ -548,7 +548,7 @@
     <string name="pad_expand_navigation">Mostrar panel de navegación</string>
     <string name="pad_insert_image_menu_select_from_pad_gallery">Galería</string>
     <string name="pad_insert_image_menu_take_photo_by_pad">"Cámara de la tablet"</string>
-    <string name="pad_insert_image_menu_take_photo_by_phone">"Cámara del teléfono"</string>
+    <string name="pad_insert_image_menu_take_photo_by_phone">"Cámara del dispositivo"</string>
     <string name="pad_note_create_hint">Toque el botón para crear una nota</string>
     <string name="pad_note_list_not_text_stub">Sin texto</string>
     <string name="pad_todo_create_hint">Agregar tarea</string>
@@ -568,16 +568,16 @@
     <string name="pc_date_time_picker_set_time">Establecer hora</string>
     <string name="pc_module_notes_name">Notas</string>
     <string name="pc_module_todo_name">Tareas</string>
-    <string name="pc_note_dual_screen_dialog_content">"Parece que ahora estás editando notas en tu teléfono. Para evitar ediciones conflictivas, cierra Notas en tu teléfono."</string>
+    <string name="pc_note_dual_screen_dialog_content">"Parece que ahora estás editando notas en tu dispositivo. Para evitar ediciones conflictivas, cierra Notas en tu dispositivo."</string>
     <string name="pc_note_edit_blank_view_tips">Arrastra una imagen aquí para crear una nota</string>
     <string name="pc_note_edit_create_time">"Creado: "</string>
-    <string name="pc_note_edit_insert_doodle_by_phone">Crea un garabato en el teléfono</string>
+    <string name="pc_note_edit_insert_doodle_by_phone">Crea un garabato en el dispositivo</string>
     <string name="pc_note_edit_insert_picture_from_pc">Selecciona una imagen desde el ordenador</string>
     <string name="pc_note_edit_insert_picture_from_phone">Selecciona una imagen desde el dispositivo móvil</string>
     <string name="pc_note_edit_last_modified_time">"Última edición: "</string>
-    <string name="pc_note_edit_lock_dialog_doodle_by_phone">Creando un garabato en el teléfono…</string>
-    <string name="pc_note_edit_lock_dialog_take_photo_by_phone">Tomando una foto con el teléfono…</string>
-    <string name="pc_note_edit_take_photo_by_phone">Toma una foto con el teléfono</string>
+    <string name="pc_note_edit_lock_dialog_doodle_by_phone">Creando un garabato en el dispositivo…</string>
+    <string name="pc_note_edit_lock_dialog_take_photo_by_phone">Tomando una foto con el dispositivo…</string>
+    <string name="pc_note_edit_take_photo_by_phone">Toma una foto con el dispositivo</string>
     <string name="pc_note_edit_text_format_body">Cuerpo</string>
     <string name="pc_note_edit_text_format_des">Establecer tamaño del texto</string>
     <string name="pc_note_edit_text_format_title_level1">Título</string>
@@ -640,7 +640,7 @@
     <string name="quick_note_new_user_guide">Las notas rápidas te permiten crear notas y extractos</string>
     <string name="recover_notes_hint">Ha ocurrido un error, ve a i.mi.com para restaurar las notas.</string>
     <string name="redo">Rehacer</string>
-    <string name="refuse_to_open_as_pic_because_of_loading">Espera a que la nota se cargue e inténtalo de nuevo.</string>
+    <string name="refuse_to_open_as_pic_because_of_loading">Espera a que la nota se cargue e inténtalo otra vez.</string>
     <string name="refuse_to_share_as_pic_because_of_content">Esta nota es demasiado grande para compartir.</string>
     <string name="remind_title">Recordatorios</string>
     <string name="rename_folder_dialog_tile">Renombrar carpeta</string>
@@ -683,7 +683,7 @@
     <string name="save_single_excerpt">Guardar</string>
     <string name="save_to_gallery_failure_message">"No se pudo guardar"</string>
     <string name="save_to_gallery_icon_name">Guardar en Galería</string>
-    <string name="save_to_gallery_success_message">Guardado con éxito</string>
+    <string name="save_to_gallery_success_message">Guardado</string>
     <string name="save_to_local_failure_message">"No se pudo guardar"</string>
     <string name="save_to_local_icon_name">Guardar</string>
     <string name="save_to_local_success_message">Guardado</string>
@@ -770,7 +770,7 @@
     <string name="sync_note_folder">%1$s y %2$s</string>
     <string name="sync_note_todo">%1$s y %2$s</string>
     <string name="sync_tips">Pulsa para sincronizar notas con la nube.</string>
-    <string name="system_error_info">El sistema está ocupado. Espera uno o dos minutos e inténtalo otra vez.</string>
+    <string name="system_error_info">El sistema está ocupado. Espera un par de minutos e inténtalo otra vez.</string>
     <string name="the_anniversary_of_lifting_martial_law">Aniversario del Levantamiento de la Ley Marcial</string>
     <string name="the_anti_aggression_day">Día de la lucha contra la agresión</string>
     <string name="the_arbor_day">Día del árbol</string>
@@ -836,12 +836,12 @@
     <string name="thursday_shortest">Jue</string>
     <string name="time_picker_dialog_title">Establecer hora</string>
     <string name="toast_cancel_to_insert_image">"No se pudo añadir la imagen."</string>
-    <string name="toast_excerpt_end">Extracto creado con éxito</string>
+    <string name="toast_excerpt_end">Se ha creado el fragmento</string>
     <string name="toast_excerpt_no_content">No hay extractos</string>
     <string name="toast_excerpt_open_note">La nota se abrió con el extracto</string>
     <string name="toast_excerpt_saved">Guardando extracto en Notas…</string>
     <string name="toast_message_add_image_fail">"Fallo al insertar imagen"</string>
-    <string name="toast_notes_delete_success">Eliminado con éxito</string>
+    <string name="toast_notes_delete_success">Eliminado</string>
     <string name="toast_notes_hidden_edit">Se ocultó esta nota. Desliza hacia abajo para ver las notas ocultas.</string>
     <string name="toast_notes_hidden_home">Se ocultó esta nota. Desliza hacia abajo para ver las notas ocultas.</string>
     <string name="toast_notes_hidden_pad">Esta nota está oculta ahora. Tira hacia abajo el panel lateral para ver notas ocultas.</string>
@@ -857,8 +857,8 @@
 Permite a las Notas leer tus contactos y encontrar cuentas en el dispositivo."</string>
     <string name="toast_refuse_to_use_external_storage">"Los permisos de almacenamiento están restringidos.
 Permite a las Notas leer el contenido de tu tarjeta SD."</string>
-    <string name="toast_refuse_to_use_phone_state">"Los permisos del teléfono están restringidos.
-Permite a las Notas leer el estado del teléfono y la identidad."</string>
+    <string name="toast_refuse_to_use_phone_state">"Los permisos del dispositivo están restringidos.
+Permite que Notas lea el estado y la identidad del dispositivo."</string>
     <string name="toast_refuse_to_use_record_audio">"Los permisos del micrófono están restringidos.
 Permite a las Notas grabar audio."</string>
     <string name="toast_refuse_to_use_storage_in_excerpt">Permite que Notas acceda al almacenamiento para poder añadir imágenes a tus notas</string>
@@ -916,7 +916,7 @@ Permite a las Notas grabar audio."</string>
     <string name="todo_search_hint">Buscar tareas</string>
     <string name="todo_time_picker_title">Establecer recordatorio</string>
     <string name="todo_user_guide_fw_pop">Añadir acceso directo en la Pantalla de inicio</string>
-    <string name="todo_user_guide_tip1">¡Bienvenido a Tareas!</string>
+    <string name="todo_user_guide_tip1">¡Te damos la bienvenida a Tareas!</string>
     <string name="todo_user_guide_tip2">Aquí puedes añadir texto y tareas de voz.</string>
     <string name="todo_user_guide_tip3">Para editar una tarea de texto, simplemente pulsa sobre ella.</string>
     <string name="todo_user_guide_tip4">"No olvides crear un acceso directo en la Pantalla de inicio para Tareas."</string>
@@ -957,9 +957,9 @@ Permite a las Notas grabar audio."</string>
     <string name="warn_cannot_add_new_style">"No se puede agregar un nuevo formato porque la nota es demasiado larga"</string>
     <string name="warn_disable_edit_in_browse_mode">"No puedes editar notas en modo sólo lectura"</string>
     <string name="warn_enter_browse_mode">"Estás en modo solo lectura"</string>
-    <string name="web_sso_login_fail">Necesitas iniciar sesión de nuevo</string>
+    <string name="web_sso_login_fail">Necesitas iniciar la sesión otra vez</string>
     <string name="web_sso_login_message">Iniciando sesión…</string>
-    <string name="webview_reload">Inténtalo de nuevo</string>
+    <string name="webview_reload">Inténtalo otra vez</string>
     <string name="wednesday">Miércoles</string>
     <string name="wednesday_short">Mié</string>
     <string name="wednesday_shortest">Mié</string>

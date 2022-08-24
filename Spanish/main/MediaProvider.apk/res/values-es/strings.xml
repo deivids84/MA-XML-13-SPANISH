@@ -47,11 +47,11 @@
     <string name="storage_description">Almacenamiento local</string>
     <string name="transcode_cancel">Cancelar</string>
     <string name="transcode_denied">"%s no puede procesar archivos multimedia"</string>
-    <string name="transcode_processing">Procesando medios…</string>
-    <string name="transcode_processing_cancelled">Procesamiento de medios cancelado</string>
-    <string name="transcode_processing_error">Error de procesamiento de medios</string>
-    <string name="transcode_processing_started">Se inició el procesamiento de medios</string>
-    <string name="transcode_processing_success">Éxito en el procesamiento de medios</string>
+    <string name="transcode_processing">Procesando multimedia…</string>
+    <string name="transcode_processing_cancelled">Proceso multimedia cancelado</string>
+    <string name="transcode_processing_error">Error procesando multimedia</string>
+    <string name="transcode_processing_started">Iniciado el proceso multimedia</string>
+    <string name="transcode_processing_success">Se ha procesado la multimedia</string>
     <string name="transcode_wait">Esperar</string>
     <string name="uid_label">Multimedia</string>
     <string name="unknown">Desconocido</string>

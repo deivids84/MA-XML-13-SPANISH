@@ -55,7 +55,7 @@
     <string name="accessibility_camera_picker_finish">Cámaras alternadas</string>
     <string name="accessibility_camera_record_start">Grabación de vídeo iniciada</string>
     <string name="accessibility_camera_record_stop">Grabación de vídeo detenida</string>
-    <string name="accessibility_camera_shutter_finish">Foto tomada con éxito</string>
+    <string name="accessibility_camera_shutter_finish">Se ha tomado una foto</string>
     <string name="accessibility_camera_switch_capture_recording">Alternar entre modo foto y vídeo</string>
     <string name="accessibility_camera_ultra_wide_bokeh_off">Modo cuerpo completo desactivado</string>
     <string name="accessibility_camera_ultra_wide_bokeh_on">Modo cuerpo completo activado</string>
@@ -141,7 +141,7 @@
     <string name="accessibility_mimovie_on">Marco de película activado</string>
     <string name="accessibility_module_picker_finish">Cambiado a %s</string>
     <string name="accessibility_more">Más</string>
-    <string name="accessibility_multi_cam_reselect_button">Seleccionar cámaras de nuevo</string>
+    <string name="accessibility_multi_cam_reselect_button">Seleccionar cámaras otra vez</string>
     <string name="accessibility_open">Activado</string>
     <string name="accessibility_pano_moving_left">Mueve el dispositivo a la izquierda</string>
     <string name="accessibility_pano_moving_right">Mueve el dispositivo a la derecha</string>
@@ -149,7 +149,7 @@
     <string name="accessibility_picturesize_1_1_button">Relación de aspecto 1:1</string>
     <string name="accessibility_picturesize_3_4_button">Relación de aspecto 3:4</string>
     <string name="accessibility_picturesize_9_16_button">Relación de aspecto 9:16</string>
-    <string name="accessibility_picturesize_fullscreen_button">Relación de aspecto Total</string>
+    <string name="accessibility_picturesize_fullscreen_button">Relación de aspecto pantalla completa</string>
     <string name="accessibility_portrait_button">Modo retrato</string>
     <string name="accessibility_portrait_depth_effect_panel_on">Panel de modo retrato</string>
     <string name="accessibility_preview_button">Vista previa</string>
@@ -431,7 +431,7 @@ y auto-ajustar las preferencias"</string>
     <string name="camera_mode_options">Modos</string>
     <string name="camera_newcta_audio_message">Para grabar videos con sonido</string>
     <string name="camera_newcta_camera_message">Para tomar fotos y grabar videos</string>
-    <string name="camera_newcta_message">"¡Bienvenido a la cámara! Puedes usar esta aplicación para hacer fotos y grabar vídeos. "</string>
+    <string name="camera_newcta_message">"¡Te damos la bienvenida a la Cámara! Con esta aplicación puedes hacer fotos y grabar vídeos. "</string>
     <string name="camera_newcta_other_message">"Para proporcionarte servicios adicionales, mientras usas la aplicación, podemos necesitar el permiso para acceder a tu ubicación."</string>
     <string name="camera_newcta_storage_message">Para guardar y mostrar fotos y videos</string>
     <string name="camera_setting">Cámara</string>
@@ -442,7 +442,7 @@ y auto-ajustar las preferencias"</string>
     <string name="cannot_connect_camera_once">"No se puede acceder a la cámara"</string>
     <string name="cannot_connect_camera_twice">"Aún no se puede acceder a la cámara. Prueba reiniciando el dispositivo."</string>
     <string name="cannot_move_warning_message">Al hacer una foto, no muevas el dispositivo</string>
-    <string name="capture_back_pressed_hint">Toca de nuevo para salir</string>
+    <string name="capture_back_pressed_hint">Pulsa otra vez para salir</string>
     <string name="capture_shortcut_short">Selfie</string>
     <string name="ccc_temperature_warning_msg">El dispositivo está muy caliente. La cámara se cerrará en %d segundos. Las fotos o vídeos se guardarán.</string>
     <string name="ccc_temperature_warning_title">Dispositivo muy caliente</string>
@@ -470,10 +470,10 @@ y auto-ajustar las preferencias"</string>
     <string name="clone_landscape_hint">La clonación solo funciona en el modo paisaje</string>
     <string name="clone_mode_start_hint">Pulsa el botón del obturador para comenzar</string>
     <string name="clone_no_person_found">"No se pudo encontrar la persona"</string>
-    <string name="clone_offset_is_too_large">Demasiado movimiento. Intenta comenzar de nuevo.</string>
+    <string name="clone_offset_is_too_large">Demasiado movimiento. Intenta empezar otra vez.</string>
     <string name="clone_photo_mode">Foto</string>
     <string name="clone_put_phone_back_in_place">Devuelve tu dispositivo a la posición original</string>
-    <string name="clone_recapture_alert">¿Empezar de nuevo?</string>
+    <string name="clone_recapture_alert">¿Empezar otra vez?</string>
     <string name="clone_start_capture">Comenzar clonación</string>
     <string name="clone_too_much_movement_stop">Alejaste demasiado el dispositivo. La captura se ha detenido por ahora.</string>
     <string name="clone_video_mode">Vídeo</string>
@@ -540,7 +540,7 @@ y auto-ajustar las preferencias"</string>
     <string name="confirm_install_scanner_message">"Escáner te permite escanear códigos QR, códigos de barras y más. No tienes que conectarte a internet para instalarlo."</string>
     <string name="confirm_install_scanner_title">Instalar escáner</string>
     <string name="confirm_location_alert">Recordar ubicaciones de las fotos</string>
-    <string name="confirm_location_message">&lt;Data&gt;¡Bienvenido a la Cámara! Etiquetar tus fotos y vídeos con las ubicaciones donde están tomadas hará que tu Galería esté más organizada y te ayudará a encontrar elementos más rápido. Es posible que algunas funciones no estén disponibles si restringes la información de ubicación.&lt;br/&gt;&lt;br/&gt;Protegeremos tu información personal de acuerdo con las leyes, regulaciones y políticas de privacidad relevantes.&lt;/Data&gt;</string>
+    <string name="confirm_location_message">&lt;Data&gt;¡Te damos la bienvenida a la Cámara! Etiquetar tus fotos y vídeos con las ubicaciones donde están tomadas hará que la Galería esté más organizada y te ayudará a encontrar elementos más rápido. Es posible que algunas funciones no estén disponibles si restringes la información de ubicación.&lt;br/&gt;&lt;br/&gt;Protegeremos tu información personal de acuerdo con las leyes, regulaciones y políticas de privacidad relevantes.&lt;/Data&gt;</string>
     <string name="confirm_location_title">¿Recordar ubicaciones de las fotos?</string>
     <string name="confirm_recording_fail_calling_alert">"No se puede grabar durante una llamada."</string>
     <string name="confirm_recording_fail_recorder_busy_alert">"Puede que otra aplicación ya esté utilizando el micrófono del dispositivo para grabar."</string>
@@ -549,11 +549,11 @@ y auto-ajustar las preferencias"</string>
     <string name="confirm_restore_message">"¿Restaurar ajustes predeterminados de la cámara?"</string>
     <string name="confirm_restore_title">Restaurar ajustes predeterminados</string>
     <string name="copy">Copiar</string>
-    <string name="cta_mimoji_msg">¡Bienvenido a Fun Cam! Puedes usar esta aplicación para tomar fotos y grabar vídeos. Para poder funcionar con normalidad, esta aplicación necesita conectarse a internet y requiere los siguientes permisos para recopilar tu información personal:</string>
+    <string name="cta_mimoji_msg">¡Te damos la bienvenida a Fun Cam! Con esta aplicación puedes tomar fotos y grabar vídeos. Para funcionar con normalidad, necesita conexión a Internet y los siguientes permisos para recopilar información personal:</string>
     <string name="cta_mimoji_perm_type">Permisos obligatorios (utilizados para funciones y servicios básicos de esta aplicación)</string>
     <string name="cta_mimoji_user_links">&lt;Data&gt;Lee y acepta nuestro &lt;a href =%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &lt;a href =%2$s&gt;Política de Privacidad&lt;/a&gt; antes de usar esta aplicación.&lt;/Data&gt;</string>
     <string name="cta_mimoji_user_tips">"Si no aceptas otorgar los permisos obligatorios o compartir y cargar tu información personal, no podrás utilizar esta aplicación. Si no otorgas los permisos opcionales, no podrás utilizar algunas funciones de esta aplicación; sin embargo, su funcionalidad básica seguirá estando disponible. Siempre puedes restringir los permisos o retirar tu consentimiento en Ajustes."</string>
-    <string name="cta_msg">¡Bienvenido a la Cámara! Puedes usar esta aplicación para tomar fotos y grabar vídeos. Esta aplicación necesita conectarse a internet y requiere de los siguientes permisos opcionales:</string>
+    <string name="cta_msg">¡Te damos la bienvenida a la Cámara! Esta aplicación te permite tomar fotos y grabar vídeos. Necesita conexión Internet y los siguientes permisos opcionales:</string>
     <string name="cta_perm_cam">Usar la cámara</string>
     <string name="cta_perm_cam_desc">Para tomar fotos</string>
     <string name="cta_perm_dec">Para añadir información de ubicación a fotos y vídeos</string>
@@ -581,7 +581,7 @@ y auto-ajustar las preferencias"</string>
     <string name="custom_watermark_too_many_words">El texto que has introducido es demasiado largo</string>
     <string name="custom_watermark_words">Marca de agua personalizada</string>
     <string name="custom_watermark_words_input_hint">Introduce el texto</string>
-    <string name="custom_watermark_words_save_success">Guardado con éxito</string>
+    <string name="custom_watermark_words_save_success">Guardado</string>
     <string name="date_picker_lunar">Calendario Chino Tradicional</string>
     <string name="date_time_picker_dialog_title">Establecer fecha y hora</string>
     <string name="dd_frn_f_t">Pliega tu dispositivo para usar la cámara frontal</string>
@@ -602,7 +602,7 @@ y auto-ajustar las preferencias"</string>
     <string name="dialog_privacy_watermark_msg">Ingrese texto</string>
     <string name="dialog_privacy_watermark_title">Marca de agua protectora</string>
     <string name="dirty_tip_toast">Las lentes están sucias. Límpialas.</string>
-    <string name="do_not_remind_me">"No mostrar de nuevo"</string>
+    <string name="do_not_remind_me">"No mostrar otra vez"</string>
     <string name="doc_shortcut_short">Documentos</string>
     <string name="document_blackwhite">B/N</string>
     <string name="document_blur_warn">El texto está borroso</string>
@@ -613,8 +613,8 @@ los documentos escaneados automáticamente"</string>
     <string name="document_strengthen">Mejorado</string>
     <string name="dolly_zoom_capture_tip1">Coloca tu sujeto en el marco y mantén el dispositivo al menos a %d metro de distancia</string>
     <string name="dolly_zoom_capture_tip2">Aleja el dispositivo del sujeto de manera constante</string>
-    <string name="dolly_zoom_capture_tip3">Perdiste la pista del sujeto. Comienza de nuevo.</string>
-    <string name="dolly_zoom_capture_tip4">Alejaste demasiado el dispositivo. Comienza de nuevo.</string>
+    <string name="dolly_zoom_capture_tip3">Perdiste la pista. Empieza otra vez.</string>
+    <string name="dolly_zoom_capture_tip4">Alejaste demasiado el dispositivo. Comienza otra vez.</string>
     <string name="dolly_zoom_capture_tip5">"No se pudo guardar el vídeo"</string>
     <string name="dolly_zoom_capture_tip6">Mueva al sujeto al centro del marco</string>
     <string name="dolly_zoom_guide_tip1">"Asegúrate de que haya suficiente espacio entre el sujeto y el fondo."</string>
@@ -787,7 +787,7 @@ Imprime la copia de forma inalámbrica en una hoja A4."</string>
     <string name="id_card_mode_use_hint_text_title">Escanear ID</string>
     <string name="install_confirmed">Instalar</string>
     <string name="invisible_mode_dialog_cancel">Cancelar</string>
-    <string name="invisible_mode_dialog_summary">"No puedes usar la cámara ahora. Desactiva el modo incógnito para usar la cámara."</string>
+    <string name="invisible_mode_dialog_summary">"No puedes usar la cámara ahora. Desactiva el modo incógnito para usarla."</string>
     <string name="invisible_mode_dialog_title">"Estás en modo incógnito"</string>
     <string name="invisible_mode_dialog_to_close">Ajustes</string>
     <string name="kaleidoscope_fragment_tab_name">Caleidoscopio</string>
@@ -842,7 +842,7 @@ en modo Retrato"</string>
     <string name="live_music_hot_title">Canciones populales</string>
     <string name="live_music_local_title">Local</string>
     <string name="live_music_network_exception">Error de red</string>
-    <string name="live_music_network_exception_tips">Ha habido un error de red. Pulsa para intentarlo de nuevo.</string>
+    <string name="live_music_network_exception_tips">Ocurrió un error de red. Pulsa para intentarlo otra vez.</string>
     <string name="live_music_title_unknown">Pista desconocida</string>
     <string name="live_reverse_confirm">Eliminar</string>
     <string name="live_reverse_message">¿Eliminar el elemento capturado anteriormente?</string>
@@ -897,7 +897,7 @@ parezcan más grandes en las fotos"</string>
     <string name="makeup_effect_entry_palm">Palmera</string>
     <string name="makeup_effect_entry_taro">Taro</string>
     <string name="makeup_effect_entry_vitality">Brío</string>
-    <string name="makeup_reset_toast">Efectos de maquillaje eliminados con éxito</string>
+    <string name="makeup_reset_toast">Efectos del modo belleza eliminados</string>
     <string name="manual_picture_style">Parámetros</string>
     <string name="manually_raw_hint">CRUDO</string>
     <string name="manually_raw_tip">"No se puede usar el zoom con formato RAW"</string>
@@ -945,7 +945,7 @@ parezcan más grandes en las fotos"</string>
     <string name="mimoji_delete"><font fgcolor="#ffff0000">Eliminar</font></string>
     <string name="mimoji_delete_dialog_title">¿Eliminar este avatar?</string>
     <string name="mimoji_delete_mimoji">Eliminar avatar</string>
-    <string name="mimoji_delete_success">Eliminado con éxito</string>
+    <string name="mimoji_delete_success">Eliminado</string>
     <string name="mimoji_detect_faceshape_failed">"No se pudo detectar la forma del rostro"</string>
     <string name="mimoji_detect_facial_failed">"No se pudo ver el rostro"</string>
     <string name="mimoji_detect_gender_failed">"No se pudo detectar el género"</string>
@@ -1000,13 +1000,13 @@ parezcan más grandes en las fotos"</string>
     <string name="mimoji_nose_lisps">Nariz y labios</string>
     <string name="mimoji_on_create">Crear avatar</string>
     <string name="mimoji_ornament">Accesorios</string>
-    <string name="mimoji_recapture">Empezar de nuevo</string>
-    <string name="mimoji_recapture_alert">Todos los cambios serán descartados una vez que empieces de nuevo. ¿Empezar de nuevo?</string>
+    <string name="mimoji_recapture">Empezar otra vez</string>
+    <string name="mimoji_recapture_alert">Todos los cambios se descartarán cuando comiences otra vez. ¿Comenzar otra vez?</string>
     <string name="mimoji_reset">Restablecer</string>
     <string name="mimoji_save">Guardar</string>
     <string name="mimoji_save_finish">Listo</string>
     <string name="mimoji_save_gif_emoticon">¿Guardar stickers en formato GIF en la Galería?</string>
-    <string name="mimoji_save_success">Guardado con éxito</string>
+    <string name="mimoji_save_success">Guardado</string>
     <string name="mimoji_select_number_error">Selecciona al menos %d elemento</string>
     <string name="mimoji_selected">Seleccionar</string>
     <string name="mimoji_start_create">Creando avatar…</string>
@@ -1034,7 +1034,7 @@ parezcan más grandes en las fotos"</string>
     <string name="miuix_indexer_collect">Colecciones</string>
     <string name="miuix_indexer_selected">Seleccionado %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Desliza hacia abajo para actualizar</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado con éxito</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualizando…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Suelta para actualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Eso es todo por ahora"</string>
@@ -1121,7 +1121,7 @@ parezcan más grandes en las fotos"</string>
     <string name="multi_window_mode_not_supported">"No se puede usar la cámara en el modo multiventana"</string>
     <string name="network_access_user_notice_agree">Aceptar</string>
     <string name="network_access_user_notice_message_live_video">&lt;Data&gt;La Cámara necesita conectarse a internet para proporcionar efectos, música y otras características para vídeos cortos.&lt;br/&gt;&lt;br/&gt;Al pulsar \"Aceptar\" estás de acuerdo nuestro &lt;a href =%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &lt;a href =%2$s&gt;Política de Privacidad&lt;/a&gt; y permites que la Cámara se conecte a internet.&lt;/Data&gt;</string>
-    <string name="network_access_user_notice_message_mi_live_video">&lt;Data&gt;¡Bienvenido a vídeos cortos! Nuestro servicio necesita conectarse a la red para proporcionarte música y otras funciones. &lt;br/&gt;&lt;br/&gt;Antes de usar nuestro servicio, necesitas leer y aceptar nuestro &lt;a href =%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y &lt;a href =%2$s&gt;Política de Privacidad&lt;/a&gt;, así como permitir a la aplicación conectarse a internet.&lt;/Data&gt;</string>
+    <string name="network_access_user_notice_message_mi_live_video">&lt;Data&gt;¡Te damos la bienvenida a vídeos cortos! Nuestro servicio necesita conexión a la red para suministrar música y otras funciones. &lt;br/&gt;&lt;br/&gt;Antes de usarlo, lee y acepta nuestro &lt;a href =%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y la &lt;a href =%2$s&gt;Política de Privacidad&lt;/a&gt;. Así mismo, permite la conexión a Internet.&lt;/Data&gt;</string>
     <string name="network_access_user_notice_message_sticker">&lt;Data&gt;La Cámara necesita conectarse a internet para proporcionar stickers para esta característica.&lt;br/&gt;&lt;br/&gt;Al pulsar \"Aceptar\" estás de acuerdo con nuestro &lt;a href =%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &lt;a href =%2$s&gt;Política de Privacidad&lt;/a&gt; y permites que la Cámara se conecte a internet.&lt;/Data&gt;</string>
     <string name="network_access_user_notice_message_voice_caption">&lt;Data&gt;La Cámara necesita conectarse a internet para proporcionar la función de salida voz a texto.&lt;br/&gt;&lt;br/&gt;Al pulsar \"Aceptar\" estás de acuerdo con nuestro &lt;a href =%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &lt;a href =%2$s&gt;Política de Privacidad&lt;/a&gt; y permites que la Cámara se conecte a internet.&lt;/Data&gt;</string>
     <string name="network_access_user_notice_title">Conectando a internet</string>
@@ -1345,7 +1345,7 @@ Mantiene el sujeto nítido mientras difumina el fondo."</string>
     <string name="pref_camera_fastmotion_speed_750x">Crepúsculo</string>
     <string name="pref_camera_fastmotion_speed_90x">Nubes</string>
     <string name="pref_camera_fastmotion_speed_description">Los vídeos time-lapse tomados a mayor velocidad son más cortos y más condensados. Aquí están los valores de velocidad adecuados para diferentes escenas:</string>
-    <string name="pref_camera_first_tag_tips">Etiquetado con éxito</string>
+    <string name="pref_camera_first_tag_tips">Etiquetado</string>
     <string name="pref_camera_flashmode_entry_auto">Auto</string>
     <string name="pref_camera_flashmode_entry_back_soft_light">Luz suave</string>
     <string name="pref_camera_flashmode_entry_off">Desactivado</string>
@@ -1353,7 +1353,7 @@ Mantiene el sujeto nítido mientras difumina el fondo."</string>
     <string name="pref_camera_flashmode_entry_screen_halo">Luz de llamada</string>
     <string name="pref_camera_flashmode_entry_torch">Linterna</string>
     <string name="pref_camera_flashmode_title">Modo de flash</string>
-    <string name="pref_camera_focus_shoot_summary">Toque para enfocar, luego toque nuevamente para tomar una foto.</string>
+    <string name="pref_camera_focus_shoot_summary">Toca para enfocar y luego toca otra vez para tomar una foto.</string>
     <string name="pref_camera_focus_shoot_title">Enfocar y disparar</string>
     <string name="pref_camera_focusmode_entry_auto">AUTO</string>
     <string name="pref_camera_focusmode_entry_infinity">Infinito</string>
@@ -1391,7 +1391,7 @@ Mantiene el sujeto nítido mientras difumina el fondo."</string>
     <string name="pref_camera_long_pressing_burst_shooting_entry_focus">Enfoque</string>
     <string name="pref_camera_long_pressing_burst_shooting_entry_record">Grabar vídeo</string>
     <string name="pref_camera_long_pressing_shutter_title">Pulsa y mantén el disparador para fijar AE/AF/AWB</string>
-    <string name="pref_camera_lying_summary">Notificar acerca de la orientación actual cuando el teléfono está paralelo al suelo</string>
+    <string name="pref_camera_lying_summary">Notifica sobre la orientación actual cuando el dispositivo está paralelo al suelo</string>
     <string name="pref_camera_lying_title">Notificar acerca de la orientación</string>
     <string name="pref_camera_magic_mirror_title">Espejo mágico</string>
     <string name="pref_camera_manual_description_title">Acerca de las funciones Pro</string>
@@ -1416,7 +1416,7 @@ Mantiene el sujeto nítido mientras difumina el fondo."</string>
     <string name="pref_camera_peak_entry_off">Desactivado</string>
     <string name="pref_camera_peak_entry_on">Activado</string>
     <string name="pref_camera_peak_title">Pico de enfoque</string>
-    <string name="pref_camera_picturesize_entry_fullscreen">Todo pantalla 16:9</string>
+    <string name="pref_camera_picturesize_entry_fullscreen">Completa</string>
     <string name="pref_camera_picturesize_entry_standard">Estándar 4:3</string>
     <string name="pref_camera_picturesize_title_simple_mode">Marco de cámara</string>
     <string name="pref_camera_portrait_mode_entry_off">Modo retrato desactivado</string>
@@ -1701,7 +1701,7 @@ Mantiene el sujeto nítido mientras difumina el fondo."</string>
     <string name="recommend_portrait">Prueba el Modo retrato</string>
     <string name="recommend_soft_light_tip">Activar flash</string>
     <string name="recommend_super_night">Prueba el Modo nocturno</string>
-    <string name="record_back_pressed_hint">Toca de nuevo para detener la grabación</string>
+    <string name="record_back_pressed_hint">Pulsa otra vez para detener la grabación</string>
     <string name="remote_online_connecting">Selecciona el dispositivo para conectar</string>
     <string name="remote_online_disconnect_confirmation">¿Cancelar la conexión con %1$s?</string>
     <string name="remote_online_exit_confirmation">¿Desconectar ahora la Grabación dual?</string>
@@ -1716,7 +1716,7 @@ Mantiene el sujeto nítido mientras difumina el fondo."</string>
     <string name="remote_online_unavailable">"No se pudo encontrar dispositivos cercanos"</string>
     <string name="remote_online_waiting">Esperando a que el otro dispositivo se conecte…</string>
     <string name="remote_online_whats">¿Cómo funciona la Grabación dual?</string>
-    <string name="reset_manual_picture_style_toast">Parámetros restablecidos con éxito</string>
+    <string name="reset_manual_picture_style_toast">Parámetros restablecidos</string>
     <string name="reset_manually_parameter_confirmed">OK</string>
     <string name="reset_manually_parameter_hint">Restablecer</string>
     <string name="saturday">Sábado</string>
@@ -1818,9 +1818,9 @@ Mantiene el sujeto nítido mientras difumina el fondo."</string>
     <string name="super_moon_under">Luz de la luna</string>
     <string name="super_moon_window">Ventana</string>
     <string name="super_night_hint">Optimizando imagen… Mantén tu dispositivo estable.</string>
-    <string name="super_night_owl_toast">Mantén tu teléfono estable</string>
+    <string name="super_night_owl_toast">Mantén tu dispositivo estable</string>
     <string name="super_night_se_tip">Modo nocturno</string>
-    <string name="super_night_toast">Mantén tu teléfono estable mientras tomas una foto</string>
+    <string name="super_night_toast">Mantén tu dispositivo estable mientras tomas una foto</string>
     <string name="tap_to_exposure">Toca para ajustar la exposición manualmente</string>
     <string name="tap_to_focus">Toca para enfocar</string>
     <string name="text_ai_scene_selector_text_off">CONTRALUZ</string>
@@ -1893,8 +1893,8 @@ Mantiene el sujeto nítido mientras difumina el fondo."</string>
     <string name="timer_burst_manu_param_interval">Intervalo sin exposición</string>
     <string name="timer_burst_param_interval">Intervalo</string>
     <string name="timer_burst_param_total_count">Número de fotos</string>
-    <string name="timerburst_pressed_hint">Pulsa de nuevo para detener</string>
-    <string name="title_snap_double_confirm">Confirmar de nuevo</string>
+    <string name="timerburst_pressed_hint">Pulsa otra vez para detener</string>
+    <string name="title_snap_double_confirm">Confirmar otra vez</string>
     <string name="toast_burst_snap_forbidden_when_audio_capture_open">"No se puede usar el Modo ráfaga mientras la captura por sonido está activada"</string>
     <string name="toast_saving">Guardando fotos…</string>
     <string name="toast_start_audio_capture">Haz un sonido para tomar una foto</string>
@@ -2011,10 +2011,10 @@ grabar y editar vídeos sobre la marcha"</string>
     <string name="wednesday_shortest">Mié</string>
     <string name="wideselfie_press_shoot_key_to_start">Toca el botón del obturador</string>
     <string name="wideselfie_result_image_lossless">"No se pudo realizar una foto panorámica"</string>
-    <string name="wideselfie_rotate_slowly">Rota el teléfono hacia los lados</string>
-    <string name="wideselfie_rotate_to_back">Inclina el teléfono hacia atrás</string>
-    <string name="wideselfie_rotate_to_front">Inclina el teléfono hacia adelante</string>
-    <string name="wideselfie_rotate_to_left_slowly">Rota el teléfono hacia la izquierda</string>
-    <string name="wideselfie_rotate_to_right_slowly">Rota el teléfono hacia la derecha</string>
+    <string name="wideselfie_rotate_slowly">Rota el dispositivo hacia los lados</string>
+    <string name="wideselfie_rotate_to_back">Inclina el dispositivo hacia atrás</string>
+    <string name="wideselfie_rotate_to_front">Inclina el dispositivo hacia adelante</string>
+    <string name="wideselfie_rotate_to_left_slowly">Gira el dispositivo hacia la izquierda</string>
+    <string name="wideselfie_rotate_to_right_slowly">Gira el dispositivo hacia la derecha</string>
     <string name="yesterday">Ayer</string>
 </resources>

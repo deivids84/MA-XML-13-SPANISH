@@ -57,7 +57,7 @@
     <string name="email">Correo electrónico</string>
     <string name="eras_ad">AD</string>
     <string name="eras_bc">BC</string>
-    <string name="error_forbidden">Sincronización desactivada por problemas con la Cuenta Mi.</string>
+    <string name="error_forbidden">Sincronización desactivada por problemas con la cuenta Xiaomi.</string>
     <string name="error_not_acceptable">La sincronización se ha desactivado.</string>
     <string name="error_title">"No se pudo sincronizar"</string>
     <string name="error_unauthorized">Sincronización desactivada por excesivos intentos de iniciar sesión.</string>
@@ -143,7 +143,7 @@
     <string name="privacy_policy">Política de Privacidad</string>
     <string name="recovery_progress">Restaurando elementos (%1$d/%2$d)…</string>
     <string name="restore_right_now">Restaurar</string>
-    <string name="retry">Intentar de nuevo</string>
+    <string name="retry">Inténtalo otra vez</string>
     <string name="sar">Información de Exposición a RF</string>
     <string name="saturday">Sábado</string>
     <string name="saturday_short">Sáb</string>
@@ -191,7 +191,7 @@
     <string name="system_app_restore_completed">Restauración correcta</string>
     <string name="system_app_restore_completed_detail">Todos los elementos del sistema se han restaurado</string>
     <string name="system_app_restore_failed">Ha ocurrido un error</string>
-    <string name="system_app_restore_failed_detail">"No se pudieron restaurar elementos del sistema. Comprueba los ajustes de la red y no reinicies ni apagues el dispositivo hasta que la restauración esté completa. Pulsa el botón de abajo para volver a intentarlo."</string>
+    <string name="system_app_restore_failed_detail">"No se pudo restaurar elementos del sistema. Comprueba los ajustes de red y no reinicies ni apagues el dispositivo hasta que la restauración esté completa. Pulsa el botón de abajo para intentarlo otra vez."</string>
     <string name="system_restore">Restaurar elementos</string>
     <string name="tap_to_update_system_app">Pulsa para actualizar las aplicaciones del sistema</string>
     <string name="the_anniversary_of_lifting_martial_law">Anniversario del final de la Ley Marcial</string>
@@ -247,10 +247,10 @@
     <string name="user_experience_program">Programa de Experiencia de Usuario</string>
     <string name="user_manual">Guía de usuario</string>
     <string name="wait_for_wlan_china">Esperar conexión Wi-Fi</string>
-    <string name="web_sso_login_fail">Debes iniciar sesión nuevamente</string>
+    <string name="web_sso_login_fail">Necesitas iniciar la sesión otra vez</string>
     <string name="web_sso_login_message">Iniciando sesión…</string>
     <string name="website">Página Web</string>
-    <string name="webview_reload">Inténtalo de nuevo</string>
+    <string name="webview_reload">Inténtalo otra vez</string>
     <string name="wednesday">Miércoles</string>
     <string name="wednesday_short">Mie</string>
     <string name="wednesday_shortest">X</string>

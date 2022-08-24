@@ -8,7 +8,7 @@
     <string name="cert_missing_error">"No se ha podido instalar porque no se ha encontrado el archivo de certificado."</string>
     <string name="cert_not_saved">No se ha instalado el certificado.</string>
     <string name="cert_read_error">"No se ha podido instalar porque no se puede leer el archivo de certificado."</string>
-    <string name="cert_temp_error">Se ha producido un error temporal. Inténtalo de nuevo más tarde.</string>
+    <string name="cert_temp_error">Se ha producido un error temporal. Inténtalo más tarde.</string>
     <string name="cert_too_large_error">"No se ha podido instalar porque el tamaño del certificado es demasiado grande."</string>
     <string name="certificate">certificado</string>
     <string name="certificate_capabilities_warning">Nota: El emisor de este certificado puede inspeccionar todo el tráfico de red entrante y saliente del dispositivo.</string>

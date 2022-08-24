@@ -48,7 +48,7 @@ Pulsa para verla"</string>
     <string name="cancel_edit">Cancelar</string>
     <string name="cannot_change_frames">La tasa de fotogramas solo puede ser personalizada para grabaciones con una tasa de fotogramas fija.</string>
     <string name="cannot_change_parames">"No se pudieron cambiar los parámetros durante la grabación"</string>
-    <string name="cannot_record">"No se pudo grabar, inténtalo de nuevo más tarde."</string>
+    <string name="cannot_record">"No se pudo grabar, inténtalo más tarde."</string>
     <string name="clearable_edittext_clear_description">Eliminar</string>
     <string name="close">Cerrar</string>
     <string name="close_screen_record">Grabación detenida</string>
@@ -95,7 +95,7 @@ Pulsa para verla"</string>
     <string name="is_go_home">Volver al Grabador de pantalla</string>
     <string name="is_go_home_summary">"Abrir la página principal del Grabador de Pantalla después de detener la grabación"</string>
     <string name="loopback_sound">Altavoz</string>
-    <string name="low_battery">Carga el teléfono antes de comenzar la grabación</string>
+    <string name="low_battery">Carga el dispositivo antes de comenzar la grabación</string>
     <string name="low_battery_for_pad">Cargue su dispositivo antes de comenzar a grabar</string>
     <string name="low_battery_title">Batería baja</string>
     <string name="low_battery_warning">El nivel de la batería es demasiado bajo. Grabación detenida y vídeo guardado.</string>
@@ -125,7 +125,7 @@ Pulsa para verla"</string>
     <string name="miuix_indexer_collect">Colecciones</string>
     <string name="miuix_indexer_selected">Seleccionado %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Desliza hacia abajo para actualizar</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado con éxito</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualizando…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Suelta para actualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Eso es todo por ahora"</string>
@@ -189,7 +189,7 @@ Pulsa para verla"</string>
     <string name="preference_copied">\"%1$s\" se ha copiado en el portapapeles.</string>
     <string name="privacy_settings">Privacidad</string>
     <string name="quit_recording">Salir de la Grabadora de pantalla</string>
-    <string name="recording_failure">"No se pudo grabar, empezar de nuevo"</string>
+    <string name="recording_failure">"No se pudo grabar, empieza otra vez"</string>
     <string name="recording_max_size">"Grabación detenida y guardada porque el archivo alcanzó el tamaño máximo. Vuelve a empezar a grabar si aún no has terminado."</string>
     <string name="recording_without_mic">"El micrófono está ocupado y no puede grabar sonidos ahora."</string>
     <string name="resolution">Resolución</string>

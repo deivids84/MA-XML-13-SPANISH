@@ -34,8 +34,8 @@
     <string name="auth_activity_label">Códigos de verificación</string>
     <string name="auth_fingerprint_content">Leyendo huella dactilar…</string>
     <string name="auth_fingerprint_content_message">Coloque su dedo en el sensor</string>
-    <string name="auth_fingerprint_content_message_error">"No se pudo escanear la huella dactilar. Vuelva a intentarlo"</string>
-    <string name="auth_fingerprint_title">Verifique su huella dactilar</string>
+    <string name="auth_fingerprint_content_message_error">"No se pudo escanear la huella dactilar. Inténtalo otra vez"</string>
+    <string name="auth_fingerprint_title">Verifica tu huella dactilar</string>
     <string name="autofill_description">"MIUI puede cifrar y almacenar sus contraseñas para que pueda ingresarlas cuando lo necesite automáticamente. Xiaomi no podrá leer sus contraseñas cifradas."</string>
     <string name="autofill_hint_email_address">Correo electrónico</string>
     <string name="autofill_hint_name">Nombre</string>

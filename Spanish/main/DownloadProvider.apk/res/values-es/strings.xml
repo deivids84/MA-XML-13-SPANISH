@@ -194,7 +194,7 @@
     <string name="notif_title_file_size">%1$d total</string>
     <string name="notif_title_multiple_downloading">Descargando %1$d archivos</string>
     <string name="notif_title_single_downloading">Descargando %1$s</string>
-    <string name="notification_download_complete">Descargado con éxito.</string>
+    <string name="notification_download_complete">Descargado.</string>
     <string name="notification_download_failed">No se pudieron descargar elementos.</string>
     <string name="notification_download_success_more">%1$d descargado(s)</string>
     <string name="notification_need_wifi_for_size">El tamaño de la descarga requiere Wi-Fi.</string>
@@ -227,7 +227,7 @@
     <string name="petabyteShort">PB</string>
     <string name="pm">PM</string>
     <string name="preference_copied">\"%1$s\" se ha copiado en el portapapeles.</string>
-    <string name="privacy_notif_content">Toca para ver los detalles.</string>
+    <string name="privacy_notif_content">Pulsa para ver los detalles.</string>
     <string name="privacy_notif_title">Xunlei Download Accelerator está activado</string>
     <string name="recall_tip">"Instala \"Descargas\"
 para usar todas las funciones"</string>
@@ -235,7 +235,7 @@ para usar todas las funciones"</string>
     <string name="recommend_open">Abrir</string>
     <string name="recommended_file_size_download_in_mobile">¿Usar %s de tus datos móviles para descargar este archivo?</string>
     <string name="recommended_no_file_size_download_in_mobile">¿Usar tus datos móviles para descargar este archivo?</string>
-    <string name="retry_after_network_available">"No se puede conectar a la red. Comprueba su conexión de datos e inténtelo de nuevo."</string>
+    <string name="retry_after_network_available">"No se puede conectar a la red. Comprueba los ajustes de red e inténtalo otra vez."</string>
     <string name="retry_download">Inténtalo otra vez</string>
     <string name="root_downloads">Descargas</string>
     <string name="saturday">Sábado</string>
@@ -252,7 +252,7 @@ para usar todas las funciones"</string>
     <string name="thursday_short">Jue</string>
     <string name="thursday_shortest">Jue</string>
     <string name="time_picker_dialog_title">Establecer hora</string>
-    <string name="toast_net_error">"No se pudo conectar a la red. Comprueba la configuración de red e inténtalo otra vez."</string>
+    <string name="toast_net_error">"No se pudo conectar a la red. Comprueba los ajustes de red e inténtalo otra vez."</string>
     <string name="today">Hoy</string>
     <string name="today_download">Descargado hoy</string>
     <string name="tomorrow">Mañana</string>
@@ -272,12 +272,12 @@ para usar todas las funciones"</string>
 
  Pulse %2$s para iniciar esta descarga la próxima vez que esté bajo una conexión Wi-Fi."</string>
     <string name="wifi_recommended_title">¿Poner en cola para descargar luego?</string>
-    <string name="wifi_required_body">"Conéctese a Wi-Fi para completar ésta %1$s descarga. 
+    <string name="wifi_required_body">"Conecta a Wi-Fi para completar esta %1$s descarga. 
 
-Toque %2$s para iniciar esta descarga la próxima vez que se conecte a una red Wi-Fi."</string>
+Pulsa %2$s para iniciar esta descarga cuando haya conexión Wi-Fi."</string>
     <string name="wifi_required_title">El archivo es demasiado grande para descargarlo con datos móviles</string>
     <string name="xl_speedup_experience_notify_context">"La velocidad se incrementa para cada descarga cuando eres miembro de Xunlei"</string>
-    <string name="xl_speedup_experience_notify_title">Membresía Xunlei</string>
+    <string name="xl_speedup_experience_notify_title">Suscripción Xunlei</string>
     <string name="xl_speedup_notify_button_experience">Prueba gratis</string>
     <string name="xl_speedup_notify_button_member">Hazte miembro</string>
     <string name="yesterday">Ayer</string>

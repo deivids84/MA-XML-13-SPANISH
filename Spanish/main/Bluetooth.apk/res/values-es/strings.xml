@@ -66,7 +66,7 @@
     <string name="bt_audio_share_notification_title">Compartir audio</string>
     <string name="bt_enable_cancel">Cancelar</string>
     <string name="bt_enable_line1">Para utilizar los servicios de Bluetooth, primero debes activar la función Bluetooth.</string>
-    <string name="bt_enable_line2">¿Quieres activar la función Bluetooth ahora?</string>
+    <string name="bt_enable_line2">¿Quieres activar Bluetooth?</string>
     <string name="bt_enable_ok">Activar</string>
     <string name="bt_error_btn_ok">Aceptar</string>
     <string name="bt_share_picker_label">Bluetooth</string>
@@ -269,8 +269,8 @@
     <string name="switch_audio_device_bt_hfp_summary">Reproducir audio de llamadas en un dispositivo conectado. Esta función debe desactivarse manualmente.</string>
     <string name="switch_audio_device_default">Predeterminado</string>
     <string name="switch_audio_device_default_summary">Dispositivo utilizado actualmente</string>
-    <string name="switch_audio_device_hfp_hint">Cambiar de nuevo a la salida predeterminada</string>
-    <string name="switch_audio_device_hfp_toast_hint">Seleccionar la salida de audio predeterminada para comenzar a reproducir audio de nuevo en este dispositivo.</string>
+    <string name="switch_audio_device_hfp_hint">Cambiar otra vez a la salida predeterminada</string>
+    <string name="switch_audio_device_hfp_toast_hint">Selecciona la salida de audio predeterminada para comenzar a reproducir audio otra vez.</string>
     <string name="switch_audio_device_phone">Este dispositivo</string>
     <string name="switch_audio_device_phone_summary">Reproducir audio en este dispositivo</string>
     <string name="switch_audio_device_switch_hint">Puedes desactivar las notificaciones sobre dispositivos conectados en Ajustes &gt; Bluetooth &gt; Ajustes adicionales.</string>

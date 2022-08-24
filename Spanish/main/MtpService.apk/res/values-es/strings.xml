@@ -31,6 +31,6 @@
     <string name="app_label">Host MTP</string>
     <string name="downloads_app_label">Descargas</string>
     <string name="error_busy_device">"El otro dispositivo está ocupado. No puede transferir archivos hasta que esté disponible."</string>
-    <string name="error_locked_device">No se encontraron archivos. El otro dispositivo puede estar bloqueado. Si es así, desbloquéalo e inténtalo de nuevo.</string>
+    <string name="error_locked_device">No se encontraron archivos. Si el otro dispositivo está bloqueado, desbloquéalo e inténtalo otra vez.</string>
     <string name="search_menu_title">Buscar</string>
 </resources>

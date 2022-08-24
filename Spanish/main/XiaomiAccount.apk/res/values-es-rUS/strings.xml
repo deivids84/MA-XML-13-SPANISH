@@ -432,6 +432,7 @@ Enviar este código al supervisor."</string>
     <string name="oauth_scopes_intro">&lt;font color=#%1$s&gt;%2$s&lt;/font&gt; obtendrá los siguientes permisos:&lt;br&gt; &lt;br&gt; %3$s</string>
     <string name="oauth_title">Iniciar sesión con la cuenta Xiaomi</string>
     <string name="ok">Aceptar</string>
+    <string name="operator_broadnet">China Broadnet</string>
     <string name="operator_mobile">China Mobile</string>
     <string name="operator_mobile_agreement">Servicios de verificación proporcionados por China Mobile</string>
     <string name="operator_other">Número de teléfono</string>

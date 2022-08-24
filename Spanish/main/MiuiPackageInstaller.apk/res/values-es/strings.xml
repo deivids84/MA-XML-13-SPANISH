@@ -30,9 +30,9 @@
     <string name="abc_toolbar_collapse_description">Colapsar</string>
     <string name="action_bar_report_link_des">Alerta de app</string>
     <string name="actionbar_button_up_description">Atrás</string>
-    <string name="adb_install_no_network">"No se pudo conectar a Internet. Revisa tus ajustes de red e intenta nuevamente."</string>
+    <string name="adb_install_no_network">"No se pudo conectar a Internet. Comprueba los ajustes de red e inténtalo otra vez."</string>
     <string name="adb_install_open">Abriendo...</string>
-    <string name="adb_install_open_error">"No se pudo abrir. Revisa tus ajustes de red e intenta nuevamente."</string>
+    <string name="adb_install_open_error">"No se pudo abrir. Comprueba los ajustes de red e inténtalo otra vez."</string>
     <string name="additional_permissions">Permisos adicionales</string>
     <string name="ads">Publicidad</string>
     <string name="ads_install_button">Instalar</string>
@@ -47,7 +47,7 @@
     <string name="all_permissions">Todos los permisos</string>
     <string name="am">AM</string>
     <string name="anonymous_source_continue">Continuar</string>
-    <string name="anonymous_source_warning">Tu teléfono y datos personales son más vulnerables a ataques por apps desconocidas. Instalando esta app, estás de acuerdo en que eres responsable por cualquier daño a tu teléfono o pérdida de datos que pueda resultar de su uso.</string>
+    <string name="anonymous_source_warning">Tu dispositivo y datos personales son más vulnerables a ataques por aplicaciones desconocidas. Instalando ésta, te haces responsable de cualquier daño a tu dispositivo o pérdida de datos que pueda resultar de su uso.</string>
     <string name="anonymous_source_warning_tablet">Sus dispositivos y datos personales son más vulnerables a los ataques de aplicaciones desconocidas. Al instalar esta aplicación, acepta que es responsable de cualquier daño a sus dispositivos o pérdida de datos que pueda resultar de su uso.</string>
     <string name="app_install_failed_button_text">Buscar por apps</string>
     <string name="app_name">Instalador de paquetes</string>
@@ -147,7 +147,7 @@
     <string name="install_confirm_dialog_positive_button">Instalar</string>
     <string name="install_confirm_dialog_title">Atención</string>
     <string name="install_confirm_question">¿Quieres instalar esta app? Tendrá acceso a:</string>
-    <string name="install_confirm_question_des_10">"Si deseas tomar los riesgos y quieres continuar con la instalación, autoriza la instalación en Seguridad &gt; Administrar aplicaciones &gt; Permisos &gt; Apps con posibles riegos. Si no puedes encontrar \"Apps con posibles riegos\", actualiza tu app de Seguridad e intenta nuevamente."</string>
+    <string name="install_confirm_question_des_10">"Si deseas asumir los riesgos y continuar la instalación, autorízala en Seguridad &gt; Administrar aplicaciones &gt; Permisos &gt; Apps con posibles riegos. Si no encuentras esa opción, debes actualizar la aplicación Seguridad e intentarlo otra vez."</string>
     <string name="install_confirm_question_des_10_tablet">"Si está dispuesto a correr riesgos y desea continuar con la instalación, autorice la instalación en Seguridad &gt; Administrar aplicaciones &gt; Permisos &gt; Aplicaciones con posibles riesgos. Si no puede encontrar \"Aplicaciones con posibles riesgos\", actualice su aplicación de seguridad y vuelva a intentarlo."</string>
     <string name="install_confirm_question_no_perms">"¿Quieres instalar esta app? No necesita ningún permiso especial."</string>
     <string name="install_confirm_question_update">"¿Quieres instalar una actualización a la app existente? Los datos de la app no se perderán. La aplicación actualizada obtendrá acceso a:"</string>
@@ -160,18 +160,18 @@
     <string name="install_control_cancel_vip_account_install">Salir</string>
     <string name="install_control_continue_install">Instalar de todos modos</string>
     <string name="install_control_lite_mode_explain_des">Esta app proviene de una fuente desconocida y podría no funcionar en modo Lite.</string>
-    <string name="install_control_lite_mode_solution_des">"Puedes elegir instalar esta app de todas formas.
-    Opcionalmente, puedes desactivar el modo Lite e intentar nuevamente."</string>
+    <string name="install_control_lite_mode_solution_des">"Puedes optar por instalar esta app de todos modos.
+Opcionalmente, puedes desactivar el modo Lite e intentarlo otra vez."</string>
     <string name="install_control_normal_mode_explain_des">"No puedes instalar esta app debido a restricciones legales"</string>
     <string name="install_control_vip_account_install">Solicitar Beta</string>
     <string name="install_done">App instalada.</string>
     <string name="install_failed">"No se pudo instalar la app"</string>
     <string name="install_failed_blocked">El paquete fue bloqueado de ser instalado.</string>
     <string name="install_failed_conflict">El paquete entra en conflicto con un paquete existente con el mismo nombre.</string>
-    <string name="install_failed_incompatible">"Esta app no es compatible con tu teléfono."</string>
+    <string name="install_failed_incompatible">"Esta aplicación no es compatible con el dispositivo."</string>
     <string name="install_failed_incompatible_tablet">"Esta aplicación no es compatible con su dispositivo."</string>
     <string name="install_failed_invalid_apk">El paquete parece estar corrupto.</string>
-    <string name="install_failed_msg">"%1$s no se pudo instalar en tu teléfono."</string>
+    <string name="install_failed_msg">"%1$s no se pudo instalar en tu dispositivo."</string>
     <string name="install_failed_msg_tablet">"%1$s no se pudo instalar en su dispositivo."</string>
     <string name="install_failed_system_incompatible">"Esta app no es compatible con MIUI"</string>
     <string name="install_finished_notification_summary">Toca para liberar espacio</string>
@@ -231,11 +231,11 @@
     <string name="miui_failed_parse">"No se pudo analizar el paquete de instalación"</string>
     <string name="miui_failed_permission_model_downgrade">"No se pueden degradar los permisos"</string>
     <string name="miui_failed_solution_1">Desinstala la versión actual de esta app y vuelve a instalarla.</string>
-    <string name="miui_failed_solution_2">El paquete de instalación puede estar dañado. Descarga la app nuevamente.</string>
+    <string name="miui_failed_solution_2">El paquete de instalación puede estar dañado. Descarga la app otra vez.</string>
     <string name="miui_failed_solution_3">Intenta guardar el paquete de instalación en una ubicación diferente.</string>
-    <string name="miui_failed_solution_4">Libera espacio de almacenamiento en Seguridad &gt; Limpiador e intenta de nuevo.</string>
+    <string name="miui_failed_solution_4">Libera espacio de almacenamiento en Seguridad &gt; Limpiador e inténtalo otra vez.</string>
     <string name="miui_failed_solution_5">Intenta usar un paquete de instalación compatible.</string>
-    <string name="miui_failed_solution_6">Desinstala esta app en el Segundo espacio e intenta nuevamente.</string>
+    <string name="miui_failed_solution_6">Desinstala esta app en el Segundo espacio e inténtalo otra vez.</string>
     <string name="miui_failed_solution_7">Descargua la última versión de esta app en GetApps.</string>
     <string name="miui_failed_solution_8">Descargue la aplicación de una fuente confiable.</string>
     <string name="miui_failed_system_incompatible">Paquete de instalación incompatible</string>
@@ -272,9 +272,9 @@
     <string name="miui_solution_clean">Borrar basura</string>
     <string name="miui_solution_msg">Solución</string>
     <string name="miui_solution_msg_2">Solución</string>
-    <string name="miui_uninstall_success">Desinstalado exitosamente</string>
+    <string name="miui_uninstall_success">Desinstalado</string>
     <string name="miui_uninstalling">Desinstalando....</string>
-    <string name="miui_virus_deleted">Virus eliminados con éxito</string>
+    <string name="miui_virus_deleted">Se han eliminado los virus</string>
     <string name="miui_virus_install">&lt;u&gt;Instalar de todas formas&lt;/u&gt;</string>
     <string name="miui_virus_scanning">Escaneando…</string>
     <string name="miui_virus_scanning_0">Escaneando   </string>
@@ -297,7 +297,7 @@
     <string name="miuix_appcompat_select_all_description">Seleccionar todo</string>
     <string name="miuix_appcompat_select_item">Seleccionar elementos</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tira hacia abajo para actualizar</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado exitosamente</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualizando...</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Suelta para actualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Eso es todo por ahora"</string>
@@ -370,7 +370,7 @@
     <string name="perm_action_reject">Denegar</string>
     <string name="perm_notice">Alerta</string>
     <string name="perm_privacy_app_finish">HECHO</string>
-    <string name="perm_privacy_app_installed">Aplicación instalada con éxito</string>
+    <string name="perm_privacy_app_installed">Se ha instalado la aplicación</string>
     <string name="perm_privacy_app_launch">Iniciar</string>
     <string name="perm_privacy_app_trust">Solicitar permiso</string>
     <string name="perm_privacy_app_trust_summary">Avisarme cuando esta app esté intentando acceder a otras partes del sistema</string>
@@ -426,7 +426,7 @@
     <string name="settings_warning_dialog_detail">\"Se te preguntará en los siguientes casos:
     \"&lt;li&gt;Cuando una app contiene virus.&lt;/li&gt;\"
     \"&lt;li&gt;El paquete de instalación proviene de una fuente desconocida.&lt;/li&gt;</string>
-    <string name="settings_warning_dialog_msg">"Tu teléfono es propenso a riesgos de seguridad. No se te pedirá que instales versiones seguras de la app si desactivas esta función. ¿Apagar de todos modos?"</string>
+    <string name="settings_warning_dialog_msg">"Tu dispositivo es propenso a riesgos de seguridad. No se te pedirá que instales versiones seguras de la aplicación si desactivas esta función. ¿Desactivarla de todos modos?"</string>
     <string name="settings_warning_dialog_msg_tablet">"Su dispositivo es propenso a riesgos de seguridad. No se le pedirá que instale versiones seguras de la aplicación si desactiva esta función. ¿Apagar de todos modos?"</string>
     <string name="settings_warning_dialog_title">Atención</string>
     <string name="size_byte">B</string>
@@ -524,7 +524,7 @@
     <string name="uninstall_blocked_device_owner">"El administrador de tu dispositivo requiere esta app y no se puede desinstalar."</string>
     <string name="uninstall_blocked_profile_owner">"Esta app es necesaria para tu perfil y no se puede desinstalar."</string>
     <string name="uninstall_confirm_question">¿Desinstalar esta app?</string>
-    <string name="uninstall_done">Desinstalado exitosamente</string>
+    <string name="uninstall_done">Desinstalado</string>
     <string name="uninstall_failed">"No se pudo desinstalar"</string>
     <string name="uninstall_failed_device_policy_manager">"No se puede desinstalar porque este paquete es un administrador de dispositivo activo."</string>
     <string name="uninstall_failed_device_policy_manager_of_user">"No se puede desinstalar porque este paquete es un administrador de dispositivo activo para el usuario/a %1$s."</string>

@@ -138,7 +138,7 @@ Si este permiso está desactivado, las alarmas existentes y los eventos basados 
     <string name="allow_mock_location_summary">Permitir ubicaciones simuladas</string>
     <string name="already_auto">Ya estás en la selección automática.</string>
     <string name="always_enable_mms">Recibir siempre MMS</string>
-    <string name="always_enable_mms_summary">Recibir MMS incluso cuando la conexión de datos móviles está desactivada</string>
+    <string name="always_enable_mms_summary">Recibe MMS incluso con la conexión de datos móviles desactivada</string>
     <string name="am">AM</string>
     <string name="ambulance_type_description">Ambulancia</string>
     <string name="animator_duration_scale_title">Escala de duración de animación</string>
@@ -200,9 +200,9 @@ Si este permiso está desactivado, las alarmas existentes y los eventos basados 
     <string name="available_via_carrier">Disponible a través de %1$s</string>
     <string name="available_via_passpoint">Disponible a través de %1$s</string>
     <string name="back">Volver</string>
-    <string name="badPin">"El código PIN antiguo que has introducido no es correcto. Inténtalo de nuevo."</string>
-    <string name="badPin2">PIN2 anterior incorrecto. Inténtalo de nuevo.</string>
-    <string name="badPuk2">PUK2 incorrecto. Inténtalo de nuevo.</string>
+    <string name="badPin">"El código PIN anterior que has escrito no es correcto. Inténtalo otra vez."</string>
+    <string name="badPin2">PIN2 anterior incorrecto. Inténtalo otra vez.</string>
+    <string name="badPuk2">PUK2 incorrecto. Inténtalo otra vez.</string>
     <string name="bad_pin">El PIN introducido es incorrecto.</string>
     <string name="bad_pin2">El PIN2 introducido es incorrecto.</string>
     <string name="bad_pin2_old">El antiguo PIN2 introducido es incorrecto.</string>
@@ -246,7 +246,7 @@ Si este permiso está desactivado, las alarmas existentes y los eventos basados 
     <string name="bluetooth_disable_absolute_volume_summary">Inhabilitar la función de volumen absoluto de Bluetooth si se producen problemas de volumen con dispositivos remotos (por ejemplo, volumen demasiado alto o falta de control)</string>
     <string name="bluetooth_disconnected">Desconectado</string>
     <string name="bluetooth_disconnecting">Desconectando…</string>
-    <string name="bluetooth_enable_gabeldorsche">Habilitar Gabeldorsche</string>
+    <string name="bluetooth_enable_gabeldorsche">Activar Gabeldorsche</string>
     <string name="bluetooth_enable_gabeldorsche_summary">Habilita la pila de funciones de Bluetooth Gabeldorsche.</string>
     <string name="bluetooth_headset_profile_summary_connected">Conectado al audio del teléfono</string>
     <string name="bluetooth_headset_profile_summary_use_for">Utilizar para audio del teléfono</string>
@@ -290,21 +290,21 @@ Si este permiso está desactivado, las alarmas existentes y los eventos basados 
     <string name="bluetooth_profile_sap">Acceso a tarjeta SIM</string>
     <string name="bluetooth_sap_profile_summary_connected">Conectado a SAP</string>
     <string name="bluetooth_sap_profile_summary_use_for">Utilizar para acceso a tarjeta SIM</string>
-    <string name="bluetooth_select_a2dp_codec_bits_per_sample">Bits por muestra del audio Bluetooth</string>
-    <string name="bluetooth_select_a2dp_codec_bits_per_sample_dialog_title">"Activar el códec de audio por Bluetooth
-Selección: bits por muestra"</string>
-    <string name="bluetooth_select_a2dp_codec_channel_mode">Modo de canal de audio de Bluetooth</string>
-    <string name="bluetooth_select_a2dp_codec_channel_mode_dialog_title">"Activar el códec de audio por Bluetooth
-Selección: modo de canal"</string>
-    <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">Códec de audio LDAC de Bluetooth: calidad de reproducción</string>
-    <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"Activar LDAC de audio por Bluetooth
-Selección de códec: calidad de reproducción"</string>
-    <string name="bluetooth_select_a2dp_codec_sample_rate">Frecuencia de muestreo de audio de Bluetooth</string>
-    <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">"Activar el códec de audio por Bluetooth
-Selección: frecuencia de muestreo"</string>
+    <string name="bluetooth_select_a2dp_codec_bits_per_sample">Bluetooth: Bits por muestra de audio</string>
+    <string name="bluetooth_select_a2dp_codec_bits_per_sample_dialog_title">"Activar códec de audio Bluetooth
+Selección: Bits por muestra"</string>
+    <string name="bluetooth_select_a2dp_codec_channel_mode">Bluetooth: Modo de canal de audio</string>
+    <string name="bluetooth_select_a2dp_codec_channel_mode_dialog_title">"Activar códec de audio Bluetooth
+Selección: Modo de canal"</string>
+    <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">Bluetooth: Códec LDAC de audio: Calidad de reproducción</string>
+    <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"Activar Bluetooth Audio LDAC
+Selección: Calidad de reproducción"</string>
+    <string name="bluetooth_select_a2dp_codec_sample_rate">Bluetooth: Frecuencia de muestreo de audio</string>
+    <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">"Activar códec de audio Bluetooth
+Selección: Frecuencia de muestreo"</string>
     <string name="bluetooth_select_a2dp_codec_streaming_label">Streaming: %1$s</string>
-    <string name="bluetooth_select_a2dp_codec_type">Códec de audio de Bluetooth</string>
-    <string name="bluetooth_select_a2dp_codec_type_dialog_title">"Activar el códec de audio por Bluetooth
+    <string name="bluetooth_select_a2dp_codec_type">Bluetooth: Códec de audio</string>
+    <string name="bluetooth_select_a2dp_codec_type_dialog_title">"Activar códec de audio Bluetooth
 Selección"</string>
     <string name="bluetooth_select_a2dp_codec_type_help_info">Si una opción aparece atenuada, no es compatible con el teléfono o los auriculares</string>
     <string name="bluetooth_select_avrcp_version_dialog_title">Selecciona la versión AVRCP de Bluetooth</string>
@@ -332,12 +332,12 @@ Selección"</string>
     <string name="cached_apps_freezer_enabled">Habilitado</string>
     <string name="cached_apps_freezer_reboot_dialog_text">Es necesario reiniciar tu dispositivo para que se apliquen los cambios. Reinicia ahora o cancela la acción.</string>
     <string name="callEnded_pulled">Se ha transferido la llamada a otro dispositivo.</string>
-    <string name="callFailed_NetworkBusy">La red está ocupada. Intenta llamar de nuevo más tarde.</string>
+    <string name="callFailed_NetworkBusy">La red está ocupada. Intenta llamar más tarde.</string>
     <string name="callFailed_NetworkCongested">La red está saturada. Ponte en contacto con tu operador de telefonía móvil para solicitar ayuda.</string>
     <string name="callFailed_QOS_unavailable">Calidad de servicio no disponible</string>
     <string name="callFailed_access_information_discarded">Información de acceso descartada</string>
     <string name="callFailed_already_dialing">No se puede llamar porque ya se está realizando otra llamada.</string>
-    <string name="callFailed_already_ringing">No se puede llamar porque hay una llamada entrante sin responder. Contéstala o recházala para poder llamar de nuevo.</string>
+    <string name="callFailed_already_ringing">No se puede llamar, ya que hay una llamada entrante sin responder. Contéstala o recházala para llamar otra vez.</string>
     <string name="callFailed_bearer_capability_not_authorized">Capacidad portadora no autorizada</string>
     <string name="callFailed_bearer_capability_unavailable">Capacidad portadora no disponible actualmente</string>
     <string name="callFailed_bearer_service_not_implemented">Servicio portador no implementado</string>
@@ -418,7 +418,7 @@ Selección"</string>
     <string name="callFailed_switching_equipment_congestion">Congestión de equipos de conmutación</string>
     <string name="callFailed_tempopary_failure">Fallo temporal</string>
     <string name="callFailed_timedOut">No hay respuesta; se ha agotado el tiempo de espera</string>
-    <string name="callFailed_too_many_calls">No se puede llamar porque ya hay dos llamadas en curso. Interrumpe una de ellas o combínalas en una conferencia para poder llamar de nuevo.</string>
+    <string name="callFailed_too_many_calls">No se puede llamar, ya que hay dos llamadas en curso. Desconecta una de ellas o combínalas en conferencia para llamar otra vez.</string>
     <string name="callFailed_unobtainable_number">Número no válido</string>
     <string name="callFailed_userBusy">Línea ocupada</string>
     <string name="callFailed_user_not_member_of_CUG">Usuario no miembro de CUG</string>
@@ -664,7 +664,7 @@ Selección"</string>
     <string name="connect_disconnect_vibrate_summary">"Vibrar cuando el destinatario conteste a la llamada"</string>
     <string name="connect_disconnect_vibrate_title">Vibrar cuando se conteste la llamada</string>
     <string name="connect_disconnect_vibrate_weak">Suave</string>
-    <string name="connect_later">"No se puede conectar a la red en este momento. Inténtalo de nuevo más tarde."</string>
+    <string name="connect_later">"No se puede conectar a la red ahora. Inténtalo más tarde."</string>
     <string name="connected_to_metered_access_point">Conectado a una red medida</string>
     <string name="connected_via_app">Conectado a través de %1$s</string>
     <string name="connected_via_carrier">Conectado a través de %1$s</string>
@@ -700,7 +700,7 @@ Selección"</string>
     <string name="data_disable_warning_no_mms">"No podrás enviar y recibir MMS si desactivas los datos móviles (WCDMA/LTE). Sin embargo, podrás hacerlo cuando tu dispositivo esté conectado al Wi-Fi."</string>
     <string name="data_disable_warning_with_mms">"Todavía podrás enviar y recibir MMS si desactivas los datos móviles (WCDMA/LTE). Conéctate al Wi-Fi para usar internet."</string>
     <string name="data_enable_always_warn">Preguntar si quiero usar datos móviles</string>
-    <string name="data_enable_summary">Permitir a este dispositivo utilizar datos móviles</string>
+    <string name="data_enable_summary">Permite que este dispositivo use datos móviles</string>
     <string name="data_enable_warning">Permitir siempre usar datos móviles podría generar gastos adicionales a tu plan. ¿Conectar de todas formas?</string>
     <string name="data_enabled">Datos móviles</string>
     <string name="data_interruption_remind">"Parece que el entorno de la red no es fiable. Para mejor conexión, permite a tu dispositivo usar datos móviles durante las llamadas VoLTE en la SIM secundaria."</string>
@@ -783,7 +783,7 @@ Selección"</string>
     <string name="dialog_ota_change_number_lgu">¿Descargar USIM ahora?</string>
     <string name="dialog_ota_change_number_lgu_roaming">"No se pueden cambiar los números de teléfono en el extranjero."</string>
     <string name="dialog_ota_change_number_processing">Descargando USIM…</string>
-    <string name="dialog_ota_change_number_success">Número de teléfono cambiado con éxito</string>
+    <string name="dialog_ota_change_number_success">Número de teléfono cambiado</string>
     <string name="dialog_report">Reportar</string>
     <string name="direct_boot_unaware_dialog_message">"Nota: Después de reiniciar, tienes que desbloquear el teléfono para que esta aplicación se pueda iniciar"</string>
     <string name="disable">Desactivar</string>
@@ -800,7 +800,7 @@ Selección"</string>
     <string name="disable_fdn">Inhabilitar FDN</string>
     <string name="disable_fdn_ok">Habilitar FDN</string>
     <string name="disable_overlays">Inhabilitar superposiciones de hardware</string>
-    <string name="disable_overlays_summary">Usar siempre la GPU para componer pantallas</string>
+    <string name="disable_overlays_summary">Siempre se usará la GPU para renderizar la pantalla</string>
     <string name="disable_pin_ok">PIN borrado</string>
     <string name="disable_sim_pin">Borrar PIN de la SIM</string>
     <string name="disabled">Inhabilitada</string>
@@ -808,7 +808,7 @@ Selección"</string>
     <string name="disabled_by_admin_summary_text">Controlada por el administrador</string>
     <string name="display_name_summary">&lt;Igual que el nombre de usuario&gt;</string>
     <string name="display_name_title">Nombre visible</string>
-    <string name="do_not_show_again">"No mostrar de nuevo"</string>
+    <string name="do_not_show_again">"No mostrar otra vez"</string>
     <string name="domain_address_title">Servidor</string>
     <string name="doneButton">Listo</string>
     <string name="dsda_summary">El modo de espera de doble SIM 5G+4G es compatible con redes seleccionadas</string>
@@ -828,25 +828,25 @@ Selección"</string>
     <string name="early_morning">Mañana</string>
     <string name="edit_fdn_contact">Editar número de marcación fija</string>
     <string name="emergencyDialerIconLabel">Llamada de emergencia</string>
-    <string name="emergency_action_launch_hint">Toca de nuevo para abrir</string>
+    <string name="emergency_action_launch_hint">Pulsa otra vez para abrir</string>
     <string name="emergency_broadcast_disable">Difusión de emergencia inhabilitada</string>
     <string name="emergency_broadcast_enable">Difusión de emergencia habilitada</string>
     <string name="emergency_call_area_code_edit_dialog_button">Llamar</string>
     <string name="emergency_call_area_code_edit_dialog_hint">Introduzca prefijo</string>
-    <string name="emergency_call_shortcut_hint">Tocar de nuevo para llamar al %s</string>
+    <string name="emergency_call_shortcut_hint">Pulsa otra vez para llamar al %s</string>
     <string name="emergency_enable_radio_dialog_message">Activando señal móvil…</string>
     <string name="emergency_enable_radio_dialog_retry">Sin servicio. Reintentado…</string>
     <string name="emergency_enable_radio_dialog_title">Llamada de emergencia</string>
-    <string name="emergency_information_confirm_hint">Tocar de nuevo para ver la información</string>
+    <string name="emergency_information_confirm_hint">Pulsa otra vez para ver la información</string>
     <string name="emergency_information_hint">Información de emergencia</string>
     <string name="emergency_information_owner_hint">Propietario</string>
     <string name="emergency_medical_records">Registros médicos</string>
     <string name="emm_cause_11">"La operadora actual no soporta este servicio."</string>
     <string name="emm_cause_14">"La operadora actual no soporta servicios de datos móviles."</string>
-    <string name="emm_cause_2">"No se pudo registrar el número de teléfono. Apaga tu dispositivo, después vuelve a encenderlo e inténtalo de nuevo."</string>
-    <string name="emm_cause_3">"No se pudo verificar el usuario. Apaga tu dispositivo, después vuelve a encenderlo e inténtalo de nuevo."</string>
-    <string name="emm_cause_6">"No se pudo verificar el dispositivo. Apaga tu dispositivo, después vuelve a encenderlo e inténtalo de nuevo."</string>
-    <string name="emm_cause_7_8_12_13_15_16_17_22">"No puede usar roaming. Reinicie el dispositivo e intentelo de nuevo. Si aún sigue con este problema, póngase en contacto con el servicio de atención al cliente de su operadora (SKT: + 82-2-6346-9000)."</string>
+    <string name="emm_cause_2">"No se pudo registrar el número de teléfono. Apaga el dispositivo, vuelve a encenderlo e inténtalo otra vez."</string>
+    <string name="emm_cause_3">"No se pudo verificar el usuario. Apaga el dispositivo, vuelve a encenderlo e inténtalo otra vez."</string>
+    <string name="emm_cause_6">"No se pudo verificar el dispositivo. Apágalo, vuelve a encenderlo e inténtalo otra vez."</string>
+    <string name="emm_cause_7_8_12_13_15_16_17_22">"No puedes usar roaming. Reinicia el dispositivo e inténtalo otra vez. Si aún continúa el problema, contacta con el servicio de atención al cliente del operador (SKT: + 82-2-6346-9000)."</string>
     <string name="empty_alert">"El campo %s es obligatorio y no se puede dejar en blanco."</string>
     <string name="empty_networks_list">No se ha encontrado ninguna red.</string>
     <string name="enable">Activar</string>
@@ -888,10 +888,10 @@ Selección"</string>
     <string name="enable_esim_title">Usar eSIM</string>
     <string name="enable_fdn">Habilitar FDN</string>
     <string name="enable_fdn_ok">Inhabilitar FDN</string>
-    <string name="enable_freeform_support">Habilitar ventanas de forma libre</string>
-    <string name="enable_freeform_support_summary">Habilitar la opción para utilizar ventanas de forma libre experimentales</string>
+    <string name="enable_freeform_support">Habilitar ventanas flexibles</string>
+    <string name="enable_freeform_support_summary">Activa el soporte experimental para ventanas flexibles.</string>
     <string name="enable_gpu_debug_layers">Activar capas de depuración de GPU</string>
-    <string name="enable_gpu_debug_layers_summary">Permitir cargar capas de depuración de GPU en aplicaciones</string>
+    <string name="enable_gpu_debug_layers_summary">Permite cargar capas de depuración de GPU para depurar aplicaciones</string>
     <string name="enable_in_progress">Estableciendo PIN…</string>
     <string name="enable_opengl_traces_title">Habilitar seguimiento OpenGL</string>
     <string name="enable_pin">Habilitar/inhabilitar PIN de tarjeta SIM</string>
@@ -918,7 +918,7 @@ Selección"</string>
     <string name="enter_callbarring_password">Introduce una contraseña para la restricción de llamadas (%d dígitos)</string>
     <string name="enter_esim_manager">Administrar eSIM</string>
     <string name="enter_esim_manager_title">Administrar eSIM</string>
-    <string name="enter_input">El mensaje USSD debe tener entre %1$d y %2$d caracteres. Inténtalo de nuevo.</string>
+    <string name="enter_input">El mensaje USSD debe tener entre %1$d y %2$d caracteres. Inténtalo otra vez.</string>
     <string name="enter_pin2_text">PIN2</string>
     <string name="enter_pin_text">PIN de la tarjeta SIM:</string>
     <string name="entertainment_news_settings">Noticias de entretenimiento</string>
@@ -934,6 +934,7 @@ Selección"</string>
     <string name="esim_inactive_notification_message_global">No se detectó ninguna tarjeta SIM. Toca para activar la eSIM.</string>
     <string name="esim_inactive_notification_title_global">Redes móviles &amp; Dual SIM</string>
     <string name="esim_inactive_settings_title">SIM dual &amp; redes móviles</string>
+    <string name="esim_is_activating_notification_message_for_o2">Activando el plan móvil…</string>
     <string name="esim_setting_title">Configuración de eSIM</string>
     <string name="evening">Tarde</string>
     <string name="exception_error">Error en la tarjeta SIM o en la red.</string>
@@ -953,7 +954,7 @@ Selección"</string>
     <string name="fdn_contact_deleted">Se ha eliminado el número de marcación fija.</string>
     <string name="fdn_contact_updated">Se ha actualizado el número de marcación fija.</string>
     <string name="fdn_disabled">Los números de marcación fija están inhabilitados</string>
-    <string name="fdn_enable_puk2_requested">Contraseña incorrecta, PIN2 bloqueado. Cambie el PIN2 e inténtelo de nuevo.</string>
+    <string name="fdn_enable_puk2_requested">Contraseña incorrecta, PIN2 bloqueado. Cambia el PIN2 e inténtalo otra vez.</string>
     <string name="fdn_enabled">Los números de marcación fija están habilitados</string>
     <string name="fdn_failed">Error de funcionamiento de número de marcación fija.</string>
     <string name="fdn_full">"FDN no se ha actualizado debido a que la lista está llena."</string>
@@ -964,7 +965,7 @@ Selección"</string>
     <string name="fire_type_description">Bomberos</string>
     <string name="fiveg_available_status1">NR disponible:</string>
     <string name="fiveg_bearer_status1">Estado de portador de 5G:</string>
-    <string name="fiveg_carrier_aggregation_title">Agregación de portadores 5G</string>
+    <string name="fiveg_carrier_aggregation_title">Agregación de portadoras 5G</string>
     <string name="fiveg_endc_available1">NR ENDC disponible:</string>
     <string name="fiveg_endc_status1">Estado de Endc:</string>
     <string name="fiveg_hosted_mode_summary">Selecciona la mejor red automáticamente para ahorrar batería</string>
@@ -976,7 +977,7 @@ Selección"</string>
     <string name="fiveg_network_mode_title">Selecciona el modo de red 5G</string>
     <string name="fiveg_network_title">Redes 5G</string>
     <string name="fiveg_nrca_switch_summary">Usa la agregación de operadores 5G para una mejor conectividad</string>
-    <string name="fiveg_nrca_switch_title">Agregación de portadores 5G</string>
+    <string name="fiveg_nrca_switch_title">Agregación de portadoras 5G</string>
     <string name="fiveg_plmn_info_list1">Lista de información PLMN:</string>
     <string name="fiveg_power_switch_summary">Hacer que la conectividad 5G consuma menos energía en ciertos escenarios</string>
     <string name="fiveg_power_switch_title">Ahorro de batería 5G</string>
@@ -1008,14 +1009,14 @@ Selección"</string>
     <string name="forbidden_fakecell">"No se conecte a estaciones base falsas"</string>
     <string name="forbidden_fakecell_summary">Evite que su teléfono se conecte a estaciones base falsas</string>
     <string name="forbidden_network">(prohibida)</string>
-    <string name="force_allow_on_external">Forzar permitir aplicaciones de forma externa</string>
-    <string name="force_allow_on_external_summary">Hacer que cualquier aplicación se pueda escribir en un dispositivo de almacenamiento externo independientemente de los valores definidos</string>
+    <string name="force_allow_on_external">Permitir aplicaciones externas</string>
+    <string name="force_allow_on_external_summary">Hace que cualquier aplicación pueda grabarse en el almacenamiento externo, a pesar de los valores definidos</string>
     <string name="force_msaa">Forzar MSAA 4x</string>
     <string name="force_msaa_summary">Habilitar MSAA 4x en aplicaciones de OpenGL ES 2.0</string>
     <string name="force_resizable_activities">Forzar el ajuste de tamaño de las actividades</string>
     <string name="force_resizable_activities_summary">Hacer que el tamaño de todas las actividades se pueda ajustar para el modo multiventana independientemente de los valores definidos</string>
     <string name="force_rtl_layout_all_locales">Forzar dirección de diseño RTL</string>
-    <string name="force_rtl_layout_all_locales_summary">Forzar dirección RTL para todos los idiomas</string>
+    <string name="force_rtl_layout_all_locales_summary">Fuerza la escritura de derecha a izquierda para todos los idiomas</string>
     <string name="forced_to_display">Forzar cierre</string>
     <string name="forced_to_hide">Forzar ocultar</string>
     <string name="four_point_five_switch_summary">Utilice 4.5G para aumentar la velocidad de conexión de datos móviles y mejorar la calidad de voz</string>
@@ -1156,13 +1157,13 @@ esperando para el código de desbloqueo"</string>
     <string name="kr_emergency_125">Informe de contrabando (125)</string>
     <string name="kr_emergency_message">Confirme para marcar %s. ¿Marcar ahora?</string>
     <string name="kr_emergency_with_number">Ingrese el número de teléfono para marcar</string>
-    <string name="kt_lte_emm_cause_19_22">Registrando red… Espera un minuto o dos y vuelve a intentarlo.</string>
-    <string name="kt_lte_emm_cause_3">"No se pudo verificar el usuario. Apaga tu dispositivo, después vuelve a encenderlo e inténtalo de nuevo. Si todavía encuentras algún problema, visita un centro de atención al cliente."</string>
+    <string name="kt_lte_emm_cause_19_22">Registrando red… Espera un par de minutos e inténtalo otra vez.</string>
+    <string name="kt_lte_emm_cause_3">"No se pudo verificar el usuario. Apaga el dispositivo, vuelve a encenderlo e inténtalo otra vez. Si continúas con problemas, visita un centro de atención al cliente."</string>
     <string name="kt_lte_emm_cause_6">"No se pudo verificar el dispositivo. Reinicia tu dispositivo 2 o 3 veces después de instalar la nueva tarjeta USIM. Si todavía encuentras algún problema, visita un centro de atención al cliente."</string>
     <string name="kt_lte_emm_cause_8">Se requiere activación. Visita un centro de atención al cliente.</string>
     <string name="kt_lte_emm_cause_others">"No se pudo registrar la red"</string>
-    <string name="kt_lte_msim_emm_cause_19_22">La SIM %d está registrando la red… Espera un minuto o dos y vuelve a intentarlo.</string>
-    <string name="kt_lte_msim_emm_cause_3">"La SIM %d no pudo verificar el usuario. Apaga tu dispositivo, después vuelve a encenderlo e inténtalo de nuevo. Si todavía encuentras algún problema, visita un centro de atención al cliente."</string>
+    <string name="kt_lte_msim_emm_cause_19_22">La SIM %d está registrando red… Espera un par de minutos e inténtalo otra vez.</string>
+    <string name="kt_lte_msim_emm_cause_3">"La SIM %d no pudo verificar el usuario. Apaga el dispositivo, vuelve a encenderlo e inténtalo otra vez. Si continúas con problemas, visita un centro de atención al cliente."</string>
     <string name="kt_lte_msim_emm_cause_6">"La SIM %d no pudo verificar el dispositivo. Si todavía encuentras algún problema, visita un centro de atención al cliente."</string>
     <string name="kt_lte_msim_emm_cause_8">La SIM %d requiere ser activada. Visita un centro de atención al cliente.</string>
     <string name="kt_lte_msim_emm_cause_others">"La SIM %d no pudo registrar la red"</string>
@@ -1197,11 +1198,11 @@ esperando para el código de desbloqueo"</string>
     <string name="lable_network_not_supported">"La red no es compatible"</string>
     <string name="lafs_disable">Horarios de vuelos del aeropuerto local inhabilitados</string>
     <string name="lafs_enable">Horarios de vuelos del aeropuerto local habilitados</string>
-    <string name="last_sim_callback_summary">Al hacer llamadas desde el historial de llamadas, usa una tarjeta SIM que se haya usado en la llamada anterior con este contacto</string>
+    <string name="last_sim_callback_summary">Llama desde el historial usando la misma SIM utilizada en una llamada anterior con el contacto</string>
     <string name="last_sim_callback_title">Recordar preferencias SIM</string>
     <string name="launch_defaults_none">No se han establecido opciones predeterminadas</string>
     <string name="launch_defaults_some">Se han establecido algunos valores predeterminados</string>
-    <string name="lgu_emm_16_17_22">Registrando red… Espera un minuto o dos y vuelve a intentarlo.</string>
+    <string name="lgu_emm_16_17_22">Registrando red… Espera un par de minutos e inténtalo otra vez.</string>
     <string name="lgu_emm_cause_11_12_13_15">"No se pudo registrar la red"</string>
     <string name="lgu_emm_cause_2">Se requiere activación. Visita un centro de atención al cliente (+82-2-3416-7010).</string>
     <string name="lgu_emm_cause_3">"No se pudo verificar el usuario. Visita un centro de atención al cliente (+82-2-3416-7010)."</string>
@@ -1210,7 +1211,7 @@ esperando para el código de desbloqueo"</string>
     <string name="lgu_emm_cause_8">"No se pudo registrar la red. Visita un centro de atención al cliente (+82-2-3416-7010)."</string>
     <string name="lgu_emm_cause_others">"No se puede conectar a la red. Visita un centro de atención al cliente (+82-2-3416-7010)."</string>
     <string name="lgu_msim_emm_cause_11_12_13_15">"La SIM %d no pudo registrar la red"</string>
-    <string name="lgu_msim_emm_cause_16_17_22">La SIM %d está registrando la red… Espera un minuto o dos y vuelve a intentarlo.</string>
+    <string name="lgu_msim_emm_cause_16_17_22">La SIM %d está registrando red… Espera un par de minutos e inténtalo otra vez.</string>
     <string name="lgu_msim_emm_cause_2">La SIM %d requiere ser activada. Visita un centro de atención al cliente (+82-2-3416-7010).</string>
     <string name="lgu_msim_emm_cause_3">"La SIM %d no pudo verificar el usuario. Visita un centro de atención al cliente (+82-2-3416-7010)."</string>
     <string name="lgu_msim_emm_cause_6">"La SIM %d no pudo verificar el dispositivo. Visita un centro de atención al cliente (+82-2-3416-7010)."</string>
@@ -1228,7 +1229,7 @@ esperando para el código de desbloqueo"</string>
     <string name="local_backup_password_summary_change">Toca para cambiar o quitar la contraseña de las copias de seguridad completas del escritorio</string>
     <string name="local_backup_password_summary_none">Las copias de seguridad completas de escritorio no están protegidas actualmente</string>
     <string name="local_backup_password_title">Contraseña de respaldo de escritorio</string>
-    <string name="local_backup_password_toast_confirmation_mismatch">La nueva contraseña y la de confirmación no coinciden</string>
+    <string name="local_backup_password_toast_confirmation_mismatch">La contraseña y su confirmación no coinciden</string>
     <string name="local_backup_password_toast_success">Nueva contraseña de seguridad establecida</string>
     <string name="local_backup_password_toast_validation_failure">Error al establecer la contraseña de seguridad</string>
     <string name="local_disable">Noticias locales inhabilitadas</string>
@@ -1282,17 +1283,17 @@ esperando para el código de desbloqueo"</string>
     <string name="mi_mobile_settings_title">Mi Mobile</string>
     <string name="mi_mobile_sim_activate_message">Active SIM %d para poder usar Mi Mobile. Esto puede tardar hasta 5 minutos.</string>
     <string name="mi_mobile_sim_activate_ok">Activar</string>
-    <string name="mi_mobile_sim_activate_title">¡Bienvenido a Mi Mobile!</string>
+    <string name="mi_mobile_sim_activate_title">¡Te damos la bienvenida a Mi Mobile!</string>
     <string name="mi_sim_not_active">"Mi SIM móvil no está activada"</string>
     <string name="mi_sim_not_active_tips">"Mi Mobile es ahora tu SIM secundaria. Parece que no lo has activado durante mucho tiempo. Puede apagar Mi Mobile para que su SIM principal funcione mejor."</string>
     <string name="mi_sim_settings_summary">Utilizar datos móviles sin tarjeta SIM</string>
     <string name="mi_sim_settings_title">SIM Mi</string>
     <string name="midnight">Noche</string>
-    <string name="mismatchPin">"El código PIN que has introducido no coincide. Inténtalo de nuevo."</string>
-    <string name="mismatchPin2">"Los PIN2 no coinciden. Inténtalo de nuevo."</string>
+    <string name="mismatchPin">"El código PIN que has escrito no coincide. Inténtalo otra vez."</string>
+    <string name="mismatchPin2">"Los PIN2 no coinciden. Inténtalo otra vez."</string>
     <string name="mismatch_password">"Las contraseñas que ha introducido no coinciden"</string>
     <string name="mismatch_pin">"Los PIN no coinciden."</string>
-    <string name="mismatch_pin2">"Los PIN2 no coinciden. Inténtelo de nuevo."</string>
+    <string name="mismatch_pin2">"Los PIN2 no coinciden. Inténtalo otra vez."</string>
     <string name="missed_call_notify_five_times">%d veces</string>
     <string name="missed_call_notify_none">No hay recordatorios</string>
     <string name="missed_call_notify_once">%d vez</string>
@@ -1323,7 +1324,7 @@ esperando para el código de desbloqueo"</string>
     <string name="miuix_indexer_collect">Colecciones</string>
     <string name="miuix_indexer_selected">Seleccionado %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Desliza hacia abajo para actualizar</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado con éxito</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualizando…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Suelta para actualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Eso es todo por ahora"</string>
@@ -1447,15 +1448,15 @@ esperando para el código de desbloqueo"</string>
     <string name="msim_disable_sim_card_title">Deje de usar la tarjeta SIM</string>
     <string name="msim_emm_cause_11">"La operadora de la SIM %d no soporta este servicio."</string>
     <string name="msim_emm_cause_14">"La operadora de la SIM %d no soporta servicios de datos móviles."</string>
-    <string name="msim_emm_cause_2">"La SIM %d no pudo registrar el número de teléfono. Apaga tu dispositivo, después vuelve a encenderlo e inténtalo de nuevo."</string>
-    <string name="msim_emm_cause_3">"La SIM %d no pudo verificar el usuario. Apaga tu dispositivo, después vuelve a encenderlo e inténtalo de nuevo."</string>
-    <string name="msim_emm_cause_6">"La SIM %d no pudo verificar el dispositivo. Apaga tu dispositivo, después vuelve a encenderlo e inténtalo de nuevo."</string>
-    <string name="msim_emm_cause_7_8_12_13_15_16_17_22">"La SIM %d ahora no puede usar el roaming. Apaga tu dispositivo, después vuelve a encenderlo e inténtalo de nuevo. Si todavía encuentras algún problema, contacta con el centro de atención al cliente de la operadora (SKT: +82-2-6346-9000)."</string>
+    <string name="msim_emm_cause_2">"La SIM %d no pudo registrar el número de teléfono. Apaga el dispositivo y enciéndelo e inténtalo otra vez."</string>
+    <string name="msim_emm_cause_3">"La SIM %d no pudo verificar el usuario. Apaga el dispositivo y enciéndelo e inténtalo otra vez."</string>
+    <string name="msim_emm_cause_6">"La SIM %d no pudo verificar el dispositivo. Apágalo y enciéndelo e inténtalo otra vez."</string>
+    <string name="msim_emm_cause_7_8_12_13_15_16_17_22">"La SIM %d no puede usar el roaming ahora. Apaga el dispositivo y enciéndelo e inténtalo otra vez. Si aún tienes problemas, contacta con el centro de atención al cliente del operador (SKT: +82-2-6346-9000)."</string>
     <string name="msim_enable_sim">Activar</string>
     <string name="msim_general_setting">Ajustes</string>
     <string name="msim_has_been_disabled">(Desactivado)</string>
-    <string name="msim_info_editor_name">Editar nombre de la tarjeta SIM</string>
-    <string name="msim_info_editor_number">Editar número de la tarjeta SIM</string>
+    <string name="msim_info_editor_name">Editar el nombre de la SIM</string>
+    <string name="msim_info_editor_number">Editar el número de la SIM</string>
     <string name="msim_info_editor_set_name_error">"No se pudo guardar el nombre"</string>
     <string name="msim_mode_progress_activating_message">Activando</string>
     <string name="msim_mode_progress_deactivating_message">Desactivando</string>
@@ -1539,7 +1540,7 @@ esperando para el código de desbloqueo"</string>
     <string name="network_message">Mensaje de red</string>
     <string name="network_mode_updating_title">Tipo de red</string>
     <string name="network_operator_category">Red</string>
-    <string name="network_query_error">"No se ha encontrado ninguna red. Inténtalo de nuevo."</string>
+    <string name="network_query_error">"No se ha encontrado una red. Inténtalo otra vez."</string>
     <string name="network_recommended">" (recomendado)"</string>
     <string name="network_select_title">Red</string>
     <string name="network_settings_auto_select_title">¿Seleccionar red manualmente?</string>
@@ -1671,10 +1672,10 @@ Este proceso puede tardar hasta 5 minutos."</string>
 
 Tras pulsar \"Activar\", escucha las instrucciones sobre cómo activar el teléfono."</string>
     <string name="ota_try_again">Volver a intentarlo</string>
-    <string name="ota_unsuccessful">"El teléfono no se ha activado. 
-Es posible que tengas que situarte en una zona con más cobertura (cerca de una ventana o en el exterior). 
+    <string name="ota_unsuccessful">"El dispositivo no se ha activado. 
+Posiblemente debas situarte en una zona con mejor cobertura (cerca de una ventana o en el exterior). 
 
-Inténtalo de nuevo o ponte en contacto con el servicio de atención al cliente para consultar otras opciones."</string>
+Inténtalo otra vez o contacta con el servicio de atención al cliente para consultar otras opciones."</string>
     <string name="other_available_phone_accounts">Otras cuentas disponibles</string>
     <string name="other_settings">Otras opciones de llamada</string>
     <string name="other_settings_category">Otro</string>
@@ -1774,7 +1775,7 @@ Su teléfono se bloqueará automáticamente después de otro intento fallido"</s
     <string name="ping_test_label">Ejecutar prueba de ping</string>
     <string name="play_voicemail_settings">Reproducir buzón de voz</string>
     <string name="pm">PM</string>
-    <string name="pointer_location">Ubicación del puntero</string>
+    <string name="pointer_location">Mostar ubicación del puntero</string>
     <string name="pointer_location_summary">Superponer los datos de las pulsaciones en la pantalla</string>
     <string name="police_type_description">Policía</string>
     <string name="port_title">Número de puerto</string>
@@ -1883,7 +1884,7 @@ Su teléfono se bloqueará automáticamente después de otro intento fallido"</s
     <string name="private_dns_broken">No se ha podido acceder al servidor DNS privado</string>
     <string name="private_dns_mode_off">Desactivado</string>
     <string name="private_dns_mode_opportunistic">Automático</string>
-    <string name="private_dns_mode_provider">Nombre de host del proveedor de DNS privado</string>
+    <string name="private_dns_mode_provider">Host del DNS privado</string>
     <string name="private_dns_mode_provider_failure">"No se ha podido establecer la conexión"</string>
     <string name="private_dns_mode_provider_hostname_hint">Introduce el host del proveedor de DNS</string>
     <string name="private_num">Número privado</string>
@@ -2129,7 +2130,7 @@ Interfaz UT: %5$s"</string>
     <string name="shared_data_delete_failure_text">No se han podido eliminar los datos compartidos.</string>
     <string name="shared_data_no_accessors_dialog_text">No hay ninguna concesión sobre estos datos compartidos. ¿Quieres eliminarlos?</string>
     <string name="shared_data_no_blobs_text">No hay datos compartidos de este usuario.</string>
-    <string name="shared_data_query_failure_text">No se han podido generar datos compartidos. Inténtalo de nuevo.</string>
+    <string name="shared_data_query_failure_text">No se han podido recuperar los datos compartidos. Inténtalo otra vez.</string>
     <string name="shared_data_summary">Ver y modificar los datos compartidos</string>
     <string name="shared_data_title">Datos compartidos</string>
     <string name="show_all_anrs">Mostrar ANR en segundo plano</string>
@@ -2138,17 +2139,17 @@ Interfaz UT: %5$s"</string>
     <string name="show_hw_layers_updates_summary">Parpadear capas de hardware en verde al actualizarse</string>
     <string name="show_hw_screen_updates">Ver cambios de vista</string>
     <string name="show_hw_screen_updates_summary">Parpadear vistas dentro de las ventanas cuando se dibujan</string>
-    <string name="show_non_rect_clip">Depurar operaciones de recorte no rectangulares</string>
+    <string name="show_non_rect_clip">Depurar recortes no rectangulares</string>
     <string name="show_notification_channel_warnings">Ver advertencias del canal de notificaciones</string>
-    <string name="show_notification_channel_warnings_summary">Mostrar una advertencia en pantalla cuando una aplicación publica una notificación sin un canal válido</string>
+    <string name="show_notification_channel_warnings_summary">Se verá una advertencia cuando una aplicación muestre una notificación sin un canal válido</string>
     <string name="show_screen_updates">Mostrar cambios de superficies</string>
     <string name="show_screen_updates_summary">Parpadear todas las superficies de la ventana cuando se actualizan</string>
-    <string name="show_touches">Mostrar toques</string>
-    <string name="show_touches_summary">Mostrar la ubicación de los toques en la pantalla</string>
+    <string name="show_touches">Mostrar toques en pantalla</string>
+    <string name="show_touches_summary">Muestra respuesta visual a los toques en la pantalla</string>
     <string name="show_volte_switch_summary">Mostrar el interruptor VoLTE en los detalles de la SIM</string>
     <string name="show_volte_switch_title">Mostrar interruptor VoLTE</string>
-    <string name="show_vonr_switch_summary">Mostrar el interruptor VoNR en los detalles de la SIM</string>
-    <string name="show_vonr_switch_title">Mostrar interruptor VoNR</string>
+    <string name="show_vonr_switch_summary">Mostrar interruptor VoNR en detalles de la SIM</string>
+    <string name="show_vonr_switch_title">Mostrar el interruptor VoNR</string>
     <string name="show_vowifi_switch_summary">Mostrar el interruptor de llamada Wi-Fi en los detalles de la SIM</string>
     <string name="show_vowifi_switch_title">Mostrar interruptor de llamada Wi-Fi</string>
     <string name="simContacts_airplaneMode">Desactiva el modo avión para importar contactos de la tarjeta SIM.</string>
@@ -2219,16 +2220,16 @@ Confirme la configuración de su cuenta de llamadas predeterminada."</string>
     <string name="sip_save_register_error">"No se pudo registrar y guardar el nuevo perfil SIP"</string>
     <string name="sip_settings">Ajustes de SIP</string>
     <string name="sip_system_decide">Automático</string>
-    <string name="skt_emm_cause_12_13_16_17_22">"No se pudo registrar la red. Apaga tu dispositivo, después vuelve a encenderlo e inténtalo de nuevo."</string>
-    <string name="skt_emm_cause_2">"No se pudo registrar el número de teléfono. Apaga tu dispositivo, después vuelve a encenderlo e inténtalo de nuevo. Si todavía encuentras algún problema, contacta con un centro de atención al cliente (1599-0011)."</string>
-    <string name="skt_emm_cause_3">"No se pudo verificar el usuario. Apaga tu dispositivo, después vuelve a encenderlo e inténtalo de nuevo. Si todavía encuentras algún problema, contacta con un centro de atención al cliente (1599-0011)."</string>
-    <string name="skt_emm_cause_6">"No se pudo verificar el dispositivo. Apaga tu dispositivo, después vuelve a encenderlo e inténtalo de nuevo. Si todavía encuentras algún problema, contacta con un centro de atención al cliente (1599-0011)."</string>
-    <string name="skt_emm_cause_7_8_15">"No se pudo registrar la red. Apaga tu dispositivo, después vuelve a encenderlo e inténtalo de nuevo. Si todavía encuentras algún problema, contacta con un centro de atención al cliente (1599-0011)."</string>
-    <string name="skt_msim_emm_cause_12_13_16_17_22">"La SIM %d no pudo registrar la red. Apaga tu dispositivo, después vuelve a encenderlo e inténtalo de nuevo."</string>
-    <string name="skt_msim_emm_cause_2">"La SIM %d no pudo registrar el número de teléfono. Apaga tu dispositivo, después vuelve a encenderlo e inténtalo de nuevo. Si todavía encuentras algún problema, contacta con un centro de atención al cliente (1599-0011)."</string>
-    <string name="skt_msim_emm_cause_3">"La SIM %d no pudo verificar el usuario. Apaga tu dispositivo, después vuelve a encenderlo e inténtalo de nuevo. Si todavía encuentras algún problema, contacta con un centro de atención al cliente (1599-0011)."</string>
-    <string name="skt_msim_emm_cause_6">"La SIM %d no pudo verificar el dispositivo. Apaga tu dispositivo, después vuelve a encenderlo e inténtalo de nuevo. Si todavía encuentras algún problema, contacta con un centro de atención al cliente (1599-0011)."</string>
-    <string name="skt_msim_emm_cause_7_8_15">"La SIM %d no pudo registrar la red. Apaga tu dispositivo, después vuelve a encenderlo e inténtalo de nuevo. Si todavía encuentras algún problema, contacta con un centro de atención al cliente (1599-0011)."</string>
+    <string name="skt_emm_cause_12_13_16_17_22">"No se pudo registrar la red. Apaga el dispositivo y enciéndelo e inténtalo otra vez."</string>
+    <string name="skt_emm_cause_2">"No se pudo registrar el número de teléfono. Apaga el dispositivo y enciéndelo e inténtalo otra vez. Si aún tienes problemas, contacta con un centro de atención al cliente (1599-0011)."</string>
+    <string name="skt_emm_cause_3">"No se pudo verificar el usuario. Apaga el dispositivo y enciéndelo e inténtalo otra vez. Si aún tienes problemas, contacta con un centro de atención al cliente (1599-0011)."</string>
+    <string name="skt_emm_cause_6">"No se pudo verificar el dispositivo. Apágalo y enciéndelo e inténtalo otra vez. Si aún tienes problemas, contacta con un centro de atención al cliente (1599-0011)."</string>
+    <string name="skt_emm_cause_7_8_15">"No se pudo registrar la red. Apaga el dispositivo y enciéndelo e inténtalo otra vez. Si aún tienes problemas, contacta con un centro de atención al cliente (1599-0011)."</string>
+    <string name="skt_msim_emm_cause_12_13_16_17_22">"La SIM %d no pudo registrar la red. Apaga el dispositivo y enciéndelo e inténtalo otra vez."</string>
+    <string name="skt_msim_emm_cause_2">"La SIM %d no pudo registrar el número de teléfono. Apaga el dispositivo y enciéndelo e inténtalo otra vez. Si aún tienes problemas, contacta con un centro de atención al cliente (1599-0011)."</string>
+    <string name="skt_msim_emm_cause_3">"La SIM %d no pudo verificar el usuario. Apaga el dispositivo y enciéndelo e inténtalo otra vez. Si aún tienes problemas, contacta con un centro de atención al cliente (1599-0011)."</string>
+    <string name="skt_msim_emm_cause_6">"La SIM %d no pudo verificar el dispositivo. Apágalo y enciéndelo e inténtalo otra vez. Si aún tienes problemas, contacta con un centro de atención al cliente (1599-0011)."</string>
+    <string name="skt_msim_emm_cause_7_8_15">"La SIM %d no pudo registrar la red. Apaga el dispositivo y enciéndelo e inténtalo otra vez. Si aún tienes problemas, contacta con un centro de atención al cliente (1599-0011)."</string>
     <string name="smart_dual_sim_prompt">Tu dispositivo se conectará a una red de datos móviles utilizando la SIM secundaria si la conectividad actual es deficiente. Esto puede generar tarifas de datos adicionales. Establece un límite de consumo de datos para evitar tarifas adicionales.</string>
     <string name="smart_dual_sim_prompt_ok">Ajustes</string>
     <string name="smart_dual_sim_prompt_title">Aviso de consumo de datos (SIM %s)</string>
@@ -2262,7 +2263,7 @@ Confirme la configuración de su cuenta de llamadas predeterminada."</string>
     <string name="stock_quotes_enable">Cotizaciones en bolsa habilitadas</string>
     <string name="storage_category">Almacenamiento</string>
     <string name="strPasswordLengthIncorrect">4-16 números!</string>
-    <string name="strict_mode">Modo estricto</string>
+    <string name="strict_mode">Modo estricto activado</string>
     <string name="strict_mode_summary">Parpadear si las aplicaciones tardan mucho en el subproceso principal</string>
     <string name="sum_call_barring_disabled">Desactivado</string>
     <string name="sum_call_barring_enabled">Activado</string>
@@ -2385,7 +2386,7 @@ Próx periodo en %2$d días (%3$s)"</string>
     <string name="thursday_short">Jue</string>
     <string name="thursday_shortest">Jue</string>
     <string name="time_picker_dialog_title">Establecer hora</string>
-    <string name="time_unit_just_now">justo ahora</string>
+    <string name="time_unit_just_now">Ahora mismo</string>
     <string name="title_cfu_enabled">Desvío de llamadas activado</string>
     <string name="title_convert_fbe">Convirtiendo a un cifrado basado en archivos</string>
     <string name="today">Hoy</string>
@@ -2393,12 +2394,12 @@ Próx periodo en %2$d días (%3$s)"</string>
     <string name="track_frame_time">Trazar la renderización de HWUI</string>
     <string name="traffic_mode_summary">Priorizar la conexión de redes móviles para las aplicaciones usadas actualmente. Es posible que las aplicaciones en segundo plano no puedan conectarse.</string>
     <string name="traffic_mode_switch_title">Modo extremo</string>
-    <string name="transcode_default">Suponga que las aplicaciones admiten formatos modernos</string>
-    <string name="transcode_disable_cache">Deshabilitar la caché de transcodificación</string>
-    <string name="transcode_enable_all">Habilitar la transcodificación</string>
-    <string name="transcode_notification">Mostrar notificaciones de transcodificación</string>
-    <string name="transcode_settings_title">Configuración de transcodificación de medios</string>
-    <string name="transcode_user_control">Anular los valores predeterminados de transcodificación</string>
+    <string name="transcode_default">Soportar formatos modernos</string>
+    <string name="transcode_disable_cache">Desactivar la caché</string>
+    <string name="transcode_enable_all">Activar transcodificación</string>
+    <string name="transcode_notification">Notificar transcodificación</string>
+    <string name="transcode_settings_title">Cambiar formato de archivo multimedia</string>
+    <string name="transcode_user_control">Anular valores predeterminados</string>
     <string name="transition_animation_scale_title">Escala de animación de transición</string>
     <string name="transport_title">Tipo de transporte</string>
     <string name="trigger_carrier_provisioning">Activar servicios del operador</string>
@@ -2499,7 +2500,7 @@ Cualquier usuario puede actualizar las aplicaciones del resto de usuarios."</str
     <string name="v7_preference_off">DESACTIVADA</string>
     <string name="v7_preference_on">ACTIVADO</string>
     <string name="verify_apps_over_usb_summary">Comprobar las aplicaciones instaladas mediante ADB/ADT para detectar comportamientos dañinos</string>
-    <string name="verify_apps_over_usb_title">Verificar aplicaciones por USB</string>
+    <string name="verify_apps_over_usb_title">Verificar aplicación por USB</string>
     <string name="vice_card_data_in_use_alert">Se podrían generar gastos adicionales de datos.</string>
     <string name="vice_slot_volte_data_switch_prompt">Su dispositivo se conectará a una red de datos móviles utilizando la SIM secundaria durante las llamadas VoLTE en curso. Esto puede generar cargos adicionales. Póngase en contacto con su proveedor local para obtener detalles sobre su plan de datos.</string>
     <string name="vice_slot_volte_data_switch_summary">Durante las llamadas VoLTE, el dispositivo se conectará a una red de datos móviles utilizando la SIM secundaria</string>
@@ -2564,11 +2565,11 @@ Esta tablet no tiene un auricular. Puedes cambiar al modo manos libres o usar au
     <string name="volte_switch_title">Usar VoLTE</string>
     <string name="volte_switch_title_ct">VoLTE</string>
     <string name="volte_tips_when_turn_on">Los servicios de China Telecom VoLTE solo están disponibles en las áreas con cobertura de red VoLTE. Los servicios VoLTE son provistos por la operadora.</string>
-    <string name="vonr_switch_summary">Utilice VoNR para mejorar la calidad de las llamadas de voz</string>
-    <string name="vonr_switch_title">Utilice VoNR</string>
+    <string name="vonr_switch_summary">Usa VoNR para mejorar la calidad de las llamadas</string>
+    <string name="vonr_switch_title">Usar VoNR</string>
     <string name="vowifi_emergency_notification_content">Las llamadas de emergencia solo son posibles en áreas con cobertura móvil</string>
     <string name="vowifi_emergency_notification_title">Llamadas Wi-Fi de Vodafone</string>
-    <string name="vowifi_emergency_warning_check">"No mostrar de nuevo."</string>
+    <string name="vowifi_emergency_warning_check">"No mostrar otra vez."</string>
     <string name="vowifi_emergency_warning_message">"Las llamadas de emergencia no son posibles vía Wi-Fi.
 
 El dispositivo cambia automáticamente a una red (2G/3G) para realizar una llamada de emergencia.
@@ -2674,7 +2675,7 @@ Si eliges preferir redes móviles, estas se usarán por defecto para hacer llama
     <string name="wifi_status_sign_in_required">Debes iniciar sesión</string>
     <string name="wifi_unmetered_label">No medida</string>
     <string name="wifi_verbose_logging">Habilitar registro de Wi-Fi detallado</string>
-    <string name="wifi_verbose_logging_summary">Aumentar el nivel de registro de Wi-Fi y mostrar por SSID RSSI en el selector Wi-Fi</string>
+    <string name="wifi_verbose_logging_summary">Aumenta el nivel de registro Wi-Fi y muestra por SSID RSSI en el selector de Wi-Fi</string>
     <string name="wifi_wapi_as_certificate">Certificado AS</string>
     <string name="wifi_wapi_cert_mode_hand_text">Seleccionar manualmente el certificado</string>
     <string name="wifi_wapi_certification_dont_exist">Los certificados WAPI no existen. Instálelos.</string>
@@ -2715,11 +2716,11 @@ posible que el almacenamiento de credenciales no esté habilitado"</string>
     <string name="wifitrackerlib_wifi_disabled_password_failure">Problema de autenticacion</string>
     <string name="wifitrackerlib_wifi_disconnected">Desconectado</string>
     <string name="wifitrackerlib_wifi_limited_connection">Conexión limitada</string>
-    <string name="wifitrackerlib_wifi_mbo_assoc_disallowed_cannot_connect">"No se puede conectar. Inténtelo de nuevo más tarde."</string>
-    <string name="wifitrackerlib_wifi_mbo_assoc_disallowed_max_num_sta_associated">La red está por encima de la capacidad. Inténtelo de nuevo más tarde.</string>
+    <string name="wifitrackerlib_wifi_mbo_assoc_disallowed_cannot_connect">"No se puede conectar. Inténtalo más tarde."</string>
+    <string name="wifitrackerlib_wifi_mbo_assoc_disallowed_max_num_sta_associated">La red está sobrecargada. Inténtalo más tarde.</string>
     <string name="wifitrackerlib_wifi_mbo_oce_assoc_disallowed_insufficient_rssi">Señal débil. Intente acercarse al enrutador.</string>
     <string name="wifitrackerlib_wifi_metered_label">Medido</string>
-    <string name="wifitrackerlib_wifi_network_not_found">"No se puede conectar. Inténtelo de nuevo más tarde."</string>
+    <string name="wifitrackerlib_wifi_network_not_found">"No se puede conectar. Inténtalo más tarde."</string>
     <string name="wifitrackerlib_wifi_no_internet">Sin acceso a Internet</string>
     <string name="wifitrackerlib_wifi_no_internet_no_reconnect">No se conectará automáticamente</string>
     <string name="wifitrackerlib_wifi_passpoint_expired">Caducado</string>
@@ -2730,7 +2731,7 @@ posible que el almacenamiento de credenciales no esté habilitado"</string>
     <string name="wifitrackerlib_wifi_wont_autoconnect_for_now">Wi-Fi no se conectará automáticamente por ahora</string>
     <string name="wild_prompt_str">Reemplazar el carácter comodín por</string>
     <string name="window_animation_scale_title">Escala de animación de ventana</string>
-    <string name="window_blurs">Permitir desenfoques a nivel de ventana</string>
+    <string name="window_blurs">Permitir desenfocar ventanas</string>
     <string name="wrong_password">La contraseña introducida no es correcta</string>
     <string name="xcap_setting_summary">Restricción de llamadas, desvío de llamadas de correo de voz &amp; y llamada en espera</string>
     <string name="xcap_setting_title">Configuración del servicio de llamadas</string>

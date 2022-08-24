@@ -58,6 +58,7 @@ Sostenga el dispositivo como si estuviera haciendo una llamada, hable al micróf
 3. El sistema guardará la foto automáticamente después de la captura
 4. La foto que tomó debe mostrarse en la pantalla, toque Pase para completar la prueba."</string>
     <string name="cit_camera_otp_download_title">Prueba de descarga de cámara OTP</string>
+    <string name="cit_camera_rearsub">Prueba de subcámara en curso, espera....</string>
     <string name="cit_charger_test_tips_pd">El dispositivo actual necesita probar USB_PD</string>
     <string name="cit_cust_img_version">Consultar información de la versión de CUST</string>
     <string name="cit_dial_emergencycall">Marque 112</string>

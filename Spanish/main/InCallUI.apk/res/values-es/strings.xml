@@ -62,7 +62,7 @@
     <string name="callFailed_outOfService">Fuera del área de servicio</string>
     <string name="callFailed_out_of_network">Llamada desde fuera de la red</string>
     <string name="callFailed_powerOff">La antena está desactivada</string>
-    <string name="callFailed_server_error">Error del servidor. Inténtalo de nuevo más tarde.</string>
+    <string name="callFailed_server_error">Error del servidor. Inténtalo más tarde.</string>
     <string name="callFailed_server_unreachable">"Servidor inaccesible"</string>
     <string name="callFailed_simError">Error en la tarjeta SIM</string>
     <string name="callFailed_timedOut">No hay respuesta del servidor</string>
@@ -74,6 +74,8 @@
     <string name="call_button_tools_text">Características</string>
     <string name="call_contacts_deny_permission_msg">"Ha denegado el permiso de lectura de contactos, no se puede mostrar la información de los contactos."</string>
     <string name="call_description_recording">Grabando…\u0085</string>
+    <string name="call_log_short_in">Este número llamó hace un momento</string>
+    <string name="call_log_short_out">Llamaste a este número hace un momento</string>
     <string name="call_not_support_high_frequency_click">"No pulses este botón tan frecuentemente"</string>
     <string name="call_progress_info_call_forwarding">Esta llamada fue reenviada</string>
     <string name="call_progress_info_call_rejected">La otra persona está ocupada ahora. Por favor llame más tarde.</string>
@@ -94,7 +96,7 @@
     <string name="call_recording_error_sd_unmounted">Grabación detenida: no se detectó la tarjeta SD.</string>
     <string name="call_recording_error_start_failed">La grabadora está siendo utilizada por otra aplicación.</string>
     <string name="call_recording_error_unknown">Error desconocido.</string>
-    <string name="call_recording_notification_message">Toca para escuchar.</string>
+    <string name="call_recording_notification_message">Pulsa para escuchar.</string>
     <string name="call_recording_notification_message_low_storage">La tarjeta SD está llena.</string>
     <string name="call_recording_notification_message_sd_unmounted">La tarjeta SD ha sido extraída.</string>
     <string name="call_recording_notification_title">Llamada grabada</string>
@@ -186,7 +188,7 @@
     <string name="friday_short">Vie</string>
     <string name="friday_shortest">Vie</string>
     <string name="inCallLabel">Teléfono</string>
-    <string name="incall_bubble_hangup_click_hint">Vuelve a tocar para volver a la llamada</string>
+    <string name="incall_bubble_hangup_click_hint">Pulsa otra vez para volver a la llamada</string>
     <string name="incall_call_type_label_sip">Llamada por Internet</string>
     <string name="incall_error_supp_service_conference">"No se puede utilizar la llamada de conferencia."</string>
     <string name="incall_error_supp_service_hangup">"No se puede colgar la llamada."</string>
@@ -323,10 +325,10 @@
     <string name="relay_call">Ataque</string>
     <string name="relay_call_device_name">Dispositivo conectado (%1$s)</string>
     <string name="relay_deny_permission_msg">"No se pueden transferir llamadas sin el permiso para grabar audio"</string>
-    <string name="relay_grant_permissions_on_phone">Otorga permiso para grabar audio en tu teléfono</string>
+    <string name="relay_grant_permissions_on_phone">Concede permiso para grabar audio en tu dispositivo</string>
     <string name="relay_known">Entendido</string>
     <string name="relay_network_error">Error de red</string>
-    <string name="relay_network_error_msg">"No puedo recibir llamadas en este dispositivo debido a un error de red. Regresa tu teléfono a su lugar."</string>
+    <string name="relay_network_error_msg">"No se pueden recibir llamadas en este dispositivo por un error de red. Deja el dispositivo en su sitio."</string>
     <string name="remind_unlock_message">Tu dispositivo está bloqueado. \"%s\" estará disponible al desbloquear. ¿Desbloquear dispositivo ahora?</string>
     <string name="respond_via_sms_custom_message">Personalizar SMS</string>
     <string name="saf_permission_content">"Se actualizaron los permisos del sistema. Para poder grabar llamadas, otorga tu permiso primero.
@@ -442,7 +444,7 @@ Toque \"%1$s\" y luego seleccione \"%2$s\"."</string>
     <string name="voice_control_deny_permission_msg">"No pueden usar los controles de voz ahora. Permita que esta aplicación grabe audio primero."</string>
     <string name="voicemail">Buzón de voz</string>
     <string name="volte_call">Llamada VoLTE</string>
-    <string name="volume_boost_text">Volumen aumentado con éxito</string>
+    <string name="volume_boost_text">Se ha aumentado el volumen</string>
     <string name="wait_prompt_str">"¿Enviar los siguientes tonos?
 "</string>
     <string name="waiting_close_airplane_mode">Un momento…</string>

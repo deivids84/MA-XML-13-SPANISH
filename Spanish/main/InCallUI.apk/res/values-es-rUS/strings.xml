@@ -74,6 +74,8 @@
     <string name="call_button_tools_text">Características</string>
     <string name="call_contacts_deny_permission_msg">"Negó el permiso de lectura de contactos; no se puede mostrar la información de los contactos."</string>
     <string name="call_description_recording">Grabando…</string>
+    <string name="call_log_short_in">Este número llamó hace un momento</string>
+    <string name="call_log_short_out">Llamaste a este número hace un momento</string>
     <string name="call_not_support_high_frequency_click">"No toque este botón tan frecuentemente"</string>
     <string name="call_progress_info_call_forwarding">Esta llamada fue reenviada</string>
     <string name="call_progress_info_call_rejected">La otra persona está ocupada ahora. Por favor llame más tarde.</string>

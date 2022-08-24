@@ -42,13 +42,13 @@
     <string name="abc_shareactionprovider_share_with_application">Compartir con %s</string>
     <string name="abc_toolbar_collapse_description">Ocultar</string>
     <string name="accept_failure">Error al aceptar la invitación~</string>
-    <string name="access_denied_info">Demasiados intentos. Espera uno o dos minutos e inténtalo de nuevo.</string>
+    <string name="access_denied_info">Demasiados intentos. Espera un par de minutos e inténtalo otra vez.</string>
     <string name="account_and_cloud">Cuenta</string>
     <string name="account_bind_secure_email_title">Agregar correo electrónico de recuperación</string>
     <string name="account_bind_secure_phone_title">Agregar número de teléfono de recuperación</string>
     <string name="account_blocked_by_user_tips">Has sido bloqueado por la otra parte y no puedes realizar el siguiente proceso</string>
     <string name="account_crop_user_avatar">Recortar foto</string>
-    <string name="account_empty_user_name">Introduce el nombre de usuario de tu cuenta Mi</string>
+    <string name="account_empty_user_name">Nombre de usuario de tu cuenta Xiaomi</string>
     <string name="account_error_all_space_user_name">"El nombre de usuario no puede estar vacío"</string>
     <string name="account_error_invalid_user_name">"El nombre no puede contener &lt;, &gt; o /"</string>
     <string name="account_error_longer_user_name">"El nombre no puede tener más de 20 caracteres"</string>
@@ -71,7 +71,7 @@
     <string name="account_user_details">Información personal</string>
     <string name="account_user_email">Correo electrónico de recuperación</string>
     <string name="account_user_gender">Género</string>
-    <string name="account_user_id">ID de Cuenta Mi</string>
+    <string name="account_user_id">ID de la cuenta Xiaomi</string>
     <string name="account_user_name">Apodo</string>
     <string name="account_user_name_dialog_title">Introduce tu nombre de usuario</string>
     <string name="account_user_other_info">Detalles</string>
@@ -116,7 +116,7 @@
     <string name="add_to_group_notify">%1$s se unió a la familia</string>
     <string name="add_to_last_of_playlist">Añadir al final de la lista de reproducción</string>
     <string name="add_to_playlist">Añadir a la cola</string>
-    <string name="add_to_playlist_successful">Añadida con éxito</string>
+    <string name="add_to_playlist_successful">Añadida</string>
     <string name="add_to_trust_device">Este es un dispositivo de confianza</string>
     <string name="added_next_play">Añadido para reproducir después</string>
     <string name="afternoon">Tarde</string>
@@ -147,7 +147,7 @@
     <string name="anchor_invite_member_error">Selecciona el miembro y luego haz clic en Aceptar</string>
     <string name="anchor_invite_members">Selecciona los miembros de la sala que invitaste</string>
     <string name="anchor_invite_title">Invitar a unirse a la familia</string>
-    <string name="anchor_matched_notify">Has sido emparejado con éxito con %1$s, haz clic en SÍ para ingresar a la sala y comenzar a chatear</string>
+    <string name="anchor_matched_notify">Has sido emparejado con %1$s, haz clic en Aceptar para entrar en la sala y empezar a chatear</string>
     <string name="anchor_roomedit_hint">Editar la información de la sala</string>
     <string name="anchor_roomedit_picture">Cambiar portada</string>
     <string name="anchor_roomedit_roomname">Introduce el nombre de la sala</string>
@@ -161,14 +161,14 @@
     <string name="app_permission_require">Permisos obligatorios</string>
     <string name="app_permission_use_desc">Permisos</string>
     <string name="app_permission_use_group_account">Cuentas</string>
-    <string name="app_permission_use_group_account_desc">Para obtener información de la Cuenta Mi</string>
+    <string name="app_permission_use_group_account_desc">Para obtener información de la cuenta Xiaomi</string>
     <string name="app_permission_use_group_phone">Teléfono</string>
     <string name="app_permission_use_group_phone_desc">Para los servicios de Google</string>
     <string name="app_permission_use_group_storage">Almacenamiento</string>
     <string name="app_permission_use_group_storage_desc">Para encontrar y reproducir canciones guardadas en el dispositivo</string>
     <string name="app_push_game_invite_title">%1$s te invita a jugar %2$s</string>
     <string name="apply_failure">Error al cargar el micrófono~</string>
-    <string name="apply_failure_net_error">La red es anómala, la petición de carga del micrófono ha fallado. Inténtalo otra vez más tarde~</string>
+    <string name="apply_failure_net_error">La red es inestable y la petición de carga del micrófono ha fallado. Inténtalo más tarde</string>
     <string name="apply_queue">En cola</string>
     <string name="apply_queue_pop_index">Tu secuencia de micros: %d</string>
     <string name="apply_queue_title">En cola</string>
@@ -194,7 +194,7 @@
     <string name="artist_is_empty">El nombre del artista no puede estar vacío.</string>
     <string name="artist_name">Artista</string>
     <string name="attention_failure">Seguir falló</string>
-    <string name="attention_success">Seguido con éxito</string>
+    <string name="attention_success">Seguido</string>
     <string name="audio_ad_countdown">Saltar anuncio en %s s</string>
     <string name="audio_ad_pass">Saltar anuncio</string>
     <string name="audio_picker_title">Escoger una canción</string>
@@ -210,7 +210,7 @@
     <string name="avoid_to_use_traffic_summary">"No usar redes móviles para escuchar música online"</string>
     <string name="avoid_to_use_traffic_title">Preguntar cuando se utilizan datos móviles para reproducir canciones</string>
     <string name="back">Atrás</string>
-    <string name="back_confirm">Toca de nuevo para enviar la aplicación al fondo</string>
+    <string name="back_confirm">Pulsa otra vez para pasar la aplicación a segundo plano</string>
     <string name="backpack_frame">Marco</string>
     <string name="bag">Mochila</string>
     <string name="balance_insufficient">Saldo de monedas insuficiente</string>
@@ -232,7 +232,7 @@
     <string name="bgmlist_select_playmode_repeat">Cambiado a reproducción de bucle único</string>
     <string name="bgmlist_title">Música de fondo</string>
     <string name="bind_recharge_dialog_desc">Ve al enlace de recarga, también puedes obtener el regalo exclusivo por valor de 99 monedas de oro ~</string>
-    <string name="bind_sign_in_title">Añadir Cuenta Mi</string>
+    <string name="bind_sign_in_title">Añadir cuenta Xiaomi</string>
     <string name="binddate_dialog_agree">aceptar</string>
     <string name="binddate_dialog_refuse">Rechazar</string>
     <string name="binddate_requestdialog_dis_request">cancelar aplicación</string>
@@ -244,7 +244,7 @@
     <string name="binddate_requestworkdialog_all_remove">Eliminar todo</string>
     <string name="blacklist_enter">Lista de bloqueados</string>
     <string name="blacklist_toast">Has sido incluido en la lista negra</string>
-    <string name="blacklist_toast3">Lista de bloqueo extraída con éxito</string>
+    <string name="blacklist_toast3">Se ha extraído la lista de bloqueo</string>
     <string name="block_content">Este usuario no podría enviarte un mensaje. ¿Estás seguro de agregar este usuario a la lista negra?</string>
     <string name="block_title">Agregar a la lista de bloqueo</string>
     <string name="bluetooth_device">Dispositivo de audio Bluetooth</string>
@@ -289,7 +289,7 @@
     <string name="chat_cancel_tip_2">Cancelar</string>
     <string name="chat_hint_saysomething">Di algo…</string>
     <string name="chat_hint_successfirst">Saluda a tu nuevo amigo</string>
-    <string name="chat_hint_time_just">Justo ahora</string>
+    <string name="chat_hint_time_just">Ahora mismo</string>
     <string name="chat_hint_time_today">Hoy</string>
     <string name="chat_hint_time_yestoday">Ayer</string>
     <string name="chat_mute_set_1">10 minutos</string>
@@ -325,9 +325,9 @@
     <string name="coin_hint_onlyonce">Sólo una vez</string>
     <string name="coin_hint_recharge">Recargar</string>
     <string name="coin_title_mycoin">Mis monedas</string>
-    <string name="coin_toast_failed">"No se pudo recargar, inténtalo de nuevo."</string>
+    <string name="coin_toast_failed">"No se pudo recargar, inténtalo otra vez."</string>
     <string name="coin_toast_purchase_cancel">Compra cancelada</string>
-    <string name="coin_toast_success">¡Recargado con éxito!</string>
+    <string name="coin_toast_success">¡Recargado!</string>
     <string name="coin_withdraw">Retirar</string>
     <string name="coins_hint_help_whatsapp">Cuenta oficial de WhatsApp de atención al cliente VIP</string>
     <string name="coins_newer_text">Súper descuento para nuevos usuarios</string>
@@ -344,7 +344,7 @@
     <string name="columbus_player_unit_sec">seg</string>
     <string name="columbus_skip_ad">Saltar</string>
     <string name="commit">Enviar</string>
-    <string name="commit_frequently">Enviar con demasiada frecuencia, por favor inténtalo de nuevo más tarde</string>
+    <string name="commit_frequently">Envíos demasiado frecuentes, inténtalo más tarde</string>
     <string name="common_communication_failed">Error en la adquisición de datos</string>
     <string name="common_google_play_services_enable_button">Habilitar</string>
     <string name="common_google_play_services_enable_text">"%1$s no funcionará hasta que no habilites Servicios de Google Play."</string>
@@ -377,13 +377,13 @@
 Por favor, comprueba tu red"</string>
     <string name="contact_service">Correo electrónico: %1$s</string>
     <string name="copy">Copiar</string>
-    <string name="copy_success">¡Copia exitosa!</string>
+    <string name="copy_success">¡Copia correcta!</string>
     <string name="cr_activity">actividad</string>
     <string name="cr_activity_error">Error al abrir el evento</string>
     <string name="cr_activity_exploration_failed">No se pudo abrir el planeta para explorar, por favor comprueba tu red</string>
     <string name="cr_add_bgm">Por favor, añade música de fondo primero~</string>
     <string name="cr_agree">aceptar</string>
-    <string name="cr_agree_wrb">Por favor, permite la lectura y escritura del almacenamiento del teléfono, de lo contrario la imagen no se puede guardar</string>
+    <string name="cr_agree_wrb">Permite la lectura y escritura del almacenamiento del dispositivo, de lo contrario la imagen no se puede guardar</string>
     <string name="cr_anim_init_failed">Falló la inicialización de la animación</string>
     <string name="cr_apply_micro_permission">Solicitar permiso de micrófono</string>
     <string name="cr_ban_speaking">Silenciando...</string>
@@ -401,16 +401,16 @@ Por favor, comprueba tu red"</string>
     <string name="cr_desc5">Guardar a:</string>
     <string name="cr_dress_up_success">La foto de fondo está en uso ahora</string>
     <string name="cr_duplicate_application">Duplicar aplicación, una solicitud está esperando a ser confirmada</string>
-    <string name="cr_emoji_failed">No se pudo cargar el emoji, inténtalo de nuevo</string>
+    <string name="cr_emoji_failed">No se pudo cargar el emoji, inténtalo otra vez</string>
     <string name="cr_empty_room_info">La información de la sala no puede estar vacía</string>
     <string name="cr_error_room_id">Error de roomId</string>
     <string name="cr_error_user_id">Error de id de usuario</string>
-    <string name="cr_failed_to_dress_up">"No se pudo usar, inténtalo de nuevo"</string>
+    <string name="cr_failed_to_dress_up">"No se pudo usar, inténtalo otra vez"</string>
     <string name="cr_female">Femenino</string>
     <string name="cr_galaxy_lottery" formatted="false">%s hizo Planet Exploration X %s veces y recibió</string>
     <string name="cr_game_room_hint">Estás emparejando el juego, la sala de voz se lanzará pronto</string>
     <string name="cr_hi">Di hola</string>
-    <string name="cr_invalid_operate">Operación no válida, inténtelo de nuevo</string>
+    <string name="cr_invalid_operate">Operación no válida, inténtalo otra vez</string>
     <string name="cr_invite_failed">Invitación fallida</string>
     <string name="cr_know_play">Sé cómo jugar</string>
     <string name="cr_less_one">Solo puedes enviar uno al menos~</string>
@@ -452,8 +452,8 @@ Por favor, comprueba tu red"</string>
     <string name="cr_save_failed">Error al guardar</string>
     <string name="cr_say_hi_in_room">a todos en la sala de voz</string>
     <string name="cr_skin">SKIN</string>
-    <string name="cr_success">éxito</string>
-    <string name="cr_success_purchase_background">Comprado con éxito</string>
+    <string name="cr_success">Correcto</string>
+    <string name="cr_success_purchase_background">Comprado</string>
     <string name="cr_sure">OK</string>
     <string name="cr_this_require">Demanda actual</string>
     <string name="cr_unknown">desconocido</string>
@@ -469,7 +469,7 @@ Por favor, comprueba tu red"</string>
     <string name="cr_whether_finish_order">Ya sea para finalizar el envío actual</string>
     <string name="cr_yes">Sí</string>
     <string name="create_account">Crear una cuenta</string>
-    <string name="create_order_fail">No se pudo crear el pago, intenta nuevamente</string>
+    <string name="create_order_fail">No se ha podido crear el pago, inténtalo otra vez</string>
     <string name="create_playlist">Crear lista de reproducción</string>
     <string name="create_playlist_failure">"No se pudo crear la lista de reproducción"</string>
     <string name="create_playlist_input_hint">Introducir nombre de la lista de reproducción</string>
@@ -486,7 +486,7 @@ Por favor, comprueba tu red"</string>
     <string name="crs_exit">abandonar</string>
     <string name="crs_female">Femenino</string>
     <string name="crs_gender">género</string>
-    <string name="crs_invalid_operate">Operación no válida, inténtelo de nuevo</string>
+    <string name="crs_invalid_operate">Operación no válida, inténtalo otra vez</string>
     <string name="crs_invite_invalid">Esta invitación ha caducado</string>
     <string name="crs_join_in_room">Entró en la sala</string>
     <string name="crs_male">masculino</string>
@@ -551,16 +551,16 @@ Por favor, comprueba tu red"</string>
     <string name="desktop_lyric_setting_summary">Mostrar la letra de la canción en la Pantalla de inicio</string>
     <string name="desktop_lyric_setting_title">Letra de la canción en la Pantalla de inicio</string>
     <string name="desktop_lyric_textsize">Texto</string>
-    <string name="destroy_room_failure">Error al destruir la sala, por favor inténtalo de nuevo más tarde~</string>
+    <string name="destroy_room_failure">Error al destruir la sala ahora, inténtalo más tarde</string>
     <string name="destroy_room_no">Cancelar</string>
     <string name="destroy_room_sure">Confirmar</string>
     <string name="develop_mode">modo desarrollador</string>
     <string name="device_connected">Conectado</string>
     <string name="device_not_connected">No conectado</string>
-    <string name="diagnosis_log_send_failed">"No se pudieron enviar los registros. Inténtalo de nuevo."</string>
-    <string name="diagnosis_log_sent_format">"Registros enviados con éxito.
+    <string name="diagnosis_log_send_failed">"No se pudieron enviar los registros. Inténtalo otra vez."</string>
+    <string name="diagnosis_log_sent_format">"Los registros se han enviado.
 ID:%s
-Enviar este código al supervisor."</string>
+Remite este código al supervisor."</string>
     <string name="dialog_cannot_resume">"Descarga interrumpida. No puede ser reanudada."</string>
     <string name="dialog_clear_history">¿Borrar la lista de canciones reproducidas recientemente?</string>
     <string name="dialog_confirm_delete_checkbox_message">Eliminar también archivos locales</string>
@@ -616,7 +616,7 @@ Enviar este código al supervisor."</string>
     <string name="diamond_conversion_toast_success">Intercambiado correctamente</string>
     <string name="diamond_enter">Diamante</string>
     <string name="diamond_record_text1">Intercambiar monedas</string>
-    <string name="dirty_word_toast">Este texto contiene información ilegal, por favor compruébalo e inténtalo de nuevo</string>
+    <string name="dirty_word_toast">El texto contiene información incorrecta, revísalo e inténtalo otra vez</string>
     <string name="disallow_add_to_fm">"No se puede agregar canciones a la radio FM"</string>
     <string name="discover_more_music">Descubrir más canciones</string>
     <string name="do_not_disturb">Silenciar notificación</string>
@@ -635,7 +635,7 @@ Enviar este código al supervisor."</string>
     <string name="download_auto_after_favorite_summary">Descargar automáticamente las canciones marcadas como favoritas</string>
     <string name="download_auto_after_favorite_title">Descargar favoritas</string>
     <string name="download_auto_cancel">La descarga de favoritos está desactivada</string>
-    <string name="download_auto_message">"Las canciones marcadas como favoritas serán descargadas automáticamente al conectarse a la Wi-Fi. Puedes cambiar esto en Ajustes."</string>
+    <string name="download_auto_message">"Las canciones marcadas como favoritas se descargarán automáticamente al conectar a Wi-Fi. Puedes configurarlo en Ajustes."</string>
     <string name="download_auto_when_free_network">Usar solo Wi-Fi</string>
     <string name="download_auto_when_free_network_summary">Ajustes adicionales para canciones marcadas como favoritas</string>
     <string name="download_complete">Descarga finalizada</string>
@@ -647,11 +647,11 @@ Enviar este código al supervisor."</string>
     <string name="download_connect_wifi_dialog_message">Necesitas Wi-Fi para descargar esta canción. ¿Conectarse?</string>
     <string name="download_connect_wifi_dialog_title">Conectar a Wi-Fi</string>
     <string name="download_dialog_fail">"No se pudo descargar"</string>
-    <string name="download_dialog_success">Descargado con éxito</string>
+    <string name="download_dialog_success">Descargado</string>
     <string name="download_done_btn">Descargado</string>
     <string name="download_error">Falló</string>
     <string name="download_error_insufficient_space">Sin espacio</string>
-    <string name="download_fail_to_fetch_info">"No se pudo descargar, inténtalo de nuevo"</string>
+    <string name="download_fail_to_fetch_info">"No se pudo descargar, inténtalo otra vez"</string>
     <string name="download_filesize_unknown">Desconocido</string>
     <string name="download_free">Descargar música</string>
     <string name="download_in_process">DESCARGANDO</string>
@@ -719,7 +719,7 @@ Enviar este código al supervisor."</string>
     <string name="enjoy_hungama_pro">Disfruta de Hungama PRO</string>
     <string name="enroll_in">Inscribirse</string>
     <string name="enter_garbage_clean">Limpiar almacenamiento interno.</string>
-    <string name="enter_room_failure">La red es anormal y no ha podido entrar a la sala. Inténtalo de nuevo más tarde~</string>
+    <string name="enter_room_failure">La red es inestable, y no has podido entrar en la sala. Inténtalo más tarde</string>
     <string name="enter_room_loading">Entrando en la sala...</string>
     <string name="enter_room_mount">Entrar en la sala</string>
     <string name="enter_room_riding">Montar</string>
@@ -745,7 +745,7 @@ Enviar este código al supervisor."</string>
     <string name="equalizer">Ecualizador</string>
     <string name="eras_ad">DC</string>
     <string name="eras_bc">AC</string>
-    <string name="error_dup_binded_email">Esta dirección de correo electrónico ya está asociada con otra Cuenta Mi.</string>
+    <string name="error_dup_binded_email">Esta dirección de correo electrónico ya está asociada a otra cuenta Xiaomi.</string>
     <string name="error_hint_noavatar">Selecciona tu foto de perfil o sube una foto</string>
     <string name="error_hint_nodata">No hay datos ahora</string>
     <string name="error_hint_typesupport_emoji">"No admite emoticonos ni caracteres especiales"</string>
@@ -754,7 +754,7 @@ Enviar este código al supervisor."</string>
     <string name="error_message_no_internet_connection">No se pudo conectar a Internet. Comprueba tu conexión a Internet y vuelve a intentarlo.</string>
     <string name="error_message_something_went_wrong">Algo salió mal. Por favor, vuelva a intentarlo.</string>
     <string name="error_not_support">No soportado</string>
-    <string name="error_toast_error">Error del sistema, inténtalo de nuevo más tarde.</string>
+    <string name="error_toast_error">Error del sistema, inténtalo más tarde.</string>
     <string name="error_toast_network">Comprueba tu conexión de red</string>
     <string name="error_toast_serverdes_400">Error en parámetros solicitados</string>
     <string name="error_toast_serverdes_401">La información de usuario ha caducado, vuelva a iniciar sesión.</string>
@@ -769,7 +769,7 @@ Enviar este código al supervisor."</string>
     <string name="error_toast_serverdes_459">"El usuario no ha creado la contraseña"</string>
     <string name="error_toast_serverdes_500">Error del Servidor</string>
     <string name="evening">Tarde</string>
-    <string name="exceed_binded_phone_times_notice">Este número de teléfono ya está asociado con otra cuenta Mi.</string>
+    <string name="exceed_binded_phone_times_notice">Este número de teléfono ya está asociado a otra cuenta Xiaomi.</string>
     <string name="exit_game_confirm">¿Confirmar para cerrar?</string>
     <string name="exit_group_chat">Salir</string>
     <string name="exit_group_chat_desc">¿Estás seguro de que quieres dejar a la familia? Nota: se tarda 24 horas en volver a unirse después de dejar la familia</string>
@@ -822,16 +822,16 @@ Enviar este código al supervisor."</string>
     <string name="facebook_not_installed">Instala Facebook primero.</string>
     <string name="fail_to_fetch_payment_page_url">"No se pudo obtener información del pago"</string>
     <string name="fail_to_play">"No es posible reproducir una canción"</string>
-    <string name="failed_dup_secure_phone_number">Este número de teléfono ya está asociado con otra cuenta Mi</string>
+    <string name="failed_dup_secure_phone_number">Este número de teléfono ya está asociado a otra cuenta Xiaomi</string>
     <string name="failed_not_access_sd_card">Permite primero el acceso a la tarjeta SD</string>
     <string name="failed_obtain_permissions">"No se pudo obtener permisos"</string>
-    <string name="failed_to_connect_hint">Comprueba tus ajustes de red y vuelve a intentarlo</string>
+    <string name="failed_to_connect_hint">Comprueba los ajustes de red e inténtalo otra vez</string>
     <string name="failed_to_connect_text">"No se pudo conectar a la red"</string>
     <string name="family_admin">Administrador</string>
     <string name="family_apply_count">%s usuarios solicitan unirse</string>
-    <string name="family_apply_faile">"No se pudo unir. Inténtalo de nuevo más tarde."</string>
+    <string name="family_apply_faile">"No te has unido. Inténtalo más tarde."</string>
     <string name="family_apply_join">Ven y únete a mi familia</string>
-    <string name="family_apply_success">Aplicar con éxito</string>
+    <string name="family_apply_success">Aplicar</string>
     <string name="family_button_Upgrade">Criterios de actualización</string>
     <string name="family_captain">Capitán</string>
     <string name="family_captain_reward">Criterios del Capitán</string>
@@ -851,8 +851,8 @@ Enviar este código al supervisor."</string>
     <string name="family_create_no_name">Por favor, introduzca el nombre de la familia</string>
     <string name="family_create_no_tag">Por favor, introduzca una etiqueta familiar</string>
     <string name="family_create_title_create">Crear familia</string>
-    <string name="family_create_toast_success">Creado con éxito</string>
-    <string name="family_create_toast_uploadsuccess">"No se pudo subir, inténtalo de nuevo"</string>
+    <string name="family_create_toast_success">Creado</string>
+    <string name="family_create_toast_uploadsuccess">"No se pudo subir, inténtalo otra vez"</string>
     <string name="family_create_use_gold" formatted="false">"%s 
  Creado con %s monedas"</string>
     <string name="family_dissolved">La familia ha sido disuelta por %1$s</string>
@@ -864,7 +864,7 @@ Enviar este código al supervisor."</string>
     <string name="family_h5_button_rules">Reglas y recompensas</string>
     <string name="family_h5_title_rank">Clasificación</string>
     <string name="family_h5_title_recommond">Para ti</string>
-    <string name="family_h5_toast_fail">"No se pudo unir. Inténtalo de nuevo más tarde."</string>
+    <string name="family_h5_toast_fail">"No has podido unirte. Inténtalo más tarde."</string>
     <string name="family_h5_toast_full">Esta familia está llena. Intenta unirte a otra.</string>
     <string name="family_h5_toast_repeat">"Te has unido a una familia. No puedes volver a solicitar."</string>
     <string name="family_h5_toast_success">Su solicitud ha sido enviada y está esperando su aprobación.</string>
@@ -878,18 +878,18 @@ Enviar este código al supervisor."</string>
     <string name="family_member_rule">Criterios de miembro</string>
     <string name="family_modify">Modificar</string>
     <string name="family_month_rank">Clasificación Mensual: %s</string>
-    <string name="family_operation_success">operación exitosa</string>
+    <string name="family_operation_success">Operación correcta</string>
     <string name="family_remove_confirm">¿Confirmar la eliminación del miembro?</string>
     <string name="family_room">Sala Familiar</string>
-    <string name="family_setting">Configuración exitosa</string>
+    <string name="family_setting">Configuración correcta</string>
     <string name="family_star">Estrella familiar</string>
-    <string name="family_update_success">Actualización exitosa</string>
+    <string name="family_update_success">Actualización correcta</string>
     <string name="family_upgrade">Mejorar</string>
     <string name="family_voicelist_title_family">Familia</string>
     <string name="fans">Seguidores</string>
     <string name="fans_list_empty">Aún no tienes seguidores</string>
     <string name="fast_apply_mic">Micrófono rápido</string>
-    <string name="fav_login_msg">Inicia sesión en tu Cuenta Mi para descargar canciones</string>
+    <string name="fav_login_msg">Inicia sesión en tu cuenta Xiaomi para descargar canciones</string>
     <string name="favorite_canceled">Eliminado de favoritos</string>
     <string name="favorite_playlist">Favoritos</string>
     <string name="favorite_singer">Artistas favoritos</string>
@@ -933,7 +933,7 @@ Enviar este código al supervisor."</string>
     <string name="follow">Seguir</string>
     <string name="follow_later">Más tarde y seguir</string>
     <string name="follow_list_empty">"Aún no sigues a nadie"</string>
-    <string name="follow_room_suc">Sigue la sala de voz con éxito</string>
+    <string name="follow_room_suc">Sigue la voz de la sala</string>
     <string name="followed">Siguiendo</string>
     <string name="for_diagnosis_usage_only">Los registros se utilizan solo para diagnósticos.</string>
     <string name="forbidden">Murmurando~</string>
@@ -987,7 +987,7 @@ Enviar este código al supervisor."</string>
     <string name="gcm_fallback_notification_channel_label">Varias</string>
     <string name="gender">Género:</string>
     <string name="get_back_pwd">Restablecimiento de contraseña</string>
-    <string name="get_game_loading_error">Error al extraer la etapa del juego, inténtalo de nuevo</string>
+    <string name="get_game_loading_error">Error al extraer el estado del juego, inténtalo otra vez</string>
     <string name="get_it">Ir</string>
     <string name="get_more_favorite_content_after_login">Iniciar sesión para descubrir más canciones y vídeos.</string>
     <string name="get_one_day_vip">¡Tienes %d-días VIP!</string>
@@ -1066,24 +1066,24 @@ Enviar este código al supervisor."</string>
     <string name="home_tab_online">Música online</string>
     <string name="home_tab_recommend">Online</string>
     <string name="home_tab_search">Buscar</string>
-    <string name="home_toast_error">Ha ocurrido un error, inténtalo de nuevo más tarde.</string>
+    <string name="home_toast_error">Ha ocurrido un error, inténtalo más tarde.</string>
     <string name="home_update_tips">Actualización disponible</string>
     <string name="home_voiceroomlist_hot">Caliente</string>
     <string name="host_cancel">Revocar moderador</string>
     <string name="host_cancel_btn">Revocar</string>
-    <string name="host_cancel_success">Revocación exitosa</string>
+    <string name="host_cancel_success">Revocación correcta</string>
     <string name="host_forbidden">Estás baneado por el ancla~</string>
     <string name="host_list_is_null">Sin moderador</string>
     <string name="host_mute">Fuiste silenciado por el ancla~</string>
     <string name="host_set">Admin</string>
-    <string name="host_set_success">Establecido con éxito</string>
+    <string name="host_set_success">Establecido</string>
     <string name="host_settings">Lista de anfitriones</string>
     <string name="host_settings_set_tip">Si establecer a este usuario como moderador de la sala</string>
     <string name="host_settings_tip">Si se debe revocar a este usuario como moderador de la sala</string>
     <string name="host_un_mute">Fuiste silenciado por el ancla ~</string>
     <string name="host_unforbidden">Fuiste levantado por el ancla ~</string>
     <string name="hot_icon_in_fast_indexer">H</string>
-    <string name="hungama_batch_download_alert_summary">Solo los miembros PRO pueden descargar multitud de canciones. ¿Obtener una membresía PRO ahora?</string>
+    <string name="hungama_batch_download_alert_summary">Solo los miembros PRO pueden descargar multitud de canciones. ¿Obtener una suscripción PRO?</string>
     <string name="hungama_batch_download_alert_summary_toast">Suscríbete para descargar toda la lista de reproducción.</string>
     <string name="hungama_category_chart">Gráficos</string>
     <string name="hungama_category_playlist">Listas de reproducción</string>
@@ -1091,16 +1091,16 @@ Enviar este código al supervisor."</string>
     <string name="hungama_category_video">Vídeos online</string>
     <string name="hungama_category_vip">Pro</string>
     <string name="hungama_download_subscription_toast">Suscríbete a Hungama Music para descargar esta canción</string>
-    <string name="hungama_free_download_out_summary">"No puedes descargar más canciones gratis. ¿Obtener una membresía PRO para descargar canciones ilimitadas?"</string>
+    <string name="hungama_free_download_out_summary">"No puedes descargar más canciones gratis. ¿Obtener una suscripción PRO para descargas ilimitadas?"</string>
     <string name="hungama_free_download_out_summary_toast">"Ya has descargado %d canciones. Obtén una suscripción para descargar más."</string>
     <string name="hungama_playlist_category">Categoría de lista de reproducción</string>
     <string name="hungama_privacy_desc">Política de Privacidad de Hungama (opcional)</string>
     <string name="hungama_privacy_tips_content">Para acceder al contenido online, debes aceptar la <a href="/link/click">Política de Privacidad de Hungama</a>.</string>
     <string name="hungama_privacy_tips_title">Política de Privacidad de Hungama</string>
     <string name="hungama_pro">Hungama Pro</string>
-    <string name="hungama_subscribe_message">Comprar membresía PRO para descargar música de alta calidad.</string>
-    <string name="hungama_subscribe_positive_button">Comprar membresía PRO</string>
-    <string name="hungama_subscribe_title">Membresía PRO</string>
+    <string name="hungama_subscribe_message">Comprar suscripción PRO para descargar música de alta calidad.</string>
+    <string name="hungama_subscribe_positive_button">Comprar suscripción PRO</string>
+    <string name="hungama_subscribe_title">Suscripción PRO</string>
     <string name="i_know">OK</string>
     <string name="icon">icono</string>
     <string name="icon_content_description">Icono de diálogo</string>
@@ -1110,7 +1110,7 @@ Enviar este código al supervisor."</string>
     <string name="im_user_card_desc">Mi sala de voz</string>
     <string name="imported">Importado</string>
     <string name="impunity_declaration_content">Debes leer y aceptar nuestros &lt;a href=\"http://www.miui.com/res/doc/eula.html?lang=es_ES\"&gt;terminos de uso&lt;/a&gt; and &lt;a href=\"http://www.miui.com/res/doc/privacy.html?lang=es_ES\"&gt;política de privacidad&lt;/a&gt; antes de usar el producto.</string>
-    <string name="impunity_declaration_ignore">"No mostrar de nuevo"</string>
+    <string name="impunity_declaration_ignore">"No mostrar otra vez"</string>
     <string name="impunity_declaration_negative_text">Salir</string>
     <string name="impunity_declaration_positive_text">Aceptar</string>
     <string name="impunity_declaration_settings">Mostrar Términos de Servicio</string>
@@ -1133,7 +1133,7 @@ Enviar este código al supervisor."</string>
     <string name="info_product">Dispositivo:</string>
     <string name="info_system">Sistema:</string>
     <string name="info_system_version">Versión del sistema:</string>
-    <string name="init_expel_failure">No se pudo descargar el micrófono, inténtalo de nuevo más tarde~</string>
+    <string name="init_expel_failure">No se ha podido bajar el micrófono, inténtalo más tarde</string>
     <string name="input_content_is_empty">El contenido de entrada no puede estar vacío</string>
     <string name="input_email_address_notice">"Usaremos este correo electrónico para verificar tu cuenta"</string>
     <string name="input_hint_prefix">Introducir %1$s</string>
@@ -1145,18 +1145,18 @@ Enviar este código al supervisor."</string>
     <string name="invalid_number">Lo siento, el número no es válido</string>
     <string name="invite">Invitar</string>
     <string name="invite_accept">%s aceptó la invitación</string>
-    <string name="invite_code_binded">Vinculación exitosa</string>
+    <string name="invite_code_binded">Vinculación correcta</string>
     <string name="invite_code_copy">"Código de invitación: %1$s 
 Dirección de descarga de GoGo: %2$s
 
 Después de la descarga, vincúlalo en la página de configuración antes de las 24:00 del %3$d mes %4$d días (UTC+2)."</string>
     <string name="invite_code_dialog_title">El código de invitación no se puede cambiar después de la vinculación</string>
-    <string name="invite_code_error">Tu código de invitación es incorrecto, por favor inténtalo de nuevo</string>
+    <string name="invite_code_error">Tu código de invitación es incorrecto, inténtalo otra vez</string>
     <string name="invite_code_set">Agregar invitado (a partir de hoy)</string>
     <string name="invite_list">Lista de invitaciones</string>
     <string name="invite_list_is_null">Ningún usuario puede invitar</string>
     <string name="invite_refused">%s rechazó la invitación</string>
-    <string name="invite_user_failure">La red es anormal, la invitación falló, por favor inténtalo de nuevo más tarde~</string>
+    <string name="invite_user_failure">La red es inestable y la invitación ha fallado, inténtalo más tarde</string>
     <string name="invite_user_leave_room">El usuario dejó la habitación~</string>
     <string name="invite_wheat">quieres invitarte al micrófono</string>
     <string name="invite_wheat_gift">Después de aceptar, obtendrás:</string>
@@ -1166,39 +1166,39 @@ Después de la descarga, vincúlalo en la página de configuración antes de las
     <string name="is_scanning">Comprobando almacenamiento…</string>
     <string name="is_scanning_support_online">"Comprobando almacenamiento…
 (mientras, puedes escuchar música en línea)"</string>
-    <string name="isornot_your_mi_account">¿Es esta tu cuenta Mi?</string>
+    <string name="isornot_your_mi_account">¿Es esta tu cuenta Xiaomi?</string>
     <string name="item_view_role_description">Pestaña</string>
-    <string name="joox_account_bind_mi_account">Añadir Cuenta Mi</string>
+    <string name="joox_account_bind_mi_account">Añadir cuenta Xiaomi</string>
     <string name="joox_account_cancel_login">Cancelar</string>
     <string name="joox_account_continue_login">Iniciar sesión</string>
     <string name="joox_account_fans_center">Centro de fans</string>
     <string name="joox_account_login_conflict_message">"Parece que has iniciado sesión con otro dispositivo. ¿Iniciar sesión aquí?"</string>
-    <string name="joox_account_login_exception">Iniciar sesión de nuevo</string>
+    <string name="joox_account_login_exception">Iniciar la sesión otra vez</string>
     <string name="joox_account_multi_device_login">Múltiples dispositivos</string>
     <string name="joox_anonymous_name">Visitante</string>
     <string name="joox_area_check_failed">"Parece que estás en un área donde nuestros servicios no están disponibles. Conéctate a otra red y vuelve a iniciar la aplicación."</string>
-    <string name="joox_auth_button_acquire_vip_instantly">Obtener membresía VIP</string>
-    <string name="joox_auth_button_login_to_acquire_vip">Inicia sesión para obtener una membresía VIP</string>
-    <string name="joox_auth_dialog_message">"Te hemos recomendado algunas canciones. Obtén una membresía VIP para eliminar las restricciones."</string>
+    <string name="joox_auth_button_acquire_vip_instantly">Obtener suscripción VIP</string>
+    <string name="joox_auth_button_login_to_acquire_vip">Inicia sesión para obtener una suscripción VIP</string>
+    <string name="joox_auth_dialog_message">"Te hemos recomendado algunas canciones. Obtén una suscripción VIP para eliminar restricciones."</string>
     <string name="joox_auth_message_connect_network">"No te has conectado al servidor en mucho tiempo. Conéctate a la red para poder reproducir canciones descargadas."</string>
     <string name="joox_auth_message_content_for_vip_only">Este elemento solo está disponible para miembros VIP</string>
     <string name="joox_auth_message_content_offline">"Ahora mismo los servicios online no están disponibles. Mejoraremos algunas cosas y pronto volveremos a abrir el servicio. ¡Permanece atento!"</string>
     <string name="joox_auth_message_login_status_expired">La sesión expiró. Vuelve a iniciar sesión.</string>
     <string name="joox_auth_message_one_hour_limit_for_one_company">Puedes reproducir hasta seis canciones del mismo sello discográfico cada hora. Escucha algunas canciones recomendadas por ahora.</string>
     <string name="joox_auth_message_recommend_for_you">Recomendados</string>
-    <string name="joox_auth_message_update_vip_to_change_playlist">Obtén una membresía VIP para editar las listas de reproducción</string>
-    <string name="joox_auth_message_update_vip_to_download">Obtén una membresía VIP para descargar</string>
-    <string name="joox_auth_message_update_vip_to_listen_offline">Tu membresía VIP expiró. Ahora puedes escuchar canciones online. Obtén una membresía VIP para poder descargar canciones.</string>
-    <string name="joox_auth_message_update_vip_to_play_on_demand">"No se puede reproducir esta canción debido a restricciones de derechos de autor. Prueba la reproducción aleatoria para escuchar otras canciones u obtén una membresía VIP para reproducir esta."</string>
-    <string name="joox_auth_message_update_vip_to_seek_progress">"No se puede ajustar el progreso de la reproducción debido a restricciones de derechos de autor. Obtén una membresía VIP para eliminar las restricciones."</string>
-    <string name="joox_auth_message_update_vip_to_switch_songs">Obtén una membresía VIP para cambiar entre canciones</string>
-    <string name="joox_auth_message_update_vip_to_use_function">Obtén una membresía VIP para usar esta función</string>
+    <string name="joox_auth_message_update_vip_to_change_playlist">Obtén una suscripción VIP para editar las listas de reproducción</string>
+    <string name="joox_auth_message_update_vip_to_download">Obtén una suscripción VIP para descargar</string>
+    <string name="joox_auth_message_update_vip_to_listen_offline">Tu suscripción VIP ha expirado. Ahora puedes escuchar canciones online. Obtén una nueva suscripción VIP para descargar canciones.</string>
+    <string name="joox_auth_message_update_vip_to_play_on_demand">"No se puede reproducir esta canción por restricciones de derechos de autor. Prueba la reproducción aleatoria para escuchar otras canciones u obtén una suscripción VIP para reproducir esta."</string>
+    <string name="joox_auth_message_update_vip_to_seek_progress">"No se puede ajustar el progreso de la reproducción debido a restricciones de derechos de autor. Obtén una suscripción VIP para eliminar las restricciones."</string>
+    <string name="joox_auth_message_update_vip_to_switch_songs">Obtén una suscripción VIP para cambiar entre canciones</string>
+    <string name="joox_auth_message_update_vip_to_use_function">Obtén una suscripción VIP para usar esta función</string>
     <string name="joox_auth_title_download_song">Descargar canciones</string>
     <string name="joox_auth_title_login_again">Iniciar sesión</string>
     <string name="joox_auth_title_long_time_no_network">"Parece que no te has conectado a la red en mucho tiempo"</string>
     <string name="joox_auth_title_shuffle_play">Aleatorio</string>
     <string name="joox_auth_title_vip_content">Contenido VIP</string>
-    <string name="joox_auth_title_vip_expired">La membresía expiró</string>
+    <string name="joox_auth_title_vip_expired">La suscripción ha finalizado</string>
     <string name="joox_auth_title_vip_function">Funciones VIP</string>
     <string name="joox_category_artist">Artistas</string>
     <string name="joox_category_chart">Gráficos</string>
@@ -1216,7 +1216,7 @@ Después de la descarga, vincúlalo en la página de configuración antes de las
     <string name="joox_search_subtitle_prefix_playlist">lista de reproducción</string>
     <string name="joox_search_subtitle_prefix_song">seguir</string>
     <string name="joox_vip_check_to_pay">Comprar</string>
-    <string name="joox_vip_expired_hint">Tu membresía VIP expiró. Las canciones descargadas de JOOX solo se mostrarán en tus descargas.</string>
+    <string name="joox_vip_expired_hint">Tu suscripción VIP ha finalizado. Las canciones descargadas de JOOX solo se mostrarán en tus descargas.</string>
     <string name="just_a_second">Solo un segundo…</string>
     <string name="just_hit_next">Solo presiona siguiente</string>
     <string name="keep_queued_download">Mantener</string>
@@ -1230,7 +1230,7 @@ Después de la descarga, vincúlalo en la página de configuración antes de las
     <string name="latest_song">Reproducir historial (%d)</string>
     <string name="leave_room">Si salir de la habitación</string>
     <string name="leave_seat">Abandonar</string>
-    <string name="leave_seat_failure">La red es anormal y falló al levantarse del asiento, intente nuevamente más tarde~</string>
+    <string name="leave_seat_failure">La red es inestable y la salida del servicio ha fallado. Inténtalo más tarde</string>
     <string name="level">Mi nivel</string>
     <string name="level_advantage">Beneficios de alto nivel de crecimiento</string>
     <string name="level_advantage2">Un nivel más alto puede llamarte más la atención</string>
@@ -1262,7 +1262,7 @@ Después de la descarga, vincúlalo en la página de configuración antes de las
     <string name="loadercontainer_loading">Un momento…</string>
     <string name="loading">Solo un segundo…</string>
     <string name="loading_bottom_empty">No hay más datos</string>
-    <string name="loading_error">"No se pudieron cargar los datos, intenta nuevamente"</string>
+    <string name="loading_error">"No se ha podido cargar los datos, inténtalo otra vez"</string>
     <string name="loading_hint">Un momento…</string>
     <string name="loading_reached_the_bottom">"Eso es todo por ahora."</string>
     <string name="loading_text">Un momento…</string>
@@ -1273,20 +1273,20 @@ Después de la descarga, vincúlalo en la página de configuración antes de las
     <string name="local_page_artist_more">Más canciones de %s</string>
     <string name="local_page_playlist">Listas de reproducción</string>
     <string name="local_page_song_download_history">Descargas</string>
-    <string name="lock_failure">No se pudo bloquear, inténtalo de nuevo más tarde~</string>
+    <string name="lock_failure">No se pudo bloquear, inténtalo más tarde</string>
     <string name="lock_seat">Bloquear asientos</string>
     <string name="login_button_login">Iniciar sesión</string>
     <string name="login_by_local_phone_long_text">Iniciar sesión ahora</string>
     <string name="login_by_local_phone_short_text">Iniciar sesión</string>
     <string name="login_dialog_agree_privacy">Por favor, lee y comprueba el Acuerdo de Usuario de GoGo y la Política de Privacidad.</string>
-    <string name="login_dialog_content">Hola, bienvenido a GoGo Voice Room, ven aquí para disfrutar de música con amigos. Por favor inicia sesión antes de usar</string>
+    <string name="login_dialog_content">Hola, te damos la bienvenida a GoGo Voice Room. Ven aquí a disfrutar de música con amigos. Inicia sesión antes de usarla</string>
     <string name="login_dialog_privacy_desc">&lt;Data&gt;He leído y acepto el &lt;a href=\"%1$s\"&gt;Acuerdo de usuario de GoGo&lt;/a&gt; y &lt;a href=\"%2$s\"&gt;Acuerdo de privacidad&lt;/a&gt;&lt;/Data&gt;</string>
     <string name="login_dialog_with_mi">Aceptar e iniciar sesión con Xiaomi</string>
     <string name="login_hint_password">Contraseña</string>
     <string name="login_hint_userid">ID del jugador</string>
     <string name="login_instantly">Iniciar sesión</string>
-    <string name="login_mi_account_and_gain_more_rights">Inicia sesión con tu Cuenta Mi para acceder a más funciones.</string>
-    <string name="login_other">Otra cuenta Mi</string>
+    <string name="login_mi_account_and_gain_more_rights">Inicia sesión con tu cuenta Xiaomi para usar más funciones.</string>
+    <string name="login_other">Otra cuenta Xiaomi</string>
     <string name="login_register_by_local_phone_long_text">Crear una cuenta</string>
     <string name="login_toast_noinput">Ingresa tu ID y contraseña</string>
     <string name="login_with_sns">Otras formas de iniciar sesión</string>
@@ -1315,7 +1315,7 @@ Después de la descarga, vincúlalo en la página de configuración antes de las
     <string name="match_block_dialog_content">¡Hay más chicas esperándote! ¡Ve y chatea con ellas!</string>
     <string name="match_off_toast">Has desactivado el estado de coincidencia y no puedes ser emparejado temporalmente</string>
     <string name="match_on_toast">Has activado el estado de coincidencia y comenzarás a coincidir</string>
-    <string name="match_success">Coincidir con éxito</string>
+    <string name="match_success">Coincidencia</string>
     <string name="match_switch">Emparejando</string>
     <string name="match_times">%1$d veces restantes hoy</string>
     <string name="match_times_out">Las oportunidades de emparejamiento se han agotado por hoy, por favor vuelve mañana</string>
@@ -1525,10 +1525,10 @@ Después de la descarga, vincúlalo en la página de configuración antes de las
     <string name="mute_chat_failed">Silenciar</string>
     <string name="mute_chat_in_room">Silenciar en la sala</string>
     <string name="mute_chat_setting">Silenciar</string>
-    <string name="mute_chat_succeed">Éxito al silenciar</string>
+    <string name="mute_chat_succeed">Silenciado</string>
     <string name="mv_metered_play_summary">"No mostrar aviso de uso de datos"</string>
     <string name="mv_metered_play_title">Reproduce vídeos online usando datos móviles</string>
-    <string name="my_account">Cuenta Mi</string>
+    <string name="my_account">Cuenta Xiaomi</string>
     <string name="my_code">Mi código de invitación</string>
     <string name="my_inviter">Mi invitador</string>
     <string name="my_music_empty">Lista de reproducción vacía.</string>
@@ -1541,18 +1541,18 @@ Después de la descarga, vincúlalo en la página de configuración antes de las
     <string name="nav_app_bar_open_drawer_description">Abrir panel de navegación</string>
     <string name="net_work_error_leave_room">Debido a la red, has sido desconectado, vuelva a ingresar a la sala~</string>
     <string name="netdefault_noseat">Las posiciones del micrófono están bloqueadas, por favor espera el micrófono</string>
-    <string name="netdefault_quick">Enviar con demasiada frecuencia, por favor inténtalo de nuevo más tarde</string>
+    <string name="netdefault_quick">Envíos demasiado frecuentes, inténtalo más tarde</string>
     <string name="netdefault_requesterror">La solicitud falló</string>
     <string name="netdefault_soquick">La operación es demasiado rápida, se puede ralentizar ~</string>
     <string name="netdefault_systemerror">Error del sistema</string>
     <string name="netdefault_warnword">El texto contiene palabras sensibles</string>
     <string name="network_disable">"No se pudo conectar a la red"</string>
     <string name="network_error">La carga falló, por favor vuelve a cargar</string>
-    <string name="network_error_and_retry">"No se pudo conectar, toca para intentarlo de nuevo"</string>
-    <string name="network_error_info">Se ha producido un error de red. Compruebe su configuración de red e inténtelo de nuevo.</string>
+    <string name="network_error_and_retry">"No se pudo conectar, pulsa para intentarlo otra vez"</string>
+    <string name="network_error_info">Ocurrió un error de red. Comprueba los ajustes de red e inténtalo otra vez.</string>
     <string name="network_request_error">"No se puede conectar a la red"</string>
     <string name="network_settings_error">"No se puede conectar a la red"</string>
-    <string name="network_timeout_info">"No se pudo conectar a la red. Inténtelo de nuevo."</string>
+    <string name="network_timeout_info">"No se pudo conectar a la red. Inténtalo otra vez."</string>
     <string name="network_traffic">Uso de datos</string>
     <string name="new_avatar_title_create">Selecciona una foto</string>
     <string name="new_button_female">Femenino</string>
@@ -1599,7 +1599,7 @@ Después de la descarga, vincúlalo en la página de configuración antes de las
     <string name="no_local_songs">Vacío</string>
     <string name="no_local_songs_selected">"No es posible enviar canciones por que no han sido descargadas"</string>
     <string name="no_local_source_find">"No se pudo encontrar la canción"</string>
-    <string name="no_longer_prompt">"No mostrar de nuevo"</string>
+    <string name="no_longer_prompt">"No mostrar otra vez"</string>
     <string name="no_lyrics">No hay letras</string>
     <string name="no_phone">Sin número de teléfono</string>
     <string name="no_results_return">No se encontraron resultados</string>
@@ -1671,13 +1671,13 @@ Después de la descarga, vincúlalo en la página de configuración antes de las
     <string name="online_apk_install_alert_pause">Pausar</string>
     <string name="online_apk_install_alert_retry">Vuelve a intentarlo</string>
     <string name="online_apk_install_alert_start">Iniciar</string>
-    <string name="online_apk_install_completed">Contenido online cargado con éxito. Pulsa %s para ver.</string>
+    <string name="online_apk_install_completed">Se ha cargado el contenido en línea. Pulsa %s para verlo.</string>
     <string name="online_apk_install_error_no_enough_space">"No se pudo instalar ya que el espacio de almacenamiento es insuficiente."</string>
     <string name="online_apk_install_error_with_reason">"No se pudo instalar (Error %d)"</string>
     <string name="online_apk_install_failed_with_reason" formatted="false">"No se pudo cargar contenido online. Pulsa %s para volver a intentarlo. Código de error: %d."</string>
     <string name="online_apk_install_in_background">Cargando contenido online en segundo plano…</string>
     <string name="online_apk_install_network_change_paused">"Estás usando datos móviles. Carga de elementos pausada por ahora. Pulsa %s para ver."</string>
-    <string name="online_apk_install_network_error">"No se pudo conectar a la red. Comprueba tus ajustes de red y vuelve a intentarlo."</string>
+    <string name="online_apk_install_network_error">"No se pudo conectar a la red. Comprueba los ajustes de red e inténtalo otra vez."</string>
     <string name="online_apk_install_tips">"Necesitas descargar el plug-in de este proveedor de contenido. La próxima vez podrás acceder directamente a las canciones."</string>
     <string name="online_list_delete_message">Todas las canciones descargadas en esta lista de reproducción se eliminarán del almacenamiento interno.</string>
     <string name="online_list_is_null">Sin lista en línea</string>
@@ -1703,9 +1703,9 @@ Después de la descarga, vincúlalo en la página de configuración antes de las
     <string name="owner_quit_room_content">Confirmar sala de despido</string>
     <string name="owner_set_host_for_you">Felicitaciones, el propietario lo ha establecido como administrador</string>
     <string name="passport_access_denied">Acceso denegado</string>
-    <string name="passport_account_label">Cuenta Mi</string>
+    <string name="passport_account_label">Cuenta Xiaomi</string>
     <string name="passport_account_name">"Cuenta: %1$s "</string>
-    <string name="passport_activate_token_expired">Código de verificación caducado. Inténtalo de nuevo.</string>
+    <string name="passport_activate_token_expired">Código de verificación caducado. Inténtalo otra vez.</string>
     <string name="passport_area_code_title">Código de área</string>
     <string name="passport_bad_authentication">Nombre de usuario o contraseña no válidos</string>
     <string name="passport_barcode_add_account_prompt">Para añadir una cuenta, vuelve a escanear el código QR después de iniciar sesión.</string>
@@ -1717,7 +1717,7 @@ Después de la descarga, vincúlalo en la página de configuración antes de las
     <string name="passport_email">Dirección de correo electrónico</string>
     <string name="passport_empty_password">"La contraseña no puede estar vacía"</string>
     <string name="passport_empty_user_name">"El nombre de usuario no puede estar vacío"</string>
-    <string name="passport_error_auth_fail">Sesión caducada. Inicie sesión de nuevo.</string>
+    <string name="passport_error_auth_fail">Sesión caducada. Iníciala otra vez.</string>
     <string name="passport_error_device_id">"No se puede obtener el ID del dispositivo"</string>
     <string name="passport_error_email">La dirección de correo electrónico introducida no es válida</string>
     <string name="passport_error_empty_captcha_code">Introducir captcha</string>
@@ -1737,7 +1737,7 @@ Después de la descarga, vincúlalo en la página de configuración antes de las
     <string name="passport_forget_password"><u>Olvidé mi contraseña</u></string>
     <string name="passport_get_verify_code">Obtener código</string>
     <string name="passport_getting_verify_code">Solo un segundo…</string>
-    <string name="passport_identification_expired">Código de verificación caducado. Comienza de nuevo.</string>
+    <string name="passport_identification_expired">Código de verificación caducado. Empieza otra vez.</string>
     <string name="passport_input_captcha_hint">Introducir código</string>
     <string name="passport_input_password_hint">Introducir contraseña</string>
     <string name="passport_input_phone_hint">Introducir número de teléfono</string>
@@ -1755,11 +1755,11 @@ Después de la descarga, vincúlalo en la página de configuración antes de las
     <string name="passport_quick_login_dialog_title">Verificar contraseña</string>
     <string name="passport_quick_login_step2_title">Verificación de 2 pasos</string>
     <string name="passport_quick_login_title">Ingresa tu contraseña</string>
-    <string name="passport_re_get_verify_code">Obtener código de nuevo</string>
+    <string name="passport_re_get_verify_code">Obtener el código otra vez</string>
     <string name="passport_reging">Creando cuenta…</string>
     <string name="passport_register_restricted">Demasiadas cuentas han sido asociadas con este número. Prueba con una diferente.</string>
-    <string name="passport_reload_ph_ticket">Enviar de nuevo</string>
-    <string name="passport_relogin_notice">Necesitas iniciar sesión de nuevo</string>
+    <string name="passport_reload_ph_ticket">Enviar otra vez</string>
+    <string name="passport_relogin_notice">Necesitas iniciar la sesión otra vez</string>
     <string name="passport_send_too_many_code">Se han enviado demasiados códigos de verificación a este número. Espere 24 horas y vuelva a intentarlo.</string>
     <string name="passport_send_too_many_sms">Se han enviado demasiados códigos de verificación a este número. Espere 24 horas y vuelva a intentarlo.</string>
     <string name="passport_sending_vcode">Enviando código…</string>
@@ -1776,7 +1776,7 @@ Después de la descarga, vincúlalo en la página de configuración antes de las
     <string name="passport_trust_device">Este es un dispositivo de confianza</string>
     <string name="passport_trying_read_verify_code_sms">Obteniendo código de verificación…</string>
     <string name="passport_unknow_error">Se ha producido un error desconocido</string>
-    <string name="passport_unknow_host_network_error">Compruebe su configuración de red e inténtalo de nuevo</string>
+    <string name="passport_unknow_host_network_error">Comprueba la configuración de la red e inténtalo otra vez</string>
     <string name="passport_unknow_network_error">Se ha producido un error de red</string>
     <string name="passport_user_agreement_link">"&lt;Data&gt;He leído y acepto el &lt;a href=%1$s&gt;Acuerdo de usuario&lt;/a&gt; y la &lt;a href=%2$s&gt;Política de privacidad&lt;/a&gt;de Xiaomi.&lt;/Data&gt;"</string>
     <string name="passport_user_agreement_link_more">"&lt;Data&gt;He leído y acepto los siguientes documentos: &lt;a href=%1$s&gt;Acuerdo de usuario&lt;/a&gt; y &lt;a href=%4$s&gt;Política de privacidad&lt;/a&gt;de Xiaomi, &lt;a href=%2$s&gt;%3$s&lt;/a&gt;.&lt;/Data&gt;"</string>
@@ -1796,7 +1796,7 @@ Después de la descarga, vincúlalo en la página de configuración antes de las
     <string name="password_hint_creat">Crear contraseña</string>
     <string name="password_hint_creat2">Introduzca su contraseña</string>
     <string name="password_hint_recreat">Confirmar contraseña</string>
-    <string name="password_hint_recreat2">Introducir contraseña de nuevo</string>
+    <string name="password_hint_recreat2">Escribe la contraseña otra vez</string>
     <string name="password_hint_text">Puedes perder tu cuenta si cierras sesión sin crear una contraseña</string>
     <string name="password_password_mix6">La contraseña debe tener al menos 6 caracteres</string>
     <string name="password_title_createpassword">Crear contraseña</string>
@@ -1866,30 +1866,30 @@ Después de la descarga, vincúlalo en la página de configuración antes de las
     <string name="please_select_report_reason">Por favor elige una razón</string>
     <string name="please_select_song">Selecciona una canción primero</string>
     <string name="pm">PM</string>
-    <string name="popup_exit_hint">¿Abandonar la familia? Nota: Después de abandonar la familia, sólo puede solicitar unirse de nuevo después de 24 horas.</string>
+    <string name="popup_exit_hint">¿Abandonar la familia? Nota: Después de abandonarla, no puedes solicitar unirte otra vez hasta pasadas 24 horas.</string>
     <string name="power_save_mode_dialog_msg">El Ahorro de batería está encendido. ¿Comenzar a descargar ahora?</string>
     <string name="preference_copied">\"%1$s\" se ha copiado en el portapapeles.</string>
     <string name="preset_music_playlist">Lista de reproducción de Mi Música</string>
     <string name="priority_storage">Usar SD externa</string>
     <string name="priority_storage_summary">Descargar automáticamente a la SD externa si está disponible</string>
-    <string name="privacy_authorize_network_error">Tu dispositivo necesita conectarse a la red para que puedas retirar el consentimiento. Comprueba tus ajustes de red y vuelve a intentarlo.</string>
+    <string name="privacy_authorize_network_error">El dispositivo necesita conexión a la red para retirar el consentimiento. Comprueba los ajustes de red e inténtalo otra vez.</string>
     <string name="privacy_authorize_revoke_failed">"No se pudo revocar la autorización"</string>
-    <string name="privacy_authorize_revoke_success">Autorización revocada con éxito</string>
+    <string name="privacy_authorize_revoke_success">Se ha revocado la autorización</string>
     <string name="privacy_authorize_revoking">Revocando autorización…</string>
     <string name="privacy_desc">Política de Privacidad (obligatorio)</string>
     <string name="privacy_dialog_agree">Estoy de acuerdo</string>
-    <string name="privacy_dialog_desc">&lt;Data&gt;Hola, bienvenido a GoGo Voice Room, ven aquí para disfrutar de música con amigos. Por favor, acepta el &lt;a href=\"%1$s\"&gt;Acuerdo de usuario de GoGo&lt;/a&gt; y &lt;a href=\"%2$s\"&gt;Política de privacidad&lt;/a&gt; antes de utilizar&lt;/Data&gt;</string>
+    <string name="privacy_dialog_desc">&lt;Data&gt;Hola, te damos la bienvenida a GoGo Voice Room. Ven aquí a disfrutar de música con amigos. Acepta el &lt;a href=\"%1$s\"&gt;Acuerdo de usuario de GoGo&lt;/a&gt; y su &lt;a href=\"%2$s\"&gt;Política de Privacidad&lt;/a&gt; antes de usarla&lt;/Data&gt;</string>
     <string name="privacy_dialog_disapproval">Desaprobar</string>
     <string name="privacy_policy">Política de privacidad</string>
     <string name="privacy_request_desc">&lt;Data&gt;Mi Música necesita recopilar la información personal necesaria para brindarte servicios de transmisión online. Puedes aprender cómo manejamos la información que recopilamos en nuestra &lt;a href=\"%1$s\"&gt;Política de Privacidad&lt;/a&gt;. Puedes retirar tu consentimiento a la Política de Privacidad de Mi Música en los Ajustes en cualquier momento.
 Lee y acepta nuestro &lt;a href=\"%2$s\"&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &lt;a href=\"%1$s\"&gt;Política de Privacidad&lt;/a&gt; antes de usar Mi Músia.
 Si no aceptas usar los servicios mencionados anteriormente, no podrás usar algunas funciones de esta aplicación; sin embargo, su funcionalidad básica seguirá estando disponible.&lt;/Data&gt;</string>
-    <string name="privacy_request_subtitle">"¡Bienvenido a Mi Música! Esta aplicación proporciona los siguientes servicios:
+    <string name="privacy_request_subtitle">"¡Te damos la bienvenida a Mi Música! Esta aplicación proporciona los siguientes servicios:
 
-- Un reproductor de audio local
+- Reproducción de audio local
 
-- Servicios de transmisión online"</string>
-    <string name="privacy_request_subtitle_offline">¡Bienvenido a Mi Music! Esta aplicación proporciona un reproductor local para archivos de audio.</string>
+- Servicios de transmisión en línea"</string>
+    <string name="privacy_request_subtitle_offline">¡Te damos la bienvenida a Música Mi! Esta aplicación proporciona un reproductor local para archivos de audio.</string>
     <string name="privacy_request_title">Términos y Condiciones</string>
     <string name="pro_member">Miembro PRO</string>
     <string name="progressbar_title">Comprobando problemas de seguridad…</string>
@@ -1926,14 +1926,14 @@ Si no aceptas usar los servicios mencionados anteriormente, no podrás usar algu
     <string name="recommended_no_file_size_download_in_mobile">¿Usar la conexión de datos para descargar este archivo?</string>
     <string name="refresh">Actualizar</string>
     <string name="refresh_done">Actualizado</string>
-    <string name="refresh_error">Error al actualizar. Inténtalo de nuevo más tarde</string>
-    <string name="refresh_success">Actualización exitosa</string>
+    <string name="refresh_error">Error al actualizar. Inténtalo más tarde</string>
+    <string name="refresh_success">Actualización correcta</string>
     <string name="region">Región:</string>
     <string name="register_by_local_phone_long_text">Crear una cuenta</string>
     <string name="register_by_local_phone_short_text">Crear una cuenta</string>
     <string name="registered_mailhint2">Por favor, introduce tu dirección de correo electrónico</string>
     <string name="registered_passwordhint1">Por favor introduce la contraseña.</string>
-    <string name="registered_wrong_mailhint">El formato de correo electrónico es incorrecto. Por favor ingresa de nuevo.</string>
+    <string name="registered_wrong_mailhint">El formato de correo electrónico es incorrecto. Escríbelo otra vez.</string>
     <string name="reload">Actualizar</string>
     <string name="remove">Eliminar</string>
     <string name="remove_all">Eliminar todo</string>
@@ -1941,7 +1941,7 @@ Si no aceptas usar los servicios mencionados anteriormente, no podrás usar algu
     <string name="remove_contacts">Eliminar</string>
     <string name="remove_download">Eliminar</string>
     <string name="remove_user_privacy_dialog_message">Al desactivar el interruptor, retiras tu consentimiento a la Política de Privacidad de Mi Música. Dejaremos de recopilar tu información personal. La información personal ya recopilada y retenida se eliminará dentro de un período específico según lo requieran las leyes aplicables. Mi Música necesita recopilar la información personal necesaria para brindarte los servicios básicos. Tu retirada del consentimiento a su Política de Privacidad se considerará como una negativa a aceptar sus servicios en función de la información personal recopilada.</string>
-    <string name="remove_user_privacy_dialog_message_canuse">Al desactivar el interruptor, retiras tu consentimiento a la Política de Privacidad de Mi Música. Dejaremos de recopilar tu información personal. La información personal ya recopilada y retenida se eliminará dentro de un período específico según lo requieran las leyes aplicables. Mi Música necesita recopilar la información personal necesaria para brindarte servicios de retransmisión online. Tu retirada del consentimiento a su Política de Privacidad se considerará como una negativa a aceptar los servicios online anteriormente mencionados en función de la información personal recopilada.</string>
+    <string name="remove_user_privacy_dialog_message_canuse">Al desactivar el interruptor, retiras tu consentimiento a la Política de Privacidad de Mi Música. Dejaremos de recopilar tu información personal. La información ya recopilada y retenida se eliminará dentro de un período específico según lo requieran las leyes aplicables. Mi Música necesita recopilar la información personal para brindarte servicios de retransmisión en línea. Tu retirada del consentimiento a su Política de Privacidad se considerará como una negativa a aceptar los servicios en línea mencionados.</string>
     <string name="remove_user_privacy_dialog_title">Retirada del consentimiento</string>
     <string name="renew_dialog_title">"Sea Pro
 Sea Feliz"</string>
@@ -1960,16 +1960,16 @@ Sea Feliz"</string>
     <string name="request_camera_permission_message">"Protegeremos tu información personal de acuerdo con las leyes y regulaciones pertinentes. Esta aplicación necesita los siguientes permisos para funcionar normalmente:&lt;br&gt;&lt;br&gt;&lt;b&gt;Uso de cámara (para configurar la foto de tu perfil)&lt;/b&gt;&lt;br&gt;&lt;br&gt;Si no estás de acuerdo con estos permisos, no podrás usar algunas características de esta aplicación; Sin embargo, su funcionalidad básica todavía estará disponible para usted. Siempre puede restringir los permisos o revocar su autorización en la Configuración."</string>
     <string name="request_cancel">Cancelar</string>
     <string name="request_error_invalid_token">"No se pudo verificar"</string>
-    <string name="request_error_network">Se ha producido un error de red. Compruebe su configuración de red e inténtelo de nuevo.</string>
-    <string name="request_error_unknown">Se ha producido un error del sistema. Vuelve atrás e inténtalo de nuevo.</string>
-    <string name="request_fail">Error de solicitud del servidor, inténtelo de nuevo</string>
+    <string name="request_error_network">Ocurrió un error de red. Comprueba los ajustes de red e inténtalo otra vez.</string>
+    <string name="request_error_unknown">Se ha producido un error del sistema. Vuelve atrás e inténtalo otra vez.</string>
+    <string name="request_fail">Error de solicitud del servidor, inténtalo otra vez</string>
     <string name="request_failure">Solicitud fallida</string>
     <string name="request_gallery_permission_message">Permitir el acceso a la Galería:&lt;br /&gt;Para configurar fotos de perfil</string>
     <string name="request_overlay_permission_desc">Permite a Mi Música mostrar ventanas flotantes para poder usar esta función.</string>
     <string name="request_permission_record_audio">Solicitar permiso de grabación</string>
-    <string name="request_permission_write_storage">Solicitar permiso de almacenamiento del teléfono</string>
+    <string name="request_permission_write_storage">Solicitar permiso de almacenamiento del dispositivo</string>
     <string name="request_privacy_permission_title">Lee y acepta los términos y condiciones para acceder a todos nuestros servicios.</string>
-    <string name="request_roominfo_error">La solicitud de información de la sala falló, inténtalo de nuevo más tarde~</string>
+    <string name="request_roominfo_error">La solicitud de información de la sala ha fallado, inténtalo más tarde</string>
     <string name="request_share_info">Un momento…</string>
     <string name="request_subscription_status">Un momento…</string>
     <string name="request_window_overlay_content">Después de abrir el permiso de la ventana flotante, la sala de chat se puede minimizar</string>
@@ -1978,13 +1978,13 @@ Sea Feliz"</string>
     <string name="resend_email_reach_limit_title">Demasiados intentos</string>
     <string name="resend_email_success">Enviado correctamente</string>
     <string name="reset_locked">Desbloquear</string>
-    <string name="restart_action">Comenzar de nuevo</string>
+    <string name="restart_action">Empezar otra vez</string>
     <string name="restart_immediate">Reiniciar</string>
     <string name="restart_phone_bind_message">Puede tardar algún tiempo en recibir SMS. ¿Comenzar de todos modos?</string>
     <string name="restart_phone_bind_title">Cambiar teléfono de recuperación</string>
-    <string name="retry">Inténtalo de nuevo</string>
+    <string name="retry">Inténtalo otra vez</string>
     <string name="retry_after_network_available">"No se pudo conectar a la red. Comprueba tu conexión y vuelve a intentarlo."</string>
-    <string name="retry_download">Inténtalo de nuevo</string>
+    <string name="retry_download">Inténtalo otra vez</string>
     <string name="revoke_upload_playlist_to_hungama_toast">"Las canciones online no serán sincronizadas con Hungama"</string>
     <string name="reward">Enviar regalo</string>
     <string name="ringtone_editing">Editor de tonos</string>
@@ -1992,7 +1992,7 @@ Sea Feliz"</string>
     <string name="ringtone_selected">Seleccionado</string>
     <string name="ringtones_play">Reproducir</string>
     <string name="ringtones_stop">Detener</string>
-    <string name="ringtones_successful">Tono establecido con éxito</string>
+    <string name="ringtones_successful">Tono establecido</string>
     <string name="room_background_change_title">Fotos de fondo</string>
     <string name="room_boss_seat">Jefe</string>
     <string name="room_close_income">Desactivar la frecuencia cardíaca</string>
@@ -2004,9 +2004,9 @@ Sea Feliz"</string>
     <string name="room_hot_score">%dw</string>
     <string name="room_id">ID:%s</string>
     <string name="room_income_close_failed">Error al cerrar la frecuencia cardíaca~</string>
-    <string name="room_income_close_success">El valor del latido se cerró con éxito ~</string>
+    <string name="room_income_close_success">El valor del latido se ha cerrado~</string>
     <string name="room_income_open_failed">Error al activar la frecuencia cardíaca~</string>
-    <string name="room_income_open_success">El valor del latido cardíaco se ha activado con éxito~</string>
+    <string name="room_income_open_success">El valor del latido se ha activado~</string>
     <string name="room_inro_name_disable">La introducción de esta sala no está disponible</string>
     <string name="room_leave_room">Salir</string>
     <string name="room_low_version">Tu versión de cliente es demasiado baja, esta función no está disponible~</string>
@@ -2042,13 +2042,13 @@ Sea Feliz"</string>
     <string name="room_service_content">Nombre de la sala [%s]</string>
     <string name="room_service_name">En la sala</string>
     <string name="room_setting">Ajuste</string>
-    <string name="room_setting_success">Configuración exitosa</string>
+    <string name="room_setting_success">Configuración correcta</string>
     <string name="room_share_content">"Te estoy esperando en la sala: %1$s, ID: %2$d~"</string>
     <string name="room_speak_something">Di hola~</string>
     <string name="room_type_update">El tipo de sala ha sido cambiado a %s</string>
     <string name="room_un_mute">¡Has sido dessilenciado por el ancla!</string>
     <string name="room_update_max_character">Introduce caracteres para llegar a 100</string>
-    <string name="room_welcome" formatted="false">\@%s bienvenido a la sala %s , Ven y chatea juntos en el micrófono</string>
+    <string name="room_welcome" formatted="false">\@%s te damos la bienvenida a la sala %s. Venid y chatead juntos en el micrófono.</string>
     <string name="roomlevel_hint">Esta sala está llena.</string>
     <string name="root_downloads">Descargas</string>
     <string name="rule">Reglas</string>
@@ -2085,7 +2085,7 @@ Sea Feliz"</string>
     <string name="search_result_online_songs">Online</string>
     <string name="search_songs">Buscar canciones</string>
     <string name="search_songs_count">Canciones: %d</string>
-    <string name="search_toast_name">La búsqueda falló, ingresa la identificación e intenta nuevamente~</string>
+    <string name="search_toast_name">La búsqueda ha fallado, escribe el ID e inténtalo otra vez</string>
     <string name="search_toast_reul">Lo sentimos, no se ha encontrado ningún contenido relevante</string>
     <string name="searching">Emparejando...</string>
     <string name="seat_full">No hay posiciones de micrófono gratuitas</string>
@@ -2106,7 +2106,7 @@ Sea Feliz"</string>
     <string name="selected_count">Seleccionado %1$d de %2$d</string>
     <string name="send">Enviar</string>
     <string name="send_diagnosis_log">Enviar registros</string>
-    <string name="send_email_activate_message">Correo electrónico de verificación enviado con éxito</string>
+    <string name="send_email_activate_message">Correo electrónico de verificación enviado</string>
     <string name="send_to_title">Enviar a (%1$s)</string>
     <string name="sending">Enviando…</string>
     <string name="server_error">El servidor devolvió un error~</string>
@@ -2118,7 +2118,7 @@ Sea Feliz"</string>
     <string name="set_online_home_title">Mostrar recomendaciones online al iniciar</string>
     <string name="set_ringtones_failed">"No pudo establecer el tono de llamada"</string>
     <string name="set_ringtones_successful">%s establecer como tono de llamada</string>
-    <string name="set_success">Cambiado con éxito</string>
+    <string name="set_success">Cambiado</string>
     <string name="setting">Configurar</string>
     <string name="setting_change_password">Cambiar contraseña</string>
     <string name="setting_feature_setting">Ajustes de funciones</string>
@@ -2142,7 +2142,7 @@ Sea Feliz"</string>
     <string name="share_failed">"No se pudo compartir"</string>
     <string name="share_image_error">"No se pudo compartir la imagen debido a un error de descarga"</string>
     <string name="share_song">Compartir</string>
-    <string name="share_success">Compartir con éxito</string>
+    <string name="share_success">Compartir</string>
     <string name="share_text">¡Estamos jugando en Go! ¡Únete a nosotros ahora!</string>
     <string name="share_text_list">"Lista de reproducción de Mi Música: "</string>
     <string name="share_text_song">"Canción en Mi Música: "</string>
@@ -2154,10 +2154,10 @@ Sea Feliz"</string>
     <string name="shuffle_play_toast_text">Mezclando canciones…</string>
     <string name="sign_in">Iniciando sesión</string>
     <string name="sign_in_progress">Iniciando sesión…</string>
-    <string name="sign_in_title">Inicia sesión con tu cuenta Mi</string>
-    <string name="sign_success_text1">Reclamado con éxito</string>
+    <string name="sign_in_title">Inicia sesión con tu cuenta Xiaomi</string>
+    <string name="sign_success_text1">Reclamado</string>
     <string name="sign_text">Inicia sesión 7 días consecutivos para obtener la recompensa de sorpresa</string>
-    <string name="signin_succuss">Obtener con éxito</string>
+    <string name="signin_succuss">Obtener</string>
     <string name="signout_popup_button_no">Cancelar</string>
     <string name="signout_popup_button_yes">Establecer</string>
     <string name="signout_popup_hint_text">"No ha establecido una contraseña. Si cierra la sesión, no podrá recuperar la cuenta. Establezca una contraseña ahora."</string>
@@ -2174,7 +2174,7 @@ Sea Feliz"</string>
     <string name="sleep_mode_title">Temporizador de suspensión</string>
     <string name="sliding_pro_center">Centro PRO</string>
     <string name="sms_send_success">Enviado correctamente</string>
-    <string name="sns_access_token_expired_warning">Sesión caducada. Inicia sesión de nuevo para volver a conectar esta cuenta.</string>
+    <string name="sns_access_token_expired_warning">Sesión caducada. Inicia la sesión otra vez para conectar esta cuenta.</string>
     <string name="sns_bind_limit">Demasiados intentos. Prueba otras formas de iniciar sesión.</string>
     <string name="sns_sign_in">Otras formas de iniciar sesión</string>
     <string name="social_room_leave">salir de la galaxia</string>
@@ -2211,8 +2211,8 @@ Sea Feliz"</string>
     <string name="sunday_shortest">Dom</string>
     <string name="supplementary_songs">Canciones adicionales</string>
     <string name="sure">Confirmar</string>
-    <string name="switch_success">Cambiado con éxito</string>
-    <string name="system_error_info">El sistema está ocupado. Espera uno o dos minutos e inténtalo de nuevo.</string>
+    <string name="switch_success">Cambiado</string>
+    <string name="system_error_info">El sistema está ocupado. Espera un par de minutos e inténtalo otra vez.</string>
     <string name="tab_album">Álbumes</string>
     <string name="tab_album_list">Álbumes</string>
     <string name="tab_artist">Artistas</string>
@@ -2302,11 +2302,11 @@ Sea Feliz"</string>
     <string name="toast_cant_collect_mine_playlist">"No puedes añadir tus propias listas de reproducción a favoritos"</string>
     <string name="toast_cant_commit_without_title">Introduce título de la canción</string>
     <string name="toast_download_error_by_count_limit">Has agotado tu cuota de descarga para este mes.</string>
-    <string name="toast_download_error_by_not_login">Inicia sesión en Cuenta Mi e inténtalo de nuevo.</string>
+    <string name="toast_download_error_by_not_login">Inicia sesión en tu cuenta Xiaomi e inténtalo otra vez.</string>
     <string name="toast_download_error_by_vip_required">Obtén el Pack de Canciones Premium para descargar esta canción.</string>
     <string name="toast_download_in_process">Descarga en proceso</string>
-    <string name="toast_favorite_has_been_added">Añadido a la lista de reproducción con éxito</string>
-    <string name="toast_follow_success">Seguido con éxito</string>
+    <string name="toast_favorite_has_been_added">Añadido a la lista de reproducción</string>
+    <string name="toast_follow_success">Seguido</string>
     <string name="toast_hungama_vip_song">Esta canción solo está disponible para miembros PRO. Obtenga una suscripción para descargar esta canción.</string>
     <string name="toast_is_pro">"Ya eres un miembro PRO."</string>
     <string name="toast_login_cancel">Sesión iniciada cancelada</string>
@@ -2321,7 +2321,7 @@ Sea Feliz"</string>
     <string name="toast_normal_songs_for_download">Calidad de descarga establecida a estándar</string>
     <string name="toast_normal_songs_for_stream">Calidad de la transmisión establecida a estándar</string>
     <string name="toast_not_pro">Esta función solo está disponible para los miembros PRO.</string>
-    <string name="toast_playlist_has_been_added">Añadido a la cola con éxito</string>
+    <string name="toast_playlist_has_been_added">Añadido a la cola</string>
     <string name="toast_playlist_has_been_private">Esta lista de reproducción es privada</string>
     <string name="toast_playlist_has_been_public">Esta lista de reproducción es pública</string>
     <string name="toast_playmode_loop_playback">La lista de reproducción actual está en bucle</string>
@@ -2329,12 +2329,12 @@ Sea Feliz"</string>
     <string name="toast_playmode_single_cycle">La canción actual está en bucle</string>
     <string name="toast_uhd_songs_for_download">Calidad de descarga establecida a alta</string>
     <string name="toast_uhd_songs_for_stream">Calidad de la transmisión establecida a alta</string>
-    <string name="toast_upload_fail">"No se pudo cargar, inténtalo de nuevo."</string>
+    <string name="toast_upload_fail">"No se pudo subir, inténtalo otra vez."</string>
     <string name="toast_will_play_list_when_ad_pause">La lista de reproducción comenzará a reproducirse después de los anuncios</string>
     <string name="toast_will_play_song_when_ad_pause">Esta canción comenzará a reproducirse después de los anuncios</string>
     <string name="today">Hoy</string>
     <string name="tomorrow">mañana</string>
-    <string name="tool_change_hint">éxito en el cambio, herramientas activadas en el siguiente juego</string>
+    <string name="tool_change_hint">Se ha cambiado. Herramientas activadas en el próximo juego</string>
     <string name="tool_chat_bubble">Burbuja de texto</string>
     <string name="tool_chess">Empeñar</string>
     <string name="tool_dice">Dado</string>
@@ -2343,7 +2343,7 @@ Sea Feliz"</string>
     <string name="tool_equiped">Equipado</string>
     <string name="tool_mount">Efecto de entrada</string>
     <string name="toolstore">Accesorios especiales</string>
-    <string name="toolstore_buy_hint">Comprado con éxito, vaya a \"Mis accesorios\" para usarlo.</string>
+    <string name="toolstore_buy_hint">Se ha comprado. Ir a \"Mis accesorios\" para usarlo.</string>
     <string name="top">Arriba</string>
     <string name="top_chart_title">Gráficos</string>
     <string name="track_play_history_after_login">Inicia sesión para ver el historial de reproducción</string>
@@ -2369,9 +2369,9 @@ Sea Feliz"</string>
     <string name="unlimited_downloads">Descargas ilimitadas</string>
     <string name="unlimited_offline_songs">Canciones ilimitadas sin conexión</string>
     <string name="unlimited_skips">Saltos ilimitados</string>
-    <string name="unlock_failure">Desbloqueo fallido, inténtalo de nuevo más tarde~</string>
+    <string name="unlock_failure">El desbloqueo ha fallado, inténtalo más tarde</string>
     <string name="unmute_chat_failed">Error al silenciar</string>
-    <string name="unmute_chat_succeed">Levantó con éxito la prohibición</string>
+    <string name="unmute_chat_succeed">Se ha levantado el bloqueo</string>
     <string name="unmute_user_chat">No silenciar</string>
     <string name="unmute_user_title">¿Quieres desbloquear al usuario?</string>
     <string name="unrecharge">"Aún no has recargado"</string>
@@ -2380,7 +2380,7 @@ Sea Feliz"</string>
     <string name="update_email_address_dialog_message">Necesitas verificar tu identidad antes de actualizar el correo electrónico de recuperación.</string>
     <string name="update_email_address_dialog_title">Actualizar correo electrónico de recuperación</string>
     <string name="update_no_gp">Instalar Play Store primero</string>
-    <string name="update_note">Por favor, actualiza tu versión e inténtalo de nuevo</string>
+    <string name="update_note">Por favor, actualiza tu versión e inténtalo otra vez</string>
     <string name="update_now">ACTUALIZAR AHORA</string>
     <string name="update_phone_notice">Cambiar configuración de seguridad</string>
     <string name="update_popup_button_yes">Actualizar</string>
@@ -2393,7 +2393,7 @@ Sea Feliz"</string>
     <string name="upload_favorite_setting_title">Sincronizar canciones</string>
     <string name="upload_playlist_to_hungama_negative_text">"No sincronizar"</string>
     <string name="upload_playlist_to_hungama_positive_text">Sincronizar</string>
-    <string name="upload_playlist_to_hungama_title">Sincroniza canciones online con Hungama para poder acceder a ellas en otros dispositivos donde uses tu Cuenta Mi.</string>
+    <string name="upload_playlist_to_hungama_title">Sincroniza canciones con Hungama para acceder a ellas en otros dispositivos donde uses tu cuenta Xiaomi.</string>
     <string name="upload_playlist_to_hungama_toast">Las canciones online serán sincronizadas con Hungama</string>
     <string name="user_account_cancel_toast">Esta cuenta ha sido eliminada</string>
     <string name="user_agreement">Acuerdo de usuario</string>
@@ -2413,7 +2413,7 @@ Sea Feliz"</string>
     <string name="user_avatar_update_title">Cambiar foto de perfil</string>
     <string name="user_avatar_uploading">Solo un segundo…</string>
     <string name="user_experience_program_open">Debido a las restricciones de derechos de autor, debe inscribirse en el Programa de experiencia del usuario para poder reproducir las canciones descargadas. Puede hacerlo en Configuración &gt; contraseñas &amp; seguridad &gt; Privacidad &gt; Inscribirse en el Programa de experiencia de usuario.</string>
-    <string name="user_followtoast">Seguido con éxito</string>
+    <string name="user_followtoast">Seguido</string>
     <string name="user_followtoast_fail">"No se pudo seguir"</string>
     <string name="user_id_hint">Correo electrónico/Teléfono/ID de cuenta de Mi</string>
     <string name="user_invite_dialog_title">%1$s te invito a unirte %2$s</string>
@@ -2428,10 +2428,10 @@ Sea Feliz"</string>
     <string name="user_profile_created_playlist_title">Listas de reproducción personalizadas</string>
     <string name="user_profile_fans_count">Seguidores: %s</string>
     <string name="user_profile_follow_count">Siguiendo: %s</string>
-    <string name="user_token_expire">La información del usuario caducó, por favor inicie sesión de nuevo</string>
-    <string name="user_token_expired_tips">La información de inicio de sesión ha expirado, por favor inicie sesión de nuevo</string>
+    <string name="user_token_expire">La información de usuario caducó. Inicia la sesión otra vez</string>
+    <string name="user_token_expired_tips">La información de inicio de sesión caducó. Inicia la sesión otra vez</string>
     <string name="user_unfollowpop_confirm">¿Dejar de seguir?</string>
-    <string name="user_unfollowtoast">Dejar de seguir con éxito</string>
+    <string name="user_unfollowtoast">Dejar de seguir</string>
     <string name="user_unfollowtoast_fail">"No se pudo dejar de seguir"</string>
     <string name="userpopup_button_block">Bloquear</string>
     <string name="userpopup_button_chat">Chat</string>
@@ -2442,7 +2442,7 @@ Sea Feliz"</string>
     <string name="version_info">Versión</string>
     <string name="video_play_cellular">"Tu dispositivo no está conectado al Wi-Fi. ¿Usar datos móviles?"</string>
     <string name="video_replay_btn">Volver a reproducir</string>
-    <string name="video_retry_btn">Inténtalo de nuevo</string>
+    <string name="video_retry_btn">Inténtalo otra vez</string>
     <string name="view_album">Ver álbum</string>
     <string name="view_component_button_cancel">Cancelar</string>
     <string name="view_component_button_sure">OK</string>
@@ -2466,7 +2466,7 @@ Sea Feliz"</string>
     <string name="voicelist_follow_title_followroom">Siguiendo</string>
     <string name="voicelist_search_title_room">Sala</string>
     <string name="voicelist_search_title_user">Usuario</string>
-    <string name="voicelist_toast_fail">"No se pudieron cargar los datos, intenta nuevamente"</string>
+    <string name="voicelist_toast_fail">"No se ha podido cargar los datos, inténtalo otra vez"</string>
     <string name="voicelist_welcome_invite_text">Ven a echar un vistazo a esta sala especialmente para ti</string>
     <string name="voiceroom_giftguide_skip">Omitir</string>
     <string name="voiceroom_giftguide_text1">Toca aquí y selecciona un regalo</string>

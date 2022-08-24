@@ -244,7 +244,7 @@ Puedes asignar este acceso directo a otra función en Ajustes &gt; Accesibilida
     <string name="android_upgrading_fstrim">Optimizando almacenamiento.</string>
     <string name="android_upgrading_notification_title">Finalizando actualización del sistema…</string>
     <string name="android_upgrading_starting_apps">Iniciando aplicaciones</string>
-    <string name="android_upgrading_title">El teléfono se está actualizando…</string>
+    <string name="android_upgrading_title">El dispositivo se está actualizando…</string>
     <string name="anr_activity_application">"%2$s no responde"</string>
     <string name="anr_activity_process">"%1$s no responde"</string>
     <string name="anr_application_process">"%1$s no responde"</string>
@@ -326,8 +326,8 @@ Puedes asignar este acceso directo a otra función en Ajustes &gt; Accesibilida
     <string name="battery_saver_notification_channel_name">Ahorro de batería</string>
     <string name="battery_saver_off_notification_title">Ahorro de batería desactivado</string>
     <string name="beforeOneMonthDurationPast">Hace más de un mes</string>
-    <string name="biometric_app_setting_name">Usar huella digital</string>
-    <string name="biometric_dialog_default_subtitle">Usa tu huella digital para continuar</string>
+    <string name="biometric_app_setting_name">Usar huella dactilar</string>
+    <string name="biometric_dialog_default_subtitle">Usa tu huella dactilar para continuar</string>
     <string name="biometric_dialog_default_title">Verifica que eres tú</string>
     <string name="biometric_error_canceled">Autenticación cancelada</string>
     <string name="biometric_error_device_not_secured">No se ha definido el PIN, el patrón o la contraseña</string>
@@ -335,8 +335,8 @@ Puedes asignar este acceso directo a otra función en Ajustes &gt; Accesibilida
     <string name="biometric_error_hw_unavailable">Hardware biométrico no disponible</string>
     <string name="biometric_error_user_canceled">Autenticación cancelada</string>
     <string name="biometric_not_recognized">No se reconoce</string>
-    <string name="biometric_or_screen_lock_app_setting_name">Usar huella digital o bloqueo de pantalla</string>
-    <string name="biometric_or_screen_lock_dialog_default_subtitle">Usa tu bloqueo de huella digital o de pantalla para continuar</string>
+    <string name="biometric_or_screen_lock_app_setting_name">Usar huella dactilar o bloqueo de pantalla</string>
+    <string name="biometric_or_screen_lock_dialog_default_subtitle">Usa el bloqueo de huella dactilar o de pantalla para continuar</string>
     <string name="bluetooth_a2dp_audio_route_name">Audio Bluetooth</string>
     <string name="bluetooth_airplane_mode_toast">El Bluetooth seguirá activado en el modo avión</string>
     <string name="bugreport_message">Se recopilará información sobre el estado actual de tu dispositivo y se enviará por correo electrónico. Pasarán unos minutos desde que empiece a generarse el informe de errores hasta que se envíe.</string>
@@ -357,14 +357,14 @@ Puedes asignar este acceso directo a otra función en Ajustes &gt; Accesibilida
     <string name="call_notification_screening_text">Filtrar una llamada entrante</string>
     <string name="cancel">Cancelar</string>
     <string name="candidates_style"><u>candidatos</u></string>
-    <string name="capability_desc_canCaptureFingerprintGestures">"Puede capturar los gestos realizados en el sensor de huellas digitales del dispositivo."</string>
+    <string name="capability_desc_canCaptureFingerprintGestures">"Puede capturar los gestos realizados en el sensor de huellas dactilares."</string>
     <string name="capability_desc_canControlMagnification">"Controla el posicionamiento y el nivel de zoom de la pantalla."</string>
     <string name="capability_desc_canPerformGestures">Puedes tocar y pellizcar la pantalla, deslizar el dedo y hacer otros gestos.</string>
     <string name="capability_desc_canRequestFilterKeyEvents">Incluye datos personales, como números de tarjetas de crédito y contraseñas.</string>
     <string name="capability_desc_canRequestTouchExploration">Los elementos que tocas se dicen en voz alta y se puede explorar la pantalla mediante gestos.</string>
     <string name="capability_desc_canRetrieveWindowContent">"Inspecciona el contenido de una ventana con la que estés interactuando."</string>
     <string name="capability_desc_canTakeScreenshot">Puede hacer capturas de la pantalla.</string>
-    <string name="capability_title_canCaptureFingerprintGestures">Gestos de huellas digitales</string>
+    <string name="capability_title_canCaptureFingerprintGestures">Gestos de huella dactilar</string>
     <string name="capability_title_canControlMagnification">Controlar la ampliación de la pantalla</string>
     <string name="capability_title_canPerformGestures">Realizar gestos</string>
     <string name="capability_title_canRequestFilterKeyEvents">Observar el texto que escribes</string>
@@ -499,7 +499,7 @@ con %s"</string>
     <string name="emergency_calls_only">Solo llamadas de emergencia</string>
     <string name="emptyPhoneNumber">(Sin número de teléfono)</string>
     <string name="enablePin">Error, habilitar bloqueo de SIM/RUIM.</string>
-    <string name="enable_explore_by_touch_warning_message">"%1$s quiere habilitar la exploración táctil. Cuando esta función esté activada, podrás escuchar o ver descripciones del contenido seleccionado o usar gestos para interactuar con el teléfono."</string>
+    <string name="enable_explore_by_touch_warning_message">"%1$s quiere activar la exploración táctil. Cuando esté activada, podrás escuchar o ver descripciones del contenido seleccionado o usar gestos para interactuar con el dispositivo."</string>
     <string name="enable_explore_by_touch_warning_title">¿Habilitar exploración táctil?</string>
     <string name="error_message_change_not_allowed">"El administrador no permite realizar este cambio"</string>
     <string name="error_message_title">Error</string>
@@ -523,7 +523,7 @@ con %s"</string>
     <string name="ext_media_init_action">Configurar</string>
     <string name="ext_media_missing_message">Introduce el dispositivo</string>
     <string name="ext_media_missing_title">Falta %s</string>
-    <string name="ext_media_move_failure_message">Intenta mover el contenido de nuevo</string>
+    <string name="ext_media_move_failure_message">Intenta mover el contenido otra vez</string>
     <string name="ext_media_move_failure_title">No se pudo mover el contenido</string>
     <string name="ext_media_move_specific_title">Moviendo %s</string>
     <string name="ext_media_move_success_message">El contenido se ha movido a %s</string>
@@ -581,13 +581,13 @@ con %s"</string>
     <string name="face_error_canceled">Se ha cancelado el reconocimiento facial.</string>
     <string name="face_error_hw_not_available">No se puede verificar. Hardware no disponible.</string>
     <string name="face_error_hw_not_present">El Desbloqueo facial no es compatible con este dispositivo</string>
-    <string name="face_error_lockout">Demasiados intentos. Inténtalo de nuevo más tarde.</string>
+    <string name="face_error_lockout">Demasiados intentos. Espera a más tarde.</string>
     <string name="face_error_lockout_permanent">Demasiados intentos. Desbloqueo facial desactivado.</string>
     <string name="face_error_lockout_screen_lock">Demasiados intentos. En su lugar, ingrese el bloqueo de pantalla.</string>
     <string name="face_error_no_space">Para guardar nuevos datos faciales, borra otros antiguos.</string>
     <string name="face_error_not_enrolled">No has configurado Desbloqueo facial</string>
     <string name="face_error_security_update_required">El sensor está inhabilitado en estos momentos.</string>
-    <string name="face_error_timeout">Prueba el Desbloqueo facial de nuevo</string>
+    <string name="face_error_timeout">Prueba el Desbloqueo Facial otra vez</string>
     <string name="face_error_unable_to_process">No se ha verificado tu cara. Vuelve a intentarlo.</string>
     <string name="face_error_user_canceled">Desbloqueo facial cancelado por el usuario</string>
     <string name="face_error_vendor_unknown">Algo salió mal. Vuelve a intentarlo.</string>
@@ -598,7 +598,7 @@ con %s"</string>
     <string name="face_recalibrate_notification_content">Toca para eliminar el modelo de tu rostro y, luego, vuelve a agregar tu rostro</string>
     <string name="face_recalibrate_notification_name">Desbloqueo facial</string>
     <string name="face_recalibrate_notification_title">Problema con el desbloqueo facial</string>
-    <string name="face_setup_notification_content">Desbloquea tu teléfono mirándolo</string>
+    <string name="face_setup_notification_content">Desbloquea tu dispositivo mirándolo</string>
     <string name="face_setup_notification_title">Configurar Desbloqueo facial</string>
     <string name="faceunlock_multiple_failures">Se ha superado el número máximo de intentos de desbloqueo facial.</string>
     <string name="factory_reset_message">"No se puede utilizar la aplicación de administración. Se borrarán todos los datos del dispositivo.
@@ -618,41 +618,41 @@ Si tienes alguna pregunta, ponte en contacto con el administrador de tu organiza
     <string name="find_next">Buscar siguiente</string>
     <string name="find_on_page">Buscar en la página</string>
     <string name="find_previous">Buscar anterior</string>
-    <string name="fingerprint_acquired_already_enrolled">Prueba con otra huella digital</string>
+    <string name="fingerprint_acquired_already_enrolled">Prueba con otra huella dactilar</string>
     <string name="fingerprint_acquired_imager_dirty">Limpiar el sensor</string>
     <string name="fingerprint_acquired_immobile">Cambie ligeramente la posición de su dedo cada vez</string>
-    <string name="fingerprint_acquired_insufficient">"No se ha podido procesar la huella digital. Vuelve a intentarlo."</string>
+    <string name="fingerprint_acquired_insufficient">"No se ha procesado la huella dactilar. Inténtalo otra vez."</string>
     <string name="fingerprint_acquired_partial">Huella dactilar parcial detectada</string>
     <string name="fingerprint_acquired_too_bright">Demasiado brillante</string>
     <string name="fingerprint_acquired_too_fast">Aguanta un poco más</string>
     <string name="fingerprint_acquired_too_slow">Has movido el dedo demasiado despacio. Vuelve a intentarlo.</string>
     <string name="fingerprint_acquired_try_adjusting">Intenta ajustar</string>
-    <string name="fingerprint_app_setting_name">Usar huella digital</string>
-    <string name="fingerprint_authenticated">Se ha autenticado la huella digital</string>
-    <string name="fingerprint_dialog_default_subtitle">Usa tu huella digital para continuar</string>
+    <string name="fingerprint_app_setting_name">Usar huella dactilar</string>
+    <string name="fingerprint_authenticated">Se ha autenticado la huella dactilar</string>
+    <string name="fingerprint_dialog_default_subtitle">Usa tu huella dactilar para continuar</string>
     <string name="fingerprint_error_bad_calibration">No se puede utilizar el sensor de huellas dactilares. Visite un proveedor de reparaciones</string>
-    <string name="fingerprint_error_canceled">Se ha cancelado la operación de huella digital.</string>
-    <string name="fingerprint_error_hw_not_available">El hardware de huella digital no está disponible.</string>
-    <string name="fingerprint_error_hw_not_present">Este dispositivo no tiene sensor de huellas digitales.</string>
+    <string name="fingerprint_error_canceled">Se ha cancelado el proceso de huella dactilar.</string>
+    <string name="fingerprint_error_hw_not_available">El hardware de huella dactilar no está disponible.</string>
+    <string name="fingerprint_error_hw_not_present">El dispositivo no tiene sensor de huella dactilar.</string>
     <string name="fingerprint_error_lockout">Demasiados intentos. Vuelve a intentarlo más tarde.</string>
-    <string name="fingerprint_error_lockout_permanent">Demasiados intentos. Se ha inhabilitado el sensor de huellas digitales.</string>
-    <string name="fingerprint_error_no_fingerprints">No se ha registrado ninguna huella digital.</string>
-    <string name="fingerprint_error_no_space">No se puede configurar la huella digital</string>
+    <string name="fingerprint_error_lockout_permanent">Demasiados intentos. Se ha desactivado el sensor de huella dactilar.</string>
+    <string name="fingerprint_error_no_fingerprints">No se ha registrado una huella dactilar.</string>
+    <string name="fingerprint_error_no_space">No se puede registrar la huella dactilar</string>
     <string name="fingerprint_error_security_update_required">El sensor está inhabilitado en estos momentos.</string>
-    <string name="fingerprint_error_timeout">Se ha alcanzado el tiempo de espera de la huella digital. Vuelve a intentarlo.</string>
+    <string name="fingerprint_error_timeout">Superado el tiempo de espera de la huella dactilar. Inténtalo otra vez.</string>
     <string name="fingerprint_error_unable_to_process">Vuelve a intentarlo.</string>
-    <string name="fingerprint_error_user_canceled">El usuario ha cancelado la operación de huella digital.</string>
+    <string name="fingerprint_error_user_canceled">El usuario ha cancelado el proceso de la huella dactilar.</string>
     <string name="fingerprint_error_vendor_unknown">Algo salió mal. Vuelve a intentarlo.</string>
-    <string name="fingerprint_icon_content_description">Icono de huella digital</string>
+    <string name="fingerprint_icon_content_description">Icono de huella dactilar</string>
     <string name="fingerprint_name_template">Dedo %d</string>
-    <string name="fingerprint_or_screen_lock_app_setting_name">Usar huella digital o bloqueo de pantalla</string>
-    <string name="fingerprint_or_screen_lock_dialog_default_subtitle">Use su huella digital o bloqueo de pantalla para continuar</string>
+    <string name="fingerprint_or_screen_lock_app_setting_name">Usar huella dactilar o bloqueo de pantalla</string>
+    <string name="fingerprint_or_screen_lock_dialog_default_subtitle">Usa la huella dactilar o el bloqueo de pantalla para continuar</string>
     <string name="fingerprint_recalibrate_notification_content">Visite un proveedor de reparaciones.</string>
     <string name="fingerprint_recalibrate_notification_name">Desbloqueo de huellas dactilares</string>
     <string name="fingerprint_recalibrate_notification_title">No puedo usar el sensor de huellas dactilares</string>
-    <string name="fingerprint_setup_notification_content">Toca para agregar una huella digital</string>
+    <string name="fingerprint_setup_notification_content">Pulsa para añadir una huella dactilar</string>
     <string name="fingerprint_setup_notification_title">Configurar más formas de desbloquear</string>
-    <string name="fingerprints">Huellas digitales:</string>
+    <string name="fingerprints">Huellas dactilares:</string>
     <string name="floating_toolbar_close_overflow_description">Cerrar menú adicional</string>
     <string name="floating_toolbar_open_overflow_description">Más opciones</string>
     <string name="force_close">Aceptar</string>
@@ -661,9 +661,9 @@ Si tienes alguna pregunta, ponte en contacto con el administrador de tu organiza
     <string name="foreground_service_tap_for_details">Toca para ver información detallada sobre el uso de datos y de la batería</string>
     <string name="forward_intent_to_owner">"Estás usando esta aplicación fuera del perfil de trabajo"</string>
     <string name="forward_intent_to_work">"Estás usando esta aplicación en tu perfil de trabajo"</string>
-    <string name="fp_enrollment_powerbutton_intent_message">"Mientras configuraba su huella digital, presionó el botón de Encendido.
+    <string name="fp_enrollment_powerbutton_intent_message">"Mientras configurabas la huella digital, activaste el botón de Encendido.
 
-Esto generalmente apaga la pantalla."</string>
+Generalmente eso apaga la pantalla."</string>
     <string name="fp_enrollment_powerbutton_intent_negative_button">Cancelar</string>
     <string name="fp_enrollment_powerbutton_intent_positive_button">Apagar</string>
     <string name="fp_enrollment_powerbutton_intent_title">¿Apagar la pantalla?</string>
@@ -720,7 +720,7 @@ Esto generalmente apaga la pantalla."</string>
     <string name="httpErrorFailedSslHandshake">"No se ha podido establecer una conexión segura."</string>
     <string name="httpErrorFile">"No se ha podido acceder al archivo."</string>
     <string name="httpErrorFileNotFound">"No se ha podido encontrar el archivo solicitado."</string>
-    <string name="httpErrorIO">"No se ha podido establecer comunicación con el servidor. Inténtalo de nuevo más tarde."</string>
+    <string name="httpErrorIO">"No se ha podido comunicar con el servidor. Inténtalo más tarde."</string>
     <string name="httpErrorLookup">"No se ha podido encontrar la URL."</string>
     <string name="httpErrorOk">Aceptar</string>
     <string name="httpErrorProxyAuth">La autenticación mediante el servidor proxy no se ha realizado correctamente.</string>
@@ -804,9 +804,9 @@ Esto generalmente apaga la pantalla."</string>
     <string name="keyguard_password_entry_touch_hint"><font size="17">Toca para escribir contraseña</font></string>
     <string name="keyguard_password_wrong_pin_code">Código PIN incorrecto</string>
     <string name="kg_enter_confirm_pin_hint">Confirma el código PIN</string>
-    <string name="kg_failed_attempts_almost_at_login">"Has fallado %1$d veces al dibujar el patrón de desbloqueo. Si fallas otras %2$d veces, deberás usar una cuenta de correo electrónico para desbloquear el teléfono.
+    <string name="kg_failed_attempts_almost_at_login">"Has fallado %1$d veces al dibujar el patrón. Si fallas otras %2$d, necesitarás usar una cuenta de correo electrónico para desbloquear el dispositivo.
 
- Inténtalo de nuevo en %3$d segundos."</string>
+Espera %3$d segundos antes de intentarlo otra vez."</string>
     <string name="kg_failed_attempts_almost_at_wipe">Has intentado desbloquear el teléfono %1$d veces, pero no lo has conseguido. Si fallas otras %2$d veces, se restablecerá el estado de fábrica y se perderán todos los datos del usuario.</string>
     <string name="kg_failed_attempts_now_wiping">Has intentado desbloquear el teléfono %d veces, pero no lo has conseguido. Se restablecerá el estado de fábrica del dispositivo.</string>
     <string name="kg_forgot_pattern_button_text">¿Has olvidado el patrón?</string>
@@ -817,7 +817,7 @@ Esto generalmente apaga la pantalla."</string>
     <string name="kg_login_account_recovery_hint">\"Si has olvidado tu nombre de usuario o tu contraseña,
 accede a la página \"<b>google.com/accounts/recovery</b>.</string>
     <string name="kg_login_checking_password">Comprobando cuenta…</string>
-    <string name="kg_login_instructions">Para desbloquear el teléfono, inicia sesión con tu cuenta de Google.</string>
+    <string name="kg_login_instructions">Para desbloquear el dispositivo, inicia sesión con tu cuenta de Google.</string>
     <string name="kg_login_invalid_input">El nombre de usuario o la contraseña no son válidos.</string>
     <string name="kg_login_password_hint">Contraseña</string>
     <string name="kg_login_submit_button">Iniciar sesión</string>
@@ -832,15 +832,15 @@ accede a la página \"<b>google.com/accounts/recovery</b>.</string>
     <string name="kg_reordering_delete_drop_target_text">Quitar</string>
     <string name="kg_sim_pin_instructions">Introduce el PIN de la tarjeta SIM.</string>
     <string name="kg_sim_unlock_progress_dialog_message">Desbloqueando tarjeta SIM…</string>
-    <string name="kg_too_many_failed_password_attempts_dialog_message">"Has introducido una contraseña incorrecta %1$d veces. 
+    <string name="kg_too_many_failed_password_attempts_dialog_message">"Has escrito una contraseña incorrecta %1$d veces. 
 
-Inténtalo de nuevo en %2$d segundos."</string>
-    <string name="kg_too_many_failed_pattern_attempts_dialog_message">"Has fallado %1$d veces al dibujar tu patrón de desbloqueo. 
+Espera %2$d segundos antes de intentarlo otra vez."</string>
+    <string name="kg_too_many_failed_pattern_attempts_dialog_message">"Has fallado %1$d veces al dibujar el patrón. 
 
-Inténtalo de nuevo en %2$d segundos."</string>
-    <string name="kg_too_many_failed_pin_attempts_dialog_message">"Has introducido un código PIN incorrecto %1$d veces. 
+Espera %2$d segundos antes de intentarlo otra vez."</string>
+    <string name="kg_too_many_failed_pin_attempts_dialog_message">"Has escrito un código PIN incorrecto %1$d veces. 
 
-Inténtalo de nuevo en %2$d segundos."</string>
+Espera %2$d segundos antes de intentarlo otra vez."</string>
     <string name="kg_wrong_password">Contraseña incorrecta</string>
     <string name="kg_wrong_pattern">El patrón es incorrecto</string>
     <string name="kg_wrong_pin">PIN incorrecto</string>
@@ -880,16 +880,16 @@ Para desanclar, mantén pulsado el botón de Inicio y el botón de Encendido sim
     <string name="lockscreen_carrier_default">Sin servicio</string>
     <string name="lockscreen_emergency_call">Llamada de emergencia</string>
     <string name="lockscreen_failed_attempts_almost_at_wipe">Has intentado desbloquear el teléfono %1$d veces, pero no lo has conseguido. Si fallas %2$d veces más, se restablecerá el estado de fábrica y se perderán todos los datos del usuario.</string>
-    <string name="lockscreen_failed_attempts_almost_glogin">"Has fallado %1$d veces al dibujar el patrón de desbloqueo. Si fallas otras %2$d veces, deberás usar tus credenciales de acceso de Google para desbloquear el teléfono.
+    <string name="lockscreen_failed_attempts_almost_glogin">"Has fallado %1$d veces al dibujar el patrón. Si fallas otras %2$d, necesitarás usar tus credenciales de acceso a Google para desbloquear el dispositivo.
 
- Inténtalo de nuevo dentro de %3$d segundos."</string>
+Inténtalo otra vez en %3$d segundos."</string>
     <string name="lockscreen_failed_attempts_now_wiping">Has intentado desbloquear el teléfono %d veces, pero no lo has conseguido. Se restablecerá el estado de fábrica del dispositivo.</string>
     <string name="lockscreen_forgot_pattern_button_text">¿Has olvidado el patrón?</string>
     <string name="lockscreen_glogin_account_recovery_hint">\"Si has olvidado tu nombre de usuario o tu contraseña,
 accede a la página \"<b>google.com/accounts/recovery</b>.</string>
     <string name="lockscreen_glogin_checking_password">Comprobando...</string>
     <string name="lockscreen_glogin_forgot_pattern">Desbloqueo de cuenta</string>
-    <string name="lockscreen_glogin_instructions">Para desbloquear el teléfono, inicia sesión con tu cuenta de Google.</string>
+    <string name="lockscreen_glogin_instructions">Para desbloquear el dispositivo, inicia sesión con tu cuenta de Google.</string>
     <string name="lockscreen_glogin_invalid_input">Nombre de usuario o contraseña no válido</string>
     <string name="lockscreen_glogin_password_hint">Contraseña</string>
     <string name="lockscreen_glogin_submit_button">Iniciar sesión</string>
@@ -919,15 +919,15 @@ Contacta con tu proveedor de servicio para conseguir otra."</string>
     <string name="lockscreen_sound_on_label">Activar sonido</string>
     <string name="lockscreen_storage_locked">Desbloquear para todos los datos y funciones</string>
     <string name="lockscreen_too_many_failed_attempts_countdown">Espera %d segundos y vuelve a intentarlo.</string>
-    <string name="lockscreen_too_many_failed_attempts_dialog_message">"Has realizado %1$d intentos fallidos de creación de un patrón de desbloqueo. 
+    <string name="lockscreen_too_many_failed_attempts_dialog_message">"Has fallado %1$d veces intentando crear el patrón de desbloqueo. 
 
-Inténtalo de nuevo dentro de %2$d segundos."</string>
-    <string name="lockscreen_too_many_failed_password_attempts_dialog_message">"Has introducido una contraseña incorrecta %1$d veces. 
+Espera %2$d segundos antes de intentarlo otra vez."</string>
+    <string name="lockscreen_too_many_failed_password_attempts_dialog_message">"Has escrito una contraseña incorrecta %1$d veces. 
 
-Inténtalo de nuevo dentro de %2$d segundos."</string>
-    <string name="lockscreen_too_many_failed_pin_attempts_dialog_message">"Has introducido un código PIN incorrecto %1$d veces. 
+Espera %2$d segundos antes de intentarlo otra vez."</string>
+    <string name="lockscreen_too_many_failed_pin_attempts_dialog_message">"Has escrito un código PIN incorrecto %1$d veces. 
 
-Inténtalo de nuevo dentro de %2$d segundos."</string>
+Espera %2$d segundos antes de intentarlo otra vez."</string>
     <string name="lockscreen_transport_ffw_description">Avance rápido</string>
     <string name="lockscreen_transport_next_description">Siguiente canción</string>
     <string name="lockscreen_transport_pause_description">Pausar</string>
@@ -1205,7 +1205,7 @@ notificaciones mejoradas pueden acceder al contenido de las notificaciones, incl
     <string name="permdesc_install_shortcut">Permite que una aplicación añada accesos directos a la pantalla de inicio sin intervención del usuario.</string>
     <string name="permdesc_invokeCarrierSetup">Permite ejecutar la aplicación de configuración proporcionada por el operador. No debe ser necesario para aplicaciones normales.</string>
     <string name="permdesc_killBackgroundProcesses">Este permiso autoriza a la aplicación a interrumpir procesos en segundo plano de otras aplicaciones y puede hacer, por tanto, que esas aplicaciones dejen de ejecutarse.</string>
-    <string name="permdesc_manageFingerprint">Permite que la aplicación invoque métodos para añadir y eliminar plantillas de huellas digitales y utilizarlas.</string>
+    <string name="permdesc_manageFingerprint">Permite a la aplicación añadir, eliminar y usar modelos de huellas dactilares.</string>
     <string name="permdesc_manageNetworkPolicy">Permite que la aplicación administre políticas de red y defina reglas específicas de la aplicación.</string>
     <string name="permdesc_manageOngoingCalls">Permite que una aplicación vea detalles sobre las llamadas en curso en su dispositivo y las controle.</string>
     <string name="permdesc_manageOwnCalls">Permite a la aplicación direccionar sus llamadas hacia el sistema para mejorar la calidad de estas.</string>
@@ -1218,16 +1218,16 @@ notificaciones mejoradas pueden acceder al contenido de las notificaciones, incl
     <string name="permdesc_preferredPaymentInfo">Permite que la aplicación obtenga información sobre el servicio de pago por NFC preferido, como identificadores de aplicación registrados y destinos de rutas.</string>
     <string name="permdesc_processOutgoingCalls">Permite que la aplicación vea el número que se marca al realizar una llamada con la opción de redirigir la llamada a otro número o cancelar la llamada.</string>
     <string name="permdesc_queryAllPackages">Permite que una aplicación vea todos los paquetes instalados.</string>
-    <string name="permdesc_readCalendar">Esta aplicación puede leer los eventos de calendario almacenados en tu teléfono y compartir o guardar los datos de tu calendario.</string>
+    <string name="permdesc_readCalendar">Esta aplicación puede leer los eventos de calendario almacenados en tu dispositivo y compartir o guardar los datos del calendario.</string>
     <string name="permdesc_readCallLog">Esta aplicación puede leer tu historial de llamadas.</string>
     <string name="permdesc_readCellBroadcasts">Permite que la aplicación lea mensajes de difusión móvil que haya recibido el dispositivo. Las alertas de difusión móvil se envían en algunas ubicaciones para avisar de situaciones de emergencia. Es posible que las aplicaciones malintencionadas interfieran en el rendimiento o en el funcionamiento del dispositivo si se recibe una alerta de difusión móvil de emergencia.</string>
-    <string name="permdesc_readContacts">Permite que la aplicación lea datos de los contactos almacenados en tu teléfono. Las aplicaciones también podrán acceder a las cuentas de tu teléfono que hayan creado contactos, y quizá tengan acceso a las cuentas creadas por aplicaciones que hayas descargado. Las aplicaciones que tengan este permiso pueden guardar los datos de tus contactos, y las aplicaciones maliciosas puede que compartan estos datos sin que lo sepas.</string>
+    <string name="permdesc_readContacts">Permite que la aplicación lea datos de los contactos almacenados en tu dispositivo. Las aplicaciones también podrán acceder a las cuentas del dispositivo que hayan creado contactos, y quizá tengan acceso a las cuentas creadas por aplicaciones que hayas descargado. Las aplicaciones que tengan este permiso pueden guardar los datos de tus contactos, y una aplicación maliciosa podría compartir estos datos sin que lo sepas.</string>
     <string name="permdesc_readHistoryBookmarks">"Permite que la aplicación consulte el historial de todas las URL visitadas por el navegador y todos sus marcadores. Nota: este permiso no pueden utilizarlo navegadores externos ni otras aplicaciones que tengan funciones de navegación por Internet."</string>
     <string name="permdesc_readInstallSessions">Permite que una aplicación consulte sesiones de instalación para ver detalles sobre instalaciones de paquetes activos.</string>
     <string name="permdesc_readNetworkUsageHistory">Permite que la aplicación consulte el uso de red histórico de redes y de aplicaciones específicas.</string>
     <string name="permdesc_readPhoneNumbers">Permite que la aplicación acceda a los números de teléfono del dispositivo.</string>
     <string name="permdesc_readPhoneState">Permite que la aplicación acceda a las funciones de teléfono del dispositivo. La aplicación puede utilizar este permiso para descubrir identificadores de dispositivos y números de teléfono, para saber si una llamada está activa y para conocer el número remoto con el que se ha establecido conexión mediante una llamada.</string>
-    <string name="permdesc_readSms">Esta aplicación puede leer todos los SMS (mensajes de texto) almacenados en tu teléfono.</string>
+    <string name="permdesc_readSms">Esta aplicación puede leer todos los SMS (mensajes de texto) almacenados en tu dispositivo.</string>
     <string name="permdesc_readSyncSettings">Permite que la aplicación consulte la configuración de sincronización de una cuenta. La aplicación puede utilizar este permiso, por ejemplo, para determinar si la aplicación Contactos está sincronizada con una cuenta.</string>
     <string name="permdesc_readSyncStats">Permite que la aplicación consulte las estadísticas de sincronización de una cuenta (por ejemplo, el historial de eventos sincronizados y la cantidad de datos sincronizados).</string>
     <string name="permdesc_receiveBootCompleted">Permite que la aplicación se ejecute automáticamente una vez que el sistema se haya iniciado completamente. Esto puede hacer que el teléfono tarde más en iniciarse y puede permitir que la aplicación ralentice el funcionamiento global del dispositivo.</string>
@@ -1265,16 +1265,16 @@ notificaciones mejoradas pueden acceder al contenido de las notificaciones, incl
     <string name="permdesc_uninstall_shortcut">Permite que la aplicación elimine accesos directos de la pantalla de inicio sin la intervención del usuario.</string>
     <string name="permdesc_useBiometric">Permite que la aplicación utilice el hardware biométrico para realizar la autenticación</string>
     <string name="permdesc_useDataInBackground">Esta aplicación puede utilizar datos en segundo plano, pero es posible que aumente el uso de datos.</string>
-    <string name="permdesc_useFingerprint">Permite que la aplicación utilice el hardware de huellas digitales para realizar la autenticación</string>
+    <string name="permdesc_useFingerprint">Permite que la aplicación use el hardware de huella dactilar para autenticación.</string>
     <string name="permdesc_use_sip">Permite que la aplicación haga y reciba llamadas SIP.</string>
     <string name="permdesc_uwb_ranging">Permita que la aplicación determine la posición relativa entre los dispositivos de banda ultra-ancha cercanos</string>
     <string name="permdesc_vibrate">Permite que la aplicación controle la función de vibración.</string>
     <string name="permdesc_vibrator_state">Permite que la aplicación acceda al ajuste de vibración.</string>
     <string name="permdesc_videoWrite">Permite que la aplicación modifique tu colección de vídeos.</string>
     <string name="permdesc_wakeLock">Permite que la aplicación impida que el teléfono entre en modo de suspensión.</string>
-    <string name="permdesc_writeCalendar">Esta aplicación puede añadir, quitar o cambiar eventos de calendario almacenados en tu teléfono. También puede enviar mensajes que parecen provenir del propietario del calendario o cambiar eventos sin notificárselo a su propietario.</string>
+    <string name="permdesc_writeCalendar">Esta aplicación puede añadir, quitar o cambiar eventos de calendario almacenados en el dispositivo. También puede enviar mensajes que parezcan del propietario del calendario o cambiar eventos sin notificarlo a su propietario.</string>
     <string name="permdesc_writeCallLog">"Permite que la aplicación modifique el registro de llamadas del teléfono, incluidos datos sobre llamadas entrantes y salientes. Las aplicaciones malintencionadas pueden usar este permiso para borrar o modificar el registro de llamadas."</string>
-    <string name="permdesc_writeContacts">Permite que la aplicación cambie los datos de los contactos almacenados en tu teléfono. Las aplicaciones que tengan este permiso pueden eliminar datos de contactos.</string>
+    <string name="permdesc_writeContacts">Permite que la aplicación cambie los datos de los contactos almacenados en el dispositivo. Las aplicaciones que tengan este permiso pueden eliminar datos de contactos.</string>
     <string name="permdesc_writeGeolocationPermissions">"Permite que la aplicación modifique los permisos de ubicación geográfica del navegador. Las aplicaciones malintencionadas pueden usar este permiso para autorizar el envío de información sobre la ubicación a sitios web arbitrarios."</string>
     <string name="permdesc_writeHistoryBookmarks">"Permite que la aplicación modifique el historial o los marcadores del navegador almacenados en el teléfono. La aplicación puede utilizar este permiso para borrar o modificar datos del navegador. Nota: este permiso no pueden utilizarlo navegadores externos ni otras aplicaciones que tengan funciones de navegación por Internet."</string>
     <string name="permdesc_writeSettings">"Permite que la aplicación modifique los datos de configuración del sistema. Las aplicaciones malintencionadas pueden dañar la configuración del sistema."</string>
@@ -1369,7 +1369,7 @@ para la cuenta %s"</string>
     <string name="permlab_install_shortcut">instalar accesos directos</string>
     <string name="permlab_invokeCarrierSetup">ejecutar la aplicación de configuración proporcionada por el operador</string>
     <string name="permlab_killBackgroundProcesses">cerrar otras aplicaciones</string>
-    <string name="permlab_manageFingerprint">administrar hardware de huellas digitales</string>
+    <string name="permlab_manageFingerprint">Administrar el hardware de huella dactilar</string>
     <string name="permlab_manageNetworkPolicy">administrar política de red</string>
     <string name="permlab_manageOngoingCalls">Gestionar llamadas en curso</string>
     <string name="permlab_manageOwnCalls">direccionar llamadas a través del sistema</string>
@@ -1429,7 +1429,7 @@ para la cuenta %s"</string>
     <string name="permlab_uninstall_shortcut">desinstalar accesos directos</string>
     <string name="permlab_useBiometric">usar hardware biométrico</string>
     <string name="permlab_useDataInBackground">utilizar datos en segundo plano</string>
-    <string name="permlab_useFingerprint">utilizar hardware de huellas digitales</string>
+    <string name="permlab_useFingerprint">Usar el hardware de huella dactilar</string>
     <string name="permlab_use_sip">hacer/recibir llamadas SIP</string>
     <string name="permlab_uwb_ranging">determinar la posición relativa entre los dispositivos de banda ultra-ancha cercanos</string>
     <string name="permlab_vibrate">controlar la vibración</string>
@@ -1564,7 +1564,7 @@ para la cuenta %s"</string>
     <string name="restr_pin_enter_new_pin">PIN nuevo</string>
     <string name="restr_pin_enter_old_pin">PIN actual</string>
     <string name="restr_pin_enter_pin">Introducir PIN</string>
-    <string name="restr_pin_error_doesnt_match">"Los números PIN no coinciden. Inténtalo de nuevo."</string>
+    <string name="restr_pin_error_doesnt_match">"Los números PIN no coinciden. Inténtalo otra vez."</string>
     <string name="restr_pin_error_too_short">El PIN es demasiado corto. Debe tener al menos 4 dígitos.</string>
     <string name="restr_pin_incorrect">Incorrecto</string>
     <string name="restr_pin_try_later">Volver a intentar más tarde</string>
@@ -1710,7 +1710,7 @@ Escuchar sonidos fuertes durante mucho tiempo puede dañar los oídos."</string>
     <string name="ssl_certificate_is_valid">Este certificado es válido.</string>
     <string name="status_bar_screen_record">Registro de pantalla</string>
     <string name="status_communication_speaker_summary">Una llamada manos libres está en progreso. El audio se reproducirá a través del altavoz cuando los auriculares estén conectados.</string>
-    <string name="status_communication_summary">Una llamada está en progreso. Solo puede ajustar el volumen de la llamada ahora.</string>
+    <string name="status_communication_summary">Hay una llamada en curso. Solo puedes ajustar el volumen ahora.</string>
     <string name="stk_cc_ss_to_dial">Se ha cambiado la solicitud de SS a una llamada normal</string>
     <string name="stk_cc_ss_to_dial_video">Se ha cambiado la solicitud de SS a una videollamada</string>
     <string name="stk_cc_ss_to_ss">Se ha cambiado a una nueva solicitud de SS</string>

@@ -10,7 +10,7 @@
     <string name="abc_capital_on">ACTIVADO</string>
     <string name="abc_menu_alt_shortcut_label">Alt +</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
-    <string name="abc_menu_delete_shortcut_label">Suprimir</string>
+    <string name="abc_menu_delete_shortcut_label">Eliminar</string>
     <string name="abc_menu_enter_shortcut_label">Intro</string>
     <string name="abc_menu_function_shortcut_label">Función +</string>
     <string name="abc_menu_meta_shortcut_label">Meta +</string>
@@ -573,7 +573,7 @@ no se generan en el segundo espacio"</string>
     <string name="srgb_color_region">sRGB</string>
     <string name="srgb_color_region_summary">Mostrar el contenido de la pantalla en la gama de color sRGB</string>
     <string name="start_easymode">Activar el modo Lite</string>
-    <string name="steady_on_screen_notification_title">Deja el teléfono y tómate un descanso</string>
+    <string name="steady_on_screen_notification_title">Deja el dispositivo y tómate un descanso</string>
     <string name="steady_on_screen_notification_title_pad">Deja tu dispositivo y tómate un descanso</string>
     <string name="steady_on_screen_notify">Notificar acerca del uso ininterrumpido</string>
     <string name="steady_on_screen_setting">Tiempo límite para sesiones ininterrumpidas</string>
@@ -688,7 +688,7 @@ no se generan en el segundo espacio"</string>
     <string name="usage_beat_fans">Mejor que el %s de los Mi Fans</string>
     <string name="usage_continuous_days">Racha</string>
     <string name="usage_creating_weekly_report">Creando informe semanal…</string>
-    <string name="usage_cta_desc">"¡Te damos la bienvenida a Configuración! Para proporcionar estadísticas de tiempo de pantalla, esta aplicación recopilará los siguientes datos: cantidad de veces que desbloqueas el dispositivo, la lista de aplicaciones y su tiempo de uso, la cantidad de encendidos de la pantalla y ajustes del modo de enfoque. Los datos recopilados tan solo se almacenarán localmente en el dispositivo.
+    <string name="usage_cta_desc">"¡Te damos la bienvenida! Para proporcionar estadísticas de tiempo de pantalla, esta aplicación recopilará los siguientes datos: cantidad de veces que desbloqueas el dispositivo, la lista de aplicaciones y su tiempo de uso, la cantidad de encendidos de la pantalla y ajustes del modo de enfoque. Los datos recopilados tan solo se almacenarán localmente en el dispositivo.
 "</string>
     <string name="usage_current_week_usage">%s de media en los últimos 7 días</string>
     <string name="usage_device_limit_app_prolong">Añadir tiempo</string>
@@ -834,7 +834,7 @@ Esta aplicación usa la conexión a Internet y necesita los siguientes permisos 
     <string name="usage_state_focus_success">Desafío completado</string>
     <string name="usage_state_focus_take_photo">Cámara</string>
     <string name="usage_state_focus_warning_text">Céntrate en algo importante</string>
-    <string name="usage_state_focus_weak_summary">Aleja tu teléfono</string>
+    <string name="usage_state_focus_weak_summary">Aleja tu dispositivo</string>
     <string name="usage_state_focus_weak_summary_pad">Guarda tu dispositivo</string>
     <string name="usage_state_friday">Vie</string>
     <string name="usage_state_go_more">Más aplicaciones</string>

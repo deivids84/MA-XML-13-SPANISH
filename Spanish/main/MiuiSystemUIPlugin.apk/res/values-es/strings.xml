@@ -185,7 +185,7 @@
     <string name="miplay_detail_header_no_song">Sin historial de reproducción</string>
     <string name="miplay_device_full_name">%2$s del %1$s</string>
     <string name="miplay_headset_lc3_hint">Apague LC3 para poder cambiar la salida de audio a este dispositivo</string>
-    <string name="miplay_service_timeout_toast">Tiempo de conexión agotado. Inténtalo de nuevo.</string>
+    <string name="miplay_service_timeout_toast">Tiempo de espera agotado. Inténtalo otra vez.</string>
     <string name="miplay_song_title_empty">Sin canciones</string>
     <string name="miui_dnd_count_down">Deslice y ajuste el temporizador</string>
     <string name="miui_dnd_count_down_time">"Temporizador del Modo no molestar
@@ -229,7 +229,7 @@
     <string name="miuix_indexer_collect">Colecciones</string>
     <string name="miuix_indexer_selected">Seleccionado %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Desliza hacia abajo para actualizar</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado con éxito</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualizando…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Suelta para actualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Eso es todo por ahora"</string>
@@ -332,7 +332,7 @@
     <string name="qs_control_expand_detail_title">Mis datos</string>
     <string name="qs_control_header_tiles_title">Centro de control</string>
     <string name="qs_customize_title">Editar</string>
-    <string name="qs_open_night_mode_alert_summary">"Ciertas configuraciones de pantalla no son compatibles con el modo oscuro. Sin embargo, se restaurarán una vez que desactives el modo oscuro."</string>
+    <string name="qs_open_night_mode_alert_summary">"Algunos ajustes de reproducción son incompatibles con el modo Oscuro. Sin embargo se restaurarán al desactivarlo."</string>
     <string name="quick_controls_subtitle">Añadir controles para tus dispositivos conectados</string>
     <string name="quick_controls_title">Controles del dispositivo</string>
     <string name="quick_settings_aitranslate_label">MI AI Translate</string>
@@ -363,11 +363,11 @@
     <string name="quick_settings_pcmode_cancel_button">Cancelar</string>
     <string name="quick_settings_pcmode_dialog_message_turnoff">Desactivar Modo PC</string>
     <string name="quick_settings_pcmode_dialog_message_turnon">Activar Modo PC</string>
-    <string name="quick_settings_pcmode_dialog_remember_text">"No mostrar de nuevo"</string>
+    <string name="quick_settings_pcmode_dialog_remember_text">"No mostrar otra vez"</string>
     <string name="quick_settings_pcmode_error">"No se pudo encontrar esta aplicación. Instálelo primero."</string>
     <string name="quick_settings_pcmode_label">Modo PC</string>
     <string name="quick_settings_pcmode_ok_button">OK</string>
-    <string name="quick_settings_pcmode_turn_off_description">"La pantalla de tu teléfono se mostrará en el monitor externo. ¿Desactivar el Modo PC?"</string>
+    <string name="quick_settings_pcmode_turn_off_description">"La pantalla de tu dispositivo se mostrará en el monitor externo. ¿Desactivar el Modo PC?"</string>
     <string name="quick_settings_pcmode_turn_on_description">"La pantalla de tu ordenador se mostrará en el monitor externo. ¿Activar el Modo PC?"</string>
     <string name="quick_settings_powermode_label">Modo rendimiento</string>
     <string name="quick_settings_quietmode_label">No molestar</string>
@@ -511,7 +511,7 @@ La exposición prolongada a sonidos fuertes puede causar problemas de audición.
     <string name="wireless_charging_saver_cancel">Desactivar</string>
     <string name="wireless_charging_saver_message">Ahorro de batería activado. ¿Mantener carga inalámbrica inversa disponible?</string>
     <string name="wireless_charging_saver_ok">Mantener</string>
-    <string name="wireless_charging_tips_disable">"No mostrar de nuevo"</string>
+    <string name="wireless_charging_tips_disable">"No mostrar otra vez"</string>
     <string name="wireless_charging_tips_message">Coloca el dispositivo que deseas cargar de forma inalámbrica (por ejemplo, un teléfono, reloj inteligente, auriculares) en la parte posterior de este teléfono. Asegúrate de que este teléfono tenga al menos el %d%% de batería antes de usar la carga inalámbrica inversa.</string>
     <string name="wireless_charging_tips_sub_message">El otro dispositivo debe admitir el estándar de carga inalámbrica Qi.</string>
     <string name="wireless_charging_tips_title">Carga inalámbrica inversa</string>

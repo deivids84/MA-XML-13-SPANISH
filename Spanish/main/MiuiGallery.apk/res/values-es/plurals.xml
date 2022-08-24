@@ -29,8 +29,8 @@
         <item quantity="one">en 1 min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
-        <item quantity="one">Justo ahora</item>
-        <item quantity="other">Justo ahora</item>
+        <item quantity="one">Ahora mismo</item>
+        <item quantity="other">Ahora mismo</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">Hace %d minutos</item>
@@ -209,8 +209,8 @@
         <item quantity="one">"No se pudo descargar %1$d archivo"</item>
     </plurals>
     <plurals name="download_retry_message">
-        <item quantity="other">"No se pudieron descargar %1$d archivos, comprueba la conexión de red e inténtalo de nuevo"</item>
-        <item quantity="one">"No se pudo descargar %1$d archivo, comprueba la conexión de red e inténtalo de nuevo"</item>
+        <item quantity="other">"No se pudo descargar %1$d archivos, comprueba la conexión de red e inténtalo otra vez"</item>
+        <item quantity="one">"No se pudo descargar %1$d archivo, comprueba la conexión de red e inténtalo otra vez"</item>
     </plurals>
     <plurals name="downloading_title_link">
         <item quantity="other">Descargando elementos de la nube (%2$d/%1$d)</item>
@@ -253,8 +253,8 @@
         <item quantity="one">en 1 minuto</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
-        <item quantity="one">Justo ahora</item>
-        <item quantity="other">Justo ahora</item>
+        <item quantity="one">Ahora mismo</item>
+        <item quantity="other">Ahora mismo</item>
     </plurals>
     <plurals name="miplay_time_minute_unit">
         <item quantity="other">%d minutos</item>
@@ -353,8 +353,8 @@
         <item quantity="one">Descargando %d archivo restante</item>
     </plurals>
     <plurals name="picker_no_network_retry_image_confirm_message">
-        <item quantity="other">"No se pudo descargar %1$d fotos, conéctate a la red e inténtalo de nuevo"</item>
-        <item quantity="one">"No se pudo descargar %1$d foto, conéctate a la red e inténtalo de nuevo"</item>
+        <item quantity="other">"No se pudo descargar %1$d fotos, conecta a la red e inténtalo otra vez"</item>
+        <item quantity="one">"No se pudo descargar %1$d foto, conecta a la red e inténtalo otra vez"</item>
     </plurals>
     <plurals name="picker_no_network_retry_origin_confirm_message">
         <item quantity="other">"No se pudo descargar %1$d archivos (%2$d MB). Conecta a la red y vuelve a intentarlo."</item>
@@ -365,12 +365,12 @@
         <item quantity="one">"Todavía no se ha descargado %1$d archivo (%2$d MB). ¿Descargar usando datos móviles?"</item>
     </plurals>
     <plurals name="picker_retry_image_confirm_message">
-        <item quantity="other">"No se pudo descargar %1$d fotos, ¿intentar de nuevo?"</item>
-        <item quantity="one">"No se pudo descargar %1$d foto, ¿intentar de nuevo?"</item>
+        <item quantity="other">"No se pudo descargar %1$d fotos, ¿intentar otra vez?"</item>
+        <item quantity="one">"No se pudo descargar %1$d foto, ¿intentar otra vez?"</item>
     </plurals>
     <plurals name="picker_retry_origin_confirm_message">
-        <item quantity="other">"No se pudo descargar %1$d fotos (%2$d MB), ¿intentar de nuevo?"</item>
-        <item quantity="one">"No se pudo descargar %1$d foto (%2$d MB), ¿intentar de nuevo?"</item>
+        <item quantity="other">"No se pudo descargar %1$d fotos (%2$d MB), ¿intentar otra vez?"</item>
+        <item quantity="one">"No se pudo descargar %1$d foto (%2$d MB), ¿intentar otra vez?"</item>
     </plurals>
     <plurals name="picker_skip_unavailable_images">
         <item quantity="other">"Se han omitido %d fotos que no están en el dispositivo."</item>

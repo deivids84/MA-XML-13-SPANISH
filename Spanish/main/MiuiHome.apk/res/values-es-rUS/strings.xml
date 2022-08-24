@@ -519,6 +519,7 @@
     <string name="midnight">Noche</string>
     <string name="minus_one_screen">Bóveda de aplicaciones</string>
     <string name="miui_screen_config_title">Ajustes de pantalla de inicio</string>
+    <string name="miui_widget_menu_replace_text">Cambiar</string>
     <string name="miuix_access_state_desc">Seleccionado</string>
     <string name="miuix_alphabet_indexer_name">Barra de índice</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deseleccionar</string>
@@ -694,6 +695,7 @@
     <string name="notification_reset_title">Íconos organizados con éxito</string>
     <string name="one_key_call_title">Toque para marcar</string>
     <string name="online_wallpaper">En línea</string>
+    <string name="open_pad_personal_assistant_settings">Widgets de la pantalla de inicio</string>
     <string name="open_personal_assistant_dialog_btn_cancel">Cancelar</string>
     <string name="open_personal_assistant_dialog_btn_confirm">Desactivar</string>
     <string name="open_personal_assistant_dialog_desc">"Después de desactivar App Vault, no podrá ver ni utilizar los widgets de App Vault. Sus versiones actualizadas tampoco estarán disponibles para usted. ¿Desactivar de todos modos?"</string>

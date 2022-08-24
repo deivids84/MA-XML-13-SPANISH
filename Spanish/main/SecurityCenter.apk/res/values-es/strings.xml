@@ -68,7 +68,7 @@
     <string name="abc_shareactionprovider_share_with_application">Compartir con %s</string>
     <string name="abc_toolbar_collapse_description">Ocultar</string>
     <string name="abnormal_consume_disable_autostart">Restringir el inicio automático</string>
-    <string name="abnormal_consume_disable_autostart_toast">Inicio automático restringido con éxito</string>
+    <string name="abnormal_consume_disable_autostart_toast">Inicio automático restringido</string>
     <string name="abnormal_consume_set_hidemode">Utiliza el Ahorro de batería con esta aplicación</string>
     <string name="abnormal_consume_type_cpu">Uso elevado de la CPU</string>
     <string name="abnormal_consume_type_wakelock">"El sistema no puede permanecer inactivo"</string>
@@ -86,14 +86,14 @@
     <string name="ac_pre_notification_contentTitle">Probar Bloqueo de aplicaciones</string>
     <string name="ac_recommend_guide_dialog_app_content">Usa el Bloqueo de aplicaciones con esta aplicación para proteger tu información personal y evitar la filtración de datos.</string>
     <string name="ac_recommend_guide_dialog_content">Puedes proteger tu información personal y evitar la filtración de datos usando el Bloqueo de aplicaciones.</string>
-    <string name="ac_recommend_guide_dialog_ignore">"No mostrar de nuevo"</string>
+    <string name="ac_recommend_guide_dialog_ignore">"No mostrar otra vez"</string>
     <string name="ac_recommend_guide_dialog_open">Activar</string>
     <string name="ac_summaryOff">Desactivado, no se requiere ninguna contraseña para abrir las aplicaciones</string>
     <string name="ac_summaryOn">Intrducir contraseña para abrir aplicaciones protegidas</string>
     <string name="ac_unmask_all_apps">Mostrar para todas</string>
     <string name="access_control_app_is_launching">La aplicación se está iniciando</string>
-    <string name="access_control_failed_need_to_unlock_nofingerprint">Ingrese la contraseña antes de desbloquear con una nueva huella dactilar</string>
-    <string name="access_control_fingerprint_not_identified_msg">"No se pudo leer la huella."</string>
+    <string name="access_control_failed_need_to_unlock_nofingerprint">Escribe la contraseña antes de desbloquear con una nueva huella dactilar</string>
+    <string name="access_control_fingerprint_not_identified_msg">"No se pudo leer la huella dactilar."</string>
     <string name="access_control_need_password">"%sañadido correctamenter
 "</string>
     <string name="access_control_need_to_unlock_nofingerprint">Introduce la contraseña de Bloqueo de aplicaciones</string>
@@ -139,12 +139,12 @@
     <string name="ad_split_screen_title">Salir de la Pantalla dividida para desbloquear</string>
     <string name="ad_update_time">Última actualización %s</string>
     <string name="ad_update_time_unKnown">Última actualización desconocida</string>
-    <string name="adb_install_no_network">Conéctese a la red e inténtelo de nuevo</string>
+    <string name="adb_install_no_network">Conecta a la red e inténtalo otra vez</string>
     <string name="adb_install_open">Permitiendo…</string>
     <string name="adb_install_open_error">"No se permitió, compruebe su conexión de red"</string>
     <string name="adb_install_reject_notiy">"Denegar la instalación de %s a través de USB"</string>
     <string name="adb_install_reject_notiy_desc">Puede permitir la instalación a través de USB en Opciones de desarrollador</string>
-    <string name="adb_login_xiaomi_account">Primero inicia sesión en Cuenta Mi</string>
+    <string name="adb_login_xiaomi_account">Antes inicia sesión en tu cuenta Xiaomi</string>
     <string name="add_auto_task_desktop_icon">Agregar acceso directo a la pantalla de inicio</string>
     <string name="add_bill_reminder_alarm">Establecer advertencia de saldo del teléfono</string>
     <string name="add_done">Añadido correctamente</string>
@@ -218,7 +218,7 @@
     <string name="antivirus_monitored_app_empty">"No se pudo encontrar aplicaciones de pago compatibles"</string>
     <string name="antivirus_monitored_tips">Verifique el entorno de pago para detectar posibles riesgos automáticamente</string>
     <string name="antivirus_none_engine_dialog_ok">OK</string>
-    <string name="antivirus_not_remind_for_app">"No advertir de nuevo sobre esta aplicación"</string>
+    <string name="antivirus_not_remind_for_app">"No advertir otra vez sobre esta aplicación"</string>
     <string name="antivirus_not_wlan">"No estás conectado a Wi-Fi. Usar datos móviles puede generar gastos adicionales. ¿Continuar de todos modos?"</string>
     <string name="antivirus_privacy_dialog_cloudscan">Transferir nombres y detalles de aplicaciones</string>
     <string name="antivirus_privacy_dialog_cloudscan_description">"Para detectar y neutralizar los virus de manera más efectiva, cargaremos los nombres y las propiedades del paquete de las aplicaciones para escanearlas usando un motor en la nube."</string>
@@ -235,8 +235,8 @@
     <string name="antivirus_third_privacy_title">Políticas de privacidad de terceros</string>
     <string name="antivirus_toast_already_update">Actualizado</string>
     <string name="antivirus_toast_network_unavailable">"No se pudo conectar a la red"</string>
-    <string name="antivirus_toast_update_failed">Nuestros servicios están ocupados. Espera un minuto o dos y vuelve a intentarlo.</string>
-    <string name="antivirus_toast_update_success">Actualizado con éxito</string>
+    <string name="antivirus_toast_update_failed">Los servidores están ocupados. Espera un par de minutos e inténtalo otra vez.</string>
+    <string name="antivirus_toast_update_success">Actualizado</string>
     <string name="antivirus_toast_updating">Actualizando…</string>
     <string name="antivirus_update_btn_contiue">Continuar</string>
     <string name="antivirus_update_btn_open">Permitir</string>
@@ -331,7 +331,7 @@
     <string name="app_behavior_monitor_off">Desactivar notificaciones</string>
     <string name="app_behavior_monitor_off_content">"No podrá recibir notificaciones sobre acciones sensibles realizadas por esta aplicación. ¿Desactivar las notificaciones de todos modos?"</string>
     <string name="app_behavior_monitor_off_positive">Desactivar</string>
-    <string name="app_behavior_monitor_off_select">"No mostrar de nuevo"</string>
+    <string name="app_behavior_monitor_off_select">"No mostrar otra vez"</string>
     <string name="app_behavior_monitor_tips_if_trust">Puede desactivar las notificaciones sobre acciones delicadas si confia en esta aplicación</string>
     <string name="app_behavior_monitor_tips_key">Notificaciones sobre acciones delicadas</string>
     <string name="app_behavior_monitor_tips_summary">Puede recibir notificaciones cuando las aplicaciones graben audio, accedan a su ubicación o realicen otras acciones delicadas en segundo plano.</string>
@@ -424,7 +424,7 @@
     <string name="app_error_tip_for_store">"Los componentes hardware de tu dispositivo o versión de Android pueden tener problemas de compatibilidad creando fallos de instalación. Si encuentras estos errores o algunas app no funcionan correctamente, se congelan o paran forzosamente, espera a que los desarrolladores arreglen el problema y vuelve a instalarlas."</string>
     <string name="app_install_intercept">Bloquear instalación</string>
     <string name="app_install_tips_go_to">Abrir</string>
-    <string name="app_install_tips_install_success">%1$s instalado con éxito</string>
+    <string name="app_install_tips_install_success">%1$s instalado</string>
     <string name="app_manager_advanced_setting">Ajustes avanzados</string>
     <string name="app_manager_allow">Sí</string>
     <string name="app_manager_anomaly_analysis">Analizar problemas de aplicaciones de terceros</string>
@@ -579,7 +579,7 @@ No perderás ningún dato de la aplicación."</string>
     <string name="app_predict_classification_search_empty">"No se pudieron encontrar resultados"</string>
     <string name="app_predict_dialog_button">Añadir a la pantalla principal</string>
     <string name="app_predict_dialog_message">La IA sugerirá aplicaciones que podría necesitar en este momento</string>
-    <string name="app_predict_dialog_success">Agregado a la pantalla de inicio con éxito</string>
+    <string name="app_predict_dialog_success">Agregado a la pantalla de inicio</string>
     <string name="app_predict_folder_name">Buscar</string>
     <string name="app_predict_folder_tips">Sugerencias derivadas de tus hábitos de uso</string>
     <string name="app_predict_go_shop_search_app">Buscar en GetApps</string>
@@ -629,23 +629,23 @@ No perderás ningún dato de la aplicación."</string>
     <string name="applock_add_account">Añadir</string>
     <string name="applock_add_account_ignore">Ahora no</string>
     <string name="applock_add_account_ignore_with_seconds">Ahora no (%d s)</string>
-    <string name="applock_add_account_info">Añadir Cuenta Mi para poder restaurar tu contraseña si la olvidas.</string>
+    <string name="applock_add_account_info">Añadir cuenta Xiaomi para restaurar tu contraseña en caso de olvido.</string>
     <string name="applock_add_account_setting">Cuenta y privacidad</string>
-    <string name="applock_add_account_tips">"Con una Cuenta Mi, podrás restaurar tu Bloqueo aplicaciones si la olvidas."</string>
-    <string name="applock_add_account_title">Añade tu Cuenta Mi</string>
-    <string name="applock_add_account_title_part">Agregue su cuenta Mi para poder restablecer la contraseña</string>
+    <string name="applock_add_account_tips">"Con la cuenta Xiaomi, podrás restaurar el bloqueo de tu aplicación si lo olvidas."</string>
+    <string name="applock_add_account_title">Añade tu cuenta Xiaomi</string>
+    <string name="applock_add_account_title_part">Agregar la cuenta Xiaomi para restablecer la contraseña</string>
     <string name="applock_already_add_account">Cuenta actual: %s</string>
     <string name="applock_app_recommend_lock_title">Puede bloquear las siguientes aplicaciones</string>
-    <string name="applock_bind_account_dialog_content">Tu Cuenta Mi es la única forma de restaurar tu Bloqueo aplicaciones en caso de que la olvides. Inicia sesión para añadir tu Cuenta Mi.</string>
-    <string name="applock_bind_account_dialog_title">Añade tu Cuenta Mi</string>
+    <string name="applock_bind_account_dialog_content">La cuenta Xiaomi es la única forma de restaurar el bloqueo de aplicaciones si lo olvidas. Inicia sesión para añadir tu cuenta Xiaomi.</string>
+    <string name="applock_bind_account_dialog_title">Añade tu cuenta Xiaomi</string>
     <string name="applock_bind_account_title">Contraseña olvidada</string>
     <string name="applock_close_dialog_summary">Se eliminará la contraseña de bloqueo de la aplicación. ¿Desactivar el bloqueo de aplicaciones ahora?</string>
     <string name="applock_close_dialog_title">¿Desactivar Bloqueo de aplicaciones?</string>
     <string name="applock_exit_account_info">La cuenta se eliminará automáticamente al cerrar la sesión</string>
     <string name="applock_face_unlock_summary">Desbloquear aplicaciones con datos faciales</string>
     <string name="applock_face_unlock_title">Desbloqueo facial</string>
-    <string name="applock_fingerprint_detect">Usar huella digital</string>
-    <string name="applock_fingerprint_unlock">Usar huella digital</string>
+    <string name="applock_fingerprint_detect">Usar huella dactilar</string>
+    <string name="applock_fingerprint_unlock">Usar huella dactilar</string>
     <string name="applock_function_base_settings">Bloqueo de aplicaciones</string>
     <string name="applock_function_pwd_settings">Contraseña</string>
     <string name="applock_go_to">Ajustes</string>
@@ -660,7 +660,7 @@ No perderás ningún dato de la aplicación."</string>
     <string name="applock_guide_tip1_without_face">Existen varios tipos de contraseña disponibles. Desbloquea aplicaciones con tu huella dactilar o introduce la contraseña.</string>
     <string name="applock_guide_tip1_without_finger">Existen varios tipos de contraseña disponibles. Desbloquea aplicaciones con tu rostro o introduce la contraseña.</string>
     <string name="applock_guide_tip1_without_finger_face">Existen varios tipos de contraseña disponibles.</string>
-    <string name="applock_guide_tip2">Añade tu Cuenta Mi para poder restablecer tu contraseña.</string>
+    <string name="applock_guide_tip2">Añade tu cuenta Xiaomi para restablecer tu contraseña.</string>
     <string name="applock_guide_tip3">Ocultar contenido de notificaciones.</string>
     <string name="applock_guide_tip3_global">Ocultar contenido de notificaciones.</string>
     <string name="applock_guide_title">Protege tu privacidad con el Bloqueo de aplicaciones</string>
@@ -673,7 +673,7 @@ No perderás ningún dato de la aplicación."</string>
     <string name="applock_login_and_add_account">Iniciar sesión y añadir</string>
     <string name="applock_mixtype_hidepwd_icon">Ocultar</string>
     <string name="applock_mixtype_showpwd_icon">Mostrar</string>
-    <string name="applock_no_account_login">"No has iniciado sesión en tu Cuenta Mi"</string>
+    <string name="applock_no_account_login">"No has iniciado sesión en tu cuenta Xiaomi"</string>
     <string name="applock_not_add_account"><u>Ahora no</u></string>
     <string name="applock_not_add_account_normal">"No agregue cuenta"</string>
     <string name="applock_not_login_account">"No ha iniciado sesión"</string>
@@ -689,7 +689,7 @@ No perderás ningún dato de la aplicación."</string>
     <string name="applock_set_complete">Usar Bloqueo de aplicaciones</string>
     <string name="applock_set_password_title">Cambiar tipo de contraseña</string>
     <string name="applock_settings_unlock_all_toast">Todas las aplicaciones desbloqueadas</string>
-    <string name="applock_toast_tip">Bloqueo de aplicaciones verificado con éxito</string>
+    <string name="applock_toast_tip">Bloqueo de aplicaciones verificado</string>
     <string name="applock_unlock_all">Desbloquear todo</string>
     <string name="apps_item_scan_risk_summary_installed">Instalado | Riesgos</string>
     <string name="apps_item_scan_risk_summary_uninstalled">APK | Riesgos</string>
@@ -698,7 +698,7 @@ No perderás ningún dato de la aplicación."</string>
     <string name="apps_item_sign_dialog_content">"La firma de %s es diferente a la de la versión en la App Store. ¿Deseas eliminar esta aplicación e instalar la versión oficial? Nota: Usar una aplicación con firma conflictiva puede causar pérdida de datos."</string>
     <string name="apps_item_sign_dialog_title">Instalar aplicación oficial</string>
     <string name="apps_item_sign_install_button_text">Reemplazar</string>
-    <string name="apps_item_sms_default_set_success">Establecido con éxito</string>
+    <string name="apps_item_sms_default_set_success">Establecido</string>
     <string name="apps_item_sms_reset_button_text">Restaurar valores predeterminados</string>
     <string name="apps_item_sms_title">Ajustes de mensajería predeterminados</string>
     <string name="apps_item_summary_sms">%s tiene acceso a tus mensajes, esto puede causar problemas de seguridad</string>
@@ -738,7 +738,7 @@ No perderás ningún dato de la aplicación."</string>
     <string name="auto_task_condition_time_pick_title">Establecer temporizador</string>
     <string name="auto_task_condition_time_text">A las %s</string>
     <string name="auto_task_conncet_to_some_device">Conectarse a %s</string>
-    <string name="auto_task_create_success">Tarea creada con éxito</string>
+    <string name="auto_task_create_success">Tarea creada</string>
     <string name="auto_task_custom_time">Fijar hora</string>
     <string name="auto_task_custom_time_lable">min</string>
     <string name="auto_task_default_add_action">Agregar acción</string>
@@ -865,7 +865,7 @@ No perderás ningún dato de la aplicación."</string>
     <string name="back_modifypassword">Volver a cambiar el tipo de contraseña</string>
     <string name="back_sound_data">Activa los datos móviles y vuelve a intentarlo.</string>
     <string name="back_sound_fail">"No se pudo establecer. La configuración del operador cambió. Configura la tarjeta SIM actual como tu tarjeta de datos, conéctate a la red y vuelve a intentarlo."</string>
-    <string name="back_sound_success">Establecido con éxito</string>
+    <string name="back_sound_success">Establecido</string>
     <string name="back_sound_support">"La red de su proveedor no admite esta configuración."</string>
     <string name="background_restrict_app_dialog_message">Restringir el acceso a redes en segundo plano para esta aplicación podría hacer que la aplicación no funcionara con normalidad, reciba mensajes, descargue contenido, etc. ¿Restringir de todas formas?</string>
     <string name="background_traffic">Segundo plano %s</string>
@@ -938,7 +938,7 @@ No perderás ningún dato de la aplicación."</string>
     <string name="beauty_fun_light">Luz de relleno</string>
     <string name="beauty_fun_privacy">Cámara de privacidad</string>
     <string name="beauty_fun_privacy_dialog_message">Cuando use la cámara para las funciones de reconocimiento facial, su rostro se detectará automáticamente y otras áreas capturadas se enmascararán.</string>
-    <string name="beauty_fun_privacy_dialog_tips">Esta función puede reducir la tasa de éxito del reconocimiento facial</string>
+    <string name="beauty_fun_privacy_dialog_tips">Esta opción puede disminuir la eficiencia del reconocimiento facial</string>
     <string name="beauty_fun_privacy_ingnore">No, gracias</string>
     <string name="beauty_fun_privacy_message">Detecta rostros y enmascara otras áreas capturadas cuando la cámara se usa con funciones de reconocimiento facial</string>
     <string name="beauty_fun_privacy_open">Activar</string>
@@ -957,15 +957,11 @@ No perderás ningún dato de la aplicación."</string>
     <string name="behavior_widget_read_write_external_storage">Archivos accedidos</string>
     <string name="best_booster_status">La velocidad de juegos es la mejor disponible hasta ahora.</string>
     <string name="bg_network_exception_title">Conexión de fondo restringida</string>
-    <string name="bh_buy_order_fail_tips_text">Se ha producido un error. Espera uno o dos minutos e inténtalo otra vez.</string>
-    <string name="bh_card_order_detail">Información del pedido</string>
-    <string name="bh_card_order_name">Paquete de servicios</string>
-    <string name="bh_card_order_pay_price">Cantidad pagada</string>
-    <string name="bh_card_order_price">Precio</string>
+    <string name="bh_buy_order_fail_tips_text">Se ha producido un error. Espera un par de minutos e inténtalo otra vez.</string>
     <string name="bh_charge_for_more">Más</string>
     <string name="bh_charge_record">Historial de compras</string>
     <string name="bh_charge_traffic">Comprar datos móviles</string>
-    <string name="bh_copy_list_item_tips">Copia correcta</string>
+    <string name="bh_copy_list_item_tips">Copiado</string>
     <string name="bh_create_order_carrier_item_text">Transportista</string>
     <string name="bh_create_order_fee_item_text">Cantidad</string>
     <string name="bh_create_order_id_item_text">Número de pedido</string>
@@ -977,13 +973,13 @@ No perderás ningún dato de la aplicación."</string>
     <string name="bh_more_functions">Más herramientas</string>
     <string name="bh_no_resource_tab_view">No hay elementos disponibles</string>
     <string name="bh_open_pay_loading_dialog_title">Preparando el pago…</string>
-    <string name="bh_order_detail">Detalles del pedido</string>
     <string name="bh_order_detail_carrier_text">Transportista</string>
     <string name="bh_order_detail_create_time_text">Hora</string>
     <string name="bh_order_detail_fee_text">Total del pedido</string>
     <string name="bh_order_detail_id_text">Número de pedido</string>
     <string name="bh_order_detail_number_text">Número de teléfono</string>
     <string name="bh_order_detail_price_text">Cantidad</string>
+    <string name="bh_order_details_title_content">Detalles del pedido</string>
     <string name="bh_pay_status_confirm_text">Obtener información…</string>
     <string name="bh_pay_status_failed_text">"No se pudo completar el pago"</string>
     <string name="bh_pay_status_success_text">Se ha completado el pago</string>
@@ -1011,9 +1007,6 @@ Sin embargo, algunas de tus transacciones aún no están completas. Para retirar
     <string name="bh_settings_withdrawal_yulore">Retirar el consentimiento a la Política de Privacidad de Yulore Limited</string>
     <string name="bh_settings_yulore_limited_paivacy">Ver la política de privacidad de Yulore Limited</string>
     <string name="bh_settings_yulore_limited_user">Ver el Acuerdo de Usuario de Yulore Limited</string>
-    <string name="bh_text_buy_time">Pedido creado</string>
-    <string name="bh_text_order_id">Número de pedido</string>
-    <string name="bh_text_traffic_package">Paquete de datos</string>
     <string name="bh_traffic_product_out_of_stock">Vendido</string>
     <string name="bh_withdrawal_yulore_fail">"No se pudo retirar el consentimiento"</string>
     <string name="bh_withdrawal_yulore_success">Se ha retirado el consentimiento</string>
@@ -1027,10 +1020,10 @@ Sin embargo, algunas de tus transacciones aún no están completas. Para retirar
     <string name="bill_traffic_reminder_instruction_text">El método de facturación y la forma de cálculo de datos de cada operador pueden variar. También pueden retrasar su facturación. Las estadísticas de uso proporcionadas aquí sirven tan solo como una referencia.</string>
     <string name="bind_xiaomi_account_cancel">Cancelar</string>
     <string name="bind_xiaomi_account_confirm">Añadir</string>
-    <string name="bind_xiaomi_account_dialog_summery">"Está a punto de añadir una Cuenta Mi %s. Si olvida su contraseña, puede utilizar esta cuenta para reiniciarla. La cuenta se eliminará automáticamente si se desconecta."</string>
-    <string name="bind_xiaomi_account_success">Cuenta Mi añadida con éxito</string>
-    <string name="bind_xiaomi_account_summary">Utiliza Cuenta Mi para reiniciar tu contraseña</string>
-    <string name="bind_xiaomi_account_title">Añadir Cuenta Mi</string>
+    <string name="bind_xiaomi_account_dialog_summery">"Estás a punto de añadir una cuenta Xiaomi %s. Si olvidas la contraseña, puedes usar esta cuenta para reiniciarla. La cuenta se eliminará automáticamente si cierras sesión."</string>
+    <string name="bind_xiaomi_account_success">Cuenta Xiaomi añadida</string>
+    <string name="bind_xiaomi_account_summary">Utiliza la cuenta Xiaomi para reiniciar tu contraseña</string>
+    <string name="bind_xiaomi_account_title">Añadir cuenta Xiaomi</string>
     <string name="birthday">Cumpleaños</string>
     <string name="bl_no_blacklist">Ningún número bloqueado.</string>
     <string name="bl_no_block_call">Ninguna llamada bloqueada.</string>
@@ -1171,13 +1164,13 @@ Sin embargo, algunas de tus transacciones aún no están completas. Para retirar
     <string name="character_counter_content_description">Caracteres introducidos %1$d de %2$d</string>
     <string name="character_counter_overflowed_content_description">Límite de caracteres excedido %1$d de %2$d</string>
     <string name="charge_high_temp_warning_dialog_ok">Entiendo</string>
-    <string name="charge_high_temp_warning_dialog_text">Parece que el puerto de carga está sobrecalentado ahora. Desconecte el cargador y deje que el puerto se enfríe antes de comenzar a cargar nuevamente.</string>
+    <string name="charge_high_temp_warning_dialog_text">Parece que el puerto de carga se ha sobrecalentado. Desconecta el cargador y deja que se enfríe antes de comenzar a cargar otra vez.</string>
     <string name="charge_high_temp_warning_text">Desconecte el cargador y deje que la batería se enfríe</string>
     <string name="charge_high_temp_warning_title">El puerto de carga está demasiado caliente</string>
     <string name="charger_detect_button_ok">Entendido</string>
     <string name="charger_detect_info1">Comprueba si el adaptador de corriente y el cable están conectados correctamente.</string>
     <string name="charger_detect_info2">"La carga también puede ralentizarse si utilizas adaptadores de corriente y cables antiguos o no estándar."</string>
-    <string name="charger_detect_no_remind">"No mostrar de nuevo"</string>
+    <string name="charger_detect_no_remind">"No mostrar otra vez"</string>
     <string name="charger_detect_title">La carga es lenta</string>
     <string name="charging_text_battery_full_time">"Última carga "</string>
     <string name="charging_text_battery_nearly_full">Casi cargada</string>
@@ -1194,7 +1187,7 @@ Sin embargo, algunas de tus transacciones aún no están completas. Para retirar
     <string name="clean_master_icon_recall_hint">Añade un acceso directo a la Pantalla de inicio</string>
     <string name="clean_master_icon_recall_summary">Añade un acceso directo a la Pantalla de inicio para eliminar la basura en cualquier momento que lo necesites.</string>
     <string name="clean_master_icon_recall_title">Elimina la basura más rápido</string>
-    <string name="clean_master_icon_recall_toast_text">Se añadió con éxito un acceso directo a la Pantalla de inicio para el Limpiador</string>
+    <string name="clean_master_icon_recall_toast_text">Se ha añadido un acceso directo para la Limpieza en la pantalla de inicio</string>
     <string name="cleaned">Eliminados</string>
     <string name="clear_garbage">Eliminar basura para liberar espacio</string>
     <string name="clear_immediately">Limpiar ahora</string>
@@ -1219,7 +1212,7 @@ Sin embargo, algunas de tus transacciones aún no están completas. Para retirar
     <string name="confirmSecondSpacePassword">Confirme la contraseña del Segundo espacio</string>
     <string name="confirm_ai_allow_all_permission">¿Cambiar el estado de permiso a \"Decide por mí\" para todas las aplicaciones?</string>
     <string name="confirm_allow_all_permission">Allow all apps from using this feature?</string>
-    <string name="confirm_bind_xiaomi_account_dialog_title">Añadiendo Cuenta Mi</string>
+    <string name="confirm_bind_xiaomi_account_dialog_title">Añadiendo cuenta Xiaomi</string>
     <string name="confirm_close">Desactivar</string>
     <string name="confirm_fingerprint_msg">Comprueba tu huella</string>
     <string name="confirm_leave">No, gracias</string>
@@ -1243,7 +1236,7 @@ Sin embargo, algunas de tus transacciones aún no están completas. Para retirar
     <string name="cpu_usage_process_run_time_little_time">Menos de 1 minuto</string>
     <string name="cpu_usage_process_run_time_little_time_new">Menos de %d minuto</string>
     <string name="cpu_usage_view_action_btn_text">Pulsa para ver</string>
-    <string name="create_gamebooster_destop">Acceso directo a la Pantalla de inicio creado con éxito</string>
+    <string name="create_gamebooster_destop">Se ha añadido un acceso directo en la pantalla de inicio</string>
     <string name="create_shortcut">Crear un acceso directo para Game Turbo en la Pantalla de inicio</string>
     <string name="cta_HIPS_Perm_Location_Desc">Para usar tu información de ubicación en el Centro de Advertencia MIUI, SOS de Emergencia, ahorro de batería de aplicaciones y escáner de seguridad de pagos, además de habilitar la ubicación aproximada</string>
     <string name="cta_agree_desc">Para poder usar nuestros servicios permite a esta aplicación conectarse a internet y conceder los permisos arriba mencionados.</string>
@@ -1254,7 +1247,7 @@ Sin embargo, algunas de tus transacciones aún no están completas. Para retirar
     <string name="cta_dialog_negative">Salir</string>
     <string name="cta_dialog_positive">Aceptar</string>
     <string name="cta_dialog_title">Conexión a internet</string>
-    <string name="cta_main_purpose">"¡Bienvenido a Seguridad! Puede usar Seguridad y sus módulos (incluidos los componentes de seguridad MIUI y los servicios del sistema) para liberar espacio de almacenamiento, escanear su dispositivo en busca de virus, controlar el uso de la batería, optimizar su dispositivo para juegos, administrar aplicaciones, recibir alertas tempranas de terremotos y más. Los componentes de seguridad de MIUI se conectarán a Internet y realizarán escaneos de seguridad mientras instala aplicaciones y realiza pagos."</string>
+    <string name="cta_main_purpose">"¡Te damos la bienvenida a Seguridad! Puedes usar Seguridad y sus módulos (incluidos los componentes de MIUI y los servicios del sistema) para liberar espacio de almacenamiento, escanear el dispositivo buscando virus, controlar el uso de la batería, optimizar el dispositivo para juegos, administrar aplicaciones, recibir alertas tempranas de terremotos y más. Los componentes de seguridad de MIUI conectarán a Internet y realizarán escaneos de seguridad al instalar aplicaciones y realizar pagos."</string>
     <string name="cta_settings">Permitir conectarse a internet y acceder a la ubicación</string>
     <string name="current_network_state_not_need_diagnose">La conexión a Internet es correcta.</string>
     <string name="custom_define_permission_desc_android.permission.CALL_PHONE">Para usar la lista de bloqueo y hacer llamadas a contactos de emergencia cuando se emiten advertencias de terremoto</string>
@@ -1349,7 +1342,7 @@ Todos los datos en tu dispositivo podrían ser borrados y tu contraseña de bloq
     <string name="dialog_btn_delete_icon">Quitar</string>
     <string name="dialog_btn_no_create_icon">Cancelar</string>
     <string name="dialog_btn_yes_create_icon">Añadir</string>
-    <string name="dialog_change_package_type_summary">Cambiar el tipo de plan de datos reiniciará todos los ajustes de uso de datos (e.j. límites de datos) a sus valores por defecto. ¿Cambiar ahora el tipo de plan de datos?</string>
+    <string name="dialog_change_package_type_summary">Cambiar el plan de datos reiniciará todos los ajustes de uso de datos (ej. límite de datos) a sus valores por defecto. ¿Cambiar el plan de datos?</string>
     <string name="dialog_change_package_type_title">Cambiando el tipo de plan de datos</string>
     <string name="dialog_msg_auto_start_declare">Algunas aplicaciones podrían indicar incorrectamente que MIUI ha evitado que se iniciaran. Compruebe los permisos que se le han dado a cada aplicación individual en Ajustes &gt; Aplicaciones.</string>
     <string name="dialog_msg_create_icon_content">¿Añadir un acceso directo en la pantalla de inicio?</string>
@@ -1357,7 +1350,7 @@ Todos los datos en tu dispositivo podrían ser borrados y tu contraseña de bloq
     <string name="dialog_msg_delete_icon_content">Seguridad permite limpiar basura del dispositivo, encontrar y neutralizar virus, ahorrar batería, administrar permisos y más.</string>
     <string name="dialog_msg_delete_icon_title">¿Quitar acceso directo de la pantalla de inicio?</string>
     <string name="dialog_msg_stop_virus_scan">"¿Detener análisis antes de haber terminado?"</string>
-    <string name="dialog_no_longer_alert">"No mostrar de nuevo"</string>
+    <string name="dialog_no_longer_alert">"No mostrar otra vez"</string>
     <string name="dialog_restrict_all_mobile_summary">Los datos móviles de la %s estarán restringidos para todas las aplicaciones.</string>
     <string name="dialog_restrict_all_mobile_title">Restringir la conexión de datos móviles de %s</string>
     <string name="dialog_restrict_all_wlan_summary">La conexión Wi-Fi se restringirá para todas las aplicaciones.</string>
@@ -1366,7 +1359,7 @@ Todos los datos en tu dispositivo podrían ser borrados y tu contraseña de bloq
     <string name="dialog_restrict_positive">Cancelar</string>
     <string name="dialog_roaming_message">Su operadora podría cobrarle gastos adicionales por el uso de datos en itinerancia.</string>
     <string name="dialog_roaming_title">¿Permitir itinerancia de datos?</string>
-    <string name="dialog_roaming_warning_checkbox">"No mostrar de nuevo"</string>
+    <string name="dialog_roaming_warning_checkbox">"No mostrar otra vez"</string>
     <string name="dialog_roaming_warning_message">La operadora hará un cargo después de activar el roaming internacional. ¿Activar de todas formas?</string>
     <string name="dialog_roaming_warning_ok">Activar</string>
     <string name="dialog_skt_roaming_warning_cancel">Disagree</string>
@@ -1796,13 +1789,13 @@ voluntario"</string>
     <string name="finger_remind_message">Añade tu huella primero. Toca para abrir Ajustes.</string>
     <string name="fingerprint_identify_msg">Activar desbloqueo con huella</string>
     <string name="fingerprint_not_identified_msg">"No se puede leer la huella dactilar. Introduce tu contraseña"</string>
-    <string name="fingerprint_not_remind">"No preguntar de nuevo"</string>
+    <string name="fingerprint_not_remind">"No preguntar más"</string>
     <string name="fingerprint_remind_dialog_title">Desbloqueo con huella dactilar</string>
     <string name="fingerprint_to_lock">Desbloquear con huella dactilar</string>
     <string name="fingerprint_to_lock_summary">Desbloquear aplicaciones utilizando huella dactilar</string>
     <string name="fingerprint_verify_failed">"No se pudo verificar la huella"</string>
     <string name="fingerprint_verify_succeed">Huella verificada</string>
-    <string name="fingerprint_verify_try_agin">"No se pudo escanear la huella, inténtelo de nuevo"</string>
+    <string name="fingerprint_verify_try_agin">"No se pudo escanear la huella, inténtalo otra vez"</string>
     <string name="firewall_activity_lable">Restringir el uso de datos por aplicación</string>
     <string name="firewall_allow_all">Permitir a todas las aplicaciones conectarse de la siguiente forma</string>
     <string name="firewall_allow_data">Permitir uso de datos móviles</string>
@@ -1978,7 +1971,7 @@ voluntario"</string>
     <string name="game_more_improve">Restringir actividades en segundo plano y velocidad de descargas para ahorrar batería y ancho de banda para juegos</string>
     <string name="game_setting">Ajustes de juego</string>
     <string name="game_video_net_data">Datos móviles</string>
-    <string name="game_video_network_eror">"No se pudo conectar a la red. Comprueba tus ajustes de red y vuelve a intentarlo."</string>
+    <string name="game_video_network_eror">"No se pudo conectar a la red. Comprueba los ajustes de red e inténtalo otra vez."</string>
     <string name="game_wid_viewpoint_buttom">Tómate un descanso corto.</string>
     <string name="gamebooster_dialog_recover">Renovar</string>
     <string name="gamebooster_dialog_start_booster">Iniciar</string>
@@ -2034,8 +2027,8 @@ voluntario"</string>
     <string name="gamebox_wechat_not_find">Instala WeChat y vuelve a intentarlo.</string>
     <string name="gamebox_wifi">Wi-Fi</string>
     <string name="gamecenter_install_fail">"No se pudo instalar"</string>
-    <string name="gamecenter_install_sucessfull">Instalado con éxito</string>
-    <string name="gateway_exception_summary">Compruebe su router e inténtelo de nuevo.</string>
+    <string name="gamecenter_install_sucessfull">Instalado correctamente</string>
+    <string name="gateway_exception_summary">Comprueba el router e inténtalo otra vez.</string>
     <string name="gateway_exception_summary2">"No se puede conectar con el servidor"</string>
     <string name="gateway_exception_title">Comprobar el router</string>
     <string name="gb_add_game_hint">Añadir elementos de la lista de aplicaciones</string>
@@ -2153,7 +2146,7 @@ Record sequences and use them anytime!"</string>
     <string name="gb_game_video_bottom_tips">Revive los momentos clave de tus sesiones de juego en Game Turbo. Los vídeos se eliminarán automáticamente después de 7 días.</string>
     <string name="gb_game_video_bottom_tips_new">Vuelva a visitar los momentos clave de sus sesiones de juego en Game Turbo. Los videos se eliminarán automáticamente después de %d días.</string>
     <string name="gb_game_video_item_tag">Momento clave</string>
-    <string name="gb_game_video_page_delete_success">Eliminado con éxito</string>
+    <string name="gb_game_video_page_delete_success">Eliminado</string>
     <string name="gb_game_video_page_null">Graba los momentos clave de tus sesiones de juego</string>
     <string name="gb_game_video_record_finish_tips">Se ha guardado en Game Turbo el vídeo grabado manualmente</string>
     <string name="gb_game_video_save">Guardar</string>
@@ -2277,7 +2270,7 @@ pero también aumenta el consumo de energía y permite que su dispositivo se sob
     <string name="gb_voice_changer_recommend">Recomendado</string>
     <string name="gb_voice_changer_renew_dailog">Renueva tu suscripción para poder utilizar este efecto.</string>
     <string name="gb_voice_changer_robot">Robot</string>
-    <string name="gb_voice_changer_setting_account_title">Cuenta Mi</string>
+    <string name="gb_voice_changer_setting_account_title">Cuenta Xiaomi</string>
     <string name="gb_voice_changer_setting_become_vip">Suscribirse</string>
     <string name="gb_voice_changer_setting_gender_subtitle">Ajusta los efectos y las recomendaciones al sexo seleccionado</string>
     <string name="gb_voice_changer_setting_gender_title">Sexo</string>
@@ -2287,13 +2280,13 @@ pero también aumenta el consumo de energía y permite que su dispositivo se sob
     <string name="gb_voice_changer_toast_window_new_tips">"¡Prueba el Modificador de voz!
 Cambia entre diferentes personajes y efectos especiales."</string>
     <string name="gb_voice_changer_toast_window_open">Efecto \"%s\" activado</string>
-    <string name="gb_voice_changer_trial_gender_dialog">¡Recibiste una prueba gratuita con éxito! Selecciona el sexo para ajustar los efectos y las recomendaciones en consecuencia.</string>
+    <string name="gb_voice_changer_trial_gender_dialog">¡Has recibido una prueba gratuita! Elige el sexo para ajustar los efectos y las recomendaciones.</string>
     <string name="gb_voice_changer_trial_gender_dialog_title">Prueba gratuita</string>
     <string name="gb_voice_changer_trial_progress_dialog_message">Recibiendo una prueba gratuita…</string>
     <string name="gb_voice_changer_user_status_expired">Suscripción caducada</string>
     <string name="gb_voice_changer_user_status_get_trial_card_dialog">"¡Obtén una prueba gratuita de %d día
 y descubre nuestro Modificador de voz!"</string>
-    <string name="gb_voice_changer_user_status_no_login">Iniciar sesión con Cuenta Mi</string>
+    <string name="gb_voice_changer_user_status_no_login">Iniciar sesión con la cuenta Xiaomi</string>
     <string name="gb_voice_changer_user_status_remain_time">Fecha de expiración: %s</string>
     <string name="gb_voice_changer_user_status_renew">Renovar</string>
     <string name="gb_voice_changer_user_tips_info_vip_expire">Tu suscripción ha expirado. ¡Renueva la suscripción ahora para obtener beneficios!</string>
@@ -2336,6 +2329,9 @@ de tus sesiones de juego"</string>
     <string name="get_detail_by_click">Pulsa para ver detalles</string>
     <string name="get_phone_num_fail">Número de teléfono desconocido</string>
     <string name="get_sys_info">Obteniendo info…</string>
+    <string name="global_satisfaction_notification_button">Valorar</string>
+    <string name="global_satisfaction_notification_subhead">Cuéntenos tu experiencia</string>
+    <string name="global_satisfaction_notification_title">Califica este dispositivo</string>
     <string name="global_wa_setting_alert_dialog_content">Puede liberar %s</string>
     <string name="global_wa_setting_alert_dialog_title">Limpiador de WhatsApp</string>
     <string name="gmscore_support_remind">Active esta función si tiene problemas con el uso de Gmail, Google Maps y otras aplicaciones de Google. Reducirá ligeramente la duración de la batería.</string>
@@ -2346,12 +2342,12 @@ de tus sesiones de juego"</string>
     <string name="go_to_setting_fingerprint">Ajustes</string>
     <string name="google_base_app_fail">"No se pudo descargar. Comprueba si Seguridad tiene permisos para conectar a internet."</string>
     <string name="google_base_app_install_choice">La aplicación requiere el Marco de Servicios de Google para funcionar normalmente, ¿descargar e instalarlo?</string>
-    <string name="google_base_app_installed">Instalado con éxito</string>
+    <string name="google_base_app_installed">Instalado</string>
     <string name="google_base_app_installing">Instalando…</string>
-    <string name="google_base_app_network_anomaly">"No se pudo conectar a la red. Comprueba tus ajustes de red y vuelve a intentarlo."</string>
-    <string name="google_base_app_timeout">Tiempo de sesión agotado. Espera un minuto o dos y vuelve a intentarlo.</string>
+    <string name="google_base_app_network_anomaly">"No se pudo conectar a la red. Comprueba los ajustes de red e inténtalo otra vez."</string>
+    <string name="google_base_app_timeout">Tiempo de sesión agotado. Espera un par de minutos e inténtalo otra vez.</string>
     <string name="google_base_app_title">Instalando servicios de Google</string>
-    <string name="google_base_app_toast">Se está instalando el Marco de Servicios de Google en segundo plano. Espera un minuto o dos y vuelve a intentarlo.</string>
+    <string name="google_base_app_toast">Se está instalando el Marco de Servicios de Google en segundo plano. Espera un par de minutos e inténtalo otra vez.</string>
     <string name="gs_advanced_setting_summary">Ajustes para juegos individuales</string>
     <string name="gs_advanced_setting_title">Ajustes adicionales</string>
     <string name="gs_anto_clean_memory_whitelist">Excepciones de la memoria</string>
@@ -2401,10 +2397,10 @@ de tus sesiones de juego"</string>
     <string name="gtb_dialog_btn_close">Desactivar</string>
     <string name="gtb_dialog_btn_open">Activar</string>
     <string name="gtb_dialog_hint_smart_5g">Puede activar y desactivar esta función en Game Turbo &gt; Ajustes.</string>
-    <string name="gtb_dialog_privacy_speed_message">"Estás a punto de usar Xunyou Game Booster. Este servicio recopilará su ID de cuenta Mi para registrar la duración de su membresía."</string>
+    <string name="gtb_dialog_privacy_speed_message">"Estás a punto de usar Xunyou Game Booster. Este servicio recopilará tu ID de Xiaomi para registrar la duración de tu suscripción."</string>
     <string name="gtb_dialog_privacy_speed_tips"><Data>\"He leído y acepto la Política de privacidad de &lt;a href=\"%1$s\"&gt;&lt;/a&gt;\"</Data></string>
     <string name="gtb_dialog_privacy_speed_title">Optimizador de juegos Xunyou</string>
-    <string name="gtb_dialog_privacy_voice_message">"Estás a punto de usar Xunyou Game Voice Changer. Este servicio recopilará su ID de cuenta Mi para registrar la duración de su membresía."</string>
+    <string name="gtb_dialog_privacy_voice_message">"Estás a punto de usar Xunyou Game Voice Changer. Este servicio recopilará tu ID Xiaomi para registrar la duración de tu suscripciñon."</string>
     <string name="gtb_dialog_privacy_voice_tips"><Data>\"He leído y acepto la Política de privacidad de &lt;a href=\"%1$s\"&gt;&lt;/a&gt;\"</Data></string>
     <string name="gtb_dialog_privacy_voice_title">Cambiador de voz del juego Xunyou</string>
     <string name="gtb_dialog_summary_smart_5g">Cada vez que Game Turbo detecta una red 5G, puede conectar tu dispositivo a la mejor red disponible para reducir el retraso de red. ¿Activar ahora esta función?</string>
@@ -2505,14 +2501,14 @@ para unirte a nuestra búsqueda de huevos!"</string>
     <string name="ignore_special_app">Excluye los datos usados por aplicaciones seleccionadas de tu plan</string>
     <string name="image_protect_auto_del">%s está intentando borrar imágenes</string>
     <string name="image_protect_del_pic_tips">Notificar sobre imágenes eliminadas 删除 图片 时 提醒</string>
-    <string name="image_protect_del_success">Borrado exitosamente</string>
+    <string name="image_protect_del_success">Eliminado</string>
     <string name="image_protect_ensure_del_pic">Eliminar</string>
     <string name="image_protect_exit_and_del">Eliminar</string>
     <string name="image_protect_intercept_can_recover_tips">Esta acción fue bloqueada. Puede elegir si desea eliminar o restaurar las imágenes.</string>
     <string name="image_protect_intercept_tips">Toca para administrar el comportamiento de la aplicación</string>
     <string name="image_protect_no_data">No hay elementos</string>
     <string name="image_protect_recover_del_pic">Restaurar</string>
-    <string name="image_protect_recover_success">Restaurado con éxito</string>
+    <string name="image_protect_recover_success">Restaurado</string>
     <string name="image_protect_tips_title">Borrando fotos</string>
     <string name="image_protect_total_activity_label">Recibe notificaciones sobre fotos eliminadas</string>
     <string name="ime_security_warning">%1$s puede registrar todo lo que escribe, incluidas las contraseñas y otra información confidencial. ¿Usarlo de todos modos?</string>
@@ -2539,8 +2535,8 @@ para unirte a nuestra búsqueda de huevos!"</string>
     <string name="input_used_hint">Introduzca uso de datos</string>
     <string name="input_used_max_hint">Introduce uso de datos (menos de %s)</string>
     <string name="install">Instalar</string>
-    <string name="install_sucess">%s se ha instalado correctamente</string>
-    <string name="install_title">Instalar vía USB</string>
+    <string name="install_sucess">%s instalado correctamente</string>
+    <string name="install_title">Instalar mediante USB</string>
     <string name="installing">Instalando</string>
     <string name="international_Ad">Anuncio</string>
     <string name="international_roaming_setting">Itinerancia de datos</string>
@@ -2598,16 +2594,16 @@ La compañía telefónica puede cobrar cargos adicionales si usas la conexión d
     <string name="lock_screen_warning_switch_summary">Mostrar aviso en la pantalla de bloqueo cuando el uso de datos excede una cierta cantidad</string>
     <string name="lock_screen_warning_switch_title">Mostrar avisos en la pantalla de bloqueo</string>
     <string name="lock_screen_warning_value">Aviso de consumo de datos</string>
-    <string name="lockpattern_access_need_to_unlock_wrong_fingerprint">"No se pudo reconocer la huella dactilar, inténtalo de nuevo."</string>
-    <string name="lockpattern_access_need_to_unlock_wrong_pattern">Contraseña incorrecta, inténtalo de nuevo.</string>
+    <string name="lockpattern_access_need_to_unlock_wrong_fingerprint">"No se reconoce la huella dactilar, inténtalo otra vez."</string>
+    <string name="lockpattern_access_need_to_unlock_wrong_pattern">Contraseña incorrecta, inténtalo otra vez.</string>
     <string name="lockpattern_confirm_button_text">OK </string>
     <string name="lockpattern_continue_button_text">Siguente</string>
-    <string name="lockpattern_need_to_confirm">Dibuje nuevamente el patrón para confirmar</string>
-    <string name="lockpattern_need_to_unlock_wrong">"Las contraseñas no coinciden, inténtalo de nuevo."</string>
+    <string name="lockpattern_need_to_confirm">Dibuja el patrón otra vez para confirmar</string>
+    <string name="lockpattern_need_to_unlock_wrong">"Las contraseñas no coinciden, inténtalo otra vez."</string>
     <string name="lockpattern_pattern_confirmed_header">Nuevo patrón de desbloqueo</string>
     <string name="lockpattern_pattern_entered_header">Patrón añadido</string>
     <string name="lockpattern_recording_inprogress">"Levante el dedo cuando haya terminado"</string>
-    <string name="lockpattern_retry_button_text">Dibujar de nuevo</string>
+    <string name="lockpattern_retry_button_text">Dibujar otra vez</string>
     <string name="lockpattern_settings_help_how_to_record">Establezca un patrón</string>
     <string name="lockpattern_too_many_failed_confirmation_attempts_header">¡Demasiados intentos fallidos!</string>
     <string name="lockpattern_tutorial_cancel_label">Cancelar</string>
@@ -2835,17 +2831,17 @@ Tu dispositivo es %s más rápido ahora."</string>
     <string name="miuix_indexer_collect">Colecciones</string>
     <string name="miuix_indexer_selected">Seleccionado %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Desliza hacia abajo para actualizar</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado con éxito</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualizando…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Suelta para actualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Eso es todo por ahora"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">"Eso es todo por ahora"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Un momento…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"No se pudo cargar los elementos"</string>
-    <string name="mixed_need_to_confirm">Ingresa nuevamente para confirmar</string>
-    <string name="mixed_password_confirmed_header_confirm">Establecido con éxito. Toque para confirmar.</string>
-    <string name="mixed_password_confirmed_header_continue">Establecido con éxito. Pulsa \"Siguiente\".</string>
-    <string name="mixed_pattern_entered_header">Contraseña establecida con éxito</string>
+    <string name="mixed_need_to_confirm">Entra otra vez para confirmar</string>
+    <string name="mixed_password_confirmed_header_confirm">Establecido. Pulsa para confirmar.</string>
+    <string name="mixed_password_confirmed_header_continue">Establecido. Pulsa \"Siguiente\".</string>
+    <string name="mixed_pattern_entered_header">Contraseña establecida</string>
     <string name="mixed_recording_intro_header">Introduce %1$s-%2$s caracteres</string>
     <string name="mixed_retry_button_text">Cancelar</string>
     <string name="mixed_settings_help_how_to_record">Cómo establecer la contraseña</string>
@@ -2858,7 +2854,7 @@ Tu dispositivo es %s más rápido ahora."</string>
     <string name="monday_shortest">Lun</string>
     <string name="monitor_app_add">Añadir</string>
     <string name="monitor_app_more">Más</string>
-    <string name="monitor_requests_from_pc">Administrar la instalación de las aplicaciones vía USB</string>
+    <string name="monitor_requests_from_pc">Administrar instalación de aplicaciones mediante USB</string>
     <string name="month_april">Abril</string>
     <string name="month_april_short">Abr</string>
     <string name="month_april_shortest">Abr</string>
@@ -2972,35 +2968,35 @@ Puedes desactivar la opción en \"Ajustar automáticamente las estadísticas de 
     <string name="network_control">Ver ajustes de aplicaciones</string>
     <string name="network_diagnostics">Comprobar la red</string>
     <string name="network_disable_dialog_btn_text">Entendido</string>
-    <string name="network_disable_dialog_content">Tu dispositivo necesita conectarse a la red para que puedas retirar el consentimiento. Comprueba tus ajustes de red y vuelve a intentarlo.</string>
-    <string name="network_disable_dialog_content_cn">Su dispositivo debe conectarse a la red para que pueda retirar el consentimiento. Verifique su configuración de red y vuelva a intentarlo.</string>
+    <string name="network_disable_dialog_content">El dispositivo necesita conexión a la red para retirar el consentimiento. Comprueba los ajustes de red e inténtalo otra vez.</string>
+    <string name="network_disable_dialog_content_cn">El dispositivo necesita conexión a la red para retirar el consentimiento. Comprueba los ajustes de red e inténtalo otra vez.</string>
     <string name="network_disable_dialog_title">"No se pudo conectar a la red"</string>
-    <string name="network_mobile_exception_detail">"Su dispositivo no se puede conectar a Internet:
+    <string name="network_mobile_exception_detail">"El dispositivo no se puede conectar a Internet:
 
- 1. Asegúrese de que no ha sobrepasado el límite de su plan de datos.
+ 1. Asegúrate de que no has sobrepasado el límite de tu plan de datos.
 
- 2. Si acaba de recargar su saldo, reinicie el dispositivo e inténtelo de nuevo.
+ 2. Si acabas de recargar saldo, reinicia el dispositivo e inténtalo otra vez.
 
- 3. La señal de red de su operador puede ser débil en su ubicación actual."</string>
+ 3. La señal de red del operador puede ser débil en tu ubicación actual."</string>
     <string name="network_operator_exception_summary">"No se pudo activar la tarjeta SIM. Asegúese de que su tarjeta SIM está insertada correctamente y que su plan de datos ha sido activado por su compañía."</string>
     <string name="network_permission_exception_tips">"No se puede usar la conexión de datos para conectarse a la red"</string>
     <string name="network_roaming_exception_tips">"No se pueden usar los datos móviles en itinerancia para conectarse a la red."</string>
-    <string name="network_route_exception_detail">"Podría haber un problema con el router al que estás conectado:
+    <string name="network_route_exception_detail">"El router al que estás conectado podría tener problemas:
 
-\"<b>1. Problemas de red Wi-Fi pública</b>\"
-Si estás conectado a una red pública Wi-Fi, el número de usuarios conectados podría ralentizar la conexión o crear problemas de conectividad. Prueba a cambiar a otra red e inténtalo de nuevo.
+\"<b>1. Problemas de red en Wi-Fi pública</b>\"
+Si estás conectado a una red Wi-Fi pública, la cantidad de usuarios conectados podría provocar problemas de conexión o ralentizarla. Intenta cambiar a otra red e inténtalo otra vez.
 
 \"<b>2. Problemas del operador de Internet</b>\"
-Asegúrate de que tu cuenta no tiene problemas con tu proveedor de servicios de Internet.
+Comprueba que tu cuenta no tiene problemas con tu proveedor de servicios de Internet.
 
 \"<b>3. Problemas del hardware del router</b>\"
-Reinicia el router o comprueba los ajustes del administrador para tu router.
+Reinicia el router o comprueba los ajustes de administrador del router.
 
 \"<b>4. Otros problemas del router</b>\"
-Lee las instrucciones que vienen con el router y restaura los ajuntes de fábrica.
+Lee las instrucciones que acompañan al router y restáuralo a los ajustes de fábrica.
 
-\"<b> 5. Asegúrate de que tu router está bien conectado</b>\"
-Utiliza otro cable de Ethernet para conectar tu router. Si crees que hay problemas con la conexión de casa, contacta con el proveedor de servicios de internet."</string>
+\"<b> 5. Problemas con la conexión</b>\"
+Usa otro cable Ethernet para conectarlo. Si crees que hay problemas de conexión, contacta con tu proveedor de servicios de Internet."</string>
     <string name="network_sim_exception_detail">"Puede haber un problema con su tarjeta SIM:
 
 1. Asegúrese de que su cuenta esté al día con su operador. Intente usar la tarjeta SIM de un amigo y vea si puede conectarse con normalidad.
@@ -3017,7 +3013,7 @@ Utiliza otro cable de Ethernet para conectar tu router. Si crees que hay problem
     <string name="network_test_speed">Test velocidad de Wi-Fi</string>
     <string name="network_traffic_warning_text">"MIUI no puede calcular aquí las estadísticas de uso de datos para aplicaciones individuales del sistema. Podrá ver la información relacionada con el uso de datos en los detalles de la aplicación en caso de que esta esté utilizando datos móviles de forma activa."</string>
     <string name="network_traffic_warning_title">Uso de datos para aplicaciones de sistema</string>
-    <string name="networkchanged_exception_summary">La conexión de red se ha modificado. Por favor, inténtalo de nuevo.</string>
+    <string name="networkchanged_exception_summary">La conexión de red se ha modificado. Inténtalo otra vez.</string>
     <string name="networkchanged_exception_title">Conexión modificada</string>
     <string name="never_new">%d tiempo</string>
     <string name="new_condition_communication">Interacción</string>
@@ -3036,7 +3032,7 @@ Utiliza otro cable de Ethernet para conectar tu router. Si crees que hay problem
     <string name="no_game">"No se encontraron juegos"</string>
     <string name="no_open">Ahora no</string>
     <string name="no_privacy_permission">No se requiere consentimiento a la Política de privacidad</string>
-    <string name="no_sim_card_by_tips">Para poder configurar el saldo del teléfono y las advertencias de uso de datos, primero inserta una tarjeta SIM.</string>
+    <string name="no_sim_card_by_tips">Para configurar el saldo del teléfono y las advertencias de uso de datos, primero inserta una SIM.</string>
     <string name="noon">Mediodía</string>
     <string name="normal_package_usage_summary" formatted="false">%2s de %1s (%3s)</string>
     <string name="not_closed">Continuar</string>
@@ -3129,7 +3125,7 @@ Utiliza otro cable de Ethernet para conectar tu router. Si crees que hay problem
     <string name="notify_daily_limit_body">Toque para establecer el límite de datos.</string>
     <string name="notify_daily_limit_title">%s usados hoy</string>
     <string name="notify_daily_limit_title_for_slotnum">%1$s ha usado %2$s hoy</string>
-    <string name="notify_diving_mode_exception_close">Modo inmersivo desactivado con éxito</string>
+    <string name="notify_diving_mode_exception_close">Modo inmersivo desactivado</string>
     <string name="notify_diving_mode_exception_close_fail">"Se ha producido un error de la tarjeta SIM. No se pudo desactivar el Modo inmersivo."</string>
     <string name="notify_diving_mode_exception_open_fail">"Se ha producido un error de la tarjeta SIM. No se pudo activar el Modo inmersivo."</string>
     <string name="notify_month_traffic_body">Establece un límite de uso de datos para evitar superar tu plan de datos mensual.</string>
@@ -3139,10 +3135,10 @@ Utiliza otro cable de Ethernet para conectar tu router. Si crees que hay problem
     <string name="notify_weekly_traffic_title">%s usados esta semana</string>
     <string name="notify_weekly_traffic_title_for_slotnum">%1$s ha usado %2$s esta semana</string>
     <string name="number_address">Ubicación</string>
-    <string name="numeric_need_to_confirm">Ingresa nuevamente para confirmar</string>
-    <string name="numeric_password_confirmed_header_confirm">Establecido con éxito. Toque para confirmar.</string>
-    <string name="numeric_password_confirmed_header_continue">Establecido con éxito. Pulsa \"Siguiente\".</string>
-    <string name="numeric_pattern_entered_header">PIN establecido con éxito</string>
+    <string name="numeric_need_to_confirm">Entra otra vez para confirmar</string>
+    <string name="numeric_password_confirmed_header_confirm">Establecido. Pulsa para confirmar.</string>
+    <string name="numeric_password_confirmed_header_continue">Establecido. Pulsa \"Siguiente\".</string>
+    <string name="numeric_pattern_entered_header">PIN establecido</string>
     <string name="numeric_recording_intro_header">Introduzca la contraseña</string>
     <string name="numeric_retry_button_text">Cancelar</string>
     <string name="numeric_settings_help_how_to_record">Cómo establecer el PIN</string>
@@ -3175,7 +3171,7 @@ Utiliza otro cable de Ethernet para conectar tu router. Si crees que hay problem
     <string name="om_settings_notify_manage">Notificaciones</string>
     <string name="om_settings_speed_up_auto">Aumento de velocidad Auto</string>
     <string name="om_settings_title">Ajustes</string>
-    <string name="om_shortcut_added_toast_text">Añadido con éxito</string>
+    <string name="om_shortcut_added_toast_text">Añadido</string>
     <string name="om_shortcut_dialog_summary">"RAM Jet te permite limpiar la memoria y aumentar la velocidad de tu dispositivo con un solo toque. ¿Añadir RAM Jet a tu Pantalla de inicio?"</string>
     <string name="om_shortcut_dialog_title">RAM Jet</string>
     <string name="once_settings_camera_ttile">Compartir sin metadatos</string>
@@ -3247,9 +3243,9 @@ Utiliza otro cable de Ethernet para conectar tu router. Si crees que hay problem
     <string name="password_forget_pattern_message_none">"Las aplicaciones no están bloqueadas. Puede restablecer su contraseña."</string>
     <string name="password_forget_pattern_reset">Restablecer</string>
     <string name="password_forget_pattern_title">Atención</string>
-    <string name="password_promotion_not_login_xiaomi_account_message">Añadir Cuenta Mi para restablecer la contraseña en caso de que la olvide.</string>
+    <string name="password_promotion_not_login_xiaomi_account_message">Añadir cuenta Xiaomi para restablecer la contraseña en caso de olvido.</string>
     <string name="password_promotion_postbutton_text">Añadir</string>
-    <string name="password_promotion_title">Añadir Cuenta Mi</string>
+    <string name="password_promotion_title">Añadir cuenta Xiaomi</string>
     <string name="password_toggle_content_description">Mostrar contraseña</string>
     <string name="password_type">Cambiar la contraseña</string>
     <string name="password_type_underline"><u>Cambiar la contraseña</u></string>
@@ -3298,7 +3294,7 @@ Utiliza otro cable de Ethernet para conectar tu router. Si crees que hay problem
     <string name="pc_hidemode_performance">Rendimiento</string>
     <string name="pc_hidemode_performance_title">Modo de rendimiento</string>
     <string name="pc_hidemode_power_save">Ahorra batería</string>
-    <string name="pc_install_manager">Instalar vía USB</string>
+    <string name="pc_install_manager">Instalar mediante USB</string>
     <string name="pc_main_activity_back">Atrás</string>
     <string name="pc_main_battery_text_day">%1$smin añadidos, alrededor de %2$sd restantes</string>
     <string name="pc_main_battery_text_day_hour">%1$smin añadidos, alrededor de %2$sd y %3$sh restantes</string>
@@ -3424,7 +3420,7 @@ Utiliza otro cable de Ethernet para conectar tu router. Si crees que hay problem
     <string name="permission_privacy_link"><Data>&lt;a href=\"%1$s\"&gt;%2$s&lt;/a&gt;</Data></string>
     <string name="permission_upgrade_more">Más funciones de Protección de la privacidad</string>
     <string name="permission_upgrade_privacy_title">"Los permisos para grabar audio y acceder a contactos ahora tienen una opción que te permite otorgar dichos permisos solo mientras usas las aplicaciones correspondientes. Para proteger la privacidad de tu información personal, las aplicaciones no realizarán estas acciones en segundo plano."</string>
-    <string name="permission_upgrade_runtime">"Los permisos para acceder a tu ubicación o tomar fotos ahora tienen una opción que te permite otorgar dichos permisos solo una vez. Para proteger la privacidad de tu información personal, estas acciones no se realizarán después de que abandones la aplicación. Se te solicitarán permisos nuevamente cuando uses las funciones relacionadas la próxima vez."</string>
+    <string name="permission_upgrade_runtime">"Los permisos para acceder a tu ubicación o tomar fotos tienen una opción que solo permite concederlos una vez. Para proteger la privacidad de tu información personal, una vez que cierres la aplicación se revocarán y se solicitarán otra vez cuando uses esas funciones."</string>
     <string name="permission_upgrade_title">Permisos actualizados</string>
     <string name="permission_upgrade_virtual">"Si no quieres permitir a las aplicaciones acceder a tus contactos o el historial de llamadas, puedes seleccionar \"Devolver mensajes en blanco\" cuando concedas los permisos correspondientes."</string>
     <string name="permission_with_SMS_and_MMS">Permisos relacionados con SMS y MMS</string>
@@ -3632,12 +3628,12 @@ Utiliza otro cable de Ethernet para conectar tu router. Si crees que hay problem
     <string name="power_optimize_close_wake_notification">"No activar la pantalla con notificaciones"</string>
     <string name="power_optimize_close_wlan">Desactivar el punto de acceso portátil</string>
     <string name="power_optimize_close_wlan_summary">Ahorra energía cuando no hay dispositivos conectados</string>
-    <string name="power_optimize_darkmode">Cambiar al Modo oscuro</string>
+    <string name="power_optimize_darkmode">Cambiar al modo Oscuro</string>
     <string name="power_optimize_darkmode_dialog_confirm">Activar</string>
-    <string name="power_optimize_darkmode_dialog_summary">El Modo oscuro cambia la combinación de colores de la interfaz de usuario del sistema y las aplicaciones seleccionadas, lo que le permite ahorrar batería y reducir la fatiga visual.</string>
-    <string name="power_optimize_darkmode_dialog_title">Activar el Modo oscuro</string>
-    <string name="power_optimize_darkmode_extend_summary">El Modo oscuro cambia la combinación de colores de la interfaz de usuario del sistema y las aplicaciones seleccionadas, lo que le permite ahorrar batería y reducir la fatiga visual</string>
-    <string name="power_optimize_darkmode_summary">El Modo oscuro consume menos energía</string>
+    <string name="power_optimize_darkmode_dialog_summary">El modo Oscuro cambia la combinación de colores de la interfaz del sistema y de las aplicaciones seleccionadas, lo que permite ahorrar batería y reducir la fatiga visual.</string>
+    <string name="power_optimize_darkmode_dialog_title">Activar el modo Oscuro</string>
+    <string name="power_optimize_darkmode_extend_summary">El modo Oscuro cambia la combinación de colores de la interfaz del sistema y de las aplicaciones seleccionadas, lo que permite ahorrar batería y reducir la fatiga visual</string>
+    <string name="power_optimize_darkmode_summary">El modo Oscuro consume menos energía</string>
     <string name="power_optimize_disable_5g">Restringir conectividad 5G</string>
     <string name="power_optimize_disable_5g_summary">La conexión 5G consume más energía</string>
     <string name="power_optimize_disable_aod">Desactivar la Pantalla siempre activa</string>
@@ -3679,7 +3675,7 @@ Utiliza otro cable de Ethernet para conectar tu router. Si crees que hay problem
     <string name="power_save_mode_ontime_enabled">Programar hora para cambiar modo</string>
     <string name="power_save_mode_other_optimization">Optimización opcional</string>
     <string name="power_save_mode_start_time">Iniciar</string>
-    <string name="power_save_mode_summary">Monitorear procesos en segundo plano y desactivar sincronización.</string>
+    <string name="power_save_mode_summary">Supervisa procesos en segundo plano y desactiva la sincronización.</string>
     <string name="power_save_on_time_end_time_summary_na">A</string>
     <string name="power_save_on_time_start_time_summary_na">De</string>
     <string name="power_save_ps_clean">Limpiar caché cuando el dispositivo esté bloqueado</string>
@@ -3947,7 +3943,7 @@ Utiliza otro cable de Ethernet para conectar tu router. Si crees que hay problem
     <string name="privacy_dialog_call_title">Proteger llamadas</string>
     <string name="privacy_dialog_camera_message">"Para proteger tu privacidad, MIUI no permite que las aplicaciones usen tu cámara en segundo plano."</string>
     <string name="privacy_dialog_camera_title">Restringir el uso de la cámara en segundo plano</string>
-    <string name="privacy_dialog_content_part1">¡Bienvenido a Seguridad! Esta aplicación revisa tu dispositivo en busca de basura y virus y también te permite gestionar aplicaciones, controlar el uso de datos móviles, bloquear llamadas, mensajes y mucho más.</string>
+    <string name="privacy_dialog_content_part1">¡Te damos la bienvenida a Seguridad! Esta aplicación revisa el dispositivo en busca de basura y virus y también permite gestionar aplicaciones, controlar el uso de datos móviles, bloquear llamadas, mensajes y mucho más.</string>
     <string name="privacy_dialog_content_part2">&lt;Data&gt;Seguridad necesita recopilar la información personal necesaria para brindarte sus servicios y poder mejorar sus funciones. Puedes aprender cómo manejamos la información que recopilamos en nuestra &lt;a href=\"%1$s\"&gt;Política de Privacidad&lt;/a&gt;. Puedes retirar tu consentimiento a la Política de Privacidad de Seguridad en los Ajustes en cualquier momento.&lt;/Data&gt;</string>
     <string name="privacy_dialog_content_part3">&lt;Data&gt;Lee y acepta nuestro &lt;a href=\"%2$s\"&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &lt;a href=\"%1$s\"&gt;Política de Privacidad&lt;/a&gt; antes de usar Seguridad. Si no aceptas utilizar los servicios antes mencionados, no podrás utilizar algunas funciones de esta aplicación; sin embargo, su funcionalidad básica seguirá estando disponible.&lt;/Data&gt;</string>
     <string name="privacy_dialog_danger_mission_message">Android tiene múltiples permisos de alto riesgo (por ejemplo el permiso para enviar notificaciones push.) Para proteger tu privacidad, MIUI te preguntará si quieres permitir dicho comportamiento y proporcionar opciones de restricción.</string>
@@ -4036,9 +4032,9 @@ Utiliza otro cable de Ethernet para conectar tu router. Si crees que hay problem
     <string name="privacy_pop_record">Hoy se grabó audio</string>
     <string name="privacy_pop_storage">Hoy se accedió al almacenamiento</string>
     <string name="privacy_prompt_tc_sms_report_message">"Tu número de teléfono y los detalles del operador serán encriptados y cargados a los servidores Mi para actualizar la información de tu uso de datos."</string>
-    <string name="privacy_prompt_traffic_adjust_message">"Después de empezar la calibración, MIUI se conectará a la red, codificará la información de tu compañía, número de teléfono, IMEI y Cuenta Mi y subirá estos elementos a los servidores Mi. Esto es para obtener la plantilla de calibración de tu compañía y saber si es posible comprar datos en tu ubicación.
+    <string name="privacy_prompt_traffic_adjust_message">"Después de empezar la calibración, MIUI se conectará a la red, codificará la información de tu operador, número de teléfono, IMEI y cuenta Xiaomi y enviará estos elementos a los servidores de Xiaomi. Así se obtiene la plantilla de calibración de tu operador para saber si se puede comprar datos en tu ubicación.
 
-Mientras se esté calibrando, MIUI enviará un mensaje a tu operador para recibir esta plantilla."</string>
+Durante la calibración, MIUI enviará un mensaje a tu operador para recibir esa plantilla."</string>
     <string name="privacy_prompt_upload">Enviar</string>
     <string name="privacy_protect_summary">Proteger tu información personal</string>
     <string name="privacy_protect_title">Protección de la privacidad</string>
@@ -4061,7 +4057,7 @@ Retirar el consentimiento ahora?"</string>
     <string name="privacy_revoke_dialog_positive_text_numbers">Retirar (%ds)</string>
     <string name="privacy_revoke_dialog_title">Retirada del consentimiento</string>
     <string name="privacy_revoke_dialog_title_cn">Atención</string>
-    <string name="privacy_revoke_failed_dialog_content">Ocurrió un error en el servidor. Espere uno o dos minutos y vuelva a intentarlo.</string>
+    <string name="privacy_revoke_failed_dialog_content">Ocurrió un error en el servidor. Espera un par de minutos e inténtalo otra vez.</string>
     <string name="privacy_revoke_failed_dialog_title">"No se pudo retirar el consentimiento"</string>
     <string name="privacy_revoke_tip_dialog_content"><Data>\"No podrá seguir usando %1$s menos que acepte la nueva versión de su Política de privacidad. ¿Acepta la %2$s &lt;a href=\"%3$s\"&gt;Política de privacidad&lt;/a&gt; actualizada ahora?\"</Data></string>
     <string name="privacy_revoke_tip_dialog_title">"No puedo usar la aplicación"</string>
@@ -4168,7 +4164,7 @@ Retirar el consentimiento ahora?"</string>
     <string name="process_vpnsdkmanager_label">Game Turbo</string>
     <string name="promotion">Anuncio</string>
     <string name="prompt_all">Preguntar para todos</string>
-    <string name="prompt_input_time_illegal">"No se puede establecer esta hora, cámbiela e inténtelo de nuevo"</string>
+    <string name="prompt_input_time_illegal">"No se puede establecer esta hora, cámbiala e inténtelo otra vez"</string>
     <string name="protect_data_security">Datos aislados</string>
     <string name="protect_data_security_detail">Los datos generados por el teclado serán aislados e inaccesibles para otras aplicaciones.</string>
     <string name="protocol_exception_title">Diagnóstico de protocolos de red</string>
@@ -4187,7 +4183,7 @@ Retirar el consentimiento ahora?"</string>
     <string name="quick_optimize_sub_summary_text">Se han añadido %s a la vida de la batería</string>
     <string name="quick_optimize_sub_summary_with_battery_text">%1$s añadido, alrededor de %2$s restante</string>
     <string name="quick_optimize_suggest_battery_consume_too_fast">Se está agotando la batería, soluciónelo</string>
-    <string name="quick_optimize_suggest_battery_over_heat">El teléfono está sobrecalentándose, soluciónelo</string>
+    <string name="quick_optimize_suggest_battery_over_heat">El dispositivo se está sobrecalentando, soluciónalo</string>
     <string name="quick_replay_list_title">Aplicaciones disponibles</string>
     <string name="quick_reply_title">Respuestas rápidas</string>
     <string name="quite_all_string">Cancelar</string>
@@ -4213,7 +4209,7 @@ Retirar el consentimiento ahora?"</string>
     <string name="recommended">Destacados</string>
     <string name="reject_all">Restringir todo</string>
     <string name="reject_countdown">Denegar (%d)</string>
-    <string name="reject_usb_install">Denegar la instalación de estas aplicaciones vía USB</string>
+    <string name="reject_usb_install">Denegar la instalación de estas aplicaciones por USB</string>
     <string name="release_meminfo">Liberar %dMB</string>
     <string name="release_memory">Borrar caché</string>
     <string name="reminder_click_to_close_tips">Puedes activar y desactivar avisos de uso de datos en Seguridad &gt; Uso de datos &gt; Ajustes.</string>
@@ -4237,7 +4233,7 @@ Retirar el consentimiento ahora?"</string>
     <string name="report_warning_title">Atención</string>
     <string name="required_permissions">Permisos obligatorios</string>
     <string name="required_permissions_desc">Estos permisos son necesarios para que las funciones y servicios básicos de esta aplicación estén disponibles.</string>
-    <string name="reset_data_dialog_message">"Este dispositivo no está asociado con su cuenta Mi. No se puede restaurar o restablecer la contraseña. Realice una copia de seguridad de todos los elementos importantes y realice un restablecimiento de fábrica. Todos los datos se eliminarán de forma permanente y su tarjeta SD se formateará durante el restablecimiento de fábrica."</string>
+    <string name="reset_data_dialog_message">"Este dispositivo no está asociado a tu cuenta Xiaomi. No puedes restaurar o restablecer la contraseña. Haz una copia de seguridad de todos los elementos importantes y realiza un restablecimiento de fábrica. Todos los datos se eliminarán de forma permanente y tu tarjeta SD será formateada."</string>
     <string name="reset_data_dialog_ok">Restablecimiento de fábrica</string>
     <string name="reset_data_title">"No se puede restaurar la contraseña"</string>
     <string name="result_autoscan_header">Monitoreo de pagos</string>
@@ -4362,14 +4358,14 @@ Retirar el consentimiento ahora?"</string>
     <string name="set_now">Ajustes</string>
     <string name="set_numeric_password_name">Establecer PIN</string>
     <string name="set_package_tips">"Enviaremos un SMS gratuito a tu operador para verificar tu plan de datos. La información que proporciones se cifrará y se subirá a nuestros servidores para redactar este mensaje."</string>
-    <string name="set_package_tips_detail">"La información cargada en los servidores de Xiaomi incluirá los detalles de tu operador, así como tu número de teléfono, IMEI y Cuenta Mi."</string>
+    <string name="set_package_tips_detail">"La información cargada en los servidores de Xiaomi incluirá detalles de tu operador, tu número de teléfono, tu IMEI y tu cuenta Xiaomi."</string>
     <string name="set_pattern_password_name">Establecer patrón</string>
     <string name="set_traffic_tips">Configura tu plan de datos para administrar el uso de datos móviles y evitar cargos adicionales del operador</string>
     <string name="setting">Configuración</string>
     <string name="setting_back_sound_loading_msg">Un momento…</string>
     <string name="setting_online_service">Servicios online</string>
     <string name="setting_privacy_password">Añadir patrón</string>
-    <string name="setting_wireless_reverse_charging_fg_control_summary">Detenga la carga inalámbrica inversa cuando la batería de este dispositivo llegue a %s</string>
+    <string name="setting_wireless_reverse_charging_fg_control_summary">Detener la carga inalámbrica inversa si la batería de este dispositivo es inferior a %s</string>
     <string name="setting_wireless_reverse_charging_summary">Coloque el dispositivo que admita la carga inalámbrica Qi (por ejemplo, teléfono o dispositivo portátil) en el centro de la parte posterior de este dispositivo</string>
     <string name="settings">Ajustes de uso de datos</string>
     <string name="settings_battery_consume_abnormal_summary">Recibir notificaciones cuando la batería esté siendo consumida rápidamente</string>
@@ -4433,7 +4429,7 @@ Retirar el consentimiento ahora?"</string>
     <string name="sim_location_error_notify_message">Toque para cambiar la ubicación de la SIM.</string>
     <string name="sim_location_error_notify_title">Error de tarjeta SIM</string>
     <string name="sim_lock_card_name">"SIM %d - "</string>
-    <string name="sim_lock_change_done_message">"¡Establecido con éxito! Recuerde su nuevo PIN. Si lo olvida, tendrá que ponerse en contacto con el servicio de atención al cliente de su compañía para poder restaurarlo."</string>
+    <string name="sim_lock_change_done_message">"¡Establecido! Recuerda tu nuevo PIN. Si lo olvidas, tendrás que contactar con el servicio de atención al cliente de tu operador para restaurarlo."</string>
     <string name="sim_lock_cloud_notification_message">"No se puede verificar el PIN cuando la sincronización con la nube está apagada"</string>
     <string name="sim_lock_cloud_notification_title">"Tarjeta SIM no está protegida"</string>
     <string name="sim_lock_confirm_pin_hint">Confirmar nuevo PIN</string>
@@ -4456,7 +4452,7 @@ Retirar el consentimiento ahora?"</string>
     <string name="sim_lock_locked_notification_title">Tarjeta SIM bloqueada</string>
     <string name="sim_lock_lockscreen_notification_message">"No se puede verificar el PIN sin un bloqueo de pantalla"</string>
     <string name="sim_lock_lockscreen_notification_title">"Tarjeta SIM no está protegida"</string>
-    <string name="sim_lock_new_pin_different_error">"Los PIN introducidos no coinciden. Inténtalo de nuevo."</string>
+    <string name="sim_lock_new_pin_different_error">"Los PIN introducidos no coinciden. Inténtalo otra vez."</string>
     <string name="sim_lock_new_pin_hint" formatted="false">Introduzca %d-%d dígitos</string>
     <string name="sim_lock_new_pin_message">"Recuerde su nuevo PIN. Si lo olvida, tendrá que ponerse en contacto con el servicio de atención al cliente de su compañía para poder restaurarlo."</string>
     <string name="sim_lock_new_pin_title">Establecer un nuevo PIN</string>
@@ -4474,7 +4470,7 @@ Retirar el consentimiento ahora?"</string>
     <string name="sim_lock_puk_dialog_title">Sin intentos</string>
     <string name="sim_lock_puk_hint">Enter SIM PUK</string>
     <string name="sim_lock_puk_message">Póngase en contacto con su operador para saber cuál es su PUK SIM. Si alcanza el límite para introducir PUK incorrecto, su tarjeta SIM será cancelada.</string>
-    <string name="sim_lock_puk_success">PUK verificado con éxito</string>
+    <string name="sim_lock_puk_success">PUK verificado</string>
     <string name="sim_lock_puk_title">Verify PUK</string>
     <string name="sim_lock_query_all_pin">"PIN: "</string>
     <string name="sim_lock_query_all_title">Comprobar PIN</string>
@@ -4669,8 +4665,8 @@ Retirar el consentimiento ahora?"</string>
     <string name="special_perm_intercept_chat_msg">Incluyendo notificaciones de WeChat y QQ</string>
     <string name="special_perm_intercept_chat_title">Leer notificaciones de mensajería instantánea</string>
     <string name="special_perm_intercept_check_tip">"Soy consciente de los posibles riesgos y asumo todas las posibles consecuencias de forma voluntaria."</string>
-    <string name="special_perm_intercept_control_screen_msg">Leer todo el contenido de la pantalla y permitir mostrar elementos sobre otras aplicaciones</string>
-    <string name="special_perm_intercept_control_screen_title">Leer todo el contenido de la pantalla y la pantalla de control</string>
+    <string name="special_perm_intercept_control_screen_msg">Leer el contenido de la pantalla y mostrar elementos sobre otras aplicaciones</string>
+    <string name="special_perm_intercept_control_screen_title">Leer el contenido de la pantalla y del Centro de control</string>
     <string name="special_perm_intercept_data_msg">Eliminar todos los datos de este dispositivo sin permiso</string>
     <string name="special_perm_intercept_data_title">Eliminar todos los datos</string>
     <string name="special_perm_intercept_file_msg">Acceder y editar archivos en este dispositivo a través de un ordenador conectado</string>
@@ -4683,7 +4679,7 @@ Retirar el consentimiento ahora?"</string>
     <string name="special_perm_intercept_psd_title">Monitorizar y controlar el bloqueo de pantalla</string>
     <string name="special_perm_intercept_risk_app_msg">Algunas aplicaciones de terceros pueden atacar tu dispositivo, poniendo en riesgo tus datos y privacidad</string>
     <string name="special_perm_intercept_risk_app_title">Instalar aplicaciones peligrosas</string>
-    <string name="special_perm_intercept_screen_msg">Monitorizar y grabar todo el contenido mostrado en la pantalla</string>
+    <string name="special_perm_intercept_screen_msg">Monitorizar y grabar el contenido de la pantalla</string>
     <string name="special_perm_intercept_screen_title">Monitorizar y grabar el contenido de la pantalla</string>
     <string name="special_perm_intercept_setting_msg">Incluyendo operador, idioma y otros ajustes</string>
     <string name="special_perm_intercept_setting_title">Leer los ajustes del dispositivo</string>
@@ -4691,12 +4687,12 @@ Retirar el consentimiento ahora?"</string>
     <string name="special_perm_intercept_significance_title">Acceder a la información del dispositivo</string>
     <string name="special_perm_intercept_system_msg">Instalar aplicaciones que puedan contener virus o comportarse de forma dañina en cualquier otra forma</string>
     <string name="special_perm_intercept_system_title">"Influir en la seguridad y estabilidad del sistema."</string>
-    <string name="special_perm_intercept_title">"\"%s\" es un permiso muy delicado. Si concedes este permiso, tu información privada podría filtrarse y tus propiedades podría estar en riesgo. Esto es lo que las aplicaciones podrán hacer:"</string>
+    <string name="special_perm_intercept_title">"\"%s\" es un permiso muy delicado. Si lo concedes, tu información privada podría filtrarse y tus propiedades podrían estar en riesgo. Esto es lo que las aplicaciones podrán hacer:"</string>
     <string name="special_perm_intercept_usb_title">"\"%s\" es un servicio muy delicado destinado solo a desarrolladores. Si lo activas, tu información privada podría filtrarse y tus propiedades podrían estar en riesgo. Esto es lo que podría pasar:"</string>
     <string name="special_perm_manager_msg">Permitir que las aplicaciones controlen este dispositivo</string>
     <string name="special_perm_manager_title">Controlar el dispositivo</string>
-    <string name="special_perm_nfc_msg">Permitir que las aplicaciones realicen pagos contactless</string>
-    <string name="special_perm_nfc_title">Realizar pagos contactless</string>
+    <string name="special_perm_nfc_msg">Permitir que las aplicaciones realicen pagos sin contacto</string>
+    <string name="special_perm_nfc_title">Realizar pagos sin contacto</string>
     <string name="special_perm_note_msg">Permitir que las aplicaciones envíen SMS de pago</string>
     <string name="special_perm_note_title">Enviar SMS de pago</string>
     <string name="special_perm_notice_msg">Permitir que las aplicaciones gestionen notificaciones de forma dinámica</string>
@@ -4854,7 +4850,7 @@ Retirar el consentimiento ahora?"</string>
     <string name="storage_app_detail_uninstall_app">Desinstalar aplicación</string>
     <string name="storage_app_detail_uninstall_dialog_message">Todos los datos de aplicaciones también serán eliminados si desinstalas la aplicación.</string>
     <string name="storage_app_detail_uninstall_dialog_title">¿Desinstalar ahora?</string>
-    <string name="storage_app_detail_uninstall_done">Desinstalado con éxito</string>
+    <string name="storage_app_detail_uninstall_done">Desinstalado</string>
     <string name="storage_app_detail_wechat_cleaner">Limpiador de WeChat</string>
     <string name="storage_app_detail_wechat_session">"Borrar historial de conversaciones de WeChat"</string>
     <string name="storage_app_list_activity_title">Detalles de la aplicación</string>
@@ -4909,7 +4905,7 @@ Para usar esta ^1 con este dispositivo primero tienes que configurarla."</string
     <string name="storage_file_list_from">Desde %s</string>
     <string name="storage_fob_date_format">dd/MM</string>
     <string name="storage_format_failure">"No se pudo formatear %1$s"</string>
-    <string name="storage_format_success">%1$s formateada con éxito</string>
+    <string name="storage_format_success">%1$s formateada</string>
     <string name="storage_item_apk_name">APKs</string>
     <string name="storage_item_appdata_name">Aplicaciones y datos</string>
     <string name="storage_item_audio_name">Audio</string>
@@ -4922,7 +4918,7 @@ Para usar esta ^1 con este dispositivo primero tienes que configurarla."</string
     <string name="storage_item_video_name">Vídeo</string>
     <string name="storage_menu_mount">Montar</string>
     <string name="storage_mount_failure">"No se pudo montar %1$s"</string>
-    <string name="storage_mount_success">%1$s montada con éxito</string>
+    <string name="storage_mount_success">%1$s montada</string>
     <string name="storage_space_release_hint">¿Necesitas más espacio de almacenamiento?</string>
     <string name="storage_system_log">Registros del sistema</string>
     <string name="storage_system_log_tip">Los registros del sistema se borrarán automáticamente cuando sea necesario</string>
@@ -4930,7 +4926,7 @@ Para usar esta ^1 con este dispositivo primero tienes que configurarla."</string
     <string name="storage_system_memory_expansion_tip">Ampliar la memoria RAM ocupando almacenamiento</string>
     <string name="storage_system_other_tip">Datos necesarios para que el sistema funcione normalmente (el tamaño del archivo puede cambiar con el tiempo)</string>
     <string name="storage_unmount_failure">"No se pudo desmontar %1$s"</string>
-    <string name="storage_unmount_success">%1$s desmontada con éxito</string>
+    <string name="storage_unmount_success">%1$s desmontada</string>
     <string name="storage_wizard_format_confirm_v2_action">Formatear ^1</string>
     <string name="storage_wizard_format_confirm_v2_body">"Esta ^1 necesita ser formateada para almacenar aplicaciones, archivos y multimedia.
 
@@ -5015,7 +5011,7 @@ El formateo eliminará el contenido existente en la ^2. Para evitar perder conte
     <string name="sunday">Domingo</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
-    <string name="superpower_dialog_button_disable_dialog">"No mostrar de nuevo"</string>
+    <string name="superpower_dialog_button_disable_dialog">"No mostrar otra vez"</string>
     <string name="superpower_dialog_button_ok">OK</string>
     <string name="superpower_dialog_massage">"El Ahorro de batería extremo restringe las funciones que consumen más batería y disminuye el rendimiento de tu dispositivo para dejarlo en una funcionalidad básica (p. ej. llamadas, SMS y conexión de red) disponible el mayor tiempo posible. ¿Activar el Ahorro de batería extremo?"</string>
     <string name="superpower_dialog_title">Ahorro de batería extremo</string>
@@ -5027,7 +5023,7 @@ El formateo eliminará el contenido existente en la ^2. Para evitar perder conte
     <string name="superpower_notification_title_new">Queda menos de %s de batería</string>
     <string name="superpower_progress_content">Activando el Ahorro de batería</string>
     <string name="superpower_progress_left_time">%1$d h y %2$d min</string>
-    <string name="superpower_progress_switch_home">Cambiando al Modo oscuro</string>
+    <string name="superpower_progress_switch_home">Cambiando al modo Oscuro</string>
     <string name="superpower_progress_title">Tiempo restante</string>
     <string name="superpower_progress_turndown_brightness">Reduciendo brillo de la pantalla</string>
     <string name="superpower_progress_turnoff_items">Restringiendo actividades con consumo de energía</string>
@@ -5063,7 +5059,7 @@ El formateo eliminará el contenido existente en la ^2. Para evitar perder conte
     <string name="system_permission_declare_analytics_declare">"Te invitamos a inscribirte en nuestro Programa de Experiencia de Usuario. Esta aplicación necesita conectarse a internet y usar los siguientes permisos o funciones para recopilar estadísticas y mejorar los servicios que te brindamos. Recopilamos datos solo con fines estadísticos y no podemos identificarte personalmente usando los datos que recopilamos."</string>
     <string name="system_permission_declare_disagree">No aceptar</string>
     <string name="system_permission_declare_double_link"><Data>Lea y acepte nuestro &lt;a href=\"%1$s\"&gt;Acuerdo de usuario&lt;/a&gt; y &lt;a href=\"%2$s\"&gt;Política de privacidad&lt;/a&gt; antes de continuar.</Data></string>
-    <string name="system_permission_declare_main_purpose" formatted="false">¡Bienvenido a %1s! Esta aplicación te permite usar la siguiente función: %2s.</string>
+    <string name="system_permission_declare_main_purpose" formatted="false">¡Te damos la bienvenida a %1s! Esta aplicación te permite usar: %2s.</string>
     <string name="system_permission_declare_meanwhile_double_link"><Data>Lea y acepte nuestro &lt;a href=\"%1$s\"&gt;Acuerdo de usuario&lt;/a&gt; y &lt;a href=\"%2$s\"&gt;Política de privacidad&lt;/a&gt; antes de continuar.</Data></string>
     <string name="system_permission_declare_meanwhile_privacy_policy"><Data>Lea y acepte nuestra &lt;a href=\"%1$s\"&gt;Política de privacidad&lt;/a&gt; antes de continuar.</Data></string>
     <string name="system_permission_declare_meanwhile_user_agreement"><Data>Lea y acepte nuestro &lt;a href=\"%1$s\"&gt;Acuerdo de usuario&lt;/a&gt; antes de continuar.</Data></string>
@@ -5099,7 +5095,7 @@ El formateo eliminará el contenido existente en la ^2. Para evitar perder conte
     <string name="task_summary_close_airplane">Desactivar el modo avión</string>
     <string name="task_summary_close_auto_brightness">Desactivar el brillo automático</string>
     <string name="task_summary_close_bluetooth">Desactivar Bluetooth</string>
-    <string name="task_summary_close_dark_mode">Desactivar el modo oscuro</string>
+    <string name="task_summary_close_dark_mode">Desactivar el modo Oscuro</string>
     <string name="task_summary_close_dc_light">Desactivar el modo Anti-parpadeo</string>
     <string name="task_summary_close_dial_tone">Desactivar los tonos del teclado de marcación</string>
     <string name="task_summary_close_drive_mode">Desactivar el modo coche</string>
@@ -5159,7 +5155,7 @@ El formateo eliminará el contenido existente en la ^2. Para evitar perder conte
     <string name="tc_sms_report_get_success_notify_title">Se ha recibido el SMS con el informe de uso de datos</string>
     <string name="tc_sms_report_geting_sms">Obteniendo información del SMS…</string>
     <string name="tc_sms_report_notify_correction_body">Ve a Consumo de datos de aplicaciones en el Centro de Seguridad e inténtalo otra vez manualmente.</string>
-    <string name="tc_sms_report_notify_correction_business_hall">Calibre de nuevo en los servicios del operador</string>
+    <string name="tc_sms_report_notify_correction_business_hall">Calibra otra vez en Servicios del Operador</string>
     <string name="tc_sms_report_notify_correction_failure_title">"No se puede actualizar la información de uso de datos"</string>
     <string name="tc_sms_report_notify_get_failure_body">"No se pudo enviar el informe de consumo de datos. Asegúrate de estar conectado a una red móvil."</string>
     <string name="tc_sms_report_notify_get_failure_title">"No se puede obtener el SMS de uso de datos"</string>
@@ -5261,7 +5257,7 @@ El formateo eliminará el contenido existente en la ^2. Para evitar perder conte
     <string name="title_block_calls_from_strangers">¿Lllamadas perdidas importantes?</string>
     <string name="title_chain_start">Restringir inicio en cadena</string>
     <string name="title_cleaner_cloudscan">Escanear papelera en la nube</string>
-    <string name="title_cloud_account">Cuenta Mi</string>
+    <string name="title_cloud_account">Cuenta Xiaomi</string>
     <string name="title_cloud_space_almost_full">Almacenamiento en la nube casi lleno, los elementos pueden no sincronizarse</string>
     <string name="title_cloud_space_full">La nube está llena</string>
     <string name="title_cmcc_app_check">"La verificación no se ha completado"</string>
@@ -5375,7 +5371,7 @@ El formateo eliminará el contenido existente en la ^2. Para evitar perder conte
     <string name="toast_add_virus_white_list_no_need_repeat">Esta excepción ya existe</string>
     <string name="toast_auto_traffic_correct">El uso de datos se ha ajustado automáticamente</string>
     <string name="toast_cleaner_cloudscan">El limpiador usará definiciones online</string>
-    <string name="toast_dark_mode_fixed">Solucionado con éxito. Sal de esta página para aplicar los cambios.</string>
+    <string name="toast_dark_mode_fixed">Solucionado. Sal de esta página para aplicar los cambios.</string>
     <string name="toast_flow_notification">Notificaciones de uso de datos activadas</string>
     <string name="toast_garbage_lib">Actualizaciones automáticas para el Limpiador activadas</string>
     <string name="toast_keyword_blank">Introduce una palabra clave</string>
@@ -5384,11 +5380,11 @@ El formateo eliminará el contenido existente en la ^2. Para evitar perder conte
     <string name="toast_lockscreen_glogin_empty_password">Contraseña requerida</string>
     <string name="toast_network_eror">"No se pudo conectar a la red"</string>
     <string name="toast_network_switch">Esta aplicación puede conectarse a internet</string>
-    <string name="toast_reject_sms_read_permission_success">Establecido con éxito</string>
+    <string name="toast_reject_sms_read_permission_success">Establecido</string>
     <string name="toast_removed_from_virus_white_list">Eliminado de excepciones. El elemento será analizado la próxima vez.</string>
     <string name="toast_root_apply_accept">Permiso raíz otorgado a %s</string>
     <string name="toast_root_apply_reject">Permiso raíz denegado a %s</string>
-    <string name="toast_set_success">Activado con éxito</string>
+    <string name="toast_set_success">Activado</string>
     <string name="toast_show_notification">Fijado a la barra de notificaciones</string>
     <string name="toast_update_fail">"No se pudo actualizar"</string>
     <string name="toast_update_nonetwork">"No fue posible conectarse a la red"</string>
@@ -5397,8 +5393,8 @@ El formateo eliminará el contenido existente en la ^2. Para evitar perder conte
     <string name="today">Hoy</string>
     <string name="tomorrow">Mañana</string>
     <string name="top_game">Mejores juegos</string>
-    <string name="top_load_fail_detail">"No se pudo cargar, pulsa para intentarlo de nuevo"</string>
-    <string name="top_no_network_detial">"No se pudo cargar, comprueba tu conexión de red e inténtalo de nuevo"</string>
+    <string name="top_load_fail_detail">"No se pudo cargar, pulsa para intentarlo otra vez"</string>
+    <string name="top_no_network_detial">"No se pudo cargar, comprueba la conexión de red e inténtalo otra vez"</string>
     <string name="traffic_advanced_settings">Configuración avanzada de tráfico</string>
     <string name="traffic_alarm">Establecer alarma</string>
     <string name="traffic_alert_auto_modify_notification_sumarry">Plan mensual cambiado a %s.</string>
@@ -5450,7 +5446,7 @@ Los datos restantes incluyen datos excedentes del mes anterior."</string>
     <string name="traffic_setting_fragment_daily_summary">El plan de datos de actualiza a diario</string>
     <string name="traffic_setting_fragment_daily_title">Plan de datos diario</string>
     <string name="traffic_setting_fragment_default">Seleccionar</string>
-    <string name="traffic_setting_fragment_loacation_alert_nomore">"No mostrar de nuevo"</string>
+    <string name="traffic_setting_fragment_loacation_alert_nomore">"No mostrar otra vez"</string>
     <string name="traffic_setting_fragment_month_summary">Los datos móviles y minutos de llamadas se actualizan mensualmente</string>
     <string name="traffic_setting_fragment_month_title">Plan de datos mensual</string>
     <string name="traffic_setting_fragment_next">Siguiente</string>
@@ -5483,7 +5479,7 @@ Los datos restantes incluyen datos excedentes del mes anterior."</string>
     <string name="unable_connect_internet">Sin conexión a Internet</string>
     <string name="uninstall_app_dialog_msg">Desinstalar eliminará todos los datos de la aplicación.</string>
     <string name="uninstall_app_dialog_title">¿Desinstalar ahora?</string>
-    <string name="uninstall_app_done">Desinstalado con éxito</string>
+    <string name="uninstall_app_done">Desinstalado</string>
     <string name="uninstall_danagerous_btn">Desinstalar</string>
     <string name="uninstall_danagerous_desc">\"%s\" puede dañar tu dispositivo</string>
     <string name="uninstall_danagerous_msg">\"%s\" podría dañar tu dispositivo, reducir su rendimiento o causar reinicios.</string>
@@ -5525,7 +5521,7 @@ Los datos restantes incluyen datos excedentes del mes anterior."</string>
     <string name="usb_format">Formatear el dispositivo USB</string>
     <string name="usb_format_summary">Eliminar todos los datos en el dispositivo de almacenamiento USB (incluidas canciones y fotos)</string>
     <string name="usb_insert_summary">Conectar el dispositivo USB</string>
-    <string name="usb_install_desc">¿Instalar esta aplicación vía USB?</string>
+    <string name="usb_install_desc">¿Instalar esta aplicación desde USB?</string>
     <string name="usb_mount">Montar el dispositivo USB</string>
     <string name="usbsharenet_exception_summary">"No se pudo conectar a Internet usando la conexión compartida por USB. Comprueba la conexión USB del dispositivo y reinicia Mi PC Suite."</string>
     <string name="usbsharenet_exception_title">Comprobar conexión compartida por USB</string>
@@ -5601,7 +5597,7 @@ Activar una de las funciones desactivará la otra."</string>
     <string name="verify_shut_down_password_title">Confirmación de apagado</string>
     <string name="verify_sms_ensure_allow">Enviar</string>
     <string name="verify_sms_title">%1$s está intentando enviar un mensaje…</string>
-    <string name="video_repeat">Reproducir de nuevo</string>
+    <string name="video_repeat">Reproducir otra vez</string>
     <string name="videobox_hangup_tips_content">Tu pantalla será bloqueada, pero la aplicación seguirá ejecutándose en segundo plano cuando esta función esté activada. Pulsa el botón de Encendido para volver a encender la pantalla. ¿Activar ahora esta función?</string>
     <string name="videobox_hangup_tips_title">Atención</string>
     <string name="videobox_settings_line_location">Ubicación del acceso directo</string>

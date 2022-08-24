@@ -33,7 +33,7 @@
     <string name="account_bind_secure_phone_title">Añadir número de teléfono de recuperación</string>
     <string name="account_crop_user_avatar">Recortar foto</string>
     <string name="account_empty_nickname">El apodo no puede estar vacío</string>
-    <string name="account_empty_user_name">Introduce el nombre de usuario de tu Cuenta Mi</string>
+    <string name="account_empty_user_name">Nombre de usuario de tu cuenta Xiaomi</string>
     <string name="account_error_all_space_user_name">"El nombre de usuario no puede estar formado solo por espacios"</string>
     <string name="account_error_invalid_user_name">"El nombre no puede contener &lt;, &gt;, o /"</string>
     <string name="account_error_longer_user_name">"El nombre no puede superar los 20 caracteres"</string>
@@ -57,7 +57,7 @@
     <string name="account_user_details">Información personal</string>
     <string name="account_user_email">Correo electrónico de recuperación</string>
     <string name="account_user_gender">Sexo</string>
-    <string name="account_user_id">ID de Cuenta Mi</string>
+    <string name="account_user_id">ID de cuenta Xiaomi</string>
     <string name="account_user_name">Nombre de usuario</string>
     <string name="account_user_name_dialog_title">Introduce nombre de usuario</string>
     <string name="account_user_other_info">Detalles</string>
@@ -110,7 +110,7 @@
     <string name="adblock_force_updating_rules_toast">Actualizando Bloqueador de anuncios</string>
     <string name="adblock_rules_not_updated_toast">"No se pudo actualizar"</string>
     <string name="adblock_rules_restore">Desbloquear</string>
-    <string name="adblock_rules_updated_toast">Actualizado con éxito</string>
+    <string name="adblock_rules_updated_toast">Actualizado</string>
     <string name="adblock_websites_settings_empyt_hint">"No has bloqueado ningún sitio."</string>
     <string name="adblock_websites_settings_title">Sitios bloqueados</string>
     <string name="add">Añadir</string>
@@ -137,6 +137,7 @@
     <string name="adjust_text_zoom_toast">Cambiar el tamaño de texto puede hacer que algunos sitios no se muestren correctamente</string>
     <string name="afternoon">Tarde</string>
     <string name="agree">Aceptar</string>
+    <string name="agree_label">De acuerdo</string>
     <string name="agree_open">Activar</string>
     <string name="agree_permissions_request">Permitir</string>
     <string name="alert_tips">Este sitio podría ser un riesgo para tu seguridad</string>
@@ -181,7 +182,7 @@
     <string name="aqi_quality_index_pure">Excelente</string>
     <string name="aqi_quality_index_unhealthy">Insalubre</string>
     <string name="articles_collection_empty">No hay artículos todavía</string>
-    <string name="auth_fail_warning">Sesión expirada. Inicia sesión de nuevo.</string>
+    <string name="auth_fail_warning">Sesión expirada. Inicia la sesión otra vez.</string>
     <string name="autoSwithcingSearchEngineTips">Cambiado al buscador frecuente</string>
     <string name="auto_play_permission_name">Reproducción automática</string>
     <string name="auto_unlock">Desbloquear capítulos automáticamente</string>
@@ -197,7 +198,7 @@
 - Actualiza el Marco de Servicios de Google a la última versión.
 - Comprueba si Google Pay funciona en tu región."</string>
     <string name="billing_unavailable_title">"No se pudo completar el pago. Intenta lo siguiente:"</string>
-    <string name="bind_sign_in_title">Añadir Cuenta Mi</string>
+    <string name="bind_sign_in_title">Añadir cuenta Xiaomi</string>
     <string name="block">Bloquear</string>
     <string name="block_ads_choice_block">Bloquear</string>
     <string name="block_ads_choice_continue">Continuar</string>
@@ -219,7 +220,7 @@
     <string name="bookmark_saved">Añadido a marcadores</string>
     <string name="bookmark_sync_alert_ok">Sincronizar</string>
     <string name="bookmark_sync_alert_title">Selecciona los elementos para sincronizar</string>
-    <string name="bookmark_sync_tip_in_login_activity">Al pulsar sobre \"Iniciar sesión\", aceptas sincronizar marcadores y el historial de navegación automáticamente. Puedes desactivar la sincronización en \"Cuenta Mi\" más adelante.</string>
+    <string name="bookmark_sync_tip_in_login_activity">Al pulsar en \"Iniciar sesión\", aceptas sincronizar marcadores e historial de navegación. Puedes desactivar la sincronización en \"Cuenta Xiaomi\" posteriormente.</string>
     <string name="bookmark_sync_tip_in_profile_page">"Selecciona los elementos para sincronizar.
 Desactiva el interruptor para dejar de sincronizar."</string>
     <string name="bookmark_sync_tip_logined">Sincroniza los marcadores y el historial de navegación</string>
@@ -235,7 +236,7 @@ Desactiva el interruptor para dejar de sincronizar."</string>
     <string name="bookmarks_management">Marcadores</string>
     <string name="bookmarks_root_folder">Carpeta raíz</string>
     <string name="bookmarks_search">Navegador</string>
-    <string name="bookroom__clear_invalid_book_view__done">Eliminado con éxito</string>
+    <string name="bookroom__clear_invalid_book_view__done">Eliminado</string>
     <string name="bookroom__clear_invalid_book_view__scanning">Escaneando libros <font color="#ed6c00">%1$d/%2$d</font></string>
     <string name="bookroom__shared__invalid_book_clear">Eliminar todos los elementos obsoletos</string>
     <string name="bookroom__shared__invalid_book_title">"Este libro no existe. ¿Quieres eliminarlo de tu biblioteca?"</string>
@@ -479,7 +480,7 @@ Desactiva el interruptor para dejar de sincronizar."</string>
     <string name="cloud_time_tips">Última sincronización</string>
     <string name="cloud_up_to_loading_tips">Suelta para sincronizar</string>
     <string name="coins">Monedas</string>
-    <string name="coins_arrived">Tu saldo fue abonado con éxito</string>
+    <string name="coins_arrived">Tu saldo se ha abonado</string>
     <string name="collect_diagnosis_log">Recoger registros</string>
     <string name="collection_articles">Artículos</string>
     <string name="collection_videos">Vídeos</string>
@@ -553,10 +554,10 @@ Desactiva el interruptor para dejar de sincronizar."</string>
     <string name="confirm_know">OK </string>
     <string name="confirm_new_pwd">Confirma la nueva contraseña</string>
     <string name="confirm_privacy_password">Dibuja tu patrón de desbloqueo</string>
-    <string name="confirm_unbundled_phone_dialog_message">Este número de teléfono fue asociado con la Cuenta Mi %2$s el %1$s. Ya no estará asociado a la Cuenta Mi %3$s si continúas. ¿Continuar?</string>
+    <string name="confirm_unbundled_phone_dialog_message">Este número de teléfono fue asociado con la cuenta Xiaomi %2$s en %1$s. Si continúas, ya no estará asociado a la cuenta Xiaomi %3$s. ¿Continuar?</string>
     <string name="connection_lost">Desconectado</string>
     <string name="consume">Saliente</string>
-    <string name="content_collection_done">Añadido a favoritos con éxito</string>
+    <string name="content_collection_done">Añadido a favoritos</string>
     <string name="contextmenu_add_contact">Añadir contacto</string>
     <string name="contextmenu_copy">Copiar</string>
     <string name="contextmenu_copylink">Copiar URL</string>
@@ -585,7 +586,7 @@ Desactiva el interruptor para dejar de sincronizar."</string>
     <string name="copy_url">Copiar URL</string>
     <string name="core_functions_of_browser">Características principales al alcance de la mano</string>
     <string name="could_not_load_data">"No se pudo cargar los datos. refresca y vuelve a intentarlo"</string>
-    <string name="crash_page_button">Volver a intentarlo</string>
+    <string name="crash_page_button">Intentarlo otra vez</string>
     <string name="crash_page_description">Algo ocurrió mientras se mostraba esta página.</string>
     <string name="crash_page_title">¡Oh, vaya!</string>
     <string name="create_qr_code">Código QR</string>
@@ -612,6 +613,7 @@ Las páginas que visites no aparecerán en el historial."</string>
     <string name="deeplink_permission_name_hint">Abrir %s</string>
     <string name="default_account_name">Invitado</string>
     <string name="default_likes">Me gusta</string>
+    <string name="default_message_body">Cuerpo del mensaje</string>
     <string name="default_share">Compartir</string>
     <string name="default_title">"No se pudo cargar el texto. Actualiza la página para volver a intentarlo."</string>
     <string name="delete">Eliminar</string>
@@ -623,15 +625,15 @@ Las páginas que visites no aparecerán en el historial."</string>
     <string name="delete_file_dialog_title">¿Eliminar los archivos seleccionados?</string>
     <string name="delete_file_error">"No se pudo eliminar el archivo"</string>
     <string name="delete_result_fail">"No se pudo eliminar"</string>
-    <string name="delete_result_success">Eliminado con éxito</string>
+    <string name="delete_result_success">Eliminado</string>
     <string name="delete_task_and_file_dialog_msg">"La tarea será eliminada junto con el archivo correspondiente. No podrás restaurar los elementos eliminados."</string>
     <string name="delete_task_and_file_dialog_title">¿Eliminar la tarea y el archivo seleccionado?</string>
     <string name="delete_task_dialog_msg">¿Eliminar la tarea seleccionada?</string>
     <string name="detail_guide_tips">Desliza hacia arriba para más artículos relacionados</string>
     <string name="diagnosis_log_send_failed">"No se pudo enviar los registros. Vuelve a intentarlo."</string>
-    <string name="diagnosis_log_sent_format">"Registros enviados con éxito.
+    <string name="diagnosis_log_sent_format">"Se han enviados los registros
 ID:%s
-Envía este código al supervisor."</string>
+Remite este código al supervisor."</string>
     <string name="dialog_channel_cancel">Cancelar</string>
     <string name="dialog_channel_confirm">OK</string>
     <string name="dialog_channel_remove_content">Eliminar todos los canales tambien aliminará Nuevos contenidos.</string>
@@ -649,7 +651,7 @@ Envía este código al supervisor."</string>
     <string name="discovery__edit_feed_view__send">Liberar</string>
     <string name="discovery__edit_feed_view__title_hint">Título</string>
     <string name="dkcommon__web_pull_refresh_view__pull_down_tip">Desliza hacia abajo para actualizar</string>
-    <string name="dkcommon__web_pull_refresh_view__refresh_done_tip">Actualizado con éxito</string>
+    <string name="dkcommon__web_pull_refresh_view__refresh_done_tip">Actualizado</string>
     <string name="dkcommon__web_pull_refresh_view__refreshing_tip">Un momento…</string>
     <string name="dkcommon__web_pull_refresh_view__release_tip">Suelta para actualizar</string>
     <string name="dkmibrowsershopad__ad_view_video_replay">Repetir</string>
@@ -674,10 +676,10 @@ Envía este código al supervisor."</string>
     <string name="download_business_app_update_install">Listo para instalar la actualización.</string>
     <string name="download_business_v5_edit_mode_title_empty">Seleccionar elementos</string>
     <string name="download_change_dir">Cambiar carpeta</string>
-    <string name="download_complete">Descargado con éxito</string>
+    <string name="download_complete">Descargado</string>
     <string name="download_completed">Descargado</string>
-    <string name="download_completed_private_tips">Descargado con éxito y añadido a archivos ocultos. &lt;font color=\"#2dd9ce\"&gt;Pulsa para ver.&lt;/font&gt;</string>
-    <string name="download_completed_tips">Descargado con éxito. &lt;font color=\"#0081ff\"&gt;Pulsa para ver.&lt;/font&gt;</string>
+    <string name="download_completed_private_tips">Descargado y añadido a los archivos ocultos. &lt;font color=\"#2dd9ce\"&gt;Pulsa para ver.&lt;/font&gt;</string>
+    <string name="download_completed_tips">Descargado. &lt;font color=\"#0081ff\"&gt;Pulsa para ver.&lt;/font&gt;</string>
     <string name="download_default_path_txt">Recordar esta elección</string>
     <string name="download_delete_download">Eliminar</string>
     <string name="download_dialog_cannot_resume">La descarga fue interrumpida</string>
@@ -776,7 +778,7 @@ Envía este código al supervisor."</string>
     <string name="early_morning">Mañana</string>
     <string name="edit">Editar</string>
     <string name="edit_bookmark">Editar marcador</string>
-    <string name="edit_bookmark_tips">Añadido a marcadores con éxito. &lt;font color=\"#247BFF\"&gt;Editar&lt;/font&gt;</string>
+    <string name="edit_bookmark_tips">Añadido a los marcadores. &lt;font color=\"#247BFF\"&gt;Editar&lt;/font&gt;</string>
     <string name="edit_quicklink">Editar</string>
     <string name="edit_website">Editar URL</string>
     <string name="empty_app_name">Otra aplicación</string>
@@ -786,7 +788,7 @@ Envía este código al supervisor."</string>
     <string name="empty_snapshot_hint">Vacío</string>
     <string name="enable_geolocation_confirm_message">Apagar los servicios de localización afectará a las recomendaciones que recibas.</string>
     <string name="enable_vpn">Activar depuración VPN</string>
-    <string name="encrypt_success">Ocultado con éxito</string>
+    <string name="encrypt_success">Se ha encriptado</string>
     <string name="encrypting">Cifrando…</string>
     <string name="end_user_license">Acuerdo de Licencia de Usuario Final</string>
     <string name="enter_bookmark">Marcadores</string>
@@ -795,7 +797,7 @@ Envía este código al supervisor."</string>
     <string name="enter_news_by_pull_down">Suelta para abrir Nuevos contenidos</string>
     <string name="eras_ad">d.C</string>
     <string name="eras_bc">a.C</string>
-    <string name="error_dup_binded_email">Esta dirección de correo electrónico ya está asociada con otra Cuenta Mi.</string>
+    <string name="error_dup_binded_email">Esta dirección de correo electrónico ya está asociada con otra cuenta Xiaomi.</string>
     <string name="error_filename_too_long">Nombre de archivo demasiado largo.</string>
     <string name="error_folder_already_exists">Este archivo ya existe</string>
     <string name="error_forbidden">La sincronización se ha desactivado debido a problemas con tu Cuenta Xiaomi.</string>
@@ -809,7 +811,7 @@ Envía este código al supervisor."</string>
     <string name="error_unauthorized">La sincronización de la Cuenta Xiaomi ha sido desactivada debido a que hubo demasiados intentos de acceso.</string>
     <string name="error_unsupport_url_tips">"No se puede descargar este vídeo. Actualmente admitimos la descarga de vídeos de Facebook, Twitter e Instagram."</string>
     <string name="evening">Tarde</string>
-    <string name="exceed_binded_phone_times_notice">Este número de teléfono ya está asociado con otra Cuenta Mi.</string>
+    <string name="exceed_binded_phone_times_notice">Este número de teléfono ya está asociado con otra cuenta Xiaomi.</string>
     <string name="exit">Salir</string>
     <string name="exit_browser_warning">¿Salir ahora del navegador?</string>
     <string name="exit_clear_dialog_always">Recordar mi elección</string>
@@ -868,7 +870,7 @@ Envía este código al supervisor."</string>
     <string name="experience_improve">Programa de Experiencia de Usuario</string>
     <string name="exported">Exportado</string>
     <string name="external_app_restricted_access_error">"El Navegador Mi no puede acceder a este elemento."</string>
-    <string name="failed_dup_secure_phone_number">Este número de teléfono ya está asociado a otra Cuenta Mi</string>
+    <string name="failed_dup_secure_phone_number">Este número de teléfono ya está asociado a otra cuenta Xiaomi</string>
     <string name="fast_search_title">Búsqueda rápida</string>
     <string name="fast_than">Por delante del %1$s%% de los usuarios</string>
     <string name="fb_login_tips">Inicia sesión para descargar vídeos desde Facebook</string>
@@ -961,25 +963,6 @@ Envía este código al supervisor."</string>
     <string name="gaid">GAID (haga clic para exportar)</string>
     <string name="game_center_recommend_play">Jugar</string>
     <string name="game_center_recommend_title">Recomendado para ti</string>
-    <string name="game_exit_when_press_back_again">Pulsa de nuevo para salir</string>
-    <string name="game_loading_stage_loadPackage_download_plugin_fail">"No se pudo descargar el plug-in"</string>
-    <string name="game_loading_stage_loadPackage_download_plugin_installing">Descargando plug-in…</string>
-    <string name="game_loading_stage_loadPackage_download_plugin_start">Solicitando plug-in…</string>
-    <string name="game_loading_stage_loadPackage_game_package_download_fail">"No se pudo descargar el paquete de juego"</string>
-    <string name="game_loading_stage_loadPackage_game_package_download_finish">Paquete de juego descargado</string>
-    <string name="game_loading_stage_loadPackage_game_package_download_start">Descargando paquete de juego…</string>
-    <string name="game_loading_stage_loadPackage_install_game_package_download_fail">"No se pudo instalar el paquete de juego"</string>
-    <string name="game_loading_stage_loadPackage_install_game_package_download_finish">Paquete de jeugo instalado</string>
-    <string name="game_loading_stage_loadPackage_install_game_package_downloading">Instalando paquete de juego…</string>
-    <string name="game_loading_stage_loadPackage_install_game_package_start">Preparando paquete de juego…</string>
-    <string name="game_loading_stage_loadPackage_install_plugin_fail">"No se pudo instalar el plug-in"</string>
-    <string name="game_loading_stage_loadPackage_install_plugin_finish">Plug-in instalado</string>
-    <string name="game_loading_stage_loadPackage_install_plugin_installing">Instalando el plug-in…</string>
-    <string name="game_loading_stage_loadPackage_install_plugin_start">Preparando el plug-in…</string>
-    <string name="game_loading_stage_loadPackage_launch_game">Ejecutando…</string>
-    <string name="game_loading_stage_load_core_feature_continue">Continuar</string>
-    <string name="game_loading_stage_load_core_feature_exit">Atrás</string>
-    <string name="game_loading_stage_load_core_feature_title">"Este juego requiere de '%1$s'. Core %2$s no es compatible con '%3$s'. ¿Continuar de todas formas?"</string>
     <string name="game_news_flow_download_bar_download">Descargar</string>
     <string name="game_news_flow_download_bar_play">Iniciar</string>
     <string name="game_play">Jugar</string>
@@ -1056,7 +1039,7 @@ Envía este código al supervisor."</string>
     <string name="general__shared__launch">Abrir inmediatamente</string>
     <string name="general__shared__loading">Un momento…</string>
     <string name="general__shared__local_time_error">La hora local es incorrecta, debes reajustarla</string>
-    <string name="general__shared__network_error">"No se pudo conectar. Comprueba los ajustes de red y vuelve a intentarlo."</string>
+    <string name="general__shared__network_error">"No se pudo conectar. Comprueba los ajustes de red e inténtalo otra vez."</string>
     <string name="general__shared__notify_download_on_mobile">No estás en una red Wi-Fi y estás utilizando el tráfico de datos para descargar</string>
     <string name="general__shared__ok">Aceptar</string>
     <string name="general__shared__pause_download">Pausar la descarga</string>
@@ -1065,14 +1048,14 @@ Envía este código al supervisor."</string>
     <string name="general__shared__reading_task_finished">Obtén bonos</string>
     <string name="general__shared__recommend">Recomendado</string>
     <string name="general__shared__refresh_no_more">"Eso es todo por ahora"</string>
-    <string name="general__shared__refresh_web_button">Intentar de nuevo</string>
-    <string name="general__shared__relogin_failed">La solicitud ha superado el tiempo de espera. Inicia sesión de nuevo.</string>
+    <string name="general__shared__refresh_web_button">Inténtalo otra vez</string>
+    <string name="general__shared__relogin_failed">El tiempo de espera se ha agotado. Inicia la sesión otra vez.</string>
     <string name="general__shared__remove">Eliminar</string>
     <string name="general__shared__repair">Reparar</string>
     <string name="general__shared__retry">Reintentar</string>
     <string name="general__shared__retry_download">Descargar otra vez</string>
-    <string name="general__shared__reward_get_failed">"No se pudo cargar el vídeo. Espera un minuto o dos y vuelve a intentarlo."</string>
-    <string name="general__shared__reward_login_failed">"No se pudo iniciar sesión. Inténtalo de nuevo."</string>
+    <string name="general__shared__reward_get_failed">"No se pudo cargar el vídeo. Espera un par de minutos e inténtalo otra vez."</string>
+    <string name="general__shared__reward_login_failed">"No se ha podido iniciar la sesión. Inténtalo otra vez."</string>
     <string name="general__shared__reward_redeem_failed">"No se pudo obtener bonos"</string>
     <string name="general__shared__saving_changes">Guardando los cambios</string>
     <string name="general__shared__scan">Escanear</string>
@@ -1088,7 +1071,7 @@ Envía este código al supervisor."</string>
     <string name="general__shared__timed_reading_left">Queda %s de tiempo de lectura gratis</string>
     <string name="general__shared__timed_reading_nearly_over">El tiempo de lectura gratis está a punto de acabarse</string>
     <string name="general__shared__top_up">Recargar</string>
-    <string name="general__shared__top_up_success">Recargado con éxito</string>
+    <string name="general__shared__top_up_success">Recargado</string>
     <string name="general__shared__unknown_error_code">Se ha producido un error desconocido: %d</string>
     <string name="general__shared__unkown_book_format">"Formato no soportado"</string>
     <string name="general__shared__unselect_all">Deseleccionar todo</string>
@@ -1128,8 +1111,8 @@ para añadir libros al mismo"</string>
     <string name="geolocation_settings_page_title">Borrar acceso a la ubicación</string>
     <string name="get_back_pwd">Restableciendo contraseña</string>
     <string name="get_ph_ticket">Obtener el código</string>
-    <string name="get_phone_bind_exceed_limit">"Puedes asociar hasta 3 Cuenta Mi con un número de teléfono. No puedes añadir nuevas cuentas."</string>
-    <string name="get_phone_verifycode_exceed_limit">Se han enviado demasiados códigos de verificación a este número. Espera 24 horas y prueba de nuevo.</string>
+    <string name="get_phone_bind_exceed_limit">"Un número de teléfono se puede asociar con 3 cuentas Xiaomi. No puedes añadir nuevas cuentas."</string>
+    <string name="get_phone_verifycode_exceed_limit">Enviados demasiados códigos de verificación a este número. Espera 24 horas e inténtalo otra vez.</string>
     <string name="go_me">Perfil</string>
     <string name="go_supermarket_button">Ir</string>
     <string name="go_supermarket_title">Más aplicaciones, más rápido y menos uso de datos en la App Store</string>
@@ -1245,7 +1228,7 @@ para añadir libros al mismo"</string>
     <string name="js_disable_confirm_message">Deshabilitar JavaScript puede hacer que algunos sitios web no se muestren correctamente.</string>
     <string name="js_disable_confirm_title">¿Deshabilitar JavaScript?</string>
     <string name="just_a_second">Un momento…</string>
-    <string name="just_now">Justo ahora</string>
+    <string name="just_now">Ahora mismo</string>
     <string name="keep_intrercept">Detener</string>
     <string name="language">Idioma</string>
     <string name="le_download_failed_server_error">"No se pudo descargar debido a un error del servidor."</string>
@@ -1259,7 +1242,7 @@ para añadir libros al mismo"</string>
     <string name="list_menu_rename_result_fail">"No se pudo renombrar"</string>
     <string name="list_menu_rename_result_repeat">Un archivo con este nombre ya existe</string>
     <string name="load_end">"Eso es todo por ahora"</string>
-    <string name="load_failed">"No se pudo cargar la información. Inténtalo de nuevo."</string>
+    <string name="load_failed">"No se ha podido cargar la información. Inténtalo otra vez."</string>
     <string name="load_more">Ver más</string>
     <string name="loading">Un momento…</string>
     <string name="loading_tips">Tira hacia abajo para actualizar</string>
@@ -1275,13 +1258,13 @@ para añadir libros al mismo"</string>
     <string name="lockpattern_recording_inprogress">Suelta cuando completes tu patrón</string>
     <string name="lockpattern_recording_intro_header">Conecta al menos %1$d puntos</string>
     <string name="lockpattern_retry_button_text">Restablecer</string>
-    <string name="login_fail">"No se pudo iniciar sesión. Inténtalo de nuevo."</string>
-    <string name="login_failed_toast">"No se pudo iniciar sesión, actualiza e inténtalo de nuevo"</string>
+    <string name="login_fail">"No se ha podido iniciar la sesión. Inténtalo otra vez."</string>
+    <string name="login_failed_toast">"No se pudo iniciar la sesión, actualiza e inténtalo otra vez"</string>
     <string name="login_or_register">o</string>
-    <string name="login_success">Sesión iniciada con éxito</string>
+    <string name="login_success">Se ha iniciado la sesión</string>
     <string name="logout">Cerrar sesión</string>
     <string name="logout_account">Cerrar sesión</string>
-    <string name="logout_success_toast">Sesión cerrada con éxito</string>
+    <string name="logout_success_toast">Se ha cerrado la sesión</string>
     <string name="long_press_edit">Mantén pulsado para editar</string>
     <string name="low_memory_toast">"Poca memoria, no se puede usar el Navegador"</string>
     <string name="make_private">Ocultar</string>
@@ -1349,7 +1332,7 @@ para añadir libros al mismo"</string>
     <string name="miuix_indexer_collect">Colecciones</string>
     <string name="miuix_indexer_selected">Seleccionado %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Desliza hacia abajo para actualizar</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado con éxito</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualizando…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Suelta para actualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Eso es todo por ahora"</string>
@@ -1401,6 +1384,7 @@ para añadir libros al mismo"</string>
     <string name="more_description">Menú</string>
     <string name="more_info">Saber más</string>
     <string name="more_option">Más opciones</string>
+    <string name="more_privacy">Más opciones de privacidad</string>
     <string name="more_recommend">Más recomendaciones</string>
     <string name="morning">Mañana</string>
     <string name="most_visited_sites">Más visitado</string>
@@ -1478,14 +1462,14 @@ para añadir libros al mismo"</string>
     <string name="mw_common_google_play_services_install_title">Obtener servicios de Google Play</string>
     <string name="mw_common_google_play_services_notification_channel_name">Disponibilidad de los servicios de Google Play</string>
     <string name="mw_common_google_play_services_notification_ticker">Error en los servicios de Google Play</string>
-    <string name="mw_common_google_play_services_unknown_issue">%1$s tiene problemas con los servicios de Google Play. Inténtelo de nuevo.</string>
+    <string name="mw_common_google_play_services_unknown_issue">%1$s tiene problemas con los servicios de Google Play. Inténtalo otra vez.</string>
     <string name="mw_common_google_play_services_unsupported_text">"%1$s no se ejecutará sin los servicios de Google Play, que no son compatibles con su dispositivo."</string>
     <string name="mw_common_google_play_services_update_button">Actualizar</string>
     <string name="mw_common_google_play_services_update_text">"%1$s no se ejecutará a menos que actualice los servicios de Google Play."</string>
     <string name="mw_common_google_play_services_update_title">Actualizar los servicios de Google Play</string>
     <string name="mw_common_google_play_services_updating_text">"%1$s no se ejecutará sin los servicios de Google Play, que actualmente se están actualizando."</string>
     <string name="mw_common_google_play_services_wear_update_text">Se necesita una nueva versión de los servicios de Google Play. Se actualizará en breve.</string>
-    <string name="mw_common_open_on_phone">Abierto en el teléfono</string>
+    <string name="mw_common_open_on_phone">Abierto en el dispositivo</string>
     <string name="mw_common_signin_button_text">Registrarse</string>
     <string name="mw_common_signin_button_text_long">Registrarse con Google</string>
     <string name="mw_copy_to_clipboard_failure_message">"No se pudo copiar al portapapeles"</string>
@@ -1528,7 +1512,7 @@ para añadir libros al mismo"</string>
     <string name="mw_miuichromium_error_page_btn_close">Cerrar</string>
     <string name="mw_miuichromium_error_page_btn_refresh">Actualizar</string>
     <string name="mw_miuichromium_error_page_btn_report_issue">Notificar un error</string>
-    <string name="mw_miuichromium_error_page_description_no_connection" formatted="false">"No se ha podido conectar a la red porque la señal es débil o porque la configuración de red es incorrecta. Revisa tu %s1ajustes de red%s2 y vuelve a intentarlo."</string>
+    <string name="mw_miuichromium_error_page_description_no_connection" formatted="false">"No se pudo conectar a la red porque la señal es débil o la configuración de red es incorrecta. Comprueba los %s1ajustes de red%s2 e inténtalo otra vez."</string>
     <string name="mw_miuichromium_error_page_diagnose">Diagnóstico de red</string>
     <string name="mw_miuichromium_error_page_diagnose_banner">Diagnóstico de red</string>
     <string name="mw_miuichromium_error_page_diagnose_certificate">"No se pudo verificar el protocolo de red"</string>
@@ -1647,13 +1631,13 @@ para añadir libros al mismo"</string>
     <string name="navigationbar_rightbutton_actiontext_go">Ir</string>
     <string name="navigationbar_rightbutton_actiontext_search">Buscar</string>
     <string name="net_error">Error de red</string>
-    <string name="net_error__button_text">Intentar de nuevo</string>
+    <string name="net_error__button_text">Inténtalo otra vez</string>
     <string name="network_show_wifi_setting_tip_dialog_description">Hay un punto de acceso Wi-Fi acerca. ¿Conectarse?</string>
     <string name="network_show_wifi_setting_tip_dialog_title">Red Wi-Fi disponible</string>
     <string name="new_update_available">Hay una actualización disponible</string>
     <string name="new_version_name">Nueva versión %s</string>
     <string name="news_flow_more_recommend">Más elementos recomendados</string>
-    <string name="news_load_failed">Pulsa para intentar de nuevo</string>
+    <string name="news_load_failed">Pulsa para intentarlo otra vez</string>
     <string name="news_loading">Cargando…</string>
     <string name="news_native_see_all">Artículo completo</string>
     <string name="next">Siguiente</string>
@@ -1661,7 +1645,7 @@ para añadir libros al mismo"</string>
     <string name="nf_content_gif_label">GIF</string>
     <string name="nf_detail_collection">Añadir a favoritos</string>
     <string name="nf_dislike">No interesante</string>
-    <string name="nf_feed_list_exit_toast">Pulsa de nuevo para cerrar Nuevos contenidos</string>
+    <string name="nf_feed_list_exit_toast">Pulsa otra vez para cerrar Contenidos</string>
     <string name="nf_feed_list_refresh_guide">Pulsa para cargar nuevos elementos</string>
     <string name="nf_feedback">Reportar</string>
     <string name="nf_feedback_dislike">"No me gusta"</string>
@@ -1672,7 +1656,7 @@ para añadir libros al mismo"</string>
     <string name="nf_product_buy">Comprar ahora</string>
     <string name="nf_product_discount">Ahorra %s</string>
     <string name="nf_product_more">Detalles</string>
-    <string name="nf_select_language">Seleccionar idioma de Nuevos contenidos</string>
+    <string name="nf_select_language">Seleccionar idioma de Contenidos</string>
     <string name="nf_set_follow_channel_as_default">Mostrar \"%s\" al inicio</string>
     <string name="nf_submit">Enviar</string>
     <string name="nick_name">Nombre de usuario</string>
@@ -1704,7 +1688,7 @@ para añadir libros al mismo"</string>
     <string name="not_remind">"No volver a preguntar"</string>
     <string name="not_remind_again">Recordar mi elección</string>
     <string name="not_set">Sin establecer</string>
-    <string name="not_show_again">"No mostrar de nuevo"</string>
+    <string name="not_show_again">"No mostrar otra vez"</string>
     <string name="noti_dialog_agree">Restringir</string>
     <string name="noti_dialog_cancel">Cancelar</string>
     <string name="noti_dialog_content">¿Restringir notificaciones para esta página web?</string>
@@ -1719,7 +1703,7 @@ para añadir libros al mismo"</string>
     <string name="notification_category_group_general">General</string>
     <string name="notification_category_media">Multimedia</string>
     <string name="notification_category_stickcard">StickCard</string>
-    <string name="notification_download_completed">Descargado con éxito</string>
+    <string name="notification_download_completed">Descargado</string>
     <string name="notification_download_failed">"No se pudo descargar."</string>
     <string name="notification_wechat_expired_empty">WeChat ya ha eliminado estos clips de vídeo.</string>
     <string name="notifications">Notificaciones</string>
@@ -1755,7 +1739,7 @@ para añadir libros al mismo"</string>
     <string name="page_info_view">Ver información de página</string>
     <string name="partner_privacy">Políticas de privacidad de terceros</string>
     <string name="passport_access_denied">Acceso denegado</string>
-    <string name="passport_account_label">Cuenta Mi</string>
+    <string name="passport_account_label">Cuenta Xiaomi</string>
     <string name="passport_account_name">"Cuenta: %1$s "</string>
     <string name="passport_activate_token_expired">El código de verificación ha expirado, Vuelve a intentarlo.</string>
     <string name="passport_area_code_title">Código de área</string>
@@ -1807,13 +1791,13 @@ para añadir libros al mismo"</string>
     <string name="passport_quick_login_dialog_title">Verificar contraseña</string>
     <string name="passport_quick_login_step2_title">Verificación en 2 pasos</string>
     <string name="passport_quick_login_title">Introduce tu contraseña</string>
-    <string name="passport_re_get_verify_code">Obtener código de nuevo</string>
+    <string name="passport_re_get_verify_code">Obtener código otra vez</string>
     <string name="passport_reging">Creando cuenta…</string>
     <string name="passport_register_restricted">Se han asociado demasiadas cuentas a este número. Prueba con uno distinto.</string>
-    <string name="passport_reload_ph_ticket">Enviar de nuevo</string>
-    <string name="passport_relogin_notice">Debe iniciar sesión de nuevo</string>
-    <string name="passport_send_too_many_code">Se han enviado demasiados códigos de verificación a este número. Espera 24 horas y prueba de nuevo.</string>
-    <string name="passport_send_too_many_sms">Se han enviado demasiados códigos de verificación a este número. Espera 24 horas y prueba de nuevo.</string>
+    <string name="passport_reload_ph_ticket">Enviar otra vez</string>
+    <string name="passport_relogin_notice">Debes iniciar la sesión otra vez</string>
+    <string name="passport_send_too_many_code">Enviados demasiados códigos de verificación a este número. Espera 24 horas e inténtalo otra vez.</string>
+    <string name="passport_send_too_many_sms">Enviados demasiados códigos de verificación a este número. Espera 24 horas e inténtalo otra vez.</string>
     <string name="passport_sending_vcode">Enviando código…</string>
     <string name="passport_set_password">Establecer contraseña</string>
     <string name="passport_set_password_no_phone_msg">Añade tu número de teléfono para proteger tu cuenta.</string>
@@ -1828,7 +1812,7 @@ para añadir libros al mismo"</string>
     <string name="passport_trust_device">Este es un dispositivo de confianza</string>
     <string name="passport_trying_read_verify_code_sms">Obteniendo el código de verificación…</string>
     <string name="passport_unknow_error">Ha ocurrido un error desconocido</string>
-    <string name="passport_unknow_host_network_error">Comprueba la configuración de red y vuelve a intentarlo</string>
+    <string name="passport_unknow_host_network_error">Comprueba la configuración de red e inténtalo otra vez</string>
     <string name="passport_unknow_network_error">Ha ocurrido un error de red</string>
     <string name="passport_user_agreement_link">"&lt;Data&gt;He leído y acepto el &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y &lt;a href=%2$s&gt;Política de Privacidad&lt;/a&gt; de Xiaomi.&lt;/Data&gt;"</string>
     <string name="passport_user_agreement_link_more">"&lt;Data&gt;He leído y acepto el &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y &lt;a href=%4$s&gt;Política de Privacidad&lt;/a&gt;, &lt;a href=%2$s&gt;%3$s&lt;/a&gt;.&lt;/Data&gt;"</string>
@@ -1848,7 +1832,7 @@ para añadir libros al mismo"</string>
     <string name="password_toggle_content_description">Cambiar la visibilidad de la contraseña</string>
     <string name="pay_failed_toast">"No se pudo completar el pago. Vuelve a intentarlo."</string>
     <string name="pay_now">Pagar</string>
-    <string name="pay_success_toast">Pagado con éxito</string>
+    <string name="pay_success_toast">Se ha pagado</string>
     <string name="payment_method">Métodos de pago</string>
     <string name="per_month">Al mes</string>
     <string name="permission_agree_service">"He leído y acepto todos los términos y condiciones."</string>
@@ -1928,13 +1912,13 @@ para añadir libros al mismo"</string>
     <string name="personal__check_in_details_check_in_title">Registro</string>
     <string name="personal__check_in_details_item_1">1. Regístrate a diario para obtener bonos.</string>
     <string name="personal__check_in_details_item_2">2. Tu racha se romperá si te saltas un día.</string>
-    <string name="personal__check_in_failed_check_network">"No se pudo conectar a la red. Comprueba tus ajustes de red y vuelve a intentarlo."</string>
-    <string name="personal__check_in_failed_try_again">"No te pudiste registrar. Inténtalo de nuevo."</string>
+    <string name="personal__check_in_failed_check_network">"No se pudo conectar a la red. Comprueba los ajustes de red e inténtalo otra vez."</string>
+    <string name="personal__check_in_failed_try_again">"No te has podido registrar. Inténtalo otra vez."</string>
     <string name="personal__check_in_more_bonus_tip">Más recompensas</string>
     <string name="personal__check_in_one_day">Registrado una vez</string>
     <string name="personal__check_in_reminder_explain">Recibir recordatorios diarios de inicio de sesión</string>
     <string name="personal__check_in_reminder_tip">Recordatorio de inicio de sesión</string>
-    <string name="personal__check_in_result_success">Sesión iniciada con éxito</string>
+    <string name="personal__check_in_result_success">Se ha iniciado la sesión</string>
     <string name="personal__check_in_rules">Reglas</string>
     <string name="personal__check_in_rules_item_3">3. Comenzará una nueva racha automáticamente después de una racha completa de 7 días.</string>
     <string name="personal__check_in_tips">Obtén bonos</string>
@@ -1969,7 +1953,7 @@ para añadir libros al mismo"</string>
     <string name="personal__feedback_refresh_payment_failed_hint">Pulsa \"Refrescar\" y vuelve a intentarlo</string>
     <string name="personal__feedback_refresh_refresh">Refrescar</string>
     <string name="personal__feedback_refresh_success_got_it">Entendido</string>
-    <string name="personal__feedback_refresh_success_title">Refrescado con éxito</string>
+    <string name="personal__feedback_refresh_success_title">Actualizado</string>
     <string name="personal__join_activity_title">Escritor de Wonderfic</string>
     <string name="personal__join_hint_book_delete_btn">Eliminar</string>
     <string name="personal__join_hint_book_description">Descripción</string>
@@ -1997,7 +1981,7 @@ para añadir libros al mismo"</string>
     <string name="personal__join_upload_input_too_many_words">La descripción puede contener hasta 2000 caracteres.</string>
     <string name="personal__join_upload_need_exact_mail">Primero introduce tu dirección de correo electrónico</string>
     <string name="personal__join_upload_result_notice">"Te enviaremos un correo electrónico en un plazo de 2 días hábiles."</string>
-    <string name="personal__join_upload_result_submit">¡Enviado con éxito!</string>
+    <string name="personal__join_upload_result_submit">¡Enviado correctamente!</string>
     <string name="personal__join_upload_works_draft">Borrador</string>
     <string name="personal__join_upload_works_no_description">Sin descripción</string>
     <string name="personal__my_account">Mi cuenta</string>
@@ -2016,14 +2000,14 @@ para añadir libros al mismo"</string>
     <string name="personal__personalise_push">Push direccional</string>
     <string name="personal__personalise_recommend">Recomendación personalizada</string>
     <string name="personal__profile_user_id">ID de usuario</string>
-    <string name="personal__profile_user_id_copy_success">ID del usuario copiada con éxito</string>
-    <string name="personal__read_history__add_to_bookshelf_failed">"No se pudo añadir a la biblioteca. Espera uno o dos minutos y vuelve a intentarlo."</string>
+    <string name="personal__profile_user_id_copy_success">ID de usuario copiado</string>
+    <string name="personal__read_history__add_to_bookshelf_failed">"No se pudo añadir a la biblioteca. Espera un par de minutos e inténtalo otra vez."</string>
     <string name="personal__read_history__day">Hoy</string>
     <string name="personal__read_history__delete">Limpiar</string>
     <string name="personal__read_history__delete_count">Limpiar (%d)</string>
     <string name="personal__read_history__delete_dialog_title">¿Eliminar los elementos seleccionados de tu historial de lectura?</string>
     <string name="personal__read_history__empty">Todavía no hay elementos aquí. ¡Encuentra algo interesante en nuestra librería!</string>
-    <string name="personal__read_history__has_add_to_bookshelf">Añadido a la biblioteca con éxito</string>
+    <string name="personal__read_history__has_add_to_bookshelf">Añadido a la biblioteca</string>
     <string name="personal__read_history__history">Historial de lectura</string>
     <string name="personal__read_history__long_ago">Anteriormente</string>
     <string name="personal__read_history__read_chapter">Leyendo \"%s\"</string>
@@ -2066,7 +2050,7 @@ para añadir libros al mismo"</string>
     <string name="pf_move_out_dialog_btn_confirm">Eliminar</string>
     <string name="pf_move_out_dialog_content">Los elementos eliminados serán mostrados entre los archivos recientes.</string>
     <string name="pf_move_out_dialog_title">Eliminando de una carpeta privada</string>
-    <string name="pf_toast_add_success">Movido a una carpera privada con éxito</string>
+    <string name="pf_toast_add_success">Movido a una carpeta privada</string>
     <string name="phone">Almacenamiento</string>
     <string name="phone_bind_too_many">Este teléfono ha sido asociado con varias cuentas Mi en un corto periodo de tiempo. Intenta usar otro número de teléfono.</string>
     <string name="phone_hint">Número de teléfono</string>
@@ -2196,7 +2180,7 @@ Algunos sitios no usarán tu historial de navegación anterior para personalizar
     <string name="pref_set_default_browser_sure_to_clear">¿Cambiar entre navegadores?</string>
     <string name="pref_set_default_browser_switch">Cambiar</string>
     <string name="pref_set_default_browser_tab">Pulsa \"Navegador\"</string>
-    <string name="pref_set_default_browser_toast">Navegador por defecto establecido con éxito</string>
+    <string name="pref_set_default_browser_toast">Se ha establecido el navegador predeterminado</string>
     <string name="pref_set_homepage_to">Establecer a</string>
     <string name="pref_setting_title">Ajustes de página</string>
     <string name="pref_show_ads">Mostrar anuncios</string>
@@ -2248,12 +2232,12 @@ Algunos sitios no usarán tu historial de navegación anterior para personalizar
     <string name="privacy_accept">Aceptar y continuar</string>
     <string name="privacy_agreement">Acuerdo de Usuario</string>
     <string name="privacy_authorize_cannot_revoke_dialog_msg">"Esta acción necesita cargar tu ID de rendimiento, y no se puede hacer en modo incógnito. Desactiva el modo incógnito e inténtalo otra vez."</string>
-    <string name="privacy_authorize_network_error">Tu dispositivo necesita conectarse a la red para que puedas retirar el consentimiento. Comprueba tus ajustes de red y vuelve a intentarlo.</string>
+    <string name="privacy_authorize_network_error">El dispositivo necesita conexión a la red para retirar el consentimiento. Comprueba los ajustes de red e inténtalo otra vez.</string>
     <string name="privacy_authorize_revoke">Revocar</string>
     <string name="privacy_authorize_revoke_dialog_msg">Después de revocar la autorización, el Navegador Mi dejará de recopilar datos y todos los datos relacionados se eliminarán de los servidores. Esto podría hacer que el Navegador Mi sea virtualmente inutilizable. ¿Revocar la autorización de todas formas?</string>
     <string name="privacy_authorize_revoke_dialog_title">Revocando autorización</string>
     <string name="privacy_authorize_revoke_failed">"No se pudo revocar la autorización"</string>
-    <string name="privacy_authorize_revoke_success">Autorización revocada con éxito</string>
+    <string name="privacy_authorize_revoke_success">Se ha revocado la autorización</string>
     <string name="privacy_authorize_revoke_time">Revocar (%1$ds)</string>
     <string name="privacy_authorize_revoking">Revocando autorización…</string>
     <string name="privacy_authorize_summary">Activa y desactiva el interruptor para conceder o revocar tu autorización</string>
@@ -2271,16 +2255,16 @@ Algunos sitios no usarán tu historial de navegación anterior para personalizar
     <string name="privacy_message">Antes de usar el Navegador, debes aceptar nuestro &lt;font color=\"#4086f5\"&gt;&lt;a href=\"%1$s\" style=\"color:#4086f5;\"&gt;Acuerdo de Usuario&lt;/a&gt;&lt;/font&gt; y &lt;font color=\"#4086f5\"&gt;&lt;a href=\"%2$s\" style=\"color:#4086f5;\"&gt;Política de Privacidad&lt;/a&gt;&lt;/font&gt;.</string>
     <string name="privacy_message_main_tips_first">El Navegador Mi necesita recopilar la información personal necesaria para brindarte los servicios básicos. Puedes aprender cómo manejamos la información que recopilamos en nuestra &lt;font color=\"#0a84ff\"&gt;&lt;a href=\"%1$s\" style=\"color:#0a84ff;\"&gt;Política de Privacidad&lt;/a&gt;&lt;/a&gt;&lt;/font&gt; Siempre puedes retirar tu consentimiento a la Política de Privacidad del Navegador Mi en Ajustes &gt; Privacidad y seguridad. Lee y acepta nuestro &lt;font color=\"#0a84ff\"&gt;&lt;a href=\"%2$s\" style=\"color:#0a84ff;\"&gt;Acuerdo de Usuario&lt;/a&gt;&lt;/font&gt; y nuestra &lt;font color=\"#0a84ff\"&gt;&lt;a href=\"%1$s\" style=\"color:#0a84ff;\"&gt;Política de Privacidad&lt;/a&gt;&lt;/font&gt; antes de usar el Navegador Mi.</string>
     <string name="privacy_message_main_tips_second">"Para poder buscar aplicaciones en este dispositivo y saber qué aplicaciones están instaladas, Navegador Mi necesita acceder a la información de instalación de la aplicación, que no se guardará localmente ni se cargará de ninguna forma."</string>
-    <string name="privacy_message_welcome">¡Bienvenido a Navegador Mi! Nuestra aplicación ofrece los siguientes servicios:</string>
+    <string name="privacy_message_welcome">¡Te damos la bienvenida al Navegador Mi! Nuestra aplicación te ofrece los siguientes servicios:</string>
     <string name="privacy_message_welcome_tip_first">- Navegación web rápida y segura</string>
     <string name="privacy_message_welcome_tip_second">- Descarga de imágenes y vídeos de redes sociales</string>
     <string name="privacy_new_function">Nueva función</string>
     <string name="privacy_permission_name">"No permitir que rastree tu actividad"</string>
     <string name="privacy_policy">Política de Privacidad</string>
-    <string name="privacy_reset_fail">"No se pudo restablecer. Inténtalo de nuevo."</string>
+    <string name="privacy_reset_fail">"No se pudo restablecer. Inténtalo otra vez."</string>
     <string name="privacy_security">Privacidad y seguridad</string>
     <string name="privacy_sub_title">Términos y Condiciones</string>
-    <string name="privacy_title">Bienvenido al Navegador Mi</string>
+    <string name="privacy_title">Te damos la bienvenida al Navegador Mi</string>
     <string name="private_title">Archivos ocultos</string>
     <string name="profile">Información personal</string>
     <string name="progress_dialog_setting_wallpaper">Estableciendo fondo de pantalla…</string>
@@ -2302,7 +2286,7 @@ Algunos sitios no usarán tu historial de navegación anterior para personalizar
     <string name="purchase">Entrante</string>
     <string name="push">Notificaciones push</string>
     <string name="pwa_app_name">Aplicaciones web</string>
-    <string name="pwa_hint_added_success">Añadido con éxito</string>
+    <string name="pwa_hint_added_success">Añadido</string>
     <string name="qr_code_title">Código QR</string>
     <string name="qr_description">Escanear código QR</string>
     <string name="quicklink_bookmark_save">Guardar en</string>
@@ -2325,7 +2309,7 @@ Algunos sitios no usarán tu historial de navegación anterior para personalizar
     <string name="reading__ad_free_timeout__ok">Hasta 30 minutos de publicidad</string>
     <string name="reading__ad_unlock_ad_failed_too_many">"No se pudo cargar el anuncio. Se ha desbloqueado este capítulo gratis."</string>
     <string name="reading__ad_unlock_continue">Continuar leyendo gratis</string>
-    <string name="reading__ad_unlock_failed">"No se pudo desbloquear. Espera uno o dos minutos e inténtalo de nuevo."</string>
+    <string name="reading__ad_unlock_failed">"No se pudo desbloquear. Espera un par de minutos e inténtalo otra vez."</string>
     <string name="reading__add_book_to_launcher_controller__cancel">No unirse temporalmente</string>
     <string name="reading__add_book_to_launcher_controller__do_not_show_in_7_days">Ya no se solicita pasados 7 días</string>
     <string name="reading__add_book_to_launcher_controller__never_show_again">No volver a mostrar</string>
@@ -2342,13 +2326,13 @@ Algunos sitios no usarán tu historial de navegación anterior para personalizar
     <string name="reading__auto_pagedown_menu_view__speed">Velocidad automática de cambio de página: %1$d</string>
     <string name="reading__bookmark_empty_view__hint">Añadir marcadores al desplegable mientras lees</string>
     <string name="reading__bookmark_empty_view__no_bookmark">Temporalmente sin marcadores</string>
-    <string name="reading__chapter_error_view__content_error">"No se pudo cargar el capítulo. Comprueba tus ajustes de red y vuelve a intentarlo."</string>
+    <string name="reading__chapter_error_view__content_error">"No se pudo cargar el capítulo. Comprueba los ajustes de red e inténtalo otra vez."</string>
     <string name="reading__chapter_error_view__drm_error">"No se pudo obtener el certificado digital"</string>
-    <string name="reading__chapter_error_view__exception">"No se pudo descargar el capítulo. Comprueba tus ajustes de red y vuelve a intentarlo."</string>
-    <string name="reading__chapter_error_view__login_invalid">Tu sesión actual ha expirado. Inicia sesión de nuevo.</string>
+    <string name="reading__chapter_error_view__exception">"No se pudo descargar el capítulo. Comprueba los ajustes de red e inténtalo otra vez."</string>
+    <string name="reading__chapter_error_view__login_invalid">La sesión actual ha expirado. Inicia la sesión otra vez.</string>
     <string name="reading__chapter_error_view__memory_error">"No se pudo guardar el capítulo. Asegúrate de que haya suficiente espacio de almacenamiento disponible en tu dispositivo."</string>
     <string name="reading__chapter_error_view__nolink">"No se puede descargar. Intenta actualizar la lista de compras en tu perfil."</string>
-    <string name="reading__chapter_error_view__nonetwork">"No se pudo descargar el capítulo. Comprueba tus ajustes de red y vuelve a intentarlo."</string>
+    <string name="reading__chapter_error_view__nonetwork">"No se pudo descargar el capítulo. Comprueba los ajustes de red e inténtalo otra vez."</string>
     <string name="reading__chapter_error_view__pirate_parse_error">Si el despliegue de texto es anormal, puedes volver a la página original y seguir leyendo</string>
     <string name="reading__chapter_error_view__server_error">"No se pudo descargar el capítulo debido a un error del servidor: "</string>
     <string name="reading__chapter_need_pay_bean_get_pay_bean">Has obtenido {0} monedas de oro</string>
@@ -2406,7 +2390,7 @@ Editar"</string>
     <string name="reading__feedback_dialog_input_hint">Introduce los detalles del problema</string>
     <string name="reading__feedback_dialog_input_toast">Introduce los detalles del problema antes de enviar</string>
     <string name="reading__feedback_dialog_title">Informar de un problema</string>
-    <string name="reading__feedback_submit_toast_success">Comentario enviado con éxito</string>
+    <string name="reading__feedback_submit_toast_success">Comentario enviado</string>
     <string name="reading__navigation_current_book_cover_desc">Cubierta del libro</string>
     <string name="reading__navigation_view__delete_annotation">Eliminar el extracto del libro</string>
     <string name="reading__navigation_view__delete_bookmark">Eliminar el marcador</string>
@@ -2539,7 +2523,7 @@ recomendamos que uses el modo de lectura gratuita"</string>
     <string name="reading__shared__add_to_bookshelf_no">Cancelar</string>
     <string name="reading__shared__add_to_bookshelf_ok">Añadir</string>
     <string name="reading__shared__buy_to_read">Si te gusta, compra una copia y leelo ^_^</string>
-    <string name="reading__shared__click_to_retry">Intentar de nuevo</string>
+    <string name="reading__shared__click_to_retry">Inténtalo otra vez</string>
     <string name="reading__shared__collapse">Recoger</string>
     <string name="reading__shared__download_full_book">Descargar la versión completa</string>
     <string name="reading__shared__download_prompt">Estás conectado con la red móvil y la descarga consumirá %s de datos. ¿Quieres continuar?</string>
@@ -2550,11 +2534,11 @@ recomendamos que uses el modo de lectura gratuita"</string>
     <string name="reading__shared__eyes_saving_on">Confort ocular está activado</string>
     <string name="reading__shared__fail_to_open_book">"No se pudo abrir el libro"</string>
     <string name="reading__shared__fail_to_repair_cert">"No se pudo restaurar el libro. Elimínalo y después vuelve a descargarlo."</string>
-    <string name="reading__shared__has_add_to_bookshelf">Añadido a la biblioteca con éxito</string>
+    <string name="reading__shared__has_add_to_bookshelf">Añadido a la biblioteca</string>
     <string name="reading__shared__has_add_to_bookshelf_failed">"No se pudo añadir a la biblioteca. Vuelve a intentarlo."</string>
     <string name="reading__shared__high_quality">Descargar la versión de alta definición (%s)</string>
     <string name="reading__shared__low_quality">Descargar la versión de baja definición (%s)</string>
-    <string name="reading__shared__no_open_params">"No se pudo cargar el libro. Comprueba tus ajustes de red y vuelve a intentarlo."</string>
+    <string name="reading__shared__no_open_params">"No se pudo cargar el libro. Comprueba los ajustes de red e inténtalo otra vez."</string>
     <string name="reading__shared__page_loading">Un momento…</string>
     <string name="reading__shared__pages_left">Queda %1$d página de este capítulo</string>
     <string name="reading__shared__quit_recommend">Recomendado para ti</string>
@@ -2593,8 +2577,9 @@ recomendamos que uses el modo de lectura gratuita"</string>
     <string name="reading__wait_to_unlock_toast_go_to_chapter">Ver</string>
     <string name="reading__wait_to_unlock_toast_success">¡Capítulo desbloqueado!</string>
     <string name="reading__wait_to_unlock_toast_target_chapter">Capítulo %s desbloqueado gratis</string>
+    <string name="reading_fiction_detail_copyright">-Titular de los derechos de autor: %s</string>
     <string name="reading_shared_add_to_library">Añadir a la biblioteca</string>
-    <string name="reading_shared_added_in_library">Añadido con éxito</string>
+    <string name="reading_shared_added_in_library">Añadido</string>
     <string name="reading_shared_do_you_like_it_add_lib">¿Te gusta esta historia? ¡Añádela a tu biblioteca!</string>
     <string name="reading_unlock_items_empty_tips">No hay elementos</string>
     <string name="reading_unlock_items_list_recommend_intro_tips">Puedes desbloquear gratuitamente todos los libros en esta sección</string>
@@ -2623,7 +2608,7 @@ recomendamos que uses el modo de lectura gratuita"</string>
     <string name="reeading__reading_feedback_dialog_input_empty_toast">Introduce los detalles del problema antes de enviar</string>
     <string name="reeading__reading_feedback_dialog_input_hint">Describe el problema aquí</string>
     <string name="reeading__reading_feedback_dialog_input_submit_failed_toast">"No se pudo enviar. Espera unos minutos y vuelve a intentarlo."</string>
-    <string name="reeading__reading_feedback_dialog_input_submit_success_toast">Comentario enviado con éxito</string>
+    <string name="reeading__reading_feedback_dialog_input_submit_success_toast">Comentario enviado</string>
     <string name="reeading__reading_feedback_dialog_input_title">Detalles del problema</string>
     <string name="reeading__reading_feedback_dialog_issue_case1">Errores de gramática u ortografía</string>
     <string name="reeading__reading_feedback_dialog_issue_case2">Problemas de derechos de autor</string>
@@ -2638,6 +2623,7 @@ recomendamos que uses el modo de lectura gratuita"</string>
     <string name="refuse_open">Ahora no</string>
     <string name="refuse_permissions_request">Restringir</string>
     <string name="regid">RegId (haga clic para exportar)</string>
+    <string name="reject_all_label">Rechazar todo</string>
     <string name="release_to_refresh">Libera para refrescar</string>
     <string name="relevant_recommendations">Recomendados</string>
     <string name="remember_passwords_confirm_message">Desactivar esta función puede afectar al uso.</string>
@@ -2661,10 +2647,10 @@ recomendamos que uses el modo de lectura gratuita"</string>
     <string name="resend_active_email">Reenviar</string>
     <string name="resend_email_reach_limit_message">"Has solicitado demasiados correos de verificación. Asegúrate de que el mensaje de verificación no está en la carpeta de correo no deseado."</string>
     <string name="resend_email_reach_limit_title">Demasiados intentos</string>
-    <string name="resend_email_success">Enviado con éxito</string>
-    <string name="restart">Empezar de nuevo</string>
+    <string name="resend_email_success">Enviado</string>
+    <string name="restart">Empezar otra vez</string>
     <string name="restart_action">Volver a comenzar</string>
-    <string name="restart_phone_bind_message">Puedes tardar un rato en recibir el SMS. ¿Empezar de nuevo de todos modos?</string>
+    <string name="restart_phone_bind_message">El SMS puede tardar un rato en llegar. ¿Empezar otra vez?</string>
     <string name="restart_phone_bind_title">Cambiar teléfono de recuperación</string>
     <string name="return_to_homepage">Volver a la página de inicio</string>
     <string name="risk_continue">Continuar</string>
@@ -2684,7 +2670,7 @@ recomendamos que uses el modo de lectura gratuita"</string>
     <string name="root_folder_lable">Ninguno</string>
     <string name="router_download_exist">Este archivo ya existe</string>
     <string name="router_download_failed">"No se pudo descargar"</string>
-    <string name="router_download_success">Descargado con éxito</string>
+    <string name="router_download_success">Descargado</string>
     <string name="s1">Guardar imagen</string>
     <string name="s2">¿Permitir que el anuncio almacene imágenes en la galería de imágenes?</string>
     <string name="s3">Aceptar</string>
@@ -2774,7 +2760,7 @@ recomendamos que uses el modo de lectura gratuita"</string>
     <string name="send_comment_button">Enviar</string>
     <string name="send_comment_title">Comentarios</string>
     <string name="send_diagnosis_log">Enviar registros</string>
-    <string name="send_email_activate_message">Correo electrónico de verificación enviado con éxito</string>
+    <string name="send_email_activate_message">Correo electrónico de verificación enviado</string>
     <string name="senddesktop">Pantalla de inicio</string>
     <string name="sending">Enviando…</string>
     <string name="sendstartpage">Página de inicio</string>
@@ -2791,11 +2777,11 @@ recomendamos que uses el modo de lectura gratuita"</string>
     <string name="service_error">Error de servidor</string>
     <string name="set_default_browser_msg">Establecer el Navegador Mi como predeterminado</string>
     <string name="set_default_browser_set">Establecer</string>
-    <string name="set_success">Cambiado con éxito</string>
+    <string name="set_success">Cambiado</string>
     <string name="setting">Ajustes</string>
     <string name="setting_app_language">Idioma del navegador</string>
     <string name="setting_contact_information">Información de los contactos</string>
-    <string name="setting_feed_language">Idioma de Nuevos contenidos</string>
+    <string name="setting_feed_language">Idioma para Contenidos</string>
     <string name="setting_installed_apps">Aplicaciones instaladas</string>
     <string name="setting_mobile_phone_settings">Ajustes del dispositivo</string>
     <string name="setting_privacy_password">Establecer patrón de desbloqueo</string>
@@ -2807,11 +2793,13 @@ recomendamos que uses el modo de lectura gratuita"</string>
     <string name="share_page_text">Mira lo que he compartido: %1$s @MIUI| %2$s</string>
     <string name="share_slide_video_text">Mira lo que he compartido: %1$s</string>
     <string name="shear_plate_permission_name">Acceder o guardar elementos en el portapapeles</string>
+    <string name="short_cut_name_novel">Libros gratuitos</string>
     <string name="shortcut_function">Accesos directos</string>
     <string name="shortcuts_boost_speed">Aumento de velocidad</string>
     <string name="shortcuts_cleanup_cache">Limpiador</string>
     <string name="shortcuts_cleanup_memory">Limpiar caché</string>
     <string name="shortcuts_security_scan">Análisis de seguridad</string>
+    <string name="show_options_label">Mostrar Opciones</string>
     <string name="sign_in">Iniciando sesión</string>
     <string name="sign_in_by_others">Otras formas de iniciar sesión</string>
     <string name="sign_in_by_xiaommi">Iniciar sesión con Cuenta Xiaomi</string>
@@ -2830,11 +2818,11 @@ recomendamos que uses el modo de lectura gratuita"</string>
     <string name="skip_current_version">Saltar esta versión</string>
     <string name="sku_all">Todo</string>
     <string name="sku_price_everymonth">%1$s cada mes</string>
-    <string name="sms_send_success">Enviado con éxito</string>
+    <string name="sms_send_success">Enviado</string>
     <string name="snapshot">Local</string>
     <string name="snapshot_failed">"No se pudo guardar la página"</string>
     <string name="snapshot_successed">Abrir marcadores/Historial-&gt;LOCAL para ver la página</string>
-    <string name="sns_access_token_expired_warning">La sesión ha expirado. Inicia sesión de nuevo para volver a conectar esta cuenta.</string>
+    <string name="sns_access_token_expired_warning">La sesión ha expirado. Inicia la sesión otra vez para conectar esta cuenta.</string>
     <string name="sns_bind_limit">Demasiados intentos. Prueba otras formas de iniciar sesión.</string>
     <string name="sns_sign_in">Otras formas de iniciar sesión</string>
     <string name="soft_toast_see_view">Ver</string>
@@ -2866,7 +2854,7 @@ recomendamos que uses el modo de lectura gratuita"</string>
     <string name="source_dislike">No me gusta</string>
     <string name="source_dislike_not_trans">No me gusta</string>
     <string name="speed_test_download">Descarga</string>
-    <string name="speed_test_no_network">"No se pudo conectar a la red. Comprueba tus ajustes de red y vuelve a intentarlo."</string>
+    <string name="speed_test_no_network">"No se pudo conectar a la red. Comprueba los ajustes de red e inténtalo otra vez."</string>
     <string name="speed_test_ping">Retraso</string>
     <string name="speed_test_upload">Subida</string>
     <string name="splash__access_dialog_agree">Aceptar</string>
@@ -2928,7 +2916,7 @@ No muestra nada."</string>
     <string name="store__fiction_detail__all">Todo</string>
     <string name="store__fiction_detail__intro">Resumen: %s</string>
     <string name="store__fiction_detail__surpass_percent">Mejor que el %d%% de los libros</string>
-    <string name="store__fiction_detail_added_to_bookshelf">Añadido a la biblioteca con éxito</string>
+    <string name="store__fiction_detail_added_to_bookshelf">Añadido a la biblioteca</string>
     <string name="store__fiction_detail_age">Clasificación de edad</string>
     <string name="store__fiction_detail_continue_read">Siguiente capítulo</string>
     <string name="store__fiction_detail_invert_order">Orden invertido</string>
@@ -2988,9 +2976,9 @@ No muestra nada."</string>
     <string name="store_comment__reply_to_prefix">Respuesta</string>
     <string name="store_feed_book_list_exchange">Cambiar por cambiar</string>
     <string name="store_fiction_detail_view_start_read">Leer</string>
-    <string name="subscribe_failed">"No pudiste suscribirte. Inténtalo de nuevo."</string>
+    <string name="subscribe_failed">"No te has podido suscribir. Inténtalo otra vez."</string>
     <string name="subscribe_now">Suscribirse</string>
-    <string name="subscribe_success">Suscrito con éxito</string>
+    <string name="subscribe_success">Suscrito correctamente</string>
     <string name="subscription_status_error">"No pudiste suscribirte"</string>
     <string name="subscriptions_title">Gestionar tu suscripción</string>
     <string name="successfully_added">Añadido</string>
@@ -3025,7 +3013,7 @@ No muestra nada."</string>
     <string name="sync_alert_checkbox_history">Historial de navegación</string>
     <string name="sync_bookmark">Sincronizar marcadores</string>
     <string name="sync_bookmark_fail_retry">"No se pudo sincronizar"</string>
-    <string name="sync_bookmark_succeed">Sincronizado con éxito</string>
+    <string name="sync_bookmark_succeed">Sincronizado</string>
     <string name="system_dialog_permission_name">Abrir nuevas ventanas</string>
     <string name="tab_backward_description">Página anterior del historial</string>
     <string name="tab_bookmark_description">Favoritos</string>
@@ -3047,6 +3035,8 @@ No muestra nada."</string>
     <string name="tab_videos">Vídeos</string>
     <string name="tab_yellowpage">Enlaces</string>
     <string name="tabs_description">Pestañas</string>
+    <string name="tag_undo">Deshacer</string>
+    <string name="tag_undo_title">%s cerrada</string>
     <string name="talk_back_voice_search">Búsqueda por voz</string>
     <string name="temporary_not_available">"Esta función todavía no está disponible"</string>
     <string name="terms_policy">Términos y Condiciones</string>
@@ -3123,7 +3113,7 @@ No muestra nada."</string>
     <string name="translate_page">Traducir página</string>
     <string name="translation_other">Otros idiomas</string>
     <string name="translation_query_error">"La traducción no está disponible para el idioma seleccionado."</string>
-    <string name="translation_query_error_network">"No se pudo traducir. Comprueba tus ajustes de red y vuelve a intentarlo."</string>
+    <string name="translation_query_error_network">"No se pudo traducir. Comprueba los ajustes de red e inténtalo otra vez."</string>
     <string name="translation_result_empty">"No se pudo traducir. Vuelve a intentarlo."</string>
     <string name="translation_to">Traducir a</string>
     <string name="trending_apps_more">Más</string>
@@ -3131,7 +3121,7 @@ No muestra nada."</string>
     <string name="tuesday_short">Mar</string>
     <string name="tuesday_shortest">Mar</string>
     <string name="twitter_moments">Momentos de Twitter</string>
-    <string name="type_not_support">"Este formato de archivo no está admitido. Descomprime el archivo e inténtalo de nuevo."</string>
+    <string name="type_not_support">"Este formato de archivo no está soportado. Descomprime el archivo e inténtalo otra vez."</string>
     <string name="unSwitchText">NO</string>
     <string name="unauthorized_toast">Tu sesión expiró. Vuelve a iniciar sesión.</string>
     <string name="undo">Deshacer</string>
@@ -3169,11 +3159,11 @@ No muestra nada."</string>
 Siempre puedes abandonarlo en Ajustes &gt; Privacidad y seguridad."</string>
     <string name="user_experience_disagree">"No participar"</string>
     <string name="user_experience_title">Programa de Experiencia de Usuario</string>
-    <string name="user_guide_color_mode_info">Modo claro y Modo oscuro están disponibles</string>
+    <string name="user_guide_color_mode_info">Modo claro y modo oscuro disponibles</string>
     <string name="user_guide_color_mode_title">Seleccionar esquema de colores</string>
     <string name="user_guide_control_privacy_tips">Controla completamente tu privacidad</string>
     <string name="user_guide_read_info_tips">Para poder incluir aplicaciones en los resultados de búsqueda, el Navegador Mi necesita acceder a la lista de aplicaciones instaladas en tu dispositivo.</string>
-    <string name="user_id_hint">Correo electrónico/Teléfono/ID de Cuenta Mi</string>
+    <string name="user_id_hint">Correo electrónico/Teléfono/ID de cuenta Xiaomi</string>
     <string name="username">Nombre</string>
     <string name="uuid">UUID (haga clic para exportar)</string>
     <string name="v5_edit_mode_title_empty">Seleccionar elementos</string>
@@ -3203,18 +3193,18 @@ Siempre puedes abandonarlo en Ajustes &gt; Privacidad y seguridad."</string>
     <string name="video_collection_empty">No hay vídeos todavía</string>
     <string name="video_collection_known">Entendido</string>
     <string name="video_collection_view">Ver</string>
-    <string name="video_download_complete">Vídeo descargado con éxito</string>
+    <string name="video_download_complete">Vídeo descargado</string>
     <string name="video_downloader_edit_hint">"Pega un enlace para descargar un vídeo. Por ejemplo:
 https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="video_downloader_fail">"No se pudo descargar este elemento"</string>
     <string name="video_downloader_retry">Vuelve a intentarlo</string>
     <string name="video_play_next">Siguiente</string>
     <string name="video_replay_btn">Volver a reproducir</string>
-    <string name="video_retry_btn">Inténtalo de nuevo</string>
+    <string name="video_retry_btn">Inténtalo otra vez</string>
     <string name="video_view_more">Más</string>
     <string name="view_certificate">Ver certificado</string>
     <string name="view_document_downloaded_files">Ver archivos descargados en Descargas</string>
-    <string name="voice_check_network">Comprueba la configuración de red y vuelve a intentarlo.</string>
+    <string name="voice_check_network">Comprueba la configuración de red e inténtalo otra vez.</string>
     <string name="voice_connect_network">"No fue posible conectarse a la red."</string>
     <string name="voice_description">Búsqueda por voz</string>
     <string name="voice_network_connection">La Búsqueda de voz necesita conectarse a internet para funcionar normalmente.</string>
@@ -3228,7 +3218,7 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="voice_title_please">Comienza a hablar…</string>
     <string name="voice_title_speech_again">"No fue posible entenderte"</string>
     <string name="vote_already">"Ya has votado"</string>
-    <string name="vote_fail">"No se pudo votar, inténtalo de nuevo más tarde"</string>
+    <string name="vote_fail">"No se pudo votar, inténtalo más tarde"</string>
     <string name="vpn_data_current_period">Periodo de validez: %s</string>
     <string name="vpn_data_used_info">Usado %2$s de %1$s</string>
     <string name="vpn_detail_guide1">Desbloquea todos los servidores para acelerar tu conexión</string>
@@ -3355,16 +3345,16 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="wednesday">Miércoles</string>
     <string name="wednesday_short">Mié</string>
     <string name="wednesday_shortest">Mié</string>
-    <string name="welcome__privacy_policy">&lt;Data&gt;¡Bienvenido a Wonderfic! Esta aplicación ofrece los siguientes servicios:&lt;br&gt;- Una biblioteca online con multitud de títulos para elegir.&lt;br&gt;- Un cómodo lector de libros electrónicos.&lt;br&gt;Wonderfic necesita recopilar la información personal necesaria para proporcionarte los servicios básicos. Puedes aprender cómo manejamos la información que recopilamos en nuestra &lt;a href=\"%1$s\"&gt;Política de Privacidad&lt;/a&gt;. Siempre puedes retirar tu consentimiento a la Política de Privacidad de Wonderfic en Privacidad y seguridad.&lt;br&gt;&lt;br&gt;Lee y acepta nuestro &lt;a href=\"%2$s\"&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &lt;a href=\"%3$s\"&gt;Política de Privacidad&lt;/a&gt; antes de usar Wonderfic.&lt;/Data&gt;</string>
+    <string name="welcome__privacy_policy">&lt;Data&gt;¡Te damos la bienvenida a Wonderfic! Esta aplicación te ofrece los siguientes servicios:&lt;br&gt;- Una biblioteca online con multitud de títulos para elegir.&lt;br&gt;- Un cómodo lector de libros electrónicos.&lt;br&gt;Wonderfic necesita recopilar información personal necesaria para proporcionar los servicios básicos. Puedes conocer cómo manejamos la información que recopilamos en nuestra &lt;a href=\"%1$s\"&gt;Política de Privacidad&lt;/a&gt;. Siempre puedes retirar tu consentimiento a la Política de Privacidad de Wonderfic en privacidad y seguridad.&lt;br&gt;&lt;br&gt;Lee y acepta nuestro &lt;a href=\"%2$s\"&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &lt;a href=\"%3$s\"&gt;Política de Privacidad&lt;/a&gt; antes de usar Wonderfic.&lt;/Data&gt;</string>
     <string name="welcome__privacy_policy_description">&lt;Data&gt;Wonderfic necesita recopilar información personal necesaria para brindarte los servicios básicos. Puedes conocer cómo manejar la información que recopilamos en nuestra &lt;a href=\"%1$s\"&gt;Política de Privacidad&lt;/a&gt;. Siempre puedes retirar tu consentimiento a la Política de Privacidad de Wonderfic en Privacidad y seguridad.&lt;br&gt;&lt;br&gt;Lee y acepta nuestro &lt;a href=\"%2$s\"&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &lt;a href=\"%3$s\"&gt;Política de Privacidad&lt;/a&gt; antes de usar Wonderfic.&lt;/Data&gt;</string>
-    <string name="welcome__privacy_policy_text1">¡Bienvenido a Wonderfic! Esta aplicación ofrece los siguientes servicios:</string>
+    <string name="welcome__privacy_policy_text1">¡Te damos la bienvenida a Wonderfic! Esta aplicación ofrece los siguientes servicios:</string>
     <string name="welcome__privacy_policy_text2">\u0009 Una biblioteca con multitud de títulos entre los que elegir.</string>
     <string name="welcome__privacy_policy_text3">\u0009 Un cómodo lector local de libros electrónicos</string>
     <string name="welcome_skip">Saltar</string>
-    <string name="welcome_to">¡Bienvenido a Wonderfic!</string>
+    <string name="welcome_to">¡Te damos la bienvenida a Wonderfic!</string>
     <string name="what_is_new">Actualiza la aplicación para acceder a nuevas funciones</string>
     <string name="whatsapp_downloadpage_tips">Capturador de estados de WhatsApp</string>
-    <string name="whatsapp_file_saved_success">Guardado con éxito</string>
+    <string name="whatsapp_file_saved_success">Guardado</string>
     <string name="whatsapp_how_it_works">Cómo funciona</string>
     <string name="whatsapp_intro_dialog_title">Nueva función</string>
     <string name="whatsapp_no_status_tips">No hay imágenes o vídeos. Visualiza tus actualizaciones de los estados de WhatsApp y vuelve aquí.</string>
@@ -3381,15 +3371,15 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="year_month_day_format">dd MMM yyyy</string>
     <string name="yes">Sí</string>
     <string name="yesterday">Ayer</string>
-    <string name="ytb_added_subscription">Suscrito con éxito</string>
+    <string name="ytb_added_subscription">Suscrito correctamente</string>
     <string name="ytb_cancel">Cancelar</string>
-    <string name="ytb_deleted_subscription">Suscripción cancelada con éxito</string>
+    <string name="ytb_deleted_subscription">Suscripción cancelada</string>
     <string name="ytb_empty_search_result">"No se pudo encontrar resultados"</string>
     <string name="ytb_empty_subscribe">No hay suscripciones aún.</string>
     <string name="ytb_login">Iniciar sesión</string>
     <string name="ytb_login_can_subscribe">Inicia sesión para suscribirte a canales.</string>
     <string name="ytb_login_fail">"No se pudo iniciar sesión"</string>
-    <string name="ytb_login_success">Sesión iniciada con éxito</string>
+    <string name="ytb_login_success">Se ha iniciado la sesión</string>
     <string name="ytb_login_to_look_subscribe">Inicia sesión para ver tus suscripciones a YouTube.</string>
     <string name="ytb_logout">Cerrar sesión</string>
     <string name="ytb_logout_fail">"No se pudo cerrar sesión"</string>

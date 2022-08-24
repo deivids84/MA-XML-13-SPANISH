@@ -934,6 +934,7 @@ Selección"</string>
     <string name="esim_inactive_notification_message_global">No se detectó ninguna tarjeta SIM. Toca para activar la eSIM.</string>
     <string name="esim_inactive_notification_title_global">Redes móviles &amp; Dual SIM</string>
     <string name="esim_inactive_settings_title">SIM dual &amp; redes móviles</string>
+    <string name="esim_is_activating_notification_message_for_o2">Activando el plan móvil…</string>
     <string name="esim_setting_title">Configuración de eSIM</string>
     <string name="evening">Tarde</string>
     <string name="exception_error">Error en la red o en la tarjeta SIM.</string>

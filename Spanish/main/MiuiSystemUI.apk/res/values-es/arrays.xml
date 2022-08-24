@@ -69,8 +69,8 @@
         <item>Escala de animación 10x</item>
     </string-array>
     <string-array name="app_process_limit_entries">
-        <item>Límite estándar</item>
-        <item>Sin procesos en segundo plano</item>
+        <item>Predeterminado</item>
+        <item>Ningún proceso</item>
         <item>Máximo 1 proceso</item>
         <item>Máximo 2 procesos</item>
         <item>Máximo 3 procesos</item>
@@ -82,7 +82,7 @@
         <item>"No mostrar este icono"</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
-        <item>Usar preferencia del sistema (Por defecto)</item>
+        <item>Bits de muestra usados en la reproducción</item>
         <item>16 bits/muestra</item>
         <item>24 bits/muestra</item>
         <item>32 bits/muestra</item>
@@ -94,12 +94,12 @@
         <item>32 bits/muestra</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
-        <item>Usar preferencia del sistema (Por defecto)</item>
+        <item>Canal de sonido usado en la reproducción</item>
         <item>Mono</item>
         <item>Estéreo</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
-        <item>Usar preferencia del sistema (Por defecto)</item>
+        <item>Predeterminado del sistema</item>
         <item>Mono</item>
         <item>Estéreo</item>
     </string-array>
@@ -107,30 +107,30 @@
         <item>Optimizado para calidad de audio</item>
         <item>Audio y calidad de conexión balanceados</item>
         <item>Optimizado para calidad de conexión</item>
-        <item>Mejor esfuerzo (Bit rate automático)</item>
+        <item>Códec de audio de alta resolución y estabilidad</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
         <item>Optimizado para calidad de audio (990kbps/909kbps)</item>
         <item>Audio y calidad de conexión balanceados (660kbps/606kbps)</item>
         <item>Optimizado para calidad de conexión (330kbps/303kbps)</item>
-        <item>Mejor esfuerzo (Bit rate automático)</item>
+        <item>Mejor esfuerzo (Tasa de bits flexible)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
-        <item>Usar preferencia del sistema (Por defecto)</item>
+        <item>Frecuencia de sonido usada en la reproducción</item>
         <item>44.1 kHz</item>
         <item>48.0 kHz</item>
         <item>88.2 kHz</item>
         <item>96.0 kHz</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
-        <item>Usar preferencia del sistema (Por defecto)</item>
+        <item>Predeterminada del sistema</item>
         <item>44.1 kHz</item>
         <item>48.0 kHz</item>
         <item>88.2 kHz</item>
         <item>96.0 kHz</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_summaries">
-        <item>Usar preferencia del sistema (Por defecto)</item>
+        <item>Codec de sonido usado en la reproducción</item>
         <item>SBC</item>
         <item>AAC</item>
         <item>Qualcomm® aptX™ audio</item>
@@ -138,7 +138,7 @@
         <item>LDAC</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
-        <item>Usar preferencia del sistema (Por defecto)</item>
+        <item>Predeterminado del sistema</item>
         <item>SBC</item>
         <item>AAC</item>
         <item>Qualcomm® aptX™ audio</item>
@@ -412,7 +412,7 @@
     </string-array>
     <string-array name="track_frame_time_entries">
         <item>Desactivado</item>
-        <item>En la pantalla como barras</item>
+        <item>En pantalla como barras</item>
         <item>En adb shell dumpsys gfxinfo</item>
     </string-array>
     <string-array name="transition_animation_scale_entries">

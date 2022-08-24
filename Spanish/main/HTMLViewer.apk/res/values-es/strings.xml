@@ -85,7 +85,7 @@ ve a %s en otro dispositivo conectado."</string>
     <string name="miuix_indexer_collect">Colecciones</string>
     <string name="miuix_indexer_selected">Seleccionado %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Desliza hacia abajo para actualizar</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado con éxito</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualizando…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Suelta para actualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Eso es todo por ahora"</string>
@@ -136,7 +136,7 @@ ve a %s en otro dispositivo conectado."</string>
     <string name="night">Tarde-noche</string>
     <string name="noon">Mediodía</string>
     <string name="open_wifi_connect_and_use_data_summary">Usando datos móviles. Pulsa para cambiar a Wi-Fi.</string>
-    <string name="open_wifi_connect_summary">Toca para ver detalles.</string>
+    <string name="open_wifi_connect_summary">Pulsa para ver detalles.</string>
     <string name="open_wifi_connect_title">Conectado a %1$s</string>
     <string name="permdesc_accessDrm">Permite a la app acceso a contenido protegido por DRM.</string>
     <string name="pm">PM</string>

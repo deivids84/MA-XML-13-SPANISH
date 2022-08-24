@@ -77,7 +77,7 @@
         <item>Nota</item>
     </string-array>
     <string-array name="first_guide_contents">
-        <item>¡Bienvenido a Notas!</item>
+        <item>¡Te damos la bienvenida a Notas!</item>
         <item>Toma notas</item>
         <item>Puedes usar texto, imágenes y grabaciones de voz en tus notas. Una variada librería de estilos y fuentes hará que tus notas luzcan impresionantes.</item>
         <item>Las listas y recordatorios te ayudan cuando necesitas herramientas básicas y efectivas para planear tu siguiente viaje o para ordenar tu lista de compras.</item>
@@ -106,6 +106,6 @@
     </string-array>
     <string-array name="second_guide_contents_pad_or_inter">
         <item>Notas de voz</item>
-        <item>Ahora puedes crear notas de voz. Simplementa pulsa el icono, graba tu voz y guarda archivos de audio dentro de la nota.</item>
+        <item>Ahora puedes crear notas de voz. Simplemente pulsa el icono, graba tu voz y guarda archivos de audio dentro de la nota.</item>
     </string-array>
 </resources>

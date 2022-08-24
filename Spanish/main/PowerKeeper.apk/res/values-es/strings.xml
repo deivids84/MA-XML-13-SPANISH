@@ -138,7 +138,7 @@ El economizador de batería tratará de forma selectiva las aplicaciones importa
     <string name="miuix_indexer_collect">Colecciones</string>
     <string name="miuix_indexer_selected">Seleccionado %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Desliza hacia abajo para actualizar</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado con éxito</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualizando…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Suelta para actualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Eso es todo por ahora"</string>
@@ -241,9 +241,9 @@ El economizador de batería tratará de forma selectiva las aplicaciones importa
     <string name="search_result_text">"Imposible encontrar aplicaciones"</string>
     <string name="send">Enviar</string>
     <string name="show_system_app">Mostrar aplicaciones del sistema</string>
-    <string name="sleep_config_enhance_description">"Para ahorrar batería, MIUI cerrará las aplicaciones en segundo plano, restringirá el uso de NFC, Bluetooth, GPS, datos móviles y Wi-Fi, y no iluminará la pantalla para recibir notificaciones mientras duerme por la noche."</string>
-    <string name="sleep_config_enhance_description_non_nfc">"Para ahorrar batería, MIUI cerrará las aplicaciones en segundo plano, restringirá el uso de Bluetooth, GPS, datos móviles y Wi-Fi, y no iluminará la pantalla para recibir notificaciones mientras duerme por la noche."</string>
-    <string name="sleep_config_enhance_description_pad">"Para ahorrar batería, MIUI cerrará las aplicaciones en segundo plano, restringirá el uso de Bluetooth y Wi-Fi y no iluminará la pantalla para recibir notificaciones mientras duerme por la noche."</string>
+    <string name="sleep_config_enhance_description">"Para ahorrar batería, MIUI cerrará las aplicaciones en segundo plano, restringirá el uso de NFC, Bluetooth, GPS, datos móviles y Wi-Fi, y no iluminará la pantalla con notificaciones mientras duermes por la noche."</string>
+    <string name="sleep_config_enhance_description_non_nfc">"Para ahorrar batería, MIUI cerrará las aplicaciones en segundo plano, restringirá el uso de Bluetooth, GPS, datos móviles y Wi-Fi, y no iluminará la pantalla con notificaciones mientras duermes por la noche."</string>
+    <string name="sleep_config_enhance_description_pad">"Para ahorrar batería, MIUI cerrará las aplicaciones en segundo plano, restringirá el uso de Bluetooth y Wi-Fi y no iluminará la pantalla con notificaciones mientras duermes por la noche."</string>
     <string name="sleep_config_enhance_title">Modo suspensión</string>
     <string name="sleepmode_disclaimer_agree">Aceptar</string>
     <string name="sleepmode_disclaimer_cancel">Cancelar</string>
@@ -252,7 +252,7 @@ El economizador de batería tratará de forma selectiva las aplicaciones importa
     <string name="sleepmode_privacy_title">Modo suspensión</string>
     <string name="softbank_high_temp_toast_time_10min">Linterna apagada para evitar el sobrecalentamiento</string>
     <string name="softbank_high_temp_toast_time_4min">Apagado el flash para evitar el sobrecalentamiento</string>
-    <string name="stricter_high_temp_state_message">"Parece que este dispositivo está sobrecalentado. Solo podrá usar el teléfono y los contactos por ahora."</string>
+    <string name="stricter_high_temp_state_message">"Parece que el dispositivo está sobrecalentado. Por ahora, solo podrás usar el teléfono y los contactos."</string>
     <string name="sucess">Hecho</string>
     <string name="sunday">Domingo</string>
     <string name="sunday_short">Sol</string>
@@ -273,7 +273,7 @@ El economizador de batería tratará de forma selectiva las aplicaciones importa
     <string name="tuesday_short">Tue</string>
     <string name="tuesday_shortest">Tue</string>
     <string name="update_profile_failture_not_connect_wifi">"No se pudo actualizar. Conéctese a Wi-Fi y vuelva a intentarlo."</string>
-    <string name="update_profile_sucess">Actualizado desde el servidor con éxito</string>
+    <string name="update_profile_sucess">Actualizado desde el servidor</string>
     <string name="v7_preference_off">DESACTIVADA</string>
     <string name="v7_preference_on">ACTIVADO</string>
     <string name="wednesday">Miércoles</string>

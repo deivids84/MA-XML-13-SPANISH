@@ -95,7 +95,7 @@
     <string name="HIPS_Perm_mediaVolume_Desc">Permite a la aplicación ajustar el volumen multimedia</string>
     <string name="HIPS_Perm_operator_get_phonenumbner">Número de acceso para iniciar sesión</string>
     <string name="HIPS_Perm_operator_get_phonenumbner_Desc">Adquirir número de teléfono de la compañía para iniciar sesión</string>
-    <string name="HIPS_Perm_operator_get_phonenumbner_Hint">"Si no pudo iniciar sesión con un solo toque ahora, vuelva a la página de inicio de sesión y vuelva a intentarlo."</string>
+    <string name="HIPS_Perm_operator_get_phonenumbner_Hint">"Si no pudiste iniciar la sesión con un solo toque, vuelve a la página de inicio de sesión e inténtalo otra vez."</string>
     <string name="HIPS_Perm_operator_get_phonenumbner_Message">Esta aplicación quiere adquirir tu número de teléfono de la compañía para iniciar sesión. ¿Permitir?</string>
     <string name="HIPS_Perm_process_nfc">NFC</string>
     <string name="HIPS_Perm_process_nfc_Desc">acceso al hardware NFC (Comunicación de Campo Cercano)</string>
@@ -240,7 +240,7 @@
     <string name="miuix_indexer_collect">Colecciones</string>
     <string name="miuix_indexer_selected">Seleccionado %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Desliza hacia abajo para actualizar</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado con éxito</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualizando…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Suelta para actualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Eso es todo por ahora"</string>

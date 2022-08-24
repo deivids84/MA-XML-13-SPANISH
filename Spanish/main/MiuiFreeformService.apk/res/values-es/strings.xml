@@ -52,7 +52,7 @@
     <string name="fmt_date_short_year_month_day">MM/dd/aaaa</string>
     <string name="freeform_demo_back">Atrás</string>
     <string name="freeform_demo_final_over">Listo</string>
-    <string name="freeform_demo_final_restart">Empezar de nuevo</string>
+    <string name="freeform_demo_final_restart">Empezar otra vez</string>
     <string name="freeform_demo_final_title">"¡Listo para disfrutar!​"</string>
     <string name="freeform_demo_go_on">Siguiente</string>
     <string name="freeform_demo_next_tutorial">Siguiente</string>
@@ -103,7 +103,7 @@
     <string name="miuix_appcompat_select_all_description">Seleccionar todo</string>
     <string name="miuix_appcompat_select_item">Seleccionar elementos</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tira hacia abajo para actualizar</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado con éxito</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualizando…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Suelta para actualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Eso es todo por ahora"</string>

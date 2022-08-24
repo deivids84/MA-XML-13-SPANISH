@@ -31,5 +31,5 @@
     <string name="switch_to_russia">Cambiar al servidor de Rusia</string>
     <string name="switch_to_staging">Cambiar al servidor provisional</string>
     <string name="unknown_error">Error desconocido</string>
-    <string name="update_success">Actualizado exitosamente</string>
+    <string name="update_success">Actualizado</string>
 </resources>

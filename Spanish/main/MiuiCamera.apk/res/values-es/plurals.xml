@@ -29,8 +29,8 @@
         <item quantity="one">en 1 min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
-        <item quantity="one">Justo ahora</item>
-        <item quantity="other">Justo ahora</item>
+        <item quantity="one">Ahora mismo</item>
+        <item quantity="other">Ahora mismo</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">hace %d mins</item>
@@ -57,8 +57,8 @@
         <item quantity="one">Puedes crear hasta %d clon a la vez.</item>
     </plurals>
     <plurals name="exit_camera_hint">
-        <item quantity="other">&lt;Data&gt;\"No se puede conectar a la cámara.&lt;br&gt;Esta aplicación se cerrará en &lt;font color=#FFCE16&gt;&lt;b&gt;%1$d segundos&lt;/b&gt;&lt;/font&gt;Después, espera uno o dos minutos y vuelve a intentarlo\".&lt;/Data&gt;</item>
-        <item quantity="one">&lt;Data&gt;\"No se puede conectar a la cámara.&lt;br&gt;Esta aplicación se cerrará en &lt;font color=#FFCE16&gt;&lt;b&gt;%1$d segundo&lt;/b&gt;&lt;/font&gt;Después, espera uno o dos minutos y vuelve a intentarlo\".&lt;/Data&gt;</item>
+        <item quantity="other">&lt;Data&gt;\"No se puede conectar a la cámara.&lt;br&gt; Esta aplicación se cerrará en &lt;font color=#FFCE16&gt;&lt;b&gt;%1$d segundos.&lt;/b&gt;&lt;/font&gt; Después, espera un par de minutos e inténtalo otra vez.\"&lt;/Data&gt;</item>
+        <item quantity="one">&lt;Data&gt;\"No se puede conectar a la cámara.&lt;br&gt; La aplicación se cerrará en &lt;font color=#FFCE16&gt;&lt;b&gt;%1$d segundo.&lt;/b&gt;&lt;/font&gt; Después, espera un par de minutos e inténtalo otra vez.\"&lt;/Data&gt;</item>
     </plurals>
     <plurals name="exit_thermal_hint">
         <item quantity="other">&lt;Data&gt;Este dispositivo está demasiado caliente.&lt;br&gt;La aplicación se cerrará en &lt;font color=#FFCE16&gt;&lt;b&gt;%1$d segundos&lt;/b&gt;&lt;/font&gt;. El progreso actual se ha guardado.&lt;/Data&gt;</item>
@@ -93,8 +93,8 @@
         <item quantity="one">en 1 minuto</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
-        <item quantity="one">Justo ahora</item>
-        <item quantity="other">Justo ahora</item>
+        <item quantity="one">Ahora mismo</item>
+        <item quantity="other">Ahora mismo</item>
     </plurals>
     <plurals name="live_workspace_delete_dialog_title">
         <item quantity="other">¿Eliminar %1$d borradores?</item>

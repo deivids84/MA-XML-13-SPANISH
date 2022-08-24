@@ -158,19 +158,19 @@
         <item>Mensajes;SMS;MMS;Nube;Sincronizar;Servicios de la nube; Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_subscribe_vip">
-        <item>Membresía de Xiaomi Cloud</item>
-        <item>Actualiza tu membresía, obtén más espacio de almacenamiento y asegura tus datos</item>
-        <item>Almacenamiento insuficiente;Membresía;Almacenamiento;Espacio de almacenamiento;Nube;Sincronizar;Servicios de la nube;Xiaomi Cloud;Mega;Ultra;VIP;Hacer copia de seguridad;Copia de seguridad;Restaurar;Basura;Elementos eliminados;Papelera</item>
+        <item>Suscripción de Xiaomi Cloud</item>
+        <item>Actualiza tu suscripción, obtén más espacio de almacenamiento y asegura tus datos</item>
+        <item>Almacenamiento insuficiente;Suscripción;Membresía;Almacenamiento;Espacio de almacenamiento;Nube;Sincronizar;Servicios de la nube;Xiaomi Cloud;Mega;Ultra;VIP;Hacer copia de seguridad;Copia de seguridad;Restaurar;Basura;Elementos eliminados;Papelera</item>
     </string-array>
     <string-array name="settings_search_sync_manage">
         <item>Xiaomi Cloud. Todos los servicios en un lugar.</item>
         <item>Accede a tus fotos, contactos, mensajes y dispositivos desde cualquier lugar</item>
-        <item>Almacenamiento insuficiente;Membresía;Almacenamiento;Espacio de almacenamiento;Nube;Sincronizar;Servicios de la nube;Xiaomi Cloud;Basura;Elementos eliminados;Seguridad</item>
+        <item>Almacenamiento insuficiente;Suscripción;Membresía;Almacenamiento;Espacio de almacenamiento;Nube;Sincronizar;Servicios de la nube;Xiaomi Cloud;Basura;Elementos eliminados;Seguridad</item>
     </string-array>
     <string-array name="settings_search_sync_manage_pad">
         <item>Xiaomi Cloud. Todos los servicios de Mi en un solo lugar.</item>
         <item>Acceda a sus fotos, notas y dispositivos desde cualquier lugar</item>
-        <item>Almacenamiento insuficiente; Membresía; Almacenamiento; Espacio de almacenamiento; Nube; Sincronización; Servicios en la nube; Xiaomi Cloud; Papelera; Elementos eliminados; Seguridad</item>
+        <item>Almacenamiento insuficiente; Suscripción;Membresía; Almacenamiento; Espacio de almacenamiento; Nube; Sincronización; Servicios en la nube; Xiaomi Cloud; Papelera; Elementos eliminados; Seguridad</item>
     </string-array>
     <string-array name="settings_search_wlan">
         <item>Sincronizar ajustes de Wi-Fi con Xiaomi Cloud</item>

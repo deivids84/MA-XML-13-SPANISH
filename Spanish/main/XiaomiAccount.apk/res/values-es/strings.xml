@@ -30,7 +30,7 @@
     <string name="about_device_info">Ver detalles de dispositivo</string>
     <string name="about_mi_account">Acerca de la cuenta Xiaomi</string>
     <string name="accept">Permitir</string>
-    <string name="access_denied_info">Demasiados intentos. Espera uno o dos minutos e inténtalo de nuevo.</string>
+    <string name="access_denied_info">Demasiados intentos. Espera un par de minutos e inténtalo otra vez.</string>
     <string name="access_token_expired_warning">La cuenta de Weibo ha expirado</string>
     <string name="access_token_invalid_warning">La cuenta de Weibo no es válida</string>
     <string name="account">Cuenta</string>
@@ -58,11 +58,11 @@
     <string name="account_none">Ninguna</string>
     <string name="account_none_binded_info">Ninguno</string>
     <string name="account_none_user_name">Ninguno</string>
-    <string name="account_notification_message">Sesión expirada, inicia sesión de nuevo.</string>
+    <string name="account_notification_message">Sesión caducada. Inicia la sesión otra vez.</string>
     <string name="account_secure_info_pref_title">Información de cuenta</string>
     <string name="account_security">Seguridad de la cuenta</string>
     <string name="account_security_info_pref_title">Información de seguridad</string>
-    <string name="account_token_expired_msg">"El código de verificación ha caducado. Comienza de nuevo o cierra sesión
+    <string name="account_token_expired_msg">"El código de verificación ha caducado. Empieza otra vez o cierra la sesión.
  Tu ID de cuenta: %s"</string>
     <string name="account_token_expired_title">"No se pudo autentificar"</string>
     <string name="account_user_avatar">Foto de perfil</string>
@@ -100,7 +100,7 @@
     <string name="app_name">Cuenta Xiaomi</string>
     <string name="area_code_no_search_result">"No se pudieron encontrar resultados"</string>
     <string name="area_code_search_hint">Buscar país o región</string>
-    <string name="auth_fail_warning">Sesión expirada, inicia sesión de nuevo</string>
+    <string name="auth_fail_warning">Sesión caducada. Inicia la sesión otra vez</string>
     <string name="authorize_title">Autorización</string>
     <string name="auto_fill_not_sport_on_water_mark_version">"El inicio de sesión automático es incompatible con las versiones con marca de agua"</string>
     <string name="bind_facebook">Conectar cuenta de Facebook</string>
@@ -194,7 +194,7 @@ Puedes iniciar sesión usando %s ahora."</string>
     <string name="continue_action">Continuar</string>
     <string name="copy">Copiar</string>
     <string name="copy_link">Copiar URL</string>
-    <string name="copy_to_clipboard_successful">Copiado con éxito</string>
+    <string name="copy_to_clipboard_successful">Copiado</string>
     <string name="date_picker_lunar">Calendario Chino Tradicional</string>
     <string name="date_time_picker_dialog_title">Establecer fecha y hora</string>
     <string name="delete_action">Eliminar</string>
@@ -210,9 +210,9 @@ Puedes iniciar sesión usando %s ahora."</string>
     <string name="device_list_title">Mis dispositivos</string>
     <string name="device_name">Nombre del dispositivo</string>
     <string name="diagnosis_log_send_failed">"No se pudo enviar el registro."</string>
-    <string name="diagnosis_log_sent_format">"Registro establecido con éxito.
+    <string name="diagnosis_log_sent_format">"El registro se ha establecido.
 ID:%s
-Envía este código al supervisor."</string>
+Remite este código al supervisor."</string>
     <string name="download_file">Descargando %s…</string>
     <string name="early_morning">Mañana</string>
     <string name="empty_device_list_notice">No hay dispositivos</string>
@@ -233,12 +233,12 @@ Envía este código al supervisor."</string>
     <string name="find_device_access_denied">"No se pudo obtener el estado, acceso negado"</string>
     <string name="find_device_account_error">"No se pudo obtener el estado debido a un error de cuenta"</string>
     <string name="find_device_activate_account">Activar cuenta</string>
-    <string name="find_device_bad_response_error">Ocurrió un error en el servidor. Espere uno o dos minutos y vuelva a intentarlo.</string>
+    <string name="find_device_bad_response_error">Ocurrió un error en el servidor. Espera un par de minutos e inténtalo otra vez.</string>
     <string name="find_device_clear_data">Eliminar datos</string>
     <string name="find_device_close">Desactivado</string>
     <string name="find_device_error_password_not_confirmed">"No se puede desactivar Buscar dispositivo. Introduce otra vez la contraseña de tu cuenta Xiaomi."</string>
     <string name="find_device_error_password_recently_changed">"Ha cambiado su contraseña en los últimos %d días. No se puede desactivar Encontrar dispositivo ahora por motivos de seguridad."</string>
-    <string name="find_device_interrupted">Se interrumpió la acción, espera un minuto o dos y vuelve a intentarlo</string>
+    <string name="find_device_interrupted">Se interrumpió la acción, espera un par de minutos e inténtalo otra vez</string>
     <string name="find_device_io_error">"No es posible conectarse a la red"</string>
     <string name="find_device_location">Localizar</string>
     <string name="find_device_locked_account_email" formatted="false">%s, correos electrónicos asociados: %s</string>
@@ -247,16 +247,16 @@ Envía este código al supervisor."</string>
     <string name="find_device_null_credential_error">"No se pudo obtener la información del dispositivo, contacta con el Servicio al cliente de Xiaomi"</string>
     <string name="find_device_open">Activado</string>
     <string name="find_device_operation_failed_error">Se ha producido un error en el servidor, espera unos minutos y vuelve a intentarlo</string>
-    <string name="find_device_operation_failed_error_unknown">Ha habido un error, inténtalo de nuevo más tarde</string>
+    <string name="find_device_operation_failed_error_unknown">Se ha producido un error, inténtalo más tarde</string>
     <string name="find_device_owner_phone">El dispositivo está bloqueado. Llamada %1$s.</string>
     <string name="find_device_play_sound">Reproducir sonido</string>
     <string name="find_device_prompt_message">El dispositivo está bloqueado. Mensaje: %1$s.</string>
     <string name="find_device_remote_exception">Error RPC</string>
     <string name="find_device_request_error">Se ha producido un error en el servidor, espera unos minutos y vuelve a intentarlo</string>
-    <string name="find_device_request_prepare_error">"No se pudo obtener el estado, inténtalo de nuevo más tarde"</string>
+    <string name="find_device_request_prepare_error">"No se pudo obtener el estado, inténtalo más tarde"</string>
     <string name="find_device_set_lost_model">Modo perdido</string>
     <string name="find_device_title">Encontrar dispositivo</string>
-    <string name="find_device_unknown_error">"No se puede obtener el estado del dispositivo. Espere uno o dos minutos y vuelva a intentarlo."</string>
+    <string name="find_device_unknown_error">"No se puede obtener el estado del dispositivo. Espera un par de minutos e inténtalo otra vez."</string>
     <string name="find_equipment">Encontrar dispositivo</string>
     <string name="find_new_apk_version">Actualización disponible</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
@@ -276,7 +276,7 @@ Envía este código al supervisor."</string>
     <string name="get_device_list_failed">"No hay dispositivos"</string>
     <string name="get_identity_auth_url_failed">"No se pudo verificar la identificación"</string>
     <string name="get_phone_bind_exceed_limit">"No puedes asociar más de 3 Cuentas Xiaomi con el mismo número de teléfono."</string>
-    <string name="get_phone_verifycode_exceed_limit">Se han enviado demasiados códigos de verificación a este número. Espera 24 horas e inténtalo de nuevo.</string>
+    <string name="get_phone_verifycode_exceed_limit">Enviados demasiados códigos de verificación a este número. Espera 24 horas e inténtalo otra vez.</string>
     <string name="google_login">Iniciar sesión con Google</string>
     <string name="goto_accept">OK</string>
     <string name="guest_account_label">Cuenta Xiaomi de invitado</string>
@@ -348,7 +348,7 @@ Envía este código al supervisor."</string>
     <string name="miuix_indexer_collect">Colecciones</string>
     <string name="miuix_indexer_selected">Seleccionado %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tire hacia abajo para actualizar</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado con éxito</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualizando…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Suelta para actualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Eso es todo por ahora"</string>
@@ -404,7 +404,7 @@ Envía este código al supervisor."</string>
     <string name="need_install_wechat">Instala WeChat primero</string>
     <string name="network_error">Se ha producido un error de la red.</string>
     <string name="network_error_hint">Comprueba la URL e inténtalo otra vez, o copia la URL y ábrela en el navegador.</string>
-    <string name="network_error_info">Se ha producido un error de red. Compruebe la configuración de red e inténtelo de nuevo.</string>
+    <string name="network_error_info">Ocurrió un error de red. Comprueba los ajustes de red e inténtalo otra vez.</string>
     <string name="network_timeout_info">"No se pudo conectar a la red. Vuelve a intentarlo."</string>
     <string name="new_version">Versión nueva</string>
     <string name="night">Tarde</string>
@@ -414,7 +414,7 @@ Envía este código al supervisor."</string>
     <string name="no_network_title">"No es posible conectarse a la red."</string>
     <string name="no_password_set">No establecido</string>
     <string name="no_phone">No hay número de teléfono</string>
-    <string name="no_response_retry">Sin respuesta, inténtalo de nuevo.</string>
+    <string name="no_response_retry">Sin respuesta, inténtalo otra vez.</string>
     <string name="no_sim_card_or_unactivated">"La tarjeta SIM no está instalada o activada"</string>
     <string name="nobind">No conectada</string>
     <string name="noon">Mediodía</string>
@@ -432,6 +432,7 @@ Envía este código al supervisor."</string>
     <string name="oauth_scopes_intro">&lt;font color=#%1$s&gt;%2$s&lt;/font&gt; obtendrá los siguientes permisos:&lt;br&gt; &lt;br&gt; %3$s</string>
     <string name="oauth_title">Iniciar sesión con la cuenta Xiaomi</string>
     <string name="ok">OK</string>
+    <string name="operator_broadnet">China Broadnet</string>
     <string name="operator_mobile">China Mobile</string>
     <string name="operator_mobile_agreement">Servicios de verificación proporcionados por China Mobile</string>
     <string name="operator_other">Número de teléfono</string>
@@ -474,14 +475,14 @@ Envía este código al supervisor."</string>
     <string name="passport_confirm_recycle_account">Sí</string>
     <string name="passport_confirm_recycle_account_msg">"&lt;font color=Red&gt;Parece que&lt;/font&gt; el número %s lo ha reciclado su operador y hay una cuenta Xiaomi asociada con él. ¿Esta cuenta es tuya?"</string>
     <string name="passport_continue">Continuar</string>
-    <string name="passport_copy_message_text_success">Copiado con éxito</string>
+    <string name="passport_copy_message_text_success">Copiado</string>
     <string name="passport_copy_message_vcode">Copiar código</string>
     <string name="passport_delete_account">Cerrar sesión</string>
     <string name="passport_downlink_reg">Número de teléfono</string>
     <string name="passport_email">Dirección de email</string>
     <string name="passport_email_or_id_hint_text">Correo electrónico/ID de cuenta Xiaomi</string>
     <string name="passport_email_reg_success_summary">%1$s ha sido vinculado a su cuenta. Puede usarlo para iniciar sesión o restablecer su contraseña.</string>
-    <string name="passport_error_auth_fail">Sesión agotada, inicia sesión de nuevo</string>
+    <string name="passport_error_auth_fail">Sesión caducada. Inicia la sesión otra vez</string>
     <string name="passport_error_device_id">"No se puede obtener la id del dispositivo"</string>
     <string name="passport_error_dup_email">La dirección de email introducida ya está asociada con otra cuenta.</string>
     <string name="passport_error_email">La dirección deemail introducida no es válida</string>
@@ -577,8 +578,8 @@ Envía este código al supervisor."</string>
     <string name="passport_quick_login_title">Introduce su contraseña</string>
     <string name="passport_quick_register">Registrarse</string>
     <string name="passport_quick_register_notice"><u>\"¿No tienes una cuenta Xiaomi? Crea una\".</u></string>
-    <string name="passport_re_get_verify_code">Obtener código de nuevo</string>
-    <string name="passport_re_register">Iniciar sesión de nuevo</string>
+    <string name="passport_re_get_verify_code">Obtener el código otra vez</string>
+    <string name="passport_re_register">Iniciar la sesión otra vez</string>
     <string name="passport_recycle_account_prompt">¿Es esta tu cuenta Xiaomi?</string>
     <string name="passport_recycle_login_other_account">"No son mías; usaré una diferente."</string>
     <string name="passport_reg_btn_using_other_phone">Use un número de teléfono alternativo</string>
@@ -607,23 +608,23 @@ Envía este código al supervisor."</string>
     <string name="passport_registered_phone_user_ID">ID de Usuario: %s</string>
     <string name="passport_registered_phone_user_name">Nombre de usuario: %s</string>
     <string name="passport_reject_recycle_account">No</string>
-    <string name="passport_relogin">Iniciar sesión de nuevo</string>
-    <string name="passport_relogin_notice">Debe iniciar la sesión de nuevo</string>
+    <string name="passport_relogin">Iniciar la sesión otra vez</string>
+    <string name="passport_relogin_notice">Necesitas iniciar la sesión otra vez</string>
     <string name="passport_remove_confirm">Cerrar sesión</string>
     <string name="passport_remove_unactivated_account_notice">"Su cuenta no ha sido activada."</string>
     <string name="passport_resend_active_email">Reenviar email</string>
     <string name="passport_reset_fail_title">"No se pudo restablecer"</string>
     <string name="passport_reset_password_prompt">La contraseña es incorrecta</string>
     <string name="passport_reset_password_title">Restablecer contraseña</string>
-    <string name="passport_restart">Empezar de nuevo</string>
+    <string name="passport_restart">Empezar otra vez</string>
     <string name="passport_restart_register_prompt">Puede requerirse otro mensaje de verificación para crear su cuenta.</string>
     <string name="passport_restart_register_title">Crear una cuenta Xiaomi</string>
-    <string name="passport_retry">Inténtalo de nuevo</string>
+    <string name="passport_retry">Inténtalo otra vez</string>
     <string name="passport_select_reg_ways_title">Otras formas de iniciar sesión</string>
     <string name="passport_select_the_login_account">Seleccionar la cuenta para iniciar sesión</string>
     <string name="passport_select_the_recycle_phone_login">Selecciona tu cuenta</string>
     <string name="passport_select_the_register_phone">Seleccionar el número de teléfono para crear una cuenta</string>
-    <string name="passport_send_too_many_code">Se han enviado demasiados códigos de verificación a este número. Espera 24 horas y prueba de nuevo.</string>
+    <string name="passport_send_too_many_code">Enviados demasiados códigos de verificación a este número. Espera 24 horas e inténtalo otra vez.</string>
     <string name="passport_send_vcode_failed">"No se pudo enviar el código"</string>
     <string name="passport_sending_vcode">Enviando código…</string>
     <string name="passport_set">Establecer</string>
@@ -673,7 +674,7 @@ Envía este código al supervisor."</string>
     <string name="passport_verification_failed">"No se pudo verificar la cuenta"</string>
     <string name="passport_verify">Verificar</string>
     <string name="passport_verifying_activator_phone">Comprobando la seguridad del teléfono…</string>
-    <string name="passport_wait_for_sms_prompt">"¿Empezar de nuevo ahora? Los mensajes de verificación podría tardar hasta 10 minutos en ser entregados cuando su teléfono tenga cobertura de su operadora."</string>
+    <string name="passport_wait_for_sms_prompt">"¿Empezar otra vez? Los mensajes de verificación pueden tardar hasta 10 minutos en entregarse cuando tengas cobertura."</string>
     <string name="passport_wrong_captcha">El código introducido es incorrecto</string>
     <string name="passport_wrong_phone_number_format">El formato de número de teléfono introducido no es válido</string>
     <string name="passport_wrong_vcode">El código introducido es incorrecto</string>
@@ -725,8 +726,8 @@ Envía este código al supervisor."</string>
     <string name="resend_email_reach_limit_message">"Has solicitado demasiados correos de verificación. Asegúrate de que el mensaje de verificación no está en la carpeta de correo no deseado."</string>
     <string name="resend_email_reach_limit_title">"No se pudo enviar el correo electrónico"</string>
     <string name="resend_email_success">Correo electrónico reenviado</string>
-    <string name="restart_action">Empezar de nuevo</string>
-    <string name="restart_phone_bind_message">Puedes tardar un rato en recibir el SMS. ¿Empezar de nuevo de todos modos?</string>
+    <string name="restart_action">Empezar otra vez</string>
+    <string name="restart_phone_bind_message">El SMS puede tardar un rato en llegar. ¿Empezar otra vez?</string>
     <string name="restart_phone_bind_title">Cambiar teléfono de recuperación</string>
     <string name="revoke_privacy_policy">Retiro del consentimiento</string>
     <string name="revoke_privacy_policy_instructions">"Si continúas, retirarás tu consentimiento a la Política de privacidad de la cuenta Xiaomi. Dejaremos de recopilar tu información personal. La que ya está recopilada y retenida se eliminará dentro del período específico de acuerdo con las leyes y regulaciones aplicables, a menos que se requiera lo contrario. Dado que la Cuenta Xiaomi proporciona sus servicios recopilando la información personal necesaria, retirar tu consentimiento se considerará como una negativa a aceptar los servicios de la Cuenta Xiaomi. ¿Retiras tu consentimiento ahora?"</string>
@@ -762,11 +763,11 @@ Envía este código al supervisor."</string>
     <string name="set_success">Cambiado correctamente</string>
     <string name="sign_in">Iniciando sesión</string>
     <string name="sim_card">Tarjeta SIM</string>
-    <string name="sim_changed_notification_msg">Toque para actualizar su teléfono de recuperación y mantener su cuenta más segura.</string>
+    <string name="sim_changed_notification_msg">Pulsa para actualizar el teléfono de recuperación y mantener tu cuenta segura.</string>
     <string name="sim_changed_notification_title">¿Cambió el número de teléfono?</string>
     <string name="skip_query_account">Omitir</string>
     <string name="sms_send_success">Enviado</string>
-    <string name="sns_access_token_expired_warning">La cuenta de inicio de sesión ha expirado. Inicia sesión de nuevo para volver a conectar esta cuenta.</string>
+    <string name="sns_access_token_expired_warning">La sesión ha caducado. Inicia la sesión otra vez para conectar esta cuenta.</string>
     <string name="solar_term_autumn_begins">Comienza el otoño</string>
     <string name="solar_term_autumn_equinox">Equinoccio de otoño</string>
     <string name="solar_term_clear_and_bright">Claro y brillante</string>
@@ -801,7 +802,7 @@ Envía este código al supervisor."</string>
     <string name="system_ad_summary">"Activa esta función para permitir que se muestre un pequeño número de anuncios en las aplicaciones del sistema. Estos anuncios nos ayudan a desarrollar y mejorar nuestros productos y servicios. Puedes elegir desactivar esta función es cualquier momento. ¡Gracias por tu apoyo! "</string>
     <string name="system_ad_switch">Anuncios en aplicaciones del sistema</string>
     <string name="system_ad_switch_failed">"No se pudo aplicar los ajustes"</string>
-    <string name="system_error_info">El sistema está ocupado. Espere uno o dos minutos y vuelva a intentarlo.</string>
+    <string name="system_error_info">El sistema está ocupado. Espera un par de minutos e inténtalo otra vez.</string>
     <string name="talkback_scan_barcode">Escanear código QR</string>
     <string name="temporary_not_available">"Esta función todavía no está disponible."</string>
     <string name="the_anniversary_of_lifting_martial_law">Aniversario del Levantamiento de la Ley Marcial</string>
@@ -874,7 +875,7 @@ Envía este código al supervisor."</string>
     <string name="update_email_address_dialog_message">Es necesario verificar tu identidad antes de poder actualizar el correo electrónico.</string>
     <string name="update_email_address_dialog_title">Actualizar correo electrónico</string>
     <string name="update_phone_notice">Cambiar la configuración de seguridad</string>
-    <string name="update_phone_number_notice_message">Es necesario verificar tu identidad antes de poder actualizar el número de teléfono.</string>
+    <string name="update_phone_number_notice_message">Es necesario verificar tu identidad antes de actualizar el número de teléfono.</string>
     <string name="used_cloud_storage_info">%s usados</string>
     <string name="user_agreement_device_permission_desc">Para garantizar la seguridad del entorno de inicio de sesión</string>
     <string name="user_agreement_device_permission_title">Acceder a la información del dispositivo</string>
@@ -887,7 +888,7 @@ Envía este código al supervisor."</string>
     <string name="user_agreement_wlan_permission_title_china">Activar y desactivar Wi-Fi</string>
     <string name="user_avatar_update_title">Cambiar foto de perfil</string>
     <string name="user_avatar_uploading">Un momento…</string>
-    <string name="user_instruction_all_purpose">¡Bienvenido a la cuenta Xiaomi! Puedes utilizarla para acceder a los servicios de Xiaomi y sus empresas afiliadas, como Mi.com Xiaomi Cloud, y GetApps. Puedes obtener Mi Coins (monedas Mi), comprar bienes virtuales y disfrutar de los servicios de valor añadido, incluyendo juegos, temas y ebooks.</string>
+    <string name="user_instruction_all_purpose">¡Te damos la bienvenida a la cuenta Xiaomi! Puedes usarla para acceder a los servicios de Xiaomi y sus empresas afiliadas, como Mi.com Xiaomi Cloud, y GetApps. Puedes obtener Mi Coins (monedas Mi), comprar bienes virtuales y disfrutar de los servicios de valor añadido, incluyendo juegos, temas y ebooks.</string>
     <string name="user_instruction_tip">Para poder iniciar sesión, lea y acepte los términos y condiciones.</string>
     <string name="user_license_with_3rd_app"><Data>\"Al iniciar sesión con mi cuenta Xiaomi, confirmo que he leído y acepto el &lt;a href=%1$s&gt;Acuerdo de usuario&lt;/a&gt; y la &lt;a href=%2$s&gt;Política de privacidad&lt;/a&gt; y el Acuerdo de usuario de la cuenta Xiaomi &lt;a href=%3$s&gt;&lt;/a&gt; y la &lt;a href=%4$s&gt;Política de privacidad&lt;/a&gt;\".</Data></string>
     <string name="user_license_with_3rd_app_mobile"><Data>\"He leído y acepto el &lt;a href=%1$s&gt;Acuerdo de usuario&lt;/a&gt; y la &lt;a href=%2$s&gt;Política de privacidad&lt;/a&gt;, el &lt;a href=%3$s&gt;Acuerdo de usuario&lt;/a&gt; y la &lt;a href=%4$s&gt;Política de privacidad&lt;/a&gt;de la cuenta Xiaomi, así como los &lt;a href=%5$s&gt;Términos y condiciones de los servicios de verificación de China Mobile&lt;/a&gt;\".</Data></string>

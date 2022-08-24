@@ -5,7 +5,7 @@
     <string name="battery_islow_desc">El nivel de la batería es demasiado bajo para instalar el archivo zip de forma segura, conecta el cargador y vuelve a intentarlo más tarde.</string>
     <string name="btn_changelog">Registro de cambios</string>
     <string name="btn_download">Descargar (%1$s)</string>
-    <string name="btn_error">Ha ocurrido un error, ¿Deseas intentarlo de nuevo?</string>
+    <string name="btn_error">Ha ocurrido un error, ¿Intentarlo otra vez?</string>
     <string name="btn_install">Instalar</string>
     <string name="btn_no">Cancelar</string>
     <string name="btn_ok">Aceptar</string>
@@ -27,7 +27,7 @@
     <string name="dialog_stop_title">¿Detener la descarga?</string>
     <string name="dialog_twrp">Tu almacenamiento interno está encriptado. Después de reiniciar el dispositivo al modo Recovery, introduce la contraseña de desbloqueo de tu dispositivo para continuar.</string>
     <string name="downgrade_warning">¡Downgrade a través de OTA detectado y bloqueado! ¡Para no dejar que rompas tu sistema!</string>
-    <string name="download_done">¡Descargado con éxito!</string>
+    <string name="download_done">¡Descargado!</string>
     <string name="download_fail">¡Error mientras se descargaba!</string>
     <string name="download_fail_desc">MD5 no coincide…</string>
     <string name="downloading">Descargando:</string>
@@ -55,7 +55,7 @@ Los datos no serán borrados.\"</string>
     <string name="menu_title_recovery">Reiniciar en Modo de recuperación</string>
     <string name="menu_title_show_notifications">Mostrar notificaciones</string>
     <string name="message_checkbox">Ocultar futuros mensajes del equipo de Xiaomi.eu</string>
-    <string name="message_checkbox_device">No mostrar de nuevo</string>
+    <string name="message_checkbox_device">No mostrar otra vez</string>
     <string name="message_title">¡NOTA!</string>
     <string name="new_version">¡Nueva actualización disponible!</string>
     <string name="no_info">No hay información disponible</string>

@@ -44,6 +44,46 @@
         <item quantity="other">Colgando llamada en %1$s s…</item>
         <item quantity="one">Colgando llamada en %1$s s…</item>
     </plurals>
+    <plurals name="call_log_day_in">
+        <item quantity="other">Este número llamó hace %1$s días</item>
+        <item quantity="one">Este número llamó hace %1$s día</item>
+    </plurals>
+    <plurals name="call_log_day_out">
+        <item quantity="other">Llamaste a este número hace %1$s días</item>
+        <item quantity="one">Llamaste a este número hace %1$s día</item>
+    </plurals>
+    <plurals name="call_log_hour_in">
+        <item quantity="other">Este número llamó hace %1$s horas</item>
+        <item quantity="one">Este número llamó hace %1$s hora</item>
+    </plurals>
+    <plurals name="call_log_hour_out">
+        <item quantity="other">Llamaste a este número hace %1$s horas</item>
+        <item quantity="one">Llamaste a este número hace %1$s hora</item>
+    </plurals>
+    <plurals name="call_log_minute_in">
+        <item quantity="other">Este número llamó hace %1$s minutos</item>
+        <item quantity="one">Este número llamó hace %1$s minuto</item>
+    </plurals>
+    <plurals name="call_log_minute_out">
+        <item quantity="other">Llamaste a este número hace %1$s minutos</item>
+        <item quantity="one">Llamaste a este número hace %1$s minuto</item>
+    </plurals>
+    <plurals name="call_log_month_in">
+        <item quantity="other">Este número llamó hace %1$s meses</item>
+        <item quantity="one">Este número llamó hace %1$s mes</item>
+    </plurals>
+    <plurals name="call_log_month_out">
+        <item quantity="other">Llamaste a este número hace %1$s meses</item>
+        <item quantity="one">Llamaste a este número hace %1$s mes</item>
+    </plurals>
+    <plurals name="call_log_year_in">
+        <item quantity="other">Este número llamó hace %1$s años</item>
+        <item quantity="one">Este número llamó hace %1$s año</item>
+    </plurals>
+    <plurals name="call_log_year_out">
+        <item quantity="other">Llamaste a este número hace %1$s años</item>
+        <item quantity="one">Llamaste a este número hace %1$s año</item>
+    </plurals>
     <plurals name="call_recording_notification_complete">
         <item quantity="other">%d llamadas grabadas.</item>
         <item quantity="one">%d llamada grabada.</item>

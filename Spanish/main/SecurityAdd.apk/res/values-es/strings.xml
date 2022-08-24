@@ -45,7 +45,7 @@
     <string name="clearable_edittext_clear_description">Eliminar</string>
     <string name="close">Cerrar</string>
     <string name="copy">Copiar</string>
-    <string name="cta_main_purpose">¡Bienvenido a Game Turbo!</string>
+    <string name="cta_main_purpose">¡Te damos la bienvenida a Game Turbo!</string>
     <string name="date_picker_lunar">Calendario chino tradicional</string>
     <string name="date_time_picker_dialog_title">Ajustar fecha y hora</string>
     <string name="dialog_market_score_cancel">Cancelar</string>
@@ -91,7 +91,7 @@
     <string name="exposed_dropdown_menu_content_description">Mostrar menú desplegable</string>
     <string name="fastboot_locked_answer_1">Fastboot es el método tradicional para flashear dispositivos Mi. Cuando el dispositivo está en modo Fastboot, se puede acceder y borrar directamente todos los datos guardados en éste. Bloqueamos Fastboot para asegurarnos de que tus datos se mantienen protegidos en caso de perder el dispositivo, así como para garantizar la fiabilidad de la función Encontrar dispositivo.</string>
     <string name="fastboot_locked_answer_2">"En caso de perder el dispositivo, Fastboot garantiza la seguridad de los elementos almacenados. Si desbloquea Fastboot, ya no podrá bloquear su dispositivo de forma remota o eliminar los datos usando Encontrar dispositivo. Por eso, no recomendamos desbloquear Fastboot en su dispositivo."</string>
-    <string name="fastboot_locked_answer_3">"Usa la herramienta de desbloqueo en la web de MIUI. Para desbloquear el dispositivo, necesitamos asegurarnos de que es tu dispositivo. Por eso, debes iniciar sesión con Cuenta Mi y activar Localizar dispositivo."</string>
+    <string name="fastboot_locked_answer_3">"Debes usar la herramienta de desbloqueo en la web MIUI. Para desbloquear el dispositivo, necesitamos comprobar que es tu dispositivo. Por eso, debes iniciar sesión con tu cuenta Xiaomi y activar Localizar dispositivo."</string>
     <string name="fastboot_locked_question_1">¿Por qué debería Fastboot estar bloqueado?</string>
     <string name="fastboot_locked_question_2">¿Hay riesgos relacionados con el desbloqueo de Fastboot?</string>
     <string name="fastboot_locked_question_3">Conozco los riesgos, pero aún necesito desbloquear mi dispositivo. ¿Qué debo hacer?</string>
@@ -142,7 +142,7 @@
     <string name="gb_advance_settings_follow_up">Respuesta táctil</string>
     <string name="gb_advance_settings_reset">Restaurar a los ajustes predeterminados</string>
     <string name="gb_advance_settings_reset_button">Restaurar</string>
-    <string name="gb_advance_settings_reset_dialog_content">¿Restaurar ahora a los ajustes predeterminados?</string>
+    <string name="gb_advance_settings_reset_dialog_content">¿Restaurar los ajustes predeterminados?</string>
     <string name="gb_advance_settings_reset_dialog_title">Ajustes predeterminados</string>
     <string name="gb_advance_settings_screen_display">Pantalla</string>
     <string name="gb_advance_settings_screen_hdr">Efectos visuales mejoradas</string>
@@ -200,12 +200,12 @@
     <string name="gb_webwindow_schemedialog_title">¿Abrir juegos ahora?</string>
     <string name="gb_weixinpay_can_not_complete">"No se puede completar el pago. Instalar para continuar."</string>
     <string name="gdpr_msg">&lt;Data&gt;Para utilizar las funciones básicas de Seguridad, debes aceptar que Xiaomi recopile, procese y use tus datos personales, incluida información sobre las formas en que usas las funciones de seguridad (por ejemplo, estadísticas de uso de datos móviles, información sobre malware, así como información básica sobre tu dispositivo) y otros tipos de información especificados en nuestra &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&gt;Política de Privacidad&lt;/a&gt;.&lt;/Data&gt;</string>
-    <string name="gtb_dialog_privacy_speed_message">"Estás a punto de usar Xunyou Game Booster. Este servicio recopilará su ID de cuenta Mi para registrar la duración de su membresía."</string>
+    <string name="gtb_dialog_privacy_speed_message">"Estás a punto de usar Xunyou Game Booster. Este servicio recopilará tu ID de Xiaomi para registrar la duración de tu suscripción."</string>
     <string name="gtb_dialog_privacy_speed_tips"><Data>\"He leído y acepto la Política de privacidad de &lt;a href=\"%1$s\"&gt;&lt;/a&gt;\"</Data></string>
     <string name="gtb_dialog_privacy_speed_title">Optimizador de juegos Xunyou</string>
     <string name="hybrid_provider">Proporcionado por %1$s</string>
     <string name="icon_content_description">Icono de diálogo</string>
-    <string name="install_success">%s instalado con éxito</string>
+    <string name="install_success">%s instalado</string>
     <string name="lucky_result_title">Sobres rojos</string>
     <string name="main_toolbar_purchase">Recargar</string>
     <string name="midnight">Noche</string>
@@ -231,7 +231,7 @@
     <string name="miuix_indexer_collect">Colecciones</string>
     <string name="miuix_indexer_selected">Seleccionado %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Desliza hacia abajo para actualizar</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado con éxito</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualizando…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Suelta para actualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Eso es todo por ahora"</string>
@@ -311,7 +311,7 @@
     <string name="network_not_available">"No se puede conectar a la red"</string>
     <string name="night">Tarde-noche</string>
     <string name="no_network">"No se puede conectar a la red"</string>
-    <string name="no_network_btn">Inténtalo de nuevo</string>
+    <string name="no_network_btn">Inténtalo otra vez</string>
     <string name="noon">Mediodía</string>
     <string name="not_set">Sin definir</string>
     <string name="ok_button">OK </string>
@@ -442,7 +442,7 @@
     <string name="usage_sorted_loading_text">Un momento…</string>
     <string name="v7_preference_off">DESACTIVAR</string>
     <string name="v7_preference_on">ACTIVAR</string>
-    <string name="web_sso_login_fail">Debe iniciar sesión de nuevo</string>
+    <string name="web_sso_login_fail">Debe iniciar la sesión otra vez</string>
     <string name="web_sso_login_message">Iniciando sesión…</string>
     <string name="webview_reload">Inténtelo otra vez</string>
     <string name="wednesday">Miércoles</string>

@@ -142,7 +142,7 @@ Si este permiso está desactivado, las alarmas existentes y los eventos basados 
     <string name="bluetooth_disable_absolute_volume_summary">Inhabilitar la función de volumen absoluto de Bluetooth si se producen problemas de volumen con dispositivos remotos (por ejemplo, volumen demasiado alto o falta de control)</string>
     <string name="bluetooth_disconnected">Desconectado</string>
     <string name="bluetooth_disconnecting">Desconectando…</string>
-    <string name="bluetooth_enable_gabeldorsche">Habilitar Gabeldorsche</string>
+    <string name="bluetooth_enable_gabeldorsche">Activar Gabeldorsche</string>
     <string name="bluetooth_enable_gabeldorsche_summary">Habilita la pila de funciones de Bluetooth Gabeldorsche.</string>
     <string name="bluetooth_headset_profile_summary_connected">Conectado al audio del teléfono</string>
     <string name="bluetooth_headset_profile_summary_use_for">Utilizar para audio del teléfono</string>
@@ -186,21 +186,21 @@ Si este permiso está desactivado, las alarmas existentes y los eventos basados 
     <string name="bluetooth_profile_sap">Acceso a tarjeta SIM</string>
     <string name="bluetooth_sap_profile_summary_connected">Conectado a SAP</string>
     <string name="bluetooth_sap_profile_summary_use_for">Utilizar para acceso a tarjeta SIM</string>
-    <string name="bluetooth_select_a2dp_codec_bits_per_sample">Bits por muestra del audio Bluetooth</string>
-    <string name="bluetooth_select_a2dp_codec_bits_per_sample_dialog_title">"Activar el códec de audio por Bluetooth
-Selección: bits por muestra"</string>
-    <string name="bluetooth_select_a2dp_codec_channel_mode">Modo de canal de audio de Bluetooth</string>
-    <string name="bluetooth_select_a2dp_codec_channel_mode_dialog_title">"Activar el códec de audio por Bluetooth
-Selección: modo de canal"</string>
-    <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">Códec de audio LDAC de Bluetooth: calidad de reproducción</string>
-    <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"Activar LDAC de audio por Bluetooth
-Selección de códec: calidad de reproducción"</string>
-    <string name="bluetooth_select_a2dp_codec_sample_rate">Frecuencia de muestreo de audio de Bluetooth</string>
-    <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">"Activar el códec de audio por Bluetooth
-Selección: frecuencia de muestreo"</string>
+    <string name="bluetooth_select_a2dp_codec_bits_per_sample">Bluetooth: Bits por muestra de audio</string>
+    <string name="bluetooth_select_a2dp_codec_bits_per_sample_dialog_title">"Activar códec de audio Bluetooth
+Selección: Bits por muestra"</string>
+    <string name="bluetooth_select_a2dp_codec_channel_mode">Bluetooth: Modo de canal de audio</string>
+    <string name="bluetooth_select_a2dp_codec_channel_mode_dialog_title">"Activar códec de audio Bluetooth
+Selección: Modo de canal"</string>
+    <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">Bluetooth: Códec LDAC de audio: Calidad de reproducción</string>
+    <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"Activar Bluetooth Audio LDAC
+Selección: Calidad de reproducción"</string>
+    <string name="bluetooth_select_a2dp_codec_sample_rate">Bluetooth: Frecuencia de muestreo de audio</string>
+    <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">"Activar códec de audio Bluetooth
+Selección: Frecuencia de muestreo"</string>
     <string name="bluetooth_select_a2dp_codec_streaming_label">Streaming: %1$s</string>
-    <string name="bluetooth_select_a2dp_codec_type">Códec de audio de Bluetooth</string>
-    <string name="bluetooth_select_a2dp_codec_type_dialog_title">"Activar el códec de audio por Bluetooth
+    <string name="bluetooth_select_a2dp_codec_type">Bluetooth: Códec de audio</string>
+    <string name="bluetooth_select_a2dp_codec_type_dialog_title">"Activar códec de audio Bluetooth
 Selección"</string>
     <string name="bluetooth_select_a2dp_codec_type_help_info">Si una opción aparece atenuada, no es compatible con el teléfono o los auriculares</string>
     <string name="bluetooth_select_avrcp_version_dialog_title">Selecciona la versión AVRCP de Bluetooth</string>
@@ -300,7 +300,7 @@ Selección"</string>
     <string name="development_settings_title">Opciones para desarrolladores</string>
     <string name="direct_boot_unaware_dialog_message">"Nota: Después de reiniciar, tienes que desbloquear el teléfono para que esta aplicación se pueda iniciar"</string>
     <string name="disable_overlays">Inhabilitar superposiciones de hardware</string>
-    <string name="disable_overlays_summary">Usar siempre la GPU para componer pantallas</string>
+    <string name="disable_overlays_summary">Siempre se usará la GPU para renderizar la pantalla</string>
     <string name="disabled">Inhabilitada</string>
     <string name="disabled_by_admin">Inhabilitado por el administrador</string>
     <string name="disabled_by_admin_summary_text">Controlada por el administrador</string>
@@ -310,10 +310,10 @@ Selección"</string>
     <string name="enable_adb_summary">Activar el modo de depuración cuando el dispositivo esté conectado por USB</string>
     <string name="enable_adb_wireless">Depuración inalámbrica</string>
     <string name="enable_adb_wireless_summary">Activa el modo de depuración cuando haya conexión Wi‑Fi</string>
-    <string name="enable_freeform_support">Habilitar ventanas de forma libre</string>
-    <string name="enable_freeform_support_summary">Habilitar la opción para utilizar ventanas de forma libre experimentales</string>
+    <string name="enable_freeform_support">Habilitar ventanas flexibles</string>
+    <string name="enable_freeform_support_summary">Activa el soporte experimental para ventanas flexibles.</string>
     <string name="enable_gpu_debug_layers">Activar capas de depuración de GPU</string>
-    <string name="enable_gpu_debug_layers_summary">Permitir cargar capas de depuración de GPU en aplicaciones</string>
+    <string name="enable_gpu_debug_layers_summary">Permite cargar capas de depuración de GPU para depurar aplicaciones</string>
     <string name="enable_opengl_traces_title">Habilitar seguimiento OpenGL</string>
     <string name="enable_terminal_summary">Habilitar aplicación de terminal que ofrece acceso a shell local</string>
     <string name="enable_terminal_title">Terminal local</string>
@@ -327,14 +327,14 @@ Selección"</string>
     <string name="external_source_trusted">Autorizadas</string>
     <string name="external_source_untrusted">No autorizadas</string>
     <string name="failed_to_open_app_settings_toast">Error al abrir los ajustes de %1$s</string>
-    <string name="force_allow_on_external">Forzar permitir aplicaciones de forma externa</string>
-    <string name="force_allow_on_external_summary">Hacer que cualquier aplicación se pueda escribir en un dispositivo de almacenamiento externo independientemente de los valores definidos</string>
+    <string name="force_allow_on_external">Permitir aplicaciones externas</string>
+    <string name="force_allow_on_external_summary">Hace que cualquier aplicación pueda grabarse en el almacenamiento externo, a pesar de los valores definidos</string>
     <string name="force_msaa">Forzar MSAA 4x</string>
     <string name="force_msaa_summary">Habilitar MSAA 4x en aplicaciones de OpenGL ES 2.0</string>
     <string name="force_resizable_activities">Forzar el ajuste de tamaño de las actividades</string>
     <string name="force_resizable_activities_summary">Hacer que el tamaño de todas las actividades se pueda ajustar para el modo multiventana independientemente de los valores definidos</string>
     <string name="force_rtl_layout_all_locales">Forzar dirección de diseño RTL</string>
-    <string name="force_rtl_layout_all_locales_summary">Forzar dirección RTL para todos los idiomas</string>
+    <string name="force_rtl_layout_all_locales_summary">Fuerza la escritura de derecha a izquierda para todos los idiomas</string>
     <string name="guest_exit_guest">Quitar invitado</string>
     <string name="guest_new_guest">Añadir invitado</string>
     <string name="guest_nickname">Invitado</string>
@@ -408,7 +408,7 @@ Selección"</string>
     <string name="local_backup_password_summary_change">Toca para cambiar o quitar la contraseña de las copias de seguridad completas del escritorio</string>
     <string name="local_backup_password_summary_none">Las copias de seguridad completas de escritorio no están protegidas actualmente</string>
     <string name="local_backup_password_title">Contraseña de respaldo de escritorio</string>
-    <string name="local_backup_password_toast_confirmation_mismatch">La nueva contraseña y la de confirmación no coinciden</string>
+    <string name="local_backup_password_toast_confirmation_mismatch">La contraseña y su confirmación no coinciden</string>
     <string name="local_backup_password_toast_success">Nueva contraseña de seguridad establecida</string>
     <string name="local_backup_password_toast_validation_failure">Error al establecer la contraseña de seguridad</string>
     <string name="long_traces">Trazas largas</string>
@@ -510,7 +510,7 @@ Selección"</string>
     <string name="password_toggle_content_description">Mostrar contraseña</string>
     <string name="picture_color_mode">Modo de color de imagen</string>
     <string name="picture_color_mode_desc">Utiliza sRGB</string>
-    <string name="pointer_location">Ubicación del puntero</string>
+    <string name="pointer_location">Mostar ubicación del puntero</string>
     <string name="pointer_location_summary">Superponer los datos de las pulsaciones en la pantalla</string>
     <string name="power_charging_duration">%1$s - %2$s a la izquierda hasta completa</string>
     <string name="power_charging_limited">%1$s - Carga limitada temporalmente</string>
@@ -535,7 +535,7 @@ Selección"</string>
     <string name="private_dns_broken">No se ha podido acceder al servidor DNS privado</string>
     <string name="private_dns_mode_off">Desactivado</string>
     <string name="private_dns_mode_opportunistic">Automático</string>
-    <string name="private_dns_mode_provider">Nombre de host del proveedor de DNS privado</string>
+    <string name="private_dns_mode_provider">Host del DNS privado</string>
     <string name="private_dns_mode_provider_failure">"No se ha podido establecer la conexión"</string>
     <string name="private_dns_mode_provider_hostname_hint">Introduce el host del proveedor de DNS</string>
     <string name="profile_connect_timeout_subtext">No se ha podido conectar; reinicia el dispositivo</string>
@@ -579,7 +579,7 @@ Selección"</string>
     <string name="shared_data_delete_failure_text">No se han podido eliminar los datos compartidos.</string>
     <string name="shared_data_no_accessors_dialog_text">No hay ninguna concesión sobre estos datos compartidos. ¿Quieres eliminarlos?</string>
     <string name="shared_data_no_blobs_text">No hay datos compartidos de este usuario.</string>
-    <string name="shared_data_query_failure_text">No se han podido generar datos compartidos. Inténtalo de nuevo.</string>
+    <string name="shared_data_query_failure_text">No se han podido recuperar los datos compartidos. Inténtalo otra vez.</string>
     <string name="shared_data_summary">Ver y modificar los datos compartidos</string>
     <string name="shared_data_title">Datos compartidos</string>
     <string name="show_all_anrs">Mostrar ANR en segundo plano</string>
@@ -588,14 +588,14 @@ Selección"</string>
     <string name="show_hw_layers_updates_summary">Parpadear capas de hardware en verde al actualizarse</string>
     <string name="show_hw_screen_updates">Ver cambios de vista</string>
     <string name="show_hw_screen_updates_summary">Parpadear vistas dentro de las ventanas cuando se dibujan</string>
-    <string name="show_non_rect_clip">Depurar operaciones de recorte no rectangulares</string>
+    <string name="show_non_rect_clip">Depurar recortes no rectangulares</string>
     <string name="show_notification_channel_warnings">Ver advertencias del canal de notificaciones</string>
-    <string name="show_notification_channel_warnings_summary">Mostrar una advertencia en pantalla cuando una aplicación publica una notificación sin un canal válido</string>
+    <string name="show_notification_channel_warnings_summary">Se verá una advertencia cuando una aplicación muestre una notificación sin un canal válido</string>
     <string name="show_quick_settings_tile">Mostrar icono de ajustes rápidos</string>
     <string name="show_screen_updates">Mostrar cambios de superficies</string>
     <string name="show_screen_updates_summary">Parpadear todas las superficies de la ventana cuando se actualizan</string>
-    <string name="show_touches">Mostrar toques</string>
-    <string name="show_touches_summary">Mostrar la ubicación de los toques en la pantalla</string>
+    <string name="show_touches">Mostrar toques en pantalla</string>
+    <string name="show_touches_summary">Muestra respuesta visual a los toques en la pantalla</string>
     <string name="simulate_color_space">Simular espacio de color</string>
     <string name="speed_label_fast">Rápida</string>
     <string name="speed_label_medium">Media</string>
@@ -610,7 +610,7 @@ Selección"</string>
     <string name="stop_on_bugreport_summary">Finaliza las grabaciones de trazas activas cuando se inicia un informe de error</string>
     <string name="stop_tracing">Deja de guardar rastros</string>
     <string name="storage_category">Almacenamiento</string>
-    <string name="strict_mode">Modo estricto</string>
+    <string name="strict_mode">Modo estricto activado</string>
     <string name="strict_mode_summary">Parpadear si las aplicaciones tardan mucho en el subproceso principal</string>
     <string name="system_trace_sensitive_data">Es posible que los archivos de Trazado del sistema incluyan datos sensibles del sistema y de aplicaciones (como (como información sobre el uso de las aplicaciones). Comparte las trazas del sistema únicamente con usuarios y aplicaciones en los que confíes.</string>
     <string name="system_traces_storage_title">Seguimiento del sistema</string>
@@ -629,19 +629,19 @@ Selección"</string>
     <string name="tethering_hardware_offload_summary">Usar la conexión compartida con aceleración por hardware si está disponible</string>
     <string name="tethering_settings_not_available">Los ajustes para compartir conexión no están disponibles para este usuario</string>
     <string name="thirty_minutes">30 minutos</string>
-    <string name="time_unit_just_now">justo ahora</string>
+    <string name="time_unit_just_now">Ahora mismo</string>
     <string name="title_convert_fbe">Convirtiendo a un cifrado basado en archivos</string>
     <string name="trace_debuggable_applications">Rastrear aplicaciones que se puedan depurar</string>
     <string name="trace_is_being_recorded">Se está grabando el rastro</string>
     <string name="trace_saved">Captura guardada</string>
     <string name="tracing_categories_unavailable">Algunas categorías de captura no están disponibles:</string>
     <string name="track_frame_time">Trazar la renderización de HWUI</string>
-    <string name="transcode_default">Suponga que las aplicaciones admiten formatos modernos</string>
-    <string name="transcode_disable_cache">Deshabilitar la caché de transcodificación</string>
-    <string name="transcode_enable_all">Habilitar la transcodificación</string>
-    <string name="transcode_notification">Mostrar notificaciones de transcodificación</string>
-    <string name="transcode_settings_title">Configuración de transcodificación de medios</string>
-    <string name="transcode_user_control">Anular los valores predeterminados de transcodificación</string>
+    <string name="transcode_default">Soportar formatos modernos</string>
+    <string name="transcode_disable_cache">Desactivar la caché</string>
+    <string name="transcode_enable_all">Activar transcodificación</string>
+    <string name="transcode_notification">Notificar transcodificación</string>
+    <string name="transcode_settings_title">Cambiar formato de archivo multimedia</string>
+    <string name="transcode_user_control">Anular valores predeterminados</string>
     <string name="transition_animation_scale_title">Escala de animación de transición</string>
     <string name="tts_default_lang_summary">Establecer la voz del idioma específico para el texto hablado</string>
     <string name="tts_default_lang_title">Idioma</string>
@@ -713,7 +713,7 @@ Cualquier usuario puede actualizar las aplicaciones del resto de usuarios."</str
     <string name="v7_preference_off">DESACTIVADA</string>
     <string name="v7_preference_on">ACTIVADO</string>
     <string name="verify_apps_over_usb_summary">Comprobar las aplicaciones instaladas mediante ADB/ADT para detectar comportamientos dañinos</string>
-    <string name="verify_apps_over_usb_title">Verificar aplicaciones por USB</string>
+    <string name="verify_apps_over_usb_title">Verificar aplicación por USB</string>
     <string name="vpn_settings_not_available">Los ajustes de VPN no están disponibles para este usuario</string>
     <string name="wait_for_debugger">Esperar al depurador</string>
     <string name="wait_for_debugger_summary">La aplicación depurada espera a que se active el depurador antes de ejecutarse</string>
@@ -777,7 +777,7 @@ Cualquier usuario puede actualizar las aplicaciones del resto de usuarios."</str
     <string name="wifi_status_sign_in_required">Debes iniciar sesión</string>
     <string name="wifi_unmetered_label">No medida</string>
     <string name="wifi_verbose_logging">Habilitar registro de Wi-Fi detallado</string>
-    <string name="wifi_verbose_logging_summary">Aumentar el nivel de registro de Wi-Fi y mostrar por SSID RSSI en el selector Wi-Fi</string>
+    <string name="wifi_verbose_logging_summary">Aumenta el nivel de registro Wi-Fi y muestra por SSID RSSI en el selector de Wi-Fi</string>
     <string name="wifi_wapi_as_certificate">Certificado AS</string>
     <string name="wifi_wapi_cert_mode_hand_text">Seleccionar manualmente el certificado</string>
     <string name="wifi_wapi_certification_dont_exist">Los certificados WAPI no existen. Instálelos.</string>
@@ -816,11 +816,11 @@ posible que el almacenamiento de credenciales no esté habilitado"</string>
     <string name="wifitrackerlib_wifi_disabled_password_failure">Problema de autenticacion</string>
     <string name="wifitrackerlib_wifi_disconnected">Desconectado</string>
     <string name="wifitrackerlib_wifi_limited_connection">Conexión limitada</string>
-    <string name="wifitrackerlib_wifi_mbo_assoc_disallowed_cannot_connect">"No se puede conectar. Inténtelo de nuevo más tarde."</string>
-    <string name="wifitrackerlib_wifi_mbo_assoc_disallowed_max_num_sta_associated">La red está por encima de la capacidad. Inténtelo de nuevo más tarde.</string>
+    <string name="wifitrackerlib_wifi_mbo_assoc_disallowed_cannot_connect">"No se puede conectar. Inténtalo más tarde."</string>
+    <string name="wifitrackerlib_wifi_mbo_assoc_disallowed_max_num_sta_associated">La red está sobrecargada. Inténtalo más tarde.</string>
     <string name="wifitrackerlib_wifi_mbo_oce_assoc_disallowed_insufficient_rssi">Señal débil. Intente acercarse al enrutador.</string>
     <string name="wifitrackerlib_wifi_metered_label">Medido</string>
-    <string name="wifitrackerlib_wifi_network_not_found">"No se puede conectar. Inténtelo de nuevo más tarde."</string>
+    <string name="wifitrackerlib_wifi_network_not_found">"No se puede conectar. Inténtalo más tarde."</string>
     <string name="wifitrackerlib_wifi_no_internet">Sin acceso a Internet</string>
     <string name="wifitrackerlib_wifi_no_internet_no_reconnect">No se conectará automáticamente</string>
     <string name="wifitrackerlib_wifi_passpoint_expired">Caducado</string>
@@ -832,7 +832,7 @@ posible que el almacenamiento de credenciales no esté habilitado"</string>
     <string name="wifitrackerlib_wifi_unmetered_label">Sin medidor</string>
     <string name="wifitrackerlib_wifi_wont_autoconnect_for_now">Wi-Fi no se conectará automáticamente por ahora</string>
     <string name="window_animation_scale_title">Escala de animación de ventana</string>
-    <string name="window_blurs">Permitir desenfoques a nivel de ventana</string>
+    <string name="window_blurs">Permitir desenfocar ventanas</string>
     <string name="zen_alarm_warning">"No oirás la próxima alarma (%1$s)"</string>
     <string name="zen_alarm_warning_indef">"Solo oirás la próxima alarma (%1$s) si desactivas esta opción antes"</string>
     <string name="zen_interruption_level_priority">Solo interrupciones prioritarias</string>

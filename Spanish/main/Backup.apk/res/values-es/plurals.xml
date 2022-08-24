@@ -29,8 +29,8 @@
         <item quantity="one">en 1 min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
-        <item quantity="one">Justo ahora</item>
-        <item quantity="other">Justo ahora</item>
+        <item quantity="one">Ahora mismo</item>
+        <item quantity="other">Ahora mismo</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">hace %d mins</item>
@@ -77,8 +77,8 @@
         <item quantity="one">en 1 minuto</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
-        <item quantity="one">Justo ahora</item>
-        <item quantity="other">Justo ahora</item>
+        <item quantity="one">Ahora mismo</item>
+        <item quantity="other">Ahora mismo</item>
     </plurals>
     <plurals name="local_main_backup_manage_summary">
         <item quantity="other">%1$s copias de seguridad (%2$s)</item>
@@ -89,12 +89,12 @@
         <item quantity="one">%d elemento seleccionado</item>
     </plurals>
     <plurals name="new_task_backup_failed">
-        <item quantity="other">"Copiado con éxito. No se pudieron copiar %d elementos."</item>
-        <item quantity="one">"Copiado con éxito. No se pudo copiar %d elemento."</item>
+        <item quantity="other">"Copiado correctamente. No se ha podido copiar %d elementos."</item>
+        <item quantity="one">"Copiado correctamente. No se ha podido copiar %d elemento."</item>
     </plurals>
     <plurals name="new_task_restore_failed">
-        <item quantity="other">"Restaurado con éxito. No se pudieron resturar %d elementos."</item>
-        <item quantity="one">"Restaurado con éxito. No se pudo resturar %d elemento."</item>
+        <item quantity="other">"Restaurado correctamente. No se ha podido restaurar %d elementos."</item>
+        <item quantity="one">"Restaurado correctamente. No se ha podido restaurar %d elemento."</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">hace %d minutos</item>
@@ -105,8 +105,8 @@
         <item quantity="one">"Se ha importado %d elemento. "</item>
     </plurals>
     <plurals name="save_item_failed_summary_seg2">
-        <item quantity="other">Importar %d elementos nuevamente.</item>
-        <item quantity="one">Importar %d elemento nuevamente.</item>
+        <item quantity="other">Importar %d elementos otra vez.</item>
+        <item quantity="one">Importar %d elemento otra vez.</item>
     </plurals>
     <plurals name="save_item_saved_summary">
         <item quantity="other">Se han Importado y restaurado %d elementos</item>
@@ -130,7 +130,7 @@
     </plurals>
     <plurals name="trans_failed_summary">
         <item quantity="other">"No se pudo transferir los elementos %d. Toca para ver detalles."</item>
-        <item quantity="one">"No se pudo transferir el elemento %d. Toca para ver detalles."</item>
+        <item quantity="one">"No se pudo transferir el elemento %d. Pulsa para ver los detalles."</item>
     </plurals>
     <plurals name="trans_item_failed_summary">
         <item quantity="other">"No se pudo transferir los elementos %d."</item>

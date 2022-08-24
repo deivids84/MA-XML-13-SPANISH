@@ -53,7 +53,7 @@
     <string name="activity_title_video">Eliminar vídeos</string>
     <string name="activity_title_white_list">Excepciones</string>
     <string name="ad_install_success_dialog_lunch">Abrir</string>
-    <string name="ad_install_success_dialog_title">%1$s instalado con éxito. ¿Abrir ahora?</string>
+    <string name="ad_install_success_dialog_title">%1$s se ha instalado. ¿Abrir ahora?</string>
     <string name="afternoon">Tarde</string>
     <string name="am">AM</string>
     <string name="analying">Analizando…</string>
@@ -145,7 +145,7 @@
     <string name="button_text_keep_one">Conservar una</string>
     <string name="button_text_known">OK</string>
     <string name="button_text_let_me_select">OK</string>
-    <string name="button_text_not_prompt_again">"No mostrar de nuevo"</string>
+    <string name="button_text_not_prompt_again">"No mostrar otra vez"</string>
     <string name="button_text_photo_selected">Seleccionado</string>
     <string name="button_text_restore_ignore">Deshacer</string>
     <string name="button_text_select_all">Seleccionar</string>
@@ -184,7 +184,7 @@
     <string name="clean_master_icon_recall_hint">Añadir un acceso directo en la pantalla de inicio</string>
     <string name="clean_master_icon_recall_summary">Añade un acceso directo en la pantalla de inicio para limpiar la basura siempre que lo necesites.</string>
     <string name="clean_master_icon_recall_title">Limpia la basura más rápido</string>
-    <string name="clean_master_icon_recall_toast_text">Se añadió con éxito un acceso directo en la pantalla de inicio para Limpiador</string>
+    <string name="clean_master_icon_recall_toast_text">Se ha añadido un acceso directo para Limpiador en la pantalla de inicio</string>
     <string name="clean_summary">Limpiado %1$s</string>
     <string name="clear_bigfiles">Eliminar archivos pesados, fotos duplicadas y otros elementos obsoletos</string>
     <string name="clear_immediately">Limpiar ahora</string>
@@ -246,7 +246,7 @@
     <string name="dc_storage_info">Disponible %1$s | Total %2$s</string>
     <string name="deep_clean_completed_tips">Se limpió correctamente</string>
     <string name="deep_clean_data_path_clean_title">Limpiar caché</string>
-    <string name="deep_clean_uninstall_completed_tips">Desinstalado con éxito</string>
+    <string name="deep_clean_uninstall_completed_tips">Desinstalado</string>
     <string name="deepclean_1_k_clean">Limpiar memoria</string>
     <string name="deepclean_apk_content">Eliminar APK en aplicaciones innecesarias</string>
     <string name="deepclean_apk_group_hint_checked">Seleccionar todo</string>
@@ -292,7 +292,7 @@
     <string name="dialog_msg_check_all">Confirma seleccionar %1$s que contiene %2$d elementos</string>
     <string name="dialog_msg_esc_cleanmaster">¿Detener análisis y salir ahora del Limpiador?</string>
     <string name="dialog_msg_load_cleanup_engine_error">La interfaz de limpieza se ha dañado.</string>
-    <string name="dialog_msg_stop_scan">¿Detener escaneo ahora?</string>
+    <string name="dialog_msg_stop_scan">¿Dejar de escanear ahora?</string>
     <string name="dialog_msg_uninstall_apps">¿Desinstalar estas aplicaciones?</string>
     <string name="dialog_msg_uninstall_apps_xspace">¿Desinstalar estas aplicaciones, incluyendo sus Aplicaciones Duales?</string>
     <string name="dialog_ok_add_white_list_error">De acuerdo</string>
@@ -326,7 +326,7 @@
     <string name="evening">Tarde</string>
     <string name="expand_button_title">Avanzado</string>
     <string name="facebook_clean_exit_confirm_cancel">Seguir escaneando</string>
-    <string name="facebook_clean_exit_confirm_msg">"Todavía no se ha terminado de escanear Facebook. ¿Detener el escaneo ahora?"</string>
+    <string name="facebook_clean_exit_confirm_msg">"Aún no se ha terminado de escanear Facebook. ¿Detener ahora?"</string>
     <string name="facebook_clean_exit_confirm_ok">Detener</string>
     <string name="facebook_clean_exit_confirm_title">¿Detener escaneo?</string>
     <string name="facebook_cleaner">Limpiador de Facebook</string>
@@ -399,11 +399,11 @@
     <string name="global_wa_setting_privacy_pref_mi_title">Política de Privacidad de Xiaomi</string>
     <string name="global_wa_setting_privacy_pref_third_title">Políticas de privacidad de terceros</string>
     <string name="global_wa_shortcut_dialog_cancel">Cancelar</string>
-    <string name="global_wa_shortcut_dialog_checkbox_hint">"No mostrar de nuevo"</string>
+    <string name="global_wa_shortcut_dialog_checkbox_hint">"No mostrar otra vez"</string>
     <string name="global_wa_shortcut_dialog_confirm">Crear</string>
     <string name="global_wa_shortcut_dialog_content">Crea un acceso directo a la Pantalla de inicio para el Limpiador de WhatsApp para hacer que esta función sea fácilmente accesible.</string>
     <string name="global_wa_shortcut_dialog_title">Acceso directo a la Pantalla de inicio</string>
-    <string name="global_wa_shortcut_toast">Acceso directo a la Pantalla de inicio creado con éxito</string>
+    <string name="global_wa_shortcut_toast">Se ha creado un acceso directo en la pantalla de inicio</string>
     <string name="global_wa_wrapper">Fondos de pantalla</string>
     <string name="go_to">Continuar</string>
     <string name="golbal_wa_backend_alert_dialog_btn">Abrir</string>
@@ -415,12 +415,12 @@
     <string name="guide_dc_dialog_negative">Cancelar</string>
     <string name="guide_dc_dialog_positive">OK</string>
     <string name="guide_dc_dialog_title">Almacenamiento casi lleno</string>
-    <string name="guide_secure_dialog_message">La puntuación de optimización de tu dispositivo está por debajo de 80 puntos. ¿Optimizar ahora?</string>
-    <string name="guide_secure_dialog_message_new">La puntuación de optimización de su dispositivo es inferior a %d puntos. ¿Optimizar ahora?</string>
+    <string name="guide_secure_dialog_message">La optimización del dispositivo es inferior a 80 puntos. ¿Optimizar?</string>
+    <string name="guide_secure_dialog_message_new">La optimización del dispositivo es inferior a %d puntos. ¿Optimizar?</string>
     <string name="guide_secure_dialog_negative">Cancelar</string>
     <string name="guide_secure_dialog_positive">Optimizar</string>
     <string name="guide_secure_dialog_title">Optimizar rendimiento</string>
-    <string name="guide_virus_dialog_message">Escanear aplicaciones e instalar paquetes protege tu dispositivo de virus y malware. ¿Escanear dispositivo ahora?</string>
+    <string name="guide_virus_dialog_message">Escanear aplicaciones e instalación de paquetes protege el dispositivo de virus y malware. ¿Escanear ahora?</string>
     <string name="guide_virus_dialog_negative">Cancelar</string>
     <string name="guide_virus_dialog_positive">Escanear</string>
     <string name="guide_virus_dialog_title">Escanear antivirus</string>
@@ -591,7 +591,7 @@
     <string name="news_change">Cambiar</string>
     <string name="night">Tarde</string>
     <string name="no_network">"No ha sido posible conectarse a la red, inténtalo más tarde"</string>
-    <string name="no_network_btn">Inténtalo de nuevo</string>
+    <string name="no_network_btn">Inténtalo otra vez</string>
     <string name="noon">Mediodía</string>
     <string name="not_set">Sin definir</string>
     <string name="notification_apk_clean_button_text">Limpiar</string>
@@ -648,7 +648,7 @@
     <string name="notification_wechat_clean_middle_level_text_b">"La basura de WeChat ralentiza la aplicación"</string>
     <string name="notification_whatsapp_clean_button_text">Limpiar</string>
     <string name="notification_whatsapp_clean_size">El caché de WhatsApp llegó a %s</string>
-    <string name="offline_notification_text">Toca para abrir el anuncio</string>
+    <string name="offline_notification_text">Pulsa para abrir el anuncio</string>
     <string name="offline_notification_title">Ver el anuncio guardado sin conexión</string>
     <string name="offline_opt_in_confirm">Aceptar</string>
     <string name="offline_opt_in_confirmation">"Recibirás una notificación con el enlace cuando vuelvas a estar en línea"</string>
@@ -671,7 +671,7 @@
     <string name="output_videos">Exportar vídeos</string>
     <string name="permission_dialog_storage_btn1">Ajustes</string>
     <string name="permission_dialog_storage_btn2">Cancelar</string>
-    <string name="permission_dialog_storage_content">Cleaner necesita permiso para acceder al almacenamiento interno para poder funcionar normalmente. Toca \"Configuración\" para administrar los permisos de almacenamiento.</string>
+    <string name="permission_dialog_storage_content">Cleaner necesita permiso para acceder al almacenamiento interno para funcionar normalmente. Pulsa en \"Ajustes\" para administrar los permisos de almacenamiento.</string>
     <string name="permission_dialog_storage_title">Se necesitan permisos</string>
     <string name="petabyteShort">PB</string>
     <string name="pm">PM</string>
@@ -737,7 +737,7 @@
     <string name="promotion">Anuncio</string>
     <string name="qq_clean">Limpiador de QQ</string>
     <string name="qq_clean_exit_confirm_msg">¿Detener análisis y salir ahora?</string>
-    <string name="qq_clean_finish_summary">Archivos seleccionados eliminados con éxito</string>
+    <string name="qq_clean_finish_summary">Los archivos seleccionados se han eliminado</string>
     <string name="qq_data_type_cache">Caché de QQ</string>
     <string name="qq_data_type_cache_desc">"Podrás restaurar estos archivos después de conectarte a Internet."</string>
     <string name="qq_data_type_chat">Historial de chat</string>
@@ -851,7 +851,7 @@
     <string name="tips_low_storage_dialog_title">El espacio de almacenamiento se está agotando</string>
     <string name="tips_of_app_manage">Eliminar las aplicaciones que se usan poco para ahorrar almacenamiento</string>
     <string name="tips_of_auto_launch_manage">Prevenir el auto-inicio de aplicaciones usadas pocas veces</string>
-    <string name="tips_of_cloud_service">Inicia sesión en Cuenta Mi para usar más servicios de Mi</string>
+    <string name="tips_of_cloud_service">Inicia sesión en tu cuenta Xiaomi para usar más servicios</string>
     <string name="tips_of_connect">Conectarse a Internet para usar el conjunto completo de opciones de seguridad</string>
     <string name="tips_of_garbage_cloud_scan">Encontrar residuos ocultos con el escaneo en la nube</string>
     <string name="tips_of_garbage_data_set">Limpiar la base de datos del Limpiador para encontrar más residuos en tu dispositivo</string>
@@ -876,7 +876,7 @@
     <string name="title_of_package_set">Ajustes del plan de datos</string>
     <string name="title_of_traffic_notification">Barra de estadísticas de datos</string>
     <string name="title_share_link">Compartir URL</string>
-    <string name="toast_add_white_list_success">Se agregó a las excepciones con éxito</string>
+    <string name="toast_add_white_list_success">Se ha añadido a las excepciones</string>
     <string name="toast_app_no_residual_on_sdcard">"La aplicación no tiene ningún archivo guardado en tu tarjeta SD"</string>
     <string name="toast_backup_is_running">Copia de seguridad ya está ejecutándose</string>
     <string name="toast_backup_uninstall_failed">"No se pudo realizar copia de %d aplicaciones"</string>
@@ -888,7 +888,7 @@
     <string name="toast_must_select_before_restore">Elige fotos para restaurar</string>
     <string name="toast_network_eror">"No se puede conectar a la red"</string>
     <string name="toast_network_switch">Esta aplicación puede conectarse a Internet</string>
-    <string name="toast_removed_from_white_list">Se eliminó de las excepciones con éxito</string>
+    <string name="toast_removed_from_white_list">Se ha eliminado de las excepciones</string>
     <string name="toast_resolve_apk_error">Resolver error de la apk</string>
     <string name="toast_scaning_similar_image">Verificando fotos…</string>
     <string name="toast_select_image_need_delete">Elige fotos para eliminar</string>
@@ -921,11 +921,11 @@
     <string name="wechat_chat_data_type_other">Otros</string>
     <string name="wechat_chat_data_type_other_desc">Ten cuidado, puede que no puedas recuperar estos archivos después de borrarlos.</string>
     <string name="wechat_clean">Limpieza de WeChat</string>
-    <string name="wechat_clean_canceled_empty_summary">"La limpieza no terminó, comience de nuevo."</string>
+    <string name="wechat_clean_canceled_empty_summary">"La limpieza no terminó, comienza otra vez."</string>
     <string name="wechat_clean_exit_confirm">¿Salir?</string>
     <string name="wechat_clean_exit_confirm_msg">¿Detener escaneo y salir ahora?</string>
     <string name="wechat_clean_finish_empty_summary">Todo parece estar en orden</string>
-    <string name="wechat_clean_finish_summary">Archivos seleccionados eliminados con éxito</string>
+    <string name="wechat_clean_finish_summary">Los archivos seleccionados se han eliminado</string>
     <string name="wechat_clean_stop_confirm">¿Detener escaneo?</string>
     <string name="wechat_clean_stop_confirm_msg">¿Detener escaneo ahora?</string>
     <string name="wechat_content_bad_pic_file">Este archivo está dañado</string>
@@ -953,12 +953,12 @@
     <string name="whatsapp_btn_quick_cleanup">Eliminar elementos seleccionados (%s)</string>
     <string name="whatsapp_cache_clear">Limpiando caché…</string>
     <string name="whatsapp_clean_exit_confirm_cancel">Seguir escaneando</string>
-    <string name="whatsapp_clean_exit_confirm_msg">"Todavía no se ha terminado de escanear WhatsApp. ¿Detener el escaneo ahora?"</string>
+    <string name="whatsapp_clean_exit_confirm_msg">"Aún no se ha terminado de escanear WhatsApp. ¿Detener ahora?"</string>
     <string name="whatsapp_clean_exit_confirm_ok">Detener</string>
     <string name="whatsapp_clean_exit_confirm_title">¿Detener escaneo?</string>
     <string name="whatsapp_content_empty">No hay elementos.</string>
     <string name="whatsapp_delete_confirm_cancel">Cancelar</string>
-    <string name="whatsapp_delete_confirm_message">¿Eliminar ahora?</string>
+    <string name="whatsapp_delete_confirm_message">¿Eliminar?</string>
     <string name="whatsapp_delete_confirm_ok">OK</string>
     <string name="whatsapp_delete_done">Listo</string>
     <string name="whatsapp_detail_cache_result">Liberado %s</string>

@@ -61,7 +61,7 @@
     <string name="add_body_weight_record_button">Añadir datos de peso</string>
     <string name="add_data_source">Añadir fuentes de datos</string>
     <string name="add_data_source_description">Añade datos de salud generados por otros dispositivos a Xiaomi Health para aumentar la precisión de las estadísticas y obtener consejos de salud más relevantes.</string>
-    <string name="add_data_source_login_and_open_sync">Inicia sesión en tu Cuenta Mi y activa la sincronización con la nube para poder añadir fuentes de datos.</string>
+    <string name="add_data_source_login_and_open_sync">Inicia sesión en tu cuenta Xiaomi y activa la sincronización con la nube para añadir fuentes de datos.</string>
     <string name="add_data_source_open_sync">Active la sincronización con la nube para poder añadir fuentes de datos.</string>
     <string name="add_data_source_process">Cómo agregar una fuente de datos</string>
     <string name="add_data_source_support_step">"Este dispositivo no genera datos de recuento de pasos. Puede intentar cambiar a otras fuentes de datos."</string>
@@ -101,10 +101,10 @@ Si no deseas acceder a las clases recomendadas, puedes seguir utilizando los ent
     <string name="auth_dialog_link">Para comprender completamente tus derechos como usuario, así como la forma en que usamos tus datos, lee y acepta nuestro &lt;font color=\"#0D84FF\"&gt;&lt;a href=%1$s&gt;Acuerdo de usuario&lt;/a&gt;&lt;/font&gt; y &lt;font color=\"#0D84FF\"&gt;&lt;a href=%2$s&gt;Política de privacidad&lt;/a&gt;&lt;/font&gt;.</string>
     <string name="auth_dialog_title">Clases recomendadas</string>
     <string name="auto_start_fail">"No se pudo conceder el permiso"</string>
-    <string name="auto_start_success">Permisos concedidos con éxito</string>
+    <string name="auto_start_success">Permisos concedidos</string>
     <string name="auto_start_tips">Pulsa \"Ajustes\" para abrir los ajustes de Xiaomi Salud y otorgar los permisos requeridos.</string>
     <string name="avatar">Foto de perfil</string>
-    <string name="avatar_upload_failure">"No se pudo cargar. Verifica la configuración de tu red y vuelve a intentarlo."</string>
+    <string name="avatar_upload_failure">"No se pudo cargar. Comprueba los ajustes de red e inténtalo otra vez."</string>
     <string name="average_cycle_days">Ciclo medio</string>
     <string name="average_menstruation_days">Duración media del periodo</string>
     <string name="avg_altitude">Altitud media</string>
@@ -141,7 +141,7 @@ Si no deseas acceder a las clases recomendadas, puedes seguir utilizando los ent
     <string name="bedTime_late_description">Fuiste a dormir tarde.</string>
     <string name="bedTime_normal_description">Fuiste a dormir a tiempo. ¡Sigue así!</string>
     <string name="bedtime">Hora de acostarse</string>
-    <string name="bedtime_description">"La hora de acostarse es el momento en el que vas a la cama y dejas tu teléfono. Se estima basándose en tu hora de acostarse planificada y el uso de tu dispositivo."</string>
+    <string name="bedtime_description">"La hora de acostarse es el momento en el que te vas a la cama y dejas el dispositivo. Se estima en base a tu hora de acostarse planificada y el uso del dispositivo."</string>
     <string name="bg_control_dialog_go_set">Ajustes</string>
     <string name="bg_control_dialog_msg">"El ahorro de batería restringirá la actividad de Salud en segundo plano. Permite a Salud ejecutarse siempre en segundo plano para obtener estadísticas precisas."</string>
     <string name="bg_control_dialog_title">Restricciones del segundo plano</string>
@@ -226,7 +226,7 @@ Si no deseas acceder a las clases recomendadas, puedes seguir utilizando los ent
     <string name="contact_permission_subtitle">Para establecer contactos de emergencia</string>
     <string name="contact_permission_title">Acceder a contactos</string>
     <string name="copy">Copiar</string>
-    <string name="copy_done">Copiado con éxito</string>
+    <string name="copy_done">Copiado</string>
     <string name="copyright_statement">Copyright © Xiaomi Inc. Todos los derechos reservados.</string>
     <string name="cousume_unit_float_format">%1$.2f Cal</string>
     <string name="cross_hiking">Senderismo</string>
@@ -320,8 +320,8 @@ Si decides eliminar tus datos de salud después de elegir conservarlos, puedes h
     <string name="detection_wait_generate_report_detail">Vuelve más tarde</string>
     <string name="device_data_manage">Administrar dispositivos</string>
     <string name="device_data_sync">Sincronizar datos de salud</string>
-    <string name="device_description">"Este dispositivo está asociado con la cuenta Mi %s. Si no puedes encontrar el dispositivo que necesitas, añádelo antes en Mi Fit o Xiaomi Wear."</string>
-    <string name="device_list_origin_description">"Estos dispositivos están asociados con Cuenta Mi %1$s. Si no puedes encontrar aquí el dispositivo que necesitas, asegúrate de que ya lo has agregado en la aplicación correspondiente."</string>
+    <string name="device_description">"Este dispositivo está asociado con la cuenta Xiaomi %s. Si no lo encuentras aquí, añádelo antes en Mi Fit o Xiaomi Wear."</string>
+    <string name="device_list_origin_description">"Estos dispositivos están asociados con la cuenta Xiaomi %1$s. Si no encuentras aquí el que buscas, comprueba que ya lo has agregado en la aplicación correspondiente."</string>
     <string name="device_off_sync_description">"Los datos de salud generados en este dispositivo no se sincronizarán con Xiaomi Health"</string>
     <string name="device_unbound_from_account">Este dispositivo ya no está asociado con tu cuenta</string>
     <string name="diagnosis_log_send_failed">El envío del registro de diagnóstico ha fallado.</string>
@@ -345,7 +345,7 @@ Xiaomi Salud solo te notificará sobre elementos importantes."</string>
     <string name="dialog_date_select">Seleccionar fecha</string>
     <string name="dialog_delete">Eliminar</string>
     <string name="dialog_delete_record_confirm">¿Borrar este registro?</string>
-    <string name="dialog_exercise_purpose">¡Bienvenido a Xiaomi Salud! \"Contador de pasos\" te permite registrar periodos, determinar fechas aproximadas de los próximos periodos y recibir recordatorios. Todos los datos relacionados serán restaurados localmente en tu dispositivo, lo que te permite gestionarlos fácilmente.</string>
+    <string name="dialog_exercise_purpose">¡Te damos la bienvenida a Xiaomi Salud! La opción Contador de Pasos te permite controlar cuántos pasos das durante el día, así como establecer y gestionar tus objetivos de actividad. Todos los datos relacionados se almacenarán localmente en tu dispositivo, lo que te permite gestionarlos fácilmente.</string>
     <string name="dialog_exit">Salir</string>
     <string name="dialog_exit_use">Salir</string>
     <string name="dialog_feedback_content">"Si no estás de acuerdo en conceder dichos permisos, no podrás usar algunas funciones de esta aplicación; sin embargo, todavía tendrás disponibles sus funciones básicas. Siempre puedes restringir permisos o revocar autorizaciones en los ajustes."</string>
@@ -357,9 +357,9 @@ Xiaomi Salud solo te notificará sobre elementos importantes."</string>
     <string name="dialog_juveniles_link">De acuerdo con nuestra &lt;font color=\"#FE6D67\"&gt;&lt;a href=%1$s&gt;Política de Privacidad&lt;/a&gt;&lt;/font&gt;, la edad mínima para usar este producto son 18 años.</string>
     <string name="dialog_keep">Mantener</string>
     <string name="dialog_known">Entendido</string>
-    <string name="dialog_menstruation_purpose">¡Bienvenido a Xiaomi Salud! \"Mentruación\" te permite registrar periodos, determinar fechas aproximadas de los próximos periodos y recibir recordatorios. Todos los datos relacionados serán restaurados localmente en tu dispositivo, lo que te permite gestionarlos fácilmente.</string>
+    <string name="dialog_menstruation_purpose">¡Te damos la bienvenida a Xiaomi Salud! La opción Menstruación te permite registrar tus periodos, determinar las fechas aproximadas de los próximos y recibir recordatorios. Todos los datos relacionados se almacenarán localmente en tu dispositivo, lo que te permite gestionarlos fácilmente.</string>
     <string name="dialog_new_version_title">Hay una actualización disponible</string>
-    <string name="dialog_no_more_prompt">"No mostrar de nuevo"</string>
+    <string name="dialog_no_more_prompt">"No mostrar otra vez"</string>
     <string name="dialog_ok">OK</string>
     <string name="dialog_open">Permitir</string>
     <string name="dialog_permission_loading_msg">Comprobando…</string>
@@ -379,8 +379,8 @@ Xiaomi Salud solo te notificará sobre elementos importantes."</string>
 3. Vea los datos de salud de Health, Xiaomi Wear y otras aplicaciones en un solo lugar."</string>
     <string name="dialog_upgrade_positive_btn">Actualización</string>
     <string name="dialog_upgrade_title">Mi Fitness</string>
-    <string name="dialog_user_agreement_purpose">¡Bienvenido a Xiaomi Salud! Puedes usar esta aplicación para contar pasos, monitorizar el sueño, tus periodos y el peso, así como sincronizar las estadísticas con la nube.</string>
-    <string name="dialog_user_agreement_purpose2">¡Bienvenido a Xiaomi Salud! Puedes usar esta aplicación para contar tus pasos, analizar el sueño, tu periodo, registrar el peso y más.</string>
+    <string name="dialog_user_agreement_purpose">¡Te damos la bienvenida a Xiaomi Salud! Con esta aplicación puedes contar pasos, monitorizar el sueño, tus periodos y el peso, así como sincronizar las estadísticas con la nube.</string>
+    <string name="dialog_user_agreement_purpose2">¡Te damos la bienvenida a Xiaomi Salud! Con esta aplicación puedes contar tus pasos, analizar el sueño, tu periodo, registrar el peso y más.</string>
     <string name="diastolic_pressure">Diastólica</string>
     <string name="disable">Off</string>
     <string name="discard_update">No, gracias</string>
@@ -454,7 +454,7 @@ Puedes seleccionar un origen de datos diferente en Mas &gt; Orígenes de datos."
     <string name="exercise_notification_no_meet_title">"Pasos hoy: %d. ¡Continúa para lograr tu objetivo!"</string>
     <string name="exercise_question_answer_one">"1. Algunos modelos de dispositivo no están equipados con sensores de bajo consumo de energía. Xiaomi Salud no rastrea los datos de actividad para ahorrar batería en los siguientes dispositivos: Redmi 1S, Redmi 2A, Redmi 2, Redmi 3, Redmi Pro, Redmi Note, Redmi Note 2, Redmi Note 3, Redmi Note 4, Mi 2, Mi 3, Mi 4.
 Si tu dispositivo aparece aquí, puedes añadir fuentes de datos manualmente en Xiaomi Salud &gt; Menú &gt; Fuentes de datos &gt; Añadir fuentes de datos."</string>
-    <string name="exercise_question_answer_two">2. Es posble que se produzca un fallo al montar los sensores de movimiento. Si falla, reinicia tu teléfono y comprueba que el seguimiento empieza normalmente.</string>
+    <string name="exercise_question_answer_two">2. Es posible que se produzca un fallo al montar los sensores de movimiento. Si falla, reinicia el dispositivo y comprueba que el seguimiento empieza normalmente.</string>
     <string name="exercise_question_title">"¿Por qué no puedes ver tus estadísticas?"</string>
     <string name="exercise_recog_confirm_ridding">¿Andabas en bicicleta entre %1$s y %2$s?</string>
     <string name="exercise_recog_confirm_run">¿Corrías entre %1$s y %2$s?</string>
@@ -582,7 +582,7 @@ If it's still difficult for you to fall asleep after 30 minutes in bed, reduce t
     <string name="history_statistics">Estadísticas</string>
     <string name="home_page_card_setting">Start page cards</string>
     <string name="home_tip_open_data_sync">Activar sincronización con la nube</string>
-    <string name="home_tip_sync_done">Sincronizado exitosamente</string>
+    <string name="home_tip_sync_done">Sincronizado</string>
     <string name="home_tip_sync_immediately">"Algunos elementos no se sincronizaron. Toca para sincronizar ahora."</string>
     <string name="home_tip_syncing">Sincronizando datos de salud…</string>
     <string name="hour">H</string>
@@ -591,11 +591,11 @@ If it's still difficult for you to fall asleep after 30 minutes in bed, reduce t
     <string name="hr_cover_to_red">"Cubre completamente la cámara con tu dedo.
 Espera hasta que el círculo se vuelva rojo."</string>
     <string name="hr_detect">Medir ritmo cardíaco</string>
-    <string name="hr_detect_desc">"Durante la medición, el flash de tu teléfono se utilizará como una fuente de luz continua y la cámara detectará cambios en el flujo sanguíneo. Luego, se analizarán las imágenes y se determinará tu ritmo cardíaco en función de los patrones repetidos."</string>
-    <string name="hr_detect_finished">Medido con éxito</string>
+    <string name="hr_detect_desc">"Durante la medición, el flash del dispositivo se utilizará como fuente de luz continua y la cámara detectará cambios en tu flujo sanguíneo. Luego, se analizarán las imágenes y se determinará el ritmo cardíaco en función de los patrones repetidos."</string>
+    <string name="hr_detect_finished">Detección completada</string>
     <string name="hr_detect_fps_jitter">"No se pudo medir el ritmo cardíaco. Vuelve a intentarlo."</string>
     <string name="hr_detect_paused">Pausado</string>
-    <string name="hr_detect_principle_desc_1">Puedes medir tu ritmo cardíaco con solo cubrir el flash y la cámara de tu teléfono con un dedo. El flash se utilizará como fuente de luz continua y la cámara detectará cambios en el flujo sanguíneo. Luego, se analizarán las imágenes y se determinará tu ritmo cardíaco en función de los patrones repetidos.</string>
+    <string name="hr_detect_principle_desc_1">Puedes medir tu ritmo cardíaco con solo cubrir el flash y la cámara del dispositivo con un dedo. El flash se usará como fuente de luz continua y la cámara detectará cambios en tu flujo sanguíneo. Luego, se analizarán las imágenes y se determinará el ritmo cardíaco en función de los patrones repetidos.</string>
     <string name="hr_detect_principle_desc_3">Toma varias medidas para asegurarte de que tu lectura sea precisa. Los resultados proporcionados aquí son solo para tu referencia. Este método de medición no puede sustituir a un equipo médico profesional.</string>
     <string name="hr_detect_principle_title">Midiendo tu ritmo cardíaco</string>
     <string name="hr_detect_report_title">Informe de prueba</string>
@@ -607,27 +607,27 @@ Espera hasta que el círculo se vuelva rojo."</string>
     <string name="hr_detect_state_reseting_desc">Simplemente despierta o completamente relajado</string>
     <string name="hr_disable_in_split_screen">"No se puede medir el ritmo cardíaco mientras se usa la Pantalla dividida"</string>
     <string name="hr_disturb_detect">Interrupción de detección</string>
-    <string name="hr_finger_permission_desc">Esta función necesita acceder al escáner de huellas digitales para poder detectar cambios en el flujo sanguíneo y medir el ritmo cardíaco. ¿Permitir?</string>
+    <string name="hr_finger_permission_desc">Se necesita acceder al sensor de huella dactilar para detectar cambios en el flujo sanguíneo y medir el ritmo cardíaco. ¿Permitir?</string>
     <string name="hr_fp_area">Escáner de huella dactilar</string>
     <string name="hr_fp_detect_desc">La sangre fluye hacia tus dedos con cada latido. La luz brillante en el área del escáner de huellas dactilares debajo de la pantalla nos permite rastrear los cambios en tu flujo sanguíneo, analizar los patrones y convertirlos en valores de ritmo cardíaco.</string>
-    <string name="hr_fp_detect_principle_desc">"La sangre no es completamente opaca; por lo tanto, la luz puede atravesarla. Con cada latido del corazón, la sangre fluye hacia los dedos, bloqueando más luz que entre los latidos del corazón. La luz brillante en el área del escáner de huellas digitales debajo de la pantalla nos permite rastrear los cambios en tu flujo sanguíneo, analizar los patrones y convertirlos en valores de ritmo cardíaco."</string>
-    <string name="hr_fp_detect_principle_desc_2">"Nota: Asegúrate de que tu dedo cubra completamente el icono de la huella digital durante la medición. No apliques fuerza, ya que podría bloquear el flujo sanguíneo en la yema del dedo y hacer que los resultados sean inexactos. Esta medida se proporciona solo para tu referencia. No puede reemplazar pruebas médicas."</string>
+    <string name="hr_fp_detect_principle_desc">"La sangre no es completamente opaca; por lo tanto, la luz puede atravesarla. Con cada latido del corazón, la sangre fluye hacia los dedos, bloqueando más luz que entre los latidos del corazón. La luz brillante en el área del escáner de huella dactilar, debajo de la pantalla, nos permite rastrear los cambios en el flujo sanguíneo, analizar los patrones y convertirlos en valores de ritmo cardíaco."</string>
+    <string name="hr_fp_detect_principle_desc_2">"Nota: Asegúrate de que tu dedo cubra completamente el icono de la huella dactilar durante la medición. No apliques fuerza, ya que podría bloquear el flujo sanguíneo en la yema del dedo y alterar los resultados. Esta medida se proporciona solo para tu referencia. No puede reemplazar pruebas médicas."</string>
     <string name="hr_fp_detect_principle_desc_3">Nuestras pruebas muestran que este método mide su frecuencia cardíaca con un error de solo ≤3 BPM.</string>
     <string name="hr_fp_detect_start_desc">Cubre el icono con tu dedo</string>
     <string name="hr_fp_detecting">"No muevas tu dedo"</string>
-    <string name="hr_fp_not_put_well">"Tu dedo se movió.
-Empieza de nuevo."</string>
+    <string name="hr_fp_not_put_well">"Tu dedo se ha movido.
+Empieza otra vez."</string>
     <string name="hr_fp_report_common_desc">Una frecuencia cardíaca normal varía de 60 a 100 latidos por minuto. Una frecuencia cardíaca inferior a 60 BPM es un signo de bradicardia, mientras que una frecuencia cardíaca superior a 100 BPM se acepta como taquicardia en adultos.</string>
     <string name="hr_heart_rate_unit">Frecuencia cardiaca (BPM)</string>
     <string name="hr_in_detect">No muevas tu dedo</string>
     <string name="hr_input_heart_rate">Registrar frecuencia cardiaca</string>
     <string name="hr_measure_heart_rate">Medir la frecuencia cardíaca</string>
-    <string name="hr_open_permission_desc">Xiaomi Salud necesita acceder a la cámara de tu teléfono para poder medir el ritmo cardíaco. ¿Permitir?</string>
+    <string name="hr_open_permission_desc">Xiaomi Salud necesita acceder a la cámara del dispositivo para medir el ritmo cardíaco. ¿Permitir?</string>
     <string name="hr_open_permission_title">Permisos requeridos</string>
     <string name="hr_phone_detect_records">Registro de detección de teléfonos móviles</string>
     <string name="hr_pre_detect">Cubre completamente el flash y la cámara con un dedo</string>
     <string name="hr_pre_detect_finger">Midiendo…</string>
-    <string name="hr_re_detect_title">Empezar de nuevo</string>
+    <string name="hr_re_detect_title">Empezar otra vez</string>
     <string name="hr_report_active_desc">Medir su frecuencia cardíaca inmediatamente después de hacer ejercicio puede ayudarlo a ajustar sus hábitos de ejercicio, ya que los entrenamientos de diferente intensidad tienen diferentes zonas óptimas de frecuencia cardíaca. Si su frecuencia cardíaca es demasiado alta, la actividad podría ser perjudicial para su salud y provocar mareos, opresión en el pecho y otros riesgos. La frecuencia cardíaca baja puede ser un signo de baja efectividad de un entrenamiento en particular.</string>
     <string name="hr_report_active_high_desc">"Su frecuencia cardíaca nos dice que está realizando una actividad física de intensidad relativamente alta. Su corazón y sus pulmones están trabajando duro."</string>
     <string name="hr_report_active_higher_desc">"Su frecuencia cardíaca nos dice que está realizando una actividad física de alta intensidad. Su corazón y sus pulmones están trabajando duro. Preste atención a su estado y deje de hacer ejercicio si se siente mal."</string>
@@ -664,12 +664,12 @@ Empieza de nuevo."</string>
     <string name="indoor_running">Treadmill</string>
     <string name="input_body_weight">Introduce datos de peso para obtener consejos de salud</string>
     <string name="inquire_recover_data">¿Restaurar los datos de salud ahora?</string>
-    <string name="inquire_recover_data_subtitle">"Parece que hay datos de salud asociados a tu Cuenta Mi (%1$s). Activar la sincronización con la nube y restaurar los datos ahora?"</string>
+    <string name="inquire_recover_data_subtitle">"Parece que hay datos de salud asociados a tu cuenta Xiaomi (%1$s). ¿Activar la sincronización con la nube y restaurarlos?"</string>
     <string name="instructions_provider">Instrucciones proporcionadas por Miao Health</string>
     <string name="insufficient">Not enough</string>
     <string name="jump_freq">Jump frequency</string>
     <string name="jump_over">Saltar</string>
-    <string name="just_recently">Justo ahora</string>
+    <string name="just_recently">Ahora mismo</string>
     <string name="keep_edit">Cancel</string>
     <string name="label_average_daily_sleep_duration">Duración media del sueño</string>
     <string name="label_average_daily_sleep_time">Hora promedio en la que te has dormido</string>
@@ -713,7 +713,7 @@ Empieza de nuevo."</string>
     <string name="light_sleep_time_increase_description">Your light sleep is too long</string>
     <string name="light_sleep_time_normal_description">You have a sufficient amount of light sleep</string>
     <string name="listening_duration">Auricular</string>
-    <string name="load_failed">"No se pudo cargar los elementos. Espera un minuto o dos y vuelve a intentarlo."</string>
+    <string name="load_failed">"No se pudo cargar elementos. Espera un par de minutos e inténtalo otra vez."</string>
     <string name="loading">Un momento…</string>
     <string name="location_perm_description">Para hacer un seguimiento de entrenamientos al aire libre y registrar rutas</string>
     <string name="location_permission_dialog_content">Permita que Xiaomi Health acceda a su ubicación en \"Xiaomi Health\" &gt; \"Administrar permisos\" para poder realizar un seguimiento de sus entrenamientos al aire libre.</string>
@@ -861,7 +861,7 @@ Si no desea compartir su información, puede desactivar esta función."</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Más</string>
     <string name="miuix_appcompat_cancel_description">Cancelar</string>
     <string name="miuix_appcompat_cloud_state_disabled">Sincronización con la nube desactivada</string>
-    <string name="miuix_appcompat_cloud_state_finished">Sincronizado con la nube con éxito</string>
+    <string name="miuix_appcompat_cloud_state_finished">Sincronizado con la nube</string>
     <string name="miuix_appcompat_cloud_state_syncing">Sincronizando con la nube…</string>
     <string name="miuix_appcompat_confirm_description">Confirmar</string>
     <string name="miuix_appcompat_delete_description">Eliminar</string>
@@ -874,7 +874,7 @@ Si no desea compartir su información, puede desactivar esta función."</string>
     <string name="miuix_appcompat_select_item">Seleccionar elementos</string>
     <string name="miuix_indexer_selected">Seleccionado %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Desliza hacia abajo para actualizar</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado con éxito</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualizando…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Suelta para actualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Eso es todo por ahora"</string>
@@ -949,9 +949,9 @@ Si no desea compartir su información, puede desactivar esta función."</string>
     <string name="name_title_menstruation_today_end">Se espera que tu periodo termine hoy</string>
     <string name="need_auto_start_permission">Para obtener estadísticas más precisas, permite a Xiaomi Salud iniciarse automáticamente.</string>
     <string name="need_unrestricted_permission">Para obtener estadísticas más precisas, permite a Xiaomi Salud ejecutarse siempre en segundo plano.</string>
-    <string name="network_connect_failure">"No se pudo conectar a la red. Verifique la configuración de su red e intente nuevamente."</string>
+    <string name="network_connect_failure">"No se pudo conectar. Comprueba los ajustes de red e inténtalo otra vez."</string>
     <string name="network_name_china">WLAN</string>
-    <string name="network_not_available">"No se pudo conectar a la red. Comprueba tus ajustes de red y vuelve a intentarlo."</string>
+    <string name="network_not_available">"No se pudo conectar a la red. Comprueba los ajustes de red e inténtalo otra vez."</string>
     <string name="network_not_available2">"No se pudo conectar a la red"</string>
     <string name="next_step">Siguiente</string>
     <string name="night">Tarde-noche</string>
@@ -980,7 +980,7 @@ Si no desea compartir su información, puede desactivar esta función."</string>
     <string name="oar_time">Drive time</string>
     <string name="oauth_account_failed">"No se pudo obtener la información de cuenta"</string>
     <string name="oauth_account_failed_desc">Para agregar fuentes de datos, Xiaomi Health necesita usar su Mi Cuenta. Inicia sesión para continuar.</string>
-    <string name="oauth_invalid">Sesión expirada. Inicie sesión de nuevo.</string>
+    <string name="oauth_invalid">Sesión caducada. Iníciala otra vez.</string>
     <string name="ok">Aceptar</string>
     <string name="open">Turn on</string>
     <string name="open_data_sync_description">Active la sincronización con la nube para sincronizar datos de salud de otras fuentes.</string>
@@ -1000,8 +1000,8 @@ Si no desea compartir su información, puede desactivar esta función."</string>
     <string name="outdoor_running">Running</string>
     <string name="outdoor_walking">Walking</string>
     <string name="passable">OK</string>
-    <string name="passport_oauth_actionbar_title">Cuenta Mi</string>
-    <string name="passport_oauth_sucess_tip">Autorizado con éxito</string>
+    <string name="passport_oauth_actionbar_title">Cuenta Xiaomi</string>
+    <string name="passport_oauth_sucess_tip">Autorizado</string>
     <string name="password_toggle_content_description">Mostrar contraseña</string>
     <string name="pause">Pausa</string>
     <string name="pause_button_content_description">Pausar</string>
@@ -1009,7 +1009,7 @@ Si no desea compartir su información, puede desactivar esta función."</string>
     <string name="per_time_minutes1">" per minute"</string>
     <string name="per_time_minutes_heart_rate">" LPM"</string>
     <string name="period">Cycle</string>
-    <string name="permission_check_result">Establecido con éxito</string>
+    <string name="permission_check_result">Establecido</string>
     <string name="permission_check_result_failed">"No se pudo establecer"</string>
     <string name="permission_manage">Gestionar permisos</string>
     <string name="permission_tip">Concede a Xiaomi Salud los siguientes permisos para permitir que monitorice tu sueño de forma precisa</string>
@@ -1122,7 +1122,7 @@ Si no desea compartir su información, puede desactivar esta función."</string>
     <string name="search_menu_title">Buscar</string>
     <string name="sedentary_detail_title">Estar sentado durante mucho tiempo es dañino</string>
     <string name="sedentary_enhance_remind">Vibrar también</string>
-    <string name="sedentary_enhance_remind_content">Esta función funciona cuando el Modo no molestar está desactivado</string>
+    <string name="sedentary_enhance_remind_content">Funciona con el modo No Molestar desactivado</string>
     <string name="sedentary_harm_known">Entendido</string>
     <string name="sedentary_popular_science">"* Estar sentado o sin moverte durante mucho tiempo no es bueno para ti. A menos que estés durmiendo, intenta moverte al menos 2 minutos cada hora. Recuerda que no se recomienda estar de pie durante más de 6 horas al día."</string>
     <string name="sedentary_reminder_channel_name">Recordarme que me mueva</string>
@@ -1281,7 +1281,7 @@ completo de sueño"</string>
     <string name="sleep_no_generate_report">"No se pudo encontrar
 datos de sueño"</string>
     <string name="sleep_notice">Sleep notifications</string>
-    <string name="sleep_record_content">Xiaomi Salud registrará automáticamente tu sueño en función del uso de tu teléfono, las estadísticas de actividad, así como la hora para dormirte y levantarte que estableciste.</string>
+    <string name="sleep_record_content">Xiaomi Salud registrará automáticamente tu sueño en función del uso del dispositivo y las estadísticas de actividad, así como la hora para dormirse y levantarse que estableciste.</string>
     <string name="sleep_record_go_open">Activa \"Seguimiento del sueño\" para comenzar a registrar datos de sueño</string>
     <string name="sleep_record_label">Record sleep</string>
     <string name="sleep_remind">Recordatorio de sueño</string>
@@ -1410,11 +1410,11 @@ datos de sueño"</string>
     <string name="sport_pref_voice_assist_summary">Escuche información y sugerencias durante los entrenamientos</string>
     <string name="sport_pref_voice_assist_title">Indicaciones de voz</string>
     <string name="sport_settings_title">Ejercicio</string>
-    <string name="sport_share_fail">"No se pudo compartir. Inténtalo de nuevo"</string>
-    <string name="sport_share_save_local">Guardada exitosamente</string>
-    <string name="sport_share_save_local_fail">"No se pudo guardar. Inténtalo de nuevo."</string>
-    <string name="sport_share_save_local_success">Guardado con éxito</string>
-    <string name="sport_share_success">Compartido exitosamente</string>
+    <string name="sport_share_fail">"No se pudo compartir. Inténtalo otra vez"</string>
+    <string name="sport_share_save_local">Guardada</string>
+    <string name="sport_share_save_local_fail">"No se pudo guardar. Inténtalo otra vez."</string>
+    <string name="sport_share_save_local_success">Guardado</string>
+    <string name="sport_share_success">Compartido</string>
     <string name="sport_share_title">Compartir</string>
     <string name="sport_step_average_frequency">Media</string>
     <string name="sport_step_max_frequency">El más alto</string>
@@ -1464,7 +1464,7 @@ datos de sueño"</string>
     <string name="stand_notice_title6">¿Te has puesto de pie en la última hora?</string>
     <string name="stand_remind_setting_desc">Recibe un recordatorio para ponerte de pie después de 1 hora de inactividad</string>
     <string name="stand_setting">Ajustes</string>
-    <string name="stand_stop_reminding">"No mostrar de nuevo"</string>
+    <string name="stand_stop_reminding">"No mostrar otra vez"</string>
     <string name="standard_format">(standard: %1s)</string>
     <string name="standing_already">"Te pusiste de pie"</string>
     <string name="start_cycling">Empieza a pedalear</string>
@@ -1506,7 +1506,7 @@ datos de sueño"</string>
     <string name="sync_is_off">La sincronización está desactivada</string>
     <string name="sync_set_network">Configuración de red</string>
     <string name="sync_status">Estado de sincronización</string>
-    <string name="sync_status_failure_retry">"No se pudo sincronizar. Espere un minuto o dos e inténtelo de nuevo."</string>
+    <string name="sync_status_failure_retry">"No se pudo sincronizar. Espera un par de minutos e inténtalo otra vez."</string>
     <string name="sync_status_in_progress">Sincronizando…</string>
     <string name="sync_status_network_failure">"No se pudo sincronizar. Conéctese a la red y vuelve a intentarlo."</string>
     <string name="sync_status_never_done">No sincronizado</string>
@@ -1646,8 +1646,8 @@ datos de sueño"</string>
     <string name="tb_stand_wm_column_click">%1$s. Pausas de pie: %2$d. %3$s.</string>
     <string name="tb_step_widget" formatted="false">Hoy. %1$s. Progreso: %2$d%</string>
     <string name="tb_unmultiple_selecte_all">Desmarcar todos</string>
-    <string name="tb_user_account_signed">Cuenta Mi: %1$s.</string>
-    <string name="tb_user_account_unsigned">Toca para iniciar sesión en Cuenta Mi</string>
+    <string name="tb_user_account_signed">Cuenta Xiaomi: %1$s.</string>
+    <string name="tb_user_account_unsigned">Pulsa para iniciar sesión en la cuenta Xiaomi</string>
     <string name="tb_user_sleep_card_info">Meta de sueño diario: %1$s.</string>
     <string name="tb_user_sleep_target_btn">Cambiar meta de sueño</string>
     <string name="tb_user_step_card_info">Meta diaria: %1$s, aproximadamente %2$so %3$s.</string>
@@ -1808,7 +1808,7 @@ Novedades:
     <string name="weight_setting">Configuraciones de peso</string>
     <string name="weight_trend_offset_date">"De %1$s a %2$s:"</string>
     <string name="weight_unit_kg">KG</string>
-    <string name="welcome_back">¡Bienvenido de nuevo!</string>
+    <string name="welcome_back">¡Te damos la bienvenida otra vez!</string>
     <string name="welcome_exercise">Track workouts</string>
     <string name="welcome_exercise_description">Carry your device with you to track workouts automatically</string>
     <string name="welcome_sedentary">Keep moving</string>

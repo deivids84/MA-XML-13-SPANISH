@@ -64,7 +64,7 @@
     <string name="input_method_clipboard_clear_all_button">Borrar todo</string>
     <string name="input_method_clipboard_clear_all_phrase_des">¿Borrar todos los elementos de su portapapeles?</string>
     <string name="input_method_clipboard_clear_all_phrase_title">Borrar el portapapeles</string>
-    <string name="input_method_clipboard_copy_success">Copiado con éxito</string>
+    <string name="input_method_clipboard_copy_success">Copiado</string>
     <string name="input_method_clipboard_delete_success">Eliminado correctamente</string>
     <string name="input_method_clipboard_move_cursor_guide1">Mantenga presionada el área azul para mover el cursor</string>
     <string name="input_method_clipboard_move_cursor_guide2">Mueve tu dedo horizontalmente</string>

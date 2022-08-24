@@ -29,8 +29,8 @@
         <item quantity="one">en 1 min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
-        <item quantity="one">Justo ahora</item>
-        <item quantity="other">Justo ahora</item>
+        <item quantity="one">Ahora mismo</item>
+        <item quantity="other">Ahora mismo</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">hace %d mins</item>
@@ -41,8 +41,8 @@
         <item quantity="one">Hace %1$d día</item>
     </plurals>
     <plurals name="download_done_info_for_sys_content">
-        <item quantity="other">%1$d elementos descargados con éxito</item>
-        <item quantity="one">%1$d elemento descargado con éxito</item>
+        <item quantity="other">%1$d elementos descargados</item>
+        <item quantity="one">%1$d elemento descargado</item>
     </plurals>
     <plurals name="download_fail_info_for_sys_content">
         <item quantity="other">"No se pudieron descargar %1$d elementos"</item>
@@ -85,8 +85,8 @@
         <item quantity="one">en 1 minuto</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
-        <item quantity="one">Justo ahora</item>
-        <item quantity="other">Justo ahora</item>
+        <item quantity="one">Ahora mismo</item>
+        <item quantity="other">Ahora mismo</item>
     </plurals>
     <plurals name="mins_ago">
         <item quantity="other">Hace %1$d min</item>
@@ -117,8 +117,8 @@
         <item quantity="one">%1$d elemento</item>
     </plurals>
     <plurals name="upload_done_info_for_sys_content">
-        <item quantity="other">%1$d elementos subidos con éxito</item>
-        <item quantity="one">%1$d elemento subido con éxito</item>
+        <item quantity="other">%1$d elementos subidos</item>
+        <item quantity="one">%1$d elemento subido</item>
     </plurals>
     <plurals name="upload_fail_info_for_sys_content">
         <item quantity="other">"No se pudieron subir %1$d elementos"</item>

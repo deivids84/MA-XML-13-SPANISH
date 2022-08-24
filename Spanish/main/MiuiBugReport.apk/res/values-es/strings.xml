@@ -27,9 +27,9 @@
     <string name="abc_shareactionprovider_share_with">Compartir con</string>
     <string name="abc_shareactionprovider_share_with_application">Compartir con %s</string>
     <string name="abc_toolbar_collapse_description">Ocultar</string>
-    <string name="access_denied_info">Demasiados intentos. Espere uno o dos minutos y vuelva a intentarlo.</string>
+    <string name="access_denied_info">Demasiados intentos. Espera un par de minutos e inténtalo otra vez.</string>
     <string name="account_crop_user_avatar">Recortar foto</string>
-    <string name="account_empty_user_name">Introduce el nombre de usuario de tu Cuenta Mi</string>
+    <string name="account_empty_user_name">Nombre de usuario de tu cuenta Xiaomi</string>
     <string name="account_error_all_space_user_name">"El nombre de usuario no puede estar formado solo por espacios"</string>
     <string name="account_error_invalid_user_name">"El nombre no puede contener &lt;, &gt;, o /"</string>
     <string name="account_error_longer_user_name">"El nombre no puede superar los 20 caracteres"</string>
@@ -50,7 +50,7 @@
     <string name="account_user_details">Información personal</string>
     <string name="account_user_email">Correo electrónico de recuperación</string>
     <string name="account_user_gender">Sexo</string>
-    <string name="account_user_id">ID de Cuenta Mi</string>
+    <string name="account_user_id">ID de la cuenta Xiaomi</string>
     <string name="account_user_name">Nombre de usuario</string>
     <string name="account_user_name_dialog_title">Introduce nombre de usuario</string>
     <string name="account_user_phone">Teléfono de recuperación</string>
@@ -66,10 +66,10 @@
     <string name="app_label">Comentarios</string>
     <string name="app_name">Comentarios</string>
     <string name="app_search">Buscar aplicaciones</string>
-    <string name="auth_fail_warning">Sesión expirada. Inicia sesión de nuevo.</string>
+    <string name="auth_fail_warning">Sesión caducada. Iníciala otra vez.</string>
     <string name="back">Atrás</string>
     <string name="btn_send">Enviar</string>
-    <string name="bugreport_dialog_not_show_again">"No mostrar de nuevo"</string>
+    <string name="bugreport_dialog_not_show_again">"No mostrar otra vez"</string>
     <string name="bugreport_dialog_submit_content">&lt;Data&gt;Estás guardando registros de software en este dispositivo ahora. Los registros pueden contener información personal y tus datos de ubicación. No compartas registros con nadie más si no deseas que esta información quede expuesta. Al seleccionar \"Acepto\", significa que has leído y aceptado nuestra &lt;a href=\"%1$s\"&gt;Política de privacidad&lt;/a&gt; y el &lt;a href=\"%2$s\"&gt;Acuerdo de usuario&lt;/a&gt;.&lt;/Data&gt;</string>
     <string name="bugreport_dump_complete_notification_summary">Pulsa para ver.</string>
     <string name="bugreport_dump_complete_notification_title">Informe de errores creado</string>
@@ -113,7 +113,7 @@
     <string name="catch_full_log_privacy_content_camera">"Estás generando registros y guardándolos en tu dispositivo. Los registros pueden contener información sobre el uso de la cámara (incluida la frecuencia de la CPU, la llamada al sistema, el uso de la memoria, etc.). Tenga cuidado y no revele estos registros a otras personas. Al tocar \"Aceptar\" a continuación, acepta que recopilaremos los datos anteriores mientras generamos registros y luego cargaremos los registros en nuestros servidores para localizar y resolver los problemas que nos informe."</string>
     <string name="catch_full_log_privacy_content_charge">"Estás generando registros y guardándolos en tu dispositivo. Los registros pueden contener estadísticas de carga. Tenga cuidado y no revele estos registros a otras personas. Al tocar \"Aceptar\" a continuación, acepta que recopilaremos los datos anteriores mientras generamos registros y luego cargaremos los registros en nuestros servidores para localizar y resolver los problemas que nos informe."</string>
     <string name="catch_full_log_privacy_content_gps">"Estás generando registros y guardándolos en tu dispositivo. Los registros podrían contener tu información personal y de ubicación. Ten cuidado y no muestres estos registros a otras personas. Al pulsar \"Aceptar\", estás aceptando que recojamos los datos generados con los registros y después subamos los registros a nuestros servidores con el objetivo de localizar y solucionar el problema que reportas."</string>
-    <string name="catch_full_log_privacy_content_sensor">"Estás generando registros y guardándolos en tu dispositivo. Los registros podrían contener información recogida por los sensores de tu dispositivo (incluyendo el sensor de luz ambiental, barómetro, podómetro, magnetómetro, etc). Ten cuidado y no muestres estos registros a otras personas. Al pulsar \"Aceptar\", estás aceptando que recojamos los datos generados con los registros y después subamos los registros a nuestros servidores con el objetivo de localizar y solucionar el problema que reportas."</string>
+    <string name="catch_full_log_privacy_content_sensor">"Estás generando registros y guardándolos en el dispositivo. Pueden contener información sobre los sensores del dispositivo (incluyendo luz ambiental, barómetro, podómetro, magnetómetro, etc.). Ten cuidado y no reveles estos registros a nadie. Al pulsar \"Aceptar\", admites que se recopilen esos datos al generar los registros que, después, se cargarán en nuestros servidores para localizar y resolver los problemas que reportas."</string>
     <string name="catch_full_log_privacy_content_sensor_pad">"Estás generando registros y guardándolos en el dispositivo. Pueden contener información sobre los sensores del dispositivo (incluyendo luz ambiental, barómetro, podómetro, magnetómetro, etc.). Ten cuidado y no reveles estos registros a nadie. Al pulsar \"Aceptar\", admites que se recopilen esos datos al generar los registros que, después, se cargarán en nuestros servidores para localizar y resolver los problemas que reportas."</string>
     <string name="catch_full_log_privacy_content_signal">"Estás generando registros y guardándolos en tu dispositivo. Los registros podrían contener tus mensajes, historial de llamadas, información de red y datos de comunicación. Ten cuidado y no muestres estos registros a otras personas. Al pulsar \"Aceptar\", estás aceptando que recojamos los datos generados con los registros y después subamos los registros a nuestros servidores con el objetivo de localizar y solucionar el problema que reportas."</string>
     <string name="catch_full_log_privacy_content_trace">"Estás generando registros y guardándolos en tu dispositivo. Los registros pueden contener estadísticas de uso de la aplicación (incluida la frecuencia de la CPU, la llamada al sistema, el uso de la memoria, etc.). Tenga cuidado y no revele estos registros a otras personas. Al tocar \"Aceptar\" a continuación, acepta que recopilaremos los datos anteriores mientras generamos registros y luego cargaremos los registros en nuestros servidores para localizar y resolver los problemas que nos informe."</string>
@@ -142,9 +142,9 @@
     <string name="date_time_picker_dialog_title">Ajustar fecha y hora</string>
     <string name="description">Describe el problema</string>
     <string name="diagnosis_log_send_failed">"No se pudo enviar los registros. Vuelve a intentarlo."</string>
-    <string name="diagnosis_log_sent_format">"Registros enviados con éxito.
+    <string name="diagnosis_log_sent_format">"Los registros se han enviado.
 ID:%s
-Envía este código al supervisor."</string>
+Remite este código al supervisor."</string>
     <string name="discard_draft_dialog_button_cancel">Permanecer</string>
     <string name="discard_draft_dialog_button_discard">Descartar</string>
     <string name="discard_draft_dialog_content">"Todos los cambios realizados en este informe se perderán."</string>
@@ -172,10 +172,10 @@ Envía este código al supervisor."</string>
     <string name="err_type_translate">Idioma</string>
     <string name="err_type_xiaomi_family">Xiaomi Home</string>
     <string name="err_type_xiaomi_service">Servicio al cliente</string>
-    <string name="error_dup_binded_email">Esta dirección de correo electrónico ya está asociada con otra Cuenta Mi.</string>
+    <string name="error_dup_binded_email">Esta dirección de correo electrónico ya está asociada con otra cuenta Xiaomi.</string>
     <string name="error_invalid_bind_address">La dirección de correo electrónico introducida no es válida.</string>
     <string name="evening">Tarde</string>
-    <string name="exceed_binded_phone_times_notice">Este número de teléfono ya está asociado con otra Cuenta Mi.</string>
+    <string name="exceed_binded_phone_times_notice">Este número de teléfono ya está asociado con otra cuenta Xiaomi.</string>
     <string name="expand_button_title">Avanzado</string>
     <string name="facebook_login_btn_content_description">Iniciar sesión con Facebook</string>
     <string name="failed_to_fetch_fql">"No se pudo obtener la información de las preguntas frecuentes, revisa tu conexión de red"</string>
@@ -223,13 +223,13 @@ Envía este código al supervisor."</string>
     <string name="feedback_edit_popup_window_related_title">Esto podría ser relevante</string>
     <string name="feedback_empty_report_list">Sin reportes</string>
     <string name="feedback_guess">Nuestra conjetura:</string>
-    <string name="feedback_history_remind_login_desc">"Inicia sesión en Cuenta Mi para ver los detalles y el estado de tus reportes"</string>
+    <string name="feedback_history_remind_login_desc">"Inicia sesión en tu cuenta Xiaomi para ver los detalles y el estado de tu informe"</string>
     <string name="feedback_id">ID: %d</string>
     <string name="feedback_jira_key">Clave JIRA: %s</string>
     <string name="feedback_jira_key_place_holder">Creando un Jira…</string>
     <string name="feedback_package_log_failed">"No se pudieron comprimir los registros"</string>
     <string name="feedback_remind_login_btn">Iniciar sesión</string>
-    <string name="feedback_report_remind_login_desc">Inicia sesión en Cuenta Mi para que nuestros ingenieros puedan contactar contigo.</string>
+    <string name="feedback_report_remind_login_desc">Inicia sesión en tu cuenta Xiaomi para que nuestros ingenieros puedan contactar contigo.</string>
     <string name="feedback_report_remind_login_desc2">"También puedes ver el progreso de tu informe en Mis comentarios."</string>
     <string name="feedback_reproductivity_everytime">Siempre</string>
     <string name="feedback_reproductivity_occasionally">De vez en cuando</string>
@@ -264,20 +264,20 @@ Envía este código al supervisor."</string>
     <string name="feedback_status_replyed">Respondido</string>
     <string name="feedback_status_reresolved">Resuelto</string>
     <string name="feedback_status_save_log_info_failed">"No se pudo cambiar el archivo adjunto"</string>
-    <string name="feedback_status_submit_attachment">El elemento adjunto se envió con éxito</string>
+    <string name="feedback_status_submit_attachment">El archivo adjunto se ha enviado</string>
     <string name="feedback_status_submit_bbs_failed">"No se pudo enviar el contenido de los comentarios"</string>
     <string name="feedback_status_submit_feedback_failed">"No se pudo enviar los comentarios"</string>
     <string name="feedback_status_supplement">Describe tu problema lo más detalladamente posible</string>
     <string name="feedback_status_supplement_more">Añadir comentario</string>
     <string name="feedback_status_upload_log_failed">"No se pudo subir el adjunto"</string>
     <string name="feedback_submit_failed_notification_desc">Ver detalles</string>
-    <string name="feedback_submit_failed_notification_retry">Enviar de nuevo</string>
+    <string name="feedback_submit_failed_notification_retry">Enviar otra vez</string>
     <string name="feedback_submit_failed_notification_title">"No se pudo enviar el reporte"</string>
     <string name="feedback_submit_hint">Reporta incidencias cada vez que encuentres problemas para ayudarnos a resolverlos más rápido.</string>
     <string name="feedback_submit_hint1">"Te notificaremos sobre el estado de tus reportes"</string>
     <string name="feedback_submit_hint2">Ir a Mis comentarios para ver detalles</string>
     <string name="feedback_submit_hint_gone">Mensaje cerrado</string>
-    <string name="feedback_submit_succ">Enviado con éxito</string>
+    <string name="feedback_submit_succ">Enviado</string>
     <string name="feedback_submit_succ_button">Listo</string>
     <string name="feedback_submitting">Enviando</string>
     <string name="feedback_suggestion_status_change_notification_desc">%1$s sugerencia \"%2$s\"</string>
@@ -300,7 +300,7 @@ Envía este código al supervisor."</string>
     <string name="friday">Viernes</string>
     <string name="friday_short">Vie</string>
     <string name="friday_shortest">Vie</string>
-    <string name="get_phone_verifycode_exceed_limit">Se han enviado demasiados códigos de verificación a este número. Espera 24 horas y prueba de nuevo.</string>
+    <string name="get_phone_verifycode_exceed_limit">Enviados demasiados códigos de verificación a este número. Espera 24 horas e inténtalo otra vez.</string>
     <string name="google_login_btn_content_description">Iniciar sesión con Google</string>
     <string name="goon_feedback_main">Continuar</string>
     <string name="header_help">Ayuda</string>
@@ -315,7 +315,7 @@ Envía este código al supervisor."</string>
     <string name="jump_full_log_dialog_title">Generar registros</string>
     <string name="kr_authorization_agree">Aceptar</string>
     <string name="kr_authorization_contact">Cuentas</string>
-    <string name="kr_authorization_contact_desc">Para acceder a la información de la Cuenta Mi e identificar el dispositivo</string>
+    <string name="kr_authorization_contact_desc">Para acceder a la información de la cuenta Xiaomi e identificar el dispositivo</string>
     <string name="kr_authorization_exit">Salir</string>
     <string name="kr_authorization_function">Para enviar comentarios, generar registros y ver preguntas frecuentes</string>
     <string name="kr_authorization_log_protocol">Protocolo de registro (opcional)</string>
@@ -337,7 +337,7 @@ Envía este código al supervisor."</string>
     <string name="loading_apps">Cargando lista…</string>
     <string name="login_by_local_phone_long_text">Iniciar sesión ahora</string>
     <string name="login_by_local_phone_short_text">Iniciar sesión</string>
-    <string name="login_other">Otra cuenta Mi</string>
+    <string name="login_other">Otra cuenta Xiaomi</string>
     <string name="login_register_by_local_phone_long_text">Crear una cuenta</string>
     <string name="login_with_sns">Otras formas de iniciar sesión</string>
     <string name="logo_title">Comentarios</string>
@@ -369,7 +369,7 @@ Envía este código al supervisor."</string>
     <string name="miuix_indexer_collect">Colecciones</string>
     <string name="miuix_indexer_selected">Seleccionado %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Desliza hacia abajo para actualizar</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado con éxito</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualizando…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Suelta para actualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Eso es todo por ahora"</string>
@@ -445,7 +445,7 @@ Envía este código al supervisor."</string>
     <string name="morning">Mañana</string>
     <string name="net_error_info">Sin conexión de red, pulsa aquí para ir a los Ajustes</string>
     <string name="network_err">"No se puede conectar a la red."</string>
-    <string name="network_error_info">Ocurrió un error de red. Verifique su configuración de red y vuelva a intentarlo.</string>
+    <string name="network_error_info">Ocurrió un error de red. Comprueba los ajustes de red e inténtalo otra vez.</string>
     <string name="network_timeout_info">"No se pudo conectar a la red. Intentar otra vez."</string>
     <string name="network_unavailable_dialog_button_ok">OK </string>
     <string name="network_unavailable_dialog_content">Tu informe se enviará cuando la conexión a internet esté disponible.</string>
@@ -490,7 +490,7 @@ Envía este código al supervisor."</string>
     <string name="passport_error_no_password_user">"Aún no has establecido la contraseña. Inicia sesión con SMS."</string>
     <string name="passport_error_phone">El número de teléfono no es válido</string>
     <string name="passport_error_server">Error de servidor</string>
-    <string name="passport_error_sms_limit">Se han enviado demasiados códigos de verificación a este número. Inténtalo otra vez más tarde.</string>
+    <string name="passport_error_sms_limit">Se han enviado demasiados códigos de verificación a este número. Inténtalo más tarde.</string>
     <string name="passport_error_ticket_invalid">El código no es correcto</string>
     <string name="passport_error_timeout_network_error">Se ha excedido el tiempo de espera</string>
     <string name="passport_error_token_expired">El código ha caducado. Inténtalo otra vez.</string>
@@ -524,11 +524,11 @@ Envía este código al supervisor."</string>
     <string name="passport_quick_login_title">Introduce tu contraseña</string>
     <string name="passport_reging">Creando cuenta…</string>
     <string name="passport_register_restricted">Se han asociado demasiadas cuentas a este número. Prueba con uno distinto.</string>
-    <string name="passport_relogin_notice">Debe iniciar sesión de nuevo</string>
+    <string name="passport_relogin_notice">Debes iniciar la sesión otra vez</string>
     <string name="passport_resend_ticket">Enviar el código otra vez</string>
     <string name="passport_retry">Intentarlo otra vez</string>
     <string name="passport_send_sms_to">Se ha enviado el código a %1$s</string>
-    <string name="passport_send_too_many_code">Se han enviado demasiados códigos de verificación a este número. Espera 24 horas y prueba de nuevo.</string>
+    <string name="passport_send_too_many_code">Enviados demasiados códigos de verificación a este número. Espera 24 horas e inténtalo otra vez.</string>
     <string name="passport_sending_vcode">Enviando código…</string>
     <string name="passport_set_password">Establecer contraseña</string>
     <string name="passport_set_password_no_phone_msg">Añade tu número de teléfono para proteger tu cuenta.</string>
@@ -540,7 +540,7 @@ Envía este código al supervisor."</string>
     <string name="passport_to_forget_password">¿Has olvidado la contraseña?</string>
     <string name="passport_to_password_login">Iniciar sesión con contraseña</string>
     <string name="passport_to_verify_code_login">Iniciar sesión con un SMS</string>
-    <string name="passport_unknow_host_network_error">Comprueba la configuración de red y vuelve a intentarlo</string>
+    <string name="passport_unknow_host_network_error">Comprueba los ajustes de red e inténtalo otra vez</string>
     <string name="passport_user_id_hint">Correo/teléfono/ID de cuenta Xiaomi</string>
     <string name="passport_user_id_intro">Introduce la contraseña para %1$s</string>
     <string name="passport_user_password_hint">Contraseña</string>
@@ -552,7 +552,7 @@ Envía este código al supervisor."</string>
     <string name="phone_auto_login_register_with_local_number">Crear una cuenta</string>
     <string name="photoPickerNotFoundText">No hay fotos disponibles.</string>
     <string name="please_agree_protocal">Por favor acuerde el protocolo</string>
-    <string name="please_download_gallery">por favor descarga la galería</string>
+    <string name="please_download_gallery">Instalar Galería</string>
     <string name="pm">PM</string>
     <string name="post_miui_bbs_failed">"No se pudo publicar en el Foro MIUI"</string>
     <string name="preference_copied">\"%1$s\" se ha copiado en el portapapeles.</string>
@@ -579,13 +579,13 @@ Lea y acepte la nueva versión de %3$s antes de continuar."</string>
     <string name="request_camera_permission_message">"Protegeremos su información personal de acuerdo con las leyes y regulaciones pertinentes. Esta aplicación necesita los siguientes permisos para funcionar normalmente:&lt;br&gt;&lt;br&gt;&lt;b&gt;Uso de la cámara (para configurar su foto de perfil)&lt;/b&gt;&lt;br&gt;&lt;br&gt;Si no acepta otorgar dichos permisos, no podrá utilizar algunas funciones de esta aplicación; sin embargo, su funcionalidad básica seguirá estando disponible para usted. Siempre puede restringir los permisos o revocar su autorización en la Configuración."</string>
     <string name="request_cancel">Cancelar</string>
     <string name="request_error_invalid_token">"No se pudo verificar"</string>
-    <string name="request_error_network">Ocurrió un error de red. Verifique su configuración de red y vuelva a intentarlo.</string>
-    <string name="request_error_unknown">Ocurrió un error del sistema. Vuelve atrás e inténtalo de nuevo.</string>
+    <string name="request_error_network">Ocurrió un error de red. Comprueba los ajustes de red e inténtalo otra vez.</string>
+    <string name="request_error_unknown">Ocurrió un error del sistema. Vuelve atrás e inténtalo otra vez.</string>
     <string name="request_gallery_permission_message">Permitir el acceso a la Galería:&lt;br /&gt;Para configurar fotos de perfil</string>
     <string name="resend_active_email">Reenviar</string>
     <string name="resend_email_reach_limit_message">"Has solicitado demasiados correos de verificación. Asegúrate de que el mensaje de verificación no está en la carpeta de correo no deseado."</string>
     <string name="resend_email_reach_limit_title">Demasiados intentos</string>
-    <string name="resend_email_success">Enviado con éxito</string>
+    <string name="resend_email_success">Enviado</string>
     <string name="same_new_and_old_pwd">"No puede ser la misma que la contraseña actual"</string>
     <string name="saturday">Sábado</string>
     <string name="saturday_short">Sáb</string>
@@ -595,11 +595,11 @@ Lea y acepte la nueva versión de %3$s antes de continuar."</string>
     <string name="section_screenshot">Captura de pantalla</string>
     <string name="send">Enviar</string>
     <string name="send_diagnosis_log">Enviar registros</string>
-    <string name="send_email_activate_message">Correo electrónico de verificación enviado con éxito</string>
+    <string name="send_email_activate_message">Correo electrónico de verificación enviado</string>
     <string name="service_error">Error de servidor</string>
-    <string name="service_unavailiable">"No se pudo obtener la información, inténtalo de nuevo más tarde"</string>
+    <string name="service_unavailiable">"No se pudo obtener la información, inténtalo más tarde"</string>
     <string name="skip_query_account">Saltar</string>
-    <string name="sns_access_token_expired_warning">La sesión ha expirado. Inicia sesión de nuevo para volver a conectar esta cuenta.</string>
+    <string name="sns_access_token_expired_warning">Sesión caducada. Iníciala otra vez para conectar esta cuenta.</string>
     <string name="sns_bind_limit">Demasiados intentos. Prueba otras formas de iniciar sesión.</string>
     <string name="sns_sign_in">Otras formas de iniciar sesión</string>
     <string name="solar_term_autumn_begins">Comienzo del Otoño</string>
@@ -632,10 +632,10 @@ Lea y acepte la nueva versión de %3$s antes de continuar."</string>
     <string name="stop_full_log_dialog_title">Generando registros…</string>
     <string name="submit_dialog_cancel">"No aceptar"</string>
     <string name="submit_dialog_confirm">Aceptar</string>
-    <string name="submit_dialog_content">&lt;Data&gt;[Lee y acepta nuestra &lt;a href=\"%1$s\"&gt;Política de Privacidad&lt;/a&gt; y &lt;a href=\"%2$s\"&gt;Acuerdo de Usuario&lt;/a&gt; antes de enviar comentarios. Los problemas de los que informes junto con los elementos que adjuntes (incluidos los registros que podrían contener información personal, así como la información sobre tu dispositivo y red) serán subidos a los servidores de MIUI. Esto nos ayudará a localizar y resolver los problemas de los que nos informes. Si informas de problemas relacionados con varios dispositivos, también se subirán los registros de otros dispositivos en los que utilizas tu Cuenta Mi.&lt;/Data&gt;</string>
+    <string name="submit_dialog_content"><Data>\"Lee y acepta nuestra &lt;a href=\"%1$s\"&gt;Política de Privacidad&lt;/a&gt; y el &lt;a href=\"%2$s\"&gt;Acuerdo de Usuario&lt;/a&gt; antes de enviar comentarios. Los problemas que reportes así como los elementos que adjuntes (incluidos los registros que puedan contener información personal e información sobre tu dispositivo y red) serán enviados a los servidores de MIUI. Esto nos ayudará a localizar y resolver dichos problemas. Si informas de problemas relacionados con varios dispositivos, también se enviarán los registros de otros dispositivos en los que utilizas tu cuenta Xiaomi.\"</Data></string>
     <string name="submit_dialog_content_global">&lt;Data&gt;Tus comentarios, junto con los archivos adjuntos (si los hubiese) y los registros (puedes desmarcar las casillas correspondientes de los elementos que no quieres subir), se enviarán a los servidores de MIUI. Los registros podrían contener información personal y tus datos de ubicación. Seleccionando \"Aceptar\" significa que has leído y aceptado nuestra &lt;a href=\"%1$s\"&gt;Política de Privacidad&lt;/a&gt; y &lt;a href=\"%2$s\"&gt;Acuerdo de Usuario&lt;/a&gt;.&lt;/Data&gt;</string>
     <string name="submit_dialog_content_global_with_contactinfo"><Data>\"Sus comentarios, junto con los archivos adjuntos (si los hay), los registros (puede desmarcar las casillas correspondientes de los elementos que no desea cargar), el número de teléfono o el correo electrónico se enviarán a los servidores de MIUI. Los registros pueden contener información personal y sus datos de ubicación. Si selecciona \"Acepto\", significa que ha leído y aceptado nuestra &lt;a href=\"%1$s\"&gt;Política de privacidad&lt;/a&gt; y &lt;a href=\"%2$s\"&gt;Acuerdo de usuario&lt;/a&gt;\".</Data></string>
-    <string name="submit_dialog_not_show_again">"No mostrar de nuevo"</string>
+    <string name="submit_dialog_not_show_again">"No mostrar otra vez"</string>
     <string name="submit_dialog_title">Enviar reporte</string>
     <string name="submit_feedback_info_failed">"No se pudo enviar el reporte"</string>
     <string name="suggest_upload_log_dialog_cancel">No, gracias</string>
@@ -647,7 +647,7 @@ Lea y acepte la nueva versión de %3$s antes de continuar."</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
     <string name="system_app_select">Aplicaciones incorporadas</string>
-    <string name="system_error_info">El sistema está ocupado. Espere uno o dos minutos y vuelva a intentarlo.</string>
+    <string name="system_error_info">El sistema está ocupado. Espera un par de minutos e inténtalo otra vez.</string>
     <string name="tab_title_chat">Preguntas frecuentes</string>
     <string name="tab_title_my_reports">Mis comentarios</string>
     <string name="tab_title_preferences">Ajustes</string>
@@ -751,13 +751,13 @@ Tamaño: %2$s"</string>
     <string name="user_agreement_hint_3rd_app_mobile"><Data>\"Leí y acepté &lt;a href=\"%1$s\"&gt;Acuerdo de usuario&lt;/a&gt; y &lt;a href=\"%2$s\"&gt;Política de privacidad&lt;/a&gt;, Acuerdo de usuario &lt;a href=\"%3$s\"&gt;Mi Cuenta&lt;/a&gt; y &lt;a href=\"%4$s\"&gt;Política de privacidad&lt;/a&gt;, así como &lt;a href=\"%5$s\"&gt;Términos y condiciones de los servicios de verificación de China Mobile&lt;/a&gt;\".</Data></string>
     <string name="user_agreement_hint_3rd_app_with_telecom"><Data>\"Leí y acepté &lt;a href=\"%1$s\"&gt;Acuerdo de usuario&lt;/a&gt; y &lt;a href=\"%2$s\"&gt;Política de privacidad&lt;/a&gt;, Acuerdo de usuario &lt;a href=\"%3$s\"&gt;Mi Cuenta&lt;/a&gt; y &lt;a href=\"%4$s\"&gt;Política de privacidad&lt;/a&gt;, así como &lt;a href=\"%5$s\"&gt;Términos y condiciones de los servicios de verificación de cuenta de eSurfing&lt;/a&gt;\".</Data></string>
     <string name="user_agreement_hint_3rd_app_with_unicom"><Data>\"Leí y acepté &lt;a href=\"%1$s\"&gt;Acuerdo de usuario&lt;/a&gt; y &lt;a href=\"%2$s\"&gt;Política de privacidad&lt;/a&gt;, Acuerdo de usuario &lt;a href=\"%3$s\"&gt;Mi Cuenta&lt;/a&gt; y &lt;a href=\"%4$s\"&gt;Política de privacidad&lt;/a&gt;, así como &lt;a href=\"%5$s\"&gt;Términos y condiciones de los servicios de verificación de China Unicom&lt;/a&gt;\".</Data></string>
-    <string name="user_agreement_hint_default"><Data>\"He leído y acepto de Cuenta Mi &lt;a href=\"%1$s\"&gt;Acuerdo de usuario&lt;/a&gt; y &lt;a href=\"%2$s\"&gt;de Privacidad Política de&lt;/a&gt;\".</Data></string>
+    <string name="user_agreement_hint_default"><Data>\"He leído y acepto el &lt;a href=\"%1$s\"&gt;Acuerdo de Usuario&lt;/a&gt; y la &lt;a href=\"%2$s\"&gt;Política de Privacidad&lt;/a&gt; de mi cuenta Xiaomi.\"</Data></string>
     <string name="user_agreement_hint_default_1"><Data>Leer y aceptar el &lt;a href=\"%1$s\"&gt;Acuerdo de usuario&lt;/a&gt; y &lt;a href=\"%2$s\"&gt;Política de privacidad.&lt;/a&gt;</Data></string>
     <string name="user_agreement_hint_default_extra"><Data>\"He leído y acepto el &lt;a href=\"%1$s\"&gt;Acuerdo de usuario&lt;/a&gt; y la Política de privacidad &lt;a href=\"%2$s\"&gt;&lt;/a&gt; El primer inicio de sesión creará automáticamente una cuenta Xiaomi\"</Data></string>
     <string name="user_agreement_hint_first_login">"Crearemos una cuenta automáticamente si está usando su número de teléfono por primera vez."</string>
-    <string name="user_agreement_hint_with_mobile"><Data>\"He leído y acepto de Cuenta Mi &lt;a href=\"%1$s\"&gt;Acuerdo de usuario&lt;/a&gt; y &lt;a href=\"%2$s\"&gt;Política de privacidad&lt;/a&gt;, así como &lt;a href=\"%3$s\"&gt;Condiciones de los servicios de verificación de China Mobile&lt;/a&gt;\".</Data></string>
-    <string name="user_agreement_hint_with_telecom"><Data>\"He leído y acepto de Cuenta Mi &lt;a href=\"%1$s\"&gt;Acuerdo de usuario&lt;/a&gt; y &lt;a href=\"%2$s\"&gt;Política de privacidad&lt;/a&gt;, así como &lt;a href=\"%3$s\"&gt;Condiciones de eSurfing servicios de verificación de cuenta de&lt;/a&gt;\".</Data></string>
-    <string name="user_agreement_hint_with_unicom"><Data>\"He leído y acepto de Cuenta Mi &lt;a href=\"%1$s\"&gt;Acuerdo de usuario&lt;/a&gt; y &lt;a href=\"%2$s\"&gt;Política de privacidad&lt;/a&gt;, así como &lt;a href=\"%3$s\"&gt;Condiciones de China Unicom servicios de verificación de&lt;/a&gt;\".</Data></string>
+    <string name="user_agreement_hint_with_mobile"><Data>\"He leído y acepto el &lt;a href=\"%1$s\"&gt;Acuerdo de Usuario&lt;/a&gt; y la &lt;a href=\"%2$s\"&gt;Política de Privacidad&lt;/a&gt; de mi cuenta Xiaomi, así como las &lt;a href=\"%3$s\"&gt;Condiciones de los Servicios de Verificación de China Mobile&lt;/a&gt;.\"</Data></string>
+    <string name="user_agreement_hint_with_telecom"><Data>\"He leído y acepto el &lt;a href=\"%1$s\"&gt;Acuerdo de Usuario&lt;/a&gt; y la &lt;a href=\"%2$s\"&gt;Política de Privacidad&lt;/a&gt; de mi cuenta Xiaomi, así como las &lt;a href=\"%3$s\"&gt;Condiciones de los servicios de verificación de eSurfing&lt;/a&gt;.\"</Data></string>
+    <string name="user_agreement_hint_with_unicom"><Data>\"He leído y acepto el &lt;a href=\"%1$s\"&gt;Acuerdo de Usuario&lt;/a&gt; y la &lt;a href=\"%2$s\"&gt;Política de Privacidad&lt;/a&gt; de mi cuenta Xiaomi, así como las &lt;a href=\"%3$s\"&gt;Condiciones de los Servicios de Verificación de China Unicom&lt;/a&gt;.\"</Data></string>
     <string name="user_avatar_update_title">Cambiar foto de perfil</string>
     <string name="user_avatar_uploading">Un momento…</string>
     <string name="user_must_known">Atención</string>
@@ -773,8 +773,8 @@ Tamaño: %2$s"</string>
     <string name="withdraw">Retirar</string>
     <string name="withdraw_consent">Retiro del consentimiento</string>
     <string name="withdraw_consent_failed">"No se pudo retirar el consentimiento"</string>
-    <string name="withdraw_consent_failed_hint">Ocurrió un error en el servidor. Espere uno o dos minutos y vuelva a intentarlo.</string>
-    <string name="withdraw_consent_failed_hint_connect_net">Su dispositivo debe conectarse a la red para que pueda retirar el consentimiento. Verifique su configuración de red y vuelva a intentarlo.</string>
+    <string name="withdraw_consent_failed_hint">Ocurrió un error en el servidor. Espera un par de minutos e inténtalo otra vez.</string>
+    <string name="withdraw_consent_failed_hint_connect_net">El dispositivo necesita conexión a la red para retirar el consentimiento. Comprueba los ajustes de red e inténtalo otra vez.</string>
     <string name="withdraw_consent_hint">"Si continúa, retirará su consentimiento a la Política de privacidad de %1$s. La información personal ya recopilada y retenida se eliminará dentro del período específico de acuerdo con las leyes y regulaciones aplicables a menos que se requiera lo contrario. Como %2$s proporciona sus servicios en base a la recopilación de la información personal necesaria, su retiro de consentimiento se considerará como negarse a aceptar %3$s servicios. ¿Retirar el consentimiento ahora?"</string>
     <string name="withdrawing">Retirar el consentimiento…</string>
     <string name="xiaomi_update_sdk_connect_download_manager_fail">Falló la conexion Download Manager, compruebe el estado de Download Manager en la Gestión de aplicaciones.eck the Download Manager state in the Application Management.</string>

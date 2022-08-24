@@ -29,8 +29,8 @@
         <item quantity="one">en 1 min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
-        <item quantity="one">Justo ahora</item>
-        <item quantity="other">Justo ahora</item>
+        <item quantity="one">Ahora mismo</item>
+        <item quantity="other">Ahora mismo</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">Hace %d minutos</item>
@@ -187,8 +187,8 @@
         <item quantity="one">Último %d día</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
-        <item quantity="one">Justo ahora</item>
-        <item quantity="other">Justo ahora</item>
+        <item quantity="one">Ahora mismo</item>
+        <item quantity="other">Ahora mismo</item>
     </plurals>
     <plurals name="minute">
         <item quantity="other">%1$d minutos</item>
@@ -227,8 +227,8 @@
         <item quantity="one">%1$s visualización</item>
     </plurals>
     <plurals name="wechat_copy_video_failed_dialog_msg">
-        <item quantity="other">"No se pudieron exportar %d vídeos. Libera espacio e inténtalo de nuevo"</item>
-        <item quantity="one">"No se pudo exportar %d vídeo. Libera espacio e inténtalo de nuevo."</item>
+        <item quantity="other">"No se pudieron exportar %d vídeos. Libera espacio e inténtalo otra vez."</item>
+        <item quantity="one">"No se pudo exportar %d vídeo. Libera espacio e inténtalo otra vez."</item>
     </plurals>
     <plurals name="wechat_empty_files">
         <item quantity="other">(%1$d archivos vacíos)</item>

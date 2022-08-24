@@ -54,7 +54,7 @@
     <string name="add_custom_category">Personalizar</string>
     <string name="add_screen">Añadir pantalla</string>
     <string name="add_to_workspace">Añadir a la pantalla de inicio</string>
-    <string name="added_all_category">Todas las aplicaciones añadidas con éxito</string>
+    <string name="added_all_category">Se han añadido todas las aplicaciones</string>
     <string name="afternoon">Tarde</string>
     <string name="agree_button">Aceptar</string>
     <string name="alexa_notification_add">Añadir</string>
@@ -76,7 +76,7 @@
     <string name="all_app_category_tools">Herramientas</string>
     <string name="all_app_category_work">Trabajo</string>
     <string name="all_apps">Todas las aplicaciones</string>
-    <string name="all_apps_install_contentcenter_msg">Parece el Centro de contenido fue desinstalado. ¿Instalar de nuevo?</string>
+    <string name="all_apps_install_contentcenter_msg">Parece que el Centro de Contenidos está desinstalado. ¿Instalarlo otra vez?</string>
     <string name="all_apps_install_contentcenter_title">Instalar Centro de contenido</string>
     <string name="all_apps_no_search_results">"No se pudo encontrar resultados"</string>
     <string name="all_apps_search_app">Buscar aplicaciones</string>
@@ -241,7 +241,7 @@
     <string name="close_multi_finger_slide_summary">Estos gestos se ignorarán en algunos escenarios (por ejemplo, reproducción de juegos y videos)</string>
     <string name="close_multi_finger_slide_title">"No responder a gestos de tres y cuatro dedos"</string>
     <string name="cloud_app_restore_title">Pendiente</string>
-    <string name="common_google_play_services_unknown_issue">%1$s estás teniendo problemas con los servicios de Google Play. Inténtalo de nuevo.</string>
+    <string name="common_google_play_services_unknown_issue">%1$s tiene problemas con los servicios de Google Play. Inténtalo otra vez.</string>
     <string name="common_home_search_delete">Eliminar la barra de búsqueda</string>
     <string name="common_home_search_delete_cancle">Cancelar</string>
     <string name="common_home_search_delete_confirm">Eliminar</string>
@@ -519,6 +519,7 @@
     <string name="midnight">Noche</string>
     <string name="minus_one_screen">Bóveda de aplicaciones</string>
     <string name="miui_screen_config_title">Ajustes de Pantalla de inicio</string>
+    <string name="miui_widget_menu_replace_text">Cambiar</string>
     <string name="miuix_access_state_desc">Seleccionado</string>
     <string name="miuix_alphabet_indexer_name">Barra de índice</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deseleccionar</string>
@@ -538,7 +539,7 @@
     <string name="miuix_indexer_collect">Colecciones</string>
     <string name="miuix_indexer_selected">Seleccionado %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Desliza hacia abajo para actualizar</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado con éxito</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualizando…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Suelta para actualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Eso es todo por ahora"</string>
@@ -636,7 +637,7 @@
     <string name="navigation_guide_back_summary_spec_pad">Deslizar desde el borde hacia el centro de la pantalla</string>
     <string name="navigation_guide_back_title">Volver</string>
     <string name="navigation_guide_back_title_spec_with_quotation_pad">Volver</string>
-    <string name="navigation_guide_dialog_dont_show_again">"No mostrar de nuevo"</string>
+    <string name="navigation_guide_dialog_dont_show_again">"No mostrar otra vez"</string>
     <string name="navigation_guide_dialog_ok">Aprender</string>
     <string name="navigation_guide_dialog_skip">Ahora no</string>
     <string name="navigation_guide_dialog_summary">Aprende qué gestos puedes usar para la navegación del sistema.</string>
@@ -689,11 +690,12 @@
     <string name="noon">Mediodía</string>
     <string name="normal_wallpaper">Fondo de pantalla</string>
     <string name="not_set">Sin definir</string>
-    <string name="notification_installed">Instalado con éxito</string>
+    <string name="notification_installed">Instalado</string>
     <string name="notification_open_button">Abrir</string>
-    <string name="notification_reset_title">Iconos organizados con éxito</string>
+    <string name="notification_reset_title">Iconos organizados</string>
     <string name="one_key_call_title">Pulsa para marcar</string>
     <string name="online_wallpaper">Online</string>
+    <string name="open_pad_personal_assistant_settings">Widgets de la pantalla de inicio</string>
     <string name="open_personal_assistant_dialog_btn_cancel">Cancelar</string>
     <string name="open_personal_assistant_dialog_btn_confirm">Desactivar</string>
     <string name="open_personal_assistant_dialog_desc">"Después de desactivar App Vault, no podrá ver ni utilizar los widgets de App Vault. Sus versiones actualizadas tampoco estarán disponibles para usted. ¿Desactivar de todos modos?"</string>
@@ -723,7 +725,7 @@
     <string name="photo_adjust">Vista previa</string>
     <string name="photo_confirm">Establecer</string>
     <string name="photo_load_failed">"No se puede cargar la foto"</string>
-    <string name="please_slide_agian">Deslizar de nuevo</string>
+    <string name="please_slide_agian">Desliza otra vez</string>
     <string name="pm">PM</string>
     <string name="popular_search">Popular</string>
     <string name="pref_cell_layout_size">Diseño de iconos de aplicación</string>
@@ -803,7 +805,7 @@
     <string name="remove_dialog_message">Las aplicaciones seleccionadas contienen funciones esenciales del sistema. Solo puedes eliminar tus accesos directos de la Pantalla de inicio.</string>
     <string name="remove_dialog_title_format">¿Eliminar \"%s\" de la Pantalla de inicio?</string>
     <string name="remove_invalidate_gadget_tips">Uno de los widgets que utilizas ya no está disponible. Puedes añadir otro.</string>
-    <string name="remove_sys_app_content">"Podrás volver a añadir el acceso directo a la Pantalla de inicio en Ajustes &gt; Aplicaciones &gt; Gestionar accesos directos en la Pantalla de inicio. ¿Eliminar ahora?"</string>
+    <string name="remove_sys_app_content">"Podrás añadir el acceso directo, otra vez, en Ajustes &gt; Aplicaciones &gt; Gestionar accesos directos en la Pantalla de inicio. ¿Eliminar ahora?"</string>
     <string name="remove_sys_app_title">¿Eliminar el acceso directo de la Pantalla de inicio?</string>
     <string name="request_permission_msg">POCO Launcher necesita un par de permisos para darte acceso a su funcionalidad completa.</string>
     <string name="request_permission_title">Permisos requeridos</string>
@@ -814,7 +816,7 @@
     <string name="reset_fail">"No se pudo restaurar"</string>
     <string name="reset_scene_prompt">La pantalla volverá al diseño predeterminado.</string>
     <string name="reset_title">Restaurar</string>
-    <string name="restore_icon_successful">Añadido con éxito</string>
+    <string name="restore_icon_successful">Añadido</string>
     <string name="russia_preinstall_folder_name">Rusia</string>
     <string name="saturday">Sábado</string>
     <string name="saturday_short">Sáb</string>
@@ -831,7 +833,7 @@
     <string name="select_frame">Marco</string>
     <string name="select_photo">Foto</string>
     <string name="send">Enviar</string>
-    <string name="server_error">Se produjo un error del servidor. Espera un minuto o dos y vuelve a intentarlo.</string>
+    <string name="server_error">Se produjo un error del servidor. Espera un par de minutos e inténtalo otra vez.</string>
     <string name="service_double_attention">La búsqueda mejorada comparte tus solicitudes, el ID de Google Ads y tu dirección IP con Branch Metrics Inc. Lee y acepta <font color="#B3000000"><a href="http://url1">Términos de usuarios finales &amp; Condiciones</a></font> y <font color="#B3000000"><a href="http://url2">Política de privacidad</a></font> antes de usarla.</string>
     <string name="setting_wallpaper_tip">Ampliar o deslizar para ajustar</string>
     <string name="settings">Ajustes</string>
@@ -840,7 +842,7 @@
     <string name="shake_to_align_icons_summary">Agita tu dispositivo en el modo edición para rellenar automáticamente los espacios vacíos con iconos</string>
     <string name="shake_to_align_icons_title">Agitar para rellenar espacios vacíos</string>
     <string name="share">Compartir</string>
-    <string name="shortcut_share_dialog_content">"Los archivos que envias desde tu teléfono, así como todos sus destinatarios son seleccionados y determinados por ti. Presta atención cuando eliges archivos para compartir y seleccionas destinatarios. No debes usar tu teléfono para transmitir virus, malware, troyanos, u otros objetos dañinos a otra gente. No uses tu télefono para transmitir cualquier software que pueda afectar al uso normal del dispositivo del destinatario o cualquier elemento que pueda dañar, interferir, interceptar o eliminar cualquier dato del sistema o información personal en dispositivos móviles. Serás responsable de cualquier daño causado a otros usuarios o dispositivos móviles. Xiaomi hará todo lo posible para asegurar que la función de compartir, así como la tecnología e información involucrada estén seguras y sean efectivas, precisas y fiables. No obstante, debido a las limitaciones de la tecnología actual, Xiaomi no garantiza que la función de compartir sea perfecta y satisfaga todas tus necesidades."</string>
+    <string name="shortcut_share_dialog_content">"Los archivos que envias desde tu dispositivo, así como todos sus destinatarios son seleccionados y determinados por ti. Presta atención cuando eliges archivos para compartir y seleccionas destinatarios. No debes usar tu dispositivo para transmitir virus, malware, troyanos, u otros objetos dañinos. No uses tu dispositivo para transmitir cualquier software que pueda afectar al uso normal del dispositivo del destinatario o cualquier elemento que pueda dañar, interferir, interceptar o eliminar datos del sistema o información personal en dispositivos móviles. Serás responsable de cualquier daño causado a otros usuarios o dispositivos móviles. Xiaomi hará todo lo posible para asegurar que la función de compartir, así como la tecnología e información involucrada estén seguras y sean efectivas, precisas y fiables. No obstante, debido a las limitaciones de la tecnología actual, Xiaomi no garantiza que la función de compartir sea perfecta y satisfaga todas tus necesidades."</string>
     <string name="shortcut_share_dialog_positive_button">Entendido</string>
     <string name="shortcut_share_dialog_title">Descargo de responsabilidades</string>
     <string name="show_all">Mostrar todo</string>
@@ -888,7 +890,7 @@
     <string name="system_text">Automático</string>
     <string name="task_access_locked_app_msg">Bloqueo de aplicaciones activado</string>
     <string name="term_of_service">Términos y Condiciones</string>
-    <string name="terms_of_services_one">\"Bienvenido al cajón de aplicaciones y al Buscador Rápido. Puedes encontrar aplicaciones, contenido dentro de la aplicación y elementos en línea más rápido. Lee y acepta la \"<font color="#B3000000"><a href="http://url1">Política de privacidad</a></font> de Xiaomi antes de usar esta función.</string>
+    <string name="terms_of_services_one">\"Te damos la bienvenida al Cajón de Aplicaciones y al Buscador Rápido. Puedes encontrar aplicaciones, contenido y elementos en línea más rápido. Lee y acepta la \"<font color="#B3000000"><a href="http://url1">Política de Privacidad</a></font> de Xiaomi antes de usar esta función.</string>
     <string name="terms_of_services_three">Puedes desactivar esta función en Configuración.</string>
     <string name="terms_of_services_two">La búsqueda mejorada comparte información personal, incluidas tus búsquedas, el ID de Google y tu dirección IP con Branch Metrics Inc. que procesará esta información personal de acuerdo con la Política de privacidad de <font color="#B3000000"><a href="http://url1">Branch Discovery</a></font>. Lee y acepta <font color="#B3000000"><a href="http://url2">Términos de usuarios finales &amp; Condiciones</a></font> y <font color="#B3000000"><a href="http://url3">Política de privacidad</a></font> antes de usarla.</string>
     <string name="thursday">Jueves</string>
@@ -924,7 +926,7 @@
     <string name="uninstall_dialog_message">Desinstalar eliminará todos los datos de la aplicación.</string>
     <string name="uninstall_dialog_title_format">¿Desinstalar %s?</string>
     <string name="uninstall_result_failed">"No se puede desinstalar %s"</string>
-    <string name="uninstall_result_succeeded">Desinstalado con éxito</string>
+    <string name="uninstall_result_succeeded">Se ha desinstalado</string>
     <string name="uninstall_with_xspace_dialog_message">Las aplicaciones duales correspondientes se eliminarán junto a los datos de la aplicación.</string>
     <string name="uninstall_xspace_dialog_message">Desinstalar una aplicación dual eliminará todos los datos de la aplicación.</string>
     <string name="uninstall_xspace_dialog_title_format">¿Desinstalar aplicación dual de %s?</string>
@@ -941,7 +943,7 @@
     <string name="wallpaper_scaling_message">Redimensionando a un tamaño fijo</string>
     <string name="wallpaper_scroll_type_tips">Desplazar fondo de pantalla</string>
     <string name="wallpaper_settings">Fondo de pantalla</string>
-    <string name="wallpaper_success_message">Aplicado con éxito</string>
+    <string name="wallpaper_success_message">Aplicado</string>
     <string name="wednesday">Miércoles</string>
     <string name="wednesday_short">Mié</string>
     <string name="wednesday_shortest">Mié</string>

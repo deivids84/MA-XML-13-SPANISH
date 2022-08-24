@@ -31,6 +31,7 @@
     <string name="actionbar_button_up_description">Atrás</string>
     <string name="afternoon">Tarde</string>
     <string name="audio_record_des">Para transmitir audio desde su dispositivo móvil a monitores externos</string>
+    <string name="cast_image_des">Tutorial de fundido</string>
     <string name="casting_tips">Emitiendo…</string>
     <string name="clearable_edittext_clear_description">Eliminar</string>
     <string name="close">Cerrar</string>
@@ -41,9 +42,9 @@
     <string name="config_wifi_label_global">Conferencia Xiaomi Tapcast Wi-Fi</string>
     <string name="connect_device_fail">"No se pudo conectar al dispositivo"</string>
     <string name="console_guide_btn_got_it">Entendido</string>
-    <string name="console_guide_subtitle_hang_up">Puedes seguir emitiendo cuando la pantalla de tu dispositivo está apagada. Esta función disminuye el consumo de energía.</string>
-    <string name="console_guide_subtitle_private">"No mostrar notificaciones flotantes, llamadas entrantes y otros elementos privados en monitores externos"</string>
-    <string name="console_guide_subtitle_small_window">"Minimiza la ventana que está siendo emitida para poder usar otras funciones en tu teléfono"</string>
+    <string name="console_guide_subtitle_hang_up">Puedes seguir emitiendo con la pantalla del dispositivo apagada. Esto reduce el consumo de energía.</string>
+    <string name="console_guide_subtitle_private">"Las notificaciones flotantes, llamadas entrantes y demás elementos privados no se mostrarán en el monitor externo"</string>
+    <string name="console_guide_subtitle_small_window">"Minimiza la ventana que se está emitiendo para usar otras funciones de tu dispositivo"</string>
     <string name="copy">Copiar</string>
     <string name="current_wifi_tv">Red actual</string>
     <string name="date_picker_lunar">Calendario chino tradicional</string>
@@ -52,7 +53,7 @@
     <string name="dialog_can_not_find_device">"No se pudo encontrar dispositivos cercanos"</string>
     <string name="dialog_cancle">Cancelar</string>
     <string name="dialog_connect_fail">"No se pudo conectar"</string>
-    <string name="dialog_connect_retry">Pulsa para intentarlo de nuevo</string>
+    <string name="dialog_connect_retry">Pulsa para intentarlo otra vez</string>
     <string name="dialog_connect_verify_perssion">Autoriza la emisión en tu televisión</string>
     <string name="dialog_connect_verify_perssion_fail">"No se pudo autorizar la emisión en tu televisión. Espera un momento y vuelve a intentarlo."</string>
     <string name="dialog_connected">Conectado</string>
@@ -63,8 +64,8 @@
     <string name="dialog_miplay_permission_positive">Ajustes</string>
     <string name="dialog_miplay_permission_title">Permisos requeridos</string>
     <string name="dialog_nfc_cast_wifi_off">Activa el Wi-Fi para poder emitir usando el NFC. ¿Activar ahora?</string>
-    <string name="dialog_no_device_message"><Data>&lt;xliff:g id=count refersto=1&gt;%1$d&lt;/xliff:g&gt;. Conecte tanto su dispositivo móvil como su televisor a la misma red Wi-Fi.&lt;br&gt;&lt;br&gt;&lt;xliff:g id=count refersto=2&gt;%2$d&lt;/xliff:g&gt;. En algunos modelos de TV, esta función solo está disponible cuando la duplicación de pantalla está activada. Vea &lt;a href=milink://com.milink.service/specification&gt;\"Ayuda\"&lt;/a&gt; para obtener más información.</Data></string>
-    <string name="dialog_no_device_message_china"><Data>&lt;xliff:g id=count refersto=1&gt;%1$d&lt;/xliff:g&gt;. Conecte tanto su dispositivo móvil como su televisor a la misma red Wi-Fi.&lt;br&gt;&lt;br&gt;&lt;xliff:g id=count refersto=2&gt;%2$d&lt;/xliff:g&gt;. En algunos modelos de TV, esta función solo está disponible cuando la duplicación de pantalla está activada. Vea &lt;a href=milink://com.milink.service/specification&gt;\"Ayuda\"&lt;/a&gt; para obtener más información.</Data></string>
+    <string name="dialog_no_device_message"><Data>&lt;xliff:g id=count refersto=1&gt;%1$d&lt;/xliff:g&gt;. Conecta tu dispositivo y el televisor a la misma red Wi-Fi.&lt;br&gt;&lt;br&gt;&lt;xliff:g id=count refersto=2&gt;%2$d&lt;/xliff:g&gt;. En algunos televisores, esta función solo está disponible cuando la duplicación de pantalla está activada. Lee &lt;a href=milink://com.milink.service/specification&gt;\"Ayuda\"&lt;/a&gt; para más información.</Data></string>
+    <string name="dialog_no_device_message_china"><Data>&lt;xliff:g id=count refersto=1&gt;%1$d&lt;/xliff:g&gt;. Conecta tu dispositivo y el televisor a la misma red Wi-Fi.&lt;br&gt;&lt;br&gt;&lt;xliff:g id=count refersto=2&gt;%2$d&lt;/xliff:g&gt;. En algunos televisores, esta función solo está disponible cuando la duplicación de pantalla está activada. Lee &lt;a href=milink://com.milink.service/specification&gt;\"Ayuda\"&lt;/a&gt; para más información.</Data></string>
     <string name="dialog_ok">Ok</string>
     <string name="dialog_only_suport_content">Retransmitir fotos, vídeos o música</string>
     <string name="dialog_open_wifi_bt">Activar</string>
@@ -88,7 +89,7 @@ Consulta la ayuda si tienes problemas para conectarte."</string>
     <string name="dual_wifi_warning_china">Apague el Wi-Fi dual y vuelva a intentarlo</string>
     <string name="dual_wifi_warning_global">Apague el Wi-Fi dual y vuelva a intentarlo</string>
     <string name="early_morning">Mañana</string>
-    <string name="enable_screen_projection_summary">Emitir los contenidos de la pantalla a un monitor externo</string>
+    <string name="enable_screen_projection_summary">Emite el contenido de la pantalla a un monitor externo</string>
     <string name="eras_ad">d.C</string>
     <string name="eras_bc">a.C</string>
     <string name="evening">Tarde</string>
@@ -108,9 +109,9 @@ Consulta la ayuda si tienes problemas para conectarte."</string>
     <string name="friday_shortest">Vie</string>
     <string name="global_privacy">Términos y Condiciones</string>
     <string name="global_privacy_detail">&lt;Data&gt;Lee y acepta nuestro &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &lt;a href=%2$s&gt;Política de Privacidad&lt;/a&gt; antes de usar esta aplicación. &lt;br&gt;Si no aceptas utilizar los servicios antes mencionados, no podrás utilizar algunas funciones de esta aplicación; sin embargo, su funcionalidad básica seguirá estando disponible.&lt;/Data&gt;</string>
-    <string name="global_privacy_explain">¡Bienvenido a Emitir! Esta aplicación ofrece los siguientes servicios:</string>
+    <string name="global_privacy_explain">¡Te damos la bienvenida a Emitir! Esta aplicación ofrece los siguientes servicios:</string>
     <string name="global_privacy_feature">Usar ventanas minimizadas, transmitir contenido con la pantalla apagada y ocultar elementos privados.</string>
-    <string name="global_privacy_main">"Proyectar los elementos de la pantalla de tu teléfono en un monitor externo más grande."</string>
+    <string name="global_privacy_main">"Proyecta los elementos de la pantalla de tu dispositivo en un monitor externo más grande."</string>
     <string name="global_privacy_negative">"No aceptar"</string>
     <string name="global_privacy_positive">Aceptar</string>
     <string name="global_privacy_tip">&lt;Data&gt;Necesitamos recopilar la información personal necesaria para brindarte los servicios básicos y optimizar el proceso de transmisión. Puedes aprender cómo manejamos la información que recopilamos en nuestra &lt;a href=%1$s&gt;Política de Privacidad&lt;/a&gt;. Puedes retirar tu consentimiento a la Política de Privacidad en los Ajustes en cualquier momento.&lt;/Data&gt;</string>
@@ -124,42 +125,44 @@ Consulta la ayuda si tienes problemas para conectarte."</string>
     <string name="help_page_text_01">Ayuda</string>
     <string name="help_page_text_02">¿Qué es emitir?</string>
     <string name="help_page_text_03">"Emitir consiste en proyectar elementos desde la pantalla del dispositivo en un monitor externo. Así puedes compartir imágenes y vídeos con amigos y familiares sin usar datos móviles."</string>
-    <string name="help_page_text_04">¿Cómo emito elementos en una pantalla más grande?</string>
-    <string name="help_page_text_05">Paso %1$d: verifique sus dispositivos y el entorno de red</string>
-    <string name="help_page_text_06">"%1$d. Televisores, decodificadores, proyectores Xiaomi:
-Conecte tanto su dispositivo móvil como el monitor externo a la misma red Wi-Fi para obtener el mejor efecto. Si están conectados a diferentes redes, puede llevar más tiempo encontrar el monitor externo y conectarse.
-Nota: Es posible que los modelos de TV más antiguos no admitan la transmisión en diferentes redes.
-%2$d. Si está utilizando televisores, decodificadores o proyectores de otras marcas, conecte tanto su dispositivo móvil como su monitor externo a la misma red Wi-Fi.
-Si los dos dispositivos no se pueden conectar a la misma red, encienda Miracast en su monitor externo. El nombre de la funcionalidad de Miracast puede variar."</string>
-    <string name="help_page_text_06_global">"%1$d. Televisores, decodificadores, proyectores Xiaomi:
-Conecte tanto su dispositivo móvil como el monitor externo a la misma red Wi-Fi para obtener el mejor efecto. Si están conectados a diferentes redes, puede llevar más tiempo encontrar el monitor externo y conectarse.
-Nota: Es posible que los modelos de TV más antiguos no admitan la transmisión en diferentes redes.
-%2$d. Si está utilizando televisores, decodificadores o proyectores de otras marcas, conecte tanto su dispositivo móvil como su monitor externo a la misma red Wi-Fi.
-Si los dos dispositivos no se pueden conectar a la misma red, encienda Miracast en su monitor externo. El nombre de la funcionalidad de Miracast puede variar."</string>
-    <string name="help_page_text_08">Paso %1$d: activa la transmisión</string>
-    <string name="help_page_text_09">"Activa el interruptor \"Emitir\" en el panel de notificaciones de tu teléfono. Activa el Wi-Fi y Bluetooth para una conexión más estable."</string>
-    <string name="help_page_text_09_global">"Toque la palanca \"Transmitir\" en el tono de notificación de su dispositivo. Encienda Wi-Fi y Bluetooth para una conexión más estable."</string>
-    <string name="help_page_text_10">Si desea transmitir fotos, videos, juegos o presentaciones, puede usar las funciones de transmisión integradas en las aplicaciones correspondientes.</string>
-    <string name="help_page_text_11">Paso %1$d: seleccionar dispositivo</string>
+    <string name="help_page_text_04">¿Cómo emitir en una pantalla mayor?</string>
+    <string name="help_page_text_05">Paso %1$d: Verifica dispositivos y entorno de red</string>
+    <string name="help_page_text_06">"%1$d. Con televisores, decodificadores y proyectores Xiaomi:
+Conecta tanto el dispositivo móvil como el monitor externo a la misma red Wi-Fi ya que si se encuentran conectados a diferentes redes, puede llevar más tiempo encontrar el monitor externo y realizar la conexión.
+Nota: Puede que los televisores más antiguos no admitan transmisión en diferentes redes.
+%2$d. Con televisores, decodificadores o proyectores de otras marcas:
+Conecta tanto el dispositivo móvil como el monitor externo a la misma red Wi-Fi.
+Si ambos no se pudiesen conectar a la misma red, activa Miracast en el monitor externo. El nombre de la función Miracast puede variar."</string>
+    <string name="help_page_text_06_global">"%1$d. Con televisores, decodificadores y proyectores Xiaomi:
+Conecta tanto el dispositivo móvil como el monitor externo a la misma red Wi-Fi ya que si se encuentran conectados a diferentes redes, puede llevar más tiempo encontrar el monitor externo y realizar la conexión.
+Nota: Puede que los televisores más antiguos no admitan transmisión en diferentes redes.
+%2$d. Con televisores, decodificadores o proyectores de otras marcas:
+Conecta tanto el dispositivo móvil como el monitor externo a la misma red Wi-Fi.
+Si ambos no se pudiesen conectar a la misma red, activa Miracast en el monitor externo. El nombre de la función Miracast puede variar."</string>
+    <string name="help_page_text_08">Paso %1$d: Activa la transmisión</string>
+    <string name="help_page_text_09">"Activa el interruptor \"Emitir\" en el panel de notificaciones de tu dispositivo. Activa el Wi-Fi y Bluetooth para una conexión más estable."</string>
+    <string name="help_page_text_09_global">"Activa el interruptor \"Transmitir\" en la barra de notificaciones del dispositivo. Activa Wi-Fi y Bluetooth para una conexión más estable."</string>
+    <string name="help_page_text_10">Para transmitir fotos, videos, juegos o presentaciones, puedes usar las opciones de transmisión de las correspondientes aplicaciones.</string>
+    <string name="help_page_text_11">Paso %1$d: Selecciona el dispositivo</string>
     <string name="help_page_text_12">Selecciona un dispositivo externo de la lista de dispositivo disponibles para iniciar la emisión.</string>
-    <string name="help_page_text_13">"¿No puedes conectarte con un dispositivo externo?"</string>
-    <string name="help_page_text_14">"%1$d. Si desea utilizar un dispositivo Xiaomi, pero no puede encontrarlo en la lista de dispositivos disponibles, intente lo siguiente:
-Conecte tanto su dispositivo móvil como el monitor externo (por ejemplo, su televisor) a la misma red, o conecte el monitor al punto de acceso de su dispositivo móvil. Si no hay ninguna red disponible o no puede conectar ambos dispositivos a la misma red, verifique si las funciones de transmisión en su monitor externo están actualizadas, active Bluetooth tanto en su dispositivo móvil como en el monitor externo, y encienda en Miracast en su televisor.
-%2$d. Si está transmitiendo en un dispositivo Xiaomi por primera vez, debe completar la verificación.
-%3$d. Si desea utilizar un dispositivo que no sea Xiaomi, pero no puede encontrarlo en la lista de dispositivos disponibles, intente lo siguiente:
-Conecte tanto su dispositivo móvil como el monitor externo (por ejemplo, su televisor) a la misma red, o conéctelo el monitor externo al punto de acceso de su dispositivo móvil. Si esto no ayuda, instale la aplicación HappyCast en su televisor y siga las instrucciones."</string>
-    <string name="help_page_text_14_global">"%1$d. Si desea utilizar un dispositivo Xiaomi, pero no puede encontrarlo en la lista de dispositivos disponibles, intente lo siguiente:
-Conecte tanto su dispositivo móvil como el monitor externo (por ejemplo, su televisor) a la misma red, o conecte el monitor al punto de acceso de su dispositivo móvil. Si no hay ninguna red disponible o no puede conectar ambos dispositivos a la misma red, verifique si las funciones de transmisión en su monitor externo están actualizadas, active Bluetooth tanto en su dispositivo móvil como en el monitor externo, y encienda en Miracast en su televisor.
-%2$d. Si está transmitiendo en un dispositivo Xiaomi por primera vez, debe completar la verificación.
-%3$d. Si desea utilizar un dispositivo que no sea Xiaomi, pero no puede encontrarlo en la lista de dispositivos disponibles, intente lo siguiente:
-Conecte tanto su dispositivo móvil como el monitor externo (por ejemplo, su televisor) a la misma red, o conéctelo el monitor externo al punto de acceso de su dispositivo móvil."</string>
+    <string name="help_page_text_13">"¿No conectas con el dispositivo externo?"</string>
+    <string name="help_page_text_14">"%1$d. Si deseas conectar con un equipo Xiaomi (un televisor por ejemplo) pero no lo encuentras en la lista de dispositivos disponibles, intenta lo siguiente:
+Conecta tanto el dispositivo móvil como el externo a la misma red, o conecta el externo al punto de acceso del dispositivo móvil. Si no hay una red disponible o no puedes conectar ambos a la misma red, comprueba si las funciones de transmisión en el equipo externo están actualizadas, activa Bluetooth en ambos dispositivos y activa Miracast. en el equipo externo.
+%2$d. Si estás transmitiendo en un equipo Xiaomi por primera vez, debes completar la verificación.
+%3$d. Si deseas conectar con un equipo que no es Xiaomi, pero no lo encuentras en la lista de dispositivos disponibles, intenta lo siguiente:
+Conecta tanto el dispositivo móvil como el externo a la misma red, o conectal el externo al punto de acceso del dispositivo móvil. Si esto no ayuda, instala la aplicación HappyCast en el equipo externo y sigue las instrucciones."</string>
+    <string name="help_page_text_14_global">"%1$d. Si deseas conectar con un equipo Xiaomi (un televisor por ejemplo) pero no lo encuentras en la lista de dispositivos disponibles, intenta lo siguiente:
+Conecta tanto el dispositivo móvil como el externo a la misma red, o conecta el externo al punto de acceso del dispositivo móvil. Si no hay una red disponible o no puedes conectar ambos a la misma red, comprueba si las funciones de transmisión en el equipo externo están actualizadas, activa Bluetooth en ambos dispositivos y activa Miracast. en el equipo externo.
+%2$d. Si estás transmitiendo en un equipo Xiaomi por primera vez, debes completar la verificación.
+%3$d. Si deseas conectar con un equipo que no es Xiaomi, pero no lo encuentras en la lista de dispositivos disponibles, intenta lo siguiente:
+Conecta tanto el dispositivo móvil como el externo a la misma red, o conectal el externo al punto de acceso del dispositivo móvil."</string>
     <string name="help_page_text_15">Función Miracast en distintos dispositivos</string>
     <string name="help_page_text_16">Mi TV/Mi Proyector</string>
-    <string name="help_page_text_17">"Puedes proyectar elementos desde tu teléfono Mi hacia la mayoría de modelos de Mi TV que cuenten con funcionalidad Bluetooth sin tener que activar Miracast manualmente.
+    <string name="help_page_text_17">"Puedes proyectar elementos desde tu dispositivo Mi hacia la mayoría de modelos de TV Mi que cuenten con funcionalidad Bluetooth sin tener que activar Miracast manualmente.
 Si necesitas activar Miracast, pulsa el botón [MENU] y selecciona Mis aplicaciones &gt; Emitir &gt; Miracast."</string>
     <string name="help_page_text_17_1">Servicio de atención al cliente de Xiaomi: 400-100-5678</string>
     <string name="help_page_text_18">Samsung TV</string>
-    <string name="help_page_text_19">Primero asegúrate de que las funciones de Miracast son compatibles con tu dispositivo. En algunos modelos puedes pulsar el botón [SOURCE] en el mando a distancia y después seleccionar \"Screen Mirroring\". Esta función es activada por defecto en varios modelos.</string>
+    <string name="help_page_text_19">Primero comprueba que las funciones de Miracast son compatibles con tu dispositivo. En algunos modelos puedes pulsar el botón [SOURCE] en el mando a distancia y después seleccionar \"Screen Mirroring\". Esta función se activa por defecto en varios modelos.</string>
     <string name="help_page_text_20">Servicio de atención al cliente de Samsung: 400-810-5858</string>
     <string name="help_page_text_21">LG TV</string>
     <string name="help_page_text_22">Primero asegúrate de que las funciones de Miracast son compatibles con tu dispositivo. Esta función es activada por defecto en varios modelos.</string>
@@ -168,25 +171,25 @@ Si necesitas activar Miracast, pulsa el botón [MENU] y selecciona Mis aplicacio
     <string name="help_page_text_25">Primero asegúrate de que las funciones de Miracast son compatibles con tu dispositivo. Esta función es activada por defecto en varios modelos.</string>
     <string name="help_page_text_26">Servicio de atención al cliente de Philips: 400-880-0008</string>
     <string name="help_page_text_27">TPV</string>
-    <string name="help_page_text_28">Primero asegúrate de que las funciones de Miracast son compatibles con tu dispositivo. En algunos modelos puedes pulsar el botón [MENU] en el mando a distancia y después seleccionar Ajustes &gt; Conexión &gt; Red &gt; Pantalla múltiple.</string>
+    <string name="help_page_text_28">Primero comprueba que las funciones de Miracast son compatibles con tu dispositivo. En algunos modelos puedes pulsar el botón [MENU] en el mando a distancia y después seleccionar Ajustes &gt; Conexión &gt; Red &gt; Pantalla múltiple.</string>
     <string name="help_page_text_29">Servicio de atención al cliente de TPV: 400-887-8007</string>
     <string name="help_page_text_30">Hispano</string>
-    <string name="help_page_text_31">Primero asegúrate de que las funciones de Miracast son compatibles con tu dispositivo. En algunos modelos puedes pulsar el botón [SMART] en el mando a distancia y después seleccionar Emitir &gt; Pantalla inalámbrica. Algunos modelos también soportan la emisión de juegos. Hi Cast &gt; Emitir juegos &gt; Android.</string>
+    <string name="help_page_text_31">Primero comprueba que las funciones de Miracast son compatibles con tu dispositivo. En algunos modelos puedes pulsar el botón [SMART] en el mando a distancia y después seleccionar Emitir &gt; Pantalla inalámbrica. Algunos modelos también soportan la emisión de juegos. Hi Cast &gt; Emitir juegos &gt; Android.</string>
     <string name="help_page_text_32">Servicio de atención al cliente de Hisense: 400-611-1111</string>
     <string name="help_page_text_33">Cielo</string>
-    <string name="help_page_text_34">Primero asegúrate de que las funciones de Miracast son compatibles con tu dispositivo. En algunos modelos puedes seleccionar Aplicaciones &gt; Emitir &gt; Dispositivo Android &gt; Miracast.</string>
+    <string name="help_page_text_34">Primero comprueba que las funciones de Miracast son compatibles con tu dispositivo. En algunos modelos puedes seleccionar Aplicaciones &gt; Emitir &gt; Dispositivo Android &gt; Miracast.</string>
     <string name="help_page_text_35">Servicio de atención al cliente de Skyworth: 95105555</string>
     <string name="help_page_text_36">Sony</string>
-    <string name="help_page_text_37">Primero asegúrate de que las funciones de Miracast son compatibles con tu dispositivo. En algunos modelos puedes pulsar el botón [SOURCE] en el mando a distancia y después seleccionar \"Screen Mirroring\"; En algunos modelos puedes activar esta función en Redes &gt; Wi-Fi Direct. Esta función es activada por defecto en varios modelos.</string>
+    <string name="help_page_text_37">Primero comprueba que las funciones de Miracast son compatibles con tu dispositivo. En algunos modelos puedes pulsar el botón [SOURCE] en el mando a distancia y después seleccionar \"Screen Mirroring\"; En algunos modelos puedes activar esta función en Redes &gt; Wi-Fi Direct. Esta función se activa por defecto en varios modelos.</string>
     <string name="help_page_text_38">Servicio de atención al cliente de Sony: 400-810-9000</string>
     <string name="help_page_text_39">Panasonic</string>
-    <string name="help_page_text_40">Primero asegúrate de que las funciones de Miracast son compatibles con tu dispositivo. En algunos modelos puedes seleccionar Aplicaciones &gt; Screen Mirroring.</string>
+    <string name="help_page_text_40">Primero comprueba que las funciones de Miracast son compatibles con tu dispositivo. En algunos modelos puedes seleccionar Aplicaciones &gt; Screen Mirroring.</string>
     <string name="help_page_text_41">Servicio de atención al cliente de Panasonic: 400-881-1315</string>
     <string name="help_page_text_42">Conmutación</string>
     <string name="help_page_text_43">Verifica la configuración de tu televisor para asegurarte de que tu monitor externo sea compatible con la funcionalidad Miracast.</string>
     <string name="help_page_text_44">Servicio de atención al cliente de Changhong: 400-811-1666</string>
     <string name="help_page_text_45">TCL</string>
-    <string name="help_page_text_46">Primero asegúrate de que las funciones de Miracast son compatibles con tu dispositivo. En algunos modelos puedes seleccionar Aplicaciones &gt; Pantalla inalámbrica.</string>
+    <string name="help_page_text_46">Primero comprueba que las funciones de Miracast son compatibles con tu dispositivo. En algunos modelos puedes seleccionar Aplicaciones &gt; Pantalla inalámbrica.</string>
     <string name="help_page_text_47">Servicio de atención al cliente de TCL: 400-812-3456</string>
     <string name="help_page_text_48">AODIN</string>
     <string name="help_page_text_49">Primero asegúrate de que las funciones de Miracast son compatibles con tu dispositivo. Para activar esta función ve a Mis aplicaciones &gt; WiFi Display.</string>
@@ -194,10 +197,10 @@ Si necesitas activar Miracast, pulsa el botón [MENU] y selecciona Mis aplicacio
     <string name="help_page_text_51">LeEco</string>
     <string name="help_page_text_52">Primero asegúrate de que las funciones de Miracast son compatibles con tu dispositivo. En algunos modelos puedes activar esta función en Ajustes &gt; Redes &gt; Pantalla múltiple &gt; Wireless Display.</string>
     <string name="help_page_text_53">Servicio de atención al cliente de LeEco: 10109000</string>
-    <string name="help_page_text_55">"Si no puede conectarse a la red, asegúrese de que su monitor externo admita la funcionalidad Miracast y que esté encendido. En algunos modelos, esta función se llama Pantalla inalámbrica, Duplicación de pantalla o Pantallas múltiples. Vea la información a continuación para aprender cómo activar Miracast.
-%1$d. Si encuentra algún problema, puede informarlo utilizando nuestra aplicación \"Comentarios de &amp;"</string>
-    <string name="help_page_text_55_global">"Si no puede conectarse a la red, asegúrese de que su monitor externo admita la funcionalidad Miracast y que esté encendido. En algunos modelos, esta función se llama Pantalla inalámbrica, Duplicación de pantalla o Pantallas múltiples.
-%1$d. Si encuentra algún problema, puede informarlo utilizando nuestra aplicación \"Comentarios de &amp;"</string>
+    <string name="help_page_text_55">"Si no puedes conectar a la red, comprueba que el equipo externo admite la función Miracast y que está encendido. En algunos modelos, la función se denomina \"Pantalla inalámbrica\", \"Duplicación de pantalla\" o \"Pantallas múltiples\". Revisa la información de cómo activar Miracast.
+%1$d. Si encuentras algún problema, puedes informarlo usando nuestra aplicación."</string>
+    <string name="help_page_text_55_global">"Si no puedes conectar a la red, comprueba que el equipo externo admite la función Miracast y que está encendido. En algunos modelos, la función se denomina \"Pantalla inalámbrica\", \"Duplicación de pantalla\" o \"Pantallas múltiples\".
+%1$d. Si encuentras algún problema, puedes informarlo usando nuestra aplicación."</string>
     <string name="help_page_text_end">"Si la marca de tu dispositivo no está en la lista, contacta con el fabricante para conocer más sobre la funcionalidad de emisión."</string>
     <string name="invisible_mode_dialog_content">"No puedes transmitir cuando estás en incógnito. Primero desactiva el modo incógnito."</string>
     <string name="invisible_mode_dialog_content_audio_relay">"No puedes transferir la reproducción cuando estás en incógnito. Primero desactiva el modo incógnito."</string>
@@ -224,7 +227,7 @@ Si necesitas activar Miracast, pulsa el botón [MENU] y selecciona Mis aplicacio
     <string name="miuix_indexer_collect">Colecciones</string>
     <string name="miuix_indexer_selected">Seleccionado %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Desliza hacia abajo para actualizar</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado con éxito</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualizando…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Suelta para actualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Eso es todo por ahora"</string>
@@ -273,7 +276,7 @@ Si necesitas activar Miracast, pulsa el botón [MENU] y selecciona Mis aplicacio
     <string name="more">Más</string>
     <string name="morning">Mañana</string>
     <string name="msg_send_fail">"No se pudieron transferir los datos"</string>
-    <string name="nfc_connect_failed_toast">"No se pudo emitir. Inténtalo de nuevo."</string>
+    <string name="nfc_connect_failed_toast">"No se pudo emitir. Inténtalo otra vez."</string>
     <string name="night">Tarde-noche</string>
     <string name="noon">Mediodía</string>
     <string name="normal_device_desc">"Los dispositivos a los que te has conectado pero no has marcado como de confianza"</string>
@@ -294,7 +297,7 @@ Si necesitas activar Miracast, pulsa el botón [MENU] y selecciona Mis aplicacio
     <string name="paipai_connect_btn_text">Listo</string>
     <string name="paipai_connect_tv1_text">Conectado al dispositivo</string>
     <string name="paipai_connect_tv2_text">Datos transferidos</string>
-    <string name="paipai_error_dialog_msg">Verifique su configuración de red y vuelva a intentarlo.</string>
+    <string name="paipai_error_dialog_msg">Comprueba los ajustes de red e inténtalo otra vez.</string>
     <string name="paipai_error_dialog_negative">Entendido</string>
     <string name="path_setting_cast">Conexión y compartir/Emitir</string>
     <string name="path_setting_cast_demo">Conexión y compartir/Emitir/Demos</string>
@@ -310,7 +313,7 @@ Si necesitas activar Miracast, pulsa el botón [MENU] y selecciona Mis aplicacio
     <string name="privacy_agree">Aceptar</string>
     <string name="privacy_detail">Permita que esta aplicación se conecte a Internet y otorgue los permisos necesarios antes de continuar.</string>
     <string name="privacy_detail_extra">&lt;Data&gt;Algunas características son proporcionadas por el proveedor de servicios externo HappyCast. Antes de usar esta función, lee y acepta la &lt;a href=%1$s&gt;Política de Privacidad de HappyCast&lt;/a&gt; y la &lt;a href=%2$s&gt;Declaración Legal de HappyCast&lt;/a&gt;.&lt;/Data&gt;</string>
-    <string name="privacy_explain">"¡Bienvenido a Emitir! Emitir permite proyectar elementos desde la pantalla de tu teléfono en un monitor externo más grande. Esta aplicación necesita conectarse a internet y requiere los siguientes permisos para poder funcionar con normalidad:"</string>
+    <string name="privacy_explain">"¡Te damos la bienvenida a Emitir! Puedes proyectar elementos desde la pantalla de tu dispositivo en un monitor externo más grande. Esta aplicación necesita conexión a Internet y los siguientes permisos para funcionar con normalidad:"</string>
     <string name="privacy_negative">Salir</string>
     <string name="privacy_permission_ble">Activar y desactivar el Bluetooth</string>
     <string name="privacy_permission_ble_desc">Para encontrar dispositivos cercanos disponibles</string>
@@ -344,9 +347,9 @@ Si necesitas activar Miracast, pulsa el botón [MENU] y selecciona Mis aplicacio
     <string name="privacy_setting_show_lelink_policy">Ver la política de privacidad de HappyCast</string>
     <string name="privacy_setting_show_policy">Ver política de privacidad</string>
     <string name="privacy_setting_show_user_agreement">Ver acuerdo de usuario</string>
-    <string name="privacy_text_1">&lt;Data&gt;¡Bienvenido a Emitir! Emitir te permite proyectar elementos desde la pantalla de tu teléfono hacia un monitor externo más grande.
-Protegeremos tu información personal de acuerdo con las leyes relevantes, regulaciones y políticas de privacidad. Algunas funciones son proporcionadas por el proveedor de servicios HappyCast. Antes de usar esta función, lee y acepta la &lt;a href=%2$s&gt;Declaración Legal de HappyCast&lt;/a&gt; y la &lt;a href=%1$s&gt;Política de Privacidad de HappyCast&lt;/a&gt;.
-Para poder funcionar con normalidad, esta aplicación necesita conectarse a internet y requiere los siguientes permisos con el fin de recolectar tu información personal:&lt;/Data&gt;</string>
+    <string name="privacy_text_1">&lt;Data&gt;¡Te damos la bienvenida a Emitir! Puedes proyectar elementos desde la pantalla de tu dispositivo hacia un monitor externo más grande.
+Protegeremos tu información personal de acuerdo con las leyes relevantes, regulaciones y políticas de privacidad. Algunas funciones son proporcionadas por el proveedor de servicios HappyCast. Antes de usar esta aplicación, lee y acepta la &lt;a href=%2$s&gt;Declaración Legal de HappyCast&lt;/a&gt; y la &lt;a href=%1$s&gt;Política de Privacidad de HappyCast&lt;/a&gt;.
+Para funcionar con normalidad, esta aplicación necesita conexión a Internet y los siguientes permisos para recolectar tu información personal:&lt;/Data&gt;</string>
     <string name="privacy_text_2">&lt;Data&gt;Si no aceptas conceder dichos permisos ni compartir y subir tu información personal, no podrás usar esta aplicación. Puedes elegir desinstalar la aplicación, cerrar sesión o restringir los permisos en los ajustes.
 Lee y acepta nuestro &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &lt;a href=%2$s&gt;Política de Privacidad&lt;/a&gt; antes de usar esta función.&lt;/Data&gt;</string>
     <string name="privacy_text_pemission">"　　•Acceder y guardar imágenes en tu dispositivo para poder proyectarlas en monitores externos
@@ -360,7 +363,7 @@ Lee y acepta nuestro &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &
     <string name="private_protect">Ocultar elementos privados</string>
     <string name="san_wait_msg_1">Active la transmisión inalámbrica en el dispositivo de destino</string>
     <string name="san_wait_msg_2">La búsqueda de dispositivos podría tomar algo de tiempo…</string>
-    <string name="san_wait_msg_3">"Los dispositivos externos son más fáciles de encontrar cuando están conectados a la misma red que tu teléfono"</string>
+    <string name="san_wait_msg_3">"Los dispositivos externos son más fáciles de encontrar cuando están conectados a la misma red que tu dispositivo"</string>
     <string name="san_wait_msg_4">"Ve a \"Ayuda\" si no encuentras dispositivos"</string>
     <string name="saturday">Sábado</string>
     <string name="saturday_short">Sáb</string>
@@ -369,13 +372,13 @@ Lee y acepta nuestro &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &
     <string name="scan_wifi_label_global">Conectarse a Wi-Fi</string>
     <string name="screen_projection">Emitir</string>
     <string name="screen_projection_characteristics">Funciones especiales</string>
-    <string name="screen_projection_characteristics_off_screen_summary">Puedes seguir emitiendo cuando la pantalla de tu dispositivo está apagada. Esta función disminuye el consumo de energía.</string>
+    <string name="screen_projection_characteristics_off_screen_summary">Puedes seguir emitiendo con la pantalla del dispositivo apagada. Esto reduce el consumo de energía.</string>
     <string name="screen_projection_characteristics_off_screen_title">Emitir con la pantalla apagada</string>
-    <string name="screen_projection_characteristics_privacy_protect_summary">"No mostrar notificaciones flotantes, llamadas entrantes y otros elementos privados en monitores externos."</string>
+    <string name="screen_projection_characteristics_privacy_protect_summary">"Las notificaciones flotantes, llamadas entrantes y demás elementos privados no se mostrarán en el monitor externo."</string>
     <string name="screen_projection_characteristics_privacy_protect_title">Ocultar elementos privados</string>
-    <string name="screen_projection_characteristics_small_window_summary">"Minimiza la ventana que está siendo emitida para poder usar otras funciones en tu teléfono."</string>
+    <string name="screen_projection_characteristics_small_window_summary">"Minimiza la ventana que se está emitiendo para usar otras funciones de tu dispositivo."</string>
     <string name="screen_projection_characteristics_small_window_title">Minimizar ventana</string>
-    <string name="screen_projection_example_document_summary">Visualiza presentaciones en un monitor externo mientras usas tu teléfono para cambiar entre diapositivas y ver notas. Ve a Gestor de archivos &gt; Documentos para probar esta función.</string>
+    <string name="screen_projection_example_document_summary">Visualiza presentaciones en un monitor externo mientras usas tu dispositivo para cambiar entre diapositivas y ver notas. Ve al Gestor de archivos &gt; Documentos para probar esta función.</string>
     <string name="screen_projection_example_document_title">Documentos</string>
     <string name="screen_projection_example_gallery_summary">Pulsa el botón Compartir bajo un elemento en la aplicación Galería para visualizarlo en un monitor externo.</string>
     <string name="screen_projection_example_gallery_title">Fotos y vídeos</string>
@@ -448,8 +451,8 @@ Lee y acepta nuestro &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &
     <string name="toast_invisible_mode">"Estás en incógnito. No puedes utilizar la transmisión ahora."</string>
     <string name="toast_invisible_mode1">"La transmisión no funcionará cuando estés de incógnito"</string>
     <string name="toast_msg_for_multi_window">"No puede usar esta función con la Pantalla dividida"</string>
-    <string name="toast_msg_for_small_window">"Puedes minimizar la ventana que está siendo emitida para poder usar otras funciones en tu teléfono sin interrumpir la emisión."</string>
-    <string name="toast_nfc_dont_move">"No alejes tu teléfono"</string>
+    <string name="toast_msg_for_small_window">"Puedes minimizar la ventana que se está emitiendo para usar otras funciones de tu dispositivo, sin interrumpir la emisión."</string>
+    <string name="toast_nfc_dont_move">"No alejes tu dispositivo"</string>
     <string name="toast_title_for_small_window">Selecciona \"Minimizar ventana\" en la aplicación</string>
     <string name="toast_turn_off_hotspot_before_cast">Desactiva el punto de acceso portátil antes de emitir</string>
     <string name="today">Hoy</string>
@@ -473,7 +476,7 @@ Lee y acepta nuestro &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &
     <string name="wifi_other">Otras redes</string>
     <string name="wifi_passwd_et_hint">Contraseña</string>
     <string name="wifi_recommendation">Seleccione %1$d GHz para una mejor experiencia de transmisión</string>
-    <string name="wifi_scan_btn_text">Escanear de nuevo</string>
+    <string name="wifi_scan_btn_text">Escanear otra vez</string>
     <string name="wifi_username_et_hint">ID de la cuenta</string>
     <string name="yesterday">Ayer</string>
 </resources>

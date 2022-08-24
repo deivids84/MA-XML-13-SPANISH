@@ -15,8 +15,8 @@
     <string name="debug_tool_email_subject">Herramienta de depuración del calendario adjuntada</string>
     <string name="debug_tool_message">"Estás a punto de copiar tu base de datos del calendario en la tarjeta SD/USB que podrá ser accesible mediante cualquier aplicación y enviada por correo. Recuerda eliminarla una vez copiada o hayas recibido el correo electrónico."</string>
     <string name="debug_tool_start_button">Iniciar</string>
-    <string name="holiday_data_no_network">"No es posible conectarse a la red. Por favor compruebe la conexión de red e inténtelo de nuevo."</string>
-    <string name="holiday_data_update_failed">"No se pudo actualizar. Compruebe su conexión de datos e inténtelo de nuevo."</string>
+    <string name="holiday_data_no_network">"No se puede conectar a la red. Comprueba la conexión e inténtalo otra vez."</string>
+    <string name="holiday_data_update_failed">"No se pudo actualizar. Comprueba la conexión de red e inténtalo otra vez."</string>
     <string name="holiday_data_update_succeed">Actualización finalizada</string>
     <string name="holiday_data_updating">Actualizando…</string>
     <string name="holiday_update_summary">Pulsa para actualizar la información del calendario.</string>

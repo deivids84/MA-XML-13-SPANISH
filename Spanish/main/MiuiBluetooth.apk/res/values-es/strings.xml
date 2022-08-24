@@ -58,8 +58,8 @@
     <string name="bluetooth_device_context_unpair">Desemparejar</string>
     <string name="bluetooth_disconnected">Desvinculado</string>
     <string name="bluetooth_disconnecting">Desvinculando…</string>
-    <string name="bluetooth_headset_profile_summary_connected">Conectado a audio del teléfono</string>
-    <string name="bluetooth_headset_profile_summary_use_for">Usar para el audio del teléfono</string>
+    <string name="bluetooth_headset_profile_summary_connected">Conectado a audio del dispositivo</string>
+    <string name="bluetooth_headset_profile_summary_use_for">Usar para el audio del dispositivo</string>
     <string name="bluetooth_hearing_aid_profile_summary_connected">Conectado a audífonos</string>
     <string name="bluetooth_hearing_aid_profile_summary_use_for">Uso para audífonos</string>
     <string name="bluetooth_hid_profile_summary_connected">Conectado al dispositivo de entrada</string>
@@ -80,7 +80,7 @@
     <string name="bluetooth_profile_a2dp">Audio multimedia</string>
     <string name="bluetooth_profile_a2dp_high_quality">Usar audio de alta calidad: %1$s</string>
     <string name="bluetooth_profile_a2dp_high_quality_unknown_codec">Audio HD</string>
-    <string name="bluetooth_profile_headset">Audio del teléfono</string>
+    <string name="bluetooth_profile_headset">Audio del dispositivo</string>
     <string name="bluetooth_profile_hearing_aid">Audífonos</string>
     <string name="bluetooth_profile_hid">Dispositivo de entrada</string>
     <string name="bluetooth_profile_map">Mensajes de texto</string>
@@ -184,7 +184,7 @@ Protocolo de conexión más rápido."</string>
     <string name="headset_device_donot_move">Mantén el dispositivo cerca</string>
     <string name="headset_device_enter_upgrade_failed">"No se pudo iniciar la actualización"</string>
     <string name="headset_device_error_box_close">El estuche de carga está apagado</string>
-    <string name="headset_device_error_disconnect">Ambos auriculares están desconectados. Cierra el estuche de carga y ábrelo de nuevo para volver a comenzar la actualización.</string>
+    <string name="headset_device_error_disconnect">Ambos auriculares están desconectados. Cierra el estuche y ábrelo otra vez para iniciar la actualización.</string>
     <string name="headset_device_error_failed">"No se puede actualizar"</string>
     <string name="headset_device_error_multconnect">"No se puede actualizar cuando hay varios dispositivos conectados"</string>
     <string name="headset_device_error_no_device">Coloca ambos auriculares en el estuche y mantenlos cargados</string>
@@ -197,7 +197,7 @@ Protocolo de conexión más rápido."</string>
     <string name="headset_downloading">Descargando</string>
     <string name="headset_downloading_indicate">Descargar…</string>
     <string name="headset_find_new_version">Hay una actualización disponible</string>
-    <string name="headset_finish_fw">Actualizado con éxito</string>
+    <string name="headset_finish_fw">Actualizado</string>
     <string name="headset_finish_fw_failed">Ha ocurrido un error</string>
     <string name="headset_fw_error_failed">"No se puede actualizar. La información del firmware es incorrecta."</string>
     <string name="headset_fw_file_position_failed">"No se pudo acceder al archivo"</string>
@@ -224,8 +224,8 @@ Protocolo de conexión más rápido."</string>
     <string name="installer_error_internal_error">Error interno</string>
     <string name="installer_error_invalid_request">La solicitud de instalación no es válida</string>
     <string name="installer_error_module_unavailable">El módulo solicitado no está disponible</string>
-    <string name="installer_error_network_error">Por favor, comprueba el estado de la red de tu teléfono!</string>
-    <string name="installer_error_service_died">El servicio no está disponible, inténtelo de nuevo.</string>
+    <string name="installer_error_network_error">¡Comprueba el estado de red de tu dispositivo!</string>
+    <string name="installer_error_service_died">El servicio no está disponible, inténtalo otra vez.</string>
     <string name="installer_installed">Instalar completamente</string>
     <string name="installer_installing">Instalando…</string>
     <string name="installer_pending">Pendiente…</string>
@@ -268,12 +268,12 @@ Protocolo de conexión más rápido."</string>
     <string name="miheadset_notification_RightEar">R</string>
     <string name="mihome_app_download">Instalar ahora</string>
     <string name="mihome_app_update">Update now</string>
-    <string name="mihome_download_tips">Instala la aplicación de Xiaomi Home, inicia sesión y mantén tu teléfono cerca del dispositivo.</string>
+    <string name="mihome_download_tips">Instala la aplicación de Xiaomi Home, inicia sesión y mantén tu dispositivo cerca.</string>
     <string name="mihome_download_title">Instalar Xiaomi Home</string>
     <string name="mihome_ignore">Cancelar</string>
     <string name="mihome_ignore_tips">"Si ignoras este dispositivo tendrás que añadirlo manualmente a la aplicación de Xiaomi Home."</string>
     <string name="mihome_ignore_title">¿Ignorar este dispositivo?</string>
-    <string name="mihome_update_tips">Actualiza la aplicación de Xiaomi Home y mantén tu teléfono cerca del dispositivo.</string>
+    <string name="mihome_update_tips">Actualiza la aplicación de Xiaomi Home y mantén tu dispositivo cerca.</string>
     <string name="mihome_update_title">Actualizar Xiaomi Home</string>
     <string name="miuix_access_state_desc">Seleccionado</string>
     <string name="miuix_alphabet_indexer_name">Barra de índice</string>
@@ -293,7 +293,7 @@ Protocolo de conexión más rápido."</string>
     <string name="miuix_appcompat_select_item">Seleccionar elementos</string>
     <string name="miuix_indexer_selected">Seleccionado %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Desliza hacia abajo para actualizar</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado con éxito</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualizando…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Suelta para actualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Eso es todo por ahora"</string>
@@ -351,7 +351,7 @@ Protocolo de conexión más rápido."</string>
     <string name="perm_ble_lab">Acceder a los ajustes BLE</string>
     <string name="plugin_alert_cancel">Después</string>
     <string name="plugin_alert_kill">Reiniciar</string>
-    <string name="plugin_alert_text">Complementos de Bluetooth actualizados con éxito. Encienda y apague Bluetooth para aplicar cambios.</string>
+    <string name="plugin_alert_text">Complementos Bluetooth actualizados. Activa y desactiva Bluetooth para aplicar los cambios.</string>
     <string name="plugin_alert_title">Reiniciar Bluetooth</string>
     <string name="plugin_download_create_client_failed">"No se pudieron descargar los elementos debido a un error del servidor."</string>
     <string name="plugin_download_get_object_failed">"No se pudo conectar con el servidor."</string>
@@ -364,7 +364,7 @@ Protocolo de conexión más rápido."</string>
     <string name="plugin_install_timeout">Se agotó el tiempo de espera de instalación del complemento</string>
     <string name="plugin_last_update_going">Completando la actualización anterior…</string>
     <string name="plugin_no_update">La versión actual está actualizada</string>
-    <string name="plugin_ota_finish">Actualizado con éxito</string>
+    <string name="plugin_ota_finish">Actualizado</string>
     <string name="plugin_ota_indicate">Reinicie Bluetooth y conecte sus auriculares.</string>
     <string name="plugin_ota_messages1">Se agregó soporte para más modelos de auriculares.</string>
     <string name="plugin_ota_messages2">Marco de servicio Bluetooth actualizado.</string>
@@ -376,7 +376,7 @@ Protocolo de conexión más rápido."</string>
     <string name="plugin_update_success">Los complementos de Bluetooth se actualizan correctamente.</string>
     <string name="pm">PM</string>
     <string name="preference_copied">\"%1$s\" se ha copiado en el portapapeles.</string>
-    <string name="profile_connect_timeout_subtext">Problema de conexión. Apaga el dispositivo y enciéndelo de nuevo</string>
+    <string name="profile_connect_timeout_subtext">Problema de conexión. Apaga el dispositivo y enciéndelo otra vez</string>
     <string name="progress_scanning">Buscando…</string>
     <string name="request_uninstall">Solicitar desinstalación del módulo</string>
     <string name="reset_function_msg">El restablecimiento de esta característica puede impedir que %1$s funcione normalmente.</string>
@@ -419,8 +419,8 @@ Protocolo de conexión más rápido."</string>
     <string name="stylus_firmware_failed_summary">Active los servicios de ubicación y reinicie Bluetooth. Después de eso, vuelva a colocar el lápiz óptico y vuelva a intentarlo.</string>
     <string name="stylus_firmware_failed_title">"No se pudo actualizar el firmware"</string>
     <string name="stylus_firmware_success_summary">Conecte el lápiz para emparejar.</string>
-    <string name="stylus_firmware_success_title">Firmware actualizado con éxito</string>
-    <string name="stylus_firmware_timeout_summary">Tiempo de conexión agotado. Inténtalo de nuevo.</string>
+    <string name="stylus_firmware_success_title">Firmware actualizado</string>
+    <string name="stylus_firmware_timeout_summary">Tiempo de conexión agotado. Inténtalo otra vez.</string>
     <string name="stylus_firmware_update_summary">Actualización del firmware del lápiz óptico…</string>
     <string name="stylus_firmware_update_title">Firmware del lápiz óptico</string>
     <string name="stylus_ota_check_update">Actualizar</string>

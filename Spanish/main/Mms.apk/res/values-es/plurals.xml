@@ -30,7 +30,7 @@
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="one">Ahora mismo</item>
-        <item quantity="other">Ahora</item>
+        <item quantity="other">Ahora mismo</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">Hace %d min</item>
@@ -90,7 +90,7 @@
     </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="one">Ahora mismo</item>
-        <item quantity="other">Ahora</item>
+        <item quantity="other">Ahora mismo</item>
     </plurals>
     <plurals name="mark_number_dialog_subtitle">
         <item quantity="other">Marcado como %2$s por %1$d personas</item>

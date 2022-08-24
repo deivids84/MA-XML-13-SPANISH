@@ -28,7 +28,7 @@
     <string name="abc_shareactionprovider_share_with_application">Compartir con %s</string>
     <string name="abc_toolbar_collapse_description">Ocultar</string>
     <string name="about_to_recover">Un momento…</string>
-    <string name="access_denied_info">Demasiados intentos. Espera uno o dos minutos e inténtalo otra vez.</string>
+    <string name="access_denied_info">Demasiados intentos. Espera un par de minutos e inténtalo otra vez.</string>
     <string name="actionbar_button_up_description">Atrás</string>
     <string name="afternoon">Tarde</string>
     <string name="am">AM</string>
@@ -56,7 +56,7 @@
     <string name="backup_failed_reason_app_usage_denied">Conceder los permisos necesarios para copias de seguridad</string>
     <string name="backup_failed_reason_cloud_space_not_enough">No queda suficiente almacenamiento en la nube para esta copia de seguridad. Actualiza tu plan o libera espacio de almacenamiento en la nube.</string>
     <string name="backup_failed_reason_disk_space_not_enough">No hay suficiente espacio de almacenamiento. Libera espacio primero.</string>
-    <string name="backup_failed_reason_network_error">Comprueba tus ajustes de red y vuelve a intentarlo</string>
+    <string name="backup_failed_reason_network_error">Comprueba los ajustes de la red e inténtalo otra vez</string>
     <string name="backup_finished_notification_content">Hacer copia de aplicaciones del escritorio, ajustes del sistema, etc.</string>
     <string name="backup_now">Hacer copia de seguridad ahora</string>
     <string name="backup_progress_percent_unit">%</string>
@@ -85,10 +85,10 @@ Inténtalo otra vez"</string>
     <string name="btn_restore_cancel_app_app">"No restaurar los datos de WeChat"</string>
     <string name="btn_restore_continue">Restaurar de todos modos</string>
     <string name="btn_restore_resume">Reanudar</string>
-    <string name="btn_restore_retry">Inténtalo de nuevo</string>
+    <string name="btn_restore_retry">Inténtalo otra vez</string>
     <string name="btn_restore_wait">Esperar conexión Wi-Fi</string>
     <string name="btn_restore_wait_china">Esperar por la red</string>
-    <string name="btn_retry">Comprobar de nuevo</string>
+    <string name="btn_retry">Comprobar otra vez</string>
     <string name="btn_skip">Omitir este paso</string>
     <string name="button_cancel">Cancelar</string>
     <string name="button_confirm">Entendido</string>
@@ -225,7 +225,7 @@ Envía este código al técnico."</string>
     <string name="dir_date_format">ddMMyyyy_HHmmss</string>
     <string name="doing_calc_backup_data_size">Calculando tamaño…</string>
     <string name="doing_restore_home">Restaurando la pantalla de inicio y la configuración…</string>
-    <string name="done_remove">Eliminado con éxito</string>
+    <string name="done_remove">Eliminado</string>
     <string name="download_meta_again">"No se pudo cargar la copia de seguridad, inténtalo otra vez."</string>
     <string name="download_meta_failed">"No se pudieron cargar los datos."</string>
     <string name="download_settings">Descargando los ajustes de la pantalla de inicio: %s%%</string>
@@ -239,7 +239,7 @@ Envía este código al técnico."</string>
     <string name="eras_ad">d.C</string>
     <string name="eras_bc">a.C</string>
     <string name="error_num_placeholder">--</string>
-    <string name="error_retry_later">"No se pudo completar la acción. Espera un minuto e inténtalo otra vez…"</string>
+    <string name="error_retry_later">"No se pudo completar la acción. Espera un par de minutos e inténtalo otra vez…"</string>
     <string name="error_unknown">Algo ha salido mal</string>
     <string name="evening">Tarde</string>
     <string name="expand_button_title">Avanzado</string>
@@ -345,7 +345,7 @@ Envía este código al técnico."</string>
     <string name="msg_restore_with_metered_network_hint">Si restauras estos elementos, se usarán datos móviles.</string>
     <string name="msg_restore_with_metered_network_pattern">"&lt;font color='red'&gt;&lt;b&gt;%s&lt;/b&gt;&lt;/font&gt; de archivos serán descargados."</string>
     <string name="network_error">Conectarse a la red</string>
-    <string name="network_error_info">Se ha producido un error de red. Comprueba la configuración e inténtalo otra vez.</string>
+    <string name="network_error_info">Se ha producido un error de red. Comprueba los ajustes e inténtalo otra vez.</string>
     <string name="network_timeout_info">"No se pudo conectar a la red. Inténtalo otra vez."</string>
     <string name="night">Tarde-noche</string>
     <string name="no_account">No has iniciado sesión en tu cuenta Xiaomi.</string>
@@ -398,7 +398,7 @@ Comprueba la configuración e inténtalo otra vez."</string>
     <string name="restore_detail_title">Seleccionar elementos a restaurar</string>
     <string name="restore_failed_reason_app_data_error">"No se pudieron restaurar los datos de WeChat"</string>
     <string name="restore_failed_reason_disk_space_not_enough">No hay suficiente espacio de almacenamiento. Libera espacio primero.</string>
-    <string name="restore_failed_reason_network_error">Error de red. Espera uno o dos minutos e inténtalo otra vez.</string>
+    <string name="restore_failed_reason_network_error">Error de red. Espera un par de minutos e inténtalo otra vez.</string>
     <string name="restore_file_empty">No hay copias de seguridad aquí</string>
     <string name="restore_finished_notification_content">Se restauraron las aplicaciones de la pantalla de inicio, la configuración del sistema, etc.</string>
     <string name="restore_from_cloud">Restaurar desde la copia de seguridad de la nube</string>
@@ -450,7 +450,7 @@ Comprueba la configuración e inténtalo otra vez."</string>
     <string name="session_failed_disk_no_space_title">Almacenamiento interno insuficiente. Borra el almacenamiento y vuelve a intentarlo.</string>
     <string name="session_failed_dist_no_space_btn_text">Limpiar almacenamiento</string>
     <string name="session_failed_no_server_response_title">"No se pudo conectar al servidor."</string>
-    <string name="session_failed_override_detail">La copia de seguridad local es diferente a la de Xiaomi Cloud. Si continúa, la copia de seguridad actual sobrescribirá la anterior. ¿Sobrescribir ahora?</string>
+    <string name="session_failed_override_detail">La copia de seguridad local es distinta a la de Xiaomi Cloud. Si continúas, la copia de seguridad actual sobrescribirá la anterior. ¿Sobrescribir?</string>
     <string name="session_failed_override_title">Sobrescribir copia de seguridad</string>
     <string name="session_failed_restore_app_data_btn_text">Atrás</string>
     <string name="session_failed_restore_app_data_detail">"Asegúrate de que WeChat no está instalado en el dispositivo antes de restaurar. No abras ni uses WeChat mientras se restaura."</string>
@@ -482,7 +482,7 @@ Comprueba la configuración e inténtalo otra vez."</string>
     <string name="sunday">Domingo</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
-    <string name="system_error_info">El sistema está ocupado. Espera uno o dos minutos e inténtalo otra vez.</string>
+    <string name="system_error_info">El sistema está ocupado. Espera un par de minutos e inténtalo otra vez.</string>
     <string name="temporary_not_available">Temporalmente no disponible</string>
     <string name="the_anniversary_of_lifting_martial_law">Aniversario del Levantamiento de la Ley Marcial</string>
     <string name="the_anti_aggression_day">Día de la lucha contra la agresión</string>

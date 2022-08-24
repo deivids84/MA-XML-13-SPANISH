@@ -38,7 +38,7 @@
     <string name="act_set_city_find_side">Ubicando</string>
     <string name="act_set_city_find_side_error">"No puede localizarse el dispositivo"</string>
     <string name="act_weather_find_city_added">Añadido</string>
-    <string name="act_weather_find_city_click_retry">Intentar de nuevo</string>
+    <string name="act_weather_find_city_click_retry">Inténtalo otra vez</string>
     <string name="act_weather_find_city_net_no_good">"No es posible conectarse a la red."</string>
     <string name="act_weather_find_city_no_result">Sin resultados</string>
     <string name="act_weather_find_city_searching">Buscando…</string>
@@ -52,7 +52,7 @@
     <string name="activity_main_pub_time">Publicado a las %1$s</string>
     <string name="activity_main_update_time">Actualizado %1$s</string>
     <string name="activity_main_update_time_expire">Datos expirados</string>
-    <string name="activity_main_update_time_right_now">ahora mismo</string>
+    <string name="activity_main_update_time_right_now">Ahora mismo</string>
     <string name="afternoon">Tarde</string>
     <string name="alert_detail_title">Detalles de la alerta</string>
     <string name="alert_warning">Alertas meteorológicas</string>
@@ -95,9 +95,9 @@
     <string name="button_settings_confirm">Retirar</string>
     <string name="button_settings_confirm_to_revoke_msg">Al desactivar el interruptor, retira su consentimiento a la Política de privacidad del Tiempo. Dejaremos de recopilar su información personal. La información personal ya recopilada y retenida se eliminará dentro del período específico requerido por las leyes aplicables. Tiempo necesita recopilar la información personal necesaria para brindarle los servicios básicos. Su retirada del consentimiento a la Política de privacidad se considerará como negarse a aceptar sus servicios en función de la información personal recopilada.</string>
     <string name="card_vote_item_vs">VS</string>
-    <string name="change_alert">Compruebe su conexión de red e inténtelo de nuevo</string>
+    <string name="change_alert">Comprueba la conexión de red e inténtalo otra vez</string>
     <string name="city_exceeded_warning">"No se puede añadir más ciudades. Para añadir una nueva, elimina primero una ciudad que ya esté en la lista."</string>
-    <string name="clear_net_mock_success">Éxito al limpiar simulación de red</string>
+    <string name="clear_net_mock_success">Limpiar muestreo de red</string>
     <string name="clearable_edittext_clear_description">Eliminar</string>
     <string name="close">Cerrar</string>
     <string name="common_google_play_services_enable_button">Habilitar</string>
@@ -119,7 +119,7 @@
     <string name="common_open_on_phone">Abrir en teléfono</string>
     <string name="common_signin_button_text">Iniciar sesión</string>
     <string name="common_signin_button_text_long">Iniciar sesión con Google</string>
-    <string name="connect_fail">"No se pudo conectar a la red, inténtalo de nuevo"</string>
+    <string name="connect_fail">"No se pudo conectar a la red, inténtalo otra vez"</string>
     <string name="content_desc_activity_main_add_city">Añadir ciudad</string>
     <string name="content_desc_activity_main_add_city_manage">Gestionar ciudades</string>
     <string name="content_desc_activity_main_more_settings">Más ajustes</string>
@@ -154,7 +154,7 @@
     <string name="edit_city">Gestionar ciudades</string>
     <string name="empty_view_net_loading">Actualizando…</string>
     <string name="empty_view_net_unavailable">"No se pudo conectar a la red"</string>
-    <string name="empty_view_refresh">Inténtalo de nuevo</string>
+    <string name="empty_view_refresh">Inténtalo otra vez</string>
     <string name="eras_ad">d.C</string>
     <string name="eras_bc">a.C</string>
     <string name="evening">Tarde</string>
@@ -200,7 +200,7 @@
     <string name="feedback_result_fail_no_choice">Elige las condiciones del tiempo actuales</string>
     <string name="feedback_result_fail_no_reason">¡Gracias por tu comentario!</string>
     <string name="feedback_result_fail_same_type">"Parece que tu informe es diferente del tiempo actual. Vuelve a intentarlo."</string>
-    <string name="feedback_result_success">Enviado con éxito, gracias por tus comentarios.</string>
+    <string name="feedback_result_success">Enviado, gracias por tu comentario.</string>
     <string name="feedback_sandy">Con arena</string>
     <string name="feedback_sunny">Despejado</string>
     <string name="firebase_database_url">https://globalmiuiweather.firebaseio.com</string>
@@ -260,7 +260,7 @@
     <string name="miuix_indexer_collect">Colecciones</string>
     <string name="miuix_indexer_selected">Seleccionado %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Desliza hacia abajo para actualizar</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado con éxito</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualizando…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Suelta para actualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Eso es todo por ahora"</string>
@@ -314,7 +314,7 @@
     <string name="night_not_disturb_settings_summary">Bloquear las alertas entre las 23:00 y las 7:00</string>
     <string name="night_not_disturb_settings_title">"No molestar por la noche"</string>
     <string name="no_data">Sin datos</string>
-    <string name="no_internet_message">Tu dispositivo necesita conectarse a la red para que puedas retirar el consentimiento. Comprueba tus ajustes de red y vuelve a intentarlo.</string>
+    <string name="no_internet_message">El dispositivo necesita conexión a la red para retirar el consentimiento. Comprueba los ajustes de red e inténtalo otra vez.</string>
     <string name="no_vote_ratio">En contra %1$s%%</string>
     <string name="non_wifi_environment">Conéctate al Wi-Fi para descargar efectos de audio</string>
     <string name="noon">Mediodía</string>
@@ -340,13 +340,13 @@
     <string name="pm">PM</string>
     <string name="preference_copied">\"%1$s\" se ha copiado en el portapapeles.</string>
     <string name="privacy_grant_or_revoke_settings">Retirada del consentimiento</string>
-    <string name="privacy_grant_success">Autorización concedida con éxito</string>
+    <string name="privacy_grant_success">Autorización concedida</string>
     <string name="privacy_policy">Política de Privacidad</string>
     <string name="privacy_policy_msg"><Data>Esta aplicación contiene las siguientes funciones:&lt;br/&gt;• Información meteorológica específica de su ubicación&lt;br/&gt;• Pronósticos meteorológicos&lt;br/&gt;• Avisos meteorológicos&lt;br/&gt;&lt;br/&gt;Tiempo necesita recopilar la información personal necesaria para brindarle los servicios básicos. Puede aprender cómo manejamos la información que recopilamos en nuestra &lt;a href=\"%1$s\"&gt;Política de privacidad&lt;/a&gt;. Lea y acepte nuestro &lt;a href=\"%2$s\"&gt;Acuerdo de usuario&lt;/a&gt; y &lt;a href=\"%3$s\"&gt;Política de privacidad&lt;/a&gt; antes de usar Tiempo. Puede retirar su consentimiento a la Política de privacidad de Tiempo en los Ajustes en cualquier momento.</Data></string>
     <string name="privacy_policy_msg_for_gp"><Data>Esta aplicación contiene las siguientes funciones:&lt;br/&gt;• Información meteorológica específica de su ubicación&lt;br/&gt;• Pronósticos meteorológicos&lt;br/&gt;• Advertencias meteorológicas&lt;br/&gt;&lt;br/&gt;Tiempo necesita recopilar la información personal necesaria, incluidos los datos de ubicación, para que estas funciones estén disponibles, incluso cuando la aplicación está cerrada o no está en uso. Puede aprender cómo manejamos la información que recopilamos en nuestra &lt;a href=\"%1$s\"&gt;Política de privacidad&lt;/a&gt;. Lea y acepte nuestro &lt;a href=\"%2$s\"&gt;Acuerdo de usuario&lt;/a&gt; y &lt;a href=\"%3$s\"&gt;Política de privacidad&lt;/a&gt; antes de usar Tiempo. Puede retirar su consentimiento a la Política de privacidad de Tiempo en los Ajustes en cualquier momento.</Data></string>
-    <string name="privacy_revoke_success">Autorización revocada con éxito</string>
+    <string name="privacy_revoke_success">Autorización revocada</string>
     <string name="privacy_settings">Política de Privacidad</string>
-    <string name="pull_fresh_updated">Actualizado con éxito</string>
+    <string name="pull_fresh_updated">Actualizado</string>
     <string name="pull_fresh_updating">Actualizando…</string>
     <string name="radar_cloud_image_title">Mapa de radar</string>
     <string name="radar_cloud_update_time">Antes de las %1$s</string>
@@ -360,7 +360,7 @@
     <string name="realtime_humidity_title">Humedad</string>
     <string name="realtime_temperature_no_data">N/D</string>
     <string name="realtime_wind_default_title">Viento</string>
-    <string name="receive_net_mock_success">Net simulacro recibe éxito</string>
+    <string name="receive_net_mock_success">Recepción de muestreo de red</string>
     <string name="refresh_fail">"No se pudo conectar a la red"</string>
     <string name="reminder_from_xiaomi_weather_app">Alertas Mi Tiempo</string>
     <string name="request_cta_connect_net">Permitir a esta aplicación conectarse a internet y conceder los permisos obligatorios arriba mencionados.</string>
@@ -374,7 +374,7 @@
     <string name="saturday_shortest">Sáb</string>
     <string name="save_to_gallery_failure_message">"No se pudo guardar en la Galería"</string>
     <string name="save_to_gallery_icon_name">Guardar en la Galería</string>
-    <string name="save_to_gallery_success_message">Guardado en la Galería con éxito</string>
+    <string name="save_to_gallery_success_message">Guardado en la Galería</string>
     <string name="search_menu_title">Buscar</string>
     <string name="select_show_city">Seleccionar ubicación</string>
     <string name="send">Enviar</string>
@@ -537,7 +537,7 @@
     <string name="wednesday">Miércoles</string>
     <string name="wednesday_short">Mié</string>
     <string name="wednesday_shortest">Mié</string>
-    <string name="welcome_app_title">¡Bienvenido a Tiempo!</string>
+    <string name="welcome_app_title">¡Te damos la bienvenida a Tiempo!</string>
     <string name="wind_direction_no_data">Viento</string>
     <string name="wind_unit">%1$skm/h</string>
     <string name="xiaomi_weather_description_content">"Tiempo es una aplicación del sistema. No podrás ver información del tiempo o usar widgets relacionados después de desinstalar la aplicación."</string>

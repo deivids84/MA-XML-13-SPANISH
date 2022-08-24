@@ -34,7 +34,7 @@
     <string name="altitude_title">Altitud</string>
     <string name="altitude_uncalibrate_cancel">Cancelar</string>
     <string name="altitude_uncalibrate_msg">"No es posible calibrar la altitud con precisión sin un GPS o conexión de datos móviles."</string>
-    <string name="altitude_uncalibrate_refresh">Inténtalo de nuevo</string>
+    <string name="altitude_uncalibrate_refresh">Inténtalo otra vez</string>
     <string name="altitude_uncalibrate_tip">Datos sin calibrar</string>
     <string name="altitude_unit">m</string>
     <string name="am">AM</string>
@@ -45,7 +45,7 @@
     <string name="calibrate_failed">Error calibrando la altitud</string>
     <string name="calibrate_failed_no_location">"No se puede calibrar"</string>
     <string name="calibrate_failed_timeout">"No es posible conectarse al servidor"</string>
-    <string name="calibrate_rotate_again">Inténtalo de nuevo</string>
+    <string name="calibrate_rotate_again">Inténtalo otra vez</string>
     <string name="calibrate_success">Calibrada</string>
     <string name="calibrate_tip">Inclina el dispositivo para hacer rodar la bola alrededor del círculo</string>
     <string name="calibrate_title">Calibrar brújula</string>
@@ -71,7 +71,7 @@
     <string name="direction_south_east">SE</string>
     <string name="direction_south_west">SO</string>
     <string name="direction_west">O</string>
-    <string name="do_not_show_next_time">"No mostrar de nuevo"</string>
+    <string name="do_not_show_next_time">"No mostrar otra vez"</string>
     <string name="early_morning">Mañana</string>
     <string name="eras_ad">d.C</string>
     <string name="eras_bc">a.C</string>
@@ -148,7 +148,7 @@
     <string name="miuix_indexer_collect">Colecciones</string>
     <string name="miuix_indexer_selected">Seleccionado %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Desliza hacia abajo para actualizar</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado con éxito</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualizando…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Suelta para actualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Eso es todo por ahora"</string>

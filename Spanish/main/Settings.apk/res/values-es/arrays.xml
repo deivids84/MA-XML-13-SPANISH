@@ -134,7 +134,7 @@
         <item>Añadir buzón de voz</item>
         <item>Utilizar SIP</item>
         <item>Procesar llamada saliente</item>
-        <item>Huella digital</item>
+        <item>Huella dactilar</item>
         <item>Sensores corporales</item>
         <item>Leer difusiones móviles</item>
         <item>Ubicación simulada</item>
@@ -201,7 +201,7 @@
         <item>añadir buzón de voz</item>
         <item>utilizar SIP</item>
         <item>procesar llamada saliente</item>
-        <item>huella digital</item>
+        <item>Huella dactilar</item>
         <item>sensores corporales</item>
         <item>leer difusiones móviles</item>
         <item>ubicación simulada</item>
@@ -213,8 +213,8 @@
         <item>volumen de accesibilidad</item>
     </string-array>
     <string-array name="app_process_limit_entries">
-        <item>Límite estándar</item>
-        <item>Sin procesos en segundo plano</item>
+        <item>Predeterminado</item>
+        <item>Ningún proceso</item>
         <item>Máximo 1 proceso</item>
         <item>Máximo 2 procesos</item>
         <item>Máximo 3 procesos</item>
@@ -256,15 +256,15 @@
         <item>NR</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_aptxadaptive_mode_summaries">
-        <item>Modo alta calidad (por defecto)</item>
+        <item>El modo de calidad usado por aptX Adaptative</item>
         <item>Modo baja latencia</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_aptxadaptive_mode_titles">
-        <item>Modo alta calidad (por defecto)</item>
+        <item>Modo alta calidad</item>
         <item>Modo baja latencia</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
-        <item>Usar preferencia del sistema (Por defecto)</item>
+        <item>Bits de muestra usados en la reproducción</item>
         <item>16 bits/muestra</item>
         <item>24 bits/muestra</item>
         <item>32 bits/muestra</item>
@@ -276,12 +276,12 @@
         <item>32 bits/muestra</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
-        <item>Usar preferencia del sistema (Por defecto)</item>
+        <item>Canal de sonido usado en la reproducción</item>
         <item>Mono</item>
         <item>Estéreo</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
-        <item>Usar preferencia del sistema (Por defecto)</item>
+        <item>Predeterminado del sistema</item>
         <item>Mono</item>
         <item>Estéreo</item>
     </string-array>
@@ -289,7 +289,7 @@
         <item>Optimizado para calidad de audio</item>
         <item>Audio y calidad de conexión balanceados</item>
         <item>Optimizado para calidad de conexión</item>
-        <item>Mejor esfuerzo (Bit rate automático)</item>
+        <item>Códec de audio de alta resolución y estabilidad</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
         <item>Optimizado para calidad de audio (990kbps/909kbps)</item>
@@ -312,37 +312,37 @@
         <item>Optimizado para calidad de conexión</item>
         <item>Audio y calidad de conexión balanceados</item>
         <item>Optimizado para calidad de audio</item>
-        <item>Mejor esfuerzo (Bit rate automático)</item>
+        <item>Códec de audio de alta resolución y baja latencia</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_titles">
         <item>Optmizado para latencia baja (256kbps)</item>
         <item>Optimizado para calidad de conexión (400kbps)</item>
         <item>Audio y calidad de conexión balanceados (500/560kbps)</item>
         <item>Optimizado para calidad de audio (900kbps)</item>
-        <item>Mejor esfuerzo (Bit rate automático)</item>
+        <item>Mejor esfuerzo (Tasa de bits automática)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
-        <item>Usar preferencia del sistema (Por defecto)</item>
+        <item>Frecuencia de sonido usada en la reproducción</item>
         <item>44.1 kHz</item>
         <item>48.0 kHz</item>
         <item>88.2 kHz</item>
         <item>96.0 kHz</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
-        <item>Usar preferencia del sistema (Por defecto)</item>
+        <item>Predeterminada del sistema</item>
         <item>44.1 kHz</item>
         <item>48.0 kHz</item>
         <item>88.2 kHz</item>
         <item>96.0 kHz</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_summaries">
-        <item>Usar preferencia del sistema (Por defecto)</item>
+        <item>Codec de sonido usado en la reproducción</item>
         <item>SBC</item>
         <item>AAC</item>
         <item>Qualcomm® aptX™ audio</item>
         <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
-        <item>Qualcomm® aptX™ Adaptive audio</item>
+        <item>Audio aptX™ Adaptive de Qualcomm®</item>
         <item>Qualcomm® aptX™ TWS+ audio</item>
         <item>LHDC V3/V4</item>
         <item>LHDC V2</item>
@@ -351,7 +351,7 @@
         <item>Deshabilitar códecs opcionales</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
-        <item>Usar preferencia del sistema (Por defecto)</item>
+        <item>Predeterminado del sistema</item>
         <item>SBC</item>
         <item>AAC</item>
         <item>Qualcomm® aptX™ audio</item>
@@ -383,7 +383,7 @@
         <item>MAP 1.4</item>
     </string-array>
     <string-array name="bluetooth_max_connected_audio_devices">
-        <item>Ppción predeterminada: %1$d</item>
+        <item>Predeterminada del sistema: %1$d</item>
         <item>1</item>
         <item>2</item>
         <item>3</item>
@@ -893,12 +893,12 @@
         <item>Comprobar siempre</item>
     </string-array>
     <string-array name="inputdebuglog_select_level_entries">
-        <item>Nivel 0</item>
-        <item>Nivel 1</item>
-        <item>Nivel 2</item>
-        <item>Nivel 3</item>
-        <item>Nivel 4</item>
-        <item>Nivel 5</item>
+        <item>Nivel 0: Ninguno</item>
+        <item>Nivel 1: Error</item>
+        <item>Nivel 2: Atención</item>
+        <item>Nivel 3: Información</item>
+        <item>Nivel 4: Depuración</item>
+        <item>Nivel 5: Detallado</item>
     </string-array>
     <string-array name="keyguard_notification_status_entries">
         <item>"No activar la pantalla"</item>
@@ -1003,7 +1003,7 @@
         <item>Instalar herramienta: sudo aptitude install mtpfs libfuse-dev libmad0-dev</item>
         <item>Crear un directorio: mkdir /media/mtp</item>
         <item>Confirma los permisos de grupo de usuario en el actual grupo de usuario de fuse</item>
-        <item>Iniciar sesión de nuevo</item>
+        <item>Iniciar la sesión otra vez</item>
         <item>Accede al dispositivo montado: mtpfs /media/mtp por medio del Gestor de archivos; lo mismo para la carpeta local.</item>
         <item>"Desinstalar dispositivo: fusermount -u /media/mtp
 Nota: ¡Solo para Ubuntu 8.04!"</item>
@@ -1229,12 +1229,12 @@ Nota: ¡Solo para Ubuntu 8.04!"</item>
         <item>8 MB</item>
     </string-array>
     <string-array name="select_logd_system_levels">
-        <item>Desactivado</item>
-        <item>error</item>
+        <item>Ninguno</item>
+        <item>Error</item>
         <item>Atención</item>
         <item>Información</item>
-        <item>Depurar</item>
-        <item>Verboso</item>
+        <item>Depuración</item>
+        <item>Detallado</item>
     </string-array>
     <string-array name="select_logpersist_summaries">
         <item>Desactivado</item>
@@ -1296,8 +1296,8 @@ Nota: ¡Solo para Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="track_frame_time_entries">
         <item>Desactivado</item>
-        <item>En la pantalla como barras</item>
-        <item>Consola adb volcado de gfxinfo</item>
+        <item>En pantalla como barras</item>
+        <item>Volcado gfxinfo en ADB</item>
     </string-array>
     <string-array name="traffic_balance_entries">
         <item>Desactivado</item>

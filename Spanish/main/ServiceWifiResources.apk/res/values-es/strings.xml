@@ -26,7 +26,7 @@
 
 Este cambio puede permitir que los dispositivos cercanos rastreen la ubicación de su dispositivo."</string>
     <string name="wifi_disable_mac_randomization_dialog_network_not_found">Red no encontrada</string>
-    <string name="wifi_disable_mac_randomization_dialog_success">Configuración actualizada. Intente conectarse de nuevo.</string>
+    <string name="wifi_disable_mac_randomization_dialog_success">Configuración actualizada. Intenta conectar otra vez.</string>
     <string name="wifi_disable_mac_randomization_dialog_title">¿Cambiar la configuración de privacidad?</string>
     <string name="wifi_eap_error_message_code_32760">%1$s : EAP error de autenticación 32760</string>
     <string name="wifi_eap_error_message_code_32761">%1$s : EAP error de autenticación 32761</string>

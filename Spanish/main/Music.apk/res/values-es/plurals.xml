@@ -74,7 +74,7 @@
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="one">Ahora mismo</item>
-        <item quantity="other">Ahora</item>
+        <item quantity="other">Ahora mismo</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">Hace %d min</item>
@@ -168,7 +168,7 @@ Nota: El archivo también será eliminado de este dispositivo."</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="one">Ahora mismo</item>
-        <item quantity="other">Ahora</item>
+        <item quantity="other">Ahora mismo</item>
     </plurals>
     <plurals name="list_header_fans_count">
         <item quantity="other">%d seguidores</item>

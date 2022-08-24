@@ -7,7 +7,7 @@
     <item>Personalizar</item>
   </string-array>
   <string-array name="fingerprint_acquired_vendor">
-    <item>Inténtalo de nuevo</item>
+    <item>Inténtalo otra vez</item>
     <item></item>
     <item></item>
     <item>Cubre completamente el escáner de huellas dactilares y aplica presión.</item>

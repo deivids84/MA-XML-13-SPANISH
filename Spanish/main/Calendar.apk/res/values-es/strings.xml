@@ -95,8 +95,8 @@
     <string name="cancel_reminder">Cancelar recordatorio</string>
     <string name="card_detail_dialog_message">%1$s se actualizará todos los días. Suscribirse para recibir actualizaciones diarias.</string>
     <string name="card_detail_dialog_negative">Suscribirse más tarde</string>
-    <string name="card_detail_dialog_positive">Suscribirse ahora</string>
-    <string name="card_detail_dialog_title">¿Suscribirse ahora?</string>
+    <string name="card_detail_dialog_positive">Suscríbete ahora</string>
+    <string name="card_detail_dialog_title">¿Te suscribes ahora?</string>
     <string name="card_detail_hint">El contenido se mostrará en la página de inicio y se actualizará a diario una vez que te suscribas</string>
     <string name="card_detail_title">Detalles</string>
     <string name="card_manager_no_data">No hay suscripciones aún</string>
@@ -122,7 +122,7 @@
     <string name="common_google_play_services_install_title">Obtener los servicios de Google Play</string>
     <string name="common_google_play_services_notification_channel_name">Disponibilidad de los servicios de Google Play</string>
     <string name="common_google_play_services_notification_ticker">Error de los servicios de Google Play</string>
-    <string name="common_google_play_services_unknown_issue">%1$s tiene problemas con los servicios de Google Play. Inténtalo de nuevo.</string>
+    <string name="common_google_play_services_unknown_issue">%1$s tiene problemas con los servicios de Google Play. Inténtalo otra vez.</string>
     <string name="common_google_play_services_unsupported_text">"%1$s no se ejecutará sin los servicios de Google Play, que no son compatibles con su dispositivo."</string>
     <string name="common_google_play_services_update_button">Actualizar</string>
     <string name="common_google_play_services_update_text">"%1$s no se ejecutará a menos que actualice los servicios de Google Play."</string>
@@ -142,7 +142,7 @@
     <string name="countdown_notify_title">Cuenta atrás: %1$s</string>
     <string name="countdown_secondary_tag">Cuenta atrás</string>
     <string name="countdown_today">Hoy</string>
-    <string name="create_an_account_desc">"El Calendario funciona mejor con una Cuenta Mi.
+    <string name="create_an_account_desc">"El Calendario funciona mejor con una cuenta Xiaomi.
 
 • Accede desde cualquier navegador.
 • Haz copia de seguridad de tus eventos."</string>
@@ -220,7 +220,7 @@
     <string name="ee_dd_short_month">EEE, dd MMMM</string>
     <string name="eee_dd_long_month">EEEE, dd MMMM</string>
     <string name="email_guests_label">Enviar correo a invitados</string>
-    <string name="email_install_hint">El correo ha sido desinstalado. Instala Correo nuevamente para restaurar cuentas de calendario o añadir una nueva.</string>
+    <string name="email_install_hint">El Correo se ha desinstalado. Instala Correo otra vez para restaurar cuentas de calendario o añadir una nueva.</string>
     <string name="email_picker_label">Enviar correo con</string>
     <string name="empty_event">"No se pueden crear eventos vacíos"</string>
     <string name="english_premium_league">Liga Premier Inglesa</string>
@@ -316,7 +316,7 @@
     <string name="holiday_name_empty">"El nombre del festivo no puede estar vacío"</string>
     <string name="holiday_name_exists">Este festivo ya existe</string>
     <string name="holiday_name_special_character_warning">"Los nombres de festivos no pueden contener caracteres especiales"</string>
-    <string name="holiday_saved">Guardado con éxito</string>
+    <string name="holiday_saved">Guardado correctamente</string>
     <string name="holidays_title">Festivos</string>
     <string name="horoscope">Horóscopo</string>
     <string name="horoscope_card_title">"Horóscopo de hoy"</string>
@@ -333,10 +333,10 @@
     <string name="insert_event_toast_add_failed">"No se pudo añadir"</string>
     <string name="insert_event_toast_add_success">Evento creado</string>
     <string name="install_email_app">Instalar Correo</string>
-    <string name="install_email_finished">Instalado con éxito</string>
+    <string name="install_email_finished">Instalado</string>
     <string name="installing_email">Instalando…</string>
     <string name="item_num_selected">%1$d seleccionado</string>
-    <string name="language_change_confirmation">Cambiado con éxito. Puedes cambiar el idioma en los ajustes del Calendario.</string>
+    <string name="language_change_confirmation">Se ha cambiado. Puedes cambiar el idioma en los ajustes del Calendario.</string>
     <string name="launch_weather_comment">Pulsa aquí para obtener información del tiempo</string>
     <string name="load_more_hint">Cargar eventos de %1$d</string>
     <string name="loading">Un momento…</string>
@@ -490,12 +490,12 @@
     <string name="no_events_hint">Sin eventos</string>
     <string name="no_holiday_selected">"Los días de descanso no están seleccionados"</string>
     <string name="no_internet">"No se pudo conectar a internet"</string>
-    <string name="no_internet_dialog_message">Tu dispositivo necesita conectarse a la red para que puedas retirar el consentimiento. Comprueba tus ajustes de red y vuelve a intentarlo.</string>
+    <string name="no_internet_dialog_message">El dispositivo necesita conexión a la red para retirar el consentimiento. Comprueba los ajustes de red e inténtalo otra vez.</string>
     <string name="no_internet_dialog_title">Ha ocurrido un error</string>
     <string name="no_long_holidays">Sin festivos largos próximamente</string>
-    <string name="no_network">"No se pudo conectar a la red.
-Comprueba los ajustes de red e inténtalo de nuevo."</string>
-    <string name="no_network_btn">Inténtalo de nuevo</string>
+    <string name="no_network">"No se puede conectar a la red.
+Comprueba los ajustes de red e inténtalo otra vez."</string>
+    <string name="no_network_btn">Inténtalo otra vez</string>
     <string name="no_records">No hay elementos todavía.</string>
     <string name="no_storage">No hay suficiente espacio de almacenamiento</string>
     <string name="no_title_label">(Sin título)</string>
@@ -575,7 +575,7 @@ Comprueba los ajustes de red e inténtalo de nuevo."</string>
     <string name="privacy_card_description">Acepta nuestra Política de Privacidad para acceder a todas las funciones.</string>
     <string name="privacy_policy_dialog_agree">Aceptar</string>
     <string name="privacy_policy_dialog_dont_agree">"No aceptar"</string>
-    <string name="privacy_policy_dialog_message">&lt;Data&gt;¡Bienvenido al Calendario!&lt;br/&gt;Puedes usar esta aplicación para crear y administrar eventos, establecer recordatorios y recibir información adicional específica de tu ubicación.&lt;br/&gt;El Calendario necesita recopilar la información personal necesaria para brindarte servicios básicos. Puedes aprender cómo manejamos la información que recopilamos en nuestra &lt;a href=\"%1$s\"&gt;Política de Privacidad&lt;/a&gt;. &lt;br/&gt;Lee y acepta nuestro &lt;a href=\"%2$s\"&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &lt;a href=\"%3$s\"&gt;Política de Privacidad&lt;/a&gt; antes de usar el Calendario. Puedes retirar tu consentimiento a la Política de Privacidad del Calendario en los Ajustes en cualquier momento.&lt;br/&gt; Si no aceptas nuestra Política de Privacidad, no podrás utilizar algunas funciones de esta aplicación; sin embargo, su funcionalidad básica seguirá estando disponible.&lt;/Data&gt;</string>
+    <string name="privacy_policy_dialog_message"><Data>\"¡Te damos la bienvenida al Calendario!&lt;br/&gt;Puedes usar esta aplicación para crear y administrar eventos, establecer recordatorios y recibir información adicional específica de tu ubicación.&lt;br/&gt;Calendario necesita recopilar información personal para ofrecerte servicios básicos. Puedes conocer cómo manejamos la información que recopilamos en nuestra &lt;a href=\"%1$s\"&gt;Política de Privacidad&lt;/a&gt;.&lt;br/&gt; Lee y acepta nuestro &lt;a href=\"%2$s\"&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &lt;a href=\"%3$s\"&gt;Política de Privacidad&lt;/a&gt; antes de usar el Calendario. Puedes retirar tu consentimiento a la Política de Privacidad desde los Ajustes, en cualquier momento.&lt;br/&gt; Si no aceptas nuestra Política de Privacidad, no podrás utilizar algunas funciones de esta aplicación; sin embargo, su funcionalidad básica seguirá estando disponible.\"</Data></string>
     <string name="privacy_policy_dialog_title">Términos y Condiciones</string>
     <string name="privacy_revoke_switch_text">Retirada del consentimiento</string>
     <string name="pull_to_refresh_hint">Arrastra para cargar eventos desde %1$d</string>
@@ -674,9 +674,9 @@ Comprueba los ajustes de red e inténtalo de nuevo."</string>
     <string name="stats_title">Estadísticas</string>
     <string name="still_num">Tiempo hasta %s</string>
     <string name="storage_permission_denied">Permitir primero acceso al almacenamiento</string>
-    <string name="subscribe_card">Suscribirse ahora</string>
-    <string name="subscribe_card_success">¡Suscrito con éxito! Revisa los detalles en la página de inicio.</string>
-    <string name="subscribe_card_success_for_homepage">Suscrito a “%1$s” con éxito</string>
+    <string name="subscribe_card">Suscríbete ahora</string>
+    <string name="subscribe_card_success">¡Te has suscrito! Revisa los detalles en la página de inicio.</string>
+    <string name="subscribe_card_success_for_homepage">Suscrito a “%1$s”</string>
     <string name="subscribe_channel_bottom_hint">—— Calendario Mi ——</string>
     <string name="subscribe_channel_footer_desc">Revisar las suscripciones o darse de baja</string>
     <string name="subscribe_channel_footer_title">Suscrito</string>
@@ -790,7 +790,7 @@ También puedes añadir recordatorios para no perderte nada importante."</string
     <string name="two_selected_holiday">%1$s y %2$s son días de descanso</string>
     <string name="unable_record_future_menstruation">"No se puede registrar periodos futuros"</string>
     <string name="unsubscribe_card">Darse de baja</string>
-    <string name="unsubscribe_card_success">Te diste de baja de “%1$s” con éxito</string>
+    <string name="unsubscribe_card_success">Te has dado de baja en “%1$s”</string>
     <string name="unsubscribing_card">No suscrito</string>
     <string name="use_system_language">Usar idioma del sistema</string>
     <string name="user_experience_revoke_switch">Programa de Experiencia de Usuario</string>
@@ -826,7 +826,7 @@ También puedes añadir recordatorios para no perderte nada importante."</string
     <string name="widget_spec_agenda_birth_today">Hoy</string>
     <string name="xiaomi_calendar_delete_description">Calendario es una aplicación del sistema que te permite crear y gestionar eventos. Algunas de sus funciones seguirán estando disponibles después de eliminar el acceso directo de la Pantalla de inicio.</string>
     <string name="xiaomi_calendar_delete_title">¿Eliminar \"Calendario\" de la Pantalla de inicio?</string>
-    <string name="xiaomi_calendar_display_name">Calendario de Cuenta Mi</string>
+    <string name="xiaomi_calendar_display_name">Calendario de la cuenta Xiaomi</string>
     <string name="year">Año</string>
     <string name="yearly">Anualmente (cada %s)</string>
     <string name="yearly_plain">Anualmente</string>

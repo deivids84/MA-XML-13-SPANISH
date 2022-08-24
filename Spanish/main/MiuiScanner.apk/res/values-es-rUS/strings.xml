@@ -650,6 +650,7 @@
     <string name="saveDone">Guardado con éxito</string>
     <string name="save_as_PDF">Guardar como PDF</string>
     <string name="save_as_picture">Guardar como imagen</string>
+    <string name="save_documents_ui">Guardado en el Gestor de archivos</string>
     <string name="save_excel_result_title">Guardar</string>
     <string name="save_excel_title">Guardar archivo Excel</string>
     <string name="save_fail">"No se pudo guardar"</string>
@@ -660,8 +661,8 @@
     <string name="scanHistory_close">Desactivado</string>
     <string name="scanHistory_isOpen">¿Comenzar a rastrear el historial de elementos escaneados ahora?</string>
     <string name="scanHistory_open">Activado</string>
-    <string name="scan_document_top_tip">Escanea un documento físico y crea un PDF</string>
-    <string name="scan_document_top_tip_second">Escanea múltiples documentos y crea un PDF</string>
+    <string name="scan_document_top_tip">Escanea un documento para crear un PDF</string>
+    <string name="scan_document_top_tip_second">Escanea varios documentos para crear un PDF</string>
     <string name="scan_form">Escanear tabla</string>
     <string name="scan_form_top_tip">Escanear, guardar y editar tablas</string>
     <string name="scan_general_top_tip">Reconocer plantas, personas y productos</string>

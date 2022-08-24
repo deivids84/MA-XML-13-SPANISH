@@ -62,7 +62,7 @@
     <string name="miservice_channel_update_notification_info">\"Servicios y comentarios\" está solicitando datos online…</string>
     <string name="miservice_notification_boot_content">Aprende más sobre lo que puede hacer MIUI</string>
     <string name="miservice_notification_huanji_content">Transfiérelos usando Mi Mover</string>
-    <string name="miservice_notification_huanji_title">¿Tienes elementos importantes en tu teléfono antiguo?</string>
+    <string name="miservice_notification_huanji_title">¿Tienes elementos importantes en tu dispositivo antiguo?</string>
     <string name="miservice_notification_open_feedback_content">Todas las funciones de comentarios fueron movidas a la nueva aplicación</string>
     <string name="miservice_notification_open_feedback_title">Introducción a \"Servicios y comentarios\"</string>
     <string name="miservice_notification_scan_content">Usa el Escáner para traducir palabras y frases</string>
@@ -126,7 +126,7 @@
     <string name="miui_feedback_edit_submit_dialog_confirm">Aceptar</string>
     <string name="miui_feedback_edit_submit_dialog_content">&lt;Data&gt;Debes aceptar nuestra &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\"&gt;Política de Privacidad&lt;/a&gt; y nuestro &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\"&gt;Acuerdo de Usuario&lt;/a&gt; para poder utilizar la función de Comentarios. Los problemas que reportes, así como los elementos que adjuntes (podrían contener información personal, sobre tu dispositivo y sobre la red) serán subidos a los servidores de MIUI. Esto nos ayudará a localizar y solucionar los problemas que reportes.&lt;/Data&gt;</string>
     <string name="miui_feedback_edit_submit_dialog_content_global">&lt;Data&gt;Tus comentarios, junto con los archivos adjuntos (si los hubiese) y los registros (puedes desmarcar las casillas correspondientes de los elementos que no quieres subir), se enviarán a los servidores de MIUI. Los registros podrían contener información personal y tus datos de ubicación. Seleccionando Aceptar significa que has leído y aceptado nuestra &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\"&gt;Política de Privacidad&lt;/a&gt; y &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\"&gt;Acuerdo de Usuario&lt;/a&gt;.&lt;/Data&gt;</string>
-    <string name="miui_feedback_edit_submit_dialog_not_show_again">"No mostrar de nuevo"</string>
+    <string name="miui_feedback_edit_submit_dialog_not_show_again">"No mostrar otra vez"</string>
     <string name="miui_feedback_edit_submit_dialog_title">Enviar reporte</string>
     <string name="miui_feedback_edit_submit_directly">Enviar</string>
     <string name="miui_feedback_edit_title_occurrence_time">Seleccionar hora</string>
@@ -191,13 +191,13 @@ Correo electrónico: service.jp@xiaomi.com"</string>
     <string name="miui_main_shortcut_label_submit_feedback">Enviar comentario</string>
     <string name="miui_main_update_back_to_home">Preparando Pantalla de inicio…</string>
     <string name="miui_main_update_continue">Siguiente</string>
-    <string name="miui_main_update_end_title">Bienvenido a MIUI</string>
+    <string name="miui_main_update_end_title">Te damos la bienvenida a MIUI</string>
     <string name="miui_main_update_learn_more">Aprender más</string>
     <string name="miui_main_update_start">Actualizar ahora</string>
     <string name="miui_main_update_success_sub_title">Conoce el nuevo MIUI</string>
     <string name="miui_main_update_success_title">Haz tu vida más fácil</string>
     <string name="miui_main_update_success_title_12">Solo tuyo</string>
-    <string name="miui_main_update_success_title_12_5">Bienvenido a MIUI 12.5</string>
+    <string name="miui_main_update_success_title_12_5">Te damos la bienvenida a MIUI 12.5</string>
     <string name="miuix_access_state_desc">Seleccionado</string>
     <string name="miuix_alphabet_indexer_name">Barra de índice</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar</string>
@@ -217,7 +217,7 @@ Correo electrónico: service.jp@xiaomi.com"</string>
     <string name="miuix_indexer_collect">Colecciones</string>
     <string name="miuix_indexer_selected">Seleccionado %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Desliza hacia abajo para actualizar</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado con éxito</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualizando…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Suelta para actualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Eso es todo por ahora"</string>
@@ -296,11 +296,11 @@ Lea y acepte la nueva versión de %3$s antes de continuar."</string>
     <string name="public_authorize_now">Ajustes</string>
     <string name="public_loading_text">Un momento…</string>
     <string name="public_net_error_retry">Vuelve a intentarlo</string>
-    <string name="public_net_error_sub_title">Comprueba la configuración de red y vuelve a intentarlo</string>
+    <string name="public_net_error_sub_title">Comprueba los ajustes de red e inténtalo otra vez</string>
     <string name="public_net_error_title">"No se pudo conectar a la red"</string>
     <string name="public_open_feedback_service">Iniciar</string>
     <string name="public_please_authorize">Permisos necesarios para continuar</string>
-    <string name="public_welcome_use_feedback_service">Bienvenido a Servicios &amp; comentarios! Puede usar esta aplicación para enviar comentarios, ver preguntas frecuentes, solicitar devoluciones e intercambios de productos, y más.</string>
+    <string name="public_welcome_use_feedback_service">¡Te damos la bienvenida a Servicios y Comentarios! Con esta aplicación puedes enviar comentarios, ver preguntas frecuentes, solicitar devoluciones, intercambios de productos, y más.</string>
     <string name="rationale_ask">Esta aplicación puede no funcionar correctamente sin los permisos solicitados.</string>
     <string name="rationale_ask_again">Esta aplicación puede no funcionar correctamente sin los permisos solicitados. Abre la pantalla de configuración de la aplicación para modificar los permisos de la aplicación.</string>
     <string name="saturday">Sábado</string>
@@ -366,8 +366,8 @@ Lea y acepte la nueva versión de %3$s antes de continuar."</string>
     <string name="wednesday_short">Mié</string>
     <string name="wednesday_shortest">Mié</string>
     <string name="withdraw_consent_failed">"No se pudo retirar el consentimiento"</string>
-    <string name="withdraw_consent_failed_hint">Ocurrió un error en el servidor. Espere uno o dos minutos y vuelva a intentarlo.</string>
-    <string name="withdraw_consent_failed_hint_connect_net">Su dispositivo debe conectarse a la red para que pueda retirar el consentimiento. Verifique su configuración de red y vuelva a intentarlo.</string>
+    <string name="withdraw_consent_failed_hint">Ocurrió un error en el servidor. Espera un par de minutos e inténtalo otra vez.</string>
+    <string name="withdraw_consent_failed_hint_connect_net">El dispositivo necesita conexión a la red retirar el consentimiento. Comprueba los ajustes de red e inténtalo otra vez.</string>
     <string name="withdrawing">Retirar el consentimiento…</string>
     <string name="yesterday">Ayer</string>
 </resources>

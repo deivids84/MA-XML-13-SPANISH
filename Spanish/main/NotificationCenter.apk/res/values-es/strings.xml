@@ -78,7 +78,7 @@
     <string name="hint_search_all">Buscar aplicaciones</string>
     <string name="hint_search_in_disabled_apps">"Mostrar aplicaciones que no pueden mostrar notificaciones"</string>
     <string name="hint_search_in_enabled_apps">Mostrar aplicaciones que pueden mostrar notificaciones</string>
-    <string name="last_sent_time_second">Justo ahora</string>
+    <string name="last_sent_time_second">Ahora mismo</string>
     <string name="list_title_disable_notification">"Las notificaciones no están permitidas"</string>
     <string name="loading">Un momento…</string>
     <string name="lock_screen_display_rules">Formato</string>
@@ -109,7 +109,7 @@
     <string name="miuix_indexer_collect">Colecciones</string>
     <string name="miuix_indexer_selected">Seleccionado %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Desliza hacia abajo para actualizar</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado con éxito</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualizando…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Suelta para actualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Eso es todo por ahora"</string>

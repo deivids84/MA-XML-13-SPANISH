@@ -29,8 +29,8 @@
         <item quantity="one">en 1 min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
-        <item quantity="one">Justo ahora</item>
-        <item quantity="other">Justo ahora</item>
+        <item quantity="one">Ahora mismo</item>
+        <item quantity="other">Ahora mismo</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">Hace %d minutos</item>
@@ -303,8 +303,8 @@ para obtener un prueba gratuita de %d días!"</item>
         <item quantity="one">"No se pudo obtener una prueba gratuita de %d día"</item>
     </plurals>
     <plurals name="gb_voice_changer_trial_gain_success">
-        <item quantity="other">Recibiste con éxito una prueba gratuita de %d días</item>
-        <item quantity="one">Recibiste con éxito una prueba gratuita de %d día</item>
+        <item quantity="other">Has recibido una prueba gratuita de %d días</item>
+        <item quantity="one">Has recibido una prueba gratuita de %d día</item>
     </plurals>
     <plurals name="gb_voice_changer_user_status_get_trial_card">
         <item quantity="other">Obtén una prueba gratuita de %d días</item>
@@ -445,8 +445,8 @@ para obtener un prueba gratuita de %d días!"</item>
         <item quantity="one">%s minuto</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
-        <item quantity="one">Justo ahora</item>
-        <item quantity="other">Justo ahora</item>
+        <item quantity="one">Ahora mismo</item>
+        <item quantity="other">Ahora mismo</item>
     </plurals>
     <plurals name="lockpattern_recording_incorrect_too_short">
         <item quantity="other">Conecta al menos %d puntos</item>
@@ -457,8 +457,8 @@ para obtener un prueba gratuita de %d días!"</item>
         <item quantity="one">Conecta al menos %s punto</item>
     </plurals>
     <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
-        <item quantity="other">"Espera %d segundos e inténtalo de nuevo. "</item>
-        <item quantity="one">"Espera %d segundo e inténtalo de nuevo. "</item>
+        <item quantity="other">"Espera %d segundos e inténtalo otra vez. "</item>
+        <item quantity="one">"Espera %d segundo e inténtalo otra vez. "</item>
     </plurals>
     <plurals name="manual_white_list_header">
         <item quantity="other">%d excepciones</item>

@@ -45,7 +45,7 @@
     <string name="ask_nfc_tap">Toca otro dispositivo para completar el proceso</string>
     <string name="beam_busy">Beam está ocupado ahora. Vuelva a intentarlo cuando se complete la transferencia en curso.</string>
     <string name="beam_canceled">Beam cancelado</string>
-    <string name="beam_complete">Transmitido con éxito</string>
+    <string name="beam_complete">Transmitido</string>
     <string name="beam_failed">"No se pudo transmitir"</string>
     <string name="beam_handover_not_supported">"El dispositivo del receptor no admite la transferencia de archivos grandes a través de beam."</string>
     <string name="beam_outgoing">Transmitiendo…</string>
@@ -180,7 +180,7 @@
     <string name="sunday_shortest">Dom</string>
     <string name="tag_dispatch_failed">"No se pudo encontrar una aplicación que admita la etiqueta NFC"</string>
     <string name="tag_read_error">"No se pudo leer la información a través de NFC. Intentar otra vez."</string>
-    <string name="tap_again_to_complete">Toca de nuevo para completar el pago con %1$s</string>
+    <string name="tap_again_to_complete">Pulsa otra vez para completar el pago con %1$s</string>
     <string name="tap_again_to_pay">Vuelve a tocar para pagar con %1$s</string>
     <string name="tap_to_beam">Toca para compartir</string>
     <string name="thursday">Jueves</string>

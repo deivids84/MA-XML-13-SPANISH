@@ -154,7 +154,7 @@
     </string-array>
     <string-array name="settings_search_user_protocol">
         <item>Acuerdo de Usuario</item>
-        <item>Ver Acuerdo de Usuario de Cuenta Mi</item>
+        <item>Acuerdo de Usuario de la cuenta Xiaomi</item>
         <item>Cuenta Mi;Cuenta;Cuenta Xiaomi;Acuerdo de usuario;EULA</item>
     </string-array>
 </resources>

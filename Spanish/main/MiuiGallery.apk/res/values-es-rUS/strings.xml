@@ -1090,6 +1090,8 @@ disponibles"</string>
     <string name="functions_are_being_developed">Esta función estará disponible pronto. ¡Esté atento!</string>
     <string name="gallery_setting">Ajustes</string>
     <string name="gallery_sync_disable_toast">La sincronización para la Galería está desactivada</string>
+    <string name="gallery_uninstall_description_content">"Galería es una aplicación del sistema que te permite ver, administrar y sincronizar fotos y vídeos en todos los dispositivos conectados. Si desinstalas Galería, perderás los elementos convertidos en privados y no estarán disponibles otras funciones de visualización y selección de elementos de Galería. ¿Desinstalar de todos modos?"</string>
+    <string name="gallery_uninstall_description_title">¿Desinstalar Galería?</string>
     <string name="generate_story_summary">"Toma suficientes fotos, conecta el cargador y apaga la pantalla para que aparezcan los recuerdos. Los recuerdos ya generados no desaparecerán si desactivas esta función."</string>
     <string name="generate_story_title">Recuerdos</string>
     <string name="get_album_info_in_process">"Solicitando detalles del álbum compartido…"</string>

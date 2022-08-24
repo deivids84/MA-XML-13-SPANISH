@@ -29,8 +29,8 @@
         <item quantity="one">en 1 min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
-        <item quantity="one">Justo ahora</item>
-        <item quantity="other">Justo ahora</item>
+        <item quantity="one">Ahora mismo</item>
+        <item quantity="other">Ahora mismo</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">Hace %d minutos</item>
@@ -85,8 +85,8 @@
         <item quantity="one">%d contacto eliminado permanentemente</item>
     </plurals>
     <plurals name="contacts_trash_restore_respond">
-        <item quantity="other">%d contactos restaurados con éxito</item>
-        <item quantity="one">%d contacto restaurado con éxito</item>
+        <item quantity="other">%d contactos restaurados</item>
+        <item quantity="one">%d contacto restaurado</item>
     </plurals>
     <plurals name="device_import_done_toast">
         <item quantity="other">%1$d contactos importados</item>
@@ -161,8 +161,8 @@
         <item quantity="one">en 1 minuto</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
-        <item quantity="one">Justo ahora</item>
-        <item quantity="other">Justo ahora</item>
+        <item quantity="one">Ahora mismo</item>
+        <item quantity="other">Ahora mismo</item>
     </plurals>
     <plurals name="listTotalAllContacts">
         <item quantity="other">%d contactos</item>

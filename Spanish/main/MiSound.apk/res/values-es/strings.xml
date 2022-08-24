@@ -58,7 +58,7 @@
     <string name="clearable_edittext_clear_description">Eliminar</string>
     <string name="close">Cerrar</string>
     <string name="complete_dialog_button">Entendido</string>
-    <string name="complete_dialog_message">"Has completado la prueba con éxito."</string>
+    <string name="complete_dialog_message">"Has completado la prueba."</string>
     <string name="complete_dialog_title">Resultados de la prueba</string>
     <string name="copy">Copiar</string>
     <string name="customization_complete">Listo</string>
@@ -109,7 +109,7 @@
     <string name="evening">Tarde</string>
     <string name="expand_button_title">Avanzado</string>
     <string name="exposed_dropdown_menu_content_description">Mostrar menú desplegable</string>
-    <string name="first_note">Comprueba tu percepción auditiva para ajustar el volumen acorde a ella.</string>
+    <string name="first_note">Comprueba tu percepción auditiva para ajustar el volumen.</string>
     <string name="fmt_chinese_date">N mes e</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">d</string>
@@ -239,7 +239,7 @@
     <string name="miuix_indexer_collect">Colecciones</string>
     <string name="miuix_indexer_selected">Seleccionado %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Desliza hacia abajo para actualizar</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado con éxito</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualizando…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Suelta para actualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Eso es todo por ahora"</string>
@@ -327,7 +327,7 @@
     <string name="music_audio_visual_wake_lock">Mantener la pantalla activa</string>
     <string name="music_audio_visual_wake_lock_summary">"No apagar la pantalla cuando se muestran los efectos visuales"</string>
     <string name="music_below_thirty_years">Hasta %d años de edad</string>
-    <string name="music_customized_sound_summary">Personalizar volumen acorde a tu percepción auditiva</string>
+    <string name="music_customized_sound_summary">Ajusta el volumen según tu percepción auditiva</string>
     <string name="music_customized_sound_title">Ajuste de volumen</string>
     <string name="music_delete">Eliminar</string>
     <string name="music_delete_sound_title">Eliminando preajustes</string>
@@ -352,7 +352,7 @@
     <string name="music_dolby_mode_music">Música</string>
     <string name="music_dolby_mode_off">Desactivado</string>
     <string name="music_equalizer">Ecualizador</string>
-    <string name="music_equalizer_summary">Ajustar niveles individuales para distintos tipos de música</string>
+    <string name="music_equalizer_summary">Ajusta niveles para diferentes tipos de música</string>
     <string name="music_hd_title">Audio HD</string>
     <string name="music_headphone_settings">Selecciona el tipo de auriculares</string>
     <string name="music_headset_audio_visual">Efectos visuales</string>
@@ -361,7 +361,7 @@
     <string name="music_headset_audio_visual_style">Estilo de los efectos visuales</string>
     <string name="music_headset_audio_visual_style_summary">Seleccionar estilo para los efectos visuales</string>
     <string name="music_headset_audio_visual_summary">Acompañar el sonido con efectos visuales en la Pantalla de bloqueo</string>
-    <string name="music_headset_audio_visual_toast">Aplicado con éxito</string>
+    <string name="music_headset_audio_visual_toast">Aplicado</string>
     <string name="music_headset_audio_visual_unmute">Vista previa con sonido</string>
     <string name="music_headset_button_settings">Asignar botones</string>
     <string name="music_headset_calibrate">Asignar botones</string>
@@ -380,9 +380,9 @@
     <string name="music_headset_effect_settings">Efectos de sonido</string>
     <string name="music_headset_improve_sound">Ajustar sonido a los auriculares</string>
     <string name="music_headset_is_open">Activado</string>
-    <string name="music_headset_mode_music">Controlar reproducción de música</string>
-    <string name="music_headset_mode_settings">Botones del control remoto para auriculares</string>
-    <string name="music_headset_mode_volume">Controlar nivel de volumen</string>
+    <string name="music_headset_mode_music">Controlar la reproducción</string>
+    <string name="music_headset_mode_settings">Botones de control de auriculares</string>
+    <string name="music_headset_mode_volume">Controlar nivel del volumen</string>
     <string name="music_headset_no_contected">No se detectaron auriculares</string>
     <string name="music_headset_not_open">Desactivado</string>
     <string name="music_headset_open">Ajustar sonido a los auriculares</string>
@@ -398,7 +398,7 @@
     <string name="music_hifi_title">Audio Hi-Fi</string>
     <string name="music_mi_effect_summary">Usar Potenciador de Mi Sound cuando se utilicen altavoces</string>
     <string name="music_mi_effect_title">Potenciador de Mi Sound</string>
-    <string name="music_open_customized_sound_summary">Personalizar volumen acorde a tu percepción auditiva</string>
+    <string name="music_open_customized_sound_summary">Ajustar el volumen de acuerdo a la percepción auditiva</string>
     <string name="music_open_customized_sound_title">Ajuste de volumen</string>
     <string name="music_please_input_head_set">Conecta los auriculares antes de empezar</string>
     <string name="music_rename">Renombrar</string>
@@ -429,7 +429,7 @@
     <string name="personal_sound">Utilizar el preajuste aplicado</string>
     <string name="pm">PM</string>
     <string name="preference_copied">\"%1$s\" se ha copiado en el portapapeles.</string>
-    <string name="retry_test">Empezar de nuevo</string>
+    <string name="retry_test">Empezar otra vez</string>
     <string name="ringtone_output_device_summary">Permitir sonido para llamadas entrantes y notificaciones cuando se conectan accesorios (auriculares con cable o dispositivos Bluetooth)</string>
     <string name="ringtone_output_device_title">Permitir sonido de altavoces</string>
     <string name="saturday">Sábado</string>
@@ -459,7 +459,7 @@
     <string name="sound_id_dialog_msg_bt_disconnect">Encienda %s y manténgalos cerca de este dispositivo.</string>
     <string name="sound_id_dialog_msg_wire_headset_disconnect">Conecte %s a este dispositivo.</string>
     <string name="sound_id_effect_already_apply">Aplicado</string>
-    <string name="sound_id_effect_completed">Sonido personalizado creado con éxito</string>
+    <string name="sound_id_effect_completed">Se ha creado el sonido personalizado</string>
     <string name="sound_id_effect_edit_delete">Eliminar sonido personalizado</string>
     <string name="sound_id_effect_null">Desactivado</string>
     <string name="sound_id_effect_rename_note">Nombre</string>
@@ -512,7 +512,7 @@
     <string name="sound_transmission_dialog_message">Asistente de sonido</string>
     <string name="sound_transmission_dialog_title">Activar Bluetooth</string>
     <string name="sound_transmission_end">Detener</string>
-    <string name="sound_transmission_function_generalize">"Transmite audio desde el micrófono de tu teléfono a un dispositivo Bluetooth externo"</string>
+    <string name="sound_transmission_function_generalize">"Transmite audio desde el micrófono de tu dispositivo a un dispositivo Bluetooth externo"</string>
     <string name="sound_transmission_processing">Micrófono</string>
     <string name="sound_transmission_prompt">Permitr que esta función active el Bluetooth para poder usar el micrófono inalámbrico.</string>
     <string name="sound_transmission_scenes">Escena</string>
@@ -526,7 +526,7 @@
     <string name="sunday">Domingo</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
-    <string name="sure_give_up_test">"Tendrás que empezar de nuevo la próxima vez si detienes ahora la prueba. ¿Detener de todas formas?"</string>
+    <string name="sure_give_up_test">"Tendrás que empezar otra vez si detienes ahora la prueba. ¿Detener?"</string>
     <string name="sure_to_back">¿Descartar ahora los cambios?</string>
     <string name="switch_audio_device_bt">Bluetooth</string>
     <string name="switch_audio_device_phone">Este dispositivo</string>
@@ -593,7 +593,7 @@
     <string name="wireless_transmission">Altavoz inalámbrico</string>
     <string name="wireless_transmission_cancel">Cancelar</string>
     <string name="wireless_transmission_confirm">Activar</string>
-    <string name="wireless_transmission_definition">"Transmite la alimentación del micrófono de tu teléfono a un dispositivo Bluetooth externo"</string>
+    <string name="wireless_transmission_definition">"Transmite la alimentación del micrófono de tu dispositivo a un dispositivo Bluetooth externo"</string>
     <string name="wireless_transmission_prompt">Para transmitir audio, el altavoz inalámbrico debe activar el Bluetooth. ¿Activar ahora?</string>
     <string name="yesterday">Ayer</string>
 </resources>

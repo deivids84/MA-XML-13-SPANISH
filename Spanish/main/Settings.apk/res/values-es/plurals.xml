@@ -29,8 +29,8 @@
         <item quantity="one">en 1 min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
-        <item quantity="one">Justo ahora</item>
-        <item quantity="other">Justo ahora</item>
+        <item quantity="one">Ahora mismo</item>
+        <item quantity="other">Ahora mismo</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">Hace %d minutos</item>
@@ -237,8 +237,8 @@
         <item quantity="one">%d aplicación conectada</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
-        <item quantity="one">Justo ahora</item>
-        <item quantity="other">Justo ahora</item>
+        <item quantity="one">Ahora mismo</item>
+        <item quantity="other">Ahora mismo</item>
     </plurals>
     <plurals name="location_app_permission_summary_location_on">
         <item quantity="other">Aplicaciones con acceso a la ubicación: %1$d de %2$d</item>
@@ -297,16 +297,16 @@
         <item quantity="one">Ingresa al menos %d dígito</item>
     </plurals>
     <plurals name="lockpattern_recording_incorrect_too_short">
-        <item quantity="other">Une al menos %d puntos. Inténtalo de nuevo.</item>
-        <item quantity="one">Une al menos %d punto. Inténtalo de nuevo.</item>
+        <item quantity="other">Une al menos %d puntos. Inténtalo otra vez.</item>
+        <item quantity="one">Une al menos %d punto. Inténtalo otra vez.</item>
     </plurals>
     <plurals name="lockpattern_too_many_failed_confirmation_attempts">
-        <item quantity="other">Demasiados intentos fallidos. Inténtalo de nuevo en %d segundos.</item>
-        <item quantity="one">Demasiados intentos fallidos. Inténtalo de nuevo en %d segundo.</item>
+        <item quantity="other">Demasiados intentos incorrectos. Inténtalo otra vez en %d segundos.</item>
+        <item quantity="one">Demasiados intentos incorrectos. Inténtalo otra vez en %d segundo.</item>
     </plurals>
     <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
-        <item quantity="other">Espera %d segundos e inténtalo de nuevo.</item>
-        <item quantity="one">Espera %d segundo e inténtalo de nuevo.</item>
+        <item quantity="other">Espera %d segundos e inténtalo otra vez.</item>
+        <item quantity="one">Espera %d segundo e inténtalo otra vez.</item>
     </plurals>
     <plurals name="manage_notification_access_summary_nonzero">
         <item quantity="other">%d aplicaciones pueden leer notificaciones</item>
@@ -317,8 +317,8 @@
         <item quantity="one">1 agente de confianza activo</item>
     </plurals>
     <plurals name="max_number_of_processes">
-        <item quantity="other">Como máximo %d procesos</item>
-        <item quantity="one">Como máximo %d proceso</item>
+        <item quantity="other">Máximo %d procesos</item>
+        <item quantity="one">Máximo %d proceso</item>
     </plurals>
     <plurals name="memory_usage_apps_summary">
         <item quantity="other">%1$d aplicaciones han utilizado memoria durante las últimas %2$s</item>
@@ -433,8 +433,8 @@
         <item quantity="one">1 segundo</item>
     </plurals>
     <plurals name="security_settings_fingerprint_preference_summary">
-        <item quantity="other">%1$d huellas digitales configuradas</item>
-        <item quantity="one">%1$d huella digital configurada</item>
+        <item quantity="other">%1$d huellas dactilares añadidas</item>
+        <item quantity="one">%1$d huella dactilar añadida</item>
     </plurals>
     <plurals name="see_all_apps_title">
         <item quantity="other">Ver las %1$d aplicaciones</item>

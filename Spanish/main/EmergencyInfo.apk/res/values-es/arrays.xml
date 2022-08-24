@@ -10,12 +10,12 @@
         <item>Escala de animación 10x</item>
     </string-array>
     <string-array name="app_process_limit_entries">
-        <item>Límite estándar</item>
-        <item>Sin procesos en segundo plano</item>
-        <item>Como máximo 1 proceso</item>
-        <item>Como máximo 2 procesos</item>
-        <item>Como máximo 3 procesos</item>
-        <item>Como máximo 4 procesos</item>
+        <item>Predeterminado</item>
+        <item>Ningún proceso</item>
+        <item>Máximo 1 proceso</item>
+        <item>Máximo 2 procesos</item>
+        <item>Máximo 3 procesos</item>
+        <item>Máximo 4 procesos</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
         <item>Usar selección de sistema (predeterminado)</item>
@@ -43,13 +43,13 @@
         <item>Optimizado para calidad de audio</item>
         <item>Calidad de conexión y audio equilibrada</item>
         <item>Optimizado para la calidad de la conexión</item>
-        <item>Mejor esfuerzo (velocidad de bits adaptable)</item>
+        <item>Códec de audio de alta resolución y estabilidad</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
         <item>Optimizado para calidad de audio (990kbps/909kbps)</item>
         <item>Calidad de audio y conexión equilibrada (660kbps/606kbps)</item>
         <item>Optimizado para calidad de conexión (330kbps/303kbps)</item>
-        <item>Mejor esfuerzo (velocidad de bits adaptable)</item>
+        <item>Mejor esfuerzo (Tasa de bits flexible)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
         <item>Usar selección de sistema (predeterminado)</item>

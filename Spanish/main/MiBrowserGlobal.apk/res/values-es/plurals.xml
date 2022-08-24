@@ -29,8 +29,8 @@
         <item quantity="one">en 1 min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
-        <item quantity="one">Justo ahora</item>
-        <item quantity="other">Justo ahora</item>
+        <item quantity="one">Ahora mismo</item>
+        <item quantity="other">Ahora mismo</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">Hace %d minutos</item>
@@ -145,8 +145,8 @@
         <item quantity="one">Mira un vídeo y obtén %d bono extra.</item>
     </plurals>
     <plurals name="general__shared__exit_unlock_page_reward_result">
-        <item quantity="other">Has recibido %d bonos con éxito</item>
-        <item quantity="one">Has recibido %d bono con éxito</item>
+        <item quantity="other">Has recibido %d bonos</item>
+        <item quantity="one">Has recibido %d bono</item>
     </plurals>
     <plurals name="general__shared__exit_unlock_page_reward_title">
         <item quantity="other">Mira un vídeo para obtener %d bonos.</item>
@@ -173,8 +173,8 @@
         <item quantity="one">Mira otro vídeo para obtener %d bono adicional.</item>
     </plurals>
     <plurals name="general__shared__reward_result">
-        <item quantity="other">Has recibido %d bonos extra con éxito</item>
-        <item quantity="one">Has recibido %d bono extra con éxito</item>
+        <item quantity="other">Has recibido %d bonos extra</item>
+        <item quantity="one">Has recibido %d bono extra</item>
     </plurals>
     <plurals name="general__shared__top_up_reward">
         <item quantity="other">Mira un vídeo para obtener %d bonos extra.</item>
@@ -269,12 +269,12 @@
         <item quantity="one">Protegido %d vez</item>
     </plurals>
     <plurals name="le_notification_download_completed">
-        <item quantity="other">%1$s elementos descargados con éxito</item>
-        <item quantity="one">%1$s elemento descargado con éxito</item>
+        <item quantity="other">%1$s elementos descargados</item>
+        <item quantity="one">%1$s elemento descargado</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
-        <item quantity="one">Justo ahora</item>
-        <item quantity="other">Justo ahora</item>
+        <item quantity="one">Ahora mismo</item>
+        <item quantity="other">Ahora mismo</item>
     </plurals>
     <plurals name="mins_ago">
         <item quantity="other">Hace %1$d minutos</item>
@@ -465,6 +465,10 @@
     <plurals name="suggest_access_item_singer_pop">
         <item quantity="other">%d canciones populares</item>
         <item quantity="one">%d canción popular</item>
+    </plurals>
+    <plurals name="tag_count">
+        <item quantity="other">%d pestañas</item>
+        <item quantity="one">%d pestaña</item>
     </plurals>
     <plurals name="v5_edit_mode_title">
         <item quantity="other">%1$d elementos seleccionados</item>

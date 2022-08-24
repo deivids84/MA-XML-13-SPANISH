@@ -60,7 +60,7 @@
     <string name="bluetooth_introduction">El sistema utiliza Bluetooth para la comunicación inalámbrica. Para poder funcionar con normalidad, Bluetooth necesita los siguientes permisos:</string>
     <string name="bluetooth_usage_desc">La configuración inicial le permite establecer sus preferencias básicas para este dispositivo. Para configurar correctamente su dispositivo, los servicios del sistema Bluetooth utilizarán los siguientes permisos:</string>
     <string name="boot_video_desc">Ver el mundo en 2K</string>
-    <string name="boot_video_replay">Reproducir de nuevo</string>
+    <string name="boot_video_replay">Reproducir otra vez</string>
     <string name="boot_video_skip">Saltar</string>
     <string name="calculator_introduction">Puedes usar esta aplicación para hacer cálculos, convertir unidades y divisas y estimar el pago de tu hipoteca.</string>
     <string name="camera_application_introduction">Puede usar esta aplicación para tomar fotos y videos.</string>
@@ -85,11 +85,12 @@
     <string name="cookies_content_two">"Decida si desea que nuestros proveedores de contenido de terceros de confianza utilicen cookies para personalizar las recomendaciones de contenido y los anuncios en función de sus intereses."</string>
     <string name="cookies_title">Cookies y contenido personalizado</string>
     <string name="copy">Copiar</string>
+    <string name="create_shortcut">Acceso directo en la pantalla de inicio</string>
     <string name="data_traffic_enable_dialog_title">"Si no estás conectado a Wi-Fi, tu dispositivo usará datos móviles. Usar datos móviles generará cargos adicionales por parte de la operadora."</string>
     <string name="date_picker_lunar">Calendario Chino Tradicional</string>
     <string name="date_time_picker_dialog_title">Ajustar fecha y hora</string>
-    <string name="desc_fingerprint">Utiliza tu huella para desbloquear el dispositivo, comprobar las transacciones de Mi Pago o para conectarte a aplicaciones y servicios.</string>
-    <string name="desc_international_fingerprint">Use su huella dactilar para desbloquear el dispositivo o para iniciar sesión en aplicaciones y servicios.</string>
+    <string name="desc_fingerprint">Usa tu huella dactilar para desbloquear el dispositivo, comprobar las transacciones de Mi Pago o para conectarte a aplicaciones y servicios.</string>
+    <string name="desc_international_fingerprint">Usa tu huella dactilar para desbloquear el dispositivo o para iniciar sesión en aplicaciones y servicios.</string>
     <string name="diagnose_report">Enviar datos de diagnóstico para localizar y analizar errores del sistema y mejorar la experiencia de usuario. Dichos datos podrían incluir información personal (p. ej. IP, ubicación, etc.)</string>
     <string name="disageement_abnormal_download">"Si no aceptas conceder dichos permisos o compartir y subir tu información personal, no podrás usar este servicio."</string>
     <string name="disagree">Cancelar</string>
@@ -169,8 +170,8 @@
     <string name="location_introduction_qcom">Los servicios de localización usan posicionamiento para proporcionar servicios de ubicación. Cuando el dispositivo utilice servicios de ubicación, el módulo QCC se conectará a la red para acelerar el proceso de posicionamiento.</string>
     <string name="location_location">Las agencias de rescates de emergencia pueden obtener tu ubicación actual bajo solicitud</string>
     <string name="lockscreen_introduction">El Carrusel de Fondos de pantalla permite obtener diariamente imágenes nuevas en la pantalla de bloqueo.</string>
-    <string name="member_exclusive_medal">Insignia de membresía</string>
-    <string name="membership_rights_tip">Inicie sesión en su cuenta Mi para obtener beneficios exclusivos</string>
+    <string name="member_exclusive_medal">Insignia de la suscripción</string>
+    <string name="membership_rights_tip">Inicia sesión en tu cuenta Xiaomi para obtener beneficios exclusivos</string>
     <string name="message_introduction">Puede utilizar esta aplicación para enviar y recibir SMS.</string>
     <string name="mi_account_introduction">Mi cuenta le permite registrarse, iniciar sesión y administrar cuentas del sistema.</string>
     <string name="midnight">Noche</string>
@@ -274,7 +275,7 @@
     <string name="other_settings_ad_disable_summary">Activar para personalizar los anuncios</string>
     <string name="other_settings_ad_enable">Anuncios personalizados</string>
     <string name="other_settings_ad_enable_summary">Personaliza los anuncios basándose en tus gustos</string>
-    <string name="other_settings_auto_update">Actualizaciones automáticas del sistema</string>
+    <string name="other_settings_auto_update">Actualizaciones automáticas</string>
     <string name="other_settings_auto_update_summary">MIUI seleccionará el mejor momento para descargar e instalar actualizaciones. Tu dispositivo se reiniciará automáticamente para aplicar los cambios.</string>
     <string name="other_settings_auto_update_summary_v1">Permite que MIUI seleccione el mejor momento para descargar e instalar actualizaciones. Tu dispositivo se reiniciará automáticamente para aplicar los cambios.</string>
     <string name="other_settings_enhanced_lockscreen">Carrusel de fondos de pantalla</string>
@@ -289,10 +290,10 @@ Puedes desactivar las actualizaciones automáticas en GetApps &gt; Configuració
     <string name="other_settings_location_summary">Permita que las aplicaciones y los sitios web accedan a la información de su ubicación para brindar servicios basados en la ubicación</string>
     <string name="other_settings_quality_service">Permisos MIUI Daemon</string>
     <string name="other_settings_quality_service_summary">MIUI Daemon se utiliza para mejorar la estabilidad y el rendimiento del sistema. Para poder funcionar normalmente, este servicio necesita permisos para acceder y guardar elementos en el almacenamiento del dispositivo.</string>
-    <string name="other_settings_upload_debug_log_detail">"Ayude a mejorar la experiencia de su dispositivo MIUI enviando automáticamente datos de diagnóstico, dispositivo y uso de aplicaciones a Xiaomi. Esto ayudará a mejorar la duración de la batería, el sistema MIUI y la estabilidad de la aplicación, y más.
-Los datos que enviará contendrán información general sobre su dispositivo y cómo lo usa (por ejemplo, nivel de batería, actividad del sistema y de la aplicación, y errores). Los datos se utilizarán para mejorar los dispositivos MIUI.
-Desactivar esta función no afecta la capacidad de su dispositivo para enviar la información necesaria para servicios esenciales como actualizaciones del sistema y seguridad.
-Puede controlar esta función desde Configuración &gt; Contraseñas &amp; Seguridad &gt; Privacidad &gt; Uso y diagnóstico."</string>
+    <string name="other_settings_upload_debug_log_detail">"Ayuda a mejorar la experiencia del dispositivo MIUI enviando automáticamente datos de diagnóstico, dispositivo y uso de aplicaciones a Xiaomi. Esto ayudará a mejorar la duración de la batería, el sistema MIUI y la estabilidad de las aplicaciones, y más.
+Los datos que enviarás contendrán información general sobre el dispositivo y cómo lo usas (por ejemplo, nivel de batería, actividad del sistema y de las aplicaciones, y errores). Los datos se utilizarán para mejorar los dispositivos MIUI.
+Desactivar esta función no afecta la capacidad del dispositivo para enviar la información necesaria para servicios esenciales como actualizaciones del sistema y seguridad.
+Puedes controlar esta opción desde Ajustes &gt; Contraseñas &amp; Seguridad &gt; Privacidad &gt; Uso y diagnóstico."</string>
     <string name="other_settings_upload_debug_log_summary">Ayude a mejorar la experiencia de su dispositivo MIUI enviando automáticamente datos de diagnóstico, dispositivo y uso de aplicaciones a Xiaomi. Esto ayudará a mejorar la duración de la batería, el sistema MIUI y la estabilidad de la aplicación, y más.</string>
     <string name="other_settings_upload_debug_log_title">Enviar datos de uso y diagnóstico</string>
     <string name="other_settings_user_experience">Programa de Experiencia de Usuario</string>
@@ -302,7 +303,7 @@ Puede controlar esta función desde Configuración &gt; Contraseñas &amp; Segur
     <string name="permission_access_calendar">Acceso al calendario</string>
     <string name="permission_access_calendar_fast_application_summary">Para permitir que las aplicaciones rápidas accedan al calendario;</string>
     <string name="permission_account">Accede a cuentas en tu dispositivo</string>
-    <string name="permission_account_introduction">Para iniciar sesión con Cuenta Mi</string>
+    <string name="permission_account_introduction">Para iniciar sesión con la cuenta Xiaomi</string>
     <string name="permission_application_package_introduction">Para accede al almacenamiento con el fin de analizar y escanear paquetes de instalación</string>
     <string name="permission_backup">Acceder al almacenamiento</string>
     <string name="permission_backup_introduction">Para acceder y guardar copias de seguridad en tu dispositivo</string>
@@ -447,7 +448,7 @@ Puede controlar esta función desde Configuración &gt; Contraseñas &amp; Segur
     <string name="service_fast_pairing_policy"><Data>Lea y acepte la Política de privacidad de &lt;a href=%1$s&gt;&lt;/a &gt; antes de continuar.</Data></string>
     <string name="service_interconnection_communication">Servicios de comunicación por Internet de Xiaomi</string>
     <string name="service_location_share_policy"><Data>Lea y acepte la &lt;a href=%1$s&gt;Declaración de privacidad de los servicios de ubicación&lt;/a &gt; antes de continuar.</Data></string>
-    <string name="service_mi_account">Cuenta Mi</string>
+    <string name="service_mi_account">Cuenta Xiaomi</string>
     <string name="service_name_MIUIDaemon">MIUI Daemon</string>
     <string name="service_name_address_dialing">Contactos y teléfono</string>
     <string name="service_name_album">Galería</string>
@@ -500,7 +501,7 @@ Puede controlar esta función desde Configuración &gt; Contraseñas &amp; Segur
     <string name="sim_card_do_not_select_dial_card">Seleccione la tarjeta SIM al marcar</string>
     <string name="sim_card_network_card">SIM %d de Datos</string>
     <string name="sim_dectection_next">Continuar</string>
-    <string name="sim_redetection">Comprobar de nuevo</string>
+    <string name="sim_redetection">Comprobar otra vez</string>
     <string name="sim_scard_detecting_check_mobile_not_available">"Su tarjeta SIM no se pudo conectar a un operador de red válido. Asegúrese de tener saldo suficiente y vuelva a intentarlo."</string>
     <string name="skip_gesture_guide_dialog_message">Asegúrate de que sabes usar los gestos a pantalla completa antes de seleccionar esta opción.</string>
     <string name="skip_gesture_guide_dialog_negative_btn">Cancelar</string>
@@ -537,7 +538,7 @@ Puede controlar esta función desde Configuración &gt; Contraseñas &amp; Segur
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
     <string name="system_navigation_mode">Modo de navegación del sistema</string>
-    <string name="systemdesktop_introduction">El complemento de servicio de la pantalla de inicio le proporciona funciones básicas como la pantalla de inicio, la interfaz de usuario del sistema y capturas de pantalla.</string>
+    <string name="systemdesktop_introduction">El complemento de servicio proporciona funciones básicas como la pantalla de inicio, la interfaz de usuario del sistema y capturas de pantalla.</string>
     <string name="term_condition_detail">"Obtén imágenes asombrosas e historias emocionantes en la pantalla de bloqueo cada dia. No se usarán tus datos para la personalización sin tu consentimiento. Lee y acepta la &lt;a href =%1$s&gt;Política de Privacidad &lt;/a&gt; y &lt;a href =%2$s&gt;el Acuerdo de Usuario&lt;/a&gt; del proveedor de contenido externo antes de usar esta función."</string>
     <string name="terms_of_use">Términos y Condiciones</string>
     <string name="terms_of_use_label_MSA">MSA</string>
@@ -653,7 +654,7 @@ Debes aceptar la Política de Privacidad del Teclado Mint antes de usar esta fun
     <string name="voice_assist_condition">"Podrás usar Mi IA en estos casos: r
 1. Cuando la pantalla está encendida.r
 2. Cuando estás escuchando música con tu pantalla."</string>
-    <string name="voice_assist_desp">Dile \"Mi IA\" a tu teléfono. Mi Al reconocerá tu voz y será capaz de controlar tu dispositivo.</string>
+    <string name="voice_assist_desp">Dile \"Mi AI\" a tu dispositivo. Mi Al reconocerá tu voz y será capaz de controlarlo.</string>
     <string name="voice_assist_title">Activar por voz</string>
     <string name="wc_dialog_agree">Aceptar</string>
     <string name="wc_dialog_reject">"No aceptar"</string>
@@ -667,10 +668,10 @@ Debes aceptar la Política de Privacidad del Teclado Mint antes de usar esta fun
     <string name="wednesday">Miércoles</string>
     <string name="wednesday_short">Mié</string>
     <string name="wednesday_shortest">Mié</string>
-    <string name="welcome">Bienvenido</string>
+    <string name="welcome">Te damos la bienvenida</string>
     <string name="withdraw_consent">Si retira su consentimiento, los servicios de Wallpaper Carousel se desactivarán.</string>
     <string name="xiaomi_game_discounts">Promociones de juegos</string>
-    <string name="xiaomi_membership_rights">Membresía de Xiaomi Cloud</string>
+    <string name="xiaomi_membership_rights">Suscripción de Xiaomi Cloud</string>
     <string name="xiaomi_video_discount">Ofertas de Mi Video</string>
     <string name="yesterday">Ayer</string>
     <string name="zone_picker_title">Elegir zona horaria</string>

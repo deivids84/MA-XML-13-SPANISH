@@ -41,8 +41,8 @@
     <string name="aggree_desc">Permite que esta aplicación se conecte a Internet y otorga los permisos obligatorios mencionados anteriormente.</string>
     <string name="agree">De acuerdo</string>
     <string name="am">AM</string>
-    <string name="app_all_purpose">¡Bienvenido al Gestor de Archivos! Puede usar esta aplicación para administrar los archivos almacenados en su dispositivo.</string>
-    <string name="app_all_purpose_pad">Bienvenido al Administrador de archivos! Puede usar esta aplicación para administrar los archivos almacenados en su dispositivo.</string>
+    <string name="app_all_purpose">¡Te damos la bienvenida al Gestor de Archivos! Con esta aplicación puedes administrar los archivos almacenados en el dispositivo.</string>
+    <string name="app_all_purpose_pad">¡Te damos la bienvenida al Gestor de Archivos! Con esta aplicación puedes administrar los archivos almacenados en el dispositivo.</string>
     <string name="app_function">Administra archivos en tu dispositivo</string>
     <string name="app_name">Gestor de archivos</string>
     <string name="app_name_bluetooth">Bluetooth</string>
@@ -106,7 +106,7 @@
     <string name="cdd_title">Atención</string>
     <string name="character_counter_content_description">%1$d de %2$d carácteres ingresados</string>
     <string name="character_counter_overflowed_content_description">Límite de caracteres excedido %1$d de %2$d</string>
-    <string name="clean_hint">Tocar para liberar espacio</string>
+    <string name="clean_hint">Pulsa para liberar espacio</string>
     <string name="clean_hint_pad">Limpia la basura para liberar espacio de almacenamiento</string>
     <string name="clear_text_end_icon_content_description">Borrar texto</string>
     <string name="clearable_edittext_clear_description">Borrar</string>
@@ -294,7 +294,7 @@
     <string name="grid_mode">Vista en cuadrícula</string>
     <string name="group_title">%2$s de %1$s</string>
     <string name="group_title_extra_new">Nuevo</string>
-    <string name="guide_newfunc_content">Ahora puede filtrar formatos de archivo, reorganizar elementos y cambiar de vista tocando el acceso directo.</string>
+    <string name="guide_newfunc_content">Ahora puedes filtrar formatos de archivo, reorganizar elementos y cambiar de vista pulsando en el acceso directo.</string>
     <string name="guide_newfunc_title">Nueva característica</string>
     <string name="guide_one_summary">Los elementos recientes se agrupan por fecha.</string>
     <string name="guide_one_title">Elementos organizados en una línea de tiempo</string>
@@ -402,7 +402,7 @@
     <string name="miuix_indexer_collect">Colecciones</string>
     <string name="miuix_indexer_selected">Seleccionado %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tire hacia abajo para actualizar</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado con éxito</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualizando…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Suelta para actualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Eso es todo por ahora"</string>
@@ -495,7 +495,7 @@
     <string name="next">Siguiente</string>
     <string name="night">Tarde-noche</string>
     <string name="no">No</string>
-    <string name="no_apk">Toca para obtener aplicaciones</string>
+    <string name="no_apk">Pulsa para obtener aplicaciones</string>
     <string name="no_app_tags">Vacío</string>
     <string name="no_enough_storage_indication">"Almacenamiento del dispositivo lleno."</string>
     <string name="no_enough_storage_title">No hay espacio de almacenamiento suficiente</string>
@@ -548,7 +548,7 @@
     <string name="operation_show_privacy_policy">ver Política de Privacidad</string>
     <string name="operation_show_sys">Mostrar archivos ocultos</string>
     <string name="operation_unfavorite">Eliminar de favoritos</string>
-    <string name="otg_data_transfer_success">Transferencia exitosa</string>
+    <string name="otg_data_transfer_success">Transferencia realizada</string>
     <string name="otg_data_transferring">"Transferencia de archivos… No desconecte el almacenamiento externo."</string>
     <string name="otg_file_security_note">OGTSecurity</string>
     <string name="overwrite_msg">\"%s\" ya existe. Pulsa para reemplazarlo con el nuevo archivo.</string>
@@ -658,7 +658,7 @@
     <string name="server_control_settings">Ajustes</string>
     <string name="set_pattern">Actualiza tu contraseña</string>
     <string name="set_pattern_btn">Establecer</string>
-    <string name="set_pattern_msg">Establece tu contraseña otra vez. La contraseña de protección de la privacidad también funciona en fotos, mensajes y notas.</string>
+    <string name="set_pattern_msg">Establece la contraseña otra vez. Esta contraseña de protección también funciona para fotos, mensajes y notas.</string>
     <string name="size_lv1">Menor de %d KB</string>
     <string name="size_lv2" formatted="false">%1d KB - %2d MB</string>
     <string name="size_lv3" formatted="false">%1d MB - %2d MB</string>
@@ -790,11 +790,11 @@
     <string name="tuesday">Martes</string>
     <string name="tuesday_short">Mar</string>
     <string name="tuesday_shortest">Mar</string>
-    <string name="type_not_support">"Este formato de archivo no está admitido. Descomprime el archivo e inténtalo de nuevo."</string>
+    <string name="type_not_support">"Este formato de archivo no está soportado. Descomprime el archivo e inténtalo otra vez."</string>
     <string name="ui_main_toast_favorite_added">Marcado como favorito</string>
     <string name="ui_main_toast_favorite_removed">Eliminado de favoritos</string>
     <string name="ui_main_toast_operation_failed">"No se pudo eliminar %1$s de favoritos"</string>
-    <string name="unknown_error">Error desconocido. Espere un minuto o dos e inténtelo de nuevo.</string>
+    <string name="unknown_error">Error desconocido. Espera un par de minutos e inténtalo otra vez.</string>
     <string name="unlock_pattern_msg">La contraseña de protección de privacidad también funciona para fotos, mensajes y notas.</string>
     <string name="unlock_pattern_title">Nueva contraseña</string>
     <string name="upload_user_photo">Subir</string>
@@ -820,9 +820,11 @@
     <string name="widget_added_fail_tips">"No se pudo añadir"</string>
     <string name="widget_added_success_content">Se ha añadido %1$s a la pantalla de inicio</string>
     <string name="widget_added_success_tips">Añadido correctamente</string>
+    <string name="widget_choose_document_please">Seleccionar documento</string>
     <string name="widget_choose_file">Pulsa para añadir archivos</string>
     <string name="widget_choose_fragment_title">Seleccionar el tipo de archivo</string>
     <string name="widget_finish">Hecho</string>
+    <string name="widget_name">Archivos vistos recientemente</string>
     <string name="wifi_state">Estado de Wi-Fi</string>
     <string name="withdraw">Retirar</string>
     <string name="withdraw_consent">Retiro del consentimiento</string>

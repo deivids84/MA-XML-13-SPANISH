@@ -29,16 +29,16 @@
         <item quantity="one">en 1 min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
-        <item quantity="one">Justo ahora</item>
-        <item quantity="other">Justo ahora</item>
+        <item quantity="one">Ahora mismo</item>
+        <item quantity="other">Ahora mismo</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">Hace %d mins</item>
         <item quantity="one">Hace 1 min</item>
     </plurals>
     <plurals name="file_received_successfully">
-        <item quantity="other">Se han recibido%2$d archivos de %1$s con éxito</item>
-        <item quantity="one">Se ha recibido%2$d archivo de %1$s con éxito</item>
+        <item quantity="other">Se han recibido%2$d archivos de %1$s</item>
+        <item quantity="one">Se ha recibido%2$d archivo de %1$s</item>
     </plurals>
     <plurals name="file_type_detail_count">
         <item quantity="other">%1$d archivos</item>
@@ -49,8 +49,8 @@
         <item quantity="other">Hace media hora</item>
     </plurals>
     <plurals name="image_received_successfully">
-        <item quantity="other">Se han recibido%2$d imágenes de %1$s con éxito</item>
-        <item quantity="one">Se ha recibido%2$d imagen de %1$s con éxito</item>
+        <item quantity="other">Se han recibido%2$d imágenes de %1$s</item>
+        <item quantity="one">Se ha recibido%2$d imagen de %1$s</item>
     </plurals>
     <plurals name="in_a_hour">
         <item quantity="one">En 1 hora</item>
@@ -69,8 +69,8 @@
         <item quantity="one">en 1 minuto</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
-        <item quantity="one">Justo ahora</item>
-        <item quantity="other">Justo ahora</item>
+        <item quantity="one">Ahora mismo</item>
+        <item quantity="other">Ahora mismo</item>
     </plurals>
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">%d elementos seleccionados</item>
@@ -117,8 +117,8 @@
         <item quantity="one">Recibiendo %2$d %3$s documento (%4$s) de %1$s…</item>
     </plurals>
     <plurals name="send_file_success_detail_files">
-        <item quantity="other">Se enviaron %1$s archivos con éxito</item>
-        <item quantity="one">Se envió %1$s archivo con éxito</item>
+        <item quantity="other">Se han enviado %1$s archivos</item>
+        <item quantity="one">Se ha enviado %1$s archivo</item>
     </plurals>
     <plurals name="send_file_success_detail_files_content">
         <item quantity="other">%1$d archivos transferidos a %2$s</item>
@@ -241,8 +241,8 @@
         <item quantity="one">Recibida %2$d imagen de %1$s. Pulsa para ver.</item>
     </plurals>
     <plurals name="successfully_sent_files">
-        <item quantity="other">Se enviaron %2$d archivos a %1$s con éxito</item>
-        <item quantity="one">Se envió %2$d archivo a %1$s con éxito</item>
+        <item quantity="other">Se enviaron %2$d archivos a %1$s</item>
+        <item quantity="one">Se envió %2$d archivo a %1$s</item>
     </plurals>
     <plurals name="successfully_sent_images">
         <item quantity="other">Se han enviado %2$d imágenes a %1$s</item>

@@ -85,6 +85,7 @@
     <string name="cookies_content_two">"Decida si desea que nuestros proveedores de contenido de terceros de confianza utilicen cookies para personalizar las recomendaciones de contenido y los anuncios en función de sus intereses."</string>
     <string name="cookies_title">Cookies y contenido personalizado</string>
     <string name="copy">Copiar</string>
+    <string name="create_shortcut">Acceso directo en la pantalla de inicio</string>
     <string name="data_traffic_enable_dialog_title">"Si no está conectado a Wi-Fi, su dispositivo usará datos móviles. Usar datos móviles generará cargos adicionales por parte del operador."</string>
     <string name="date_picker_lunar">Calendario Chino Tradicional</string>
     <string name="date_time_picker_dialog_title">Ajustar fecha y hora</string>
