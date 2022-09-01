@@ -215,7 +215,7 @@ El economizador de batería tratará de forma selectiva las aplicaciones importa
     <string name="mtrl_picker_toggle_to_text_input_mode">Cambiar al modo de entrada de texto</string>
     <string name="mtrl_picker_toggle_to_year_selection">Toca para cambiar a la selección de un año</string>
     <string name="night">Tarde</string>
-    <string name="nonui_mode_config_description">"No encender la pantalla para las notificaciones, apagar la luz LED, el sensor de huellas dactilares y los controles táctiles para ahorrar batería cuando MIUI detecte que no estás usando tu dispositivo."</string>
+    <string name="nonui_mode_config_description">"No encender la pantalla para notificaciones, apagar la luz LED, el sensor de huella dactilare y los controles táctiles para ahorrar batería cuando MIUI detecte que no estás usando el dispositivo."</string>
     <string name="nonui_mode_config_title">Modo no interactivo</string>
     <string name="noon">Midday</string>
     <string name="not_set">Sin definir</string>

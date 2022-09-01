@@ -333,8 +333,8 @@
         <item quantity="one">%d añadido</item>
     </plurals>
     <plurals name="miui_wifi_wakeup_summary">
-        <item quantity="other">La conexión Wi-Fi se activará automáticamente cuando tu dispositivo detecte redes guardadas cercanas y se desactivará después de %d minutos si no se establece ninguna conexión.</item>
-        <item quantity="one">La conexión Wi-Fi se activará automáticamente cuando tu dispositivo detecte redes guardadas cercanas y se desactivará después de %d minuto si no se establece ninguna conexión.</item>
+        <item quantity="other">La conexión Wi-Fi se activará automáticamente al detectar redes guardadas y se desactivará después de %d minutos si no establece alguna conexión</item>
+        <item quantity="one">La conexión Wi-Fi se activará automáticamente al detectar redes guardadas y se desactivará después de %d minuto si no establece alguna conexión</item>
     </plurals>
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">%d elementos seleccionados</item>

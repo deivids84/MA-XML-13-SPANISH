@@ -427,6 +427,7 @@ para acceder al Segundo espacio desde la Pantalla de bloqueo"</string>
     <string name="second_space_desktop_tips_dialog_title">Actualización importante</string>
     <string name="second_space_finger_printf_desc">Añadir huella especifica para entrar en el Segundo espacio</string>
     <string name="second_space_finger_printf_title">Huella del segundo espacio</string>
+    <string name="second_space_setting_search_label">Protección de privacidad/Protección/Características de protección de privacidad</string>
     <string name="secondspace_homepage">"Establece un bloqueo de pantalla para el Segundo espacio.
 Separa y protege tus datos."</string>
     <string name="select_existed_fingerprint">Seleccionar huella</string>
@@ -557,7 +558,7 @@ para acceder desde la Pantalla de bloqueo"</string>
     <string name="tuesday_shortest">Mar</string>
     <string name="undo_activated_dialog_message">"Revocar la autorización desactivará el modo trabajo y realizará una restauración de fábrica en tu dispositivo. Todas las funciones relacionadas no estarán disponibles. Xiaomi dejará de recolectar la información requerida por el modo trabajo (IMEI, identificación del dispositivo, versión del sistema, región, etc.). Te recordamos que Xiaomi no administra los datos que se recolectan por el modo trabajo. Intentaremos notificar a las partes involucradas, pero te recomendamos contactar directamente con los supervisores de tu compañía para aprobar esta revocación. ¿Revocar autorización y realizar restauración de fábrica?"</string>
     <string name="undo_activated_dialog_ok">Revocar</string>
-    <string name="undo_grant_dialog_message">Xiaomi dejará de recolectar la información requerida para esta función (IMEI, identificación del dispositivo, versión del sistema, región, etc.) después de que revoques la autorización. ¿Revocar?</string>
+    <string name="undo_grant_dialog_message">Xiaomi dejará de recopilar la información necesaria para esta función (IMEI, identificación del dispositivo, versión del sistema, región, etc.) después de que revoques la autorización. ¿Revocar?</string>
     <string name="undo_privacy_menu">Revocar autorización</string>
     <string name="undo_success">Revocado</string>
     <string name="use_google_open">Activar usando el Asistente de Google</string>

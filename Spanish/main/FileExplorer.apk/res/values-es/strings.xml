@@ -544,7 +544,7 @@
     <string name="operation_rename">Renombrar</string>
     <string name="operation_rename_message">Introduce un nuevo nombre</string>
     <string name="operation_send">Enviar</string>
-    <string name="operation_send_to_pc">Mover a la computadora</string>
+    <string name="operation_send_to_pc">Mover al ordenador</string>
     <string name="operation_show_privacy_policy">ver Política de Privacidad</string>
     <string name="operation_show_sys">Mostrar archivos ocultos</string>
     <string name="operation_unfavorite">Eliminar de favoritos</string>

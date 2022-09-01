@@ -166,7 +166,7 @@
     <string name="ppt_sharedplay_search_failed_toast">No se encontraron dispositivos Miracast visibles</string>
     <string name="ppt_sharedplay_wireless_display">El dispositivo Miracast se puede conectar después de marcar la opción Habilitar pantalla inalámbrica</string>
     <string name="ppt_show_note">Mostrar notas</string>
-    <string name="ppt_turn_the_page_by_click">Puede cambiar de página tocando en el lado izquierdo o derecho de la página</string>
+    <string name="ppt_turn_the_page_by_click">Puedes cambiar de página tocándola en el lado izquierdo o derecho</string>
     <string name="ppt_video_cannot_find_external_video">No hay archivos de video, verifique si los archivos están en la misma carpeta.</string>
     <string name="ppt_video_cannot_play_online_video">"El video en línea no es compatible"</string>
     <string name="ppt_video_extracting_video_file">Extrayendo el archivo de video…</string>
@@ -273,7 +273,7 @@
     <string name="public_search">Buscar</string>
     <string name="public_search_empty">Introduce el contenido primero</string>
     <string name="public_searchnotfound">Sin resultados</string>
-    <string name="public_secre_dialog_content_1">Con el fin de brindarle nuestros servicios y mejorar nuestros productos, necesitamos permisos para acceder al almacenamiento y recopilar la información que describe cómo usa nuestras funciones.</string>
+    <string name="public_secre_dialog_content_1">Para proporcionarte nuestros servicios y mejorar nuestros productos, necesitamos permiso para acceder al almacenamiento y recopilar la información que detalla cómo usas nuestras funciones.</string>
     <string name="public_secre_dialog_content_2" formatted="false">&lt;Data&gt;Protegeremos su información personal de acuerdo con nuestro &lt;a href=\"%s\"&gt;Acuerdo de usuario&lt;/a &gt; y &lt;a href=\"%s\"&gt;Política de privacidad&lt;/a &gt;.&lt;/Data&gt;</string>
     <string name="public_secre_dialog_exit">Salir</string>
     <string name="public_secre_dialog_positive">Aceptar</string>

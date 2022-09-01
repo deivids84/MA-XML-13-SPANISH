@@ -59,9 +59,9 @@
     <string name="antispam_mark_my_contribution">Compartiendo información marcada</string>
     <string name="attach_photo_dialog_title">Foto de contacto</string>
     <string name="audio_chat">Chat de audio</string>
-    <string name="auto_nickname">Auto</string>
+    <string name="auto_nickname">Automático</string>
     <string name="auto_record_yellowpage">Páginas amarillas</string>
-    <string name="auto_set_nickname">Auto</string>
+    <string name="auto_set_nickname">Automático</string>
     <string name="back_description">Atrás</string>
     <string name="back_view_description">Volver</string>
     <string name="batch_delete">Borrado múltiple</string>
@@ -1000,11 +1000,11 @@ Pulsa \"%1$s\" y luego selecciona \"%2$s\"."</string>
     <string name="presentation_unknown">Número desconocido</string>
     <string name="previous">Anterior</string>
     <string name="privacy_password_message1">La contraseña de Protección de la privacidad sirve para aplicaciones, fotos, notas y carpetas ocultas.</string>
-    <string name="privacy_password_message2">Utiliza la contraseña de Protección de la privacidad. Sirve para aplicaciones, fotos, notas y carpetas ocultas.</string>
+    <string name="privacy_password_message2">Usa la contraseña de protección de privacidad en aplicaciones, fotos, notas y carpetas ocultas.</string>
     <string name="privacy_password_message3">Tu contraseña será sustituida por la contraseña de Protección de la privacidad, que sirve para aplicaciones, fotos, notas y carpetas ocultas.</string>
     <string name="privacy_password_set_password">Establecer</string>
     <string name="privacy_password_title1">Establecer contraseña</string>
-    <string name="privacy_password_title2">Utiliza la contraseña de Protección de la privacidad</string>
+    <string name="privacy_password_title2">Usar contraseña de protección de privacidad</string>
     <string name="privacy_password_title3">Actualiza tu contraseña</string>
     <string name="privacy_password_title4">La contraseña se ha actualizado</string>
     <string name="privacy_settings_blue_scan_connect">Conectarse a dispositivos cercanos</string>

@@ -91,9 +91,9 @@
     <string name="add_user_failed">No se pudo crear un nuevo usuario</string>
     <string name="alarm_template">Hora: %1$s</string>
     <string name="alarm_template_far">Fecha: %1$s</string>
-    <string name="alarms_and_reminders_footer_title">"Permita que esta aplicación configure alarmas y programe acciones urgentes. Esto permite que la aplicación se ejecute en segundo plano, lo que puede consumir más batería.
+    <string name="alarms_and_reminders_footer_title">"Permite que esta aplicación configure alarmas y programe acciones urgentes. Esto permite que se ejecute en segundo plano, lo que puede consumir más batería.
 
-Si este permiso está desactivado, las alarmas existentes y los eventos basados en el tiempo programados por esta aplicación no funcionarán."</string>
+Con este permiso desactivado, las alarmas existentes y los eventos basados en el tiempo programados por esta aplicación no funcionarán."</string>
     <string name="alarms_and_reminders_label">Alarmas y recordatorios</string>
     <string name="alarms_and_reminders_switch_title">Permitir configurar alarmas y recordatorios</string>
     <string name="alarms_and_reminders_title">Alarmas &amp; recordatorios</string>
@@ -254,10 +254,10 @@ Selección"</string>
     <string name="connected_via_network_scorer_default">Conectado automáticamente a través de un proveedor de valoración de redes</string>
     <string name="connected_via_passpoint">Conectado a través de %1$s</string>
     <string name="content_description_menu_button">Menú</string>
-    <string name="convert_to_fbe_warning">"Convierte la partición de datos en un cifrado basado en archivos.
- Advertencia: Este proceso borrará todos los datos.
- Esta función es alfa y es posible que no funcione correctamente.
- Pulsa la opción Borrar y convertir… para continuar."</string>
+    <string name="convert_to_fbe_warning">"Convierte la partición de datos en cifrado basado en archivos.
+ !! Atención !! Esto borrará todos tus datos.
+ Esta función está en desarrollo y puede no funcionar correctamente.
+ Pulsa 'Limpiar y convertir…' para continuar."</string>
     <string name="convert_to_file_encryption">Convertir a cifrado de archivo</string>
     <string name="convert_to_file_encryption_done">Ya está cifrado</string>
     <string name="convert_to_file_encryption_enabled">Convertir…</string>

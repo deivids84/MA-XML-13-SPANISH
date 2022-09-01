@@ -382,7 +382,7 @@ También puede realizar un seguimiento de la entrega urgente en los sitios web o
     <string name="pa_picker_detail_edit_maml_net_unavailable">"No se pudo conectar a la red. Comprueba los ajustes de red e inténtalo otra vez."</string>
     <string name="pa_picker_detail_install_tip_un_install">Instala la aplicación primero</string>
     <string name="pa_picker_detail_install_tip_un_upgrade">Primero actualiza la aplicación</string>
-    <string name="pa_picker_detail_launcher_screen_lock">"El diseño de su pantalla de inicio está bloqueado. No se pueden agregar widgets."</string>
+    <string name="pa_picker_detail_launcher_screen_lock">"El diseño de la pantalla de inicio está bloqueado. No puedes añadir widgets."</string>
     <string name="pa_picker_detail_maml_download_error">"No se pudo descargar"</string>
     <string name="pa_picker_detail_maml_downloading">Descargando elementos…</string>
     <string name="pa_picker_detail_modify_maml">Editar</string>
@@ -436,7 +436,7 @@ para mostrar widgets."</string>
     <string name="pa_picker_toast_count_limit_forbidden">"No se pueden agregar más widgets"</string>
     <string name="pa_picker_toast_count_limit_forbidden_for_type">"No se pueden agregar más widgets de este tipo"</string>
     <string name="pa_picker_toast_count_limit_warning">Agregado. Recuerda que tener muchos widgets en la pantalla de inicio puede ralentizar el dispositivo.</string>
-    <string name="pa_picker_toast_screen_cell_locked">"El diseño de su pantalla de inicio está bloqueado. No se pueden agregar widgets."</string>
+    <string name="pa_picker_toast_screen_cell_locked">"El diseño de la pantalla de inicio está bloqueado. No puedes añadir widgets."</string>
     <string name="pa_privacy_text">Privacidad</string>
     <string name="pa_read_storage_permission_description">Para mostrar el fondo de pantalla de inicio como fondo de la aplicación</string>
     <string name="pa_recommend_add_btn">Comienzo</string>

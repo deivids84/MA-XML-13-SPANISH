@@ -313,7 +313,7 @@
     <string name="general_plant">Es posible que esté buscando estos:</string>
     <string name="general_recognized">"Resultado: "</string>
     <string name="general_title">Toma una foto de un objeto para reconocer</string>
-    <string name="general_wifi_data_wrong_data">Introduzca nombre y contraseña</string>
+    <string name="general_wifi_data_wrong_data">Escribe nombre y contraseña</string>
     <string name="go_shut_down">Para desconectar</string>
     <string name="goods_query">Producto</string>
     <string name="got_it">Entendido</string>

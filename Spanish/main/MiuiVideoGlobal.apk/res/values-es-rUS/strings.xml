@@ -170,6 +170,8 @@
     <string name="choose">Seleccionar</string>
     <string name="choose_to_signin">Sí</string>
     <string name="choose_to_signup">"No, crearé una"</string>
+    <string name="chromecast_connecting">Conectando a Chromecast…</string>
+    <string name="chromecast_playing">"Estás viendo este video con Chromecast"</string>
     <string name="clear_text_end_icon_content_description">Borrar texto</string>
     <string name="clearable_edittext_clear_description">Limpiar</string>
     <string name="click_to_open_pip">Toque para cambiar a picture-in-picture</string>
@@ -652,6 +654,7 @@ Esta operación no afectará las imágenes de tu galería."</string>
     <string name="incentive_view_details">Detalles</string>
     <string name="inconsistent_pwd">"Las contraseñas no coinciden"</string>
     <string name="init_channels">Restaurar valores por defecto</string>
+    <string name="inline_mute_click_tip">Pulsa para desactivar silencio</string>
     <string name="input_email_address_notice">"Usaremos este correo para verificar su cuenta"</string>
     <string name="input_new_pwd">Ingresar nueva contraseña</string>
     <string name="input_size_tips_new">Puedes ingresar hasta %d caracteres</string>
@@ -694,6 +697,7 @@ para videos"</string>
     <string name="local_hide_folder_dialog_title">Vídeos ocultos</string>
     <string name="local_hide_folder_setting_goto">Ajustes</string>
     <string name="local_hide_folder_setting_tip">Puedes administrar tus videos ocultos en Perfil &gt; Configuración &gt; Administrar videos ocultos.</string>
+    <string name="local_play_end_drag_up_guide">Pulsa o desliza hacia arriba para jugar Shorts</string>
     <string name="local_play_tip">Reproduciendo vídeo local</string>
     <string name="local_push_setting_power_tag">Notificaciones sobre videos locales</string>
     <string name="local_push_title">Popular hoy</string>
@@ -750,6 +754,7 @@ para videos"</string>
     <string name="lp_video_zoom_title">Zoom</string>
     <string name="lv_advance_sound">Mejorar audio</string>
     <string name="lv_airkan_control_device_des">Toque la barra en la parte inferior para controlar la reproducción.</string>
+    <string name="lv_airkan_device_my_device">Mi dispositivo</string>
     <string name="lv_airkan_device_xiaomi_phone">Mi Teléfono</string>
     <string name="lv_airkan_playing">Emitiendo en %s</string>
     <string name="lv_airkan_tips">Toque para emitir</string>
@@ -961,10 +966,10 @@ para videos"</string>
     <string name="month_september_shortest">Sep</string>
     <string name="more">Más</string>
     <string name="morning">Mañana</string>
-    <string name="mr_button_content_description">Botón para transmitir</string>
-    <string name="mr_cast_button_connected">Botón para transmitir (conectado)</string>
-    <string name="mr_cast_button_connecting">Botón para transmitir (conectando)</string>
-    <string name="mr_cast_button_disconnected">Botón para transmitir (desconectado)</string>
+    <string name="mr_button_content_description">Emitir</string>
+    <string name="mr_cast_button_connected">Emitir. Conectado</string>
+    <string name="mr_cast_button_connecting">Emitir. Conectando</string>
+    <string name="mr_cast_button_disconnected">Emitir. Desconectado</string>
     <string name="mr_cast_dialog_title_view_placeholder">No hay información disponible</string>
     <string name="mr_chooser_searching">Buscando dispositivos</string>
     <string name="mr_chooser_title">Transmitir a</string>
@@ -981,8 +986,9 @@ para videos"</string>
     <string name="mr_controller_stop">Detener</string>
     <string name="mr_controller_stop_casting">Detener transmisión</string>
     <string name="mr_controller_volume_slider">Control deslizante del volumen</string>
-    <string name="mr_dialog_device_header">Transmitir a un dispositivo</string>
-    <string name="mr_dialog_route_header">Reproducir en un grupo</string>
+    <string name="mr_dialog_default_group_name">Grupo</string>
+    <string name="mr_dialog_groupable_header">Añadir un dispositivo</string>
+    <string name="mr_dialog_transferable_header">Jugar en un grupo</string>
     <string name="mr_system_route_name">Sistema</string>
     <string name="mr_user_route_category_name">Dispositivos</string>
     <string name="mtrl_badge_numberless_content_description">Nueva notificación</string>

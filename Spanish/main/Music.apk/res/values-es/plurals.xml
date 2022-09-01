@@ -80,29 +80,9 @@
         <item quantity="other">Hace %d min</item>
         <item quantity="one">Hace 1 min</item>
     </plurals>
-    <plurals name="backpack_gift_timerleft_day">
-        <item quantity="other">%1$d días</item>
-        <item quantity="one">%1$d día</item>
-    </plurals>
-    <plurals name="backpack_gift_validtime_day">
-        <item quantity="other">%d días</item>
-        <item quantity="one">%d día</item>
-    </plurals>
-    <plurals name="backpack_gift_validtime_hour">
-        <item quantity="other">%d hrs</item>
-        <item quantity="one">%d hr</item>
-    </plurals>
-    <plurals name="backpack_gift_validtime_min">
-        <item quantity="other">%d mins</item>
-        <item quantity="one">%d min</item>
-    </plurals>
     <plurals name="comment_count">
         <item quantity="other">%d comentarios</item>
         <item quantity="one">%d comentario</item>
-    </plurals>
-    <plurals name="cr_background_day">
-        <item quantity="other">%d días</item>
-        <item quantity="one">%d día</item>
     </plurals>
     <plurals name="days_ago">
         <item quantity="other">Hace %d días</item>
@@ -142,6 +122,14 @@ Nota: El archivo también será eliminado de este dispositivo."</item>
         <item quantity="other">&lt;font color=\"red\"&gt;%d canciones&lt;/font&gt; descargando</item>
         <item quantity="one">&lt;font color==\"red\"&gt;%d canción&lt;/font&gt; descargando</item>
     </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Avance rápido %d segundos</item>
+        <item quantity="one">Avance rápido %d segundo</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Rebobinar %d segundos</item>
+        <item quantity="one">Rebobinar %d segundo</item>
+    </plurals>
     <plurals name="free_downloads_num_hint">
         <item quantity="other">%d descargas gratuitas restantes</item>
         <item quantity="one">%d descarga gratuita restante</item>
@@ -177,10 +165,6 @@ Nota: El archivo también será eliminado de este dispositivo."</item>
     <plurals name="list_header_follow_count">
         <item quantity="other">Siguiendo %d personas</item>
         <item quantity="one">Siguiendo %d persona</item>
-    </plurals>
-    <plurals name="me_visit_number">
-        <item quantity="other">Visitas: %1$d</item>
-        <item quantity="one">Visitas: %1$d</item>
     </plurals>
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">%d elementos seleccionados</item>

@@ -209,7 +209,7 @@ Escribe el número de teléfono asociado con tu nueva SIM para reactivar %s."</s
     <string name="noon">Mediodía</string>
     <string name="pm">PM</string>
     <string name="privacy_revoke_failed_msg_tip">Permite que este servicio acceda primero a tu número de teléfono.</string>
-    <string name="privacy_revoke_tips">Después de revocar la autorización, la aplicación dejará de recolectar tu información y esta será eliminada de sus servidores. La sincronización con Xiaomi Cloud, Mi Mensaje y otras características de Mensajería ya no estarán disponibles. ¿Revocar autorización de todas formas?</string>
+    <string name="privacy_revoke_tips">Si revocas tu autorización, la aplicación dejará de recopilar tu información y ésta será eliminada de los servidores. La sincronización con Xiaomi Cloud, Mi Mensaje y otras características de Mensajería ya no estarán disponibles. ¿Revocar tu autorización?</string>
     <string name="saturday">Sábado</string>
     <string name="saturday_short">Sáb</string>
     <string name="saturday_shortest">Sáb</string>

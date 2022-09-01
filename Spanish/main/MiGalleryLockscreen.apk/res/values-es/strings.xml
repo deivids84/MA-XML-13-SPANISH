@@ -413,7 +413,7 @@ Se pueden generar cargos adicionales."</string>
     <string name="login_other">Otra cuenta Xiaomi</string>
     <string name="login_register_by_local_phone_long_text">Crear una cuenta</string>
     <string name="login_with_sns">Otras formas de iniciar sesión</string>
-    <string name="login_xiaomi_account_summary">"He leído y acepto el Acuerdo de usuario de &lt;font color ='#0D84FF'&gt;&lt;a href='%1$s'&gt;&lt;/font&gt;&lt;/a&gt; y &lt;font color ='#0D84FF'&gt;&lt;a href='%2$s'&gt;Política de privacidad&lt;/font&gt;&lt;/a&gt;."</string>
+    <string name="login_xiaomi_account_summary">"He leído y acepto el Acuerdo de Usuario de &lt;font color ='#0D84FF'&gt;&lt;a href='%1$s'&gt;&lt;/font&gt;&lt;/a&gt; y la &lt;font color ='#0D84FF'&gt;&lt;a href='%2$s'&gt;Política de Privacidad&lt;/font&gt;&lt;/a&gt;."</string>
     <string name="logout">Cerrar sesión</string>
     <string name="logout_account">Cerrar sesión</string>
     <string name="logout_cancel">Cancelar</string>
@@ -613,7 +613,7 @@ mm"</string>
     <string name="passport_error_empty_captcha_code">Introducir captcha</string>
     <string name="passport_error_empty_email">Introduzca dirección de email</string>
     <string name="passport_error_empty_phone_num">Introduzcir número de teléfono</string>
-    <string name="passport_error_empty_pwd">"Introduzca su contraseña"</string>
+    <string name="passport_error_empty_pwd">"Escribe tu contraseña"</string>
     <string name="passport_error_empty_vcode">Introduzca el código de verificación</string>
     <string name="passport_error_empty_voice_code">Introducir captcha</string>
     <string name="passport_error_illegal_pwd">Contraseña no válida</string>
@@ -668,8 +668,8 @@ mm"</string>
     <string name="passport_unknow_error">Ha ocurrido un error desconocido</string>
     <string name="passport_unknow_host_network_error">Comprueba los ajustes de red e inténtalo otra vez</string>
     <string name="passport_unknow_network_error">Ha ocurrido un error de red</string>
-    <string name="passport_user_agreement_link">"&lt;Data&gt;He leído y acepto el &lt;a href=%1$s&gt;Acuerdo de usuario&lt;/a&gt; y la Política de privacidad &lt;a href=%2$s&gt;Xiaomi&lt;/a&gt;.&lt;/Data&gt;"</string>
-    <string name="passport_user_agreement_link_more">"&lt;Data&gt;He leído y acepto los siguientes documentos: &lt;a href=%1$s&gt;Acuerdo de usuario&lt;/a&gt; y &lt;a href=%4$s&gt;Política de privacidad&lt;/a&gt;, &lt;a href=%2$s&gt;%3$s&lt;/a&gt;Xiaomi.&lt;/Data&gt;"</string>
+    <string name="passport_user_agreement_link">"&lt;Data&gt;He leído y acepto el &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y la &lt;a href=%2$s&gt;Política de Privacidad&lt;/a&gt; de Xiaomi.&lt;/Data&gt;"</string>
+    <string name="passport_user_agreement_link_more">"&lt;Data&gt;He leído y acepto los siguientes documentos: &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y &lt;a href=%4$s&gt;Política de Privacidad&lt;/a&gt;, &lt;a href=%2$s&gt;%3$s&lt;/a&gt; de Xiaomi.&lt;/Data&gt;"</string>
     <string name="passport_user_id_intro">Iniciar sesión con %1$s</string>
     <string name="passport_v_code_error">Código de verificación incorrecto</string>
     <string name="passport_vcode_notification_title">Su verificación de inicio de sesión es incompleta</string>
@@ -1043,17 +1043,19 @@ mm"</string>
     <string name="upload_error_log">Cargar registro</string>
     <string name="user_ac_click_to_login">Toca para iniciar sesión</string>
     <string name="user_ac_not_login">No has iniciado sesión</string>
-    <string name="user_agreement_hint_3rd_app"><Data>\"He leído y acepto &lt;a href=%1$s&gt;Acuerdo de usuario&lt;/a&gt; y &lt;a href=%2$s&gt;Política de privacidad&lt;/a&gt; y el Acuerdo de usuario &lt;a href=%3$s&gt;&lt;/a&gt; y &lt;a href=%4$s&gt;Política de privacidad&lt;/a&gt;\".</Data></string>
+    <string name="user_agreement_hint_3rd_app"><Data>\"He leído y acepto el &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y la &lt;a href=%2$s&gt;Política de Privacidad&lt;/a&gt; y el Acuerdo de Usuario &lt;a href=%3$s&gt;&lt;/a&gt; y la &lt;a href=%4$s&gt;Política de Privacidad&lt;/a&gt;.\"</Data></string>
     <string name="user_agreement_hint_3rd_app_mobile"><Data>\"Leí y acepté &lt;a href=%1$s&gt;Acuerdo de usuario&lt;/a&gt; y &lt;a href=%2$s&gt;Política de privacidad&lt;/a&gt;, Acuerdo de usuario &lt;a href=%3$s&gt;Mi Cuenta&lt;/a&gt; y &lt;a href=%4$s&gt;Política de privacidad&lt;/a&gt;, así como &lt;a href=%5$s&gt;Términos y condiciones de los servicios de verificación de China Mobile&lt;/a&gt;\".</Data></string>
     <string name="user_agreement_hint_3rd_app_with_telecom"><Data>\"Leí y acepté &lt;a href=%1$s&gt;Acuerdo de usuario&lt;/a&gt; y &lt;a href=%2$s&gt;Política de privacidad&lt;/a&gt;, Mi Cuenta &lt;a href=%3$s&gt;Acuerdo de usuario&lt;/a&gt; y &lt;a href=%4$s&gt;Política de privacidad&lt;/a&gt;, así como &lt;a href=%5$s&gt;Términos y condiciones de los servicios de verificación de cuenta de eSurfing&lt;/a&gt;\".</Data></string>
     <string name="user_agreement_hint_3rd_app_with_unicom"><Data>\"Leí y acepté &lt;a href=%1$s&gt;Acuerdo de usuario&lt;/a&gt; y &lt;a href=%2$s&gt;Política de privacidad&lt;/a&gt;, Acuerdo de usuario &lt;a href=%3$s&gt;Mi Cuenta&lt;/a&gt; y &lt;a href=%4$s&gt;Política de privacidad&lt;/a&gt;, así como &lt;a href=%5$s&gt;Términos y condiciones de los servicios de verificación de China Unicom&lt;/a&gt;\".</Data></string>
-    <string name="user_agreement_hint_default"><Data>\"He leído y acepto el &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y la &lt;a href=%2$s&gt;Política de Privacidad&lt;/a&gt;\" de la cuenta Xiaomi.</Data></string>
+    <string name="user_agreement_hint_default"><Data>\"He leído y acepto el &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y la &lt;a href=%2$s&gt;Política de Privacidad&lt;/a&gt; de la cuenta Xiaomi.\"</Data></string>
     <string name="user_agreement_hint_default_1"><Data>Leer y aceptar el &lt;a href=%1$s&gt;Acuerdo de usuario&lt;/a&gt; y &lt;a href=%2$s&gt;Política de privacidad.&lt;/a&gt;</Data></string>
-    <string name="user_agreement_hint_default_extra"><Data>\"He leído y acepto el &lt;a href=%1$s&gt;Acuerdo de usuario&lt;/a&gt; y la Política de privacidad &lt;a href=%2$s&gt;&lt;/a&gt; El primer inicio de sesión creará automáticamente una cuenta Xiaomi\"</Data></string>
+    <string name="user_agreement_hint_default_extra"><Data>\"He leído y acepto el &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y la &lt;a href=%2$s&gt;Política de Privacidad&lt;/a&gt;. El primer inicio de sesión creará automáticamente una cuenta Xiaomi\"</Data></string>
     <string name="user_agreement_hint_first_login">"Crearemos una cuenta automáticamente si está usando su número de teléfono por primera vez."</string>
-    <string name="user_agreement_hint_with_mobile"><Data>\"He leído y acepto el &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y la &lt;a href=%2$s&gt;Política de privacidad&lt;/a&gt;, así como las &lt;a href=%3$s&gt;Condiciones de los Servicios de Verificación de China Mobile&lt;/a&gt;\" en mi cuenta Xiaomi.</Data></string>
-    <string name="user_agreement_hint_with_telecom"><Data>\"He leído y acepto el &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y la &lt;a href=%2$s&gt;Política de Privacidad&lt;/a&gt; de mi cuenta Xiaomi, así como las &lt;a href=%3$s&gt;Condiciones de los Servicios de Verificación de eSurfing&lt;/a&gt;.\"</Data></string>
-    <string name="user_agreement_hint_with_unicom"><Data>\"He leído y acepto el &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y la &lt;a href=%2$s&gt;Política de Privacidad&lt;/a&gt; de mi cuenta Xiaomi, así como las &lt;a href=%3$s&gt;Condiciones de los Servicios de Verificación de China Unicom&lt;/a&gt;.\"</Data></string>
+    <string name="user_agreement_hint_with_mobile"><Data>\"He leído y acepto el &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y la &lt;a href=%2$s&gt;Política de 
+Privacidad&lt;/a&gt; de la cuenta Xiaomi, así como las &lt;a href=%3$s&gt;Condiciones de los Servicios de Verificación&lt;/a&gt; de China Mobile.\"</Data></string>
+    <string name="user_agreement_hint_with_telecom"><Data>\"He leído y acepto el &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y la &lt;a href=%2$s&gt;Política de Privacidad&lt;/a&gt; de la cuenta Xiaomi, así como las &lt;a href=%3$s&gt;Condiciones de los Servicios de Verificación&lt;/a&gt; de eSurfing.\"</Data></string>
+    <string name="user_agreement_hint_with_unicom"><Data>\"He leído y acepto el &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y la &lt;a href=%2$s&gt;Política de 
+Privacidad&lt;/a&gt; de la cuenta Xiaomi, así como las &lt;a href=%3$s&gt;Condiciones de los Servicios de Verificación&lt;/a&gt; de China Unicom.\"</Data></string>
     <string name="user_agreement_protocal_dialog_hint_default"><Data>\"Leer y aceptar &lt;a href=%1$s&gt;Acuerdo de usuario&lt;/a&gt; y &lt;a href=%2$s&gt;Política de privacidad&lt;/a&gt; y el Acuerdo de usuario &lt;a href=%3$s&gt;&lt;/a&gt; y &lt;a href=%4$s&gt;Política de privacidad&lt;/a&gt;\".</Data></string>
     <string name="user_avatar_update_title">Cambiar foto de perfil</string>
     <string name="user_avatar_uploading">Un momento…</string>

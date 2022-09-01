@@ -59,6 +59,7 @@
     <string name="account_user_phone">Teléfono de recuperación</string>
     <string name="account_user_region">Región</string>
     <string name="action_add_phone">Agregar número telefónico</string>
+    <string name="action_settings">Ajustes</string>
     <string name="action_update_phone">Cambiar número telefónico</string>
     <string name="actionbar_button_up_description">Atrás</string>
     <string name="activate_email_notice">Asegúrese de activar su cuenta en un periodo de 24 horas</string>
@@ -125,7 +126,7 @@ Envíe este código al supervisor."</string>
     <string name="logout_account">Cerrar sesión</string>
     <string name="mibi_account_disable_dialog_btn_negative">Cancelar</string>
     <string name="mibi_account_disable_dialog_btn_positive">Activar</string>
-    <string name="mibi_account_disable_dialog_msg">Para usar MiCoin, debe iniciar sesión en su cuenta Xiaomi. Habilite el servicio de cuenta Xiaomi en Configuración-Administración de aplicaciones.</string>
+    <string name="mibi_account_disable_dialog_msg">Para usar MiCoin, necesitas iniciar sesión en tu cuenta Xiaomi. Activa el servicio de cuenta Xiaomi en Ajustes - Administración de Aplicaciones.</string>
     <string name="mibi_account_disable_dialog_title">Aviso</string>
     <string name="mibi_all_license_message">"Está a punto de utilizar Mi Coin, que es un servicio proporcionado por Xiaomi Inc. Antes de poder utilizar este servicio, debe aceptar los Términos de servicio. Toque Aceptar si está de acuerdo con los términos y condiciones descritos en %1$s y %2$s. Debe conectarse a Internet, ubicar su dispositivo para usar Mi Coin."</string>
     <string name="mibi_all_purpose">Bienvenido a MiCoin, puede usar esta aplicación para recargar MiCoin, revisar sus tarjetas de regalo, etc.</string>
@@ -190,7 +191,7 @@ Envíe este código al supervisor."</string>
     <string name="mibi_cta_description_with_review_entry_suffix">"3. Si no está de acuerdo con la Política de privacidad, le proporcionaremos un modo de solo navegación. Puede elegir entre [%1$s].
 4. Tomamos y protegemos su información personal muy en serio. Si tiene alguna pregunta, comentario o sugerencia sobre el contenido de esta política, puede contactarnos visitando %2$s.
 "</string>
-    <string name="mibi_cta_title">Queridos Mi Fans</string>
+    <string name="mibi_cta_title">Estimados fans de Xiaomi</string>
     <string name="mibi_deduct_goods_name">Producto</string>
     <string name="mibi_deduct_open_prompt">%1$s podrá cobrarle automáticamente usando %2$s sin verificación. Puede desactivar esta función en %1$s</string>
     <string name="mibi_deduct_order_price">Precio</string>
@@ -227,7 +228,7 @@ Inicie sesión de nuevo."</string>
     <string name="mibi_error_account_changed_title">La cuenta ha cambiado</string>
     <string name="mibi_error_account_throtting">"Tu cuenta no es segura.
 Póngase en contacto con nuestro servicio de atención al cliente"</string>
-    <string name="mibi_error_auth_summary">Inicie sesión en su cuenta Mi nuevamente</string>
+    <string name="mibi_error_auth_summary">Inicia sesión en tu cuenta Xiaomi otra vez</string>
     <string name="mibi_error_cert_date_summary">"Error en la fecha del certificado. 
 Compruebe su fecha local y vuelva a intentarlo."</string>
     <string name="mibi_error_common_summary">Error del sistema. Por favor, inténtelo de nuevo más tarde.</string>
@@ -359,13 +360,13 @@ Compruebe su fecha local y vuelva a intentarlo."</string>
     <string name="mibi_password_error">Contraseña incorrecta.</string>
     <string name="mibi_password_forget">¿olvidó?</string>
     <string name="mibi_password_hint">Ingrese la contraseña de la cuenta</string>
-    <string name="mibi_password_prompt">Para asegurar sus gastos, verifique su cuenta Mi</string>
+    <string name="mibi_password_prompt">Para asegurar tus gastos, comprueba tu cuenta Xiaomi</string>
     <string name="mibi_pay_grid_error_denomination">La cantidad debe estar entre Mi Coins %1$s y %2$s.</string>
     <string name="mibi_pay_success_summary">"Has pagado %1$s Mi Coins"</string>
     <string name="mibi_pay_success_with_recharge_summary">%1$s Mi Coins recargadas,%2$s Mi Coins pagado</string>
     <string name="mibi_payment_recharge_group_title">Elija el método de recarga</string>
     <string name="mibi_payment_success_title">Pago recibido</string>
-    <string name="mibi_payment_with_login_title">Verificar mi cuenta</string>
+    <string name="mibi_payment_with_login_title">Comprobar la cuenta Xiaomi</string>
     <string name="mibi_paymnet_failed_title">Fransacción fallida</string>
     <string name="mibi_paytool_app_not_installed">"No has instalado %1$s. ¿Descargarlo e instalarlo ahora?"</string>
     <string name="mibi_paytool_error_install">No se pudo instalar el complemento de seguridad móvil %1$s</string>

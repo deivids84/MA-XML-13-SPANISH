@@ -109,7 +109,7 @@
     <string name="loading_view_abort_text">"Tiempo de conexión agotado.
 Cierra esta página y vuelve a intentarlo."</string>
     <string name="log_warning">"Si alternas los interruptores de registro puedes aumentar el riesgo de seguridad y afectar el rendimiento. Usa estos interruptores solo cuando sea necesario."</string>
-    <string name="low_version_dialog_message">Actualice MIUI+ en su computadora o descargue la última versión de plus.miui.com.</string>
+    <string name="low_version_dialog_message">Actualiza MIUI+ en el ordenador o descarga la última versión desde plus.miui.com.</string>
     <string name="low_version_dialog_title">Actualizar MIUI+</string>
     <string name="message_log">Registros de mensajes</string>
     <string name="mi_drop">Mi Compartir</string>
@@ -199,10 +199,10 @@ Cierra esta página y vuelve a intentarlo."</string>
     <string name="pad_mirror_disconnect_tips_2">Asegúrese de que Wi-Fi y Bluetooth estén activados en ambos dispositivos y vuelva a intentarlo.</string>
     <string name="pad_settings_bluetooth_enable_title">Activar Bluetooth</string>
     <string name="pad_settings_connect_pad_group">Trabaja con tu tableta</string>
-    <string name="pad_settings_connect_pc_group">Trabaja con tu computadora</string>
+    <string name="pad_settings_connect_pc_group">Trabaja con tu ordenador</string>
     <string name="pad_settings_handoff_app_summary">Continuar con las tareas en la misma aplicación en el otro dispositivo</string>
     <string name="pad_settings_handoff_app_title">Aplicaciones</string>
-    <string name="pad_settings_handoff_clipboard_summary">Copie en un dispositivo y péguelo sin problemas en el otro</string>
+    <string name="pad_settings_handoff_clipboard_summary">Copia en un dispositivo y pega, sin problemas, en el otro</string>
     <string name="pad_settings_handoff_clipboard_title">Portapapeles</string>
     <string name="pad_settings_handoff_device_title">Dispositivo conectado</string>
     <string name="pad_settings_handoff_disable">Desactivado</string>
@@ -212,7 +212,7 @@ Cierra esta página y vuelve a intentarlo."</string>
     <string name="pad_settings_handoff_p2p_title">Punto de acceso</string>
     <string name="pad_settings_handoff_video_summary">Retoma la reproducción de video desde donde la dejaste en una pantalla diferente</string>
     <string name="pad_settings_handoff_video_title">Vídeos</string>
-    <string name="pad_settings_handoff_wps_summary">Vea, edite y guarde documentos mientras cambia de dispositivo</string>
+    <string name="pad_settings_handoff_wps_summary">Mira, edita y guarda documentos mientras cambias de dispositivo</string>
     <string name="pad_settings_handoff_wps_title">Documentos</string>
     <string name="pad_settings_pad_handoff_summary">Usa la transferencia de aplicaciones, portapapeles, vídeos y demás en el otro dispositivo asociado con tu cuenta Xiaomi</string>
     <string name="pad_settings_pc_history_title">Historial de conexiones</string>
@@ -226,7 +226,7 @@ Cierra esta página y vuelve a intentarlo."</string>
     <string name="privacy_all_purpose">¡Te damos la bienvenida a MIUI+ Beta! Con esta aplicación puedes conectar tu dispositivo a un ordenador y combinar ambos como una única estación de trabajo.</string>
     <string name="privacy_describe_change_wifi_state">Para conectar dispositivos y transferir archivos mediante Wi-Fi</string>
     <string name="privacy_describe_location">Para encontrar ordenadores cercanos y transferir archivos</string>
-    <string name="privacy_describe_record_audio">Para redirigir la reproducción de audio a su computadora</string>
+    <string name="privacy_describe_record_audio">Para redirigir la reproducción de audio al ordenador</string>
     <string name="privacy_describe_storage">Para enviar y recibir archivos</string>
     <string name="privacy_pad_all_purpose">¡Te damos la bienvenida a MIUI+! Con esta aplicación puedes combinar tus dispositivos móviles como una sola estación de trabajo. MIUI+ permite usar las aplicaciones del teléfono en la tablet, responder llamadas en otro dispositivo, usar el portapapeles compartido, transferir elementos y transmitir el contenido de la pantalla.</string>
     <string name="privacy_pad_describe_change_wifi_state">Para transmitir contenido de la pantalla</string>
@@ -246,7 +246,7 @@ Cierra esta página y vuelve a intentarlo."</string>
     <string name="screen_num_over_limit">"No se pueden abrir más ventanas"</string>
     <string name="search_menu_title">Buscar</string>
     <string name="send">Enviar</string>
-    <string name="settings_bluetooth_enable_summary">Activa Bluetooth para encontrar dispositivos cercanos. ¿Activar ahora?</string>
+    <string name="settings_bluetooth_enable_summary">Activa Bluetooth para encontrar dispositivos cercanos. ¿Activar?</string>
     <string name="settings_connect_more_help"><u>Ayuda</u></string>
     <string name="settings_connect_summary1">Descarga e instala MIUI+ Beta en tu ordenador desde: https://plus.miui.com.</string>
     <string name="settings_connect_summary2">Escanea el código QR de la pantalla del ordenador con tu dispositivo, usando una de las aplicaciones disponibles como Escáner o Cámara.</string>

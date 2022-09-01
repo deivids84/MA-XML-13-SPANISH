@@ -170,6 +170,8 @@
     <string name="choose">Seleccionar</string>
     <string name="choose_to_signin">Sí</string>
     <string name="choose_to_signup">"No, crearé una"</string>
+    <string name="chromecast_connecting">Conectando a Chromecast…</string>
+    <string name="chromecast_playing">"Estás viendo este video con Chromecast"</string>
     <string name="clear_text_end_icon_content_description">Borrar texto</string>
     <string name="clearable_edittext_clear_description">Limpiar</string>
     <string name="click_to_open_pip">Toque para cambiar a picture-in-picture</string>
@@ -297,7 +299,7 @@ Remite este código al supervisor."</string>
     <string name="dialog_open_internet_btn">Conectar a la red</string>
     <string name="dialog_privacy_change_info">"Hemos actualizado la Política de Privacidad de Mi Vídeo debido a ajustes en los servicios que ofrecemos. Para comprender completamente tus derechos como usuario, así como las formas en que usamos tus datos, lee y acepta nuestro &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &lt;a href=%2$s&gt;Política de Privacidad&lt;/a&gt; antes de usar la aplicación."</string>
     <string name="dialog_privacy_change_title">Actualización de la Política de Privacidad</string>
-    <string name="dialog_privacy_experience_plan">Únase a nuestro programa de experiencia del usuario para compartir datos de usuario con nosotros a fin de ayudarnos a mejorar nuestros productos y servicios.</string>
+    <string name="dialog_privacy_experience_plan">Únete al programa de Experiencia de Usuario y comparte tus datos con nosotros para ayudarnos a mejorar productos y servicios.</string>
     <string name="dialog_privacy_info_new2">" Para poder utilizar sus servicios, debes aceptar que %1$s recopilará, procesará y utilizará tu información personal. Se considerará que has leído y aceptado nuestra &lt;a href=%2$s&gt;Política de privacidad&lt;/a&gt; cuando toques \"Aceptar\" a continuación."</string>
     <string name="dialog_privacy_info_new3">"Para poder utilizar este servicio, debes permitir que %1$s recopile, procese y utilice tu información personal de acuerdo con la Política de Privacidad. Al pulsar Aceptar, estás aceptando la &lt;a href=%2$s&gt;Política de Privacidad&lt;/a&gt; y el &lt;a href=%3$s&gt;Acuerdo de Usuario&lt;/a&gt; de Xiaomi. &lt;br/&gt;&lt;br/&gt;Al pulsar Aceptar también le permite a Mi Vídeo acceder a la lista de aplicaciones instaladas en tu dispositivo. Con este permiso, Mi Vídeo podrá compartir elementos, comprender si una aplicación está instalada en tu dispositivo, qué versión de una aplicación está instalada y si una aplicación es segura."</string>
     <string name="dialog_privacy_info_new4">"¡Te damos la bienvenida a Mi Vídeo! Esta aplicación brinda los siguientes servicios:&lt;br&gt;&lt;/br&gt; - Retransmisión en línea&lt;br&gt;&lt;/br&gt;- Reproducción de vídeo local&lt;br&gt;&lt;/br&gt;Mi Vídeo necesita recopilar información personal para proporcionar los servicios básicos. Puedes conocer como manejamos la información recopilada leyendo nuestra Política de Privacidad. Podrás cambiar la configuración en Ajustes&gt; contraseñas y seguridad.&lt;br&gt;&lt;/br&gt; Lee y acepta nuestro &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &lt;a href=%2$s&gt;Política de Privacidad&lt;/a&gt; antes de usarlo."</string>
@@ -310,7 +312,7 @@ Remite este código al supervisor."</string>
     <string name="dialog_privacy_revoke_title">Retiro del consentimiento</string>
     <string name="dialog_privacy_revoking">Retirando el consentimiento…</string>
     <string name="dialog_privacy_title">Términos y Condiciones</string>
-    <string name="dialog_revoke_privacy_info_new2">Después de revocar la autorización, la aplicación dejará de recopilar datos y todos los datos relacionados se eliminarán de nuestros servidores. Esto podría hacer que la aplicación sea virtualmente inutilizable. ¿Revocar la autorización de todas formas?</string>
+    <string name="dialog_revoke_privacy_info_new2">Si revocas tu autorización, esta aplicación dejará de recopilar datos y todos los relacionados se eliminarán de nuestros servidores. Esto puede provocar que la aplicación sea prácticamente inservible. ¿Revocar la autorización?</string>
     <string name="dialog_revoke_privacy_title">Revocando autorización</string>
     <string name="dialog_select_folder_content">¿Guardar todas las descargas futuras en esta carpeta?</string>
     <string name="dialog_select_folder_title">Seleccione la carpeta</string>
@@ -652,6 +654,7 @@ Esta operación no afectará a las imágenes de la Galería."</string>
     <string name="incentive_view_details">Detalles</string>
     <string name="inconsistent_pwd">"Las contraseñas no coinciden"</string>
     <string name="init_channels">Restaurar valores predeterminados</string>
+    <string name="inline_mute_click_tip">Pulsa para desactivar silencio</string>
     <string name="input_email_address_notice">"Vamos a utilizar este correo electrónico para verificar tu cuenta"</string>
     <string name="input_new_pwd">Introduce nueva contraseña</string>
     <string name="input_size_tips_new">Puedes ingresar hasta %d caracteres</string>
@@ -694,6 +697,7 @@ para vídeos"</string>
     <string name="local_hide_folder_dialog_title">Vídeos ocultos</string>
     <string name="local_hide_folder_setting_goto">Ajustes</string>
     <string name="local_hide_folder_setting_tip">Puedes administrar tus videos ocultos en Perfil &gt; Configuración &gt; Administrar videos ocultos.</string>
+    <string name="local_play_end_drag_up_guide">Pulsa o desliza hacia arriba para jugar Shorts</string>
     <string name="local_play_tip">Reproduciendo vídeo local</string>
     <string name="local_push_setting_power_tag">Notificaciones sobre videos locales</string>
     <string name="local_push_title">Popular hoy</string>
@@ -750,6 +754,7 @@ para vídeos"</string>
     <string name="lp_video_zoom_title">Zoom</string>
     <string name="lv_advance_sound">Audio mejorado</string>
     <string name="lv_airkan_control_device_des">Para controlar la reproducción, toca la barra en la parte inferior.</string>
+    <string name="lv_airkan_device_my_device">Mi dispositivo</string>
     <string name="lv_airkan_device_xiaomi_phone">Mi Teléfono Mi</string>
     <string name="lv_airkan_playing">Transmitiendo en %s</string>
     <string name="lv_airkan_tips">Toca para transmitir</string>
@@ -961,10 +966,10 @@ para vídeos"</string>
     <string name="month_september_shortest">Sep</string>
     <string name="more">Más</string>
     <string name="morning">Mañana</string>
-    <string name="mr_button_content_description">Botón de enviar</string>
-    <string name="mr_cast_button_connected">Botón de enviar. Conectado</string>
-    <string name="mr_cast_button_connecting">Botón de enviar. Conectando</string>
-    <string name="mr_cast_button_disconnected">Botón de enviar. Desconectado</string>
+    <string name="mr_button_content_description">Emitir</string>
+    <string name="mr_cast_button_connected">Emitir. Conectado</string>
+    <string name="mr_cast_button_connecting">Emitir. Conectando</string>
+    <string name="mr_cast_button_disconnected">Emitir. Desconectado</string>
     <string name="mr_cast_dialog_title_view_placeholder">No hay información disponible</string>
     <string name="mr_chooser_searching">Buscando dispositivos</string>
     <string name="mr_chooser_title">Enviar a</string>
@@ -981,8 +986,9 @@ para vídeos"</string>
     <string name="mr_controller_stop">Detener</string>
     <string name="mr_controller_stop_casting">Detener envío</string>
     <string name="mr_controller_volume_slider">Control deslizante de volumen</string>
-    <string name="mr_dialog_device_header">Transmitir a un dispositivo</string>
-    <string name="mr_dialog_route_header">Reproducir en un grupo</string>
+    <string name="mr_dialog_default_group_name">Grupo</string>
+    <string name="mr_dialog_groupable_header">Añadir un dispositivo</string>
+    <string name="mr_dialog_transferable_header">Jugar en un grupo</string>
     <string name="mr_system_route_name">Sistema</string>
     <string name="mr_user_route_category_name">Dispositivos</string>
     <string name="mtrl_badge_numberless_content_description">Nueva notificación</string>
@@ -1250,8 +1256,8 @@ Primero actualiza Mi Vídeo a la última versión."</string>
     <string name="passport_unknow_error">Ha ocurrido un error desconocido</string>
     <string name="passport_unknow_host_network_error">Comprueba los ajustes de red e inténtalo otra vez</string>
     <string name="passport_unknow_network_error">Ha ocurrido un error de red</string>
-    <string name="passport_user_agreement_link">"&lt;Data&gt;He leído y acepto el &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y &lt;a href=%2$s&gt;Política de Privacidad&lt;/a&gt; de Xiaomi.&lt;/Data&gt;"</string>
-    <string name="passport_user_agreement_link_more">"&lt;Data&gt;He leído y acepto el &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y &lt;a href=%4$s&gt;Política de Privacidad&lt;/a&gt;, &lt;a href=%2$s&gt;%3$s&lt;/a&gt;.&lt;/Data&gt;"</string>
+    <string name="passport_user_agreement_link">"&lt;Data&gt;He leído y acepto el &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y la &lt;a href=%2$s&gt;Política de Privacidad&lt;/a&gt; de Xiaomi.&lt;/Data&gt;"</string>
+    <string name="passport_user_agreement_link_more">"&lt;Data&gt;He leído y acepto los siguientes documentos: &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y &lt;a href=%4$s&gt;Política de Privacidad&lt;/a&gt;, &lt;a href=%2$s&gt;%3$s&lt;/a&gt; de Xiaomi.&lt;/Data&gt;"</string>
     <string name="passport_user_id_intro">Introduce la contraseña para %1$s</string>
     <string name="passport_v_code_error">Código de verificación incorrecto</string>
     <string name="passport_vcode_notification_title">Tu verificación de inicio de sesión está incompleta</string>
@@ -1438,7 +1444,7 @@ Mejorar la seguridad de tu cuenta."</string>
     <string name="preference_copied">\"%1$s\" copiado al portapapeles.</string>
     <string name="privacy_agree_subtitle">El consentimiento a la Política de privacidad le permite utilizar todas las funciones de Mi Video</string>
     <string name="privacy_agree_title">Consentimiento</string>
-    <string name="privacy_experience_plan">Únase a nuestro programa de experiencia del usuario para compartir datos de usuario con nosotros a fin de ayudarnos a mejorar nuestros productos y servicios</string>
+    <string name="privacy_experience_plan">Únete al programa de Experiencia de Usuario y comparte tus datos con nosotros para ayudarnos a mejorar productos y servicios</string>
     <string name="privacy_experience_title">Programa de Experiencia de Usuario</string>
     <string name="privacy_revoke_setting">Al desactivar el interruptor, retiras tu consentimiento a la Política de Privacidad de Mi Vídeo.</string>
     <string name="privacy_revoke_subtitle">Retirar el consentimiento a la Política de privacidad de Mi Video</string>

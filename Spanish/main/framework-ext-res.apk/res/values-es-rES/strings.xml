@@ -118,7 +118,7 @@
     <string name="daydream">Ensueño</string>
     <string name="default_device_name">Dispositivo desconocido</string>
     <string name="default_name">Predeterminado</string>
-    <string name="description_title">Modo silencioso</string>
+    <string name="description_title">Modo silencio</string>
     <string name="device_status_failed">"No se pudo enviar"</string>
     <string name="device_status_sending">Enviando…</string>
     <string name="device_status_success">Enviado</string>
@@ -133,7 +133,7 @@
     <string name="dock_tip_splitscreen_landscape_drag">Arrastre la barra horizontalmente para intercambiar las posiciones de las dos ventanas de la aplicación.</string>
     <string name="dock_tip_splitscreen_landscape_float">Mantenga pulsado y arrastre hacia abajo para cambiar a una ventana flotante.</string>
     <string name="dock_tip_splitscreen_portrait_drag">Arrastre la barra verticalmente para intercambiar las posiciones de las dos ventanas de la aplicación.</string>
-    <string name="dock_tip_splitscreen_portrait_float">Mantenga presionado y arrastre hacia el lado izquierdo o derecho de la pantalla para cambiar a una ventana flotante.</string>
+    <string name="dock_tip_splitscreen_portrait_float">Mantén pulsado y arrastra hacia la izquierda o derecha de la pantalla para cambiar a una ventana flotante.</string>
     <string name="double_click_power_key">Pulsa el botón de encendido dos veces</string>
     <string name="double_click_volume_down_when_lock">Pulsa dos veces bajar volumen con la pantalla bloqueada</string>
     <string name="double_knock">Doble toque de nudillos</string>
@@ -317,7 +317,7 @@
     <string name="monet">Estanque de lirios</string>
     <string name="morning">Mañana</string>
     <string name="mountainspring">Primavera de montaña</string>
-    <string name="mute">Modo silencioso</string>
+    <string name="mute">Modo silencio</string>
     <string name="mw_guide_dialog_button_confirm">Entendido</string>
     <string name="mw_guide_dialog_message">"Parece que esta aplicación no soporta ventanas paralelas. Cambiado a otro formato compatible."</string>
     <string name="mw_guide_dialog_title">"Las ventanas paralelas no están soportadas"</string>
@@ -348,6 +348,9 @@
     <string name="pc_device_model_name">Ordenador</string>
     <string name="pc_redmi_device_model_name">Redmi laptop</string>
     <string name="pc_xiaomi_device_model_name">Xiaomi laptop</string>
+    <string name="periodiccacheclear_notification_indefinite">El almacenamiento se ha liberado automáticamente.</string>
+    <string name="periodiccacheclear_notification_post">de almacenamiento se ha liberado automáticamente.</string>
+    <string name="periodiccacheclear_notification_title">Limpieza inteligente</string>
     <string name="perm_send_push_dspt">Permitir mensajes flotantes de Mi</string>
     <string name="perm_send_push_lab">Enviar mensaje flotante</string>
     <string name="permdesc_manageFingerprint">Permite a la aplicación añadir, eliminar y usar modelos de huellas dactilares.</string>
@@ -457,12 +460,12 @@
     <string name="show_menu">Mostrar el menú</string>
     <string name="shutdown_confirm_title">¿Apagar el dispositivo ahora?</string>
     <string name="shutdown_progress">Apagando…</string>
-    <string name="silence_mode">Modo silencioso</string>
+    <string name="silence_mode">Modo silencio</string>
     <string name="sim_added_reboot_confirm">Reiniciar</string>
     <string name="sim_added_reboot_title">La tarjeta SIM se activará tras reiniciar el dispositivo.</string>
     <string name="sim_lock_non_ais_msg">"Tu tarjeta SIM no es totalmente funcional con este teléfono debido a que no cumple con los términos y condiciones de tu suscripción. Si tienes alguna duda o necesitas más información sobre este tema, contacta con el servicio de atención de Xiaomi o visita la tienda que te vendió el producto."</string>
     <string name="sim_lock_now_ais_title">SIM %1$d</string>
-    <string name="slatoast">Usar datos móviles para incrementar la velocidad podría generar cargos adicionales</string>
+    <string name="slatoast">El uso de datos móviles para aumentar la velocidad puede generar cargos adicionales</string>
     <string name="slavewifi">Wi-Fi de doble banda</string>
     <string name="slavewifi_disconnect">Desconectar</string>
     <string name="slavewifi_notification_title">Usando Wi-Fi de doble banda</string>

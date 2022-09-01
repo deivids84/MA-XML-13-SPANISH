@@ -75,7 +75,7 @@
     <string name="adb_pairing_device_dialog_pairing_code_label">Código de emparejamiento de Wi-Fi</string>
     <string name="adb_pairing_device_dialog_title">Emparejar con dispositivo</string>
     <string name="adb_qrcode_pairing_device_failed_msg">No se pudo emparejar el dispositivo. O el código QR era incorrecto o el dispositivo no está conectado a la misma red.</string>
-    <string name="adb_warning_message">La depuración de USB está destinada únicamente a fines de desarrollo. Úselo para copiar datos entre su computadora y su dispositivo, instalar aplicaciones en su dispositivo sin notificación y leer datos de registro.</string>
+    <string name="adb_warning_message">La depuración USB está destinada únicamente a fines de desarrollo. Puedes usarla para copiar datos entre un ordenador y tu dispositivo, instalar aplicaciones en el dispositivo y leer anotaciones de registro.</string>
     <string name="adb_warning_title">¿Permitir la depuración USB?</string>
     <string name="adb_wireless_connection_failed_message">Asegúrese de que %1$s esté conectado a la red correcta</string>
     <string name="adb_wireless_connection_failed_title">Conexión fallida</string>
@@ -90,7 +90,7 @@
     <string name="adb_wireless_qrcode_summary">Emparejar dispositivo a través de Wi-Fi escaneando un código QR</string>
     <string name="adb_wireless_settings">Depuración inalámbrica</string>
     <string name="adb_wireless_verifying_qrcode_text">Emparejamiento de dispositivo…</string>
-    <string name="adbwifi_warning_message">La depuración inalámbrica está destinada únicamente a fines de desarrollo. Úselo para copiar datos entre su computadora y su dispositivo, instalar aplicaciones en su dispositivo sin notificación y leer datos de registro.</string>
+    <string name="adbwifi_warning_message">La depuración inalámbrica está destinada únicamente a fines de desarrollo. Puedes usarla para copiar datos entre un ordenador y tu dispositivo, instalar aplicaciones en el dispositivo y leer anotaciones de registro.</string>
     <string name="adbwifi_warning_title">¿Permitir la depuración inalámbrica?</string>
     <string name="add_emergency_contact">Agregar contacto</string>
     <string name="add_medical_info">Añadir información</string>
@@ -99,9 +99,9 @@
     <string name="age">Edad: %1$d</string>
     <string name="alarm_template">a las %1$s</string>
     <string name="alarm_template_far">en %1$s</string>
-    <string name="alarms_and_reminders_footer_title">"Permita que esta aplicación configure alarmas y programe acciones urgentes. Esto permite que la aplicación se ejecute en segundo plano, lo que puede consumir más batería.
+    <string name="alarms_and_reminders_footer_title">"Permite que esta aplicación configure alarmas y programe acciones urgentes. Esto permite que se ejecute en segundo plano, lo que puede consumir más batería.
 
-Si este permiso está desactivado, las alarmas existentes y los eventos basados en el tiempo programados por esta aplicación no funcionarán."</string>
+Con este permiso desactivado, las alarmas existentes y los eventos basados en el tiempo programados por esta aplicación no funcionarán."</string>
     <string name="alarms_and_reminders_label">Alarmas y recordatorios</string>
     <string name="alarms_and_reminders_switch_title">Permitir configurar alarmas y recordatorios</string>
     <string name="alarms_and_reminders_title">Alarmas &amp; recordatorios</string>
@@ -217,7 +217,7 @@ Selección"</string>
     <string name="bluetooth_show_devices_without_names">Mostrar dispositivos Bluetooth sin nombre</string>
     <string name="bluetooth_show_devices_without_names_summary">Se mostrarán los dispositivos Bluetooth sin nombre (solo direcciones MAC)</string>
     <string name="bluetooth_talkback_bluetooth">Bluetooth</string>
-    <string name="bluetooth_talkback_computer">Computadora</string>
+    <string name="bluetooth_talkback_computer">Ordenador</string>
     <string name="bluetooth_talkback_headphone">Auricular</string>
     <string name="bluetooth_talkback_headset">Auriculares</string>
     <string name="bluetooth_talkback_imaging">Imagen</string>
@@ -258,10 +258,10 @@ Selección"</string>
     <string name="connected_via_network_scorer_default">Conectado automáticamente a través del proveedor de clasificación de red</string>
     <string name="connected_via_passpoint">Conectado a través de %1$s</string>
     <string name="content_description_menu_button">Menú</string>
-    <string name="convert_to_fbe_warning">"Convierta la partición de datos en cifrado basado en archivos.
- !! Advertencia !! Esto borrará todos sus datos.
- Esta función es alfa y es posible que no funcione correctamente.
- Presione 'Limpiar y convertir…' para continuar."</string>
+    <string name="convert_to_fbe_warning">"Convierte la partición de datos en cifrado basado en archivos.
+ !! Atención !! Esto borrará todos tus datos.
+ Esta función está en desarrollo y puede no funcionar correctamente.
+ Pulsa 'Limpiar y convertir…' para continuar."</string>
     <string name="convert_to_file_encryption">Convertir a cifrado de archivos</string>
     <string name="convert_to_file_encryption_done">Archivo ya cifrado</string>
     <string name="convert_to_file_encryption_enabled">Convertir…</string>

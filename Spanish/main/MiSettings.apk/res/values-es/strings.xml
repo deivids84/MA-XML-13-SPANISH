@@ -688,7 +688,9 @@ no se generan en el segundo espacio"</string>
     <string name="usage_beat_fans">Mejor que el %s de los Mi Fans</string>
     <string name="usage_continuous_days">Racha</string>
     <string name="usage_creating_weekly_report">Creando informe semanal…</string>
-    <string name="usage_cta_desc">"¡Te damos la bienvenida! Para proporcionar estadísticas de tiempo de pantalla, esta aplicación recopilará los siguientes datos: cantidad de veces que desbloqueas el dispositivo, la lista de aplicaciones y su tiempo de uso, la cantidad de encendidos de la pantalla y ajustes del modo de enfoque. Los datos recopilados tan solo se almacenarán localmente en el dispositivo.
+    <string name="usage_cta_desc">"¡Te damos la bienvenida a Horas de Pantalla!
+Para proporcionarte estadísticas de tiempo de pantalla, esta aplicación necesita recopilar la cantidad de veces que desbloqueas el dispositivo, la lista de aplicaciones y su tiempo de uso, la cantidad de encendidos de la pantalla y ajustes del modo de enfoque.
+Los datos recopilados solo se almacenarán localmente en el dispositivo.
 "</string>
     <string name="usage_current_week_usage">%s de media en los últimos 7 días</string>
     <string name="usage_device_limit_app_prolong">Añadir tiempo</string>
@@ -719,13 +721,16 @@ no se generan en el segundo espacio"</string>
     <string name="usage_home_permission_account_title">Acceso a la información de la cuenta</string>
     <string name="usage_home_permission_phone_summary">Para identificar tu dispositivo usando VAID</string>
     <string name="usage_home_permission_phone_title">Acceder a la información del dispositivo</string>
-    <string name="usage_home_premission_main_summary">"¡Te damos la bienvenida a Horas de pantalla! Aquí puedes establecer límites de uso de pantalla, ver estadísticas y cambiar al Modo concentración. Para funcionar normalmente es necesario recopilar información sobre el tiempo de pantalla (por ejemplo, cuantas veces desbloqueas el dispositivo o enciendes la pantalla y durante cuánto tiempo usas cada aplicación)"</string>
+    <string name="usage_home_premission_main_summary">"¡Te damos la bienvenida a Horas de pantalla!
+Aquí puedes establecer límites de uso de pantalla, ver estadísticas y cambiar al modo Concentración. Para funcionar normalmente es necesario recopilar información sobre el tiempo de pantalla (por ejemplo, las veces que desbloqueas el dispositivo o enciendes la pantalla y cuanto tiempo usas cada aplicación)."</string>
     <string name="usage_home_premission_main_summary_new">"¡Te damos la bienvenida a Horas de pantalla! 
-Para funcionar normalmente, esta aplicación necesita recopilar tu información personal sobre el tiempo de uso de la pantalla. Las veces que desbloqueas el dispositivo, la lista de las aplicaciones y uso de las mismas se usan para generar estadísticas de Horas de pantalla. La configuración del modo Concentración se usa para generar estadísticas de dicho modo.
-Esta aplicación también usa la conexión de Internet y necesita los siguientes permisos:"</string>
+Para funcionar normalmente, esta aplicación necesita recopilar tu información personal sobre el tiempo de uso de la pantalla.
+Las veces que desbloqueas el dispositivo, la lista de las aplicaciones y el uso de las mismas se usan para generar estadísticas de Horas de pantalla. La configuración del modo Concentración se usa para generar sus propias estadísticas.
+Esta aplicación también usa la conexión a Internet y necesita los siguientes permisos:"</string>
     <string name="usage_home_premission_main_summary_new_o">"¡Te damos la bienvenida a Horas de pantalla! 
-Para funcionar normalmente, esta aplicación necesita recopilar tu información personal sobre el tiempo de uso de la pantalla. Las veces que desbloqueas el dispositivo, la lista de las aplicaciones y uso de las mismas se usan para generar estadísticas de Horas de pantalla.
-Esta aplicación también usa la conexión de Internet y necesita los siguientes permisos:"</string>
+Para funcionar normalmente, esta aplicación necesita recopilar tu información personal sobre el tiempo de uso de la pantalla.
+Las veces que desbloqueas el dispositivo, la lista de las aplicaciones y el uso de las mismas se usan para generar estadísticas de Horas de pantalla.
+Esta aplicación también usa la conexión a Internet y necesita los siguientes permisos:"</string>
     <string name="usage_home_premission_second_summary">Para funcionar normalmente, esta aplicación necesita recolectar tu información personal. Protegeremos tu información personal de acuerdo con las leyes, regulaciones y políticas de privacidad relevantes.</string>
     <string name="usage_home_premission_second_summary_double_link_prefix">"Protegeremos tu información personal de acuerdo con las leyes, regulaciones y políticas de privacidad relevantes. Si no aceptas conceder estos permisos o compartir y cargar tu información personal, no podrás usar esta aplicación. Puedes revocar tu autorización en Horas de pantalla &gt; Ajustes &gt; Desactivar Horas de pantalla."</string>
     <string name="usage_home_premission_second_summary_double_link_suffix" formatted="false">&lt;Data&gt;Antes de usar esta aplicación, lee y acepta nuestro &lt;a href=\'%1s\'&gt;Acuerdo de Usuario&lt;/a&gt; y &lt;a href=\'%2s\'&gt;Política de Privacidad&lt;/a&gt;.&lt;/Data&gt;</string>

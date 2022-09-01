@@ -2013,6 +2013,11 @@ Si tiene preguntas, comuníquese con %2$s."</string>
     <string name="quick_settings_screen_record_label">Grabar pantalla</string>
     <string name="quick_settings_screen_record_start">Iniciar</string>
     <string name="quick_settings_screen_record_stop">Detener</string>
+    <string name="quick_settings_screen_rotation_inner_locked">Rotación de la pantalla interior desactivada</string>
+    <string name="quick_settings_screen_rotation_inner_unlocked">Rotación de la pantalla interior activada</string>
+    <string name="quick_settings_screen_rotation_outer_landscape_locked">Pantalla exterior bloqueada en horizontal</string>
+    <string name="quick_settings_screen_rotation_outer_portrait_locked">Pantalla exterior bloqueada en vertical</string>
+    <string name="quick_settings_screen_rotation_outer_unlocked">Rotación de la pantalla exterior activada</string>
     <string name="quick_settings_screenbutton_label">Botones</string>
     <string name="quick_settings_screenlock_label">Bloqueo de pantalla</string>
     <string name="quick_settings_screenshot_label">Captura de pantalla</string>

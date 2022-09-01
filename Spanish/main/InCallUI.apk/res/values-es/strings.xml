@@ -161,7 +161,7 @@
     <string name="description_image_button_two">dos</string>
     <string name="description_image_button_video_answer">Videollamada</string>
     <string name="description_image_button_zero">cero</string>
-    <string name="description_incoming_video">Vídeo de perfil para llamadas entrantes</string>
+    <string name="description_incoming_video">Vídeo de perfil en llamadas entrantes</string>
     <string name="description_message_list_title">Lista de respuestas rápidas</string>
     <string name="description_target_answer">Contestar</string>
     <string name="do_not_support_video_calls_by_remote">"Las videollamadas no compatibles en el otro dispositivo"</string>

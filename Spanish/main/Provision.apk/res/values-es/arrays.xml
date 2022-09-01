@@ -65,7 +65,7 @@
     </string-array>
     <string-array name="other_settings_auto_update_entries">
         <item>Wi-Fi y datos móviles</item>
-        <item>Solo Wi-Fi</item>
+        <item>Sincronizar solo con Wi-Fi</item>
         <item>Desactivado</item>
     </string-array>
 </resources>

@@ -57,8 +57,8 @@
     <string name="accelerometer_summary_off">Cambiar la orientación automáticamente al girar el dispositivo</string>
     <string name="accelerometer_summary_on">Cambiar la orientación automáticamente al girar el dispositivo</string>
     <string name="accelerometer_title">Girar automáticamente la pantalla</string>
-    <string name="accept_new_connection">Permitir nuevas conexiones</string>
-    <string name="accept_new_connection_detail">Las nuevas conexiones bluetooth se han desactivado desde el centro de control</string>
+    <string name="accept_new_connection">Permitir conexión a nuevos dispositivos</string>
+    <string name="accept_new_connection_detail">Restringidas nuevas conexiones en el Centro de Control</string>
     <string name="access_control_app_entry_multiple">Abrir %s</string>
     <string name="access_control_app_entry_single">Abrir aplicación</string>
     <string name="access_control_need_password">"%s protegido
@@ -1757,7 +1757,7 @@ Puede desactivar esta función en Configuración &gt; Bluetooth &gt; Dispositivo
     <string name="bt_absVolume_open_dialog_title">Atención</string>
     <string name="bt_absVolume_pre_title">Volumen absoluto</string>
     <string name="bt_absVolume_summary">"Mantenga el volumen de los dispositivos Bluetooth y del teléfono estrictamente constante. Puede activar y desactivar esta función cuando no se reproduzcan elementos multimedia en segundo plano."</string>
-    <string name="bt_always_show_icon">Mostrar siempre el icono de bluetooth en la barra de estado</string>
+    <string name="bt_always_show_icon">Mostrar el icono en la barra de estado siempre</string>
     <string name="bt_aptx_adaptive_open_dialog_summary">aptX Adaptive proporcionará una reproducción de alta calidad y reducirá la latencia de audio para juegos y vídeos, al tiempo que aumentará el consumo de energía. La reproducción puede ser atascada debido a limitaciones del hardware Bluetooth e interferencia ambiental.</string>
     <string name="bt_aptx_adaptive_open_dialog_title">¿Cambiar a aptX Adaptive?</string>
     <string name="bt_audio_repair_property">Solucionar problemas de audio</string>

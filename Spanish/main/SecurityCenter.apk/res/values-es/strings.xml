@@ -183,6 +183,8 @@
     <string name="am">AM</string>
     <string name="anti_disturb_msg_detail">Desactivar todas las notificaciones excepto las llamadas entrantes</string>
     <string name="anti_disturb_msg_title">No Molestar</string>
+    <string name="antispam_guangdian_card_hint">"La SIM no admite el cambio a un mensaje lejano diferente. Contacta con tu operador para más detalles."</string>
+    <string name="antispam_guangdian_card_title">"No se permite el cambio"</string>
     <string name="antispam_mms_text">Establece Mensajería como tu aplicación de mensajes SMS para poder ver los mensajes bloqueados</string>
     <string name="antispam_mms_text_setting">Establece Mensajería como tu aplicación de mensajes SMS por defecto para poder usar la lista negra</string>
     <string name="antispam_mode_details">Detalles de lista negra</string>
@@ -1568,7 +1570,7 @@ Se agregará a las excepciones, pero los elementos previamente bloqueados no apa
     <string name="ew_emergency_medicine">Medicación activa</string>
     <string name="ew_emergency_name">Nombre</string>
     <string name="ew_emergency_organ_donation">¿Eres un voluntario de donación de órganos?</string>
-    <string name="ew_emergency_privacy">"Declaración de privacidad: la información que proporcione aquí solo se utilizará para casos de emergencia y se almacenará en su dispositivo. No subiremos esta información a nuestros servidores."</string>
+    <string name="ew_emergency_privacy">"Declaración de privacidad: la información que proporciones aquí solo se utilizará para casos de emergencia y se almacenará en el dispositivo. No enviaremos esta información a nuestros servidores."</string>
     <string name="ew_emergency_recent_medicine">Medicación activa reciente</string>
     <string name="ew_emergency_title">Tarjeta médica</string>
     <string name="ew_first_start_network_title">Términos y Condiciones</string>
@@ -1628,7 +1630,7 @@ Debe entender que esta característica se proporciona únicamente para su refere
     <string name="ew_main_detail_title">Configuraciones</string>
     <string name="ew_main_emergency_tips">Registre su información médica básica para tenerla siempre a mano.</string>
     <string name="ew_main_emergency_title">Tarjeta médica</string>
-    <string name="ew_main_open_tips">"Esta función le notificará sobre los próximos terremotos y reproducirá un sonido de advertencia. También se le proporcionará la información sobre los servicios de emergencia después de que finalice la cuenta regresiva de emergencia."</string>
+    <string name="ew_main_open_tips">"Esta función te notificará sobre próximos terremotos y reproducirá un sonido de advertencia. También te dará información sobre los servicios de emergencia cuando termine la cuenta atrás de la emergencia."</string>
     <string name="ew_main_open_title">Reciba alertas y obtenga ayuda</string>
     <string name="ew_main_place_tips">Aprenda dónde está el refugio de emergencia más cercano cada vez que necesite uno</string>
     <string name="ew_main_place_title">Refugios de emergencia cercanos</string>
@@ -1651,7 +1653,7 @@ Debe entender que esta característica se proporciona únicamente para su refere
     <string name="ew_monitor_number_prex">NO. %s</string>
     <string name="ew_monitor_open">Unirse</string>
     <string name="ew_monitor_privacy_revoke_title">Retirar el consentimiento a la Política de privacidad del monitor de terremotos</string>
-    <string name="ew_monitor_read_privacy"><Data>\"He leído y acepto la &lt;a href=\"%1$s\"&gt;Política de privacidad&lt;/a&gt;\".</Data></string>
+    <string name="ew_monitor_read_privacy"><Data>\"He leído y acepto la &lt;a href=\"%1$s\"&gt;Política de Privacidad&lt;/a&gt;.\"</Data></string>
     <string name="ew_monitor_share">Compartir</string>
     <string name="ew_monitor_slogan">"Únase a nuestro programa 
 de monitoreo de terremotos"</string>
@@ -1827,7 +1829,7 @@ voluntario"</string>
     <string name="first_aid_card_airplane_title">"No se puede hacer llamadas o conectarse a la red"</string>
     <string name="first_aid_card_consume_power_button1">Restringir</string>
     <string name="first_aid_card_consume_power_button2">Desactivar</string>
-    <string name="first_aid_card_consume_power_summary2">Desactivar punto de acceso portátil para ahorrar batería</string>
+    <string name="first_aid_card_consume_power_summary2">Desactivar el punto de acceso portátil para ahorrar batería</string>
     <string name="first_aid_card_consume_power_summary_app">Más de %d aplicaciones pueden iniciarse automáticamente. Restringir para ahorrar batería.</string>
     <string name="first_aid_card_consume_power_title">Uso de la batería</string>
     <string name="first_aid_card_kadun_button1">Liberar espacio</string>
@@ -2528,7 +2530,7 @@ para unirte a nuestra búsqueda de huevos!"</string>
     <string name="input_aviable_traffic">Establecer límite de uso de datos</string>
     <string name="input_celluar_data_quota_hint">Introducir límite de datos</string>
     <string name="input_cellular_data_warn_hint">Introduce el límite de advertencia de uso de datos</string>
-    <string name="input_password_hint_text">Introduzca la contraseña</string>
+    <string name="input_password_hint_text">Escribe la contraseña</string>
     <string name="input_phone_num_hint">Editar número de teléfono de la SIM</string>
     <string name="input_title">Toca para entrar</string>
     <string name="input_traffic_pkg">Introduzca el uso de datos</string>
@@ -3139,7 +3141,7 @@ Usa otro cable Ethernet para conectarlo. Si crees que hay problemas de conexión
     <string name="numeric_password_confirmed_header_confirm">Establecido. Pulsa para confirmar.</string>
     <string name="numeric_password_confirmed_header_continue">Establecido. Pulsa \"Siguiente\".</string>
     <string name="numeric_pattern_entered_header">PIN establecido</string>
-    <string name="numeric_recording_intro_header">Introduzca la contraseña</string>
+    <string name="numeric_recording_intro_header">Escribe la contraseña</string>
     <string name="numeric_retry_button_text">Cancelar</string>
     <string name="numeric_settings_help_how_to_record">Cómo establecer el PIN</string>
     <string name="oaid_apps_title">Administrar ID virtual</string>
@@ -4149,8 +4151,8 @@ Retirar el consentimiento ahora?"</string>
     <string name="privacy_thumbnail_blur_category_photography">Foto y vídeo</string>
     <string name="privacy_thumbnail_blur_category_tip">Recomendado</string>
     <string name="privacy_thumbnail_blur_search_empty">"No se pudo encontrar resultados"</string>
-    <string name="privacy_thumbnail_blur_title">Desenfocar previsualizaciones</string>
-    <string name="privacy_thumbnail_blur_top_tip">Selecciona las aplicaciones cuyas previsualizaciones serán desenfocadas en Recientes</string>
+    <string name="privacy_thumbnail_blur_title">Desenfocar previsualización</string>
+    <string name="privacy_thumbnail_blur_top_tip">Puedes seleccionar aplicaciones cuya vista previa se desenfocará en la pantalla de recientes</string>
     <string name="privacy_type_open">Activado</string>
     <string name="privacy_update_dialog_content_1">%s Se actualizó la Política de privacidad:</string>
     <string name="privacy_update_dialog_content_2"><Data>Lea y acepte la nueva versión de &lt;a href=\"%1$s\"&gt;Política de privacidad&lt;/a&gt; antes de continuar.</Data></string>
@@ -4410,7 +4412,7 @@ Retirar el consentimiento ahora?"</string>
     <string name="signed_rule_one">1. Regístrate 10, 20 o 28 días seguidos cada mes para obtener aceleración Xunyou 1, 2, o 3 días respectivamente.</string>
     <string name="signed_rule_one_new">%1$d. Regístrate %2$d, %3$d, o %4$d días seguidos cada mes para obtener un impulso de Xunyou durante %5$d, %6$d, o %7$d días respectivamente.</string>
     <string name="signed_rule_three">"3. Cada inicio de mes se eliminan los días que te has registrado previamente. Los días restantes no se vuelven a contar."</string>
-    <string name="signed_rule_three_new">"%1$dLos días de registro se anulan al principio de cada mes. Los días restantes no se transfieren."</string>
+    <string name="signed_rule_three_new">"%1$d, Los días de registro se anulan al principio de cada mes. Los días restantes no se transfieren."</string>
     <string name="signed_rule_two">2. Solo puede obtener 1 aceleración Xunyou por mes.</string>
     <string name="signed_rule_two_new">%d. Solo puedes obtener 1 impulso Xunyou por mes.</string>
     <string name="sim_car_absent__tip">Confirma el bloqueo de pantalla para desactivar el modo Perdido</string>
@@ -5102,7 +5104,7 @@ El formateo eliminará el contenido existente en la ^2. Para evitar perder conte
     <string name="task_summary_close_eye_care_mode">Desactivar el modo de lectura</string>
     <string name="task_summary_close_hotspot">Desactivar el punto de acceso portátil</string>
     <string name="task_summary_close_location">Desactivar los servicios de ubicación</string>
-    <string name="task_summary_close_mute">Desactivar el modo silencioso</string>
+    <string name="task_summary_close_mute">Desactivar el modo silencio</string>
     <string name="task_summary_close_network">Desactivar datos móviles</string>
     <string name="task_summary_close_nfc">Desactivar NFC</string>
     <string name="task_summary_close_rotate_lock">Desbloquear orientación</string>
@@ -5122,8 +5124,8 @@ El formateo eliminará el contenido existente en la ^2. Para evitar perder conte
     <string name="task_summary_open_eye_care_mode">Activar el modo de lectura</string>
     <string name="task_summary_open_hotspot">Activar punto de acceso portátil</string>
     <string name="task_summary_open_location">Activar los servicios de ubicación</string>
-    <string name="task_summary_open_mute">Activar el modo silencioso</string>
-    <string name="task_summary_open_mute_mode">Activar el modo silencioso</string>
+    <string name="task_summary_open_mute">Activar el modo silencio</string>
+    <string name="task_summary_open_mute_mode">Activar el modo silencio</string>
     <string name="task_summary_open_network">Activar datos móviles</string>
     <string name="task_summary_open_nfc">Activar NFC</string>
     <string name="task_summary_open_rotate_lock">Orientación de bloqueo</string>
@@ -5175,7 +5177,7 @@ El formateo eliminará el contenido existente en la ^2. Para evitar perder conte
     <string name="tc_sms_report_upload_when_net">¡Gracias por su comentario!</string>
     <string name="tc_web_correct_error">"No se pudo calibrar"</string>
     <string name="ten_percent_total_pkg">%s (10%% de datos mensuales)</string>
-    <string name="terms_and_conditions_content"><Data>\"Esta función te brinda la funcionalidad de alerta de terremotos. Te notificará sobre los próximos terremotos y reproducirá un sonido de advertencia. Podrás encontrar el refugio más cercano, llamar a tu contacto de emergencia y presentar su tarjeta médica si es necesario. &lt;br&gt;Lo haremos proteja su información personal de acuerdo con las leyes, reglamentos y políticas &lt;br&gt;privacidad pertinentes.2 Para poder funcionar con normalidad, esta función requiere los siguientes permisos para recopilar tu información personal: &lt;br&gt;• Información de ubicación: &lt;br&gt;Para acceder a tu ubicación y proporcionar alertas de terremotos precisas. &lt;br&gt;Si no aceptas otorgar dichos permisos o compartir y cargar su información personal, no podrás usar esta función. Puedes optar por desactivar esta función o no activarla en tal &lt;br&gt;Debes leer y aceptar nuestra &lt;a href=%s&gt;Política de privacidad&lt;/a&gt; antes de usar esta función\".</Data></string>
+    <string name="terms_and_conditions_content"><Data>\"Esta función te brinda la alerta de terremotos. Te notificará sobre próximos terremotos y reproducirá un sonido de advertencia. Podrás encontrar el refugio más cercano, llamar a tus contactos de emergencias y presentar la tarjeta médica si es necesario. &lt;br&gt;Protegeremos tu información personal de acuerdo con las leyes, reglamentos y políticas de privacidad pertinentes.&lt;br&gt; Para funcionar con normalidad, necesita permiso para recopilar la siguiente información personal: &lt;br&gt;• Información de ubicación: &lt;br&gt; Para acceder a tu ubicación y proporcionar alertas precisas.&lt;br&gt; Si no aceptas otorgar este permiso o compartir y cargar tu información personal, no podrás usar esta función. En tal caso, puedes optar por desactivarla o no activarla.&lt;br&gt; Debes leer y aceptar nuestra &lt;a href=%s&gt;Política de Privacidad&lt;/a&gt; antes de usar esta función.\"</Data></string>
     <string name="tether_custom_dialog_title">Límite de datos móviles</string>
     <string name="tether_limit_dialog_title">Límite de datos móviles</string>
     <string name="tether_limit_value_custom">Personalizado</string>
@@ -5342,7 +5344,7 @@ El formateo eliminará el contenido existente en la ^2. Para evitar perder conte
     <string name="title_result_location">Localización</string>
     <string name="title_result_lock_screen">Bloquear pantalla</string>
     <string name="title_result_music">Reproducir música</string>
-    <string name="title_result_mute">Modo silencioso</string>
+    <string name="title_result_mute">Modo silencio</string>
     <string name="title_result_network">Datos móviles</string>
     <string name="title_result_nfc">NFC</string>
     <string name="title_result_rotate_off">Orientación de la pantalla</string>
@@ -5742,7 +5744,7 @@ Activar una de las funciones desactivará la otra."</string>
     <string name="warningcenter_policeassist_open_btn">Encender</string>
     <string name="warningcenter_policeassist_open_content">"Envía tu información de ubicación a la policía mediante SMS o datos móviles automáticamente mientras llamas al 110, 120, 119 o 122."</string>
     <string name="warningcenter_policeassist_open_title">Comparta su ubicación con la policía durante las llamadas de emergencia</string>
-    <string name="warningcenter_policeassist_privacy"><Data>\"He leído y acepto &lt;a href=\"%1$s\"&gt;Acuerdo de usuario&lt;/a&gt; y &lt;a href=\"%2$s\"&gt;Política de privacidad&lt;/a&gt;\".</Data></string>
+    <string name="warningcenter_policeassist_privacy"><Data>\"He leído y acepto el &lt;a href=\"%1$s\"&gt;Acuerdo de Usuario&lt;/a&gt; y la &lt;a href=\"%2$s\"&gt;Política de Privacidad&lt;/a&gt;.\"</Data></string>
     <string name="warningcenter_policeassist_title">Ubicación de emergencia</string>
     <string name="warningcenter_smarthome">Xiaomi Home</string>
     <string name="warningcenter_title">Centro de advertencia de MIUI</string>

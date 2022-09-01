@@ -367,7 +367,7 @@ Lea y acepte la nueva versión de %3$s antes de continuar."</string>
     <string name="wednesday_shortest">Mié</string>
     <string name="withdraw_consent_failed">"No se pudo retirar el consentimiento"</string>
     <string name="withdraw_consent_failed_hint">Ocurrió un error en el servidor. Espera un par de minutos e inténtalo otra vez.</string>
-    <string name="withdraw_consent_failed_hint_connect_net">El dispositivo necesita conexión a la red retirar el consentimiento. Comprueba los ajustes de red e inténtalo otra vez.</string>
+    <string name="withdraw_consent_failed_hint_connect_net">El dispositivo necesita conexión a la red para retirar el consentimiento. Comprueba los ajustes de red e inténtalo otra vez.</string>
     <string name="withdrawing">Retirar el consentimiento…</string>
     <string name="yesterday">Ayer</string>
 </resources>

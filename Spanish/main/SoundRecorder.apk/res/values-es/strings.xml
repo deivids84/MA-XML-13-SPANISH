@@ -81,7 +81,7 @@
     <string name="deleting_message">Borrando…</string>
     <string name="details">Detalles</string>
     <string name="dialog_content_storage_full">"La grabación se ha detenido porque no queda espacio suficiente en la memoria interna."</string>
-    <string name="dialog_privacy_revoke_tips">"Después de revocar la autorización, la aplicación dejará de recopilar datos y todos los datos relacionados se eliminarán de los servidores. Esto podría hacer que la aplicación sea prácticamente inutilizable. ¿Deseas revocar la autorización? Para garantizar la seguridad de tu cuenta, inicia sesión en i.mi.com antes de revocar la autorización de los servicios de Xiaomi Cloud."</string>
+    <string name="dialog_privacy_revoke_tips">"Si revocas tu autorización, esta aplicación dejará de recopilar datos y todos los relacionados se eliminarán de nuestros servidores. Esto puede provocar que la aplicación sea prácticamente inservible. ¿Revocar la autorización? Para garantizar la seguridad de tu cuenta, inicia sesión en i.mi.com antes de revocar la autorización de los servicios en la nube."</string>
     <string name="dialog_title_storage_full">No hay suficiente espacio</string>
     <string name="download">Descargar</string>
     <string name="download_pause">Descarga pausada. Toca para reanudar.</string>
@@ -309,7 +309,7 @@ Toque \"%1$s\" y luego seleccione \"%2$s\"."</string>
     <string name="notification_playback">Reproduciendo…</string>
     <string name="notification_recording">Grabando…</string>
     <string name="notification_recording_ticker">Teléfono silenciado</string>
-    <string name="notification_recording_ticker_for_pad">Tu dispositivo está grabando audio en modo silencioso. Usa los botones de volumen para desactivar el modo Silencio.</string>
+    <string name="notification_recording_ticker_for_pad">El dispositivo está grabando audio en modo silencio. Usa los botones de volumen para desactivar el modo silencio.</string>
     <string name="notification_save_as_complete">Guardado</string>
     <string name="notification_stopped">Grabación detenida</string>
     <string name="notification_title_all_paused">Descarga en pausa</string>

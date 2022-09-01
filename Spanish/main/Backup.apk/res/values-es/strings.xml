@@ -448,12 +448,12 @@ debería crear una copia de seguridad de iCloud primero."</string>
     <string name="new_pc_backup_restore_link_pad">Dispositivo móvil</string>
     <string name="new_pc_backup_summary1">Selecciona elementos y pulsa \"Hacer copia de seguridad\".</string>
     <string name="new_pc_backup_summary2">Conecta tu dispositivo móvil al ordenador mediante un cable USB.</string>
-    <string name="new_pc_backup_summary2_pad">Conecte su dispositivo móvil a la computadora mediante un cable USB.</string>
+    <string name="new_pc_backup_summary2_pad">Conecta el dispositivo al ordenador mediante un cable USB.</string>
     <string name="new_pc_backup_summary4">Nota: también puedes copiar fotos y vídeos de DCIM.</string>
     <string name="new_pc_restore_content1">%d. Conecta tu dispositivo móvil al ordenador mediante un cable USB.</string>
     <string name="new_pc_restore_content1_pad">%d. Conecte su dispositivo móvil a un ordenador mediante un cable USB.</string>
     <string name="new_pc_restore_content2">%d. Copia la copia de seguridad de tu ordenador a MIUI-Backup-AllBackup.</string>
-    <string name="new_pc_restore_content2_pad">%d. Copie la copia de seguridad de su computadora a MIUI-Backup-AllBackup.</string>
+    <string name="new_pc_restore_content2_pad">%d. Transfiere la copia de seguridad desde tu ordenador a MIUI-Backup-AllBackup.</string>
     <string name="new_pc_restore_content3">%1$d. Abre \"%2$s\" y selecciona elementos para restaurarlos.</string>
     <string name="new_pc_title">Copias de seguridad</string>
     <string name="new_select_file">Audio, vídeos y archivos</string>
@@ -540,7 +540,7 @@ debería crear una copia de seguridad de iCloud primero."</string>
     <string name="permission_intro">Detalles de permisos</string>
     <string name="permission_management_entrance">Administrar permisos</string>
     <string name="permission_not_admit">No garantizado</string>
-    <string name="permission_purpose">Esta función le permite realizar copias de seguridad y restaurar elementos utilizando su dispositivo móvil, computadoras y unidades USB.</string>
+    <string name="permission_purpose">Esta función permite hacer copias de seguridad y restaurarlas usando el dispositivo móvil, el ordenador y las unidades USB.</string>
     <string name="permission_read_apps">Accede a la lista de aplicaciones instaladas en este dispositivo</string>
     <string name="permission_read_calendar">Acceder a los eventos del calendario</string>
     <string name="permission_read_calllog">Acceder al historial de llamadas</string>

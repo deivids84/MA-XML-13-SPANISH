@@ -119,9 +119,9 @@
     <string name="ai_assistant_setting_title">Asistente de llamadas IA</string>
     <string name="alarm_template">Hora: %1$s</string>
     <string name="alarm_template_far">Fecha: %1$s</string>
-    <string name="alarms_and_reminders_footer_title">"Permita que esta aplicación configure alarmas y programe acciones urgentes. Esto permite que la aplicación se ejecute en segundo plano, lo que puede consumir más batería.
+    <string name="alarms_and_reminders_footer_title">"Permite que esta aplicación configure alarmas y programe acciones urgentes. Esto permite que se ejecute en segundo plano, lo que puede consumir más batería.
 
-Si este permiso está desactivado, las alarmas existentes y los eventos basados en el tiempo programados por esta aplicación no funcionarán."</string>
+Con este permiso desactivado, las alarmas existentes y los eventos basados en el tiempo programados por esta aplicación no funcionarán."</string>
     <string name="alarms_and_reminders_label">Alarmas y recordatorios</string>
     <string name="alarms_and_reminders_switch_title">Permitir configurar alarmas y recordatorios</string>
     <string name="alarms_and_reminders_title">Alarmas &amp; recordatorios</string>
@@ -680,10 +680,10 @@ Selección"</string>
     <string name="contactdeleteFailed">"No se puede eliminar el contacto de la SIM."</string>
     <string name="contactdeleteSuccess">Contacto eliminado de la SIM.</string>
     <string name="content_description_menu_button">Menú</string>
-    <string name="convert_to_fbe_warning">"Convierte la partición de datos en un cifrado basado en archivos.
- Advertencia: Este proceso borrará todos los datos.
- Esta función es alfa y es posible que no funcione correctamente.
- Pulsa la opción Borrar y convertir… para continuar."</string>
+    <string name="convert_to_fbe_warning">"Convierte la partición de datos en cifrado basado en archivos.
+ !! Atención !! Esto borrará todos tus datos.
+ Esta función está en desarrollo y puede no funcionar correctamente.
+ Pulsa 'Limpiar y convertir…' para continuar."</string>
     <string name="convert_to_file_encryption">Convertir a cifrado de archivo</string>
     <string name="convert_to_file_encryption_done">Ya está cifrado</string>
     <string name="convert_to_file_encryption_enabled">Convertir…</string>
@@ -994,7 +994,7 @@ Selección"</string>
     <string name="fiveg_switch_status1">Estado del interruptor 5G:</string>
     <string name="fiveg_switch_title">Red 5G</string>
     <string name="fiveg_upperlayer_indication1">Estado de indicación de la capa superior:</string>
-    <string name="flash_when_ring_summary">Utilizar el flash para notificar acerca de llamadas entrantes</string>
+    <string name="flash_when_ring_summary">Usar el flash para notificar sobre llamadas entrantes</string>
     <string name="flash_when_ring_title">Flash al recibir llamada</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
     <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
@@ -2237,7 +2237,7 @@ Confirme la configuración de su cuenta de llamadas predeterminada."</string>
     <string name="smart_dual_sim_title">SIM dual inteligente</string>
     <string name="smart_forwarding_settings_menu">Desvío inteligente</string>
     <string name="smart_forwarding_settings_menu_summary">"Cuando no se puede contactar con un número, las llamadas se desvían siempre a otro número"</string>
-    <string name="smart_multinetwork_acceleration_title">Aceleración de red inteligente</string>
+    <string name="smart_multinetwork_acceleration_title">Aceleración inteligente de red</string>
     <string name="smart_switch_dual_sim_prompt">Conectar a la red de datos móviles con la SIM %1$s puede generar cargos adicionales por datos. Establece un límite de uso de datos para evitarlo.</string>
     <string name="smart_switch_dual_sim_summary">Cambiar automáticamente entre tarjetas SIM de datos según la calidad de conexión y el estado del dispositivo</string>
     <string name="smart_switch_dual_sim_title">Cambiar entre tarjetas SIM de datos</string>

@@ -1814,8 +1814,8 @@ para añadir libros al mismo"</string>
     <string name="passport_unknow_error">Ha ocurrido un error desconocido</string>
     <string name="passport_unknow_host_network_error">Comprueba la configuración de red e inténtalo otra vez</string>
     <string name="passport_unknow_network_error">Ha ocurrido un error de red</string>
-    <string name="passport_user_agreement_link">"&lt;Data&gt;He leído y acepto el &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y &lt;a href=%2$s&gt;Política de Privacidad&lt;/a&gt; de Xiaomi.&lt;/Data&gt;"</string>
-    <string name="passport_user_agreement_link_more">"&lt;Data&gt;He leído y acepto el &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y &lt;a href=%4$s&gt;Política de Privacidad&lt;/a&gt;, &lt;a href=%2$s&gt;%3$s&lt;/a&gt;.&lt;/Data&gt;"</string>
+    <string name="passport_user_agreement_link">"&lt;Data&gt;He leído y acepto el &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y la &lt;a href=%2$s&gt;Política de Privacidad&lt;/a&gt; de Xiaomi.&lt;/Data&gt;"</string>
+    <string name="passport_user_agreement_link_more">"&lt;Data&gt;He leído y acepto el &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y la &lt;a href=%4$s&gt;Política de Privacidad&lt;/a&gt;, &lt;a href=%2$s&gt;%3$s&lt;/a&gt;.&lt;/Data&gt;"</string>
     <string name="passport_user_id_intro">Introduce la contraseña para %1$s</string>
     <string name="passport_v_code_error">Código de verificación incorrecto</string>
     <string name="passport_vcode_notification_title">Tu verificación de inicio de sesión está incompleta</string>
@@ -2234,7 +2234,7 @@ Algunos sitios no usarán tu historial de navegación anterior para personalizar
     <string name="privacy_authorize_cannot_revoke_dialog_msg">"Esta acción necesita cargar tu ID de rendimiento, y no se puede hacer en modo incógnito. Desactiva el modo incógnito e inténtalo otra vez."</string>
     <string name="privacy_authorize_network_error">El dispositivo necesita conexión a la red para retirar el consentimiento. Comprueba los ajustes de red e inténtalo otra vez.</string>
     <string name="privacy_authorize_revoke">Revocar</string>
-    <string name="privacy_authorize_revoke_dialog_msg">Después de revocar la autorización, el Navegador Mi dejará de recopilar datos y todos los datos relacionados se eliminarán de los servidores. Esto podría hacer que el Navegador Mi sea virtualmente inutilizable. ¿Revocar la autorización de todas formas?</string>
+    <string name="privacy_authorize_revoke_dialog_msg">Si revocas tu autorización, el Navegador Mi dejará de recopilar datos y todos los relacionados se eliminarán de los servidores. Esto puede provocar que el Navegador Mi sea prácticamente inservible. ¿Revocar la autorización?</string>
     <string name="privacy_authorize_revoke_dialog_title">Revocando autorización</string>
     <string name="privacy_authorize_revoke_failed">"No se pudo revocar la autorización"</string>
     <string name="privacy_authorize_revoke_success">Se ha revocado la autorización</string>
@@ -2250,7 +2250,7 @@ Algunos sitios no usarán tu historial de navegación anterior para personalizar
     <string name="privacy_dialog_title">Retirada del consentimiento</string>
     <string name="privacy_disagree">"No aceptar"</string>
     <string name="privacy_improve_performance">Programa de Experiencia de Usuario</string>
-    <string name="privacy_improve_performance_desc">Permite que Xiaomi recopile y analice los datos de los usuarios para mejorar nuestros productos y servicios.</string>
+    <string name="privacy_improve_performance_desc">Permite a Xiaomi recopilar y analizar los datos del usuario para mejorar los productos y servicios</string>
     <string name="privacy_local_app_discovery">Descubrir aplicaciones locales</string>
     <string name="privacy_message">Antes de usar el Navegador, debes aceptar nuestro &lt;font color=\"#4086f5\"&gt;&lt;a href=\"%1$s\" style=\"color:#4086f5;\"&gt;Acuerdo de Usuario&lt;/a&gt;&lt;/font&gt; y &lt;font color=\"#4086f5\"&gt;&lt;a href=\"%2$s\" style=\"color:#4086f5;\"&gt;Política de Privacidad&lt;/a&gt;&lt;/font&gt;.</string>
     <string name="privacy_message_main_tips_first">El Navegador Mi necesita recopilar la información personal necesaria para brindarte los servicios básicos. Puedes aprender cómo manejamos la información que recopilamos en nuestra &lt;font color=\"#0a84ff\"&gt;&lt;a href=\"%1$s\" style=\"color:#0a84ff;\"&gt;Política de Privacidad&lt;/a&gt;&lt;/a&gt;&lt;/font&gt; Siempre puedes retirar tu consentimiento a la Política de Privacidad del Navegador Mi en Ajustes &gt; Privacidad y seguridad. Lee y acepta nuestro &lt;font color=\"#0a84ff\"&gt;&lt;a href=\"%2$s\" style=\"color:#0a84ff;\"&gt;Acuerdo de Usuario&lt;/a&gt;&lt;/font&gt; y nuestra &lt;font color=\"#0a84ff\"&gt;&lt;a href=\"%1$s\" style=\"color:#0a84ff;\"&gt;Política de Privacidad&lt;/a&gt;&lt;/font&gt; antes de usar el Navegador Mi.</string>

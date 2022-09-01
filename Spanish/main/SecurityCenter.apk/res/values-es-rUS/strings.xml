@@ -183,6 +183,8 @@
     <string name="am">AM</string>
     <string name="anti_disturb_msg_detail">Desactivar todas las notificaciones excepto las llamadas entrantes</string>
     <string name="anti_disturb_msg_title">No molestar</string>
+    <string name="antispam_guangdian_card_hint">"La SIM no admite el cambio a un mensaje lejano diferente. Contacta con tu operador para más detalles."</string>
+    <string name="antispam_guangdian_card_title">"No se permite el cambio"</string>
     <string name="antispam_mms_text">Establezca Mensajería como su aplicación de mensajes SMS para poder ver los mensajes bloqueados</string>
     <string name="antispam_mms_text_setting">Establezca Mensajería como su aplicación de mensajes SMS por defecto para poder usar la lista negra</string>
     <string name="antispam_mode_details">Detalles de la Lista de bloqueo</string>

@@ -427,6 +427,7 @@ para acceder desde la pantalla de bloqueo"</string>
     <string name="second_space_desktop_tips_dialog_title">Actualización importante</string>
     <string name="second_space_finger_printf_desc">Agregar huella digital usada solamente para entrar al segundo espacio</string>
     <string name="second_space_finger_printf_title">Huella del segundo espacio</string>
+    <string name="second_space_setting_search_label">Protección de privacidad/Protección/Características de protección de privacidad</string>
     <string name="secondspace_homepage">"Establezca un bloqueo de pantalla para el Segundo espacio.
 Separe y proteja tus datos."</string>
     <string name="select_existed_fingerprint">Seleccionar huella</string>

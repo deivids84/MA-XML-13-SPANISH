@@ -344,7 +344,7 @@ Prefijo de ruta"</string>
     <string name="change_folders_selection_dialog_title">Cambiar carpetas</string>
     <string name="change_sync_settings">Cambiar ajustes de sincronización</string>
     <string name="changepw_dialog_auth_tips">Introduce el código para %s otra vez</string>
-    <string name="changepw_dialog_tips">Reintroduzca la contraseña para %s</string>
+    <string name="changepw_dialog_tips">Escribe, otra vez, la contraseña para %s</string>
     <string name="character_counter_content_description">Caracteres ingresados %1$d de %2$d</string>
     <string name="character_counter_overflowed_content_description">Límite de caracteres excedido %1$d de %2$d</string>
     <string name="chat_item_msg_people_unit">personas</string>
@@ -771,7 +771,7 @@ Prefijo de ruta"</string>
     <string name="inline_picture_deleted">Descargar imagen ausente…</string>
     <string name="inline_too_large">La imagen es demasiado grande</string>
     <string name="inline_too_large_des">"Las imágenes en línea no pueden superar los 3 MB. Envíe imágenes más grandes como archivos adjuntos o comprímalas."</string>
-    <string name="input_password_prompt">Introduzca su contraseña</string>
+    <string name="input_password_prompt">Escribe tu contraseña</string>
     <string name="install_mime_encrypt_cert">Agregar certificado de cifrado S / MIME</string>
     <string name="install_mime_sign_cert">Agregar certificado de firma S / MIME</string>
     <string name="installation_cancelled">Instalación cancelada.</string>
@@ -1115,7 +1115,7 @@ Intente cambiando a una cuenta de correo electrónico diferente."</string>
     <string name="ntes_do_not_sms_uplink">Envía un SMS desde el número de teléfono asociado y luego pulsa sobre \"Mensaje enviado\".</string>
     <string name="ntes_had_send">Mensaje enviado</string>
     <string name="ntes_had_send_to_content">"Si ya enviaste un SMS desde el número de teléfono asociado, pulsa sobre \"Mensaje enviado\" para continuar."</string>
-    <string name="ntes_login_auth_too_much">"No se pueden agregar más de 5 códigos de verificación. Inicie sesión en su bandeja de entrada en una computadora y elimine los códigos que no está usando."</string>
+    <string name="ntes_login_auth_too_much">"No se puede añadir más de 5 códigos de verificación. Inicia sesión desde la bandeja de entrada en un ordenador y elimina los códigos que no estás usando."</string>
     <string name="ntes_login_error_message" formatted="false">"No se puede obtener la información de la cuenta (Error %s). %s."</string>
     <string name="ntes_password_error_hint">"Si se producen errores mientras escribes la contraseña, cierra esta página y ábrela otra vez."</string>
     <string name="ntes_phone_send">Envía un mensaje de texto desde el número de teléfono asociado</string>
@@ -1124,7 +1124,7 @@ Intente cambiando a una cuenta de correo electrónico diferente."</string>
     <string name="ntes_verification_code">Introducir código: %s</string>
     <string name="oauth_error_description">"No se pudo autenticar"</string>
     <string name="oauth_find_browser_error_description">Instale un navegador antes de iniciar sesión</string>
-    <string name="oauth_gmail_login_notify">Introduzca su usuario y contraseña de su cuenta de Google en la siguiente pantalla de inicio de sesión.</string>
+    <string name="oauth_gmail_login_notify">Escribe usuario y contraseña de la cuenta Google en la siguiente pantalla de inicio de sesión.</string>
     <string name="oauth_login_continue">Continuar</string>
     <string name="oauth_login_continue_qq">Obtenga un código de acceso e inicie sesión en &gt;</string>
     <string name="obtain_new_auth_code">Obtener un código nuevo</string>
@@ -1206,7 +1206,7 @@ Intente cambiando a una cuenta de correo electrónico diferente."</string>
     <string name="pdf_viewer_sign_file_damage_toast">"Este archivo no existe"</string>
     <string name="pdf_viewer_signature">Firmar PDF</string>
     <string name="perference_change_auth_ok_tips">Código cambiado</string>
-    <string name="perference_change_pw_notnull_tips">Introduzca su contraseña</string>
+    <string name="perference_change_pw_notnull_tips">Escribe tu contraseña</string>
     <string name="perference_change_pw_ok_tips">Contraseña cambiada</string>
     <string name="perference_setup_pop_del">Eliminar correo del servidor</string>
     <string name="perference_setup_recv_tag">Servidor de correo entrante</string>

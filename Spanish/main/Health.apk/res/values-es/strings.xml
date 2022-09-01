@@ -422,7 +422,7 @@ Xiaomi Salud solo te notificará sobre elementos importantes."</string>
     <string name="eras_bc">a.C</string>
     <string name="evaluation_origin_health">Las sugerencias son proporcionadas por Health.</string>
     <string name="evening">Tarde</string>
-    <string name="every_day">Cada día</string>
+    <string name="every_day"> Cada día</string>
     <string name="excessive">Demasiado</string>
     <string name="exercise">Entrenamientos</string>
     <string name="exercise_consume">Quemada %1$d Cal</string>
@@ -729,8 +729,8 @@ Empieza otra vez."</string>
     <string name="location_service_ntfc_content">Salud</string>
     <string name="location_service_ntfc_title">Buscando GPS…</string>
     <string name="lock_not_support_description">Para que su identificación médica de emergencia esté disponible en la pantalla de bloqueo, toque Más &gt; Editar y active Mostrar cuando esté bloqueado.</string>
-    <string name="lock_show_dialog_content">"Se puede acceder a su identificación médica de emergencia sin desbloquear su teléfono.
-Si no desea compartir su información, puede desactivar esta función."</string>
+    <string name="lock_show_dialog_content">"Se puede acceder a tu identificación médica de emergencia sin desbloquear el dispositivo.
+Si no deseas compartir esa información, puedes desactivar esta función."</string>
     <string name="lock_show_dialog_title">Atención</string>
     <string name="lock_show_solve_description">Para mostrar la identificación médica de emergencia en la pantalla de bloqueo, permita que Salud se muestre en la pantalla de bloqueo.</string>
     <string name="lock_show_solve_go">Ajustes</string>
@@ -786,8 +786,8 @@ Si no desea compartir su información, puede desactivar esta función."</string>
     <string name="mcv2_video_quality_button_desc">Selección de calidad de video</string>
     <string name="measure_date">Fecha de medición</string>
     <string name="measure_time">Hora de medición</string>
-    <string name="medical_file_desc1">Información médica importante esencial en caso de emergencia</string>
-    <string name="medical_file_desc2">Registra información básica sobre tu salud para poder mostrarla al personal sanitario en caso de emergencia.</string>
+    <string name="medical_file_desc1">Información médica importante, esencial en caso de emergencia</string>
+    <string name="medical_file_desc2">Registra la información básica sobre tu salud para mostrarla al personal sanitario en caso de emergencia.</string>
     <string name="medical_file_desc3">Xiaomi Health respeta tu privacidad y almacenará toda la información localmente sin recopilarla, almacenarla o enviarla a otro lugar.</string>
     <string name="medical_first_aid_files">Información médica</string>
     <string name="medication_and_treatment">Medicamentos y tratamientos en curso</string>

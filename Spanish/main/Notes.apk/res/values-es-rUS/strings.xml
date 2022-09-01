@@ -550,9 +550,11 @@
     <string name="note_mindnote_entrance_hint_newversion">"Empiece a escribir "</string>
     <string name="note_mindnote_entrance_icon_text">Crear un mapa mental</string>
     <string name="note_mindnote_entrance_icon_text_newversion">Crear un mapa mental</string>
+    <string name="note_mindnote_not_support_in_phone_model">"No se puede editar mapas mentales en este dispositivo"</string>
     <string name="note_module_name">Notas</string>
     <string name="note_not_text_stub">Sin texto</string>
     <string name="note_sort_way">Seleccione como desea ordenar sus notas</string>
+    <string name="note_write_hint">Empezar a escribir</string>
     <string name="notealert_enter">Abrir nota</string>
     <string name="notealert_ok">Descartar</string>
     <string name="notes_description_content">"Notas es una aplicación del sistema. No podrá utilizar esta aplicación después de desinstalarla."</string>
@@ -719,7 +721,6 @@
     <string name="search_path_notes">Aplicaciones de sistema/Notas</string>
     <string name="search_setting_description">Busque palabras en sus notas</string>
     <string name="select_account_prompt">Sincronizar notas</string>
-    <string name="select_up_limit_toast">Selecciona hasta %d elementos</string>
     <string name="send">Enviar</string>
     <string name="set_alarm_description">Crear alarma</string>
     <string name="setting_big_screen_layout_columns">Barra lateral</string>

@@ -126,7 +126,7 @@
     <string name="dialog_button_continue_work">Continuar</string>
     <string name="dialog_button_i_know">Entendido</string>
     <string name="dialog_button_move">Mover</string>
-    <string name="dialog_privacy_revoke_tips">"Después de revocar la autorización, la aplicación dejará de recopilar datos y todos los datos relacionados se eliminarán de los servidores. Esto podría hacer que la aplicación sea prácticamente inutilizable. ¿Deseas revocar la autorización? Para garantizar la seguridad de tu cuenta, inicia sesión en i.mi.com antes de revocar la autorización de los servicios de la nube."</string>
+    <string name="dialog_privacy_revoke_tips">"Si revocas tu autorización, esta aplicación dejará de recopilar datos y todos los relacionados se eliminarán de nuestros servidores. Esto puede provocar que la aplicación sea prácticamente inservible. ¿Revocar la autorización? Para garantizar la seguridad de tu cuenta, inicia sesión en i.mi.com antes de revocar la autorización de los servicios en la nube."</string>
     <string name="dialog_share_as_pic">Compartir nota como imagen</string>
     <string name="dialog_share_as_text">Compartir nota como texto</string>
     <string name="dialog_tip_title">Atención</string>
@@ -139,14 +139,14 @@
     <string name="dlg_info_save_to_local_message">Guardando…</string>
     <string name="dlg_message_password_reset">"La contraseña de notas ocultas se sustituirá por la contraseña de Protección de la privacidad, que sirve para aplicaciones, fotos y carpetas ocultas"</string>
     <string name="dlg_message_set_password">La contraseña de Protección de la privacidad sirve para mensajes, fotos y carpetas ocultas</string>
-    <string name="dlg_message_use_privacy_password">Utiliza la contraseña de Protección de la privacidad. Sirve para mensajes, fotos y carpetas ocultas.</string>
+    <string name="dlg_message_use_privacy_password">Usa la contraseña de protección de privacidad en aplicaciones, fotos, notas y carpetas ocultas.</string>
     <string name="dlg_move_message">Moviendo…</string>
     <string name="dlg_quick_delete_title">Borrado rápido</string>
     <string name="dlg_restore_message">Restaurando…</string>
     <string name="dlg_stick_message">Anclando…</string>
     <string name="dlg_title_password_reset">Actualizar contraseña</string>
     <string name="dlg_title_set_password">Establecer contraseña</string>
-    <string name="dlg_title_use_privacy_password">Utiliza la contraseña de Protección de la privacidad</string>
+    <string name="dlg_title_use_privacy_password">Usar contraseña de protección de privacidad</string>
     <string name="dlg_unhide_message">Mostrando…</string>
     <string name="dlg_update_cancel">Ahora no</string>
     <string name="dlg_update_checkbox_title">Ignorar esta versión</string>
@@ -512,8 +512,8 @@
     <string name="note_dual_screen_dialog_content">"Parece que ahora estás editando notas en tu ordenador. Para evitar ediciones conflictivas, cierra Notas en tu ordenador."</string>
     <string name="note_dual_screen_dialog_title">Usando Screen Combo…</string>
     <string name="note_gesture_guide_step1">Mantén pulsado el botón + para crear una nota de voz</string>
-    <string name="note_gesture_guide_step2">Mantén pulsada una nota y después arrástrala sobre otra nota para crear una carpeta</string>
-    <string name="note_gesture_guide_step3">Mantén pulsada una nota y después arrástrala sobre una carpeta para mover la nota allí</string>
+    <string name="note_gesture_guide_step2">Mantén pulsada una nota y arrástrala sobre otra para crear una carpeta</string>
+    <string name="note_gesture_guide_step3">Mantén pulsada una nota y arrástrala sobre una carpeta para mover la nota allí</string>
     <string name="note_header_first_enter_guide">Desliza hacia abajo para ver más</string>
     <string name="note_invalid_mindnote_hint">"Los mapas mentales no están disponibles en esta versión. Actualiza la aplicación para usar esta función."</string>
     <string name="note_item_default_title">Nota vacía</string>
@@ -526,9 +526,11 @@
     <string name="note_mindnote_entrance_hint_newversion">"Empieza a escribir "</string>
     <string name="note_mindnote_entrance_icon_text">Crear un mapa mental</string>
     <string name="note_mindnote_entrance_icon_text_newversion">Crear un mapa mental</string>
+    <string name="note_mindnote_not_support_in_phone_model">"No se puede editar mapas mentales en este dispositivo"</string>
     <string name="note_module_name">Notas</string>
     <string name="note_not_text_stub">Sin texto</string>
     <string name="note_sort_way">Ordenar tus notas</string>
+    <string name="note_write_hint">Empezar a escribir</string>
     <string name="notealert_enter">Abrir nota</string>
     <string name="notealert_ok">Rechazar</string>
     <string name="notes_description_content">"Notas es una aplicación del sistema. No podrás utilizar esta aplicación después de desinstalarla."</string>
@@ -695,7 +697,6 @@
     <string name="search_path_notes">Aplicaciones del sistema/Notas</string>
     <string name="search_setting_description">Busca texto en tus notas</string>
     <string name="select_account_prompt">Activa la sincronización de notas</string>
-    <string name="select_up_limit_toast">Selecciona hasta %d elementos</string>
     <string name="send">Enviar</string>
     <string name="set_alarm_description">Establecer alarma</string>
     <string name="setting_big_screen_layout_columns">Barra lateral</string>

@@ -814,11 +814,11 @@ Lea y acepte la nueva versión de la Política de privacidad antes de continuar.
     <string name="privacy_dialog_title_update_confim">"No se puede usar la aplicación"</string>
     <string name="privacy_mode_hint">"No se pueden enviar mensajes en modo invitado"</string>
     <string name="privacy_password_message1">La contraseña de protección de privacidad sirve para aplicaciones, fotos, notas y carpetas ocultas.</string>
-    <string name="privacy_password_message2">Utiliza la contraseña de protección de privacidad. Sirve para aplicaciones, fotos, notas y carpetas ocultas.</string>
+    <string name="privacy_password_message2">Usa la contraseña de protección de privacidad en aplicaciones, fotos, notas y carpetas ocultas.</string>
     <string name="privacy_password_message3">La contraseña de mensajería se sustituirá por la contraseña de protección de privacidad, que sirve para aplicaciones, fotos, notas y carpetas ocultas.</string>
     <string name="privacy_password_set_password">Establecer</string>
     <string name="privacy_password_title1">Establecer contraseña</string>
-    <string name="privacy_password_title2">Utiliza la contraseña de protección de privacidad</string>
+    <string name="privacy_password_title2">Usar contraseña de protección de privacidad</string>
     <string name="privacy_password_title3">Actualizar contraseña</string>
     <string name="privacy_password_title4">La contraseña se ha actualizado</string>
     <string name="privacy_policy">Política de Privacidad</string>

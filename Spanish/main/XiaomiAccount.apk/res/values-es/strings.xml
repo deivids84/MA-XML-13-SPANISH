@@ -489,7 +489,7 @@ Remite este código al supervisor."</string>
     <string name="passport_error_empty_captcha_code">Introducir captcha</string>
     <string name="passport_error_empty_email">Introduzca dirección de email</string>
     <string name="passport_error_empty_phone_num">Introduzcir número de teléfono</string>
-    <string name="passport_error_empty_pwd">Introduzca su contraseña</string>
+    <string name="passport_error_empty_pwd">Escribe tu contraseña</string>
     <string name="passport_error_empty_username">Introduzca su ID de cuenta</string>
     <string name="passport_error_empty_vcode">Introduzca el código de verificación</string>
     <string name="passport_error_empty_voice_code">Introducir captcha</string>
@@ -531,7 +531,7 @@ Remite este código al supervisor."</string>
     <string name="passport_imei_permission_denied_title">Solicitud de permiso IMEI</string>
     <string name="passport_input_captcha_hint">Introduzca código</string>
     <string name="passport_input_password_for_login">Este número está asociado a una cuenta existente, introduce tu contraseña</string>
-    <string name="passport_input_password_hint">Introduzca contraseña</string>
+    <string name="passport_input_password_hint">Contraseña</string>
     <string name="passport_input_phone_hint">Introducir número de teléfono</string>
     <string name="passport_input_phone_password">Introduce la contraseña para %s</string>
     <string name="passport_input_vcode_hint">Introduzca el código de verificación</string>
@@ -662,7 +662,7 @@ Remite este código al supervisor."</string>
     <string name="passport_use_generated_pwd_message">Asegúrate de recordar tu contraseña. Puedes usarla para iniciar sesión en otros servicios de Xiaomi.</string>
     <string name="passport_use_generated_pwd_title">¡Recuerda tu contraseña!</string>
     <string name="passport_user_agreement">Contrato de usuario</string>
-    <string name="passport_user_agreement_link">&lt;Data&gt;He leido y acepto el&lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y &lt;a href=%2$s&gt;Política de Privacidad&lt;/a&gt; de Xiaomi.&lt;/Data&gt;</string>
+    <string name="passport_user_agreement_link"><Data>\"He leído y acepto el &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y la &lt;a href=%2$s&gt; Política de Privacidad&lt;/a&gt; de Xiaomi.\"</Data></string>
     <string name="passport_user_agreement_required">Acuerdo de Usuario (obligatorio)</string>
     <string name="passport_user_id_notice">Tu ID de cuenta Xiaomi es %s.</string>
     <string name="passport_user_reg_region">País/Región</string>
@@ -799,7 +799,7 @@ Remite este código al supervisor."</string>
     <string name="sunday_shortest">Dom</string>
     <string name="system_ad">Anuncios en aplicaciones del sistema</string>
     <string name="system_ad_list">Ver aplicaciones relacionadas.</string>
-    <string name="system_ad_summary">"Activa esta función para permitir que se muestre un pequeño número de anuncios en las aplicaciones del sistema. Estos anuncios nos ayudan a desarrollar y mejorar nuestros productos y servicios. Puedes elegir desactivar esta función es cualquier momento. ¡Gracias por tu apoyo! "</string>
+    <string name="system_ad_summary">"Activa esta función para permitir que se muestren algunos anuncios en las aplicaciones del sistema. Estos anuncios nos ayudan a desarrollar y mejorar productos y servicios. Puedes desactivarla en cualquier momento. ¡Gracias por tu apoyo! "</string>
     <string name="system_ad_switch">Anuncios en aplicaciones del sistema</string>
     <string name="system_ad_switch_failed">"No se pudo aplicar los ajustes"</string>
     <string name="system_error_info">El sistema está ocupado. Espera un par de minutos e inténtalo otra vez.</string>

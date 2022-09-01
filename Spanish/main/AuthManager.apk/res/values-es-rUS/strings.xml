@@ -307,6 +307,7 @@
     <string name="ok">Aceptar</string>
     <string name="perm_action_allow">De acuerdo</string>
     <string name="perm_action_deny">No permitir nunca</string>
+    <string name="perm_educate_post_notification">Las notificaciones pueden acompañarse con sonido y vibración al aparecer en la pantalla de notificación y en los iconos de la pantalla de inicio. Puedes configurar tus preferencias en Ajustes.</string>
     <string name="perm_manager_suggest_operation">Administrar permisos</string>
     <string name="perm_manager_suggest_title">¿Ajustar permisos?</string>
     <string name="perm_modem_location">Acceso a su ubicación</string>
@@ -319,6 +320,7 @@
     <string name="permdesc_location_background">¿Permitir a %1$s acceder a la información de ubicación en segundo plano?</string>
     <string name="permdesc_microphone">¿Permitir a %1$s usar el micrófono para grabar audio?</string>
     <string name="permdesc_nearby_devices">¿Permitir a %1$s descubrir y conectarse a los dispositivos cercanos?</string>
+    <string name="permdesc_post_notification">¿Permitir que %1$s envíe notificaciones?</string>
     <string name="permdesc_process_outgoing_call">¿Permitir a %1$s responder y finalizar llamadas?</string>
     <string name="permdesc_read_calendar">¿Permitir a %1$s acceder y editar eventos del calendario?</string>
     <string name="permdesc_read_call_log">¿Permitir a %1$s acceder al historial de llamadas?</string>
