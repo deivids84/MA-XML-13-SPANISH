@@ -286,7 +286,7 @@ Si decides eliminar tus datos de salud después de elegir conservarlos, puedes h
     <string name="deep_sleep">Sueño profundo</string>
     <string name="deep_sleep_duration">Duración del sueño profundo</string>
     <string name="deep_sleep_duration_decrease_description">Tu sueño profundo es demasiado poco</string>
-    <string name="deep_sleep_duration_description">"Cuando la gente duerme, se producen movimientos rápidos de ojos periódicos. El sueño se puede dividr en sueño REM (movimiento rápido de ojos) y NREM (sin movimiento rápido de ojos). El sueño profundo se da durante los períodos de sueño NREM, aproximádamente del 20 al 25% de la duración total del sueño. Tu cerebro descansa durante el sueño profundo, mostrando niveles bajos de actividad consciente, por lo que despertarse no es fácil."</string>
+    <string name="deep_sleep_duration_description">"Cuando la gente duerme, se producen movimientos rápidos de ojos periódicos. El sueño se puede dividr en sueño REM (movimiento rápido de ojos) y NREM (sin movimiento rápido de ojos). El sueño profundo se da durante los períodos de sueño NREM, aproximádamente del 20 al 25%% de la duración total del sueño. Tu cerebro descansa durante el sueño profundo, mostrando niveles bajos de actividad consciente, por lo que despertarse no es fácil."</string>
     <string name="deep_sleep_duration_increase_description">Tu sueño profundo es demasiado largo</string>
     <string name="deep_sleep_duration_normal_description">Tienes suficiente sueño profundo</string>
     <string name="default_notification_channel_name">Reproduciendo</string>
