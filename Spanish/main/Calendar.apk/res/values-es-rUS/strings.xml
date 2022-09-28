@@ -55,6 +55,8 @@
     <string name="agenda_tomorrow">MAÑANA, %1$s</string>
     <string name="agenda_view">Eventos</string>
     <string name="alarm_label">Descartar</string>
+    <string name="alarm_open_reminder">Activar recordatorio</string>
+    <string name="alarm_reminder_already">Recordatorio activado</string>
     <string name="alert_reminder_expired">Expirado</string>
     <string name="alert_title">Notificaciones de calendario</string>
     <string name="all_events">Todos los eventos</string>
@@ -86,6 +88,7 @@
     <string name="birthday_term">cumpleaños</string>
     <string name="button_record_menstruation">Registrar</string>
     <string name="calendar_permission_desc">Administrar eventos</string>
+    <string name="calendar_privacy_policy">Política de Privacidad</string>
     <string name="can_not_create_long_event">El nombre del evento es demasiado largo</string>
     <string name="can_not_modify_allday_event">"No se puede modificar un evento de todo el día"</string>
     <string name="can_not_modify_event">"No se puede modificar el evento"</string>
@@ -142,10 +145,10 @@
     <string name="countdown_notify_title">Cuenta atrás: %1$s</string>
     <string name="countdown_secondary_tag">Cuenta regresiva</string>
     <string name="countdown_today">Hoy</string>
-    <string name="create_an_account_desc">"Calendario funciona mejor con Cuenta Mi.
+    <string name="create_an_account_desc">"Calendario funciona mejor con una cuenta Xiaomi.
 
-• Acceda a esta desde cualquier navegador.
-• Respalde sus eventos con seguridad."</string>
+• Accede a él con cualquier navegador web.
+• Haz copia de seguridad de sus eventos."</string>
     <string name="create_kundli">Crear Kundli</string>
     <string name="creating_event">Evento creado</string>
     <string name="creating_event_with_guest">Enviando invitaciones…</string>
@@ -175,6 +178,7 @@
     <string name="date_view">Fecha</string>
     <string name="day">Día</string>
     <string name="day_view_new_event_hint">Nuevo evento</string>
+    <string name="default_reminder_later_time">Período predeterminado para \"Recordar más tarde\"</string>
     <string name="default_reminder_mode">Recordatorios</string>
     <string name="delete_menstruation_record_confirm">¿Eliminar este registro?</string>
     <string name="delete_recurring_event_title">¿Eliminar %s?</string>
@@ -205,8 +209,10 @@
     <string name="edit_event_label">Detalles</string>
     <string name="edit_event_no_reminder_value">"No recordármelo"</string>
     <string name="edit_event_reminder_3_days_before">Y recordarme %d días antes</string>
+    <string name="edit_event_reminder_3_days_before_time">Recordar también %d días antes</string>
     <string name="edit_event_reminder_summary">Ese día a las %1$s</string>
     <string name="edit_event_reminder_summary_3_days_before">%2$d días antes y ese día a las %1$s</string>
+    <string name="edit_event_reminder_summary_3_days_before_today">%1$d días antes y a las %1$s el día establecido</string>
     <string name="edit_event_reminder_text">En %1$s a las %2$s</string>
     <string name="edit_event_reminder_time">Hora del recordatorio</string>
     <string name="edit_event_reminder_with_another_day_text">En %1$s, %2$s a las %3$s</string>
@@ -215,6 +221,14 @@
     <string name="edit_event_tab_birthday">Cumpleaños</string>
     <string name="edit_event_tab_countdown">Cuenta regresiva</string>
     <string name="edit_event_tab_event">Evento</string>
+    <string name="edit_event_title_create_agenda">Crear evento</string>
+    <string name="edit_event_title_create_anniversary">Crear aniversario</string>
+    <string name="edit_event_title_create_birthday">Crear cumpleaños</string>
+    <string name="edit_event_title_create_countdown">Crear cuenta atrás</string>
+    <string name="edit_event_title_edit_agenda">Editar evento</string>
+    <string name="edit_event_title_edit_anniversary">Editar aniversario</string>
+    <string name="edit_event_title_edit_birthday">Editar cumpleaños</string>
+    <string name="edit_event_title_edit_countdown">Editar cuenta atrás</string>
     <string name="edit_event_to_label">Para</string>
     <string name="edit_your_long_holidays">Editar feriados</string>
     <string name="ee_dd_short_month">EEE, dd MMMM</string>
@@ -338,7 +352,9 @@
     <string name="item_num_selected">%1$d seleccionado(s)</string>
     <string name="language_change_confirmation">Cambiado con éxito. Puede cambiar el idioma en los ajustes del calendario.</string>
     <string name="launch_weather_comment">Toque aqui para ver información del tiempo</string>
-    <string name="load_more_hint">Cargar eventos desde %1$d</string>
+    <string name="load_more_events">Ver %d eventos</string>
+    <string name="load_more_events_default">"Ver eventos del próximo año"</string>
+    <string name="load_more_hint">Ver %1$d eventos</string>
     <string name="loading">Un momento…</string>
     <string name="local_calendar_display_name">Calendario local</string>
     <string name="local_owner_account_name">Guardado en este dispositivo</string>
@@ -493,6 +509,7 @@
     <string name="no_internet_dialog_message">Su dispositivo debe conectarse a la red para que pueda retirar el consentimiento. Verifique la configuración de su red y vuelva a intentarlo.</string>
     <string name="no_internet_dialog_title">Ha ocurrido un error</string>
     <string name="no_long_holidays">No hay vacaciones largas próximamente</string>
+    <string name="no_more_events">No hay más eventos que mostrar</string>
     <string name="no_network">"No se pudo conectar a la red.
 Compruebe los ajustes de red y vuelva a intentarlo."</string>
     <string name="no_network_btn">Vuelva a intentarlo</string>
@@ -544,6 +561,7 @@ Compruebe los ajustes de red y vuelva a intentarlo."</string>
     <string name="partner_compatibility">Compatibilidad de pareja</string>
     <string name="password_toggle_content_description">Mostrar contraseña</string>
     <string name="path_calendar_settings">Apps del sistema/Calendario/Ajustes</string>
+    <string name="permission_description">Detalles de los permisos</string>
     <string name="picker_day">Día seleccionado:%1$d. Deslice el dedo verticalmente para seleccionar.</string>
     <string name="picker_month">Mes seleccionado:%1$d. Deslice el dedo verticalmente para seleccionar.</string>
     <string name="picker_year">Año seleccionado:%1$d. Deslice el dedo verticalmente para seleccionar.</string>
@@ -555,14 +573,20 @@ Compruebe los ajustes de red y vuelva a intentarlo."</string>
     <string name="pref_title_no_remind">No hay recordatorios</string>
     <string name="pref_title_notification_remind">Notificaciones de recordatorios</string>
     <string name="preference_copied">\"%1$s\" copiado al portapapeles.</string>
+    <string name="preferences_alarms_category_title">Alarma de recordatorios</string>
+    <string name="preferences_alarms_sound">Sonar</string>
+    <string name="preferences_alarms_vibrateWhen">Vibrar</string>
     <string name="preferences_alerts_ringtone_title">Sonido</string>
     <string name="preferences_alerts_vibrateWhen_title">Vibrar</string>
     <string name="preferences_alerts_vibrate_title">Tono y vibración</string>
+    <string name="preferences_allow_remind">Permitir recordatorios</string>
     <string name="preferences_default_allday_reminder_title">Recordatorio predeterminado por todo el día</string>
     <string name="preferences_default_reminder_dialog">Tiempo de recordatorio predeterminado</string>
     <string name="preferences_default_reminder_title">Tiempo de recordatorio predeterminado</string>
     <string name="preferences_home_tz_title">Zona horaria de casa</string>
     <string name="preferences_notification_ringtone_title">Sonido</string>
+    <string name="preferences_popup_alert_smart_summary_new">Los eventos sensibles a la hora son aquellos que han de producirse a una hora exacta</string>
+    <string name="preferences_popup_alert_title">Recordatorios emergentes</string>
     <string name="preferences_show_indic_date_title">Mostrar calendario hindú</string>
     <string name="preferences_title">Calendario</string>
     <string name="preferences_use_home_tz_descrip">Mostrar eventos y calendarios en la zona horaria de casa al viajar</string>
@@ -572,12 +596,18 @@ Compruebe los ajustes de red y vuelva a intentarlo."</string>
     <string name="prefsx_notify_sound_none">Silenciar</string>
     <string name="premission_description_log">Para guardar registros</string>
     <string name="premission_description_ringtone">Para configurar tonos de llamada</string>
+    <string name="privacy_and_permissions">Privacidad y permisos</string>
     <string name="privacy_card_description">Acepte nuestra Política de Privacidad para acceder a todas las funciones.</string>
     <string name="privacy_policy_dialog_agree">Aceptar</string>
     <string name="privacy_policy_dialog_dont_agree">"Rechazar"</string>
     <string name="privacy_policy_dialog_message">&lt;Data&gt;¡Bienvenido a Calendario!&lt;br/&gt;Puede usar esta aplicación para crear y administrar eventos, establecer recordatorios y recibir información adicional específica de su ubicación.&lt;br/&gt;Calendario necesita recopilar la información personal necesaria para brindarle servicios básicos. Puede aprender cómo manejamos la información que recopilamos en nuestra &lt;a href=\"%1$s\"&gt;Política de privacidad&lt;/a&gt;. &lt;br/&gt;Lea y acepte nuestro &lt;a href=\"%2$s\"&gt;Acuerdo de usuario&lt;/a&gt; y nuestra &lt;a href=\"%3$s\"&gt;Política de privacidad&lt;/a&gt; antes de usar Calendario. Puede retirar su consentimiento a la Política de Privacidad del Calendario en los Ajustes en cualquier momento.&lt;br/&gt; Si no está de acuerdo con nuestra Política de Privacidad, no podrá utilizar algunas funciones de esta aplicación; sin embargo, su funcionalidad básica seguirá estando disponible para usted.&lt;/Data&gt;</string>
     <string name="privacy_policy_dialog_title">Términos y condiciones</string>
     <string name="privacy_revoke_switch_text">Retirada del consentimiento</string>
+    <string name="pull_refresh_events">Ver %d eventos</string>
+    <string name="pull_refresh_events_default">"Ver eventos del año anterior"</string>
+    <string name="pull_refresh_progress_load_finish">Cargado</string>
+    <string name="pull_refresh_progress_loading">Un momento…</string>
+    <string name="pull_refresh_progress_release_to_load">Suelta para cargar</string>
     <string name="pull_to_refresh_hint">Jale para cargar los eventos desde %1$d</string>
     <string name="recorded_menstruation">Periodo registrado</string>
     <string name="refresh">Actualizar</string>
@@ -629,6 +659,8 @@ Compruebe los ajustes de red y vuelva a intentarlo."</string>
     <string name="search_calendar">"Fecha;Solar Términos;Lunar;Almanaque;Fortuna;Agenda;Reunión;Recordatorio;Vacación;Feriado;Cumpleaños;2016;2017;Festival de Verano;Día de Año Nuevo;Día Internacional del Trabajo;Festival de Medio Otoño"</string>
     <string name="search_calendar_edit_event">Reunión;Recordatorio;Agenda</string>
     <string name="search_calendar_settings">Calendario;Agenda;Recordatorio</string>
+    <string name="search_events">Buscar eventos</string>
+    <string name="search_history">Historial de búsqueda</string>
     <string name="search_menu_title">Buscar</string>
     <string name="second_saturday_holiday">Cada segundo sábado es un día de descanso</string>
     <string name="select_date">Ir a la fecha</string>
@@ -648,7 +680,9 @@ Compruebe los ajustes de red y vuelva a intentarlo."</string>
     <string name="setting_features_title">Ajustes de funciones</string>
     <string name="setting_holiday_display_desc">Las Tarjetas festivas están ubicadas debajo de su Agenda en la Página de inicio</string>
     <string name="setting_holiday_reminder">Recordatorio de día feriado</string>
+    <string name="setting_import_events">Importar eventos</string>
     <string name="setting_others">Adicional</string>
+    <string name="setting_show_reject_agenda">Mostrar eventos rechazados</string>
     <string name="setting_title_about">Acerca de</string>
     <string name="setting_title_holiday_display">Mostrar días feriados</string>
     <string name="setting_title_import_todo">Importar tareas</string>
@@ -701,6 +735,10 @@ También puede agregar recordatorios para no perderse de nada importante."</stri
     <string name="tab_title_day">Día</string>
     <string name="tab_title_month">Mes</string>
     <string name="tab_title_week">Semana</string>
+    <string name="tab_view_day">Día</string>
+    <string name="tab_view_month">Mes</string>
+    <string name="tab_view_week">Semana</string>
+    <string name="tab_view_year">Año</string>
     <string name="talk_back_read_date">%1$s (%2$s de acuerdo con el calendario lunar).</string>
     <string name="talk_back_setting">Ajustes</string>
     <string name="talk_back_tab_switch">Cambiar entre vistas</string>
@@ -826,7 +864,7 @@ También puede agregar recordatorios para no perderse de nada importante."</stri
     <string name="widget_spec_agenda_birth_today">Hoy</string>
     <string name="xiaomi_calendar_delete_description">Calendario es una aplicación del sistema que le permite crear y administrar eventos. Algunas de sus funciones seguirán estando disponibles después de eliminar el acceso directo de la pantalla de inicio.</string>
     <string name="xiaomi_calendar_delete_title">¿Eliminar \"Calendario\" de la Pantalla de inicio?</string>
-    <string name="xiaomi_calendar_display_name">Calendario de Cuenta Mi</string>
+    <string name="xiaomi_calendar_display_name">Calendario de cuenta Xiaomi</string>
     <string name="year">Año</string>
     <string name="yearly">Anualmente (cada %s)</string>
     <string name="yearly_plain">Anualmente</string>

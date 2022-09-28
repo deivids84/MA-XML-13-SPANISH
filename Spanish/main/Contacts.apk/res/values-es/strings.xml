@@ -166,7 +166,7 @@
     <string name="bh_pay_fail_desc">"No se pudo conectar a la red. Retrocede y completa el pago otra vez."</string>
     <string name="bh_pay_fee">Ampunt</string>
     <string name="bh_pay_success_desc">Es posible que su saldo se acredite con un retraso</string>
-    <string name="bh_perm_ask_read_contacts">Permita que Mi Carrier Services acceda primero a sus contactos.</string>
+    <string name="bh_perm_ask_read_contacts">Permite que Servicios del Operador acceda primero a los contactos.</string>
     <string name="bh_perm_desc_read_contacts">Para mostrar contactos durante la recarga</string>
     <string name="bh_permission_contact">Acceder a contactos</string>
     <string name="bh_permission_contact_desc">Para recargar el saldo de sus contactos</string>
@@ -261,7 +261,7 @@
     <string name="call_other">Llamar</string>
     <string name="call_other_fax">Llamar a fax</string>
     <string name="call_pager">Llamar al busca</string>
-    <string name="call_radio">Llamar a la radio</string>
+    <string name="call_radio">Llamadas</string>
     <string name="call_record_add_numbers">Añadir números de teléfono</string>
     <string name="call_record_auto_always">Todas las llamadas</string>
     <string name="call_record_auto_scenario_title">Llamadas grabadas</string>
@@ -341,6 +341,7 @@
     <string name="callrecordview_menu_show_missed">Llamadas perdidas</string>
     <string name="callrecordview_menu_show_sim">%s llamadas</string>
     <string name="callrecordview_menu_show_stranger">Llamadas de números desconocidos</string>
+    <string name="callrecordview_menu_xiaoaiphone">Asistente de Llamada IA</string>
     <string name="cancel">Cancelar</string>
     <string name="cancel_confirmation_dialog_message">¿Descartar los cambios?</string>
     <string name="cancel_confirmation_dialog_title">Cancelar</string>
@@ -376,8 +377,8 @@
     <string name="composer_has_no_exportable_contact">No hay contactos que exportar. Si ya tienes contactos en el dispositvo, es posible que algunos proveedores de datos no permitan que se exporten los contactos desde el dispositivo.</string>
     <string name="composer_not_initialized">"El redactor de vCard no se ha iniciado correctamente."</string>
     <string name="conference_call_disable_tip">"No se puede realizar llamadas. Comprueba que el dispositivo está conectado a una red 4G que soporta VoLTE."</string>
-    <string name="confirm_call_log_dial_summary">Preguntar antes de marcar desde el registro de llamadas para evitar llamadas accidentales.</string>
-    <string name="confirm_call_log_dial_title">Preguntar antes de llamar desde el registro de llamadas</string>
+    <string name="confirm_call_log_dial_summary">Pregunta si marca desde el registro de llamadas evitando llamadas accidentales.</string>
+    <string name="confirm_call_log_dial_title">Confirmar antes de marcar en el registro de llamadas</string>
     <string name="confirm_delete_contact_all_call_logs">"¿Borrar el historial de %s?"</string>
     <string name="confirm_delete_selected_all_call_logs">¿Borrar el historial de llamadas?</string>
     <string name="confirm_delete_sim_entry_miui_title">Eliminar</string>
@@ -445,7 +446,7 @@
     <string name="cta_content_seg1"><Data>\"&lt;strong&gt;Aviso importante
 Al pulsar \" Acepto \" a continuación, estás aceptando &lt;font color=#33aaff&gt;&lt;a href =\'https://static.account.xiaomi.com/html/agreement/account/en.html\'&gt;Acuerdo de Servicio de cuenta Xiaomi&lt;/a&gt;&lt;/font&gt;, &lt;font color=#33aaff&gt;&lt;a href =\'https://cnbj1-fds.api.xiaomi.com/mimobile-static/mi-carrier-services-useragreement.html\'&gt;Acuerdo de Usuario en itinerancia Mi&lt;/a&gt;&lt;/font&gt;y &lt;font color=#33aaff&gt;&lt;a href =\'http://www.miui.com/res/doc/privacy/en.html\'&gt;Política de Privacidad.&lt;/a&gt;&lt;/font&gt; Lee con atención y en su totalidad para comprender todos los términos y condiciones relacionados antes de aceptarlos.&lt;/strong&gt;\"</Data></string>
     <string name="cta_content_seg2">"
-Mi Roaming necesita conectarse a Internet y acceder a la información de su ubicación para funcionar normalmente. Además, Mi Roaming puede recopilar, usar y compartir su información personal. Su información personal estará protegida de acuerdo con las leyes y regulaciones locales."</string>
+Mi Roaming necesita conectar a Internet y acceder a la información de ubicación para funcionar normalmente. Además, Mi Roaming puede recopilar, usar y compartir tu información personal que estará protegida de acuerdo con las leyes y regulaciones locales."</string>
     <string name="cta_dialog_cancel">Salir</string>
     <string name="cta_dialog_ok">Aceptar</string>
     <string name="cta_dialog_title">Términos y Condiciones</string>
@@ -462,7 +463,7 @@ Mi Roaming necesita conectarse a Internet y acceder a la información de su ubic
     <string name="delete_call_log_message">¿Borrar el historial de llamadas?</string>
     <string name="delete_call_log_selected_title">¿Borrar el historial de llamadas seleccionado?</string>
     <string name="delete_call_log_title">Borrar historial de llamadas</string>
-    <string name="delete_conference_call_log_message">¿Eliminar todos los registros de llamadas de reuniones asociados a este contacto?</string>
+    <string name="delete_conference_call_log_message">¿Eliminar todos los registros de llamada de conferencia asociados con este contacto?</string>
     <string name="delete_conference_call_log_title">Eliminar registros de llamadas de reuniones</string>
     <string name="delete_duplicate">Combinar</string>
     <string name="delete_duplicate_message">"Combinando contactos… "</string>
@@ -486,7 +487,6 @@ Mi Roaming necesita conectarse a Internet y acceder a la información de su ubic
     <string name="description_image_button_eight">ocho</string>
     <string name="description_image_button_five">cinco</string>
     <string name="description_image_button_four">cuatro</string>
-    <string name="description_image_button_fuhao_named_dial">Sub llamada</string>
     <string name="description_image_button_nine">nueve</string>
     <string name="description_image_button_one">uno</string>
     <string name="description_image_button_plus">Más</string>
@@ -648,8 +648,6 @@ Motivo: \"%s\""</string>
     <string name="group_sms_progress_msg">Agrupando…</string>
     <string name="groupsLabel">Grupos</string>
     <string name="groups_list_empty">No hay grupos</string>
-    <string name="heduohao_fuhao_call_menu_title">Marcar en sub%d</string>
-    <string name="heduohao_main_call_menu_title">Marcar en principal</string>
     <string name="hide_app_description_content">"Contactos es una aplicación del sistema. Aún podrás usarlo a través de la aplicación Teléfono después de eliminar el acceso directo de la Pantalla de inicio."</string>
     <string name="hide_app_description_title">¿Eliminar \"Contactos\'\' de la Pantalla de inicio?</string>
     <string name="hint_findContacts">Buscar contactos</string>
@@ -710,7 +708,7 @@ Motivo: \"%s\""</string>
     <string name="listCustomView">Contactos en vista personalizada</string>
     <string name="listFoundAllContactsZero">No hay contactos</string>
     <string name="listSingleContact">Contacto único</string>
-    <string name="list_filter_all_accounts">Todos los contactos</string>
+    <string name="list_filter_all_accounts">Todos</string>
     <string name="list_filter_all_starred">Favoritos</string>
     <string name="list_filter_customize">Personalizar</string>
     <string name="list_filter_phones">Todos los contactos con números de teléfono</string>
@@ -922,7 +920,7 @@ Pulsa \"%1$s\" y luego selecciona \"%2$s\"."</string>
     <string name="permission_notice_desc_write_external_storage">Para agregar fotos de perfil e importar vCards</string>
     <string name="permission_record_audio_desc">Para usar su voz durante la verificación de identificación</string>
     <string name="permission_retry_deny">Cancelar</string>
-    <string name="permission_retry_dialog_msg">Para poder usar su tarjeta SIM con esta aplicación, realizar llamadas a través de los accesos directos de la pantalla de inicio, administrar sus contactos y mantener actualizado el historial de llamadas, permita que esta aplicación acceda y edite sus contactos y su historial de llamadas, haga llamadas y acceda a la información del dispositivo.</string>
+    <string name="permission_retry_dialog_msg">Para usar la tarjeta SIM con esta aplicación, realizar llamadas a través de accesos directos en la pantalla de Inicio, administrar contactos y mantener actualizado el historial de llamadas, permite que esta aplicación acceda y edite tus contactos e historial de llamadas, haga llamadas y acceda a la información del dispositivo.</string>
     <string name="permission_retry_dialog_msg_pad">Para poder usar su tarjeta SIM con esta aplicación y administrar sus contactos, permita que esta aplicación acceda y edite sus contactos, así como también acceda a la información del dispositivo.</string>
     <string name="permission_retry_setting">Ajustes</string>
     <string name="permission_write_external_storage_desc">Para guardar datos de aplicaciones</string>
@@ -1072,7 +1070,7 @@ Pulsa \"%1$s\" y luego selecciona \"%2$s\"."</string>
     <string name="remove_blacklist_dialog_title">¿Desbloquear este número de teléfono?</string>
     <string name="remove_duplicate">"MIUI te ayudará a combinar los contactos duplicados.
 
- Para empezar, pulsa el botón Combinar que se muestra en la parte inferior de tu pantalla."</string>
+Para empezar, pulsa el botón Combinar de la parte inferior de la pantalla."</string>
     <string name="residual_time_description">%1$sdía%2$shora</string>
     <string name="restore_app_btn_cancel">Cancelar</string>
     <string name="restore_app_btn_restore">OK</string>
@@ -1120,7 +1118,7 @@ Pulsa \"%1$s\" y luego selecciona \"%2$s\"."</string>
     <string name="send">Enviar</string>
     <string name="send_contact_shortcut_todesktop_duplicate">Este acceso directo ya existe</string>
     <string name="send_contact_shortcut_todesktop_failed">"No se pudo colocar el acceso directo en la Pantalla de inicio"</string>
-    <string name="send_contact_shortcut_todesktop_overflow">"No se pueden colocar más accesos directos en la Pantalla de inicio"</string>
+    <string name="send_contact_shortcut_todesktop_overflow">"No se puede colocar más accesos directos en la pantalla de Inicio"</string>
     <string name="send_contact_shortcut_todesktop_success">Añadido a Pantalla de inicio</string>
     <string name="separatorJoinAggregateAll">Todos los contactos</string>
     <string name="separatorJoinAggregateSuggestions">Contactos sugeridos</string>
@@ -1194,7 +1192,7 @@ Pulsa \"%1$s\" y luego selecciona \"%2$s\"."</string>
     <string name="sms_other">Enviar SMS</string>
     <string name="sms_other_fax">SMS al fax</string>
     <string name="sms_pager">SMS al busca</string>
-    <string name="sms_radio">SMS a la radio</string>
+    <string name="sms_radio">Mensajes de texto</string>
     <string name="sms_telex">SMS al télex</string>
     <string name="sms_tty_tdd">SMS al TTY/TDD</string>
     <string name="sms_work">SMS al trabajo</string>
@@ -1306,16 +1304,16 @@ Pulsa \"%1$s\" y luego selecciona \"%2$s\"."</string>
     <string name="toast_for_failed_saving_nickname">"No se pudo guardar el apodo"</string>
     <string name="toast_for_saving_nickname">Apodo guardado</string>
     <string name="toast_join_with_empty_contact">Escribe el nombre del contacto antes de combinarlo con otro</string>
-    <string name="toast_not_show_blue_scan_connect_perm_req">Permitir que esta función se conecte a dispositivos cercanos a través de Bluetooth para poder importar contactos de otros dispositivos.</string>
-    <string name="toast_not_show_camera_perm_req">Para poder usar la cámara para tomar fotos de perfil, primero permita que esta aplicación tome fotos y grabe videos.</string>
-    <string name="toast_not_show_location_perm_req">Para poder importar contactos de otros dispositivos a través de Bluetooth, primero permita que esta aplicación acceda a su ubicación.</string>
-    <string name="toast_not_show_read_calllogs_perm_req">Para poder ver el historial de llamadas, primero permita que esta aplicación acceda al historial de llamadas.</string>
-    <string name="toast_not_show_read_contacts_perm_req">Para poder ver los contactos, primero permita que esta aplicación acceda a los contactos.</string>
-    <string name="toast_not_show_read_phone_state_perm_req">Para poder usar esta aplicación con su tarjeta SIM, primero permita que esta aplicación acceda a la información del dispositivo.</string>
-    <string name="toast_not_show_storage_perm_req">Para poder agregar fotos de perfil e importar vCards, primero permita que esta aplicación acceda al almacenamiento.</string>
-    <string name="toast_not_show_storage_perm_req_for_pad">Para poder agregar fotos de perfil e importar vCards, primero permita que esta aplicación acceda al almacenamiento.</string>
-    <string name="toast_not_show_write_calllogs_perm_req">Para poder mantener actualizado el historial de llamadas, primero permita que esta aplicación edite el historial de llamadas.</string>
-    <string name="toast_not_show_write_contacts_perm_req">Para poder ver los contactos, primero permita que esta aplicación edite los contactos.</string>
+    <string name="toast_not_show_blue_scan_connect_perm_req">Permite que esta función conecte a dispositivos cercanos por Bluetooth para importar contactos de otros dispositivos.</string>
+    <string name="toast_not_show_camera_perm_req">Para usar la cámara y tomar fotos de perfil, permite primero a esta aplicación tomar fotos y grabar vídeos.</string>
+    <string name="toast_not_show_location_perm_req">Para importar contactos de otros dispositivos por Bluetooth, permite primero a esta aplicación acceder a tu ubicación.</string>
+    <string name="toast_not_show_read_calllogs_perm_req">Para ver el historial de llamadas, permite primero a esta aplicación acceder al historial de llamadas.</string>
+    <string name="toast_not_show_read_contacts_perm_req">Para ver los contactos, permite primero a esta aplicación acceder a los contactos.</string>
+    <string name="toast_not_show_read_phone_state_perm_req">Para usar esta aplicación con tu SIM, permite primero a esta aplicación acceder a la información del dispositivo.</string>
+    <string name="toast_not_show_storage_perm_req">Para agregar fotos de perfil e importar vCards, permite primero a esta aplicación acceder al almacenamiento.</string>
+    <string name="toast_not_show_storage_perm_req_for_pad">Para añadir fotos de perfil e importar vCards, permite primero a esta aplicación acceder al almacenamiento.</string>
+    <string name="toast_not_show_write_calllogs_perm_req">Para mantener actualizado el historial de llamadas, permite primero a esta aplicación editar el historial de llamadas.</string>
+    <string name="toast_not_show_write_contacts_perm_req">Para ver los contactos, permite primero a esta aplicación editar los contactos.</string>
     <string name="toast_start_intent_failed">"No se pudo encontrar aplicación para está acción"</string>
     <string name="toast_text_copied">Texto copiado</string>
     <string name="today">Hoy</string>

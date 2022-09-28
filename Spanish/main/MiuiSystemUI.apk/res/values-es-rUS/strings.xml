@@ -1396,16 +1396,16 @@ d 'de' MMMM"</string>
     <string name="miui_keyboard_shortcut_system_dock">Mostrar base de aplicaciones</string>
     <string name="miui_keyboard_shortcut_system_quickly_recent">Cambiar entre aplicaciones recientes</string>
     <string name="miui_keyguard_ble_unlock_succeed_msg">Desbloqueado por dispositivo Bluetooth</string>
-    <string name="miui_lock_screen_date">EEEE dd/MM</string>
-    <string name="miui_lock_screen_date_12">EEEE dd/MM</string>
-    <string name="miui_lock_screen_date_two_lines">"EEEE
-dd/MM"</string>
-    <string name="miui_lock_screen_date_two_lines_12">"EEEE
-dd/MM"</string>
+    <string name="miui_lock_screen_date">EEE, dd MMM</string>
+    <string name="miui_lock_screen_date_12">EEE, dd MMM</string>
+    <string name="miui_lock_screen_date_two_lines">"dd MMM
+EEE"</string>
+    <string name="miui_lock_screen_date_two_lines_12">"dd MMM
+EEE"</string>
     <string name="miui_lock_screen_large_date">"EEE
-dd/MM"</string>
+d/M"</string>
     <string name="miui_lock_screen_large_date_12">"EEE
-dd/MM"</string>
+d/M"</string>
     <string name="miui_notification_menu_aggregate_feedback">Comentarios</string>
     <string name="miui_notification_menu_allow">Permitir</string>
     <string name="miui_notification_menu_feedback_success">¡Gracias por sus comentarios!</string>
@@ -2283,6 +2283,7 @@ d 'de' MMM."</string>
     <string name="storage_category">Almacenamiento</string>
     <string name="stream_accessibility">Accesibilidad</string>
     <string name="stream_alarm">Alarma</string>
+    <string name="stream_assistant">Asistente</string>
     <string name="stream_bluetooth_sco">Bluetooth</string>
     <string name="stream_dtmf">Multifrecuencia de tono doble</string>
     <string name="stream_music">Multimedia</string>
@@ -2375,6 +2376,7 @@ Tu teléfono puede calentarse en estos casos:
     <string name="tip_close_flares">"No recibirás notificaciones sobre el comportamiento de la aplicación durante esta sesión"</string>
     <string name="title_convert_fbe">Convirtiendo a encriptación basada en archivos…</string>
     <string name="title_usb_accessory">Accesorio USB</string>
+    <string name="toast_for_first_use_three_gesture">Desliza horizontalmente, con cuatro dedos, para alternar entre aplicaciones</string>
     <string name="today">Hoy</string>
     <string name="tomorrow">Mañana</string>
     <string name="torch_high_temperature_warning">"Su dispositivo se sobrecalentó. No puede usar la linterna."</string>

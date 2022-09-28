@@ -223,8 +223,8 @@ Asegúrate de que el nombre de tu empresa es correcto. Lee y acepta la Política
     <string name="greenguard_install_title">Instalar Control parental</string>
     <string name="greenguard_parent_des">Gestiona el dispositivo de tus amigos y familia</string>
     <string name="greenguard_parent_des_title">Usa Kite Guard para añadir dispositivos</string>
-    <string name="guide_contact_sub_title_desc">"Los contactos añadidos al Segundo espacio se mantendrán privados.
- Los mensajes sólo aparecerán en el Segundo espacio."</string>
+    <string name="guide_contact_sub_title_desc">"Los contactos añadidos al segundo espacio serán privados.
+Los mensajes solo aparecerán en el segundo espacio."</string>
     <string name="guide_contact_suc_sub_title_desc">Solo los contactos privados y mensajes se mostrarán en el Segundo espacio</string>
     <string name="guide_contact_suc_title_desc">Establecido</string>
     <string name="guide_contact_title_desc">¿Mostrar elementos privados en el Segundo espacio?</string>
@@ -404,7 +404,7 @@ De lo contrario podría no ser capaz de acceder al Segundo espacio desde Pantall
     <string name="retain_src_file">Conservar archivos</string>
     <string name="retain_src_photo">Conservar fotos</string>
     <string name="same_qr_code_create_space">Crear otra</string>
-    <string name="same_qr_code_des">Parece que este Espacio de trabajo ya existe. Puede usar los accesos directos de la Pantalla de inicio y la Barra de notificaciones para ir ahí. ¿Desea ir ahora?</string>
+    <string name="same_qr_code_des">Parece que este espacio de trabajo ya existe. Puedes usar los accesos directos de la pantalla de Inicio y la barra de notificaciones para ir ahí. ¿Deseas ir ahora?</string>
     <string name="same_qr_code_enter_space">Ir al Espacio de trabajo</string>
     <string name="same_qr_code_title">%s ya existe</string>
     <string name="saturday">Sábado</string>
@@ -457,7 +457,7 @@ Separa y protege tus datos."</string>
     <string name="settings_notification_and_switch_second_space">Ajustes del Segundo espacio</string>
     <string name="settings_notification_from_owner_space_title">Mostrar notificaciones desde el Primer espacio</string>
     <string name="settings_notification_from_second_space_title">Mostrar notificaciones desde el Segundo espacio</string>
-    <string name="settings_notification_second_space_show_in_locked_summary">Mostrar notificaciones del segundo espacio en la pantalla de bloqueo</string>
+    <string name="settings_notification_second_space_show_in_locked_summary">Mostrar notificaciones del Segundo espacio en la pantalla de Bloqueo</string>
     <string name="settings_notification_second_space_show_in_locked_title">Mostrar notificaciones de la pantalla de bloqueo</string>
     <string name="settings_second_space_entrance_summary">Mostrar el acceso directo del Segundo espacio en la Configuración</string>
     <string name="settings_second_space_entrance_title">Acceso directo en la Configuración</string>

@@ -73,11 +73,11 @@
         <item>\#</item>
     </string-array>
     <string-array name="app_behavior_type_menu">
-        <item>Todos los registros</item>
-        <item>Inicio automático</item>
-        <item>Inicio en cadena</item>
-        <item>Usando permisos</item>
-        <item>Acciones delicadas</item>
+        <item>Todos</item>
+        <item>Inicio</item>
+        <item>Cadena</item>
+        <item>Permisos</item>
+        <item>Delicadas</item>
     </string-array>
     <string-array name="app_initials_label">
         <item>!</item>
@@ -242,7 +242,7 @@
     </string-array>
     <string-array name="roaming_network_type">
         <item>Siempre</item>
-        <item>Sólo para las excepciones</item>
+        <item>Solo para excepciones</item>
         <item>Nunca</item>
     </string-array>
     <string-array name="sms_report_type">
@@ -263,7 +263,7 @@
     </string-array>
     <string-array name="tether_limit_warn_type">
         <item>Desactivar y notificar</item>
-        <item>Sólo notificar</item>
+        <item>Solo notificar</item>
     </string-array>
     <string-array name="title_app_info">
         <item>Fuente de instalación</item>

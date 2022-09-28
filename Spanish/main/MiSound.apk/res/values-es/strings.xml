@@ -466,12 +466,9 @@
     <string name="sound_id_function_description">Personalice la curva de EQ según sus preferencias</string>
     <string name="sound_id_function_name">Sonido personalizado</string>
     <string name="sound_id_headset_status">Auriculares actuales</string>
-    <string name="sound_id_hz_high">"Agudos
-%d Hz"</string>
-    <string name="sound_id_hz_low">"Graves
-%d Hz"</string>
-    <string name="sound_id_hz_media">"Rango medio
-%d Hz"</string>
+    <string name="sound_id_hz_high">Agudos %d Hz</string>
+    <string name="sound_id_hz_low">Graves %d Hz</string>
+    <string name="sound_id_hz_media">Medios %d Hz</string>
     <string name="sound_id_music_one_description">Luz | %ds</string>
     <string name="sound_id_music_one_title">Ciudad lluviosa</string>
     <string name="sound_id_music_three_description">Melódico | %ds</string>
@@ -519,8 +516,8 @@
     <string name="sound_transmission_start">Iniciar</string>
     <string name="sound_transmission_stop">Pausar</string>
     <string name="sound_transmission_title">Micrófono inalámbrico</string>
-    <string name="spatial_audio">Seguimiento del movimiento de la cabeza</string>
-    <string name="spatial_audio_summary">Ajustar sonido inmersivo basado en movimiento de la cabeza</string>
+    <string name="spatial_audio">Sonido envolvente</string>
+    <string name="spatial_audio_summary">Experimenta la inmersión y la sensación de espacio al reproducir el sonido a través de auriculares</string>
     <string name="speaker_scenario_resume">Restaurar efectos originales</string>
     <string name="start_test_sound">Iniciar test</string>
     <string name="sunday">Domingo</string>

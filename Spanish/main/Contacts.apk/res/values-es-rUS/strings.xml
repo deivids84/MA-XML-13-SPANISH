@@ -341,6 +341,7 @@
     <string name="callrecordview_menu_show_missed">Llamadas perdidas</string>
     <string name="callrecordview_menu_show_sim">%s llamadas</string>
     <string name="callrecordview_menu_show_stranger">Llamadas de números desconocidos</string>
+    <string name="callrecordview_menu_xiaoaiphone">Asistente de Llamada IA</string>
     <string name="cancel">Cancelar</string>
     <string name="cancel_confirmation_dialog_message">¿Descartar los cambios?</string>
     <string name="cancel_confirmation_dialog_title">Cancelar</string>
@@ -486,7 +487,6 @@ Mi Roaming necesita conectarse a Internet y acceder a la información de su ubic
     <string name="description_image_button_eight">ocho</string>
     <string name="description_image_button_five">cinco</string>
     <string name="description_image_button_four">cuatro</string>
-    <string name="description_image_button_fuhao_named_dial">Sub llamada</string>
     <string name="description_image_button_nine">nueve</string>
     <string name="description_image_button_one">uno</string>
     <string name="description_image_button_plus">Más</string>
@@ -648,8 +648,6 @@ Motivo: \"%s\""</string>
     <string name="group_sms_progress_msg">Agrupando…</string>
     <string name="groupsLabel">Grupos</string>
     <string name="groups_list_empty">Sin grupos</string>
-    <string name="heduohao_fuhao_call_menu_title">Marcar en sub%d</string>
-    <string name="heduohao_main_call_menu_title">Marcar en principal</string>
     <string name="hide_app_description_content">"Contactos es una aplicación del sistema. Aún podrá usarlo a través de la aplicación Teléfono después de eliminar el acceso directo de la pantalla de inicio."</string>
     <string name="hide_app_description_title">¿Eliminar \"Contactos\" de la pantalla de inicio?</string>
     <string name="hint_findContacts">Buscar contactos</string>

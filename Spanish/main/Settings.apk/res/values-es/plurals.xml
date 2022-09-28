@@ -129,12 +129,12 @@
         <item quantity="one">Restringir %1$d aplicación</item>
     </plurals>
     <plurals name="bg_network_allow_count">
-        <item quantity="other">Las aplicaciones %d pueden conectarse a la red</item>
-        <item quantity="one">La aplicación %d puede conectarse a la red</item>
+        <item quantity="other">%d aplicaciones pueden conectar a la red</item>
+        <item quantity="one">%d aplicación puede conectar a la red</item>
     </plurals>
     <plurals name="bg_network_restrict_count">
-        <item quantity="other">"Las aplicaciones %d no pueden conectarse a la red"</item>
-        <item quantity="one">"La aplicación %d no puede conectarse a la red"</item>
+        <item quantity="other">"%d aplicaciones no pueden conectar a la red"</item>
+        <item quantity="one">"%d aplicación no puede conectar a la red"</item>
     </plurals>
     <plurals name="billing_cycle_days_left">
         <item quantity="other">Quedan %d días</item>

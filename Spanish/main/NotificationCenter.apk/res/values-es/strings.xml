@@ -173,7 +173,7 @@
     <string name="notification_fold_title">Agrupar notificaciones</string>
     <string name="notification_keyguard_hide_content">Mostrar notificaciones pero ocultar el contenido</string>
     <string name="notification_keyguard_show_content">Mostrar notificaciones y contenido</string>
-    <string name="notification_keyguard_show_nothing">"No mostrar notificaciones en la Pantalla de bloqueo"</string>
+    <string name="notification_keyguard_show_nothing">"No mostrar notificaciones en la pantalla de Bloqueo"</string>
     <string name="notification_manager">Notificaciones de la aplicación</string>
     <string name="notification_style_android">Android</string>
     <string name="notification_style_miui">MIUI</string>

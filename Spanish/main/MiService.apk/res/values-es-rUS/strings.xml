@@ -59,6 +59,7 @@
     <string name="icon_remove_description_content">"\"Servicios y comentarios\" es una aplicación del sistema. Aún podrá usarlo a través de Ajustes después de eliminar el acceso directo de la pantalla de inicio."</string>
     <string name="icon_remove_description_title">¿Quiere eliminar \"Servicios y comentarios\" de la pantalla de inicio?</string>
     <string name="mi_service_app_name">Servicios y comentarios</string>
+    <string name="mi_service_back">Atrás</string>
     <string name="midnight">Noche</string>
     <string name="miservice_channel_update_notification_info">\"Servicios y comentarios\" está solicitando datos en línea…</string>
     <string name="miservice_notification_boot_content">Aprenda qué puede hacer MIUI</string>

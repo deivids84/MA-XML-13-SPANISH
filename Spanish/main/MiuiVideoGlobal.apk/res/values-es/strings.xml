@@ -251,6 +251,7 @@
     <string name="continue_play">Reanudar</string>
     <string name="controller_bar_edit">Editar</string>
     <string name="copy">Copiar</string>
+    <string name="copy_toast_msg">Enlace copiado al portapapeles</string>
     <string name="data_empty">No hay elementos</string>
     <string name="date_picker_lunar">Calendario Chino Tradicional</string>
     <string name="date_time_picker_dialog_title">Establecer fecha y hora</string>
@@ -396,6 +397,9 @@ Remite este código al supervisor."</string>
     <string name="failed_dup_secure_phone_number">Este número de teléfono ya está asociado a otra cuenta Xiaomi</string>
     <string name="failed_to_fetch_data">"No se pudo cargar la información."</string>
     <string name="failure">"No se pudo descargar"</string>
+    <string name="fallback_menu_item_copy_link">Copiar enlace</string>
+    <string name="fallback_menu_item_open_in_browser">Abrir en el navegador</string>
+    <string name="fallback_menu_item_share_link">Compartir enlace</string>
     <string name="favor_movie">Películas</string>
     <string name="favor_online_video">Vídeos</string>
     <string name="favor_playlist">Listas de reproducción</string>
@@ -469,7 +473,7 @@ Remite este código al supervisor."</string>
     <string name="galleryplus_click_to_higher_definition">Pulsa dos veces para abrir la previsualización en HD</string>
     <string name="galleryplus_copyright_unsported_audio">"No se puede reproducir el vídeo con pista de audio debido a restricciones de derechos de autor"</string>
     <string name="galleryplus_copyright_unsported_video">"No se puede reproducir este vídeo debido a restricciones de derechos de autor"</string>
-    <string name="galleryplus_cta_tips">Puedes ayudarnos a mejorar nuestros servicios uniéndote al Programa de Experiencia de Usuario y permitiendo a Mi Vídeo conectarse a internet. ¿Aceptar?</string>
+    <string name="galleryplus_cta_tips">Puedes ayudar a mejorar nuestros servicios uniéndote al Programa de Experiencia de Usuario y permitiendo a Mi Vídeo conectar a internet. ¿Aceptar?</string>
     <string name="galleryplus_double_tap_to_higher_definition">Pulsa dos veces otra vez para abrir la previsualización en HD</string>
     <string name="galleryplus_fr_unsupport_restore_speed">Tasa de fotogramas no soportada. Se cambió a la velocidad normal.</string>
     <string name="galleryplus_gallery_fold_tags">Ocultar etiquetas</string>
@@ -624,6 +628,7 @@ Esta operación no afectará a las imágenes de la Galería."</string>
     <string name="incentive_exchange_code_copy_and_start">Usar</string>
     <string name="incentive_exchange_details">Detalles</string>
     <string name="incentive_exchange_details_current">Total del pedido</string>
+    <string name="incentive_exchange_details_dotask">Gana puntos</string>
     <string name="incentive_exchange_details_total">Saldo</string>
     <string name="incentive_exchange_empty_tip">Todavía nada. Canjea puntos para empezar.</string>
     <string name="incentive_exchange_expire_tip">Los puntos no reclamados desaparecerán a medianoche</string>
@@ -654,6 +659,8 @@ Esta operación no afectará a las imágenes de la Galería."</string>
     <string name="incentive_view_details">Detalles</string>
     <string name="inconsistent_pwd">"Las contraseñas no coinciden"</string>
     <string name="init_channels">Restaurar valores predeterminados</string>
+    <string name="inline_auto_play_tip">"Usando datos móviles… "</string>
+    <string name="inline_auto_play_to_set">Ajustes</string>
     <string name="inline_mute_click_tip">Pulsa para desactivar silencio</string>
     <string name="input_email_address_notice">"Vamos a utilizar este correo electrónico para verificar tu cuenta"</string>
     <string name="input_new_pwd">Introduce nueva contraseña</string>
@@ -679,11 +686,17 @@ para vídeos"</string>
     <string name="language_setting_tips">Selecciona tus preferencias de idioma para recibir más recomendaciones de contenido relevantes. Puedes cambiar tus preferencias de idioma en Perfil &gt; Idioma.</string>
     <string name="language_setting_tips_dialog">Puedes seleccionar preferencias de idioma para el contenido en Cuenta e Idioma.</string>
     <string name="later">Más tarde</string>
-    <string name="library_roundedimageview_libraryDescription">Un ImageView rápido (y dibujable) que admite esquinas redondeadas (y óvalos o círculos) basado en el ejemplo original de Romain Guy.</string>
+    <string name="library_roundedimageview_libraryDescription">Una vista de imagen rápida (y dibujable) que admite esquinas redondeadas (y óvalos o círculos) basado en el original de Romain Guy.</string>
     <string name="live_now">En directo</string>
     <string name="live_title">Televisión en vivo</string>
+    <string name="live_tv_dialog_item_passed">Este programa ha terminado. ¡No te lo pierdas la próxima vez!</string>
+    <string name="live_tv_dialog_subscirbe_button">Suscribirse</string>
+    <string name="live_tv_dialog_subscirbe_tips">Suscríbete a %1$s y nunca te pierdas un episodio</string>
     <string name="live_tv_title">Live TV</string>
+    <string name="live_tv_toast_item_subscirbe">"Ya estás suscrito a este programa"</string>
     <string name="loading">Un momento…</string>
+    <string name="local_adjust_zoom_mode_hint">"Lo estás viendo al %s"</string>
+    <string name="local_crop_zoom_mode">La imagen está recortada</string>
     <string name="local_diversion_all_local_videos">Todos los videos del dispositivo</string>
     <string name="local_diversion_close_recommend">Cerrar</string>
     <string name="local_diversion_download_more_video">Más videos</string>
@@ -697,11 +710,13 @@ para vídeos"</string>
     <string name="local_hide_folder_dialog_title">Vídeos ocultos</string>
     <string name="local_hide_folder_setting_goto">Ajustes</string>
     <string name="local_hide_folder_setting_tip">Puedes administrar tus videos ocultos en Perfil &gt; Configuración &gt; Administrar videos ocultos.</string>
+    <string name="local_play_end_close_tip">"Las recomendaciones no se verán otra vez hoy"</string>
     <string name="local_play_end_drag_up_guide">Pulsa o desliza hacia arriba para jugar Shorts</string>
     <string name="local_play_tip">Reproduciendo vídeo local</string>
     <string name="local_push_setting_power_tag">Notificaciones sobre videos locales</string>
     <string name="local_push_title">Popular hoy</string>
     <string name="local_push_video_title">Buscar nuevos videos locales</string>
+    <string name="local_stretch_zoom_mode">La imagen está estirada</string>
     <string name="local_subtitle_choose_language_text">Idioma</string>
     <string name="local_subtitle_exemption_hint">Buscar subtítulos en opensubtitle.org</string>
     <string name="local_subtitle_input_keyword_text">Buscar palabras clave</string>
@@ -727,6 +742,7 @@ para vídeos"</string>
     <string name="local_video_size">Tamaño</string>
     <string name="local_video_space">Ocupado: %s</string>
     <string name="local_video_time">Duración</string>
+    <string name="local_zoom_adjust_button">Cambiar modo de pantalla</string>
     <string name="lock_screen">Pantalla de bloqueo</string>
     <string name="login">Iniciar sesión</string>
     <string name="login_tip">Inicia sesión para poder recibir nuestra respuesta a tus comentarios.</string>
@@ -906,7 +922,7 @@ para vídeos"</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Suelte para actualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Eso es todo por ahora"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">"Eso es todo por ahora"</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Sólo un segundo…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Un momento…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"No se pudieron cargar los elementos"</string>
     <string name="mnc_live_subscribe_toast">Suscripción realizada</string>
     <string name="mnc_live_tv">Live TV</string>
@@ -1440,6 +1456,7 @@ Mejorar la seguridad de tu cuenta."</string>
     <string name="popup_click_for_download_video">Descargar video</string>
     <string name="popup_pip_activate_button">Ajustes</string>
     <string name="popup_pip_not_activated">Permita que Mi Video use la picture-in-picture primero.</string>
+    <string name="popup_recommend_text">"Descubre más videos que te encantarán"</string>
     <string name="popup_window_home_tip">Descargar videos en línea</string>
     <string name="preference_copied">\"%1$s\" copiado al portapapeles.</string>
     <string name="privacy_agree_subtitle">El consentimiento a la Política de privacidad le permite utilizar todas las funciones de Mi Video</string>
@@ -1541,6 +1558,15 @@ Mejorar la seguridad de tu cuenta."</string>
     <string name="sending">Enviando…</string>
     <string name="service_error">Error de servidor</string>
     <string name="set_success">Cambiado</string>
+    <string name="settings_inline_auto_play">Reproducción automática activada</string>
+    <string name="settings_inline_auto_play_close">Reproducción automática desactivada</string>
+    <string name="settings_inline_auto_play_tip_close_forever">Siempre desactivada</string>
+    <string name="settings_inline_auto_play_tip_close_month">Desactivada durante un mes</string>
+    <string name="settings_inline_auto_play_tip_open">Activada</string>
+    <string name="settings_inline_auto_play_tip_title">Recordatorios de uso de datos móviles</string>
+    <string name="settings_inline_auto_play_title">Reproducción automática</string>
+    <string name="settings_inline_auto_play_wify">Reproducción automática solo con Wi-Fi</string>
+    <string name="settings_inline_title">Reproducción automática de la página de inicio</string>
     <string name="settings_manager_hidden_folder">Administrar videos ocultos</string>
     <string name="share">Compartir</string>
     <string name="share_fail">"No se pudo compartir. Comprueba los ajustes de red e inténtalo otra vez."</string>
@@ -1593,7 +1619,7 @@ Mejorar la seguridad de tu cuenta."</string>
     <string name="solar_term_winter_begins">Comienza el invierno</string>
     <string name="solar_term_winter_solstice">Solsticio de invierno</string>
     <string name="source">"Fuente: "</string>
-    <string name="special_type_8k">AI 8K</string>
+    <string name="special_type_8k">IA 8K</string>
     <string name="special_type_log">INICIAR SESIÓN</string>
     <string name="srl_component_falsify" formatted="false">"%s falsificar área,
  Representa la altura[%.1fdp] de arrastre en tiempo de ejecución,

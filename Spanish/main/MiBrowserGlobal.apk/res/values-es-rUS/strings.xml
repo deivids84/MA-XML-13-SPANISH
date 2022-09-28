@@ -107,6 +107,7 @@
     <string name="ad_mark">Anuncio</string>
     <string name="ad_permission_name">Bloquear anuncios</string>
     <string name="ad_sponsored">Patrocinado</string>
+    <string name="ad_swip_up_tips">Deslizar hacia arriba para cerrar</string>
     <string name="adblock_force_updating_rules_toast">Actualizando Bloqueador de Publicidad</string>
     <string name="adblock_rules_not_updated_toast">"No se pudo actualizar"</string>
     <string name="adblock_rules_restore">Desbloquear</string>
@@ -146,6 +147,7 @@
     <string name="allow_current">Permitir una vez</string>
     <string name="already_add">Se añadió %s a tu Pantalla de inicio</string>
     <string name="am">AM</string>
+    <string name="app_cache">Caché</string>
     <string name="app_id">ID de aplicación de Firebase (haga clic para exportar)</string>
     <string name="app_library_category_entertainment">Entretenimiento</string>
     <string name="app_library_category_games">Juegos</string>
@@ -374,6 +376,8 @@ Desactive el interruptor para dejar de sincronizar."</string>
     <string name="branch_shortcuts">Accesos directos</string>
     <string name="branch_show_more">Más</string>
     <string name="branch_terms_condition">Términos y condiciones</string>
+    <string name="branch_trending_google_news">Noticias de Google</string>
+    <string name="branch_trending_youtube_news">YouTube</string>
     <string name="browser">Naegador Mi</string>
     <string name="browserFrameFileErrorLabel">Error de archivo</string>
     <string name="browserFrameFormResubmitMessage">"La página que intenta ver contiene datos que ya se han enviado. Si reenvía los datos, las acciones anteriores (búsquedas o compras) se repetirán."</string>
@@ -459,6 +463,7 @@ Desactive el interruptor para dejar de sincronizar."</string>
     <string name="clearable_edittext_clear_description">Borrar</string>
     <string name="cleared_garbage">Limpiado %d MB de basura</string>
     <string name="click_always">Toque \"Siempre\"</string>
+    <string name="click_clean">Limpiar</string>
     <string name="click_to_refresh">Se detuvo aquí la última vez. Toque para actualizar</string>
     <string name="clip_dialog_title">¿Abrir la dirección copiada?</string>
     <string name="clipboard_title_text">Texto copiado</string>
@@ -650,6 +655,7 @@ Envíe este código al supervisor."</string>
     <string name="discovery__edit_feed_view__remove_this_book">¿eliminar este libro y su presentación?</string>
     <string name="discovery__edit_feed_view__send">lanzamiento</string>
     <string name="discovery__edit_feed_view__title_hint">título</string>
+    <string name="display__quick_entry_of_search">Mostrar accesos directos en el panel de notificaciones</string>
     <string name="dkcommon__web_pull_refresh_view__pull_down_tip">Desliza hacia abajo para actualizar</string>
     <string name="dkcommon__web_pull_refresh_view__refresh_done_tip">Actualizado con éxito</string>
     <string name="dkcommon__web_pull_refresh_view__refreshing_tip">Solo un segundo…</string>
@@ -787,7 +793,8 @@ Envíe este código al supervisor."</string>
     <string name="empty_history_hint">El historial está vacío</string>
     <string name="empty_snapshot_hint">Vacío</string>
     <string name="enable_geolocation_confirm_message">Desactivar los servicios de ubicación afectará las recomendaciones que recibe.</string>
-    <string name="enable_vpn">Habilitar depuración VPN</string>
+    <string name="enable_miui_lite_plus">Habilitar la depuración de MiuiLite+</string>
+    <string name="enable_notification_permission_in_settings">Permite que las notificaciones en Ajustes puedan usar esta función.</string>
     <string name="encrypt_success">Ocultado correctamente</string>
     <string name="encrypting">Encriptando…</string>
     <string name="end_user_license">Acuerdo de Licencia de Usuario Final</string>
@@ -879,7 +886,10 @@ Envíe este código al supervisor."</string>
     <string name="featured_this_week">Destacado esta semana</string>
     <string name="feed_content_protection">Protección de contenido</string>
     <string name="feedback">Comentarios</string>
+    <string name="feedback_bad">No</string>
     <string name="feedback_email">No dudes en escribirnos si tienes alguna pregunta sobre Wonderfic: wonderwebfiction@gmail.com.</string>
+    <string name="feedback_general">Un poco</string>
+    <string name="feedback_good">Si</string>
     <string name="feedback_info_app_package_name">"Nombre del paquete: "</string>
     <string name="feedback_info_app_version">"Versión de la aplicación: "</string>
     <string name="feedback_info_language">"Idioma: "</string>
@@ -888,6 +898,8 @@ Envíe este código al supervisor."</string>
     <string name="feedback_info_system">"Sistema: "</string>
     <string name="feedback_info_system_version">"Versión del sistema:  "</string>
     <string name="feedback_send_email_body_extra_info">"No elimine la siguiente información. Nos ayudará a localizar el problema."</string>
+    <string name="feedback_thank_you">¡Gracias por tu comentario!</string>
+    <string name="feedback_title">¿Te interesa este contenido?</string>
     <string name="fetch_video">Preparando video…</string>
     <string name="fetch_video_fail">"No se pudieron obtener datos"</string>
     <string name="fetch_video_ssl_bad_clock">"Parece que la fecha y la hora configuradas en su dispositivo (%s) no son correctas. Ajuste la configuración y vuelva a intentarlo."</string>
@@ -967,6 +979,9 @@ Envíe este código al supervisor."</string>
     <string name="game_news_flow_download_bar_play">Iniciar</string>
     <string name="game_play">Jugar</string>
     <string name="game_played">Recientes</string>
+    <string name="garbage_cleaning">Limpiador</string>
+    <string name="garbage_details">Detalles</string>
+    <string name="garbage_file">Basura</string>
     <string name="gcm_fallback_notification_channel_label">Varios</string>
     <string name="general__add_book_to_launcher__success">añadido con éxito</string>
     <string name="general__coin_not_enough">monedas de oro insuficientes</string>
@@ -1156,12 +1171,15 @@ para añadir libros al mismo"</string>
     <string name="home_list_item_click">Haga clic en el elemento de la lista de inicio</string>
     <string name="home_nf">Nuevos contenidos</string>
     <string name="home_nf_recommend_on">Recomendados para ti</string>
+    <string name="home_page_simple">Simple</string>
+    <string name="homepage_default">Por defecto</string>
     <string name="homepage_delete_card_menu">Eliminar</string>
     <string name="homepage_get_location">Obtener ubicación</string>
     <string name="homepage_get_location_failed">"No se pudo obtener información, seleccione una ciudad"</string>
     <string name="homepage_more_cards">Más servicios</string>
     <string name="homepage_more_sites">Más sitios web</string>
     <string name="homepage_search_hint">Buscar</string>
+    <string name="homepage_setting">Ajustes de la página de inicio</string>
     <string name="homepage_top_card_menu">Recarga</string>
     <string name="hot_games">Populares</string>
     <string name="i_know">Parar</string>
@@ -1189,6 +1207,7 @@ para añadir libros al mismo"</string>
     <string name="input_new_pwd">Ingresar nueva contraseña</string>
     <string name="ins_login_tips">Inicie sesión para descargar videos de Instagram</string>
     <string name="ins_register_btn">Crear una cuenta usando correo electrónico o número telefónico</string>
+    <string name="installation_package">APKs</string>
     <string name="instance_id">ID de instancia de Firebase (haga clic para exportar)</string>
     <string name="intercept_panel_ads_img_category_text">Anuncios bloqueados</string>
     <string name="intercept_panel_download_img_category_text">Descargas protegidas</string>
@@ -1212,6 +1231,8 @@ para añadir libros al mismo"</string>
     <string name="intercept_toast_message_camera">La página web está usando la cámara…</string>
     <string name="intercept_toast_message_mic">La página web está grabando audio…</string>
     <string name="intercept_toast_message_voice">La página web está reproduciendo audio…</string>
+    <string name="interest_advise_subtitle">"Te mostraremos noticias sobre los temas que te interesan"</string>
+    <string name="interest_advise_title">¿Qué contenido te interesa?</string>
     <string name="interest_card_button">Continuar</string>
     <string name="interest_card_title">Seleccione sus intereses</string>
     <string name="into_info_flow_guide">Ver más artículos</string>
@@ -1227,6 +1248,7 @@ para añadir libros al mismo"</string>
     <string name="js_dialog_permission_name">Mostrar diálogos emergentes</string>
     <string name="js_disable_confirm_message">Desactivar JavaScript podría provocar que algunos sitios web no se muestren correctamente.</string>
     <string name="js_disable_confirm_title">¿Desactivar JavaScript?</string>
+    <string name="junk_files_found">Basura encontrada</string>
     <string name="just_a_second">Un momento…</string>
     <string name="just_now">Justo ahora</string>
     <string name="keep_intrercept">Detener</string>
@@ -1280,6 +1302,7 @@ para añadir libros al mismo"</string>
     <string name="media_error_video_not_exist">"El vídeo no existe"</string>
     <string name="memory_clear_nothing_result">Nada que limpiar en caché</string>
     <string name="memory_clear_result">%1$s limpiados</string>
+    <string name="memory_usage">Memoria</string>
     <string name="menu_addtodesk">Agregar a la pantalla de inicio</string>
     <string name="menu_exit_nightmode">Salir</string>
     <string name="menu_hv_swap">Pantalla V/H</string>
@@ -1292,6 +1315,7 @@ para añadir libros al mismo"</string>
     <string name="menu_title_resume_all">Iniciar todo</string>
     <string name="messenger_send_button_text">Enviar</string>
     <string name="mi_browser_clean_up_garbage">El Navegador Mi está borrando basura…</string>
+    <string name="mi_browser_is_scanning">El navegador está explorando</string>
     <string name="midi_permission_name">Controlar dispositivos MIDI</string>
     <string name="midnight">Noche</string>
     <string name="mint_games">Juegos populares</string>
@@ -1579,11 +1603,6 @@ Dejar esta página ahora?"</string>
     <string name="mw_miuichromium_error_page_suggestion_title">Intente esto:</string>
     <string name="mw_miuichromium_error_page_title">Se produjo un error</string>
     <string name="mw_miuichromium_error_page_unknown_error">¡Ups! Algo salió mal</string>
-    <string name="mw_miuichromium_error_page_vpn_suggestion_btn_text">Pruebe usando un VPN</string>
-    <string name="mw_miuichromium_error_page_vpn_suggestion_des_1">Servidores ilimitados</string>
-    <string name="mw_miuichromium_error_page_vpn_suggestion_des_2">Sin rastreo</string>
-    <string name="mw_miuichromium_error_page_vpn_suggestion_des_3">Sin límites de velocidad</string>
-    <string name="mw_miuichromium_error_page_vpn_suggestion_img_text">Pruebe usando un VPN</string>
     <string name="mw_miuichromium_error_page_wlan">Activar Wi-Fi</string>
     <string name="mw_month_picker_dialog_title">Establecer mes</string>
     <string name="mw_no_matches">No hay coincidencias</string>
@@ -1696,6 +1715,7 @@ Dejar esta página ahora?"</string>
     <string name="noti_no_permission_record">No hay elementos.</string>
     <string name="noti_web_allow">Permitidas</string>
     <string name="noti_web_push">Notificaciones del sitio web</string>
+    <string name="notice_bar_shortcut_entry">Accesos directos del panel de notificaciones</string>
     <string name="notif_install_successful">Descarga completa</string>
     <string name="notification_category_browser">Navegador</string>
     <string name="notification_category_downloads">Descargas</string>
@@ -1869,6 +1889,12 @@ Dejar esta página ahora?"</string>
     <string name="permission_unknown">Ha ocurrido un error.</string>
     <string name="permission_use">Permisos</string>
     <string name="permisssion_not_ask_again">"No volver a preguntar"</string>
+    <string name="person_menu_cleaner">Limpiador</string>
+    <string name="person_menu_cleaner_button">Limpiar</string>
+    <string name="person_menu_download">Archivos</string>
+    <string name="person_menu_game_history">Historial de juego</string>
+    <string name="person_menu_game_recommend">Juegos populares</string>
+    <string name="person_menu_video">Vídeos cortos</string>
     <string name="personal__about_view__already_latest">Ya es la última versión</string>
     <string name="personal__about_view__current_view">Versión actual %s</string>
     <string name="personal__about_view__update">Pulsa para actualizar a la última versión</string>
@@ -2289,6 +2315,7 @@ Algunos sitios no usarán su historial de navegación anterior para personalizar
     <string name="pwa_hint_added_success">Añadido con éxito</string>
     <string name="qr_code_title">Código QR</string>
     <string name="qr_description">Escanear código QR</string>
+    <string name="quick_search_and_access_to_functions">La búsqueda rápida permite acceder fácilmente a las funciones más usadas.</string>
     <string name="quicklink_bookmark_save">Guardar en</string>
     <string name="quicklink_cannot_save_url">"Esta URL no puede ser añadida."</string>
     <string name="quicklink_folder_text">Apps populares</string>
@@ -2326,6 +2353,7 @@ Algunos sitios no usarán su historial de navegación anterior para personalizar
     <string name="reading__auto_pagedown_menu_view__speed">Velocidad automática de cambio de página: %1$d</string>
     <string name="reading__bookmark_empty_view__hint">Añadir marcadores al desplegable mientras lees</string>
     <string name="reading__bookmark_empty_view__no_bookmark">Temporalmente sin marcadores</string>
+    <string name="reading__cancel">Cancelar</string>
     <string name="reading__chapter_error_view__content_error">"No se pudo cargar el capítulo. Comprueba los ajustes de red e inténtalo otra vez."</string>
     <string name="reading__chapter_error_view__drm_error">"No se pudo obtener el certificado digital"</string>
     <string name="reading__chapter_error_view__exception">"No se pudo descargar el capítulo. Comprueba los ajustes de red e inténtalo otra vez."</string>
@@ -2391,6 +2419,12 @@ Editar"</string>
     <string name="reading__feedback_dialog_input_toast">Introduce los detalles del problema antes de enviar</string>
     <string name="reading__feedback_dialog_title">Informar de un problema</string>
     <string name="reading__feedback_submit_toast_success">Comentario enviado</string>
+    <string name="reading__menu_open_with_another_app">Abrir con otra aplicación</string>
+    <string name="reading__menu_play">Diapositivas</string>
+    <string name="reading__menu_rotate_screen">Girar</string>
+    <string name="reading__menu_search">Buscar</string>
+    <string name="reading__menu_share">Compartir</string>
+    <string name="reading__menu_thumbnail">Miniaturas de página</string>
     <string name="reading__navigation_current_book_cover_desc">Cubierta del libro</string>
     <string name="reading__navigation_view__delete_annotation">Eliminar el extracto del libro</string>
     <string name="reading__navigation_view__delete_bookmark">Eliminar el marcador</string>
@@ -2407,6 +2441,8 @@ Editar"</string>
     <string name="reading__reading_error_report">Informe de error del capítulo</string>
     <string name="reading__reading_feedback_dialog_email_error_toast">Introduce una dirección de correo electrónico válida</string>
     <string name="reading__reading_feedback_dialog_email_hint">Introduce tu dirección de correo electrónico</string>
+    <string name="reading__reading_first_page">Esta es la primera página</string>
+    <string name="reading__reading_last_page">Esta es la última página</string>
     <string name="reading__reading_menu_bottom_view__brightness_bar">Barra de brillo</string>
     <string name="reading__reading_menu_bottom_view__progress">Progreso</string>
     <string name="reading__reading_menu_bottom_view__progress_bar">Barra de progreso</string>
@@ -2491,6 +2527,10 @@ recomendamos que uses el modo de lectura gratuita"</string>
     <string name="reading__recommend_title">Recomendación gratuita de un buen libro</string>
     <string name="reading__remove_selected_items">¿Eliminar los elementos seleccionados?</string>
     <string name="reading__repair_cert_view__default_reason">El libro no se pudo abrir, intenta repararlo después de conectarte a Internet</string>
+    <string name="reading__search_cancel">Cancelar</string>
+    <string name="reading__search_input_hint">Escribe las palabras clave a buscar</string>
+    <string name="reading__search_result_nothing">"No se encontraron resultados"</string>
+    <string name="reading__search_searching">Buscando…</string>
     <string name="reading__search_text_view__empty_hint">Buscar texto completo</string>
     <string name="reading__search_text_view__nosearch_result">"El texto no contiene tal palabra clave
 ¿Modificar tu palabra clave?"</string>
@@ -2798,7 +2838,7 @@ recomendamos que uses el modo de lectura gratuita"</string>
     <string name="shortcuts_boost_speed">Aumento de velocidad</string>
     <string name="shortcuts_cleanup_cache">Limpiador</string>
     <string name="shortcuts_cleanup_memory">Limpiar caché</string>
-    <string name="shortcuts_security_scan">Análisis de seguridad</string>
+    <string name="shortcuts_security_scan">Analizar seguridad</string>
     <string name="show_options_label">Mostrar Opciones</string>
     <string name="sign_in">Iniciando sesión</string>
     <string name="sign_in_by_others">Otras formas de iniciar sesión</string>
@@ -2814,6 +2854,7 @@ recomendamos que uses el modo de lectura gratuita"</string>
     <string name="signin_tips_3">"- Podrás usar tus monedas en todos tus dispo- sitivos."</string>
     <string name="signin_with_facebook">Iniciar sesión con Facebook</string>
     <string name="signin_with_google">Iniciar sesión con Google</string>
+    <string name="simple_page_toast">Puedes cambiar a la configuración predeterminada en Ajustes &gt; Página de Inicio</string>
     <string name="skip">Omitir</string>
     <string name="skip_current_version">Omitir esta versión</string>
     <string name="sku_all">Todo</string>
@@ -3128,6 +3169,7 @@ No muestra nada."</string>
     <string name="undo">Deshacer</string>
     <string name="uni_search_setting_summary">Búsquedas en la aplicación</string>
     <string name="uni_search_setting_title">Mejorar los resultados de búsqueda</string>
+    <string name="unload_residue">Residuos</string>
     <string name="unsecurity_url_toast">"Este sitio web no es seguro"</string>
     <string name="up_to_loading_tips">Libere para actualizar</string>
     <string name="update">Actualizar</string>
@@ -3204,6 +3246,7 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="video_retry_btn">Reintentar</string>
     <string name="video_view_more">Más</string>
     <string name="view_certificate">Ver certificado</string>
+    <string name="view_details">Ver detalles</string>
     <string name="view_document_downloaded_files">Ver archivos descargados en Descargas</string>
     <string name="voice_check_network">Compruebe sus ajustes de red y vuelva a intentarlo.</string>
     <string name="voice_connect_network">"No se pudo conectar a la red."</string>
@@ -3304,7 +3347,7 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="web_permission_protect_privacy_vibrate_title">Usar vibración</string>
     <string name="web_permission_protect_privacy_voice_title">Reproducir audio</string>
     <string name="web_permission_protect_record">Historial de comportamiento de la página web</string>
-    <string name="web_permission_protect_record_dialog_msg">¿Eliminar ahora todos los registros del historial de protección?</string>
+    <string name="web_permission_protect_record_dialog_msg">¿Borrar todos los registros del historial de protección?</string>
     <string name="web_permission_protect_record_dialog_title">Eliminar historial de protección</string>
     <string name="web_permission_protect_title">Protección de la privacidad</string>
     <string name="web_permission_protect_track_record">"\"No rastrear\" no funciona con estas páginas web"</string>
@@ -3324,6 +3367,9 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="web_permission_setting_page_title">Ajustes de páginas web</string>
     <string name="web_permission_setting_page_web_enhance_desc">Desactívalo para dejar de bloquear anuncios en este sitio web</string>
     <string name="web_permission_setting_page_web_enhance_sub_title">Bloquear anuncios</string>
+    <string name="web_tag_desc">Muestra miniaturas de las páginas ya visitadas</string>
+    <string name="web_tag_tips">Pulsa aquí para ver una página otra vez</string>
+    <string name="web_tag_title">Miniaturas de páginas web</string>
     <string name="web_video_accelerate">Velocidad</string>
     <string name="web_video_download">Descargar</string>
     <string name="web_video_download_no_access">Se requieren permisos para descargar elementos</string>

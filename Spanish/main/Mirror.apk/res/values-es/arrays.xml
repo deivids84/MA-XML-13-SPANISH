@@ -74,7 +74,7 @@
 2. Ordenadores compatibles: Portátil Xiaomi Pro 15 Versión mejorada, Portátil Xiaomi Pro 15.6 2020, Redmi G, RedmiBook 16, RedmiBook 14 II, RedmiBook Air 13. Descargue MIUI+ Beta para su ordenador aquí: https://plus.miui.com."</item>
     </string-array>
     <string-array name="settings_tips_title">
-        <item>"¿No puedes conectarte usando un código QR?"</item>
+        <item>"¿No conectas usando el código QR?"</item>
         <item>"¿No encuentras dispositivos móviles con tu ordenador?"</item>
         <item>"¿No puedes bloquear tu dispositivo móvil?"</item>
         <item>Compatibilidad</item>

@@ -24,7 +24,7 @@
         <item>32 bits por muestra</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
-        <item>Predeterminado del sistema</item>
+        <item>Bits de muestra de la reproducción</item>
         <item>16 bits por muestra</item>
         <item>24 bits por muestra</item>
         <item>32 bits por muestra</item>
@@ -35,14 +35,14 @@
         <item>Estéreo</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
-        <item>Predeterminado del sistema</item>
+        <item>Canal de sonido de reproducción</item>
         <item>Mono</item>
         <item>Estéreo</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
-        <item>Se ha optimizado para la calidad del audio</item>
-        <item>Equilibrar la calidad del audio y la de la conexión</item>
-        <item>Se ha optimizado para la calidad de la conexión</item>
+        <item>Optimizado para calidad de audio</item>
+        <item>Audio equilibrado y calidad de conexión</item>
+        <item>Optimizado para la calidad de la conexión</item>
         <item>Códec de audio de alta resolución y estabilidad</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">

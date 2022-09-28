@@ -308,6 +308,10 @@
         <item quantity="other">Hace %d minutos</item>
         <item quantity="one">Hace 1 minuto</item>
     </plurals>
+    <plurals name="person_menu_protect_count">
+        <item quantity="other">Protegido %s veces</item>
+        <item quantity="one">Protegido %s vez</item>
+    </plurals>
     <plurals name="personal__attance_activity_check_in_bonus_number">
         <item quantity="other">+%d monedas</item>
         <item quantity="one">+%d moneda</item>
@@ -419,6 +423,10 @@
     <plurals name="reading__reading_retain_common_time">
         <item quantity="other">"Recibirás %d bono si continúas leyendo. ¿Continuar?"</item>
         <item quantity="one">"Recibirás %d bono si continúas leyendo. ¿Continuar?"</item>
+    </plurals>
+    <plurals name="reading__search_resultful">
+        <item quantity="other">Encontrados %1$d resultados</item>
+        <item quantity="one">Encontrado %1$d resultado</item>
     </plurals>
     <plurals name="reading__shared__toc_new_chapter">
         <item quantity="other">%d capítulos disponibles hasta ahora</item>

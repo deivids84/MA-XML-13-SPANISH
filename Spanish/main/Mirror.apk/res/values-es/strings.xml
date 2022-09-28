@@ -198,7 +198,7 @@ Cierra esta página y vuelve a intentarlo."</string>
     <string name="pad_mirror_disconnect_tips_1">Conexión perdida</string>
     <string name="pad_mirror_disconnect_tips_2">Asegúrese de que Wi-Fi y Bluetooth estén activados en ambos dispositivos y vuelva a intentarlo.</string>
     <string name="pad_settings_bluetooth_enable_title">Activar Bluetooth</string>
-    <string name="pad_settings_connect_pad_group">Trabaja con tu tableta</string>
+    <string name="pad_settings_connect_pad_group">Trabaja con tu tablet</string>
     <string name="pad_settings_connect_pc_group">Trabaja con tu ordenador</string>
     <string name="pad_settings_handoff_app_summary">Continuar con las tareas en la misma aplicación en el otro dispositivo</string>
     <string name="pad_settings_handoff_app_title">Aplicaciones</string>
@@ -322,6 +322,12 @@ para continuar"</string>
     <string name="sunday">Domingo</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
+    <string name="switch_wlan_action">Conectar</string>
+    <string name="switch_wlan_failed">"No se pudo conectar"</string>
+    <string name="switch_wlan_failed_desc">"No se pudo conectar automáticamente a esta red Wi-Fi. Intenta conectar manualmente en Ajustes."</string>
+    <string name="switch_wlan_success">Conectado</string>
+    <string name="switch_wlan_tips">Conectar a la misma red</string>
+    <string name="switch_wlan_tips_desc">Puedes conectar a la misma red Wi-Fi que el otro dispositivo para una mejor experiencia. ¿Conectar?</string>
     <string name="the_anniversary_of_lifting_martial_law">Aniversario del Levantamiento de la Ley Marcial</string>
     <string name="the_anti_aggression_day">Día de la lucha contra la agresión</string>
     <string name="the_arbor_day">Día del árbol</string>

@@ -77,8 +77,8 @@
         <item quantity="one">Carpeta modificada.</item>
     </plurals>
     <plurals name="conversation_msg_header_count">
-        <item quantity="other">%1$dotras personas</item>
-        <item quantity="one">%1$dotra persona</item>
+        <item quantity="other">%1$d otras personas</item>
+        <item quantity="one">%1$d otra persona</item>
     </plurals>
     <plurals name="conversation_muted">
         <item quantity="other">&lt;b&gt;%1$d&lt;/b&gt; silenciadas</item>

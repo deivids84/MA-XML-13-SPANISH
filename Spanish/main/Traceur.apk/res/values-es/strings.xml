@@ -357,7 +357,7 @@ Selección"</string>
     <string name="inactive_app_active_summary">Activa. Toca para alternar.</string>
     <string name="inactive_app_inactive_summary">Inactiva. Toca para alternar.</string>
     <string name="inactive_apps_title">Aplicaciones en espera</string>
-    <string name="install_other_apps">Instalar aplicaciones desconocidas</string>
+    <string name="install_other_apps">Aplicaciones de origen desconocido</string>
     <string name="item_view_role_description">Pestaña</string>
     <string name="keep_screen_on">Pantalla siempre encendida al cargar</string>
     <string name="keep_screen_on_summary">La pantalla nunca entra en modo de suspensión si el dispositivo se está cargando</string>
@@ -712,7 +712,7 @@ Cualquier usuario puede actualizar las aplicaciones del resto de usuarios."</str
     <string name="user_switch_to_user">Cambiar a %s</string>
     <string name="v7_preference_off">DESACTIVADA</string>
     <string name="v7_preference_on">ACTIVADO</string>
-    <string name="verify_apps_over_usb_summary">Comprobar las aplicaciones instaladas mediante ADB/ADT para detectar comportamientos dañinos</string>
+    <string name="verify_apps_over_usb_summary">Comprueba si una aplicación instalada por ADB/ADT tiene contenido dañino.</string>
     <string name="verify_apps_over_usb_title">Verificar aplicación por USB</string>
     <string name="vpn_settings_not_available">Los ajustes de VPN no están disponibles para este usuario</string>
     <string name="wait_for_debugger">Esperar al depurador</string>

@@ -1066,7 +1066,7 @@ Una vez que se haya enfriado, funcionará con normalidad."</string>
     <string name="input_pin_code">Introduce PIN</string>
     <string name="input_puk_code">Introduce el PUK</string>
     <string name="input_second_pattern_after_restart_msg">Confirme la contraseña del segundo espacio para continuar</string>
-    <string name="install_other_apps">Instalar aplicaciones desconocidas</string>
+    <string name="install_other_apps">Aplicaciones de origen desconocido</string>
     <string name="installer_cd_button_title">Instalar Android File Transfer para Mac</string>
     <string name="instant_apps">Aplicaciones Instantáneas</string>
     <string name="instant_apps_message">La aplicación se ha abierto sin instalarse.</string>
@@ -1322,7 +1322,7 @@ d MMMM"</string>
     <string name="lock_screen_magazine_preview_fullscreen_bottom_button_text">Introducir</string>
     <string name="lock_screen_no_sim_card_emergency_only">Solo llamadas de emergencia</string>
     <string name="lock_screen_no_sim_card_no_service">Sin servicio</string>
-    <string name="lock_screen_signature_msg">Mostrar firma en la Pantalla de bloqueo</string>
+    <string name="lock_screen_signature_msg">Mostrar firma en la pantalla de Bloqueo</string>
     <string name="lock_screen_signature_title">Información del propietario en la Pantalla de bloqueo</string>
     <string name="lockscreen_access_pattern_area">Área del patrón.</string>
     <string name="lockscreen_access_pattern_cell_added">Cuadro añadido</string>
@@ -1394,16 +1394,16 @@ d MMMM"</string>
     <string name="miui_keyboard_shortcut_system_dock">Mostrar base de aplicaciones</string>
     <string name="miui_keyboard_shortcut_system_quickly_recent">Cambiar entre aplicaciones recientes</string>
     <string name="miui_keyguard_ble_unlock_succeed_msg">Desbloqueado por un dispositivo Bluetooth</string>
-    <string name="miui_lock_screen_date">EEEE dd/MM</string>
-    <string name="miui_lock_screen_date_12">EEEE dd/MM</string>
-    <string name="miui_lock_screen_date_two_lines">"EEEE
-dd/MM"</string>
-    <string name="miui_lock_screen_date_two_lines_12">"EEEE
-dd/MM"</string>
+    <string name="miui_lock_screen_date">EEE, dd MMM</string>
+    <string name="miui_lock_screen_date_12">EEE, dd MMM</string>
+    <string name="miui_lock_screen_date_two_lines">"dd MMM
+EEE"</string>
+    <string name="miui_lock_screen_date_two_lines_12">"dd MMM
+EEE"</string>
     <string name="miui_lock_screen_large_date">"EEE
-dd/MM"</string>
+d/M"</string>
     <string name="miui_lock_screen_large_date_12">"EEE
-dd/MM"</string>
+d/M"</string>
     <string name="miui_notification_menu_aggregate_feedback">Comentarios</string>
     <string name="miui_notification_menu_allow">Permitir</string>
     <string name="miui_notification_menu_feedback_success">¡Gracias por tu comentario!</string>
@@ -1834,7 +1834,7 @@ Si tiene preguntas, comuníquese con %2$s."</string>
     <string name="power_remaining_more_than_subtext">Más de %1$s restante (%2$s)</string>
     <string name="power_remaining_only_more_than_subtext">Más de %1$s restante</string>
     <string name="power_suggestion_battery_run_out">La batería podría agotarse a las %1$s</string>
-    <string name="pref_show_lunar_calendar_title">Mostrar el calendario tradicional chino en la Pantalla de bloqueo</string>
+    <string name="pref_show_lunar_calendar_title">Mostrar el calendario tradicional chino en la pantalla de Bloqueo</string>
     <string name="preference_copied">\"%1$s\" se ha copiado en el portapapeles.</string>
     <string name="priority_conversations">Conversaciones prioritarias</string>
     <string name="privacy_dialog_title">Notificaciones sobre acciones sensibles</string>
@@ -1889,7 +1889,7 @@ Si tiene preguntas, comuníquese con %2$s."</string>
     <string name="qs_traffic_message_type_used">Usado %1$s %2$s</string>
     <string name="quick_controls_title">Control de dispositivos</string>
     <string name="quick_settings">Ajustes rápidos</string>
-    <string name="quick_settings_autobrightness_label">Brillo automático</string>
+    <string name="quick_settings_autobrightness_label">Brillo    automático</string>
     <string name="quick_settings_batterysaver_label">Ahorro de batería</string>
     <string name="quick_settings_bluetooth_connected_tip">Conectado a través de Bluetooth</string>
     <string name="quick_settings_bluetooth_detail_empty_text">No hay dispositivos vinculados disponibles</string>
@@ -2002,7 +2002,7 @@ Si tiene preguntas, comuníquese con %2$s."</string>
     <string name="quick_settings_rotation_locked_landscape_label">Horizontal</string>
     <string name="quick_settings_rotation_locked_portrait_label">Vertical</string>
     <string name="quick_settings_rotation_unlocked_label">Girar automáticamente</string>
-    <string name="quick_settings_rotationlock_label">Bloquear orientación</string>
+    <string name="quick_settings_rotationlock_label">Bloquear   orientación</string>
     <string name="quick_settings_rssi_emergency_only">Solo llamadas de emergencia</string>
     <string name="quick_settings_rssi_label">RSSI</string>
     <string name="quick_settings_screen_record_label">Grabar pantalla</string>
@@ -2278,6 +2278,7 @@ d MMM"</string>
     <string name="storage_category">Almacenamiento</string>
     <string name="stream_accessibility">Accesibilidad</string>
     <string name="stream_alarm">Alarma</string>
+    <string name="stream_assistant">Asistente</string>
     <string name="stream_bluetooth_sco">Bluetooth</string>
     <string name="stream_dtmf">Multifrecuencia de tono dual</string>
     <string name="stream_music">Multimedia</string>
@@ -2370,6 +2371,7 @@ Puede calentarse demasiado si:
     <string name="tip_close_flares">"No recibirás notificaciones sobre el comportamiento de la aplicación durante esta sesión"</string>
     <string name="title_convert_fbe">Convirtiendo a encriptación basada en archivos…</string>
     <string name="title_usb_accessory">Accesorio USB</string>
+    <string name="toast_for_first_use_three_gesture">Desliza horizontalmente, con cuatro dedos, para alternar entre aplicaciones</string>
     <string name="today">Hoy</string>
     <string name="tomorrow">Mañana</string>
     <string name="torch_high_temperature_warning">"Tu dispositivo está sobrecalentado. Ahora no se puede usar la linterna."</string>
@@ -2452,7 +2454,7 @@ Puede calentarse demasiado si:
     <string name="upcoming_birthday_status">Cumpleaños pronto</string>
     <string name="upcoming_birthday_status_content_description">"Pronto es el cumpleaños de %1$s"</string>
     <string name="usb_accessory_confirm_prompt">¿Quieres abrir %1$s para utilizar %2$s?</string>
-    <string name="usb_accessory_permission_prompt">¿Permitir que %1$s acceda a %2$s?</string>
+    <string name="usb_accessory_permission_prompt">¿Permitir a %1$s acceder a %2$s?</string>
     <string name="usb_accessory_uri_prompt">Ninguna aplicación instalada funciona con este accesorio USB. Más información: %1$s</string>
     <string name="usb_audio_disable_routing">Desactivar routing audio USB</string>
     <string name="usb_audio_disable_routing_summary">Desactiva el enrutamiento automático para periféricos USB de audio</string>
@@ -2470,7 +2472,7 @@ Recibirás una notificación cuando puedas volver a usarlo."</string>
     <string name="usb_device_confirm_prompt">¿Quieres abrir %1$s para utilizar %2$s?</string>
     <string name="usb_device_confirm_prompt_warn">"¿Quieres abrir %1$s para gestionar %2$s?
 Esta aplicación no tiene permisos para grabar, pero puede capturar audio mediante este dispositivo USB."</string>
-    <string name="usb_device_permission_prompt">¿Permitir que %1$s acceda a %2$s?</string>
+    <string name="usb_device_permission_prompt">¿Permitir a %1$s acceder a %2$s?</string>
     <string name="usb_device_permission_prompt_warn">"¿Quieres que %1$s pueda acceder a %2$s?
 Esta aplicación no tiene permisos para grabar, pero podría captar audio a través de este dispositivo USB."</string>
     <string name="usb_disable_contaminant_detection">Habilitar USB</string>
@@ -2547,7 +2549,7 @@ Cualquier usuario puede actualizar las aplicaciones del resto de usuarios."</str
     <string name="volume_stream_content_description_unmute">%1$s. Toca para activar el sonido.</string>
     <string name="volume_stream_content_description_vibrate">%1$s. Toca para poner el dispositivo en vibración. Los servicios de accesibilidad pueden silenciarse.</string>
     <string name="volume_stream_content_description_vibrate_a11y">%1$s. Toca para activar la vibración.</string>
-    <string name="volume_stream_limited_dnd">%s - Sólo prioridad</string>
+    <string name="volume_stream_limited_dnd">%s — Solo prioridad</string>
     <string name="volume_stream_muted">%s silencioso</string>
     <string name="volume_stream_muted_dnd">%s silencioso - silencio total</string>
     <string name="volume_stream_suppressed">%1$s silencioso - %2$s</string>
@@ -2570,7 +2572,7 @@ Cualquier usuario puede actualizar las aplicaciones del resto de usuarios."</str
     <string name="wallet_title">Wallet</string>
     <string name="wallpaper_global_des_drop_down_notify_text">Suelta para ver los detalles</string>
     <string name="wapi_all_sel_mode">Seleccionar</string>
-    <string name="wapi_auto_sel_cert_fail">No se pueden seleccionar certificados automáticamente. Selecciona un certificado de la lista e intenta conectarte.</string>
+    <string name="wapi_auto_sel_cert_fail">No se puede seleccionar un certificado automáticamente. Selecciona uno de la lista e intenta conectar.</string>
     <string name="wapi_cert_is_not_exist">No hay certificados disponibles. Añade uno primero.</string>
     <string name="wapi_cert_is_not_selected">Selecciona el certificado primero</string>
     <string name="wapi_cert_manage_error">No se pudo establecer certificado WAPI.</string>
@@ -2623,8 +2625,8 @@ Dirección Wi‑Fi (BSSID)
     <string name="wifi_is_off">Wi-Fi desactivado</string>
     <string name="wifi_limited_connection">Conexión limitada</string>
     <string name="wifi_metered_label">Medido</string>
-    <string name="wifi_no_internet">No se puede conectar a internet</string>
-    <string name="wifi_no_internet_no_reconnect">"No se puede conectar a internet"</string>
+    <string name="wifi_no_internet">No hay acceso a Internet</string>
+    <string name="wifi_no_internet_no_reconnect">"No se conecta automáticamente"</string>
     <string name="wifi_not_in_range">Fuera de alcance</string>
     <string name="wifi_passpoint_expired">Expirado</string>
     <string name="wifi_remembered">Guardado</string>

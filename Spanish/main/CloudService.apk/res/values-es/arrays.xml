@@ -55,7 +55,7 @@
     <string-array name="privacy_dialog_finddevice_runtime_perm_desc_new">
         <item>Para localizar el dispositivo y cambiar al modo perdido</item>
         <item>"Para localizar este dispositivo cuando no está conectado a Internet"</item>
-        <item>"Para acceder al número de teléfono para localizar este dispositivo cuando no está conectado a Internet"</item>
+        <item>"Para acceder al número de teléfono y localizar el dispositivo cuando no está conectado a Internet"</item>
     </string-array>
     <string-array name="settings_search_backup_manage">
         <item>Copias de seguridad</item>

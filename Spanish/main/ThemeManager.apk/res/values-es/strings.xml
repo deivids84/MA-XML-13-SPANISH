@@ -99,10 +99,14 @@
     <string name="apply_not_support_aod">"La pantalla siempre encendida no es compatible con este dispositivo"</string>
     <string name="apply_not_support_in_second_space">"No se puede aplicar este elemento en el Segundo espacio"</string>
     <string name="apply_not_support_maml_aod">"No se puede combinar la pantalla siempre activa con temas en este dispositivo"</string>
+    <string name="apply_sensor_video_wallpaper_dialog_message">Este fondo se aplicará a las pantallas de bloqueo interior y exterior y a las pantallas de inicio.</string>
     <string name="apply_succeed">Aplicado</string>
     <string name="apply_success_not_enable_aod">Primero active la pantalla Siempre encendida en la Configuración</string>
     <string name="apply_success_not_support_aod">"No se puede combinar la pantalla Siempre Encendida con los temas en este dispositivo. El resto de componentes de este tema se han aplicado."</string>
     <string name="apply_theme_with_ringtones">Aplicar tema con tonos</string>
+    <string name="apply_wallpaper_after_three_theme">"Estás usando un tema de terceros. Si solo cambias el fondo de pantalla de bloqueo, puede que el estilo de reloj en ella se restaure a la opción por defecto. ¿Aplicar?"</string>
+    <string name="apply_wallpaper_warning_use_aod_and_super_wallpaper">"Estás usando un Superfondo de pantalla. Si seleccionas otro fondo de pantalla, se aplicará tanto a la pantalla de inicio como a la de bloqueo, y la pantalla siempre encendida volverá a su configuración anterior. ¿Aplicar?"</string>
+    <string name="apply_wallpaper_warning_use_super_wallpaper">"Estás usando un Superfondo de pantalla. Si seleccionas otro fondo de pantalla, se aplicará tanto a la pantalla de inicio como a la de bloqueo ¿Aplicar?"</string>
     <string name="apply_warning_get_device_dialog_message">Para poder utilizar el contenido descargado, primero permita que esta función acceda a la ID de su dispositivo. Puede otorgar este permiso en Configuración &gt; Privacidad.</string>
     <string name="apply_warning_tip_get_device_status">Primero permita que esta aplicación acceda a la ID de su dispositivo en la configuración del &gt;</string>
     <string name="audio_duration_minutes_format">%1$d minutos</string>
@@ -385,6 +389,7 @@
     <string name="fold_restore_default_theme_dialog_content">"Los temas no se pueden usar en este dispositivo ahora. Si cambió su tema antes, puede restaurar el tema predeterminado ahora. No podrás volver a cambiar tu tema después de esto."</string>
     <string name="fold_restore_default_theme_dialog_disagree">No, gracias</string>
     <string name="fold_restore_default_theme_dialog_title">Restaurar tema predeterminado</string>
+    <string name="fold_sensor_video_wallpaper_group">Fondos de pantalla dinámicos para dispositivos plegables</string>
     <string name="font_compat_dialog_buy_confirm">Comprar</string>
     <string name="font_compat_dialog_buy_content">Es posible que algunas aplicaciones no admitan fuentes de terceros. Este problema de compatibilidad se solucionará con una próxima actualización del sistema. ¿Comprar esta fuente de todos modos?</string>
     <string name="font_compat_dialog_cancel">Cancelar</string>
@@ -695,8 +700,6 @@ mm"</string>
     <string name="no_net_work_connection">Comprueba los ajustes de red e inténtalo otra vez.</string>
     <string name="no_network_desc">"No se pudo conectar a la red"</string>
     <string name="no_network_please_retry">Comprueba los ajustes de red e inténtalo otra vez</string>
-    <string name="no_used_title">no usado</string>
-    <string name="no_used_wallpaper">no usado</string>
     <string name="no_wallpaper">No hay elementos aquí todavía</string>
     <string name="noon">Mediodía</string>
     <string name="not_allow">No concedido</string>
@@ -744,9 +747,9 @@ Ver y usar los elementos que compró o agregó a favoritos."</string>
     <string name="personalize_wallpaper_sub_title">Super fondos de pantalla e imágenes destacadas</string>
     <string name="personalize_wallpaper_title">Fondo de pantalla</string>
     <string name="personalized_cta_content_text">¡Te damos la bienvenida a Temas! Esta aplicación permite administrar fondos de pantalla, tonos de llamada, fuentes tipográficas y más.</string>
-    <string name="phone_exit_theme_warning_content">"No podrá realizar las siguientes acciones después de cerrar sesión:
-1. Ver y usar los elementos que compró o agregó a favoritos.
-2. Agrega comentarios y me gusta, sigue a otras personas e interactúa con ellas."</string>
+    <string name="phone_exit_theme_warning_content">"No podrás realizar las siguientes acciones después de cerrar la sesión:
+1. Ver y usar los elementos comprados o agregados a favoritos.
+2. Agregar comentarios y \"me gusta\", seguir a otras personas e interactuar con ellas."</string>
     <string name="phone_exit_theme_warning_title">¿Cerrar sesión en Temas?</string>
     <string name="phone_log_in_theme">Iniciar sesión en Temas</string>
     <string name="phone_log_in_theme_detail"><Data>\"He leído y acepto el Acuerdo de usuario &lt;font color=\"#37A5FF\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;&lt;/a&gt;&lt;/font&gt; y &lt;font color=\"#37A5FF\"&gt;&lt;/color&gt;&lt;a href=\"%2$s\"&gt;Política de privacidad&lt;/a&gt;&lt;/font&gt;, así como el Acuerdo de usuario &lt;font color=\"#37A5FF\"&gt;&lt;a href=\"%3$s\"&gt;&lt;/a&gt;&lt;/font&gt;&lt;font color=\"#37A5FF\"&gt; y &lt;a href=\"%4$s\"&gt;Política de privacidad&lt;/a&gt;&lt;/font&gt; (para iniciar sesión usando la cuenta del sistema) \".</Data></string>
@@ -816,15 +819,15 @@ Siempre que utilice los elementos almacenados en este dispositivo para personali
 Siempre que utilice los elementos almacenados en este dispositivo para personalizarlos (por ejemplo, configurarlos como fondos de pantalla o tonos de llamada), le pediremos que permita que esta aplicación acceda al almacenamiento del dispositivo."</string>
     <string name="privacy_phone_logoff_service_content">Cancelar servicios de Temas</string>
     <string name="privacy_phone_logoff_theme_content_3">3. Todos los temas, fondos de pantalla, fondos de pantalla dinámicos, fuentes, iconos y tonos de llamada descargados en este dispositivo.</string>
-    <string name="privacy_phone_logoff_theme_content_4">4. Todos los registros del historial de búsqueda, preferencias de permisos, configuraciones y elementos en caché generados en este dispositivo.</string>
+    <string name="privacy_phone_logoff_theme_content_4">4. Todos los registros del historial de búsqueda, preferencias de permisos, ajustes y elementos en caché generados en el dispositivo.</string>
     <string name="privacy_phone_logoff_theme_service_detail_content_1">"1. Asegúrese de tener derecho a cancelar los servicios antes de continuar.
 2. La cancelación de los servicios de Temas no afectará el uso normal de otros productos Xiaomi.
 3. La cancelación del servicio es una acción irreversible. Haga una copia de seguridad de todos los elementos importantes antes de continuar, ya que podrían eliminarse de forma permanente. Recuerde que no podrá reconsiderar su decisión una vez cancelados los servicios. Los siguientes datos se eliminarán permanentemente o se anonimizarán después de la cancelación del servicio (excepto que las leyes y regulaciones establezcan lo contrario, o lo requieran las autoridades reguladoras):"</string>
-    <string name="privacy_phone_logoff_theme_service_detail_content_2">"Todos los pedidos (incluidos los pedidos pagados) realizados en los dispositivos Xiaomi. Ya no podrá utilizar los artículos que compró.
-Toda la información sobre tus Me gusta, comentarios, valoraciones y seguidores generada en los dispositivos Xiaomi.
-Todos los temas, fondos de pantalla, fondos de pantalla dinámicos, fuentes, iconos y tonos de llamada descargados en este dispositivo.
-Todos los registros del historial de búsqueda, las preferencias de permisos, la configuración y los elementos en caché generados en este dispositivo.
-Todos los elementos de personalización que se utilizan actualmente en este dispositivo. Se restaurarán las preferencias de personalización predeterminadas."</string>
+    <string name="privacy_phone_logoff_theme_service_detail_content_2">"Todos los pedidos (incluidos los pagados) realizados en los dispositivos Xiaomi. Ya no podrás usar los artículos comprados.
+Toda la información de tus \"Me gusta\", comentarios, valoraciones y seguidores generada en los dispositivos Xiaomi.
+Todos los temas, fondos de pantalla normales y dinámicos, fuentes, iconos y tonos de llamada descargados en el dispositivo.
+Todos los registros del historial de búsqueda, preferencias de permisos, ajustes y elementos en caché generados en el dispositivo.
+Todos los elementos de personalización utilizados actualmente en el dispositivo. Se restaurarán los ajustes predeterminados."</string>
     <string name="privacy_phone_logoff_theme_service_detail_content_3">4. La cancelación del servicio no implica exención o mitigación de las responsabilidades derivadas de las acciones realizadas antes de la cancelación de los servicios.</string>
     <string name="privacy_phone_logoff_theme_service_detail_prompt">Declaración sobre la cancelación de servicios de temas</string>
     <string name="privacy_phone_logoff_theme_service_detail_title">Lea y acepte la \"Declaración sobre la cancelación de servicios de temas\" antes de cancelar nuestros servicios.</string>
@@ -834,15 +837,15 @@ Todos los elementos de personalización que se utilizan actualmente en este disp
     <string name="privacy_phone_read_theme_logoff_privacy_policy"><Data>\"He leído y acepto la declaración \"&lt;font color=\"#8E92B0\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;sobre la cancelación de los servicios de temas&lt;/a&gt;&lt;/font&gt;\".\"</Data></string>
     <string name="privacy_phone_read_theme_privacy_policy"><Data>\"He leído y acepto la declaración \"&lt;font color=\"#8E92B0\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;sobre la retirada del consentimiento a la política de privacidad de los temas&lt;/a&gt;&lt;/font&gt;\".</Data></string>
     <string name="privacy_phone_revoke_agree_content_3">3. Todos los temas, fondos de pantalla, fondos de pantalla dinámicos, fuentes, iconos y tonos de llamada descargados en este dispositivo.</string>
-    <string name="privacy_phone_revoke_agree_content_4">4. Todos los registros de historial de búsqueda, preferencias de permisos, ajustes y elementos en caché generados en este dispositivo.</string>
+    <string name="privacy_phone_revoke_agree_content_4">4. Todos los registros del historial de búsqueda, preferencias de permisos, ajustes y elementos en caché generados en el dispositivo.</string>
     <string name="privacy_phone_revoke_agree_detail_content_1">"1. Asegúrate de tener derecho a retirar el consentimiento antes de continuar.
 2. Su retirada del consentimiento a la Política de Privacidad de los Temas no afectará al uso normal de otros productos Xiaomi.
 3. La retirada del consentimiento es una acción irreversible. Copia todos los elementos importantes antes de continuar, ya que podrían ser eliminados permanentemente. Recuerde que no podrá reconsiderar su decisión una vez que se retire su consentimiento. Los siguientes datos serán eliminados permanentemente o anonimizados después de la retirada del consentimiento (excepto en caso contrario proporcionados por las leyes y reglamentos, o de otra forma requerida por las autoridades reguladoras):"</string>
-    <string name="privacy_phone_revoke_agree_detail_content_2">"Todos los pedidos (incluidos los pedidos pagados) realizados en los dispositivos Xiaomi en los que utilizó su Mi Cuenta. Ya no podrá utilizar los artículos que compró.
-Toda la información sobre tus Me gusta, comentarios, valoraciones y seguidores generada en los dispositivos Xiaomi donde usaste tu Mi Cuenta.
-Todos los temas, fondos de pantalla, fondos de pantalla dinámicos, fuentes, iconos y tonos de llamada descargados en este dispositivo.
-Todos los registros del historial de búsqueda, las preferencias de permisos, la configuración y los elementos en caché generados en este dispositivo.
-Todos los elementos de personalización que se utilizan actualmente en este dispositivo. Se restaurarán las preferencias de personalización predeterminadas."</string>
+    <string name="privacy_phone_revoke_agree_detail_content_2">"Todos los pedidos (incluidos los pagados) realizados en dispositivos con tu cuenta Xiaomi. Ya no podrás usar los artículos comprados.
+Toda la información de tus \"Me gusta\", comentarios, valoraciones y seguidores generada en los dispositivos Xiaomi.
+Todos los temas, fondos de pantalla normales y dinámicos, fuentes, iconos y tonos de llamada descargados en el dispositivo.
+Todos los registros del historial de búsqueda, preferencias de permisos, ajustes y elementos en caché generados en el dispositivo.
+Todos los elementos de personalización utilizados actualmente en el dispositivo. Se restaurarán los ajustes predeterminados."</string>
     <string name="privacy_phone_revoke_agree_detail_content_3">"4. Después de que retire su consentimiento a la política de privacidad de Temas, dejaremos de recopilar su información personal. La información personal ya recopilada y retenida se eliminará dentro del período específico de acuerdo con las leyes y regulaciones aplicables a menos que se requiera lo contrario. 
 5. La retirada del consentimiento no implica exención o mitigación de las responsabilidades derivadas de las acciones realizadas antes de la retirada del consentimiento."</string>
     <string name="privacy_phone_revoke_agree_detail_prompt">Declaración sobre la revocación del consentimiento a la política de privacidad de los temas</string>
@@ -1388,7 +1391,7 @@ Puede otorgar este permiso en Configuración &gt; Privacidad."</string>
     <string name="transparent_wallpaper">Fondo transparente</string>
     <string name="transparent_wallpaper_apply_success">"Establecido. Puedes desactivar esto en Temas &gt; Perfil &gt; Características beta."</string>
     <string name="transparent_wallpaper_auto_start_pref_summary">Siga usando fondos de pantalla transparentes después de reiniciar su dispositivo</string>
-    <string name="transparent_wallpaper_auto_start_pref_title">Autoencendido</string>
+    <string name="transparent_wallpaper_auto_start_pref_title">Inicio automático</string>
     <string name="transparent_wallpaper_disable">Desactivado</string>
     <string name="transparent_wallpaper_enable">Activado</string>
     <string name="transparent_wallpaper_enable_success">Activado correctamente</string>
@@ -1543,8 +1546,8 @@ Puede otorgar este permiso en Configuración &gt; Privacidad."</string>
     <string name="wifi_check_message">¿Usar datos móviles para descargar actualizaciones?</string>
     <string name="wifi_check_tip">"No volver a mostrar"</string>
     <string name="xiaoai_speech_not_installed_download">Descargas</string>
-    <string name="xiaoai_speech_not_installed_message">Descargar e instalar el asistente de voz Mi AI para continuar.</string>
-    <string name="xiaoai_speech_not_installed_title">"El asistente de voz Mi AI no está instalado."</string>
+    <string name="xiaoai_speech_not_installed_message">Descarga e instala el asistente de voz IA de Mi para continuar.</string>
+    <string name="xiaoai_speech_not_installed_title">"El asistente de voz IA de Mi no está instalado."</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Ahora no</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Actualizar</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Hay una actualización disponible</string>

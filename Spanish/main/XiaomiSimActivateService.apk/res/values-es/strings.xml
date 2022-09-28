@@ -120,8 +120,8 @@ Escribe el número de teléfono asociado con tu nueva SIM para reactivar %s."</s
     <string name="error_network_io_tip">Comprueba los ajustes de red e inténtalo otra vez</string>
     <string name="error_no_get_send_sms_permission">Permite que la SIM %d envíe SMS primero.</string>
     <string name="error_no_get_send_sms_permission_one_sim">Permitir enviar SMS primero.</string>
-    <string name="error_sim_not_in_service_tip">"La SIM %d no se puede conectar con la red. Asegúrate de que la tarjeta SIM funcione correctamente y vuelve a intentarlo."</string>
-    <string name="error_sim_not_in_service_tip_one_sim">"No se puede conectar a la red. Asegúrese de que su tarjeta SIM funciona correctamente y vuelva a intentarlo."</string>
+    <string name="error_sim_not_in_service_tip">"La SIM %d no puede conectar a la red. Comprueba que la tarjeta funciona correctamente e inténtalo otra vez."</string>
+    <string name="error_sim_not_in_service_tip_one_sim">"No se puede conectar a la red. Comprueba que la SIM funciona correctamente e inténtalo otra vez."</string>
     <string name="evening">Tarde</string>
     <string name="explain_activate_register_xiaomi_account_title">Crear cuenta Xiaomi</string>
     <string name="explain_activate_send_sms_permission_msg">Para activar %s, tu dispositivo necesita permisos para enviar SMS de activación. Tu operador te cobrará por este mensaje.</string>

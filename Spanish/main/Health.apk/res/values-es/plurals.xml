@@ -25,8 +25,8 @@
         <item quantity="other">Inmediatamente</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">en %d min</item>
-        <item quantity="one">en 1 min</item>
+        <item quantity="other">en %d minutos</item>
+        <item quantity="one">en 1 minuto</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="one">Ahora mismo</item>
@@ -301,8 +301,8 @@
         <item quantity="one">%1$.2f hr</item>
     </plurals>
     <plurals name="time_duration_hour_int">
-        <item quantity="other">%d hrs</item>
-        <item quantity="one">%d hr</item>
+        <item quantity="other">%d horas</item>
+        <item quantity="one">%d hora</item>
     </plurals>
     <plurals name="time_duration_hour_standard">
         <item quantity="other">%1$.1f-%2$.1f hours</item>

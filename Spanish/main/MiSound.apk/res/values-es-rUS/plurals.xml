@@ -72,4 +72,8 @@
         <item quantity="other">Hace %d minutos</item>
         <item quantity="one">Hace 1 minuto</item>
     </plurals>
+    <plurals name="rename_error_longer_effect_name">
+        <item quantity="other">Puedes escribir hasta %d caracteres aquí</item>
+        <item quantity="one">Puedes escribir %d carácter aquí</item>
+    </plurals>
 </resources>

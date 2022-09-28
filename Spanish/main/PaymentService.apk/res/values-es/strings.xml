@@ -139,7 +139,7 @@ Remite este código al supervisor."</string>
     <string name="mibi_auth_manage_access_camera">Acceder a la cámara</string>
     <string name="mibi_auth_manage_desc_camera">Cuando usa una tarjeta de recarga de teléfono móvil para recargar MiCoin, puede usar el permiso de la cámara para identificar el número de la tarjeta y el secreto de la tarjeta, etc., activando el permiso de la cámara.</string>
     <string name="mibi_auth_manage_perm_grant">Concedido</string>
-    <string name="mibi_auth_manage_perm_ungrant">Encender</string>
+    <string name="mibi_auth_manage_perm_ungrant">Activar</string>
     <string name="mibi_balance_payment_title">Mi moneda</string>
     <string name="mibi_balance_title">Monedas Mi disponibles</string>
     <string name="mibi_bill_delete_dialog_title">Eliminar %1$s</string>
@@ -375,8 +375,8 @@ Compruebe su fecha local y vuelva a intentarlo."</string>
     <string name="mibi_paytool_msp_not_installed">No ha instalado el complemento de seguridad móvil %1$s , ¿instalarlo ahora?</string>
     <string name="mibi_paytool_paypal">Paypal</string>
     <string name="mibi_paytool_wechat_return_cancel">Cancelar devolución de WeChat</string>
-    <string name="mibi_permanently_denied_perm_camera">Permitir que la cámara en Configuración use las funciones.</string>
-    <string name="mibi_permanently_denied_perm_send_sms">Permita enviar mensajes SMS en Configuración para usar las funciones.</string>
+    <string name="mibi_permanently_denied_perm_camera">Permite que la cámara use las funciones, en Ajustes.</string>
+    <string name="mibi_permanently_denied_perm_send_sms">Permite enviar mensajes SMS para usar las funciones, en Ajustes.</string>
     <string name="mibi_permission_des_camera">Se utiliza para OCR para identificar el número de la tarjeta de recarga del teléfono móvil, etc.</string>
     <string name="mibi_prepaid_card_hint">Todas las recargas son recargas únicas, y el valor nominal seleccionado debe coincidir con la tarjeta de recarga. Una selección incorrecta resultará en la pérdida de fondos.</string>
     <string name="mibi_prepaid_card_hint_input_card_num">Por favor ingrese el número de tarjeta</string>
@@ -565,7 +565,7 @@ Debido a que la prestación de los servicios de MiCoin se basa en la recopilaci�
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Suelte para actualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Eso es todo por ahora"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">"Eso es todo por ahora"</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Sólo un segundo…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Un momento…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"No se pudieron cargar los elementos"</string>
     <string name="monday">Lunes</string>
     <string name="monday_short">Lun</string>

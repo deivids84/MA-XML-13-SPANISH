@@ -66,7 +66,7 @@
     <string name="app_clean_group_document_send">Archivos enviados</string>
     <string name="app_clean_group_image_recv">Imágenes recibidas</string>
     <string name="app_clean_group_image_send">Imágenes enviadas</string>
-    <string name="app_description_content">Limpiador encuentra basura en tu dispositivo y libera espacio de almacenamiento. Asegúrate de de no necesitar estas funciones antes de desinstalar la app.</string>
+    <string name="app_description_content">Limpiador encuentra basura en el dispositivo y libera espacio de almacenamiento. Asegúrate de no necesitar estas funciones antes de desinstalar la aplicación.</string>
     <string name="app_description_title">Acerca del Limpiador</string>
     <string name="app_usage_never">No usado recientemente</string>
     <string name="app_usage_recently">Usado recientemente</string>
@@ -602,7 +602,7 @@
     <string name="notification_checker_picture_text_b">Borrar %s de imágenes en caché</string>
     <string name="notification_garbage_clean_botton_text">Limpiar</string>
     <string name="notification_garbage_clean_botton_text_new">Limpiar</string>
-    <string name="notification_garbage_clean_hint">Libera espacio de almacenamiento</string>
+    <string name="notification_garbage_clean_hint">Liberar espacio de almacenamiento</string>
     <string name="notification_garbage_clean_hint_new">Deja volar tu dispositivo</string>
     <string name="notification_garbage_clean_size">Libera %s</string>
     <string name="notification_garbage_clean_size_found">"Hay %s de basura"</string>
@@ -625,7 +625,7 @@
     <string name="notification_low_storage_size_1.5_GB_hint">Libera espacio para acelerar tu dispositivo</string>
     <string name="notification_low_storage_size_1_GB">Quedan menos de %d GB de espacio</string>
     <string name="notification_low_storage_size_1_GB_hint">Una limpieza profunda puede ayudar</string>
-    <string name="notification_low_storage_size_1_gb_hint">Libera espacio de almacenamiento para acelerar tu dispositivo</string>
+    <string name="notification_low_storage_size_1_gb_hint">Libera espacio de almacenamiento para acelerar el dispositivo</string>
     <string name="notification_low_storage_size_1p5_gb_hint">Limpia la basura para acelerar tu dispositivo</string>
     <string name="notification_memory_clean_button_text">Acelerar</string>
     <string name="notification_memory_clean_hint">Pulsa para aumentar la velocidad</string>
@@ -860,7 +860,7 @@
     <string name="tips_of_package_set">Configura tu plan de datos y controla la cantidad de tráfico generado</string>
     <string name="tips_of_traffic_notification">Ver las estadísticas de datos en la ventana de notificaciones</string>
     <string name="tips_of_traffic_pack_threshold">"Comprar más datos cuando alcances el límite de datos mensuales"</string>
-    <string name="tips_of_virus_scan">Escanear el dispositivo regularmente en busca de virus para mantener la seguridad</string>
+    <string name="tips_of_virus_scan">Escanear el dispositivo en busca de virus para mantener la seguridad</string>
     <string name="title_auto_cleaner">Recordar limpiar</string>
     <string name="title_delete_cache">Limpiar caché de aplicaciones</string>
     <string name="title_delete_clipboard">Contenido del portapapeles</string>

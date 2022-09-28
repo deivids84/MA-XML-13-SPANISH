@@ -5,7 +5,7 @@
     <string name="abc_action_menu_overflow_description">Más opciones</string>
     <string name="abc_action_mode_done">Listo</string>
     <string name="abc_activity_chooser_view_see_all">Ver todo</string>
-    <string name="abc_activitychooserview_choose_application">Seleccionar una aplicación</string>
+    <string name="abc_activitychooserview_choose_application">Elige una aplicación</string>
     <string name="abc_capital_off">DESACTIVADO</string>
     <string name="abc_capital_on">ACTIVADO</string>
     <string name="abc_menu_alt_shortcut_label">Alt +</string>
@@ -106,7 +106,7 @@
     <string name="ai_album_open_switch_button_title">Iniciar análisis de fotos</string>
     <string name="ai_album_requesting_title">El algoritmo de AI todavía está analizando tus fotos. Regresa más tarde.</string>
     <string name="ai_album_setting_key_word">Buscar fotos</string>
-    <string name="ai_album_setting_sub_title">Permitir al algoritmo de AI identificar personas, lugares y objetos en sus fotos para que puedas encontrarlas más rápido.</string>
+    <string name="ai_album_setting_sub_title">Permite al algoritmo IA identificar personas, lugares y objetos en las fotos para encontrarlas más rápido.</string>
     <string name="ai_album_setting_title">Identificar objetos en fotos</string>
     <string name="album_ai_description">Personas, lugares, objetos</string>
     <string name="album_ai_international_description">Personas</string>
@@ -241,7 +241,7 @@ Conecta el cargador y apaga la pantalla para que aparezcan los recuerdos."</stri
     <string name="assistant_today_of_year_function_closed_tip">Activar</string>
     <string name="assistant_today_of_year_function_no_address_tip">Tiempo atrás</string>
     <string name="assistant_today_of_year_function_no_photo_tip">Comenzar</string>
-    <string name="associate_face_album">Seleccionar un álbum</string>
+    <string name="associate_face_album">Elige un álbum</string>
     <string name="authorize_to_device_failed">"No se pudo autorizar"</string>
     <string name="authorize_watch_on_tv_failed">"No se pudo autorizar para ver en la TV"</string>
     <string name="auto_backup_introduce">Sincroniza fotos y videos automáticamente (se requiere una cuenta Xiaomi)</string>
@@ -261,7 +261,6 @@ Conecta el cargador y apaga la pantalla para que aparezcan los recuerdos."</stri
     <string name="baby_album_change_background">Cambiar la imagen de fondo de pantalla</string>
     <string name="baby_album_needs_auto_backup_tip">"No se puede desactivar la sincronización automática para el álbum del bebé"</string>
     <string name="baby_album_new_photo_remind">Hay nuevas fotos en su álbum del bebé.</string>
-    <string name="baby_album_setting_title">Información del bebé</string>
     <string name="baby_album_settings">Ajustes del Álbum del bebé</string>
     <string name="baby_album_sharer_accept_dialog_msg">"Querido/a %2$s de %1$s,
 El/La %4$s de %3$s ha compartido el álbum de %5$s"</string>
@@ -278,7 +277,6 @@ El/La %4$s de %3$s ha compartido el álbum de %5$s"</string>
     <string name="baby_name_cannot_start_with">"El nombre no puede empezar con '%s'"</string>
     <string name="baby_name_contain_invalidate_char">"El nombre no puede contener '%s'"</string>
     <string name="baby_name_reserved">Este nombre está reservado para otro álbum</string>
-    <string name="baby_nick_name">Apodo</string>
     <string name="baby_sexy">Género</string>
     <string name="baby_suffix">bebé</string>
     <string name="back">Atrás</string>
@@ -362,7 +360,6 @@ El/La %4$s de %3$s ha compartido el álbum de %5$s"</string>
     <string name="by_email">Correo electrónico</string>
     <string name="by_others">Otros</string>
     <string name="camera_needs_auto_backup_tip">El álbum de la cámara debe ser sincronizado</string>
-    <string name="can_authorize_owner_albums_share_to_tv">Autoriza la visualización de álbumes en tu televisor</string>
     <string name="can_not_transfer_when_screening">"No se puede emitir durante las transferencias"</string>
     <string name="cancel">Cancelar</string>
     <string name="cancel_authorize_to_device_failed">"No se pudo cancelar la autorización"</string>
@@ -564,7 +561,7 @@ El/La %4$s de %3$s ha compartido el álbum de %5$s"</string>
     <string name="confirm_download_video_title">Descargar vídeo</string>
     <string name="confirm_face">Confirmar</string>
     <string name="confirm_hidden_recommend_group">OK</string>
-    <string name="confirm_hidden_recommend_group_message">Cuando las recomendaciones estén desactivadas, puede utilizar la opción \"Más personas que se parecen\"</string>
+    <string name="confirm_hidden_recommend_group_message">Cuando las recomendaciones estén desactivadas, aún puedes usar la opción \"Más personas que se parecen\"</string>
     <string name="confirm_hidden_recommend_group_title">"No mostrar recomendaciones"</string>
     <string name="confirm_hide_selected_albums">¿Ocultar álbumes seleccionados?</string>
     <string name="confirm_merge_face_albums">"&lt;Data&gt; ¿Combinar este álbum con %s? &lt;/Data&gt;"</string>
@@ -821,16 +818,16 @@ El/La %4$s de %3$s ha compartido el álbum de %5$s"</string>
 ¡Haz más fotos de tus amigos!"</string>
     <string name="face_album_empty_syncing">Sincronizando datos, vuelve en un rato</string>
     <string name="face_album_empty_syncing_when_connect_wifi">Conectar a la red para sincronizar información</string>
-    <string name="face_album_long_tap_tip">Para seleccionar varias personas o cambiar los ajustes de grupo, mantén pulsado una foto de perfil</string>
+    <string name="face_album_long_tap_tip">Para seleccionar varias personas o cambiar los ajustes de grupo, mantén pulsada una foto de perfil</string>
     <string name="face_album_new_name_hint">Nuevo nombre</string>
     <string name="face_album_not_named">Sin nombre</string>
     <string name="face_album_rename_hint">Introducir nombre</string>
     <string name="face_album_title">Fotos con %s</string>
     <string name="face_album_use_tip">Ordenar fotos automáticamente según las personas que aparecen en ellas.</string>
     <string name="face_albumset_loading_data">Cargando datos…</string>
-    <string name="face_choose_tip">Seleccionar de un álbum existente</string>
+    <string name="face_choose_tip">Elige en el álbum existente</string>
     <string name="face_confirm">Esta es la misma persona</string>
-    <string name="face_move_dialog_title">Seleccionar un álbum</string>
+    <string name="face_move_dialog_title">Elige un álbum</string>
     <string name="face_name_edit">Editar</string>
     <string name="face_name_input">Introducir nombre</string>
     <string name="face_recommend">Recomendaciones</string>
@@ -1092,7 +1089,7 @@ disponibles"</string>
     <string name="grant_permission_go_and_set_3">Ajustes</string>
     <string name="grant_permission_manage_storage">Permisos necesarios</string>
     <string name="grant_permission_manage_storage_unlock">Desbloquea tu dispositivo y permite que esta aplicación acceda a todos los archivos para poder ver los elementos.</string>
-    <string name="grant_permission_shortcut">Primero permita que esta aplicación cree accesos directos a la pantalla de inicio.</string>
+    <string name="grant_permission_shortcut">Primero permita que esta aplicación cree accesos directos a la pantalla de Inicio.</string>
     <string name="grant_permission_storage">Permita que esta aplicación acceda al almacenamiento primero.</string>
     <string name="grant_permission_storage_unlock">Desbloquee su dispositivo y permita que esta aplicación acceda al almacenamiento primero.</string>
     <string name="grant_permission_text">"La Galería necesita acceso a 
@@ -1177,7 +1174,6 @@ disponibles"</string>
     <string name="impunity_declaration_summary">Mostrar notificación de conexión a Internet la próxima vez que abra la Galería</string>
     <string name="initializing_cloud">Inicializando…</string>
     <string name="input_a_name">Introducir nombre</string>
-    <string name="input_baby_name">Introduce nombre</string>
     <string name="input_baby_nick_name">Escribe el apodo</string>
     <string name="input_nickname_toast">"Introduce nombre del bebé"</string>
     <string name="input_or_select_a_name">Introduce o selecciona un nombre</string>
@@ -1295,7 +1291,7 @@ disponibles"</string>
     <string name="magic_idp_guide_text2">Select a solid-color background.</string>
     <string name="magic_idp_guide_text3">Make sure your face is evenly lit.</string>
     <string name="magic_idp_guide_text4">Wear simple clothes and avoid accessories.</string>
-    <string name="magic_idp_guide_text5">"Don't let the hair obstruct your face, show your ears, and look straight into the camera."</string>
+    <string name="magic_idp_guide_text5">"No dejes que el cabello obstruya tu rostro, muestra tus orejas y mira a la cámara directamente."</string>
     <string name="magic_idp_save_type">Guardar resultados</string>
     <string name="magic_idp_search_size">Buscar formatos</string>
     <string name="magic_idp_search_text">Introduce palabras clave, tamaño o resolución</string>
@@ -1366,8 +1362,8 @@ disponibles"</string>
     <string name="map_guide_message">Vea sus fotos y videos en el mapa</string>
     <string name="map_location">Mover a la ubicación actual</string>
     <string name="map_positioning_failed_tip">"No se puede obtener información de ubicación debido a una señal débil"</string>
-    <string name="map_privacy_dialog_content"><Data>Este servicio le permite ver fotos y videos con información de ubicación en un mapa. Usamos Baidu Map Open SDK para brindarle este servicio. Lea y acepte &lt;a href=\"%1$s\"&gt;Declaración de intercambio de datos de terceros de Gallery Map&lt;/a&gt; antes de continuar.</Data></string>
-    <string name="map_privacy_dialog_message"><Data>Este servicio le permite ver fotos y videos con información de ubicación en un mapa. Usamos Baidu Map Open SDK para brindarle este servicio. Lea &lt;a href=\"%1$s\"&gt;Política de privacidad de Baidu Map para productos y servicios de plataforma abierta&lt;/a&gt; para obtener más información.</Data></string>
+    <string name="map_privacy_dialog_content"><Data>Este servicio permite ver fotos y videos con información de ubicación en un mapa. Usamos Baidu Map Open SDK para brindarte este servicio. Lee y acepta &lt;a href=\"%1$s\"&gt;Declaración de intercambio de datos de terceros de Gallery Map&lt;/a&gt; antes de continuar.</Data></string>
+    <string name="map_privacy_dialog_message"><Data>Este servicio permite ver fotos y videos con información de ubicación en un mapa. Usamos Baidu Map Open SDK para brindarte este servicio. Lee &lt;a href=\"%1$s\"&gt;Política de privacidad de Baidu Map para productos y servicios de plataforma abierta&lt;/a&gt; para más información.</Data></string>
     <string name="map_privacy_dialog_title">Mapa de la galería</string>
     <string name="map_privacy_policy">Política de privacidad del mapa de la galería</string>
     <string name="map_privacy_policy_1">Política de privacidad</string>
@@ -1378,7 +1374,7 @@ para personalizar la Galería"</string>
     <string name="mark_operation_failed">"No se pudo añadir"</string>
     <string name="mark_operation_processing">Procesando…</string>
     <string name="mark_operation_succeeded">Añadido correctamente</string>
-    <string name="mark_people_ignore_info_message">Mantén presionadas las fotos de personas para agregarlas a grupos</string>
+    <string name="mark_people_ignore_info_message">Mantén pulsadas las fotos de personas para añadirlas a los grupos</string>
     <string name="media_type_burst_photo">Estallar</string>
     <string name="media_type_clone_photo">Clones</string>
     <string name="media_type_doc_photo">Documentos</string>
@@ -1587,7 +1583,7 @@ para personalizar la Galería"</string>
     <string name="need_to_turn_on_sync_first">Activa primero la sincronización con la nube</string>
     <string name="need_to_turn_on_wlan">Primero conéctate a una red Wi-Fi</string>
     <string name="network_connected_rescan">"No se puede conectar a la red"</string>
-    <string name="network_message">"Esta función necesita conectarse a la red para funcionar con normalidad. Parece que este dispositivo no está conectado al Wi-Fi. ¿Usar datos móviles para continuar? El uso de datos móviles puede generar cargos adicionales del operador."</string>
+    <string name="network_message">"Esta función necesita conexión a la red para funcionar normalmente. Parece que el dispositivo no está conectado a Wi-Fi. El uso de datos móviles puede generar cargos adicionales del operador. ¿Continuar con datos móviles?"</string>
     <string name="network_title">Conectar a la red</string>
     <string name="new_album_invalid_byte">Este nombre es demasiado largo</string>
     <string name="new_album_invalid_char">"Los nombres no pueden contener \"%s\", Introduce una letra o número."</string>
@@ -1615,7 +1611,7 @@ para personalizar la Galería"</string>
     <string name="ocr_abnormal_pic_format">"No se pudo reconocer el texto. Este formato de imagen no es compatible."</string>
     <string name="ocr_abnormal_pic_too_large">"No se pudo reconocer el texto. Esta imagen es demasido grande."</string>
     <string name="ocr_abnormal_pic_too_long">"No se pudo reconocer el texto. Esta imagen es demasido larga."</string>
-    <string name="ocr_aiasst_version">Primero actualiza Mi AI</string>
+    <string name="ocr_aiasst_version">Primero actualiza la IA de Mi</string>
     <string name="ocr_cancelled">Reconocimiento de texto cancelado</string>
     <string name="ocr_copy">Copiar</string>
     <string name="ocr_entrance">Reconocer texto</string>
@@ -1644,7 +1640,7 @@ para personalizar la Galería"</string>
     <string name="onekey_food">Comida</string>
     <string name="onekey_none">Original</string>
     <string name="onekey_portrait">Retrato</string>
-    <string name="onekey_scene">Paisaje</string>
+    <string name="onekey_scene">Horizontal</string>
     <string name="online_video_error_unknown">Se produjo un error en la reproducción online. Se descargó el elemento en su lugar.</string>
     <string name="online_video_error_unsupported_type">"El reproductor online no soporta este formato. Se descargó el elemento en su lugar."</string>
     <string name="online_video_normal_transcoding">"El reproductor online todavía no está listo. Se descargó el elemento en su lugar."</string>
@@ -1736,6 +1732,7 @@ La transcodificación puede llevar algo de tiempo cuando utilizas esta función 
     <string name="people_mark_mode_title">Seleccionar \"%s\"</string>
     <string name="people_mark_mode_title_no_mark_name">Seleccionar una persona</string>
     <string name="people_page_label">Personas</string>
+    <string name="people_page_photo">Miniatura de una persona</string>
     <string name="people_page_unname">Sin nombre</string>
     <string name="permission_account_desc">Para iniciar sesión y administrar la cuenta del sistema</string>
     <string name="permission_account_name">Cuentas de acceso</string>
@@ -1915,7 +1912,7 @@ La transcodificación puede llevar algo de tiempo cuando utilizas esta función 
     <string name="pic_to_pdf_not_support_video">"Los vídeos no pueden ser guardados como PDF"</string>
     <string name="pic_to_pdf_preview_loading">Cargando vista previa…</string>
     <string name="pic_to_pdf_saved_in_fileexplorer">Guardado. Ver el elemento en el Gestor de archivos.</string>
-    <string name="pick_from_contact">Seleccionar desde contactos</string>
+    <string name="pick_from_contact">Elige desde contactos</string>
     <string name="pick_people_cover_fail">Ha ocurrido un error. Vuelve a intentarlo.</string>
     <string name="pick_people_cover_page_title">Seleccionar foto de portada</string>
     <string name="pick_people_cover_processing">Un momento…</string>
@@ -1934,10 +1931,10 @@ La transcodificación puede llevar algo de tiempo cuando utilizas esta función 
     <string name="picker_origin_need_download">"%1$d de las fotos seleccionadas (%2$d MB) no se encuentran en el dispositivo. ¿Deseas descargarlas usando datos móviles?"</string>
     <string name="picker_origin_request_progress_fail">"No se pudo descargar la imagen original debido a un error de red."</string>
     <string name="picker_origin_request_progress_message">Preparando archivos originales (%1$d/%2$d)…</string>
-    <string name="picker_title_format">Seleccionar %1$d para %2$d fotos</string>
-    <string name="picker_title_format_video">Seleccionar vídeos (%1$d)</string>
+    <string name="picker_title_format">Selecciona %1$d a %2$d fotos</string>
+    <string name="picker_title_format_video">Selecciona vídeos (%1$d)</string>
     <string name="picker_title_selection_format">Fotos seleccionadas: %d</string>
-    <string name="picker_title_selection_format_multiple">Seleccionar %1$d a %2$d fotos (%3$d)</string>
+    <string name="picker_title_selection_format_multiple">Selecciona %1$d a %2$d fotos (%3$d)</string>
     <string name="picker_title_specify_format">Selecciona %d fotos</string>
     <string name="picker_title_specify_format_one">Selecciona %d foto</string>
     <string name="picker_title_unlimit">Seleccionar fotos</string>
@@ -1962,7 +1959,7 @@ La transcodificación puede llevar algo de tiempo cuando utilizas esta función 
     <string name="privacy_detail_map">Ver Política de Privacidad del Mapa de Galería</string>
     <string name="privacy_entrance">Privacidad</string>
     <string name="privacy_map">Mapa de la galería</string>
-    <string name="privacy_map_detail"><Data>Este servicio le permite ver fotos y videos con información de ubicación en un mapa. Usamos Baidu Map Open SDK para brindarle este servicio. Lea y acepte &lt;a href=\"%1$s\"&gt;Política de privacidad de Baidu Map para productos y servicios de plataforma abierta&lt;/a&gt; antes de continuar.</Data></string>
+    <string name="privacy_map_detail"><Data>Este servicio permite ver fotos y videos con información de ubicación en un mapa. Usamos Baidu Map Open SDK para brindarte este servicio. Lee y acepta &lt;a href=\"%1$s\"&gt;Política de privacidad de Baidu Map para productos y servicios de plataforma abierta&lt;/a&gt; antes de continuar.</Data></string>
     <string name="privacy_map_detail_content">Política de privacidad de Baidu Map para productos y servicios de plataforma abierta</string>
     <string name="privacy_map_detail_content_new">Declaración de uso compartido de datos de terceros del mapa de la galería</string>
     <string name="privacy_permission">Permisos</string>
@@ -1984,7 +1981,7 @@ La transcodificación puede llevar algo de tiempo cuando utilizas esta función 
     <string name="privacy_permission_request_positive">Permitir</string>
     <string name="privacy_permission_request_title">Permisos requeridos</string>
     <string name="privacy_permission_shotcut">Acceso directo a la pantalla de inicio</string>
-    <string name="privacy_permission_shotcut_detail">Para crear accesos directos a la pantalla de inicio</string>
+    <string name="privacy_permission_shotcut_detail">Para crear accesos directos en la pantalla de Inicio</string>
     <string name="privacy_permission_storage">Almacenamiento</string>
     <string name="privacy_permission_storage_detail">Para almacenar fotos y videos</string>
     <string name="privacy_reject_map_detail_new"><Data>\"Su retirada de consentimiento a &lt;a href=\"%1$s\"&gt;Declaración de uso compartido de datos de terceros de Gallery Map&lt;/a&gt; se considerará que se niega a aceptar los servicios de Gallery Map. Aún podrá utilizar otras funciones de la Galería normalmente. ¿Retirar el consentimiento ahora?\"</Data></string>
@@ -2022,7 +2019,7 @@ La transcodificación puede llevar algo de tiempo cuando utilizas esta función 
     <string name="recommanded_face_abandon_tip">Eliminado de sugerencias</string>
     <string name="recommanded_face_added_tip">Añadido a \"%s\"</string>
     <string name="recommend_category_title">"Selecciones de la galería"</string>
-    <string name="recommend_page_label">Recomendado</string>
+    <string name="recommend_page_label">Extras</string>
     <string name="recovery_merge">Combinar</string>
     <string name="recovery_merge_or_rename">Combinar álbumes</string>
     <string name="recovery_merge_or_rename_message">"Ya existe un álbum con este nombre. ¿Combinar ahora?"</string>
@@ -2100,6 +2097,7 @@ La transcodificación puede llevar algo de tiempo cuando utilizas esta función 
     <string name="scan_barcode_guide">"Para obtener el código QR de este álbum, pulsa en el icono de Compartir."</string>
     <string name="scan_barcode_to_join">Escanea el código QR para añadir álbum</string>
     <string name="scan_qr_code_buttom_text">Escanea el código QR para ver este álbum</string>
+    <string name="scan_qr_to_accept_invitation">Escanea el código para aceptar la invitación</string>
     <string name="scanning_device_tips">Buscando dispositivos cercanos… Asegúrate de que el otro dispositivo está en modo visible.</string>
     <string name="scope_storage_dialog_cancel_btn">Cancelar</string>
     <string name="scope_storage_dialog_confirm_btn">Siguiente</string>
@@ -2148,7 +2146,7 @@ La transcodificación puede llevar algo de tiempo cuando utilizas esta función 
     <string name="search_clear_histories">Eliminar el historial de búsqueda</string>
     <string name="search_connection_error">"No es posible conectarse a la red"</string>
     <string name="search_connection_error_and_set">Toca para revisar los ajustes de red</string>
-    <string name="search_empty_title">Encuentra fotos con personas, lugares y objetos específicos en la Galería</string>
+    <string name="search_empty_title">Encontrar fotos con personas, lugares y objetos en la Galería</string>
     <string name="search_error">Ha ocurrido un error</string>
     <string name="search_error_and_retry">Ha ocurrido un error, pulsa para intentarlo otra vez</string>
     <string name="search_failed_mark_feedback_false_negative">"No se pudo añadir"</string>
@@ -2165,7 +2163,7 @@ La transcodificación puede llevar algo de tiempo cuando utilizas esta función 
     <string name="search_feedback_task_request_award_failed">"No se pudo recibir premio. Vuelve a intentarlo más tarde."</string>
     <string name="search_feedback_task_requesting_award">Recibiendo premio…</string>
     <string name="search_feedback_user_notice">"He leído y acepto %s."</string>
-    <string name="search_feedback_user_policy">Política de privacidad del algoritmo del programa Galería MI AIUI</string>
+    <string name="search_feedback_user_policy">Política de Privacidad del algoritmo IA de Mi de la aplicación Galería</string>
     <string name="search_hint">Toque para buscar</string>
     <string name="search_image_result_title">Resultados de la búsqueda</string>
     <string name="search_login_now">Iniciar sesión</string>
@@ -2194,7 +2192,7 @@ La transcodificación puede llevar algo de tiempo cuando utilizas esta función 
     <string name="search_title_others">Todos los resultados</string>
     <string name="search_title_people">Personas</string>
     <string name="search_title_photo_name">Nombre del archivo</string>
-    <string name="search_title_recommend">Recomendado</string>
+    <string name="search_title_recommend">Extras</string>
     <string name="search_title_suggestion">Sugerencias</string>
     <string name="search_title_tag">Objetos</string>
     <string name="searching_cast_devices">Buscando proyector…</string>
@@ -2256,11 +2254,60 @@ La transcodificación puede llevar algo de tiempo cuando utilizas esta función 
     <string name="setup_network_connection">Ajustes de red</string>
     <string name="share">Compartir</string>
     <string name="share_album">Compartir álbum</string>
+    <string name="share_album_action_mode_title">Editar los elementos compartidos</string>
+    <string name="share_album_add_share_photos">Añadir fotos compartidas</string>
+    <string name="share_album_baby_age">El bebé %1$s arriba</string>
+    <string name="share_album_change_background">Cambiar el fondo del álbum</string>
+    <string name="share_album_create_failed">No se ha podido crear un álbum compartido</string>
+    <string name="share_album_create_processing">Desactiva el proceso de la copia de seguridad en la nube</string>
+    <string name="share_album_exit_button_text">No compartir</string>
+    <string name="share_album_exit_confirm">No podrás ver el contenido del álbum después de cerrar la sesión. Guárdalo antes de cerrarla</string>
+    <string name="share_album_exit_confirm_title">Aconsejar al salir</string>
+    <string name="share_album_family_add_sharer_dialog_title">Añadir una invitación</string>
+    <string name="share_album_family_cancel_share_dialog_message">Si no compartes el álbum, será un álbum normal y los demás miembros no podrán verlo</string>
+    <string name="share_album_family_delete_sharer_message">Si eliminas a un miembro, éste no podrá ver el álbum. ¿Eliminarlo?</string>
+    <string name="share_album_family_delete_sharer_title">Borrar el consejo</string>
+    <string name="share_album_family_invite_category_title">Invitar a compartir</string>
+    <string name="share_album_family_invite_default">Compartir</string>
+    <string name="share_album_family_invite_family_cate_title">Compartir con la familia</string>
+    <string name="share_album_family_invite_link">Invitar al evento</string>
+    <string name="share_album_family_invite_miaccount">Cuenta Xiaomi</string>
+    <string name="share_album_family_invite_other_cate_title">Compartir con amigos</string>
+    <string name="share_album_family_invite_qr">Invitar por código QR</string>
+    <string name="share_album_family_invite_sharer">Invitar para compartir</string>
+    <string name="share_album_family_invite_sms">Invitar por SMS</string>
+    <string name="share_album_family_invite_title">Compartir con</string>
+    <string name="share_album_family_invite_waiting">Por añadir</string>
+    <string name="share_album_family_invite_wechat">Amigos de WeChat</string>
+    <string name="share_album_home_close_home_share_dialog_message">Una vez cerrado, otros dispositivos y otros miembros no podrán ver este álbum. ¿Cerrar?</string>
+    <string name="share_album_home_close_home_share_dialog_title">Desactivar uso compartido en familia</string>
+    <string name="share_album_home_device_low_version">Versión inferior del dispositivo</string>
+    <string name="share_album_home_pref_cate_name">Familia compartida</string>
+    <string name="share_album_home_pref_has_home_summary">La familia ya tiene el álbum en casa</string>
+    <string name="share_album_home_pref_name_default">Familia compartida</string>
+    <string name="share_album_home_pref_name_fail">No se ha obtenido información familiar</string>
+    <string name="share_album_home_pref_no_device_summary">Hogar no vinculado a un dispositivo de pantalla. Solo se puede compartir con miembros de la familia</string>
+    <string name="share_album_home_pref_not_share_home_summary">%1$d habitaciones | %2$d dispositivos de pantalla</string>
+    <string name="share_album_home_pref_operation_manage">Administrar</string>
+    <string name="share_album_home_pref_operation_open">Abrir</string>
+    <string name="share_album_home_pref_share_home_summary">%1$d dispositivos de pantalla compartidos</string>
+    <string name="share_album_home_pref_unshare_home_summary">Hay %1$d familias para elegir</string>
+    <string name="share_album_home_pref_unshare_nonOwner_summary">Aún no está compartido</string>
+    <string name="share_album_home_share_to_home">Familia compartida</string>
+    <string name="share_album_home_text_tip">Cuando selecciones una familia, el álbum pasará a su dispositivo de pantalla y solo será visible para los miembros de la familia</string>
+    <string name="share_album_invite_send_failed">La invitación ha fallado. Inténtalo más tarde</string>
+    <string name="share_album_invite_send_success">Se ha enviado la invitación</string>
     <string name="share_album_needs_auto_upload_tip">"No se puede desactivar la sincronización con la nube para álbumes compartidos"</string>
+    <string name="share_album_pref_album_name">Nombre del álbum</string>
+    <string name="share_album_pref_auto_add_photos_summary">Cuando lo activas, añades primero a una persona y cuando esa persona tenga una foto nueva, se añadirá automáticamente a este álbum compartido. Cuando seleccionas a un niño, también se puede incluir automáticamente en un álbum de bebé</string>
+    <string name="share_album_pref_auto_add_photos_title">Añadir automáticamente fotos nuevas</string>
     <string name="share_album_qr_code">"Código QR del Álbum"</string>
+    <string name="share_album_type_baby">Álbum del bebé</string>
+    <string name="share_album_type_home">Salvapantallas interior</string>
     <string name="share_and_delete_screenshot">Eliminar después de compartir</string>
     <string name="share_by_email_start">Compartir %1$s en segundo plano</string>
     <string name="share_by_email_successfully">Compartido %1$s</string>
+    <string name="share_from">Invitación de: %1$s</string>
     <string name="share_public_url_text">"He compartido el álbum %1$s contigo. Puedes verlo en %2$s"</string>
     <string name="share_with_family">Compartir con la familia</string>
     <string name="sharer_quota_fulfiled">"Ya has compartido este álbum con el máximo número de personas posible."</string>
@@ -2354,8 +2401,8 @@ La transcodificación puede llevar algo de tiempo cuando utilizas esta función 
     <string name="solar_term_winter_solstice">Winter solstice</string>
     <string name="solar_valentines_day_title">"Día de San Valentín"</string>
     <string name="sort">Ordenar</string>
-    <string name="special_type_8k">AI 8K</string>
-    <string name="special_type_ai_audio">AI Audio</string>
+    <string name="special_type_8k">IA 8K</string>
+    <string name="special_type_ai_audio">IA Audio</string>
     <string name="special_type_eye_repair">Ojos cerrados eliminados usando IA</string>
     <string name="special_type_hdr10">HDR</string>
     <string name="special_type_heif">HEIF</string>
@@ -2559,7 +2606,7 @@ La transcodificación puede llevar algo de tiempo cuando utilizas esta función 
     <string name="text_item_type_talkback_scene_kafei">Coffé</string>
     <string name="text_item_type_talkback_scene_lantian">Cielo azul</string>
     <string name="text_item_type_talkback_scene_lvzhi">Plantas</string>
-    <string name="text_item_type_talkback_scene_richuriluo">Aislamientos y puestas de sol</string>
+    <string name="text_item_type_talkback_scene_richuriluo">Salidas y puestas de sol</string>
     <string name="text_item_type_talkback_scene_shiwu">Comida</string>
     <string name="text_item_type_talkback_scene_shuixia">Bajo el agua</string>
     <string name="text_item_type_talkback_scene_yejing">Noche</string>

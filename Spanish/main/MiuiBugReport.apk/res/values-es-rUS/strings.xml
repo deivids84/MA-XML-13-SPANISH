@@ -69,6 +69,8 @@
     <string name="auth_fail_warning">La sesión expiró. Vuelva a iniciar sesión.</string>
     <string name="back">Atrás</string>
     <string name="btn_send">Enviar</string>
+    <string name="bugreport_dialog_informed_consent_content">"Hemos detectado un error relacionado con tu contraseña de bloqueo de pantalla. Puedes enviar los registros del dispositivo para ayudarnos a localizar y resolver el problema. La información de registro se subirá anónimamente, sólo se utilizará para la resolución del problema y se eliminará cuando se haya solucionado."</string>
+    <string name="bugreport_dialog_informed_consent_title">Consentimiento informado</string>
     <string name="bugreport_dialog_not_show_again">"No volver a mostrar"</string>
     <string name="bugreport_dialog_submit_content">&lt;Data&gt;Ahora está guardando registros de software en este dispositivo. Los registros pueden contener información personal y sus datos de ubicación. No comparta registros con nadie si no desea que esta información quede expuesta. Al seleccionar \"Aceptar\", significa que ha leído y aceptado nuestra &lt;a href=\"%1$s\"&gt;Política de Privacidad&lt;/a&gt; y el &lt;a href=\"%2$s\"&gt;Acuerdo de Usuario&lt;/a&gt;.&lt;/Data&gt;</string>
     <string name="bugreport_dump_complete_notification_summary">Toque para visualizar.</string>

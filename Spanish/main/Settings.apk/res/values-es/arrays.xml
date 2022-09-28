@@ -2,7 +2,7 @@
 <resources>
     <string-array name="accessibility_button_gesture_selector_titles">
         <item>Botón</item>
-        <item>Gesto</item>
+        <item>Gestos</item>
     </string-array>
     <string-array name="accessibility_button_location_selector_titles">
         <item>Mostrar sobre otras aplicaciones</item>
@@ -30,9 +30,9 @@
         <item>Abrir búsqueda en Google</item>
         <item>Abrir la cámara trasera</item>
         <item>Abrir la cámara frontal</item>
-        <item>Abrir la aplicación previa</item>
+        <item>Abrir aplicación anterior</item>
         <item>Activar la linterna</item>
-        <item>Activar el Modo lectura</item>
+        <item>Activar el modo Lectura</item>
         <item>Ninguno</item>
     </string-array>
     <string-array name="alarm_repeat_type">
@@ -48,7 +48,7 @@
         <item>Personalizado</item>
     </string-array>
     <string-array name="animator_duration_scale_entries">
-        <item>Animaciones desactivadas</item>
+        <item>Animación desactivada</item>
         <item>Escala de animación .5x</item>
         <item>Escala de animación 1x</item>
         <item>Escala de animación 1.5x</item>
@@ -102,7 +102,7 @@
         <item>Enviar SMS/MMS</item>
         <item>Leer SMS/MMS</item>
         <item>Escribir SMS/MMS</item>
-        <item>Modificar la configuración</item>
+        <item>Modificar ajustes</item>
         <item>Dibujar en parte superior</item>
         <item>Acceso a notificaciones</item>
         <item>Cámara</item>
@@ -169,7 +169,7 @@
         <item>enviar SMS</item>
         <item>leer SMS ICC</item>
         <item>escribir SMS ICC</item>
-        <item>modificar la configuración</item>
+        <item>Modificar ajustes</item>
         <item>dibujar en parte superior</item>
         <item>acceder a las notificaciones</item>
         <item>cámara</item>
@@ -824,6 +824,35 @@
         <item>Tono de llamada</item>
         <item>Multimedia</item>
     </string-array>
+    <string-array name="disable_apptitmer_device_list">
+        <item>cactus</item>
+        <item>pine</item>
+        <item>rosy</item>
+        <item>willow</item>
+        <item>olive</item>
+        <item>tiare</item>
+        <item>cereus</item>
+        <item>riva</item>
+        <item>rolex</item>
+        <item>markw</item>
+        <item>santoni</item>
+        <item>land</item>
+        <item>vince</item>
+        <item>nikel</item>
+        <item>ugglite</item>
+        <item>ugg</item>
+        <item>kate</item>
+        <item>prada</item>
+        <item>dandelion</item>
+        <item>lime</item>
+        <item>citrus</item>
+        <item>cannon</item>
+        <item>lemon</item>
+        <item>rainbow</item>
+        <item>camellian</item>
+        <item>camellia</item>
+        <item>tierra</item>
+    </string-array>
     <string-array name="dream_timeout_entries">
         <item>Nunca</item>
         <item>15 segundos</item>
@@ -949,7 +978,7 @@
         <item>Largo</item>
     </string-array>
     <string-array name="long_press_timeout_selector_titles">
-        <item>Breve</item>
+        <item>Corto</item>
         <item>Medio</item>
         <item>Largo</item>
     </string-array>
@@ -1275,6 +1304,48 @@ Nota: ¡Solo para Ubuntu 8.04!"</item>
         <item>Predeterminado</item>
         <item>Compacto</item>
     </string-array>
+    <string-array name="support_settings_haptic_device_list">
+        <item>apollo</item>
+        <item>cas</item>
+        <item>cmi</item>
+        <item>umi</item>
+        <item>alioth</item>
+        <item>aliothin</item>
+        <item>ares</item>
+        <item>chopin</item>
+        <item>haydn</item>
+        <item>thyme</item>
+        <item>star</item>
+        <item>mars</item>
+        <item>agate</item>
+        <item>vili</item>
+        <item>amber</item>
+        <item>odin</item>
+        <item>pissarro</item>
+        <item>pissarropro</item>
+        <item>pissarroin</item>
+        <item>pissarroinpro</item>
+        <item>zeus</item>
+        <item>cupid</item>
+        <item>psyche</item>
+        <item>poussin</item>
+        <item>ingres</item>
+        <item>matisse</item>
+        <item>rubens</item>
+        <item>munch</item>
+        <item>thor</item>
+        <item>evergo</item>
+        <item>evergreen</item>
+        <item>xaga</item>
+        <item>xagapro</item>
+        <item>plato</item>
+        <item>mayfly</item>
+        <item>daumier</item>
+        <item>diting</item>
+        <item>unicorn</item>
+        <item>secuoya</item>
+        <item>rembrandt</item>
+    </string-array>
     <string-array name="tabs_taptic_detail">
         <item>Nítido</item>
         <item>Base</item>
@@ -1345,6 +1416,11 @@ Nota: ¡Solo para Ubuntu 8.04!"</item>
         <item>Rápido</item>
         <item>Más rápido</item>
     </string-array>
+    <string-array name="typing_style_entries">
+        <item>Estándar</item>
+        <item>Pulsar</item>
+        <item>Toque directo</item>
+    </string-array>
     <string-array name="usage_stats_display_order_types">
         <item>Tiempo de uso</item>
         <item>Último uso</item>
@@ -1373,7 +1449,7 @@ Nota: ¡Solo para Ubuntu 8.04!"</item>
     <string-array name="vip_mode_text">
         <item>De cualquiera</item>
         <item>Solo de contactos</item>
-        <item>Solo de contactos destacadas</item>
+        <item>Solo de contactos destacados</item>
         <item>Ninguno</item>
     </string-array>
     <string-array name="vpn_proxy_settings">
@@ -1427,7 +1503,7 @@ Nota: ¡Solo para Ubuntu 8.04!"</item>
         <item>Ims preferido</item>
         <item>Wi-Fi</item>
         <item>Móvil</item>
-        <item>Sólo Wi-Fi</item>
+        <item>Solo Wi-Fi</item>
     </string-array>
     <string-array name="wifi_calling_mode_choices_v2_without_wifi_only">
         <item>Wi-Fi</item>

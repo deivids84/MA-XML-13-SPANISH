@@ -32,7 +32,7 @@
     <string name="accessibility_8k_on">8K activado</string>
     <string name="accessibility_add">Añadir</string>
     <string name="accessibility_ai_identify">Reconocer</string>
-    <string name="accessibility_ai_scene_off">AI de cámara desactivada</string>
+    <string name="accessibility_ai_scene_off">IA de la cámara desactivada</string>
     <string name="accessibility_ai_scene_on">AI de cámara activada</string>
     <string name="accessibility_ai_watermark_panel_on">Marca de agua de AI</string>
     <string name="accessibility_ambilight_panel_on">Panel de exposición larga</string>
@@ -212,7 +212,7 @@
     <string name="accessibility_zoom_button">Zoom</string>
     <string name="actionbar_button_up_description">Atrás</string>
     <string name="afternoon">Tarde</string>
-    <string name="ai">AI</string>
+    <string name="ai">IA</string>
     <string name="ai_agra_fort">Fuerte de Agra</string>
     <string name="ai_amber_fort">Palacio ámbar</string>
     <string name="ai_baby">Bebé</string>
@@ -287,8 +287,8 @@
     <string name="ai_scene_mode_tower">Torre</string>
     <string name="ai_scene_mode_tutuk">Triciclo</string>
     <string name="ai_scene_mode_unknown">Desconocido</string>
-    <string name="ai_scene_mode_use_hint_text">"Reconocer escenas mediante AI
-y auto-ajustar las preferencias"</string>
+    <string name="ai_scene_mode_use_hint_text">"Reconocer escenas mediante IA
+y autoajustar las preferencias"</string>
     <string name="ai_scene_top_moon_off">Modo poca luz</string>
     <string name="ai_scene_top_tip">Modo luna</string>
     <string name="ai_shanghai">Shanghái</string>
@@ -304,7 +304,7 @@ y auto-ajustar las preferencias"</string>
     <string name="ai_tianjin">Tianjin</string>
     <string name="ai_valentine_day">"Día de San Valentín"</string>
     <string name="ai_victoria_harbor">Victoria Harbor</string>
-    <string name="ai_watermark_title">Marca de agua AI</string>
+    <string name="ai_watermark_title">Marca de agua IA</string>
     <string name="ai_west_lake">Lago del Oeste</string>
     <string name="ai_wuhan">Wuhan</string>
     <string name="ai_zhang_jia_jie">Zhangjiajie</string>
@@ -467,7 +467,7 @@ y auto-ajustar las preferencias"</string>
     <string name="clone_guide_title2">Clonación en fotos</string>
     <string name="clone_guide_title4">Qué aspecto tiene</string>
     <string name="clone_guide_video_title2">Clonación en vídeos</string>
-    <string name="clone_landscape_hint">La clonación solo funciona en el modo paisaje</string>
+    <string name="clone_landscape_hint">La clonación solo funciona en el modo horizontal</string>
     <string name="clone_mode_start_hint">Pulsa el botón del obturador para comenzar</string>
     <string name="clone_no_person_found">"No se pudo encontrar la persona"</string>
     <string name="clone_offset_is_too_large">Demasiado movimiento. Intenta empezar otra vez.</string>
@@ -546,7 +546,7 @@ y auto-ajustar las preferencias"</string>
     <string name="confirm_recording_fail_recorder_busy_alert">"Puede que otra aplicación ya esté utilizando el micrófono del dispositivo para grabar."</string>
     <string name="confirm_recording_fail_title">"No se puede grabar"</string>
     <string name="confirm_reset_manually_parameter_message">¿Reinciar todos los parámetros a los valores por defecto?</string>
-    <string name="confirm_restore_message">"¿Restaurar ajustes predeterminados de la cámara?"</string>
+    <string name="confirm_restore_message">"¿Restaurar a los valores predeterminados?"</string>
     <string name="confirm_restore_title">Restaurar ajustes predeterminados</string>
     <string name="copy">Copiar</string>
     <string name="cta_mimoji_msg">¡Te damos la bienvenida a Fun Cam! Con esta aplicación puedes tomar fotos y grabar vídeos. Para funcionar con normalidad, necesita conexión a Internet y los siguientes permisos para recopilar información personal:</string>
@@ -560,7 +560,7 @@ y auto-ajustar las preferencias"</string>
     <string name="cta_perm_loc">Ubicación</string>
     <string name="cta_perm_storage">Acceder a fotos en este dispositivo</string>
     <string name="cta_perm_storage_desc">Para ver y guardar fotos</string>
-    <string name="cta_perm_type">"Permisos adicionales (usados para funciones adicionales mientras las usas)"</string>
+    <string name="cta_perm_type">"Permisos opcionales (para funciones adicionales mientras las usas)"</string>
     <string name="cta_perm_voice">Usar el micrófono</string>
     <string name="cta_perm_voice_desc">Para grabar audio mientras se graba vídeo</string>
     <string name="cta_user_tips">&lt;Data&gt;Para comprender plenamente tus derechos como usuario y la forma en que usamos tus datos, lee y acepta nuestro &lt;a href =%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &lt;a href =%2$s&gt;Política de Privacidad&lt;/a&gt;.&lt;/Data&gt;</string>
@@ -1257,8 +1257,8 @@ Mantiene el sujeto nítido mientras difumina el fondo."</string>
     <string name="pref_audio_focus_entry_general">Normal</string>
     <string name="pref_audio_focus_entry_rear">Trasero</string>
     <string name="pref_audio_focus_title">Enfoque por voz</string>
-    <string name="pref_auto_boot">Autoencendido</string>
-    <string name="pref_auto_boot_summary">Haga que la cámara responda mejor al permitir que se inicie automáticamente. Puede administrar los permisos de inicio automático en los detalles de la aplicación.</string>
+    <string name="pref_auto_boot">Iniciar automáticamente</string>
+    <string name="pref_auto_boot_summary">La cámara responderá mejor si se inicia automáticamente. Puedes administrar este permiso desde la información de la aplicación.</string>
     <string name="pref_beauty_me_mp_switch_desc">Ajusta los efectos de maquillaje para hombres en fotos grupales</string>
     <string name="pref_beauty_me_mp_switch_title">Ajusta los efectos de maquillaje para hombres</string>
     <string name="pref_beauty_nvs_wp_desc">Eliminar lunares cuando se utilizan efectos suavizantes de la piel</string>
@@ -1408,7 +1408,7 @@ Mantiene el sujeto nítido mientras difumina el fondo."</string>
     <string name="pref_camera_multilevel_entry_middle">Medio (predeterminado)</string>
     <string name="pref_camera_multilevel_entry_normal">Normal</string>
     <string name="pref_camera_new_coloreffect_title">Filtros de películas</string>
-    <string name="pref_camera_normal_wide_ldc_description">Corregir caras distorsionadas de personas que están cerca del borde del marco</string>
+    <string name="pref_camera_normal_wide_ldc_description">Corrige caras distorsionadas de personas que están cerca del borde del marco</string>
     <string name="pref_camera_normal_wide_ldc_title">Corregir caras distorsionadas en fotos grupales</string>
     <string name="pref_camera_optimized_flash_enable_title">Flash optimizado</string>
     <string name="pref_camera_panoramamode_title">Panorámica</string>
@@ -1480,8 +1480,8 @@ Mantiene el sujeto nítido mientras difumina el fondo."</string>
     <string name="pref_camera_sr_enable_title">Encienda SR</string>
     <string name="pref_camera_stereo_mode_title">Ajuste de enfoque</string>
     <string name="pref_camera_super_resolution_title">Activar SR</string>
-    <string name="pref_camera_tap_shoot_summary">Toque la pantalla de vista previa para tomar una foto</string>
-    <string name="pref_camera_tap_shoot_title">Toca para tomar una foto</string>
+    <string name="pref_camera_tap_shoot_summary">Toca la pantalla de vista previa para tomar una foto</string>
+    <string name="pref_camera_tap_shoot_title">Tocar para tomar una foto</string>
     <string name="pref_camera_tilt_shift_entry_circle">Círculo</string>
     <string name="pref_camera_tilt_shift_entry_parallel">Paralelo</string>
     <string name="pref_camera_tilt_shift_title">Efecto diorama</string>
@@ -1491,13 +1491,13 @@ Mantiene el sujeto nítido mientras difumina el fondo."</string>
     <string name="pref_camera_touchafaec_entry_on">Activado</string>
     <string name="pref_camera_track_eye_preferred_description">Realice un seguimiento del movimiento de los ojos para mantener los ojos enfocados cuando una persona está en el marco</string>
     <string name="pref_camera_track_eye_preferred_title">Enfoque de seguimiento ocular</string>
-    <string name="pref_camera_track_focus_intro_description">Cuando toma fotos o graba videos con sujetos en movimiento, esta función detecta personas, gatos y perros, y los mantiene enfocados automáticamente. Además, también puede tocar dos veces cualquier sujeto para rastrear el movimiento.</string>
+    <string name="pref_camera_track_focus_intro_description">Cuando haces fotos o grabas vídeos con sujetos en movimiento, esta función detecta personas y animales, manteniéndolos enfocados. También puedes tocar dos veces sobre cualquier sujeto para seguirlo.</string>
     <string name="pref_camera_track_focus_intro_goto">Activar</string>
-    <string name="pref_camera_track_focus_preferred_description">Mantenga enfocados a personas, gatos y perros en movimiento automáticamente o toque dos veces cualquier sujeto para rastrear</string>
+    <string name="pref_camera_track_focus_preferred_description">Mantén enfocadas automáticamente a personas y animales en movimiento o toca dos veces sobre cualquier sujeto para seguirlo</string>
     <string name="pref_camera_track_focus_preferred_title">Enfoque de seguimiento de movimiento</string>
     <string name="pref_camera_ubifocus_title">Reenfocar</string>
-    <string name="pref_camera_ultra_wide_ldc_description">Corregir objetos distorsionados automáticamente</string>
-    <string name="pref_camera_ultra_wide_ldc_title">Corregir distorsión en disparos ultra grandes</string>
+    <string name="pref_camera_ultra_wide_ldc_description">Corrige automáticamente los objetos distorsionados</string>
+    <string name="pref_camera_ultra_wide_ldc_title">Corregir distorsión en tomas ultra anchas</string>
     <string name="pref_camera_ultra_wide_mode_title">Modo ultra gran angular</string>
     <string name="pref_camera_video_ai_scene_title">Cámara IA</string>
     <string name="pref_camera_video_bokeh_off">Vídeo bokeh desactivado</string>
@@ -1514,7 +1514,7 @@ Mantiene el sujeto nítido mientras difumina el fondo."</string>
     <string name="pref_camera_volumekey_function_entry_timer_new">Temporizador (%ds)</string>
     <string name="pref_camera_volumekey_function_entry_volume">Volumen</string>
     <string name="pref_camera_volumekey_function_entry_zoom">Zoom</string>
-    <string name="pref_camera_volumekey_function_title">Acciones de los botones de volumen</string>
+    <string name="pref_camera_volumekey_function_title">Función de los botones de volumen</string>
     <string name="pref_camera_watermark_title">Añadir fecha y hora en la foto</string>
     <string name="pref_camera_whitebalance_entry_auto">AUTO</string>
     <string name="pref_camera_whitebalance_entry_cloudy">Nublado</string>
@@ -1584,7 +1584,7 @@ Mantiene el sujeto nítido mientras difumina el fondo."</string>
     <string name="pref_p_d_e">Funciones Pro</string>
     <string name="pref_photo_assistance_tips_off">Desactivado</string>
     <string name="pref_photo_assistance_tips_on">Activado</string>
-    <string name="pref_pic_flaw_tip_summary">Recibe notificaciones en tiempo real cuando las personas en el marco cierren los ojos o la lente esté parcialmente cubierta al tomar la foto</string>
+    <string name="pref_pic_flaw_tip_summary">Recibe avisos en tiempo real cuando las personas en el encuadre cierren los ojos o la lente esté parcialmente cubierta al hacer la foto</string>
     <string name="pref_pic_flaw_tip_title">Notificar acerca de errores</string>
     <string name="pref_popup_camera_title">Cámara pop-up</string>
     <string name="pref_priority_storage_title">Guardar en la tarjeta SD</string>
@@ -1595,16 +1595,16 @@ Mantiene el sujeto nítido mientras difumina el fondo."</string>
     <string name="pref_privacy_watermark_entry">Marca de agua protectora</string>
     <string name="pref_privacy_watermark_switch">Mostrar interruptor de marca de agua</string>
     <string name="pref_qc_focus_position_title">F</string>
-    <string name="pref_retain_ai_scene">Cámara AI</string>
-    <string name="pref_retain_ai_scene_description">Conservar el estado de la cámara AI establecido durante la sesión anterior</string>
+    <string name="pref_retain_ai_scene">Cámara IA</string>
+    <string name="pref_retain_ai_scene_description">Conserva el estado de IA establecido durante la sesión anterior</string>
     <string name="pref_retain_beauty">Belleza</string>
     <string name="pref_retain_beauty_description">Conservar preferencias de belleza seleccionadas durante la sesión anterior</string>
     <string name="pref_retain_camera_common_mode_summary">Abre la Cámara en el modo usado anteriormente en lugar de cambiar a \"Foto\"</string>
     <string name="pref_retain_camera_mode">Modo cámara</string>
-    <string name="pref_retain_camera_mode_description">Conservar el modo utilizado anteriormente junto con la selección de la cámara delantera o trasera</string>
+    <string name="pref_retain_camera_mode_description">Conserva el último modo usado y la selección de cámara delantera o trasera</string>
     <string name="pref_retain_camera_mode_summary">Cambiar cámara al modo usado antes al abrir la aplicación.</string>
     <string name="pref_retain_camera_mode_title">Guardar modo anterior</string>
-    <string name="pref_retain_camera_status_description">Conservar el modo utilizado anteriormente en lugar de restablecer automáticamente las preferencias predeterminadas</string>
+    <string name="pref_retain_camera_status_description">Conserva el último modo usado en vez de restablecer las preferencias predeterminadas</string>
     <string name="pref_retain_camera_status_title">Conservar la configuración</string>
     <string name="pref_retain_live_shot">Disparos dinámicos</string>
     <string name="pref_retain_live_shot_description">Conservar el estado de las tomas dinámicas establecido durante la sesión anterior</string>
@@ -1685,10 +1685,10 @@ Mantiene el sujeto nítido mientras difumina el fondo."</string>
     <string name="prek_b_j_o">Recrear el efecto estéreo envolvente</string>
     <string name="prek_b_j_p">Reducir el impacto del viento en la grabación de sonido.</string>
     <string name="prep_video_ai_audio_new_desc_tip">Los sonidos desde el sujeto enfocado son mejorados</string>
-    <string name="prep_video_ai_audio_new_desc_tip_alone">Los sonidos desde el sujeto enfocado son mejorados en el modo paisaje</string>
+    <string name="prep_video_ai_audio_new_desc_tip_alone">Los sonidos del sujeto enfocado mejoran en modo horizontal</string>
     <string name="prep_video_ai_audio_new_mutex_tip">"No puedo usar el zoom de audio ahora"</string>
     <string name="prep_video_ai_audio_single_desc_tip">Los sonidos desde detrás de la pantalla son filtrados</string>
-    <string name="prep_video_ai_audio_single_desc_tip_alone">Los sonidos desde detrás de la pantalla son filtrados en el modo paisaje</string>
+    <string name="prep_video_ai_audio_single_desc_tip_alone">Los sonidos detrás de la pantalla se filtran en modo horizontal</string>
     <string name="prep_video_ai_audio_single_mutex_tip">"No puedo grabar el sonido frontal ahora"</string>
     <string name="prep_video_ai_audio_unsupported_headset_desc_tips">"El Zoom de audio no funciona con el monitor in-ear en vivo y el micrófono externo"</string>
     <string name="preparing_sd">Comprobando tarjeta SD…</string>

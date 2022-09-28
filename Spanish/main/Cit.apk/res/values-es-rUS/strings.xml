@@ -46,6 +46,9 @@
     <string name="cit_accelermeter_second_cali_title">Segunda prueba de calibración del sensor de aceleración</string>
     <string name="cit_accelermeter_sensor_check_summary">"Mover el dispositivo rápidamente en una dirección. Los valores de coordenadas X，Y，Z se muestran a continuación. (cuando el dispositivo está en movimiento: X representa la izquierda/derecha, y representa la parte delantera/atrás, z representa arriba y abajo).
 Antes de calibrar el dispositivo, colócalo en una superficie plana."</string>
+    <string name="cit_audio_hw_check_summary">Prueba de verificación del hardware de audio</string>
+    <string name="cit_audio_hw_check_tips">Ejecutando prueba</string>
+    <string name="cit_audio_hw_check_title">Probar el hardware de audio</string>
     <string name="cit_audio_lb_summary_mainmic_to_earpiece">"Prueba de retroalimentación del micrófono principal al receptor.
 
 Sostenga el dispositivo como si estuviera haciendo una llamada, hable al micrófono principal, debería escuchar la voz del receptor"</string>

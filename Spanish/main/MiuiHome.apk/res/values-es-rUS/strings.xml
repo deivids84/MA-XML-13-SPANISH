@@ -88,6 +88,7 @@
     <string name="all_apps_setting_drawer_tips_desc">El Cajón de aplicaciones se abre al deslizar hacia arriba en la Pantalla de inicio. Cambiar al Modo pantalla de inicio con el Cajón de aplicaciones hará que el Centro de contenido no esté disponible. ¿Cambiar de todas formas?</string>
     <string name="all_apps_setting_drawer_tips_title">Usando el Cajón de aplicaciones</string>
     <string name="all_apps_setting_drawer_title">Con el Cajón de aplicaciones</string>
+    <string name="all_apps_setting_jeejen_title">Modo Lite</string>
     <string name="all_apps_setting_letter_scrollbar">A-Z</string>
     <string name="all_apps_setting_original_scrollbar">Diseño original</string>
     <string name="all_apps_setting_scroll_bar">Barra de desplazamiento</string>
@@ -437,6 +438,9 @@
     <string name="is_setting_wallpaper_message">Estableciendo fondo de pantalla…</string>
     <string name="is_system_wallpaper_message">"No se pueden eliminar recursos del sistema"</string>
     <string name="item_view_role_description">Pestaña</string>
+    <string name="jeejen_description">"Elementos de la interfaz más grandes.
+Llamadas más accesibles.
+Seguridad mejorada."</string>
     <string name="key_shortcut_settings_title">Atajos de botones</string>
     <string name="label">Etiqueta</string>
     <string name="launcher_icon_management">Administrar accesos directos de la Pantalla de inicio</string>
@@ -507,6 +511,7 @@
     <string name="menu_lock">Fijar diseño de la pantalla de inicio</string>
     <string name="menu_more">Más</string>
     <string name="menu_no_word">"No mostrar texto"</string>
+    <string name="menu_only_widget_no_word">No mostrar texto de los widgets</string>
     <string name="menu_picktheme">Seleccionar un tema</string>
     <string name="menu_reset_scene">Restablecer diseño por defecto</string>
     <string name="menu_search">Buscar</string>
@@ -702,6 +707,9 @@
     <string name="open_personal_assistant_dialog_desc_international">"No podrá usar las tarjetas de la Bóveda de aplicaciones (acciones, accesos directos, etc.) ni recibir actualizaciones al desactivar esta función."</string>
     <string name="open_personal_assistant_dialog_title">Desactivar Bóveda de aplicaciones</string>
     <string name="open_personal_assistant_settings">Configuración de App vault</string>
+    <string name="open_personal_assistant_settings_off">Desactivar</string>
+    <string name="open_personal_assistant_settings_on">Activar</string>
+    <string name="open_personal_assistant_settings_simplified">Bóveda de aplicaciones</string>
     <string name="open_personal_assistant_title">Bóveda de aplicaciones</string>
     <string name="ota_layout_adjustment_button_text">Entendido</string>
     <string name="ota_layout_adjustment_content">Los diseños de la pantalla de inicio interior y exterior se sincronizaron en la nueva versión.</string>

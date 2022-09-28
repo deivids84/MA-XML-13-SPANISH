@@ -26,7 +26,7 @@
     <string name="dialog_stop_desc">¿Seguro que quiere detener la descarga? Todo el progreso se perderá y no se podrá reanudar. El siguiente intento de descarga comenzará desde el principio.</string>
     <string name="dialog_stop_title">¿Detener la descarga?</string>
     <string name="dialog_twrp">Tu almacenamiento interno está encriptado. Después de reiniciar el dispositivo al modo Recovery, introduce la contraseña de desbloqueo de tu dispositivo para continuar.</string>
-    <string name="downgrade_warning">¡Downgrade a través de OTA detectado y bloqueado! ¡Para no dejar que rompas tu sistema!</string>
+    <string name="downgrade_warning">¡Actualización a una versión anterior detectada y bloqueada! ¡Para que no se estropee el sistema!</string>
     <string name="download_done">¡Descargado!</string>
     <string name="download_fail">¡Error mientras se descargaba!</string>
     <string name="download_fail_desc">MD5 no coincide…</string>
@@ -47,9 +47,9 @@
     <string name="fetch_notification_download_retry">Reintentar</string>
     <string name="fetch_notification_download_starting">Iniciando</string>
     <string name="fetching_data">Obteniendo enlace de descarga, por favor espera…</string>
-    <string name="install_desc">El dispositivo se reiniciará al modo Recovery e instalará el archivo: %1$s\"
-Los datos no serán borrados.\"</string>
-    <string name="install_title">¿Estás seguro de querer continuar?</string>
+    <string name="install_desc">El dispositivo se reiniciará en modo Recovery e instalará el archivo: <b>%1$s</b>. 
+Tus datos no se borrarán.</string>
+    <string name="install_title">¿Estás seguro de continuar?</string>
     <string name="menu_title_current_version_log">Novedades</string>
     <string name="menu_title_pick_rom_file">Selecciona paquete de actualización</string>
     <string name="menu_title_recovery">Reiniciar en Modo de recuperación</string>

@@ -1454,8 +1454,8 @@ Espere hasta que esté completamente sincronizado o vea el mensaje en su computa
     <string name="show_password">Mostrar contraseña</string>
     <string name="show_server_cet">Ver certificado</string>
     <string name="shrink">Contraer</string>
-    <string name="sign_in_dialog_outlook_enterprise">Outlook para empresas (sin calendario)</string>
-    <string name="sign_in_dialog_outlook_exchange">EXCHANGE (con calendario)</string>
+    <string name="sign_in_dialog_office365">Edición Personal Office365</string>
+    <string name="sign_in_dialog_outlook_enterprise">Edición corporativa Exchange Office365</string>
     <string name="sign_in_dialog_outlook_imap">IMAP (sin calendario)</string>
     <string name="sign_in_graph_error">"Puede iniciar sesión utilizando los protocolos IMAP o EXCHANGE para iniciar sesión solo cuando su organización no haya cambiado la configuración general del servidor. Si la dirección de su servidor está personalizada por la organización o los protocolos relacionados están deshabilitados, inicie sesión con el nuevo protocolo de Microsoft."</string>
     <string name="sign_in_no_useful_provider_error">"No se pueden obtener configuraciones de protocolo de Microsoft. Utilice un protocolo diferente o actualice el protocolo de Microsoft."</string>

@@ -60,7 +60,7 @@
         <item>\#</item>
     </string-array>
     <string-array name="animator_duration_scale_entries">
-        <item>Animaciones desactivadas</item>
+        <item>Animación desactivada</item>
         <item>Escala de animación .5x</item>
         <item>Escala de animación 1x</item>
         <item>Escala de animación 1.5x</item>
@@ -77,7 +77,7 @@
         <item>Máximo 4 procesos</item>
     </string-array>
     <string-array name="battery_options">
-        <item>Mostrar porcentaje siempre</item>
+        <item>Mostrar siempre el porcentaje</item>
         <item>Mostrar porcentaje durante la carga (predeterminado)</item>
         <item>"No mostrar este icono"</item>
     </string-array>
@@ -99,7 +99,7 @@
         <item>Estéreo</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
-        <item>Predeterminado del sistema</item>
+        <item>Canal de sonido en la reproducción</item>
         <item>Mono</item>
         <item>Estéreo</item>
     </string-array>
@@ -181,6 +181,29 @@
         <item>Vibrante (por defecto)</item>
         <item>Natural</item>
         <item>Estándar</item>
+    </string-array>
+    <string-array name="config_charge_support_lite">
+        <item>ginkgo</item>
+        <item>wayne</item>
+        <item>whyred</item>
+        <item>tulip</item>
+        <item>lavender</item>
+        <item>lotus</item>
+        <item>laurus</item>
+        <item>merlin</item>
+        <item>lancelot</item>
+        <item>galahad</item>
+        <item>citrus</item>
+        <item>pomelo</item>
+        <item>lemon</item>
+        <item>shiva</item>
+        <item>lime</item>
+        <item>cannon</item>
+        <item>sunny</item>
+        <item>camellia</item>
+        <item>camellian</item>
+        <item>veux</item>
+        <item>Romero</item>
     </string-array>
     <string-array name="config_xmsfNotificationChannel">
         <item>84</item>
@@ -271,13 +294,13 @@
     <string-array name="select_logpersist_summaries">
         <item>Desactivado</item>
         <item>Todos los búferes del registro</item>
-        <item>Todo excepto los registros de búfer de la radio</item>
+        <item>Todo excepto registros de señal móvil</item>
         <item>Solo el búfer de registro del kernel</item>
     </string-array>
     <string-array name="select_logpersist_titles">
         <item>Desactivado</item>
         <item>Todo</item>
-        <item>Todo excepto la radio</item>
+        <item>Todo excepto la señal móvil</item>
         <item>Solo el kernel</item>
     </string-array>
     <string-array name="show_non_rect_clip_entries">

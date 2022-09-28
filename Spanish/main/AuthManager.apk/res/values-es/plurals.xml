@@ -81,11 +81,11 @@
         <item quantity="one">Hace 1 minuto</item>
     </plurals>
     <plurals name="perm_manager_suggest_allow_content">
-        <item quantity="other">"Ya has permitido que %2$s acceda al portapapeles %1$d veces. ¿Quieres permitir siempre que %3$s acceda al portapapeles?"</item>
-        <item quantity="one">"Ya has permitido que %2$s acceda al portapapeles %1$d vez. ¿Quieres permitir siempre que %3$s acceda al portapapeles?"</item>
+        <item quantity="other">"Has permitido que %2$s acceda al portapapeles %1$d veces. ¿Quieres permitir que %3$s siempre tenga acceso?"</item>
+        <item quantity="one">"Has permitido que %2$s acceda al portapapeles %1$d vez. ¿Quieres permitir que %3$s siempre tenga acceso?"</item>
     </plurals>
     <plurals name="perm_manager_suggest_deny_content">
-        <item quantity="other">"Ya has restringido el acceso de %2$s al portapapeles %1$d veces. ¿Restringir el acceso de %3$s al portapapeles de forma permanente?"</item>
-        <item quantity="one">"Ya has restringido el acceso de %2$s al portapapeles %1$d vez. ¿Restringir el acceso de %3$s al portapapeles de forma permanente?"</item>
+        <item quantity="other">"Has restringido el acceso de %2$s al portapapeles %1$d veces. ¿Quieres restringir el acceso de %3$s permanente?"</item>
+        <item quantity="one">"Has restringido el acceso de %2$s al portapapeles %1$d vez. ¿Quieres restringir el acceso de %3$s permanente?"</item>
     </plurals>
 </resources>

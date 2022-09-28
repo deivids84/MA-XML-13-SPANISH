@@ -572,6 +572,18 @@
         <item quantity="other">%1$s, %2$s elementos</item>
         <item quantity="one">%1$s, %2$s elemento</item>
     </plurals>
+    <plurals name="title_age_hint_day">
+        <item quantity="other">%d días</item>
+        <item quantity="one">%d día</item>
+    </plurals>
+    <plurals name="title_age_hint_month">
+        <item quantity="other">%d meses</item>
+        <item quantity="one">%d mes</item>
+    </plurals>
+    <plurals name="title_age_hint_year">
+        <item quantity="other">%d años</item>
+        <item quantity="one">%d año</item>
+    </plurals>
     <plurals name="today_of_year_location_num_unit">
         <item quantity="other"></item>
         <item quantity="one"></item>

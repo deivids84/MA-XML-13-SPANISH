@@ -116,8 +116,8 @@
     <string name="game_booster">Acelerador de velocidad en los juegos</string>
     <string name="gamebooster_dialog_recover">Renovar</string>
     <string name="gamebooster_dialog_start_booster">Iniciar</string>
-    <string name="gamebooster_network_dialog_message">¿Permitir que Security se conecte a la red para utilizar todas las funciones de Game Turbo?</string>
-    <string name="gamebooster_network_dialog_message_pad">¿Permitir que la seguridad se conecte a la red para usar todas las características de Game Turbo?</string>
+    <string name="gamebooster_network_dialog_message">¿Permitir a Seguridad conectar a la red para usar todas las funciones de Turbo?</string>
+    <string name="gamebooster_network_dialog_message_pad">¿Permitir a Seguridad conectar a la red para usar todas las funciones de Turbo?</string>
     <string name="gamebooster_network_dialog_title">"Algunas funciones no están disponibles"</string>
     <string name="gamebox_no_network_btn">Recargar</string>
     <string name="gb_adv_touch_adv_title">Modo clásico (predeterminado)</string>
@@ -157,7 +157,7 @@
     <string name="gb_advance_settings_vibration_4d_summary2">Vibrar durante las muertes en el juego.</string>
     <string name="gb_alipays_can_not_complete">"No se puede completar el pago. Instalar para continuar."</string>
     <string name="gb_dialog_game_speed_close">Activando Modo velocidad de la luz…</string>
-    <string name="gb_dialog_game_speed_exist">Sólo se puede utilizar un juego en el modo de velocidad de luz. Reemplazar \"%s\" ¿ahora?</string>
+    <string name="gb_dialog_game_speed_exist">Solo se puede usar un juego en el modo velocidad de la luz. ¿Reemplazar \"%s\"?</string>
     <string name="gb_game_control">Ajustes de la GPU</string>
     <string name="gb_game_settings">Ajustes adicionales</string>
     <string name="gb_game_speed_closed">Modo velocidad de la luz desactivado</string>

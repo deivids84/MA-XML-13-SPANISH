@@ -269,7 +269,7 @@ Selección"</string>
     <string name="change_default_call_screening_dialog_affirmative">Configurar como predeterminada</string>
     <string name="change_default_call_screening_dialog_negative">Cancelar</string>
     <string name="change_default_call_screening_dialog_title">¿Convertir %s en tu aplicación de filtro predeterminada?</string>
-    <string name="change_default_call_screening_warning_message">%s podrá ver información sobre las llamadas que recibas de personas que no estén en tus contactos y podrá bloquearlas. Te recomendamos que solo configures una aplicación de filtro de llamadas como predeterminada si es de confianza.</string>
+    <string name="change_default_call_screening_warning_message">%s podrá ver información sobre llamadas que recibas de personas no incluidas entre tus contactos y podrás bloquearlas. Te recomendamos que solo uses una aplicación para filtrar llamadas si es de confianza.</string>
     <string name="change_default_call_screening_warning_message_for_disable_old_app">%s ya no podrá filtrar llamadas.</string>
     <string name="change_default_dialer_dialog_affirmative">Configurar como predeterminada</string>
     <string name="change_default_dialer_dialog_negative">Cancelar</string>
@@ -422,7 +422,7 @@ Selección"</string>
     <string name="incall_error_call_failed">"No se pudo realizar la llamada."</string>
     <string name="incall_error_power_off">Desactiva el modo avión para realizar una llamada.</string>
     <string name="incall_error_supp_service_unknown">"Este servicio no es compatible."</string>
-    <string name="install_other_apps">Instalar aplicaciones desconocidas</string>
+    <string name="install_other_apps">Aplicaciones de origen desconocido</string>
     <string name="item_view_role_description">Pestaña</string>
     <string name="keep_screen_on">Pantalla siempre encendida al cargar</string>
     <string name="keep_screen_on_summary">La pantalla nunca entra en modo de suspensión si el dispositivo se está cargando</string>
@@ -482,7 +482,7 @@ Selección"</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Suelta para actualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Eso es todo por ahora"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">"Eso es todo por ahora"</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Sólo un segundo…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Un momento…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"No se pudo cargar los elementos"</string>
     <string name="mobile_data_always_on">Datos móviles siempre activos</string>
     <string name="mobile_data_always_on_summary">Mantener los datos móviles siempre activos aunque la conexión Wi‑Fi esté activada (para cambiar de red rápidamente)</string>
@@ -860,7 +860,7 @@ Cualquier usuario puede actualizar las aplicaciones del resto de usuarios."</str
     <string name="user_switch_to_user">Cambiar a %s</string>
     <string name="v7_preference_off">DESACTIVADA</string>
     <string name="v7_preference_on">ACTIVADO</string>
-    <string name="verify_apps_over_usb_summary">Comprobar las aplicaciones instaladas mediante ADB/ADT para detectar comportamientos dañinos</string>
+    <string name="verify_apps_over_usb_summary">Comprueba si una aplicación instalada por ADB/ADT tiene contenido dañino.</string>
     <string name="verify_apps_over_usb_title">Verificar aplicación por USB</string>
     <string name="voice_dial_out">Llamada de voz</string>
     <string name="voice_report_incoming_call">Llamada entrante</string>

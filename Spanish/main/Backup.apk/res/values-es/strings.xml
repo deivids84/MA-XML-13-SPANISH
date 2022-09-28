@@ -47,7 +47,7 @@
     <string name="alert_title_backup_to_miasist">¿Hacer copia de seguridad de los elementos usando Mi PC Suite?</string>
     <string name="alert_title_restore_from_miasist">¿Restaurar elementos en tu dispositivo?</string>
     <string name="already_enable_encrypt">El cifrado ya está activado</string>
-    <string name="alternative_ui_content">Esta característica le permite hacer una copia de seguridad y restaurar elementos usando su dispositivo móvil y ordenador. Esta característica necesita conectarse a Internet y requiere los siguientes permisos obligatorios para poder funcionar normalmente:</string>
+    <string name="alternative_ui_content">Esta función permite hacer una copia de seguridad y restaurar elementos usando el dispositivo y el ordenador. Necesita conexión a Internet y los siguientes permisos obligatorios para funcionar normalmente:</string>
     <string name="am">AM</string>
     <string name="app_name">Copia de seguridad</string>
     <string name="apps_and_data_item_desc">Aplicaciones y datos</string>
@@ -292,7 +292,7 @@ debería crear una copia de seguridad de iCloud primero."</string>
     <string name="import_from_xiaomi_account_hint_title">Usa Mi Talk para crear copias de seguridad de tus contactos entre dispositivos.</string>
     <string name="import_tip_summary">Debido a problemas de compatibilidad, solo puede transferir datos parciales desde dispositivos iOS. Asegúrese de crear una copia de seguridad de iCloud antes de comenzar la transferencia.</string>
     <string name="lack_perm_msg">Mi Mover necesita los siguientes permisos: &lt;b&gt;%s&lt;/b&gt;.</string>
-    <string name="lack_perm_title">Permisos requeridos</string>
+    <string name="lack_perm_title">Permisos necesarios</string>
     <string name="list_footer_tip_title">Consejos:</string>
     <string name="loading_data">Cargando datos</string>
     <string name="local_app_name">Copia de seguridad</string>

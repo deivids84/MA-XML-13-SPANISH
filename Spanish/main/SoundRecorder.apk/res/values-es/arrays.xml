@@ -85,15 +85,15 @@
         <item>Voz</item>
     </string-array>
     <string-array name="record_scenes_summaries">
-        <item>Grabar música con mejor calidad</item>
-        <item>Mueva el micrófono más cerca del origen del sonido para una mejor calidad</item>
-        <item>Ponga el teléfono entre dos personas para grabar su conversación claramente</item>
+        <item>Graba música con mejor calidad</item>
+        <item>Coloca el micrófono más cerca del origen de sonido para mejor calidad</item>
+        <item>Coloca el dispositivo entre dos personas para grabar su conversación con claridad</item>
         <item>La tecnología de alto rango dinámico permite al micrófono capturar un sonido más detallado</item>
     </string-array>
     <string-array name="record_scenes_summaries_stereo">
-        <item>Grabación a través de 2 canales, escuche el sonido estéreo con auriculares</item>
-        <item>Ponga el micrófono más cerca del origen del sonido para una mejor calidad</item>
-        <item>Ponga el teléfono entre dos personas para grabar su conversación claramente</item>
+        <item>Grabación a través de 2 canales, escucha el estéreo con auriculares</item>
+        <item>Coloca el micrófono más cerca del origen de sonido para mejor calidad</item>
+        <item>Coloca el dispositivo entre dos personas para grabar su conversación con claridad</item>
         <item>La tecnología de alto rango dinámico permite al micrófono capturar un sonido más detallado</item>
     </string-array>
 </resources>

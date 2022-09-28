@@ -325,6 +325,8 @@ Selección"</string>
     <string name="bt_hci_snoop_log_summary">Capturar paquetes de Bluetooth (después de cambiar esta opción, desactiva y activa el Bluetooth)</string>
     <string name="bugreport_in_power">Acceso directo a informe de errores</string>
     <string name="bugreport_in_power_summary">Mostrar un botón en el menú de encendido para crear un informe de errores</string>
+    <string name="business_hall_settings_summary">Controla las llamadas y el uso de datos</string>
+    <string name="business_hall_settings_title">Ajustes del plan del operador</string>
     <string name="button_convert_fbe">Borrar y convertir…</string>
     <string name="cache_db_name">app_icons.db</string>
     <string name="cached_apps_freezer_device_default">Predeterminado por el dispositivo</string>
@@ -347,7 +349,7 @@ Selección"</string>
     <string name="callFailed_cdma_activation">"Una tarjeta SIM ha activado tu servicio y actualizado la función de itinerancia del teléfono."</string>
     <string name="callFailed_cdma_call_limit">Hay demasiadas llamadas activas. Finaliza o combina las llamadas que tienes antes de iniciar otra.</string>
     <string name="callFailed_channel_unacceptable">Canal inaceptable</string>
-    <string name="callFailed_concurrent_calls_not_possible">La llamada finalizó debido a que no es posible realizar llamadas simultáneas.</string>
+    <string name="callFailed_concurrent_calls_not_possible">"Llamada finalizada. Las llamadas simultáneas no están soportadas."</string>
     <string name="callFailed_conditional_IE_error">Error de IE condicional</string>
     <string name="callFailed_congestion">Red ocupada</string>
     <string name="callFailed_data_disabled">La llamada ha finalizado porque se han inhabilitado los datos móviles.</string>
@@ -400,7 +402,7 @@ Selección"</string>
     <string name="callFailed_otasp_provisioning_in_process">No se puede llamar porque el dispositivo se está aprovisionando actualmente.</string>
     <string name="callFailed_outOfService">Red móvil no disponible</string>
     <string name="callFailed_out_of_network">Llamada fuera de red</string>
-    <string name="callFailed_powerOff">Radio desconectada</string>
+    <string name="callFailed_powerOff">Radio apagada</string>
     <string name="callFailed_preemption">Derecho preferente de compra</string>
     <string name="callFailed_protocol_error_unspecified">Error de protocolo, no especificado</string>
     <string name="callFailed_recovery_on_timer_expired">Recuperación al expirar el temporizador</string>
@@ -488,7 +490,7 @@ Selección"</string>
     <string name="call_recording_setting">Grabación de llamadas</string>
     <string name="call_settings">Ajustes de llamadas</string>
     <string name="call_settings_admin_user_only">El administrador es el único usuario que puede cambiar los ajustes de llamada.</string>
-    <string name="call_settings_primary_user_only">Los ajustes de llamadas sólo pueden ser modificados por el usuario principal.</string>
+    <string name="call_settings_primary_user_only">Solo el usuario principal puede cambiar los ajustes de llamada.</string>
     <string name="call_settings_with_label">Ajustes (%s)</string>
     <string name="call_waiting_summary">Notificarme las demás llamadas entrantes durante una llamada</string>
     <string name="call_waiting_title">Llamada en espera</string>
@@ -733,10 +735,13 @@ Selección"</string>
     <string name="debug_networking_category">Redes</string>
     <string name="debug_view_attributes">Inspección de atributos de vista</string>
     <string name="default_carrier_mmi_msg_title">Mensaje del operador</string>
+    <string name="default_data_title">Datos</string>
     <string name="default_notification_description">Sonido predeterminado (%1$s)</string>
     <string name="default_preference_summary_domain_address">&lt;No configurado&gt;</string>
     <string name="default_preference_summary_password">&lt;No configurada&gt;</string>
     <string name="default_preference_summary_username">&lt;No configurado&gt;</string>
+    <string name="default_sim_setting">Tarjeta SIM predeterminada</string>
+    <string name="default_voice_title">Llamadas</string>
     <string name="delete">Eliminar</string>
     <string name="delete_blob_confirmation_text">¿Seguro que quieres eliminar estos datos compartidos?</string>
     <string name="delete_blob_text">Eliminar datos compartidos</string>
@@ -1112,7 +1117,7 @@ Aún puedes realizar llamadas de emergencia.\"</string>
     <string name="incall_number_anonymous_kd">ID no enviado</string>
     <string name="incall_number_unavailable_kd">No soportado</string>
     <string name="incall_status_dialed_mmi">Iniciando secuencia MMI…</string>
-    <string name="install_other_apps">Instalar aplicaciones desconocidas</string>
+    <string name="install_other_apps">Aplicaciones de origen desconocido</string>
     <string name="international_disable">Noticias internacionales inhabilitadas</string>
     <string name="international_enable">Noticias internacionales habilitadas</string>
     <string name="international_roaming_setting">Itinerancia de datos</string>
@@ -1483,7 +1488,7 @@ esperando para el código de desbloqueo"</string>
     <string name="msim_sim_lock">Bloqueado</string>
     <string name="msim_sim_radio_off">Desactivada</string>
     <string name="msim_switch_data_conn_toast">Tarjetas SIM intercambiadas. Tipo de red cambiado.</string>
-    <string name="msim_switch_data_conn_toast_for_h2xct">La ranura 2 de la SIM sólo soporta redes GSM. El tipo de red preferida ha sido cambiado a sólo redes 2G.</string>
+    <string name="msim_switch_data_conn_toast_for_h2xct">La ranura de la SIM 2 solo soporta redes GSM. El tipo de red preferida ha cambiado a solo red 2G.</string>
     <string name="mtn_simlock_emergency">Emergencia</string>
     <string name="mtn_simlock_text_tip">La tarjeta SIM insertada no cumple con el requisito. Debe insertar una tarjeta SIM requerida por el contrato antes de usar el teléfono. Para obtener más información, comuníquese con su operador local.</string>
     <string name="mtrl_badge_numberless_content_description">Nueva notificación</string>
@@ -1556,7 +1561,7 @@ esperando para el código de desbloqueo"</string>
 Se usarán las redes preferidas en su lugar."</string>
     <string name="network_settings_title">Redes móviles</string>
     <string name="network_settings_turn_off">Desactivada</string>
-    <string name="network_settings_warn_message">Tu dispositivo sólo se conectará a las redes que selecciones manualmente.</string>
+    <string name="network_settings_warn_message">El dispositivo solo conectará a las redes seleccionadas manualmente.</string>
     <string name="network_state_display">Mostrar estado de la red</string>
     <string name="network_state_display_title">Ajustes del estado de la red</string>
     <string name="network_unlock">Desbloquear</string>
@@ -1799,6 +1804,9 @@ Su teléfono se bloqueará automáticamente después de otro intento fallido"</s
     <string name="power_remaining_more_than_subtext">Tiempo restante: más de %1$s (%2$s)</string>
     <string name="power_remaining_only_more_than_subtext">Tiempo restante: más de %1$s</string>
     <string name="power_suggestion_battery_run_out">Puede que se agote la batería sobre las %1$s</string>
+    <string name="pref_sim_entries_item1">SIM 1</string>
+    <string name="pref_sim_entries_item2">SIM 2</string>
+    <string name="pref_sim_item_no_default">Ninguna predeterminada</string>
     <string name="prefered_network_type_3g_promp">Deberías desactivar VoLTE antes de seleccionar 3G como tu tipo de red preferido. ¿Desactivarlo ahora?</string>
     <string name="preference_auto_ip_summary_disable">Desactivado</string>
     <string name="preference_category_ringtone">Tono y vibración</string>
@@ -1873,7 +1881,7 @@ Su teléfono se bloqueará automáticamente después de otro intento fallido"</s
     <string name="preferred_network_type_pref_entries_global">Global</string>
     <string name="preferred_network_type_pref_entries_only_2g">Solo 2G</string>
     <string name="preferred_network_type_pref_entries_only_2g_lm_cr">Solo GSM</string>
-    <string name="preferred_network_type_pref_entries_only_3g">Sólo 3G</string>
+    <string name="preferred_network_type_pref_entries_only_3g">Solo 3G</string>
     <string name="preferred_network_type_pref_entries_only_3g_lm_cr">Solo WCDMA</string>
     <string name="preferred_network_type_pref_entries_only_4g">Solo LTE</string>
     <string name="preferred_network_type_title">Tipo de red preferida</string>
@@ -2173,6 +2181,7 @@ Interfaz UT: %5$s"</string>
     <string name="sim_nrca_title">SIM %1$s (%2$s)</string>
     <string name="sim_roaming_settings_summary">Conectarse a redes de datos móviles en itinerancia</string>
     <string name="sim_roaming_settings_title">Roaming Mi</string>
+    <string name="sim_select_dialog_title">Selecciona una tarjeta SIM</string>
     <string name="sim_selection_required_pref">Debes seleccionar una opción</string>
     <string name="sim_service_setting">SIM Mi y Roaming Mi</string>
     <string name="simmelock_name">Bloqueo SIM ME</string>
@@ -2238,6 +2247,10 @@ Confirme la configuración de su cuenta de llamadas predeterminada."</string>
     <string name="smart_forwarding_settings_menu">Desvío inteligente</string>
     <string name="smart_forwarding_settings_menu_summary">"Cuando no se puede contactar con un número, las llamadas se desvían siempre a otro número"</string>
     <string name="smart_multinetwork_acceleration_title">Aceleración inteligente de red</string>
+    <string name="smart_switch_dual_sim_diag_cancel">Cancelar</string>
+    <string name="smart_switch_dual_sim_diag_message">"Parece que la SIM de datos actual no proporciona una conexión estable. Cambiar automáticamente entre tarjetas SIM puede mejorar la calidad de la conexión. Puedes activar esta función en Ajustes."</string>
+    <string name="smart_switch_dual_sim_diag_ok">Ajustes</string>
+    <string name="smart_switch_dual_sim_diag_title">Atención</string>
     <string name="smart_switch_dual_sim_prompt">Conectar a la red de datos móviles con la SIM %1$s puede generar cargos adicionales por datos. Establece un límite de uso de datos para evitarlo.</string>
     <string name="smart_switch_dual_sim_summary">Cambiar automáticamente entre tarjetas SIM de datos según la calidad de conexión y el estado del dispositivo</string>
     <string name="smart_switch_dual_sim_title">Cambiar entre tarjetas SIM de datos</string>
@@ -2499,7 +2512,7 @@ Cualquier usuario puede actualizar las aplicaciones del resto de usuarios."</str
     <string name="ussdRunning">Código USSD en ejecución...</string>
     <string name="v7_preference_off">DESACTIVADA</string>
     <string name="v7_preference_on">ACTIVADO</string>
-    <string name="verify_apps_over_usb_summary">Comprobar las aplicaciones instaladas mediante ADB/ADT para detectar comportamientos dañinos</string>
+    <string name="verify_apps_over_usb_summary">Comprueba si una aplicación instalada por ADB/ADT tiene contenido dañino.</string>
     <string name="verify_apps_over_usb_title">Verificar aplicación por USB</string>
     <string name="vice_card_data_in_use_alert">Se podrían generar gastos adicionales de datos.</string>
     <string name="vice_slot_volte_data_switch_prompt">Su dispositivo se conectará a una red de datos móviles utilizando la SIM secundaria durante las llamadas VoLTE en curso. Esto puede generar cargos adicionales. Póngase en contacto con su proveedor local para obtener detalles sobre su plan de datos.</string>
@@ -2612,7 +2625,7 @@ Las llamadas de emergencia están solo disponibles en áreas con cobertura móvi
     <string name="wifi_auto_sel_wapi_cert">Seleccionar automáticamente</string>
     <string name="wifi_call_accept">Aceptar</string>
     <string name="wifi_call_available_message">"Ahora puedes hacer llamadas usando Wi-Fi. Si estás conectado a una red Wi-Fi, podrás hablar incluso cuando estás en áreas sin cobertura móvil."</string>
-    <string name="wifi_call_available_message_for_ATT_MX">Está a punto de conectarse a una red Wi-Fi, la calidad de la llamada puede variar según la red.</string>
+    <string name="wifi_call_available_message_for_ATT_MX">Estás a punto de conectar a una red Wi-Fi, la calidad de la llamada puede variar dependiendo de la red.</string>
     <string name="wifi_call_available_title">Activando llamadas Wi-Fi</string>
     <string name="wifi_call_cancel">Más información</string>
     <string name="wifi_call_help">Ayuda</string>
@@ -2735,6 +2748,7 @@ posible que el almacenamiento de credenciales no esté habilitado"</string>
     <string name="wrong_password">La contraseña introducida no es correcta</string>
     <string name="xcap_setting_summary">Restricción de llamadas, desvío de llamadas de correo de voz &amp; y llamada en espera</string>
     <string name="xcap_setting_title">Configuración del servicio de llamadas</string>
+    <string name="xiaoai_assistant_setting_title">Asistente de Llamada IA</string>
     <string name="yesterday">Ayer</string>
     <string name="zen_alarm_warning">"No oirás la próxima alarma (%1$s)"</string>
     <string name="zen_alarm_warning_indef">"Solo oirás la próxima alarma (%1$s) si desactivas esta opción antes"</string>

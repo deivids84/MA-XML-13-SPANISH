@@ -58,6 +58,7 @@
     <string name="icon_remove_description_content">"\"Servicios y comentarios\" es una aplicación del sistema. Aún podrás usarlo a través de Ajustes después de eliminar el acceso directo de la Pantalla de inicio."</string>
     <string name="icon_remove_description_title">¿Quieres eliminar \"Servicios y comentarios\" de la Pantalla de inicio?</string>
     <string name="mi_service_app_name">Servicios y comentarios</string>
+    <string name="mi_service_back">Atrás</string>
     <string name="midnight">Noche</string>
     <string name="miservice_channel_update_notification_info">\"Servicios y comentarios\" está solicitando datos online…</string>
     <string name="miservice_notification_boot_content">Aprende más sobre lo que puede hacer MIUI</string>
@@ -302,7 +303,7 @@ Lea y acepte la nueva versión de %3$s antes de continuar."</string>
     <string name="public_please_authorize">Permisos necesarios para continuar</string>
     <string name="public_welcome_use_feedback_service">¡Te damos la bienvenida a Servicios y Comentarios! Con esta aplicación puedes enviar comentarios, ver preguntas frecuentes, solicitar devoluciones, intercambios de productos, y más.</string>
     <string name="rationale_ask">Esta aplicación puede no funcionar correctamente sin los permisos solicitados.</string>
-    <string name="rationale_ask_again">Esta aplicación puede no funcionar correctamente sin los permisos solicitados. Abre la pantalla de configuración de la aplicación para modificar los permisos de la aplicación.</string>
+    <string name="rationale_ask_again">Puede que esta aplicación no funcione bien sin los permisos solicitados. Abre su pantalla de ajustes para modificar los permisos.</string>
     <string name="saturday">Sábado</string>
     <string name="saturday_short">Sáb</string>
     <string name="saturday_shortest">Sáb</string>

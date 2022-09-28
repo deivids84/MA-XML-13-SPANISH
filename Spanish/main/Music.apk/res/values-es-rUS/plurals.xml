@@ -214,6 +214,10 @@ Nota: el archivo también será eliminado del dispositivo."</item>
         <item quantity="other">Crossfade entre canciones: %d segundos</item>
         <item quantity="one">Crossfade entre canciones: %d segundo</item>
     </plurals>
+    <plurals name="task_guide">
+        <item quantity="other">Gana %1$d monedas hoy</item>
+        <item quantity="one">Gana %1$d moneda hoy</item>
+    </plurals>
     <plurals name="video_count">
         <item quantity="other">Videos</item>
         <item quantity="one">Video</item>

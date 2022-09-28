@@ -137,6 +137,11 @@ Puedes iniciar sesión usando %s ahora."</string>
     <string name="cloud_member_vipname_mega">Mega</string>
     <string name="cloud_member_vipname_premium">Premium</string>
     <string name="cloud_member_vipname_ultra">Ultra</string>
+    <string name="cloud_service_cloud_open">Activar</string>
+    <string name="cloud_service_space_full">Almacenamiento lleno</string>
+    <string name="cloud_service_space_not_enough">Almacenamiento insuficiente</string>
+    <string name="cloud_service_space_used">Ocupado</string>
+    <string name="cloud_service_state_error">"No se pudo cargar"</string>
     <string name="cloud_service_status_backup_not_open">La copia de seguridad está desactivada</string>
     <string name="cloud_service_status_cloud_not_open">Desactivar</string>
     <string name="cloud_service_status_storage_full">El almacenamiento está lleno</string>
@@ -213,6 +218,8 @@ Puedes iniciar sesión usando %s ahora."</string>
     <string name="diagnosis_log_sent_format">"Registro enviado con éxito.
 ID:%s
 Enviar este código al supervisor."</string>
+    <string name="dind_device_service_not_open">Desactivado</string>
+    <string name="dind_device_service_opened">Activado</string>
     <string name="download_file">Descargando %s…</string>
     <string name="early_morning">Mañana</string>
     <string name="empty_device_list_notice">No hay dispositivos</string>
@@ -228,6 +235,7 @@ Enviar este código al supervisor."</string>
     <string name="facebook_login">Iniciar sesión con Facebook</string>
     <string name="failed_dup_secure_phone_number">Este número de teléfono ya está asociado con otra cuenta Xiaomi</string>
     <string name="family_service">Servicios familiares</string>
+    <string name="family_service_not_open">Invitar a los miembros</string>
     <string name="family_share">Compartir en familia</string>
     <string name="find_device">Encontrar dispositivo</string>
     <string name="find_device_access_denied">"No se pudo obtener estatus, acceso negado"</string>
@@ -303,6 +311,8 @@ Enviar este código al supervisor."</string>
     <string name="kr_permission_phone_desc">Para proteger su cuenta</string>
     <string name="kr_permission_sms_desc">Para rellenar automáticamente códigos de verificación</string>
     <string name="kr_permission_storage_desc">Para guardar diagnósticos</string>
+    <string name="library_android_database_sqlcipher_libraryDescription">API SQLite de Android basada en SQLCipher</string>
+    <string name="library_android_database_sqlcipher_libraryName">Cifrado SQL para Android</string>
     <string name="loading_micloud_sync_data">Un momento…</string>
     <string name="login_3rd_app_with_system_account">Iniciar sesión en %s</string>
     <string name="login_check_find_device">Obteniendo información de seguridad del dispositivo…</string>
@@ -314,6 +324,7 @@ Enviar este código al supervisor."</string>
     <string name="login_with_other">Más opciones</string>
     <string name="logout_account">Cerrar sesión</string>
     <string name="logout_failed">"No se pudo cerrar sesión"</string>
+    <string name="mi_account">Cuenta Xiaomi</string>
     <string name="mi_account_identity_title">Verifique su identidad</string>
     <string name="mi_finance">Finanzas Mi</string>
     <string name="mi_finance_info">Bonos para nuevos usuarios</string>
@@ -865,6 +876,8 @@ Enviar este código al supervisor."</string>
     <string name="two_factor_auth_need_code_summary">"Recibirá un código en los otros dispositivos Mi conectados. Ingrese este código en el nuevo dispositivo para iniciar sesión."</string>
     <string name="two_factor_auth_summary">"Será notificado en otros dispositivos conectados cuando intente iniciar sesión en un nuevo dispositivo o desde una nueva ubicación. Tendrá que confirmar si autoriza dichos inicios de sesión."</string>
     <string name="unbind_sns_description">"Después de desconectar esta cuenta, no podrás usar información de tu cuenta %s para iniciar sesión en tu cuenta Xiaomi."</string>
+    <string name="unit_gb">" GB"</string>
+    <string name="unit_mb">" MB"</string>
     <string name="unknown_error_info">Error desconocido</string>
     <string name="unlock_help_notice">"Ayuda:
 1. Si olvidó su contraseña, vaya a id.mi.com para restablecerla.
@@ -908,6 +921,7 @@ Enviar este código al supervisor."</string>
     <string name="wednesday_short">Mié</string>
     <string name="wednesday_shortest">Mié</string>
     <string name="weixin_login">Iniciar sesión con WeChat</string>
+    <string name="xiaomi_cloud_service">Xiaomi Cloud</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Ahora no</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Actualizar</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Hay una actualización disponible</string>

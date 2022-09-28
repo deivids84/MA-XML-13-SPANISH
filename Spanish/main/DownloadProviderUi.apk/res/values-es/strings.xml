@@ -319,6 +319,9 @@
     <string name="sniff_shortcut_failed">"No se pudo crear el acceso directo"</string>
     <string name="start_download">Descargar</string>
     <string name="starting_analysis">Obteniendo información…</string>
+    <string name="storage_dialog_content">Permite que Descargas acceda al almacenamiento para usar sus funciones.</string>
+    <string name="storage_dialog_go">Ajustes</string>
+    <string name="storage_dialog_title">Acceder al almacenamiento</string>
     <string name="storage_internal">Almacenamiento interno</string>
     <string name="storage_permission_deny">Se necesita permisos de almacenamiento</string>
     <string name="storage_sd_card">Tarjeta SD</string>

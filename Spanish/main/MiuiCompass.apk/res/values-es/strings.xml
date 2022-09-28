@@ -207,8 +207,8 @@
     <string name="not_allowed">No concedido</string>
     <string name="not_set">Sin definir</string>
     <string name="open_camera">Usar cámara</string>
-    <string name="open_perm_msg">La brújula necesita acceso a tu ubicación y a la cámara. Esto es necesario para determinar las coordenadas y proveer previsualizaciones en vivo. ¿Permitir?</string>
-    <string name="open_perm_msg_no_camera">La Brújula necesita acceder a la información de ubicación para poder determinar las coordenadas. ¿Permitir?</string>
+    <string name="open_perm_msg">Brújula necesita acceso a tu ubicación y a la cámara. Es necesario para determinar las coordenadas y proveer vistas previas en vivo. ¿Permitir?</string>
+    <string name="open_perm_msg_no_camera">Brújula necesita acceder a la información de ubicación para determinar las coordenadas. ¿Permitir?</string>
     <string name="open_perm_title">Permisos requeridos</string>
     <string name="permission_camera_desc">Para mostrar el azimut en la previsualización en vivo</string>
     <string name="permission_description">Detalles de permisos</string>

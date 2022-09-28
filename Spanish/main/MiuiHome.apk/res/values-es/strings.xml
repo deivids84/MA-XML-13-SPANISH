@@ -35,8 +35,8 @@
     <string name="accessibility_enter_all_app_settings">Abrir los ajustes del Cajón de aplicaciones</string>
     <string name="accessibility_menu_item_smallwindow_disable">"Esta aplicación no es compatible con las ventanas flotantes"</string>
     <string name="accessibility_menu_item_smallwindow_enable">Esta aplicación es compatible con las ventanas flotantes</string>
-    <string name="accessibility_menu_item_split_disable">"La aplicación no es compatible con la Pantalla dividida."</string>
-    <string name="accessibility_menu_item_split_enable">La aplicación soporta la Pantalla dividida</string>
+    <string name="accessibility_menu_item_split_disable">"La aplicación no soporta la pantalla dividida."</string>
+    <string name="accessibility_menu_item_split_enable">La aplicación soporta la pantalla dividida</string>
     <string name="accessibility_recent_task_enter">Se abrió Recientes</string>
     <string name="accessibility_recent_task_exit">Se cerró Recientes</string>
     <string name="accessibility_recent_task_locked_state">Bloqueado</string>
@@ -82,12 +82,13 @@
     <string name="all_apps_search_app">Buscar aplicaciones</string>
     <string name="all_apps_search_market_message">Buscar online</string>
     <string name="all_apps_setting_classic_title">Clásico</string>
-    <string name="all_apps_setting_desktop_desc">"Muestra todas las aplicaciones instaladas en la Pantalla de inicio. Mantén pulsado el icono de una aplicación para ver los accesos directos disponibles, gestionar o desinstalar la aplicación."</string>
+    <string name="all_apps_setting_desktop_desc">"Muestra todas las aplicaciones instaladas en la pantalla de Inicio. Mantén pulsado el icono de una aplicación para ver sus accesos directos y gestionar o desinstalar la aplicación."</string>
     <string name="all_apps_setting_desktop_title">Normal</string>
     <string name="all_apps_setting_drawer_desc">"Coloca todas las aplicaciones instaladas en el cajón de aplicaciones, que puedes abrir deslizando hacia arriba la pantalla de inicio. Todavía encontrarás las aplicaciones movidas a la pantalla de inicio, en el cajón de aplicaciones."</string>
     <string name="all_apps_setting_drawer_tips_desc">El cajón de aplicaciones se abre deslizando hacia arriba la pantalla de inicio. Cambiar al modo cajón de aplicaciones hará que la búsqueda no esté disponible. ¿Cambiar?</string>
     <string name="all_apps_setting_drawer_tips_title">Usando el Cajón de aplicaciones</string>
     <string name="all_apps_setting_drawer_title">Con el cajón de aplicaciones</string>
+    <string name="all_apps_setting_jeejen_title">Modo Lite</string>
     <string name="all_apps_setting_letter_scrollbar">A-Z</string>
     <string name="all_apps_setting_original_scrollbar">Diseño original</string>
     <string name="all_apps_setting_scroll_bar">Barra de desplazamiento</string>
@@ -437,9 +438,12 @@
     <string name="is_setting_wallpaper_message">Estableciendo fondo de pantalla…</string>
     <string name="is_system_wallpaper_message">"No se pueden eliminar recursos del sistema"</string>
     <string name="item_view_role_description">Pestaña</string>
+    <string name="jeejen_description">"Elementos de la interfaz más grandes.
+Llamadas más accesibles.
+Seguridad mejorada."</string>
     <string name="key_shortcut_settings_title">Accesos directos de botones</string>
     <string name="label">Etiqueta</string>
-    <string name="launcher_icon_management">Gestionar accesos directos en la Pantalla de inicio</string>
+    <string name="launcher_icon_management">Gestionar accesos directos en la pantalla de Inicio</string>
     <string name="launcher_not_exist">Ha ocurrido un error. Vuelve a la Pantalla de inicio y vuelve a intentarlo.</string>
     <string name="launcher_pull_down_title">Deslizar hacia abajo en la Pantalla de inicio</string>
     <string name="launcher_search">Búsqueda en pantalla de inicio</string>
@@ -507,6 +511,7 @@
     <string name="menu_lock">Bloquear diseño de pantalla de inicio</string>
     <string name="menu_more">Más</string>
     <string name="menu_no_word">"No mostrar texto"</string>
+    <string name="menu_only_widget_no_word">No mostrar texto de los widgets</string>
     <string name="menu_picktheme">Selecciona un tema</string>
     <string name="menu_reset_scene">Volver al diseño predeterminado</string>
     <string name="menu_search">Buscar</string>
@@ -702,6 +707,9 @@
     <string name="open_personal_assistant_dialog_desc_international">"No podrás usar las tarjetas de la Bóveda de aplicaciones (valores, atajos, etc.) ni recibir actualizaciones después de desactivar esta función."</string>
     <string name="open_personal_assistant_dialog_title">Desactivar Bóveda de aplicaciones</string>
     <string name="open_personal_assistant_settings">Configuración de App vault</string>
+    <string name="open_personal_assistant_settings_off">Desactivar</string>
+    <string name="open_personal_assistant_settings_on">Activar</string>
+    <string name="open_personal_assistant_settings_simplified">Bóveda de aplicaciones</string>
     <string name="open_personal_assistant_title">Bóveda de aplicaciones</string>
     <string name="ota_layout_adjustment_button_text">Entendido</string>
     <string name="ota_layout_adjustment_content">Los diseños de la pantalla de inicio interior y exterior se sincronizaron en la nueva versión.</string>
@@ -712,16 +720,16 @@
     <string name="perfect_icons_switch_title">Animaciones de iconos globales</string>
     <string name="permdesc_install_shortcut">Permitir que una aplicación añada accesos directos sin intervención del usuario.</string>
     <string name="permdesc_install_widget">Permitir a una aplicación añadir widgets sin requerir al usuario acciones adicionales.</string>
-    <string name="permdesc_read_settings">"Permitir a una aplicación leer los ajustes y accesos directos de la Pantalla de inicio."</string>
+    <string name="permdesc_read_settings">"Permite a una aplicación leer los ajustes y accesos directos de la pantalla de Inicio."</string>
     <string name="permdesc_uninstall_shortcut">Permitir que una aplicación elimine accesos directos sin intervención del usuario.</string>
     <string name="permdesc_uninstall_widget">Permitir a una aplicación eliminar widgets sin requerir al usuario acciones adicionales.</string>
-    <string name="permdesc_write_settings">"Permitir a una aplicación cambiar los ajustes y accesos directos de la Pantalla de inicio."</string>
+    <string name="permdesc_write_settings">"Permite a una aplicación cambiar los ajustes y accesos directos de la pantalla de Inicio."</string>
     <string name="permlab_install_shortcut">Instalar accesos directos</string>
     <string name="permlab_install_widget">Instalar widgets</string>
-    <string name="permlab_read_settings">Leer los ajustes y accesos directos de la Pantalla de Inicio</string>
+    <string name="permlab_read_settings">Leer los ajustes y accesos directos de la pantalla de Inicio</string>
     <string name="permlab_uninstall_shortcut">Desinstalar accesos directos</string>
     <string name="permlab_uninstall_widget">Desinstalar widgets</string>
-    <string name="permlab_write_settings">Editar ajustes y accesos directos de pantalla de inicio</string>
+    <string name="permlab_write_settings">Editar ajustes y accesos directos de la pantalla de Inicio</string>
     <string name="photo_adjust">Vista previa</string>
     <string name="photo_confirm">Establecer</string>
     <string name="photo_load_failed">"No se puede cargar la foto"</string>
@@ -782,7 +790,7 @@
     <string name="recents_title_garbage_cleanup">Limpiador</string>
     <string name="recents_title_garbage_deepclean">Limpieza profunda</string>
     <string name="recents_title_market">Encontrar aplicaciones</string>
-    <string name="recents_title_security_scan">Análisis de seguridad</string>
+    <string name="recents_title_security_scan">Analizar seguridad</string>
     <string name="recents_tv_small_window_text">Ventanas flotantes</string>
     <string name="recents_worldcirculate_text">Suelte para seleccionar</string>
     <string name="recnets_relay_device_info">Desde %s</string>
@@ -802,10 +810,10 @@
     <string name="recommend_loading">Cargando</string>
     <string name="recommend_refresh">Actualizar</string>
     <string name="recommend_xout">"No mostrar"</string>
-    <string name="remove_dialog_message">Las aplicaciones seleccionadas contienen funciones esenciales del sistema. Solo puedes eliminar tus accesos directos de la Pantalla de inicio.</string>
+    <string name="remove_dialog_message">Las aplicaciones seleccionadas contienen funciones esenciales del sistema. Solo puedes eliminar sus accesos directos en la pantalla de Inicio.</string>
     <string name="remove_dialog_title_format">¿Eliminar \"%s\" de la Pantalla de inicio?</string>
     <string name="remove_invalidate_gadget_tips">Uno de los widgets que utilizas ya no está disponible. Puedes añadir otro.</string>
-    <string name="remove_sys_app_content">"Podrás añadir el acceso directo, otra vez, en Ajustes &gt; Aplicaciones &gt; Gestionar accesos directos en la Pantalla de inicio. ¿Eliminar ahora?"</string>
+    <string name="remove_sys_app_content">"Podrás añadir el acceso directo, otra vez, en Ajustes &gt; Aplicaciones &gt; Gestionar accesos directos en la pantalla de Inicio. ¿Eliminar?"</string>
     <string name="remove_sys_app_title">¿Eliminar el acceso directo de la Pantalla de inicio?</string>
     <string name="request_permission_msg">POCO Launcher necesita un par de permisos para darte acceso a su funcionalidad completa.</string>
     <string name="request_permission_title">Permisos requeridos</string>
@@ -848,7 +856,7 @@
     <string name="show_all">Mostrar todo</string>
     <string name="show_mem_info_title">Mostrar estado de la memoria</string>
     <string name="show_most_popular_apps_you_used">Mostrar aplicaciones más usadas en el cajón de aplicaciones</string>
-    <string name="show_recents_recommend_title">Mostrar sugerencias</string>
+    <string name="show_recents_recommend_title">Sugerencias en recientes</string>
     <string name="slide_to_open_newhome">Desliza hacia arriba para abrir el Centro de contenido</string>
     <string name="small_window">Ventana flotante</string>
     <string name="small_window_button_complete">Listo</string>

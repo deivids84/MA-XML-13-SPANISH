@@ -138,6 +138,11 @@
     <item>Piscis</item>
     <item>19/2 - 20/3</item>
   </string-array>
+  <string-array name="prefEntries_alerts_popup_new">
+    <item>Desactivado</item>
+    <item>Para todos los eventos</item>
+    <item>Para eventos sensibles a la hora</item>
+  </string-array>
   <string-array name="prefEntries_alerts_vibrateWhen">
     <item>Siempre</item>
     <item>Solo cuando el timbre esté silenciado</item>

@@ -164,14 +164,14 @@
     <string-array name="select_logpersist_summaries">
         <item>Apagado</item>
         <item>Todos los búferes de registro</item>
-        <item>Todos menos los búferes de registro de radio</item>
-        <item>sólo búfer de registro del kernel</item>
+        <item>Todo excepto registros de señal móvil</item>
+        <item>Solo el búfer de registro del kernel</item>
     </string-array>
     <string-array name="select_logpersist_titles">
         <item>Apagado</item>
         <item>Todos</item>
-        <item>Todo menos radio</item>
-        <item>sólo kernel</item>
+        <item>Todo excepto la señal móvil</item>
+        <item>Solo el kernel</item>
     </string-array>
     <string-array name="show_non_rect_clip_entries">
         <item>Apagado</item>

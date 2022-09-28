@@ -383,7 +383,7 @@ Cualquiera puede leer esta información desde la pantalla de bloqueo y llamar a 
     <string name="inactive_app_active_summary">Activo. Pulsa para alternar.</string>
     <string name="inactive_app_inactive_summary">Inactivo. Pulsa para alternar.</string>
     <string name="inactive_apps_title">Aplicaciones en espera</string>
-    <string name="install_other_apps">Instalar aplicaciones desconocidas</string>
+    <string name="install_other_apps">Aplicaciones de origen desconocido</string>
     <string name="item_view_role_description">Pestaña</string>
     <string name="keep_screen_on">Mantente despierto</string>
     <string name="keep_screen_on_summary">La pantalla nunca se pondrá en modo receso mientras se carga</string>
@@ -692,13 +692,13 @@ Cualquier usuario puede actualizar aplicaciones para todos los demás usuarios."
     <string name="user_switch_to_user">Cambiar a %s</string>
     <string name="v7_preference_off">DESACTIVAR</string>
     <string name="v7_preference_on">ACTIVAR</string>
-    <string name="verify_apps_over_usb_summary">Verifique las aplicaciones instaladas a través de ADB/ADT para detectar comportamientos dañinos.</string>
+    <string name="verify_apps_over_usb_summary">Comprueba si una aplicación instalada por ADB/ADT tiene contenido dañino.</string>
     <string name="verify_apps_over_usb_title">Verificar aplicación por USB</string>
     <string name="vpn_settings_not_available">La configuración de VPN no está disponible para este usuario</string>
     <string name="wait_for_debugger">Espere al depurador</string>
     <string name="wait_for_debugger_summary">La aplicación depurada espera a que el depurador se adjunte antes de ejecutarse</string>
     <string name="wapi_all_sel_mode">Seleccionar modo</string>
-    <string name="wapi_auto_sel_cert_fail">No se puede seleccionar el certificado automáticamente. Seleccione un certificado de la lista y luego intente conectarse.</string>
+    <string name="wapi_auto_sel_cert_fail">No se puede seleccionar el certificado automáticamente. Selecciona uno de la lista e intenta conectar.</string>
     <string name="wapi_cert_is_not_exist">No hay certificado disponible, instale el certificado primero</string>
     <string name="wapi_cert_is_not_selected">Primero seleccione el certificado</string>
     <string name="wapi_cert_manage_error">No se pudo configurar el certificado WAPI.</string>

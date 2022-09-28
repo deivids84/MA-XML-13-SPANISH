@@ -49,8 +49,8 @@
         <item quantity="one">%1$d elemento seleccionado</item>
     </plurals>
     <plurals name="document_duplicate_data_tip">
-        <item quantity="other">Importado correctamente (filtrado %1$d elementos duplicados)</item>
-        <item quantity="one">Importado correctamente (filtrado %1$d elemento duplicado)</item>
+        <item quantity="other">Importados (filtrados %1$d elementos duplicados)</item>
+        <item quantity="one">Importados (filtrado %1$d elemento duplicado)</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="one">Hace media hora</item>

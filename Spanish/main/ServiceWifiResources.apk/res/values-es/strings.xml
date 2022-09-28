@@ -22,9 +22,9 @@
     <string name="wifi_connect_default_application">Una aplicación</string>
     <string name="wifi_disable_mac_randomization_dialog_confirm_text">Cambio de configuración</string>
     <string name="wifi_disable_mac_randomization_dialog_failure">"No se puede cambiar la configuración de privacidad"</string>
-    <string name="wifi_disable_mac_randomization_dialog_message">"Para conectarse, %1$s necesita usar la dirección MAC de su dispositivo, un identificador único. Actualmente, su configuración de privacidad para esta red utiliza un identificador aleatorio. 
+    <string name="wifi_disable_mac_randomization_dialog_message">"Para conectarse, %1$s necesita usar la dirección MAC del dispositivo, un identificador único. Actualmente, los ajustes de privacidad para esta red utilizan un identificador aleatorio. 
 
-Este cambio puede permitir que los dispositivos cercanos rastreen la ubicación de su dispositivo."</string>
+Este cambio puede permitir a los dispositivos cercanos rastrear tu ubicación."</string>
     <string name="wifi_disable_mac_randomization_dialog_network_not_found">Red no encontrada</string>
     <string name="wifi_disable_mac_randomization_dialog_success">Configuración actualizada. Intenta conectar otra vez.</string>
     <string name="wifi_disable_mac_randomization_dialog_title">¿Cambiar la configuración de privacidad?</string>
@@ -53,7 +53,7 @@ Este cambio puede permitir que los dispositivos cercanos rastreen la ubicación 
     <string name="wifi_suggestion_action_disallow_app">No, gracias</string>
     <string name="wifi_suggestion_action_disallow_imsi_privacy_exemption_carrier">"No conectar"</string>
     <string name="wifi_suggestion_action_disallow_imsi_privacy_exemption_confirmation">"No conectar"</string>
-    <string name="wifi_suggestion_content">%s redes sugeridas. El dispositivo puede conectarse automáticamente.</string>
+    <string name="wifi_suggestion_content">%s redes sugeridas. El dispositivo puede conectar automáticamente.</string>
     <string name="wifi_suggestion_imsi_privacy_content">Estas redes reciben una ID de SIM que se puede usar para rastrear la ubicación del dispositivo</string>
     <string name="wifi_suggestion_imsi_privacy_exemption_confirmation_content">"Si se conecta, %s las redes Wi-Fi pueden acceder o compartir una ID única asociada con su SIM. Esto puede permitir que se rastree la ubicación de su dispositivo."</string>
     <string name="wifi_suggestion_imsi_privacy_exemption_confirmation_title">¿Confirmar conexión?</string>

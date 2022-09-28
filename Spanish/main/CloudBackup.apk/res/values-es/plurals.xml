@@ -76,6 +76,14 @@
         <item quantity="other">Hace %d minutos</item>
         <item quantity="one">Hace 1 minuto</item>
     </plurals>
+    <plurals name="session_starting_app_count_backup_text">
+        <item quantity="other">Copia de seguridad de %d aplicaciones</item>
+        <item quantity="one">Copia de seguridad de %d aplicación</item>
+    </plurals>
+    <plurals name="session_starting_app_count_restore_text">
+        <item quantity="other">Se han restaurado %d aplicaciones</item>
+        <item quantity="one">Se ha restaurado %d aplicación</item>
+    </plurals>
     <plurals name="session_time_remain">
         <item quantity="other">Aproximadamente %s minutos restantes</item>
         <item quantity="one">Aproximadamente %s minuto restante</item>

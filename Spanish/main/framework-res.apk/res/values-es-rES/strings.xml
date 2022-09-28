@@ -156,8 +156,8 @@
     <string name="accessibility_enable_service_encryption_warning">Si activas %1$s, el dispositivo no utilizará el bloqueo de pantalla para mejorar el cifrado de datos.</string>
     <string name="accessibility_enable_service_title">¿Permitir que %1$s pueda controlar totalmente tu dispositivo?</string>
     <string name="accessibility_freeform_caption">Barra de subtítulos de %1$s.</string>
-    <string name="accessibility_gesture_3finger_instructional_text">Para cambiar de una función a otra, desliza tres dedos hacia arriba y mantén pulsada la pantalla.</string>
-    <string name="accessibility_gesture_3finger_prompt_text">Elige la función que se utilizará con el gesto de accesibilidad (deslizar tres dedos hacia arriba desde la parte inferior de la pantalla):</string>
+    <string name="accessibility_gesture_3finger_instructional_text">Para cambiar de una función a otra, desliza hacia arriba con tres dedos y mantén pulsada la pantalla.</string>
+    <string name="accessibility_gesture_3finger_prompt_text">Elige una función para usar con el gesto de accesibilidad (deslizar hacia arriba desde la parte inferior de la pantalla con tres dedos):</string>
     <string name="accessibility_gesture_instructional_text">Para cambiar de una función a otra, desliza hacia arriba con dos dedos y mantén pulsada la pantalla.</string>
     <string name="accessibility_gesture_prompt_text">Elige la función que se utilizará con el gesto de accesibilidad (deslizar dos dedos hacia arriba desde la parte inferior de la pantalla):</string>
     <string name="accessibility_magnification_chooser_text">Ampliación</string>
@@ -1202,7 +1202,7 @@ notificaciones mejoradas pueden acceder al contenido de las notificaciones, incl
     <string name="permdesc_handoverStatus">Permite que esta aplicación reciba información sobre las transferencias actuales de Android Beam</string>
     <string name="permdesc_highSamplingRateSensors">Permite que la aplicación muestree los datos del sensor a una frecuencia superior a 200 Hz</string>
     <string name="permdesc_imagesWrite">Permite que la aplicación modifique tu colección de fotos.</string>
-    <string name="permdesc_install_shortcut">Permite que una aplicación añada accesos directos a la pantalla de inicio sin intervención del usuario.</string>
+    <string name="permdesc_install_shortcut">Permite a una aplicación añadir accesos directos en la pantalla de Inicio sin intervención del usuario.</string>
     <string name="permdesc_invokeCarrierSetup">Permite ejecutar la aplicación de configuración proporcionada por el operador. No debe ser necesario para aplicaciones normales.</string>
     <string name="permdesc_killBackgroundProcesses">Este permiso autoriza a la aplicación a interrumpir procesos en segundo plano de otras aplicaciones y puede hacer, por tanto, que esas aplicaciones dejen de ejecutarse.</string>
     <string name="permdesc_manageFingerprint">Permite a la aplicación añadir, eliminar y usar modelos de huellas dactilares.</string>
@@ -1262,7 +1262,7 @@ notificaciones mejoradas pueden acceder al contenido de las notificaciones, incl
     <string name="permdesc_systemAlertWindow">Esta aplicación puede aparecer sobre otras aplicaciones u otras partes de la pantalla. Esto puede interferir con el uso normal de las aplicaciones y cambiar la forma en la que estas aparecen.</string>
     <string name="permdesc_systemCamera">Esta aplicación del sistema o con privilegios puede hacer fotos y grabar vídeos en cualquier momento con una cámara del sistema, aunque debe tener también el permiso android.permission.CAMERA para hacerlo</string>
     <string name="permdesc_transmitIr">"Permite que la aplicación utilice el transmisor de infrarrojos del teléfono."</string>
-    <string name="permdesc_uninstall_shortcut">Permite que la aplicación elimine accesos directos de la pantalla de inicio sin la intervención del usuario.</string>
+    <string name="permdesc_uninstall_shortcut">Permite a una aplicación eliminar accesos directos en la pantalla de Inicio sin intervención del usuario.</string>
     <string name="permdesc_useBiometric">Permite que la aplicación utilice el hardware biométrico para realizar la autenticación</string>
     <string name="permdesc_useDataInBackground">Esta aplicación puede utilizar datos en segundo plano, pero es posible que aumente el uso de datos.</string>
     <string name="permdesc_useFingerprint">Permite que la aplicación use el hardware de huella dactilar para autenticación.</string>
@@ -1359,7 +1359,7 @@ para la cuenta %s"</string>
     <string name="permlab_exemptFromAudioRecordRestrictions">excluir de las restricciones de grabación de audio</string>
     <string name="permlab_expandStatusBar">expandir/contraer la barra de estado</string>
     <string name="permlab_foregroundService">ejecutar servicio en primer plano</string>
-    <string name="permlab_fullScreenIntent">mostrar notificaciones como actividades de pantalla completa en un dispositivo bloqueado</string>
+    <string name="permlab_fullScreenIntent">Mostrar notificaciones como actividades de pantalla completa en un dispositivo bloqueado</string>
     <string name="permlab_getAccounts">buscar cuentas en el dispositivo</string>
     <string name="permlab_getPackageSize">medir el espacio de almacenamiento de la aplicación</string>
     <string name="permlab_getTasks">recuperar aplicaciones en ejecución</string>
@@ -1686,7 +1686,7 @@ Escuchar sonidos fuertes durante mucho tiempo puede dañar los oídos."</string>
     <string name="skip_button_label">Saltar</string>
     <string name="slice_more_content">%1$d más</string>
     <string name="slices_permission_request">%1$s quiere mostrar fragmentos de %2$s</string>
-    <string name="sms_control_message">&lt;b&gt;%1$s&lt;/b&gt; está enviando un gran número de mensajes SMS. ¿Permitir que está aplicación siga enviando mensajes?</string>
+    <string name="sms_control_message">&lt;b&gt;%1$s&lt;/b&gt; está enviando gran cantidad de mensajes SMS. ¿Permitir que siga enviando mensajes?</string>
     <string name="sms_control_no">Denegar</string>
     <string name="sms_control_title">Enviando mensajes SMS...</string>
     <string name="sms_control_yes">Permitir</string>
