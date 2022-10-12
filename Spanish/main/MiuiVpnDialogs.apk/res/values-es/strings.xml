@@ -29,8 +29,8 @@
     <string name="abc_toolbar_collapse_description">Contraer</string>
     <string name="actionbar_button_up_description">Atrás</string>
     <string name="afternoon">Tarde</string>
-    <string name="always_on_disconnected_message">"%1$s está configurado para permanecer conectado todo el tiempo, pero no puede conectarse en este momento. Su teléfono utilizará una red pública hasta que pueda volver a conectarse a %1$s."</string>
-    <string name="always_on_disconnected_message_lockdown">"%1$s está configurado para permanecer conectado todo el tiempo, pero no puede conectarse en este momento. No tendrás conexión hasta que la VPN pueda volver a conectarse."</string>
+    <string name="always_on_disconnected_message">"%1$s está configurado para permanecer conectado todo el tiempo, pero no puede conectar en este momento. Se utilizará una red pública hasta que sea posible conectar a %1$s."</string>
+    <string name="always_on_disconnected_message_lockdown">"%1$s está configurado para permanecer conectado todo el tiempo, pero no puede conectar en este momento. No tendrás conexión hasta que la VPN pueda conectar."</string>
     <string name="always_on_disconnected_message_settings_link">Cambiar la configuración de VPN</string>
     <string name="always_on_disconnected_title">"No se puede conectar a una VPN siempre activa"</string>
     <string name="am">AM</string>
@@ -86,7 +86,7 @@
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Suelte para actualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Eso es todo por ahora"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">"Eso es todo por ahora"</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Sólo un segundo…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Un momento…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"No se pudieron cargar los elementos"</string>
     <string name="monday">Lunes</string>
     <string name="monday_short">Lun</string>

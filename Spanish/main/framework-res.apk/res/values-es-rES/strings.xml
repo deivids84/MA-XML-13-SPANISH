@@ -1267,7 +1267,7 @@ notificaciones mejoradas pueden acceder al contenido de las notificaciones, incl
     <string name="permdesc_useDataInBackground">Esta aplicación puede utilizar datos en segundo plano, pero es posible que aumente el uso de datos.</string>
     <string name="permdesc_useFingerprint">Permite que la aplicación use el hardware de huella dactilar para autenticación.</string>
     <string name="permdesc_use_sip">Permite que la aplicación haga y reciba llamadas SIP.</string>
-    <string name="permdesc_uwb_ranging">Permita que la aplicación determine la posición relativa entre los dispositivos de banda ultra-ancha cercanos</string>
+    <string name="permdesc_uwb_ranging">Permite que la aplicación determine la posición relativa entre dispositivos de banda ultra-ancha cercanos</string>
     <string name="permdesc_vibrate">Permite que la aplicación controle la función de vibración.</string>
     <string name="permdesc_vibrator_state">Permite que la aplicación acceda al ajuste de vibración.</string>
     <string name="permdesc_videoWrite">Permite que la aplicación modifique tu colección de vídeos.</string>

@@ -13,7 +13,7 @@
     <string name="change_default_call_screening_dialog_affirmative">Establecer por defecto</string>
     <string name="change_default_call_screening_dialog_negative">Cancelar</string>
     <string name="change_default_call_screening_dialog_title">¿Convertir %s en tu aplicación de filtro predeterminada?</string>
-    <string name="change_default_call_screening_warning_message">%s podrá ver información sobre las llamadas que recibas de personas que no estén en tus contactos y podrá bloquearlas. Te recomendamos que solo configures una aplicación de filtro de llamadas como predeterminada si es de confianza.</string>
+    <string name="change_default_call_screening_warning_message">%s podrá ver información sobre llamadas que recibas de personas no incluidas entre tus contactos y podrás bloquearlas. Te recomendamos que solo uses una aplicación para filtrar llamadas si es de confianza.</string>
     <string name="change_default_call_screening_warning_message_for_disable_old_app">%s ya no podrá filtrar llamadas.</string>
     <string name="change_default_dialer_dialog_affirmative">Establecer por defecto</string>
     <string name="developer_title">Menú de desarrollador de telecomunicaciones</string>

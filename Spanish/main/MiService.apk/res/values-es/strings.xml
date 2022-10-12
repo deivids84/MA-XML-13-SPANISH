@@ -167,6 +167,10 @@ Correo electrónico: service.jp@xiaomi.com"</string>
     <string name="miui_main_control_center_desc">O cambia a la versión anterior en Ajustes &gt; Notificaciones y Centro de control</string>
     <string name="miui_main_control_center_open">Nuevo Centro de control</string>
     <string name="miui_main_control_center_title">Desliza para cambiar entre la Barra de notificaciones y el Centro de control</string>
+    <string name="miui_main_icon_callback">Acceso directo en la pantalla de inicio</string>
+    <string name="miui_main_icon_callback_create">Crear</string>
+    <string name="miui_main_icon_callback_desc">Crear acceso directo en la pantalla de inicio?</string>
+    <string name="miui_main_icon_callback_nocreate">Cancelar</string>
     <string name="miui_main_mirror_tab_desc1">Conecta automáticamente</string>
     <string name="miui_main_mirror_tab_desc2">Ver imágenes en una pantalla mayor</string>
     <string name="miui_main_mirror_tab_desc3">Comparte archivos en un instante</string>

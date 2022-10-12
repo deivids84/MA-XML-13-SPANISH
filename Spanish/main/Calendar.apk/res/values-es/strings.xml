@@ -87,6 +87,7 @@
     <string name="birthday_saved">Cumpleaños guardado</string>
     <string name="birthday_term">cumpleaños</string>
     <string name="button_record_menstruation">Registrar</string>
+    <string name="calendar_account_settings">Ajustes de la cuenta</string>
     <string name="calendar_permission_desc">Gestionar eventos</string>
     <string name="calendar_privacy_policy">Política de Privacidad</string>
     <string name="can_not_create_long_event">El nombre del evento es demasiado largo</string>
@@ -109,6 +110,7 @@
     <string name="change_response_title">Cambiar respuesta</string>
     <string name="change_zodiac">Cambiar signo zodiacal</string>
     <string name="character_counter_content_description">Límite de caracteres excedido %1$d de %2$d</string>
+    <string name="check_new_version">Buscar actualizaciones</string>
     <string name="chips_action_cancel">Cancelar</string>
     <string name="chips_action_copy">Copiar</string>
     <string name="chips_permission_text">Permitir sugerencias de contactos</string>
@@ -187,6 +189,7 @@
     <string name="description_calendar_edit_event">Aplicaciones del sistema/Calendario/Agenda</string>
     <string name="directory_searching_fmt">Buscar %s…</string>
     <string name="discard_label">Cancelar</string>
+    <string name="display_to_calendar">Mostrar en el calendario</string>
     <string name="does_not_repeat">Evento de una sola vez</string>
     <string name="dropdown_delete_button_desc">Eliminar %s de los destinatarios</string>
     <string name="early_morning">Mañana</string>
@@ -335,6 +338,7 @@
     <string name="horoscope">Horóscopo</string>
     <string name="horoscope_card_title">"Horóscopo de hoy"</string>
     <string name="horoscope_select_activity_label">Seleccionar signo del zodiaco</string>
+    <string name="hour_1">%d hora</string>
     <string name="image_processing">"La imagen no está lista todavía"</string>
     <string name="import_action">Importar</string>
     <string name="import_birthday">Importar cumpleaños</string>
@@ -399,6 +403,10 @@
     <string name="mesens_card_title_today_begin">Tu periodo podría comenzar hoy</string>
     <string name="mesens_card_title_tomorrow_begin">Tu periodo podría comenzar mañana</string>
     <string name="midnight">Noche</string>
+    <string name="minutes_10">%d minutos</string>
+    <string name="minutes_15">%d minutos</string>
+    <string name="minutes_30">%d minutos</string>
+    <string name="minutes_5">%d minutos</string>
     <string name="missing_name">(Sin nombre)</string>
     <string name="missing_required_permission">Has restringido los permisos requeridos.</string>
     <string name="miuix_access_state_desc">Seleccionado</string>
@@ -696,6 +704,9 @@ Comprueba los ajustes de red e inténtalo otra vez."</string>
     <string name="share_image_label">Compartir vía</string>
     <string name="share_title">Compartir</string>
     <string name="short_date_format">dd MMM</string>
+    <string name="shortcut_new_event">Añadir evento</string>
+    <string name="shortcut_next_agenda">Próximo evento</string>
+    <string name="shortcut_settings">Ajustes</string>
     <string name="show_day_view">Mostrar día</string>
     <string name="show_indic_date_summary">El calendario hindú está disponible al establecer uno de los idiomas de la India como idioma del sistema</string>
     <string name="show_menstruation_info">Mostrar información de menstruación</string>
@@ -726,6 +737,7 @@ También puedes añadir recordatorios para no perderte nada importante."</string
     <string name="subtitle_mi_calendar_predict_menstruation">Registra y calcula los próximos periodos usando el Calendario</string>
     <string name="subtitle_record_and_start_predict">Registra un periodo para estimar cuando comienza el siguiente</string>
     <string name="subtitle_stick_record">Registrar tus periodos para obtener predicciones más precisas</string>
+    <string name="suggestions_and_feedback">Comentarios</string>
     <string name="sunday">Domingo</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
