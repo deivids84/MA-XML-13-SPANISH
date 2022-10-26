@@ -856,7 +856,7 @@ Selección"</string>
     <string name="empty_networks_list">No se ha encontrado ninguna red.</string>
     <string name="enable">Activar</string>
     <string name="enable_adb">Depuración por USB</string>
-    <string name="enable_adb_summary">Activar el modo de depuración cuando el dispositivo esté conectado por USB</string>
+    <string name="enable_adb_summary">Activar el modo depuración con el dispositivo conectado por USB</string>
     <string name="enable_adb_wireless">Depuración inalámbrica</string>
     <string name="enable_adb_wireless_summary">Activa el modo de depuración cuando haya conexión Wi‑Fi</string>
     <string name="enable_antispam_strange_summary">Silenciar el primer tono para las llamadas de números desconocidos</string>
@@ -1063,7 +1063,7 @@ Ponte en contacto con tu operador si el problema persiste."</string>
     <string name="guest_resetting">Restableciendo invitado…</string>
     <string name="hac_mode_summary">Activar compatibilidad con audífonos</string>
     <string name="hac_mode_title">Audífonos</string>
-    <string name="handon_ringer_summary">Reduce el volumen del tono de llamada entrante cuando el teléfono está levantado.</string>
+    <string name="handon_ringer_summary">Reduce el volumen del tono de llamada entrante al coger el dispositivo.</string>
     <string name="handon_ringer_title">Silenciar volumen cuando se coge el teléfono</string>
     <string name="hdcp_checking_dialog_title">Establecer comprobación HDCP</string>
     <string name="hdcp_checking_title">Comprobación de HDCP</string>
@@ -1872,10 +1872,8 @@ Su teléfono se bloqueará automáticamente después de otro intento fallido"</s
     <string name="preferred_network_type_pref_entries_4g_preferred">Preferir 4G</string>
     <string name="preferred_network_type_pref_entries_4g_preferred_cdma">Preferir 4G (CDMA)</string>
     <string name="preferred_network_type_pref_entries_4g_preferred_custom">Preferir 4G</string>
-    <string name="preferred_network_type_pref_entries_4g_preferred_mx_at">4G/3G/2G (4G preferido)</string>
     <string name="preferred_network_type_pref_entries_4g_preferred_za_mt">2G/3G/4G automático</string>
     <string name="preferred_network_type_pref_entries_5g_preferred">Preferir 5G</string>
-    <string name="preferred_network_type_pref_entries_5g_preferred_mx_at">5G/4G/3G/2G (5G/4G preferido)</string>
     <string name="preferred_network_type_pref_entries_5g_preferred_za_mt">2G/3G/4G/5G automático</string>
     <string name="preferred_network_type_pref_entries_auto">Automático</string>
     <string name="preferred_network_type_pref_entries_global">Global</string>
@@ -2262,6 +2260,7 @@ Confirme la configuración de su cuenta de llamadas predeterminada."</string>
     <string name="speed_label_slow">Lenta</string>
     <string name="speed_label_very_fast">Muy rápida</string>
     <string name="speed_label_very_slow">Muy lenta</string>
+    <string name="speed_limit_card_toast">"Has agotado los datos a máxima velocidad. Ahora, se reducirá la velocidad de conexión."</string>
     <string name="sports_news_settings">Noticias deportivas</string>
     <string name="standby_bucket_summary">Estado de la aplicación en espera:  %s</string>
     <string name="status_hint_label_incoming_wifi_call">Llamada por Wi-Fi de</string>

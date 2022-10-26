@@ -242,7 +242,7 @@ Protocolo de conexión más rápido."</string>
     <string name="mi_audio_relay_localphone">Este dispositivo</string>
     <string name="mi_audio_relay_phone_name">Mi teléfono</string>
     <string name="mi_audio_relay_title">Seleccionar dispositivo</string>
-    <string name="mi_band_vibrate_alarm">Vibrar cuando suene la alarma</string>
+    <string name="mi_band_vibrate_alarm">Vibra cuando suena la alarma</string>
     <string name="mi_band_vibrate_incall">Vibrar al sonar</string>
     <string name="mi_band_vibrate_incall_in_contacts">Llamadas de contactos</string>
     <string name="mi_band_vibrate_incall_no_contacts">Llamadas de números desconocidos</string>

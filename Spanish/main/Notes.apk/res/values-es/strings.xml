@@ -28,6 +28,7 @@
     <string name="abc_shareactionprovider_share_with_application">Compartir con %s</string>
     <string name="abc_toolbar_collapse_description">Ocultar</string>
     <string name="access_denied_info">Demasiados intentos. Espera un par de minutos e inténtalo otra vez.</string>
+    <string name="access_photos_and_videos">Acceder a fotos y vídeos</string>
     <string name="action_collapse">Ocultar</string>
     <string name="action_expand">Mostrar más</string>
     <string name="action_folder_description">Ver en carpetas</string>
@@ -41,7 +42,7 @@
     <string name="actionbar_button_up_description">Atrás</string>
     <string name="actionbar_close_description">Cerrar</string>
     <string name="actionbar_home_description">Atrás</string>
-    <string name="add_account_desc">¿Sincronizar tus notas con la cuenta Xiaomi?</string>
+    <string name="add_account_desc">¿Sincronizar tus notas con tu cuenta Xiaomi?</string>
     <string name="afternoon">Tarde</string>
     <string name="alarm_bar_title">Recordatorio</string>
     <string name="alert_action_edit_anyway">Continuar editando</string>
@@ -502,6 +503,7 @@
     <string name="new_audio_create_guide_tip">Mantén pulsado para crear una nota de voz</string>
     <string name="new_audio_create_talkback_des">Pulsa para crear una nota de texto. Mantén pulsado para crear una nota de voz. Libera el botón la detener la grabación y crear la nota o desliza hacia arriba para cancelar.</string>
     <string name="new_data_empty_note">No hay elementos todavía</string>
+    <string name="new_lite_audio_create_talkback_des">Pulsa para añadir una nota</string>
     <string name="night">Tarde-noche</string>
     <string name="no_network">"No se puede conectar a la red"</string>
     <string name="noon">Mediodía</string>
@@ -597,6 +599,8 @@
     <string name="permission_microphone_desc">Para grabar notas de voz</string>
     <string name="permission_network_for_cloud_desc">Para sincronizar notas con la nube necesitas conectarte a internet. Los datos móviles podrían ser usados para sincronizar elementos. ¿Conectar ahora?</string>
     <string name="permission_phone_state_desc">Para dejar de grabar notas de voz durante las llamadas</string>
+    <string name="permission_photos_desc">Para añadir imágenes a las notas</string>
+    <string name="permission_photos_desc_pad">Para añadir imágenes a las notas</string>
     <string name="permission_read_contact_desc">Asociar las notas creadas durante las llamadas con contactos</string>
     <string name="permission_storage_desc">Para guardar notas como imágenes</string>
     <string name="permission_storage_desc_new_v12">Para añadir imágenes a las notas y guardar las notas como imágenes</string>
@@ -604,7 +608,7 @@
     <string name="permission_storage_desc_pad_v12">Para agregar imágenes a notas y guardar notas como imágenes</string>
     <string name="permission_storage_desc_v12">Para añadir imágenes a las notas y guardar notas como imágenes</string>
     <string name="permission_xiaoai_desc"><Data>La IA de Mi recopilará tus grabaciones de voz y el ID del dispositivo para transcribir audio y crear notas de voz. Más información en la &lt;a href=\"%1$s\"&gt;Política de Privacidad&lt;/a&gt; de la IA de Mi.</Data></string>
-    <string name="permission_xiaoai_desc_new"><Data>Para proporcionar servicios de transcripción de voz a texto, IA de Mi necesita recopilar la entrada de audio y la identificación del dispositivo, que se genera aleatoriamente. Lee y acepta nuestra &lt;a href=\"%1$s\"&gt;Declaración de intercambio de datos compartidos de terceros&lt;/a&gt; antes de continuar. Puedes obtener más información leyendo la Política de Privacidad de &lt;a href=\"%2$s\"&gt;&lt;/a&gt;.</Data></string>
+    <string name="permission_xiaoai_desc_new"><Data>Para proporcionar servicios de transcripción de voz a texto, IA de Xiaomi necesita recopilar la entrada de audio y la identificación del dispositivo, que se genera aleatoriamente. Lee y acepta nuestra &lt;a href=\"%1$s\"&gt;Declaración de intercambio de datos compartidos de terceros&lt;/a&gt; antes de continuar. Puedes obtener más información leyendo la Política de Privacidad en &lt;a href=\"%2$s\"&gt;&lt;/a&gt;.</Data></string>
     <string name="permission_xiaoai_title">Dictado a texto</string>
     <string name="permlab_accessNote">Acceder a tus notas</string>
     <string name="pm">PM</string>
@@ -698,6 +702,7 @@
     <string name="search_setting_description">Busca texto en tus notas</string>
     <string name="select_account_prompt">Activa la sincronización de notas</string>
     <string name="send">Enviar</string>
+    <string name="send_notifications_for_reminder">Para enviar recordatorios</string>
     <string name="set_alarm_description">Establecer alarma</string>
     <string name="setting_big_screen_layout_columns">Barra lateral</string>
     <string name="setting_big_screen_layout_flat">Tiles</string>
@@ -860,6 +865,7 @@ Permite a las Notas leer tus contactos y encontrar cuentas en el dispositivo."</
 Permite a las Notas leer el contenido de tu tarjeta SD."</string>
     <string name="toast_refuse_to_use_phone_state">"Los permisos del dispositivo están restringidos.
 Permite que Notas lea el estado y la identidad del dispositivo."</string>
+    <string name="toast_refuse_to_use_photos_in_excerpt">Permite a esta aplicación acceder a tus fotos, para añadir imágenes a las notas</string>
     <string name="toast_refuse_to_use_record_audio">"Los permisos del micrófono están restringidos.
 Permite a las Notas grabar audio."</string>
     <string name="toast_refuse_to_use_storage_in_excerpt">Permite que Notas acceda al almacenamiento para poder añadir imágenes a tus notas</string>
@@ -964,6 +970,9 @@ Permite a las Notas grabar audio."</string>
     <string name="wednesday">Miércoles</string>
     <string name="wednesday_short">Mié</string>
     <string name="wednesday_shortest">Mié</string>
+    <string name="widget_all_notes_name">Todas las notas</string>
+    <string name="widget_all_todo_name">Todas las tareas</string>
+    <string name="widget_click_check">Pulsa para ver</string>
     <string name="widget_content_loading">Un momento…</string>
     <string name="widget_create_select_size">Seleccionar tamaño</string>
     <string name="widget_empty_content">Toca para seleccionar una nota</string>

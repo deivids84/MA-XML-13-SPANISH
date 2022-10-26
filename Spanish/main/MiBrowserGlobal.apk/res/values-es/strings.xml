@@ -927,6 +927,7 @@ Remite este código al supervisor."</string>
     <string name="file_type">Formato: %s</string>
     <string name="filename_empty_alert_message">Introduce nombre del archivo</string>
     <string name="filename_illegal_alert_message">Un caracter no válido se eliminó del nombre del archivo</string>
+    <string name="files_stored_in_the_phone">Archivos almacenados en el dispositivo</string>
     <string name="find_garbage">Se ha encontrado %d MB de basura</string>
     <string name="find_new_version">NUEVA ACTUALIZACIÓN DISPONIBLE</string>
     <string name="find_on_page_cancel">Cancelar</string>
@@ -1270,6 +1271,7 @@ para añadir libros al mismo"</string>
     <string name="loading_tips">Tira hacia abajo para actualizar</string>
     <string name="local_apps">Aplicaciones locales</string>
     <string name="local_bookmarks">Mi</string>
+    <string name="local_file">Archivos locales</string>
     <string name="location_permission_name">Acceder a la ubicación</string>
     <string name="lockpattern_continue_button_text">Siguiente</string>
     <string name="lockpattern_need_to_confirm">Confirmar patrón de desbloqueo</string>
@@ -1405,6 +1407,7 @@ para añadir libros al mismo"</string>
     <string name="month_september_short">Sep</string>
     <string name="month_september_shortest">Sep</string>
     <string name="more">Más</string>
+    <string name="more_convenient_features_and_content">¡Nuevas herramientas y contenido ofrecidos!</string>
     <string name="more_description">Menú</string>
     <string name="more_info">Saber más</string>
     <string name="more_option">Más opciones</string>
@@ -2315,6 +2318,7 @@ Algunos sitios no usarán tu historial de navegación anterior para personalizar
     <string name="pwa_hint_added_success">Añadido</string>
     <string name="qr_code_title">Código QR</string>
     <string name="qr_description">Escanear código QR</string>
+    <string name="quick_access_to_common_functions">Accede rápidamente a tus funciones favoritas</string>
     <string name="quick_search_and_access_to_functions">La búsqueda rápida permite acceder fácilmente a las funciones más usadas.</string>
     <string name="quicklink_bookmark_save">Guardar en</string>
     <string name="quicklink_cannot_save_url">"No se puede añadir esta URL."</string>
@@ -2754,6 +2758,9 @@ recomendamos que uses el modo de lectura gratuita"</string>
     <string name="search_bar_hint_content">Buscar aplicaciones y contenido</string>
     <string name="search_bing">Bing</string>
     <string name="search_button_text">Ir</string>
+    <string name="search_card_online_rec_app">Tiendas de aplicaciones</string>
+    <string name="search_card_online_rec_app_install">Instalar</string>
+    <string name="search_card_online_rec_app_open">Abrir</string>
     <string name="search_dianping">Cate</string>
     <string name="search_easou">Easou</string>
     <string name="search_empty_view_hint">"Sin resultados"</string>
@@ -2829,6 +2836,8 @@ recomendamos que uses el modo de lectura gratuita"</string>
     <string name="setting_sms_content">Contenido de los SMS</string>
     <string name="setting_swipe_up">Desliza hacia arriba en la Pantalla de inicio</string>
     <string name="settings">Ajustes</string>
+    <string name="settings_search_online_apps">Tiendas de aplicaciones</string>
+    <string name="settings_search_online_apps_desc">Contenido de las tiendas de aplicaciones</string>
     <string name="share_image_text">¡Mira lo que he compartido! @MIUI</string>
     <string name="share_page_text">Mira lo que he compartido: %1$s @MIUI| %2$s</string>
     <string name="share_slide_video_text">Mira lo que he compartido: %1$s</string>
@@ -3157,6 +3166,7 @@ No muestra nada."</string>
     <string name="translation_query_error_network">"No se pudo traducir. Comprueba los ajustes de red e inténtalo otra vez."</string>
     <string name="translation_result_empty">"No se pudo traducir. Vuelve a intentarlo."</string>
     <string name="translation_to">Traducir a</string>
+    <string name="trash_cleaner_unit">MB</string>
     <string name="trending_apps_more">Más</string>
     <string name="tuesday">Martes</string>
     <string name="tuesday_short">Mar</string>
@@ -3373,6 +3383,7 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="web_video_download">Descargar</string>
     <string name="web_video_download_no_access">Se requieren permisos para descargar elementos</string>
     <string name="web_video_enable_long_click_toast">Reproduciendo a velocidad %dX</string>
+    <string name="web_video_float_drag_msg">Arrastra para ajustar el tamaño</string>
     <string name="web_video_list_more">Más</string>
     <string name="web_video_list_playing">Reproduciendo</string>
     <string name="web_video_list_replay">Volver a reproducir</string>

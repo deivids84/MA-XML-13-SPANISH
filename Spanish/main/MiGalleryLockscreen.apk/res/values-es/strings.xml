@@ -109,6 +109,10 @@
     <string name="apply_to_above_all">Establecer ambos</string>
     <string name="apply_to_screenlock">Establecer como pantalla de bloqueo</string>
     <string name="apply_to_wallpaper">Establecer como pantalla de inicio</string>
+    <string name="apply_warning_content">"Estás usando un Superfondo de pantalla. Si cambias el fondo de pantalla, se aplicará tanto a la pantalla de inicio como a la de bloqueo. ¿Aplicar?"</string>
+    <string name="apply_warning_content_with_aod">"Estás usando un Superfondo de pantalla. Si cambias el fondo de pantalla, se aplicará tanto a la pantalla de inicio como a la de bloqueo, y el modo pantalla siempre encendida puede restaurarse a su ajuste predeterminado. ¿Aplicar?"</string>
+    <string name="apply_warning_content_with_maml">"Estás usando un tema de terceros. Si cambias el fondo de pantalla, es posible que el reloj de la pantalla de bloqueo se restablezca a su estilo predeterminado. ¿Aplicar?"</string>
+    <string name="apply_warning_title">Aplicar fondo de pantalla</string>
     <string name="article_item_hot">Echa un vistazo a %s+ artículos populares</string>
     <string name="at_least_one">Seleccione al menos una categoría</string>
     <string name="auth_fail_warning">Sesión caducada. Vuelve a iniciar sesión.</string>
@@ -255,6 +259,7 @@ Remite este código al supervisor."</string>
     <string name="disable_dlg_title">Desactivar Carrusel de Fondos?</string>
     <string name="dislike">Borrar</string>
     <string name="dlg_cancel">Cancelar</string>
+    <string name="dlg_ok">Aplicar</string>
     <string name="doing_login">Iniciando sesión…</string>
     <string name="doing_query_account">Comprobando la información de la cuenta…</string>
     <string name="doing_register">Creando cuenta…</string>
@@ -447,6 +452,8 @@ dd/MM"</string>
 mm"</string>
     <string name="miui_vertical_time_format_24">"HH
 mm"</string>
+    <string name="miuix_access_state_desc">Seleccionado</string>
+    <string name="miuix_alphabet_indexer_name">Barra de índice</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleccionar todo</string>
     <string name="miuix_appcompat_action_mode_title_empty">Seleccionar elementos</string>
@@ -461,6 +468,8 @@ mm"</string>
     <string name="miuix_appcompat_select_all">Seleccionar todo</string>
     <string name="miuix_appcompat_select_all_description">Seleccionar todo</string>
     <string name="miuix_appcompat_select_item">Seleccionar elementos</string>
+    <string name="miuix_indexer_collect">Colecciones</string>
+    <string name="miuix_indexer_selected">Seleccionado %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Desliza hacia abajo para actualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado correctamente</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualizando...</string>
@@ -874,8 +883,8 @@ mm"</string>
     <string name="sst_feedback_title">Realimentación</string>
     <string name="sst_grid_view_select_all">Seleccionar todo</string>
     <string name="sst_grid_view_unselect_all">Deseleccionar todo</string>
-    <string name="sst_lockscreen_show_headline_desc">"Mostrar el título del fondo de pantalla debajo del reloj en la pantalla de bloqueo"</string>
-    <string name="sst_lockscreen_show_headline_title">Mostrar título en la pantalla de bloqueo</string>
+    <string name="sst_lockscreen_show_headline_desc">"Mostrar título del fondo de pantalla bajo el reloj en la pantalla de Bloqueo"</string>
+    <string name="sst_lockscreen_show_headline_title">Mostrar título en la pantalla de Bloqueo</string>
     <string name="sst_logo_desc">Fondos de pantalla nuevos todos los días</string>
     <string name="sst_mode_selection">Modo</string>
     <string name="sst_more_subscription">Más suscripciones</string>
@@ -895,7 +904,7 @@ mm"</string>
     <string name="sst_selected_tip">Actual</string>
     <string name="sst_shield_tag_desc">Gestionar categorías bloqueadas</string>
     <string name="sst_shield_tag_title">Elementos bloqueados</string>
-    <string name="sst_show_lockscreen_entry_desc">Mostrar acceso directo en la pantalla de bloqueo</string>
+    <string name="sst_show_lockscreen_entry_desc">Mostrar acceso directo en la pantalla de Bloqueo</string>
     <string name="sst_show_lockscreen_entry_title">Acceso directo en la pantalla de bloqueo</string>
     <string name="sst_sliding_checkbox_checked">Activado</string>
     <string name="sst_sliding_checkbox_unchecked">Desactivado</string>

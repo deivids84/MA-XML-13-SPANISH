@@ -140,7 +140,7 @@
     <string name="dump_log">Obtener registros relativos al problema</string>
     <string name="echo">Eco</string>
     <string name="eighthours">8 horas</string>
-    <string name="enable_livetalk_summary">Ahorre hasta un 70% en sus llamadas</string>
+    <string name="enable_livetalk_summary">Ahorra hasta un 70% en tus llamadas</string>
     <string name="enable_livetalk_title">Activar paquete de recarga</string>
     <string name="enable_midrop">Activar</string>
     <string name="enable_nfc">La carga se ha detenido. El NFC vuelve a estar activo.</string>
@@ -291,7 +291,7 @@
     <string name="mi_a3">Mi A3</string>
     <string name="mi_drop">Mi Share</string>
     <string name="mi_pay">Monedero Mi</string>
-    <string name="miaudiovisual_notification_summary">Activar para mostrar efectos en la Pantalla de bloqueo</string>
+    <string name="miaudiovisual_notification_summary">Activar para mostrar efectos en la pantalla de Bloqueo</string>
     <string name="miaudiovisual_notification_title">Efectos visuales y de audio</string>
     <string name="mihouse">Mi Electrónica</string>
     <string name="mijazz">Mi Jazz</string>
@@ -523,6 +523,7 @@
     <string name="sunrise">Amanecer</string>
     <string name="super_resolution_maintain_tips">"Súper resolución no disponible."</string>
     <string name="surprise">Sorpresa</string>
+    <string name="swipe_up_to_continue_using">Desliza hacia arriba para continuar</string>
     <string name="switch_brand_desc_tv">Servicios de seguridad proporcionados por Spaces Mobile</string>
     <string name="switch_desc_tv">Dos espacios. Un dispositivo.</string>
     <string name="switching_tv">Cambiando…</string>
@@ -562,7 +563,7 @@ usar la cámara frontal"</string>
     <string name="vigor">Vigor</string>
     <string name="vivo">vivo</string>
     <string name="vivo_phone">vivo</string>
-    <string name="voice_assist">AI de Mi</string>
+    <string name="voice_assist">IA de Mi</string>
     <string name="wallpaper_group_black_gobi_title">Arenas de Gobi</string>
     <string name="wallpaper_group_black_white_title">Blanco y negro</string>
     <string name="wallpaper_group_color_move_title">Colores liquidos</string>
@@ -573,6 +574,7 @@ usar la cámara frontal"</string>
     <string name="wallpaper_group_dynamic_nebula_title">Nebulosa dinámica</string>
     <string name="wallpaper_group_geometric_subtitle">Rutger Paulusse</string>
     <string name="wallpaper_group_geometric_title">Geometría</string>
+    <string name="wallpaper_group_macaron_title">Piedrecitas</string>
     <string name="wallpaper_group_minimalist_scenery_title">Minimalismo</string>
     <string name="wallpaper_group_molten_glass_title">Vidrio fundido</string>
     <string name="wallpaper_group_more_system_wallpaper_title">Más fondos de pantalla del sistema</string>

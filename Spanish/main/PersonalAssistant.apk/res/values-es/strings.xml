@@ -134,15 +134,19 @@
     <string name="pa_accessibility_olympic_the_first">Primer lugar: %s</string>
     <string name="pa_accessibility_olympic_the_second">Segundo lugar: %s</string>
     <string name="pa_accessibility_olympic_the_third">Tercer lugar: %s</string>
+    <string name="pa_accessibility_picker_app_group_list_item">Widget %1$s de %2$d</string>
     <string name="pa_accessibility_picker_back">Regresar.</string>
     <string name="pa_accessibility_picker_home_appList_entrance">Ver lista de widgets compatibles</string>
     <string name="pa_accessibility_picker_home_bigBanner_slected">Seleccionado %1$s, fila %2$d, número %3$d. Doble toque para empezar.</string>
     <string name="pa_accessibility_picker_home_search">Buscar widgets</string>
     <string name="pa_accessibility_picker_home_smallBanner_slected">Seleccionado %1$s, fila %2$d, número %3$d. Doble toque para empezar.</string>
     <string name="pa_accessibility_picker_home_title">Añadir widget</string>
-    <string name="pa_accessibility_picker_home_widget_slected">Seleccionado %1$s, fila %2$d, número %3$d. Doble toque para ver detalles. Mantén pulsado para arrastrar.</string>
+    <string name="pa_accessibility_picker_home_widget_replace">Seleccionado %s. Cambiando widgets.</string>
+    <string name="pa_accessibility_picker_home_widget_replace_card_content_desc">Widget: %s. Pulsa dos veces el botón, debajo de él, para reemplazarlo por otro.</string>
+    <string name="pa_accessibility_picker_home_widget_slected">Seleccionado %1$s, Tamaño: %2$s, Estado de instalación: %3$s, pulsa dos veces para obtener detalles, pulsa dos veces y mantén pulsado para mover.</string>
     <string name="pa_accessibility_picker_home_widget_with_add_slected">Seleccionado %1$s, fila %2$d, número %3$d. Doble toque para ver detalles.</string>
     <string name="pa_accessibility_picker_search_cancel">Barra de búsqueda de widgets. Toca dos veces para cancelar.</string>
+    <string name="pa_accessibility_picker_search_clear">Borrar el texto</string>
     <string name="pa_accessibility_picker_search_tips">Barra de búsqueda de widgets. Toca dos veces para buscar.</string>
     <string name="pa_accessibility_picker_suit_item_add_to_desktop">Tienda de widgets. %s seleccionado. Toca dos veces para ver los detalles.</string>
     <string name="pa_accessibility_picker_suit_item_add_to_minus_desktop">Tienda de widgets. %s seleccionado. Toca dos veces para ver los detalles.</string>
@@ -289,10 +293,15 @@ También puede realizar un seguimiento de la entrega urgente en los sitios web o
     <string name="pa_express_state_unknown">No hay datos todavía</string>
     <string name="pa_express_tail_number">Número de pedido: %1$s</string>
     <string name="pa_express_title">Entrega urgente</string>
+    <string name="pa_express_widget_all">Todos los paquetes</string>
     <string name="pa_express_widget_list_item_desc">"Código de seguimiento: "</string>
     <string name="pa_express_widget_logout">Inicia sesión para ver tus paquetes de envío urgente</string>
     <string name="pa_express_widget_order_42">Ingrese el número de seguimiento</string>
     <string name="pa_express_widget_post">Enviar paquete</string>
+    <string name="pa_express_widget_search">Buscar</string>
+    <string name="pa_filter_accessibility_filter_item">Seleccionados %s. Pulsa dos veces para filtrar otras selecciones.</string>
+    <string name="pa_filter_accessibility_filter_popup_item_selected">Pulsa dos veces para seleccionar %s.</string>
+    <string name="pa_filter_accessibility_filter_popup_item_unselected">%s. Pulsa dos veces para seleccionar.</string>
     <string name="pa_filter_replace_bt">Aplicar</string>
     <string name="pa_filter_search_title">Resultados para \"%s\"</string>
     <string name="pa_filter_title">Más widgets</string>
@@ -325,6 +334,8 @@ También puede realizar un seguimiento de la entrega urgente en los sitios web o
     <string name="pa_lite_setting_service_quick_func_summary">Abra aplicaciones y servicios de uso frecuente</string>
     <string name="pa_lite_setting_service_search">Buscar</string>
     <string name="pa_lite_setting_service_search_summary">Buscar en la web y en este dispositivo</string>
+    <string name="pa_lite_setting_service_shopping">Compras</string>
+    <string name="pa_lite_setting_service_shopping_summary">Consigue descuentos y ofertas de compra</string>
     <string name="pa_lite_setting_service_sports">Deportes</string>
     <string name="pa_lite_setting_service_sports_summary">Información más reciente sobre los equipos que sigues</string>
     <string name="pa_lite_setting_service_stock">Existencias</string>
@@ -346,6 +357,8 @@ También puede realizar un seguimiento de la entrega urgente en los sitios web o
     <string name="pa_olympic_label">Medallas</string>
     <string name="pa_olympic_medal_count">Total de medallas</string>
     <string name="pa_olympic_medals_description">Consulta el ranking de medallas olímpicas</string>
+    <string name="pa_open_personal_assistant_dialog_desc">"Si desactivas la Bóveda de Aplicaciones, no podrás usar sus widgets o acceder a ellos deslizando a la derecha la pantalla de inicio. ¿Desactivar?"</string>
+    <string name="pa_open_personal_assistant_dialog_title">¿Desactivar la Bóveda de Aplicaciones?</string>
     <string name="pa_operation_switch_summary">Ver widgets populares recientes</string>
     <string name="pa_operation_switch_title">Promociones populares</string>
     <string name="pa_pad_privacy_text">Widgets de la pantalla de inicio</string>
@@ -416,6 +429,7 @@ para mostrar widgets."</string>
     <string name="pa_picker_request">Ajustes</string>
     <string name="pa_picker_retry">Intentar otra vez</string>
     <string name="pa_picker_search">Buscar</string>
+    <string name="pa_picker_search_card_filter_button_text">Todos los widgets</string>
     <string name="pa_picker_search_card_header_accessibility_filter_icon">Filtro</string>
     <string name="pa_picker_search_card_more_all_applications">Más aplicaciones</string>
     <string name="pa_picker_search_card_more_all_suits">Más grupos de widgets</string>
@@ -465,6 +479,7 @@ para mostrar widgets."</string>
     <string name="pa_setting_app_usage_auth_dialog_message">"No podrá usar el widget \"Sugerencias de aplicaciones\" después de desactivar esta función. ¿Dsactivar de todos modos?"</string>
     <string name="pa_setting_app_usage_auth_dialog_title">Atención</string>
     <string name="pa_setting_bugreport">Comentarios</string>
+    <string name="pa_setting_perm_empty">Aún no hay nada aquí</string>
     <string name="pa_setting_privacy_auth">Permitir analizar el uso de la aplicación</string>
     <string name="pa_setting_privacy_auth_summary">"Recibirás sugerencias basadas en tus hábitos de uso"</string>
     <string name="pa_setting_privacy_category_perm">Permisos</string>
@@ -476,7 +491,7 @@ para mostrar widgets."</string>
     <string name="pa_setting_privacy_logout_summary">Cancelar servicios de la bóveda de aplicaciones</string>
     <string name="pa_setting_privacy_perm_desc">Detalles de permisos</string>
     <string name="pa_setting_privacy_perm_granted">Concedido</string>
-    <string name="pa_setting_privacy_perm_install_app">Accede a la lista de aplicaciones instaladas en este dispositivo</string>
+    <string name="pa_setting_privacy_perm_install_app">Accede a la lista de aplicaciones instaladas en el dispositivo</string>
     <string name="pa_setting_privacy_perm_install_app_desc">Para proporcionar sugerencias de aplicaciones</string>
     <string name="pa_setting_privacy_perm_location">Acceder a la ubicación</string>
     <string name="pa_setting_privacy_perm_location_desc">Para calcular la clasificación de la tabla de clasificación regional de Super Slopes</string>
@@ -503,6 +518,7 @@ para mostrar widgets."</string>
     <string name="pa_setting_privacy_revoke_positive">Entendido</string>
     <string name="pa_setting_privacy_third_parties">Declaración sobre el intercambio de datos con terceros</string>
     <string name="pa_setting_privacy_view_priv">Ver política de privacidad</string>
+    <string name="pa_setting_simplify_title_bar">Bóveda de Aplicaciones</string>
     <string name="pa_setting_version">Versión：%1$s</string>
     <string name="pa_shopping_dialog_privacy_authorize_message">¡Te damos la bienvenida a Compras! Puedes usar este widget para obtener descuentos y ofertas de compra. Lee y acepta nuestra Declaración de Servicios de terceros y la Política de Privacidad antes de continuar.</string>
     <string name="pa_shopping_dialog_privacy_authorize_title">Términos y Condiciones</string>

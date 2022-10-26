@@ -342,7 +342,6 @@ Remite este código al supervisor."</string>
     <string name="download_paused">Pausado</string>
     <string name="download_pending">Pendiente…</string>
     <string name="download_power_off_tips">"Esta función no está disponible"</string>
-    <string name="download_progress">%d%%</string>
     <string name="download_retry">Vuelve a intentarlo</string>
     <string name="download_space_info" formatted="false">%s, %s</string>
     <string name="download_unable_tip">"No se puede descargar este elemento"</string>
@@ -359,28 +358,48 @@ Remite este código al supervisor."</string>
     <string name="evening">Tarde</string>
     <string name="exceed_binded_phone_times_notice">Este número de teléfono ya está asociado a otra cuenta Xiaomi.</string>
     <string name="exit">Salir</string>
+    <string name="exo_controls_cc_disabled_description">Activar subtítulos</string>
+    <string name="exo_controls_cc_enabled_description">Desactivar subtítulos</string>
     <string name="exo_controls_fastforward_description">Avanzar rápidamente</string>
-    <string name="exo_controls_fullscreen_description">Modo de pantalla completa</string>
-    <string name="exo_controls_next_description">Siguiente pista</string>
+    <string name="exo_controls_fullscreen_enter_description">Entrar en pantalla completa</string>
+    <string name="exo_controls_fullscreen_exit_description">Salir de pantalla completa</string>
+    <string name="exo_controls_hide">Ocultar controles del reproductor</string>
+    <string name="exo_controls_next_description">Siguente</string>
+    <string name="exo_controls_overflow_hide_description">Ocultar ajustes adicionales</string>
+    <string name="exo_controls_overflow_show_description">Mostrar ajustes adicionales</string>
     <string name="exo_controls_pause_description">Pausar</string>
     <string name="exo_controls_play_description">Reproducir</string>
-    <string name="exo_controls_previous_description">Pista anterior</string>
+    <string name="exo_controls_playback_speed">Velocidad</string>
+    <string name="exo_controls_playback_speed_normal">Normal</string>
+    <string name="exo_controls_previous_description">Anterior</string>
     <string name="exo_controls_repeat_all_description">Repetir todo</string>
     <string name="exo_controls_repeat_off_description">No repetir</string>
     <string name="exo_controls_repeat_one_description">Repetir uno</string>
     <string name="exo_controls_rewind_description">Rebobinar</string>
-    <string name="exo_controls_shuffle_description">Reproducir aleatoriamente</string>
+    <string name="exo_controls_seek_bar_description">Progreso de la reproducción</string>
+    <string name="exo_controls_settings_description">Ajustes</string>
+    <string name="exo_controls_show">Mostrar controles del reproductor</string>
+    <string name="exo_controls_shuffle_off_description">Modo aleatorio desactivado</string>
+    <string name="exo_controls_shuffle_on_description">Modo aleatorio activado</string>
     <string name="exo_controls_stop_description">Detener</string>
+    <string name="exo_controls_vr_description">Modo RV</string>
     <string name="exo_download_completed">Descarga de archivos completado</string>
     <string name="exo_download_description">Descargar</string>
     <string name="exo_download_downloading">Descargando</string>
     <string name="exo_download_failed">No se ha podido descargar</string>
     <string name="exo_download_notification_channel_name">Descargas</string>
+    <string name="exo_download_paused">Descargas en pausa</string>
+    <string name="exo_download_paused_for_network">Descargas esperando por la red</string>
+    <string name="exo_download_paused_for_wifi">Descargas esperando por Wi-Fi</string>
     <string name="exo_download_removing">Quitando descargas</string>
     <string name="exo_media_action_repeat_all_description">Repetir todo</string>
     <string name="exo_media_action_repeat_off_description">No repetir nada</string>
     <string name="exo_media_action_repeat_one_description">Repetir uno</string>
     <string name="exo_track_mono">Mono</string>
+    <string name="exo_track_role_alternate">Alternativo</string>
+    <string name="exo_track_role_closed_captions">CC</string>
+    <string name="exo_track_role_commentary">Comentario</string>
+    <string name="exo_track_role_supplementary">Suplementario</string>
     <string name="exo_track_selection_auto">Automático</string>
     <string name="exo_track_selection_none">Ninguna</string>
     <string name="exo_track_selection_title_audio">Audio</string>
@@ -400,6 +419,7 @@ Remite este código al supervisor."</string>
     <string name="fallback_menu_item_copy_link">Copiar enlace</string>
     <string name="fallback_menu_item_open_in_browser">Abrir en el navegador</string>
     <string name="fallback_menu_item_share_link">Compartir enlace</string>
+    <string name="fast_channel_popular">Canales populares</string>
     <string name="favor_movie">Películas</string>
     <string name="favor_online_video">Vídeos</string>
     <string name="favor_playlist">Listas de reproducción</string>
@@ -412,6 +432,18 @@ Remite este código al supervisor."</string>
     <string name="fcm_fallback_notification_channel_label">Varias</string>
     <string name="fcm_no_args">Cadena sin argumentos</string>
     <string name="fcm_push_title">Vídeos populares</string>
+    <string name="fcmpts_dialog_continue">Ver</string>
+    <string name="fcmpts_dialog_not_interested">No, gracias</string>
+    <string name="fcmpts_dialog_two" formatted="false">Mira %d segundos más de %d vídeo para ganar un cupón de Mi Store</string>
+    <string name="fcmpts_popup_final">¡Reclamado! Pulsa para canjear las recompensas.</string>
+    <string name="fcmpts_popup_final_redeem">Canjear</string>
+    <string name="fcmpts_popup_four" formatted="false">¡Reclamado! Mira %d segundos más de %d vídeos para ganar un cupón de Mi Store.</string>
+    <string name="fcmpts_popup_one" formatted="false">Mira hoy %d vídeos para ganar un cupón de %dpuntos en Mi Store</string>
+    <string name="fcmpts_popup_one_cts">Ver</string>
+    <string name="fcmpts_popup_three" formatted="false">Visto durante %d segundos. ¡Has ganado %d puntos!</string>
+    <string name="fcmpts_popup_three_claim">Reclamar</string>
+    <string name="fcmpts_popup_three_login_claim">Iniciar sesión</string>
+    <string name="fcmpts_popup_two" formatted="false">Mira este video durante %d segundos para ganar %d puntos</string>
     <string name="feedback">Comentarios</string>
     <string name="feedback_activity_title">Comentarios</string>
     <string name="feedback_contact_empty">Introduce tu información de contacto</string>
@@ -575,7 +607,7 @@ Esta operación no afectará a las imágenes de la Galería."</string>
     <string name="galleryplus_v_agree">Aceptar</string>
     <string name="galleryplus_v_cancel">Cancelar</string>
     <string name="galleryplus_v_confirm_cancel_edit_subtitle_msg">¿Descaratr todos los cambios y dejar de editar los subtítulos?</string>
-    <string name="galleryplus_v_confirm_cancel_edit_subtitle_msg2">"No podrás guardar este vídeo si sales ahora. ¿Salir de todas formas?"</string>
+    <string name="galleryplus_v_confirm_cancel_edit_subtitle_msg2">"No podrás guardar este vídeo si sales ahora. ¿Salir?"</string>
     <string name="galleryplus_v_confirm_cancel_edit_subtitle_title">Salir del editor</string>
     <string name="galleryplus_v_dialog_hint_contain_invalid_char">El nombre del archivo contiene caracteres no válidos</string>
     <string name="galleryplus_v_dialog_hint_duplicate_name">Este archivo ya existe</string>
@@ -1050,7 +1082,6 @@ para vídeos"</string>
     <string name="nick_name">Nombre de usuario</string>
     <string name="night">Tarde</string>
     <string name="no_account">No has iniciado sesión</string>
-    <string name="no_app_found_error">"No se pudo encontrar aplicación"</string>
     <string name="no_history">No hay elementos</string>
     <string name="no_longer_prompt">"No mostrar otra vez"</string>
     <string name="no_more_content">"Eso es todo por ahora"</string>
@@ -1447,6 +1478,7 @@ Mejorar la seguridad de tu cuenta."</string>
     <string name="plus_shortcut_existed">Este acceso directo ya existe</string>
     <string name="plus_sort_title">Ordenar</string>
     <string name="plus_sort_type_default">Por defecto</string>
+    <string name="plus_sort_type_duration">Longitud</string>
     <string name="plus_sort_type_name">Nombre</string>
     <string name="plus_sort_type_size">Tamaño</string>
     <string name="plus_sort_type_time">Hora</string>
@@ -1492,6 +1524,7 @@ Mejorar la seguridad de tu cuenta."</string>
     <string name="recommend_online_switch">Recomendaciones online</string>
     <string name="recommend_online_tips">Activar para recibir recomendaciones de vídeo online</string>
     <string name="recommend_page_replay">VOLVER A REPRODUCIR</string>
+    <string name="recommend_slide_to_more">Desliza para más</string>
     <string name="recommend_switch_alert">Para eliminar esta sección ve a los ajustes en Mi Vídeo</string>
     <string name="recommend_to_you">Recomendado para ti</string>
     <string name="reload_sub_title">Pulsa para intentarlo otra vez.</string>

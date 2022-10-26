@@ -116,7 +116,7 @@
     <string name="file_cannot_screen_throw">"No se puede emitir este elemento."</string>
     <string name="file_receive_progress">Progreso: %1$d%%</string>
     <string name="file_receive_progress_title">Progreso</string>
-    <string name="file_received_successfully_from_pc">Se han recibido más de 200 archivos desde %1$s</string>
+    <string name="file_received_successfully_from_pc">Se han recibido más de %2$d archivos de %1$s</string>
     <string name="file_sending">Transfiriendo archivos…</string>
     <string name="file_transfer_progress">Progreso: %1$d%%</string>
     <string name="file_transfer_progress_title">Progreso</string>
@@ -147,7 +147,7 @@
     <string name="hisense_phone">Hisense</string>
     <string name="i_know">Entendido</string>
     <string name="lenovo">Lenovo</string>
-    <string name="lenovo_phone">Teléfono Lenovo</string>
+    <string name="lenovo_phone">Lenovo</string>
     <string name="location_enabled">Mi Share activó los servicios de ubicación para encontrar dispositivos cercanos</string>
     <string name="menu_item_permission_title">Detalles de permisos</string>
     <string name="menu_item_privacy_title">Política de Privacidad</string>
@@ -257,7 +257,7 @@ Antes de usar Mi Share, debes conceder los siguientes permisos, así como permit
     <string name="retry_task">Enviar otra vez</string>
     <string name="rog">ROG</string>
     <string name="rog_phone">ROG</string>
-    <string name="samsung_phone">Teléfono Samsung</string>
+    <string name="samsung_phone">Samsung</string>
     <string name="saturday">Sábado</string>
     <string name="saturday_short">Sáb</string>
     <string name="saturday_shortest">Sáb</string>
@@ -301,14 +301,13 @@ Antes de usar Mi Share, debes conceder los siguientes permisos, así como permit
     <string name="solar_term_winter_begins">Comienzo del Invierno</string>
     <string name="solar_term_winter_solstice">Solsticio de Invierno</string>
     <string name="some_files_receive_completed">"Visualiza los archivos que ya has recibido en %1$s."</string>
-    <string name="somepc_send_much_file_to_you_files">%1$s te está enviando más de 200 archivos…</string>
-    <string name="somepc_send_muchfile_files">%1$s te está enviando más de 200 archivos…</string>
+    <string name="somepc_send_muchfile_files">%1$s está enviando más de %2$d archivos…</string>
     <string name="start_advertise">EMPEZAR A PUBLICITAR</string>
-    <string name="start_receive_much_files_from_pc">Recibiendo más de 200 archivos de %1$s…</string>
+    <string name="start_receive_much_files_from_pc">Recibiendo más de %2$d archivos de %1$s…</string>
     <string name="start_scan">INICIAR ESCANEO</string>
     <string name="stop_advertise">DEJAR DE PUBLICIDAD</string>
     <string name="stop_scan">PARAR ESCANEO</string>
-    <string name="success_receive_much_file_from_pc">Recibiste más de 200 archivos de %1$s. Pulsa para ver.</string>
+    <string name="success_receive_much_file_from_pc">Recibidos más de %2$d archivos de %1$s. Pulsa para verlos.</string>
     <string name="sunday">Domingo</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>

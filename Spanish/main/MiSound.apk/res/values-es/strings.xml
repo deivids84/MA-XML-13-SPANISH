@@ -381,7 +381,7 @@
     <string name="music_headset_improve_sound">Ajustar sonido a los auriculares</string>
     <string name="music_headset_is_open">Activado</string>
     <string name="music_headset_mode_music">Controlar la reproducción</string>
-    <string name="music_headset_mode_settings">Botones de control de auriculares</string>
+    <string name="music_headset_mode_settings">Botones de auriculares</string>
     <string name="music_headset_mode_volume">Controlar nivel del volumen</string>
     <string name="music_headset_no_contected">No se detectaron auriculares</string>
     <string name="music_headset_not_open">Desactivado</string>

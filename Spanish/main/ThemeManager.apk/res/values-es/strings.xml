@@ -179,6 +179,7 @@
     <string name="component_title_settings_video_wallpaper">Fondos de pantalla con efectos especiales</string>
     <string name="component_title_video_wallpaper">Películas de fondo de pantalla</string>
     <string name="component_title_wallpaper">Fondos de pantalla</string>
+    <string name="component_title_widget_suit">Widgets</string>
     <string name="concentration_old_period">MÁS</string>
     <string name="configure_success_not_enable_aod">Aplicado. Activa la opción pantalla Siempre Encendida para que el tema se active.</string>
     <string name="copy">Copiar</string>
@@ -275,7 +276,7 @@
     <string name="dev_options_summary">Recursos web</string>
     <string name="dialog_apply_lock_screen_wallpaper_content">Es posible que el tema actual no admita el cambio de fondo de pantalla de bloqueo.</string>
     <string name="dialog_apply_lock_screen_wallpaper_warning">Fondo de Pantalla de bloqueo</string>
-    <string name="dialog_content_get_device_status">Esta aplicación necesita acceder a la identificación de su dispositivo para poder autenticar los artículos comprados en sus otros dispositivos. Es posible que no pueda utilizar algunos de los artículos comprados después de desactivar esta función. ¿Apagar de todos modos?</string>
+    <string name="dialog_content_get_device_status">Esta aplicación necesita acceso a la identificación del dispositivo para autenticar los artículos comprados en tus otros dispositivos. Es posible que no puedas utilizar algunos de los artículos comprados si desactivas el acceso. ¿Desactivarlo?</string>
     <string name="dialog_negative_button_text">Ahora no</string>
     <string name="dialog_positive_button_text">Permitir</string>
     <string name="dialog_show_never">"No mostrar otra vez."</string>
@@ -729,6 +730,7 @@ Ver y usar los elementos que compró o agregó a favoritos."</string>
     <string name="pad_fold_no_permission">Se requieren permisos de almacenamiento</string>
     <string name="pad_fold_no_permission_detail">Para poder cambiar las preferencias de personalización y guardar los elementos descargados, primero permita que esta función acceda al almacenamiento.</string>
     <string name="password_toggle_content_description">Cambiar la visibilidad de la contraseña</string>
+    <string name="paying">Comprando…</string>
     <string name="personalize">Personalización</string>
     <string name="personalize_alarm_ringtone_title">Alarmas</string>
     <string name="personalize_aod_title">AOD</string>
@@ -739,12 +741,13 @@ Ver y usar los elementos que compró o agregó a favoritos."</string>
     <string name="personalize_icon_title">Iconos</string>
     <string name="personalize_notify_ringtone_title">Notificaciones</string>
     <string name="personalize_notify_style_title">Efectos</string>
-    <string name="personalize_recommend_switch_desc">Reciba recomendaciones de contenido personalizadas basadas en la identificación del dispositivo</string>
+    <string name="personalize_recommend_switch_desc">Recibe recomendaciones personalizadas basadas en la identificación del dispositivo</string>
+    <string name="personalize_second_space_not_support_buy_widget">"No se pueden comprar widgets en el Segundo espacio"</string>
     <string name="personalize_second_space_not_support_set_font">"No se puede cambiar la fuente en el segundo espacio"</string>
     <string name="personalize_theme_entrance">Temas</string>
     <string name="personalize_third_font">Fuentes</string>
     <string name="personalize_title">Fondo de pantalla y personalización</string>
-    <string name="personalize_wallpaper_sub_title">Super fondos de pantalla e imágenes destacadas</string>
+    <string name="personalize_wallpaper_sub_title">Superfondos de pantalla e imágenes destacadas</string>
     <string name="personalize_wallpaper_title">Fondo de pantalla</string>
     <string name="personalized_cta_content_text">¡Te damos la bienvenida a Temas! Esta aplicación permite administrar fondos de pantalla, tonos de llamada, fuentes tipográficas y más.</string>
     <string name="phone_exit_theme_warning_content">"No podrás realizar las siguientes acciones después de cerrar la sesión:
@@ -760,7 +763,7 @@ Ver y usar los elementos que compró o agregó a favoritos."</string>
     <string name="pref_read_write_function_detail">Para cambiar las preferencias de personalización y guardar elementos descargados</string>
     <string name="pref_reading_the_application_list_detail">Para usar fondos de pantalla transparentes</string>
     <string name="preference_copied">\"%1$s\" se ha copiado en el portapapeles.</string>
-    <string name="preference_subtitle_get_device_status">Permita que la aplicación acceda a la identificación de su dispositivo para poder descargar los artículos comprados en sus otros dispositivos</string>
+    <string name="preference_subtitle_get_device_status">Permite que la aplicación acceda a la identificación del dispositivo para descargar los artículos comprados en tus otros dispositivos</string>
     <string name="preference_title_get_device_status">ID de dispositivo de acceso</string>
     <string name="present_local_fonts">Mis fuentes</string>
     <string name="present_local_themes">Mis temas</string>
@@ -1149,6 +1152,7 @@ Puede otorgar este permiso en Configuración &gt; Privacidad."</string>
     <string name="search_sort_news">Nuevo primero</string>
     <string name="search_sort_synthesize">General</string>
     <string name="search_sort_top">Popular primero</string>
+    <string name="search_view_description_clear">Limpiar la búsqueda</string>
     <string name="selected_resource_file_invalid">"No puede utilizarse el archivo de recurso seleccionado"</string>
     <string name="send">Enviar</string>
     <string name="server_internal_error">Se produjo un error en el servidor. Espera un par de minutos e inténtalo otra vez.</string>
@@ -1437,6 +1441,7 @@ Puede otorgar este permiso en Configuración &gt; Privacidad."</string>
     <string name="update_no_net">Se produjo un error de red. Vuelve a intentarlo.</string>
     <string name="update_title">ACTUALIZACIÓN DISPONIBLE</string>
     <string name="use_hint">Atención</string>
+    <string name="use_now">Añadir</string>
     <string name="using_theme_has_update_tips">Hay una actualización disponible para este tema.</string>
     <string name="using_theme_next_automatic_update">Actualizaciones automáticas</string>
     <string name="using_theme_next_automatic_update_summary">Actualizar automáticamente vía Wi-Fi los temas descargados cuando la pantalla esté bloqueada</string>

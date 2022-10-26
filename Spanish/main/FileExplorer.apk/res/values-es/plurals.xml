@@ -56,6 +56,10 @@
         <item quantity="other">Hace %1$d días</item>
         <item quantity="one">Hace %1$d día</item>
     </plurals>
+    <plurals name="delete_cloud_files">
+        <item quantity="other">¿Eliminar %1$d archivos de todos tus dispositivos y la nube? Los archivos de Mi Drive se pueden recuperar desde los elementos eliminados recientemente.</item>
+        <item quantity="one">¿Eliminar %1$d archivo de todos tus dispositivos y la nube? Los archivos de Mi Drive se pueden recuperar desde los elementos eliminados recientemente.</item>
+    </plurals>
     <plurals name="delete_files">
         <item quantity="other">¿Eliminar %1$d archivos?</item>
         <item quantity="one">¿Eliminar %1$d archivo?</item>
@@ -139,6 +143,14 @@
     <plurals name="mtrl_badge_content_description">
         <item quantity="other">%d nuevas notificaciones</item>
         <item quantity="one">%d nueva notificación</item>
+    </plurals>
+    <plurals name="notification_message_sync_result_fail">
+        <item quantity="other">"No se pudo sincronizar %1$s archivos"</item>
+        <item quantity="one">"No se pudo sincronizar %1$s archivo"</item>
+    </plurals>
+    <plurals name="notification_message_sync_result_success">
+        <item quantity="other">"Sincronizados %1$s archivos | "</item>
+        <item quantity="one">"Sincronizado %1$s archivo | "</item>
     </plurals>
     <plurals name="numSelectedFile">
         <item quantity="other">%1$d elementos seleccionados</item>

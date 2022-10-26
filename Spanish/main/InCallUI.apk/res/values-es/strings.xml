@@ -103,6 +103,10 @@
     <string name="call_recording_notification_title_error">"No se pudo grabar la llamada"</string>
     <string name="caller_info_name_delimiter">" o "</string>
     <string name="caller_manage_header">Llamada de conferencia %s</string>
+    <string name="camera_on">La otra persona quiere encender tu cámara.</string>
+    <string name="camera_on_agree">Permitir</string>
+    <string name="camera_on_refuse">"No permitir"</string>
+    <string name="camera_on_title">Cámara</string>
     <string name="can_not_use">"No se puede"</string>
     <string name="cancel">Cancelar</string>
     <string name="card_title_answering">Contestar llamada</string>
@@ -234,7 +238,7 @@
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Suelte para actualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Eso es todo por ahora"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">"Eso es todo por ahora"</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Sólo un segundo…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Un momento…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"No se pudieron cargar los elementos"</string>
     <string name="monday">Lunes</string>
     <string name="monday_short">Lun</string>
@@ -306,6 +310,10 @@
     <string name="onscreen_change_to_video">Videollamada</string>
     <string name="onscreen_change_to_voice">Llamada de voz</string>
     <string name="onscreen_close_preview_camera">Cerrar</string>
+    <string name="onscreen_collapsed">Contraer</string>
+    <string name="onscreen_collapsed_dialpad">Mostrar teclado de marcado</string>
+    <string name="onscreen_expand">Más</string>
+    <string name="onscreen_expand_dialpad">Ocultar teclado de marcado</string>
     <string name="onscreen_hold_text">Pausar</string>
     <string name="onscreen_merge_calls_text">Unir llamadas</string>
     <string name="onscreen_message_text">Mensajes</string>
@@ -344,6 +352,11 @@ Toque \"%1$s\" y luego seleccione \"%2$s\"."</string>
     <string name="saturday">Sábado</string>
     <string name="saturday_short">Sáb</string>
     <string name="saturday_shortest">Sáb</string>
+    <string name="screen_share">Asistencia remota</string>
+    <string name="screen_share_agree">Permitir</string>
+    <string name="screen_share_connecting">Conectando…</string>
+    <string name="screen_share_message">¿Permitir que la otra persona vea tu pantalla en tiempo real?</string>
+    <string name="screen_share_refuse">Cancelar</string>
     <string name="search_menu_title">Buscar</string>
     <string name="select_audio_dialog_title">Seleccionar modo de respuesta</string>
     <string name="select_one_sim_title">Solo se puede usar la SIM %1$d</string>
@@ -452,5 +465,6 @@ Toque \"%1$s\" y luego seleccione \"%2$s\"."</string>
     <string name="wednesday_short">Mié</string>
     <string name="wednesday_shortest">Mié</string>
     <string name="wifi_call">Llamada VoWiFi</string>
+    <string name="xiaoai_assistant">Asistente de Llamada IA</string>
     <string name="yesterday">Ayer</string>
 </resources>

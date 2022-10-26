@@ -1043,7 +1043,7 @@ parezcan más grandes en las fotos"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"No se pudo cargar los elementos"</string>
     <string name="mode_edit_cancel">Cancelar</string>
     <string name="mode_edit_exit">Salir</string>
-    <string name="mode_edit_exit_message">Si sales ahora se perderán todos los cambios. ¿Salir de todas formas?</string>
+    <string name="mode_edit_exit_message">Si sales ahora se perderán todos los cambios. ¿Salir?</string>
     <string name="mode_edit_hold_on">Recogió un artículo</string>
     <string name="mode_edit_moved">Poner en la fila %1$d, posición %2$d</string>
     <string name="mode_edit_moving">Movido a la fila %1$d, posición %2$d</string>

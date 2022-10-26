@@ -144,7 +144,7 @@ Después de crear una nueva pregunta de seguridad y confirmar tu fecha de nacimi
     <string name="compute_delete_contact_info">Obteniendo información…</string>
     <string name="confirm_exit_link">Salir</string>
     <string name="confirm_exit_link_cancel">"No salir"</string>
-    <string name="confirm_exit_link_msg">"Salir de esta aplicación ahora interrumpirá la transferencia en curso. Tendrás que volver a establecer la conexión entre los dos dispositivos. ¿Salir de la aplicación de todas formas?"</string>
+    <string name="confirm_exit_link_msg">"Si sales ahora de esta aplicación se interrumpirá la transferencia. Deberás establecer otra vez la conexión entre ambos dispositivos. ¿Salir?"</string>
     <string name="confirm_exit_link_title">Interrumpiendo la transferencia</string>
     <string name="connect_soft_ap_label">Conectándo a un nuevo dispositivo…</string>
     <string name="connect_wifi">Conectar a Wi-Fi</string>

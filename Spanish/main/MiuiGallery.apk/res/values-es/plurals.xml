@@ -504,6 +504,42 @@
         <item quantity="other">Recibiendo %2$d archivos (%3$s) de %1$s…</item>
         <item quantity="one">Recibiendo %2$d archivo (%3$s) de %1$s…</item>
     </plurals>
+    <plurals name="share_album_detail_photo_count">
+        <item quantity="other">Subidas %d fotos</item>
+        <item quantity="one">Subida %d foto</item>
+    </plurals>
+    <plurals name="share_album_home_pref_rooms">
+        <item quantity="other">%1$d estancias</item>
+        <item quantity="one">%1$d estancia</item>
+    </plurals>
+    <plurals name="share_album_home_pref_screens">
+        <item quantity="other">%1$d pantallas</item>
+        <item quantity="one">%1$d pantalla</item>
+    </plurals>
+    <plurals name="share_album_home_pref_share_home_summary">
+        <item quantity="other">%1$d pantallas compartidas</item>
+        <item quantity="one">%1$d pantalla compartida</item>
+    </plurals>
+    <plurals name="share_album_home_pref_unshare_home_summary">
+        <item quantity="other">%1$d entornos de hogares inteligentes disponibles</item>
+        <item quantity="one">%1$d entorno de hogar inteligente disponible</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_oversize">
+        <item quantity="other">%d elementos demasiado grandes para sincronizar</item>
+        <item quantity="one">%d elemento demasiado grande para sincronizar</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_owner_upload_error">
+        <item quantity="other">"No se pudo sincronizar %d elementos. Actualiza tu plan de almacenamiento."</item>
+        <item quantity="one">"No se pudo sincronizar %d elemento. Actualiza tu plan de almacenamiento."</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_retry">
+        <item quantity="other">"No se pudo sincronizar %d elementos. Inténtalo otra vez."</item>
+        <item quantity="one">"No se pudo sincronizar %d elemento. Inténtalo otra vez."</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_sharer_upload_error">
+        <item quantity="other">"No se pudo sincronizar %d elementos. El propietario del álbum no tiene almacenamiento en la nube."</item>
+        <item quantity="one">"No se pudo sincronizar %d elemento. El propietario del álbum no tiene almacenamiento en la nube."</item>
+    </plurals>
     <plurals name="slideshow_interval_value">
         <item quantity="other">%1$d segundos</item>
         <item quantity="one">%1$d segundo</item>

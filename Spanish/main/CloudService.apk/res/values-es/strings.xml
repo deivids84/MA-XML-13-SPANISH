@@ -743,7 +743,7 @@ Puede que esta información no se envíe con una conexión de red deficiente."</
     <string name="storage_manage_cloud_data_title">Ver los elementos en la nube</string>
     <string name="storage_manage_list_title">Datos de la nube</string>
     <string name="storage_manage_list_title_action">Ver más</string>
-    <string name="storage_upgrade_card_title">Actualiza tu plan</string>
+    <string name="storage_upgrade_card_title">Actualizar</string>
     <string name="sub_alert_notif_content">Activar Xiaomi Cloud</string>
     <string name="sub_alert_notif_title">Sincronizar con Xiaomi Cloud</string>
     <string name="sub_sync_item_sms_summary">"Sincronizar mensajes con fotos, audio u otros archivos multimedia solo cuando estés conectado a Wi-Fi"</string>

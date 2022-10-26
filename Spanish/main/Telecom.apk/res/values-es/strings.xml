@@ -353,7 +353,7 @@ Selección"</string>
     <string name="early_morning">Mañana</string>
     <string name="enable_account_preference_title">Cuentas de llamada</string>
     <string name="enable_adb">Depuración por USB</string>
-    <string name="enable_adb_summary">Activar el modo de depuración cuando el dispositivo esté conectado por USB</string>
+    <string name="enable_adb_summary">Activar el modo depuración con el dispositivo conectado por USB</string>
     <string name="enable_adb_wireless">Depuración inalámbrica</string>
     <string name="enable_adb_wireless_summary">Activa el modo de depuración cuando haya conexión Wi‑Fi</string>
     <string name="enable_freeform_support">Habilitar ventanas flexibles</string>
