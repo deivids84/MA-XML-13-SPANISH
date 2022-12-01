@@ -347,6 +347,8 @@ dd/MM"</string>
     <string name="select_notification_animation_style">Seleccionar efecto especial</string>
     <string name="select_notification_notify_style">Seleccionar efecto de notificación</string>
     <string name="send">Enviar</string>
+    <string name="settings_view_btn_check_off">Desactivado</string>
+    <string name="settings_view_btn_check_on">Activado</string>
     <string name="share">Compartir</string>
     <string name="share_to_community">Compartir con la Comunidad Xiaomi</string>
     <string name="show_battery">Mostrar estado de batería</string>

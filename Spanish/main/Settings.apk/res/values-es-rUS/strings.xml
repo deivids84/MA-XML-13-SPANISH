@@ -1409,8 +1409,8 @@ No se ha conectado a %2$s antes."</string>
     <string name="bluetooth_enable_opp_high_speed_dialog_positive">Reiniciar</string>
     <string name="bluetooth_enable_opp_high_speed_dialog_title">Reiniciar Bluetooth</string>
     <string name="bluetooth_enable_opp_high_speed_summary">Usa protocolos Bluetooth P2P de alta velocidad para transferencias</string>
-    <string name="bluetooth_enable_page_scan">habilitar escaneo de página bluetooth</string>
-    <string name="bluetooth_enable_page_scan_summary">deshabilitar/habilitar la exploración de páginas para la prueba de Bluetooth</string>
+    <string name="bluetooth_enable_page_scan">Activar escaneo de página Bluetooth</string>
+    <string name="bluetooth_enable_page_scan_summary">Activar/desactivar escaneo de página para la prueba de Bluetooth</string>
     <string name="bluetooth_enable_pts_test">habilitar la prueba PTS de bluetooth</string>
     <string name="bluetooth_enable_pts_test_summary">deshabilitar/habilitar PTS para la prueba de Bluetooth</string>
     <string name="bluetooth_enter_passkey_msg">Ingresa el código de sincronización y luego presiona Intro.</string>
@@ -1757,7 +1757,8 @@ Puede desactivar esta función en Configuración &gt; Bluetooth &gt; Dispositivo
     <string name="bt_absVolume_open_dialog_title">Atención</string>
     <string name="bt_absVolume_pre_title">Volumen absoluto</string>
     <string name="bt_absVolume_summary">"Mantenga el volumen de los dispositivos Bluetooth y del teléfono estrictamente constante. Puede activar y desactivar esta función cuando no se reproduzcan elementos multimedia en segundo plano."</string>
-    <string name="bt_always_show_icon">Mostrar el icono en la barra de estado siempre</string>
+    <string name="bt_always_show_icon">"No mostrar el icono Bluetooth en la barra de estado"</string>
+    <string name="bt_always_show_icon_summary">Muestra el icono Bluetooth solo en el centro de control y en el panel de notificaciones</string>
     <string name="bt_aptx_adaptive_open_dialog_summary">aptX Adaptive proporcionará una reproducción de alta calidad y reducirá la latencia de audio para juegos y vídeos, al tiempo que aumentará el consumo de energía. La reproducción puede ser atascada debido a limitaciones del hardware Bluetooth e interferencia ambiental.</string>
     <string name="bt_aptx_adaptive_open_dialog_title">¿Cambiar a aptX Adaptive?</string>
     <string name="bt_audio_repair_property">Solucionar problemas de audio</string>
@@ -1795,6 +1796,8 @@ Puede desactivar esta función en Configuración &gt; Bluetooth &gt; Dispositivo
     <string name="bt_lhdc_open_dialog_title">¿Activar LHDC?</string>
     <string name="bt_lhdc_pre_title">LHDC</string>
     <string name="bt_lhdc_property">Propiedades</string>
+    <string name="bt_low_energy_audio_summary">Disfruta de audio de alta calidad, con bajo consumo de energía y una menor latencia</string>
+    <string name="bt_low_energy_audio_title">Audio Bluetooth LE</string>
     <string name="bt_plugin_current_version">Versión actual</string>
     <string name="bt_plugin_new_version">Actualizar</string>
     <string name="bt_plugin_preference_button">Actualizar</string>
@@ -2075,6 +2078,7 @@ Esto afecta otras apps o conversaciones que pueden crear burbujas."</string>
     <string name="close_fod">"No podrá desbloquear su dispositivo usando su huella digital cuando la pantalla esté apagada. El desbloqueo con huella digital solo funciona con la pantalla encendida."</string>
     <string name="close_fod_aod">"No podrá desbloquear su dispositivo usando su huella digital cuando la pantalla esté apagada. El \"modo siempre activada\" tampoco estará disponible. El desbloqueo con huella digital solo funciona con la pantalla encendida."</string>
     <string name="close_hotspot_hint">Desactiva el punto de acceso portátil antes de emitir</string>
+    <string name="close_lid_display_settings_title">Después de plegar</string>
     <string name="close_miui_optimization_title">Desactivar optimización MIUI</string>
     <string name="close_optimization_message">El diseño del texto y otras características de MIUI podrían resultar afectadas al desactivar esta función.</string>
     <string name="close_optimization_option">Desactivar</string>
@@ -2740,7 +2744,7 @@ Esta configuración afecta a todos los usuarios de este dispositivo."</string>
     <string name="device_description_battery">Capacidad de la batería</string>
     <string name="device_description_camera">Cámara trasera</string>
     <string name="device_description_resolution">Resolución</string>
-    <string name="device_description_screen">Tamaño de pantalla</string>
+    <string name="device_description_screen">Pantalla</string>
     <string name="device_details_title">Detalles del dispositivo</string>
     <string name="device_display_layout_title">Funciones especiales</string>
     <string name="device_edit_title">Renombrar dispositivo</string>
@@ -3027,7 +3031,7 @@ Si el problema persiste, es posible que debas desinstalar la app para mejorar el
     <string name="dpp_sharing_wifi_summary">Compartiendo Wi-Fi…</string>
     <string name="dpp_theme_title">Wi-Fi compartido</string>
     <string name="draw_overlay">Mostrar sobre otras apps</string>
-    <string name="dsda_switch_summary">Permitir que simultáneamente ambas SIM usen los datos moviles y hagan llamadas</string>
+    <string name="dsda_switch_summary">En un entorno de red 5G, permite que ambas tarjetas SIM usen datos móviles y hagan llamadas simultáneamente</string>
     <string name="dsda_switch_title">Modo dual activo</string>
     <string name="dsds_activation_failure_body_msg1">Retire la SIM y vuelva a insertarla. Si el problema continúa, reinicia tu dispositivo.</string>
     <string name="dsds_activation_failure_body_msg2">Intente encender la SIM nuevamente. Si el problema continúa, reinicia tu dispositivo.</string>
@@ -3114,6 +3118,7 @@ Puede ver los registros generados en el Administrador de archivos."</string>
     <string name="emergency_tone_title">Indicador de marcado de emergencia</string>
     <string name="emergency_tone_vibrate">Vibraciones</string>
     <string name="empty_networks_list">No se encontraron redes.</string>
+    <string name="emulate_sd_data">Datos de la SD emulada</string>
     <string name="enableNetwork">enableNetwork</string>
     <string name="enable_2g_summary">Utilice conexiones celulares 2G. Para llamadas de emergencia, 2G siempre está activado.</string>
     <string name="enable_2g_title">Permitir 2G</string>
@@ -3316,6 +3321,7 @@ Reinicie su dispositivo y vuelva a intentarlo."</string>
     <string name="exposed_dropdown_menu_content_description">Mostrar menú desplegable</string>
     <string name="extended_power_menu">Menú de apagado extendido</string>
     <string name="exterior">Esquema de colores</string>
+    <string name="external_auto_rotate_title">Orientación de bloqueo de la pantalla externa</string>
     <string name="external_code_size_label">Aplicación en el almacenamiento USB</string>
     <string name="external_data_size_label">Datos en el almacenamiento USB</string>
     <string name="external_ram_dialog_btn_cancel">Después</string>
@@ -3325,6 +3331,7 @@ Reinicie su dispositivo y vuelva a intentarlo."</string>
     <string name="external_ram_dialog_icon_title">La extensión de memoria está activada</string>
     <string name="external_ram_dialog_message">Reinicie el dispositivo para aplicar cambios.</string>
     <string name="external_ram_dialog_title">Reiniciar dispositivo</string>
+    <string name="external_ram_intro">"Crea RAM adicional ocupando el almacenamiento. Usa esta función solo cuando haya suficiente espacio de almacenamiento disponible en el dispositivo."</string>
     <string name="external_ram_remind_toast">El espacio de almacenamiento se está agotando. Por ahora se ha desactivado la extensión de memoria.</string>
     <string name="external_ram_summary">"Agregue %1$s %2$s de RAM ocupando espacio de almacenamiento. Utilice esta función solo cuando haya suficiente espacio de almacenamiento disponible en su dispositivo."</string>
     <string name="external_ram_title">Extensión de memoria</string>
@@ -3946,12 +3953,14 @@ El área donde puedes confirmar que el bloqueo de la pantalla se moverá a la de
     <string name="headset_find_disconnect">No conectado</string>
     <string name="headset_find_handle_tip">Toque para reproducir la alarma</string>
     <string name="headset_find_left">Izquierdo</string>
+    <string name="headset_find_left_tip">Parece que el auricular izquierdo está en el estuche o en el oído</string>
     <string name="headset_find_notify_connected">Conectado</string>
     <string name="headset_find_notify_disconnect">Desconectado. Conéctese y vuelva a intentarlo.</string>
     <string name="headset_find_play_warning">Parece que al menos uno de los audífonos está en su oído. Hacer sonar la alarma ahora puede dañar su audición. Quítese los audífonos de los oídos antes de continuar.</string>
     <string name="headset_find_playing">Reproduciendo…</string>
     <string name="headset_find_query_play">Reproducir</string>
     <string name="headset_find_right">Derecho</string>
+    <string name="headset_find_right_tip">Parece que el auricular derecho está en el estuche o en el oído</string>
     <string name="headset_find_tip">Sus audífonos deben estar cerca y conectados a este dispositivo para que los encuentre. Hacer sonar la alarma mientras al menos uno de los audífonos está en su oído puede dañar su audición.</string>
     <string name="headset_find_tip_title">Atención</string>
     <string name="headset_find_title">Encuentre sus audífonos</string>
@@ -4165,6 +4174,8 @@ Abra Xiaomi Cloud y restaure elementos desde allí."</string>
     <string name="insufficient_storage">No hay suficiente espacio de almacenamiento.</string>
     <string name="intelligence_suppression_summary">Ajuste dinámicamente el tamaño del área cerca de los bordes donde el toque accidental se ignorará según su agarre</string>
     <string name="intelligence_suppression_title">Auto (Recommended)</string>
+    <string name="intelligent_keep_screen_on">Mantener la pantalla encendida si es necesario</string>
+    <string name="intelligent_keep_screen_on_summary">"Mantener la pantalla externa encendida cuando esté hacia arriba"</string>
     <string name="intent_sender_account_label">Cuenta:</string>
     <string name="intent_sender_action_label">Action:</string>
     <string name="intent_sender_data_label">Datos:</string>
@@ -4196,6 +4207,7 @@ Abra Xiaomi Cloud y restaure elementos desde allí."</string>
     <string name="interconnection">Interconectividad</string>
     <string name="interesting_text">Las sensaciones táctiles realistas hacen que su interacción con la pantalla sea más clara y articulada.</string>
     <string name="interesting_title">Toque realista</string>
+    <string name="internal_auto_rotate_title">Orientación de bloqueo de la pantalla interna</string>
     <string name="internal_memory">Almacenamiento interno</string>
     <string name="internal_storage">Almacenamiento interno</string>
     <string name="internet_connectivity_panel_title">Conexión a Internet</string>
@@ -4211,7 +4223,7 @@ Abra Xiaomi Cloud y restaure elementos desde allí."</string>
     <string name="kddi_nfc_secure_settings_title">Bloquear mientras está en la pantalla de bloqueo</string>
     <string name="kddi_nfc_secure_toggle_summary">Mantenga NFC/Osaifu-keitai activado solo cuando el dispositivo esté desbloqueado</string>
     <string name="keep_legacy_fingerprint">Mantener</string>
-    <string name="keep_screen_on">"No bloquear la pantalla"</string>
+    <string name="keep_screen_on">Mantener la pantalla encendida</string>
     <string name="keep_screen_on_after_folding_off_summary">Mantén la pantalla exterior encendida después de plegarla durante las llamadas o cuando se usa la cámara</string>
     <string name="keep_screen_on_after_folding_on_summary">Mantén la pantalla exterior encendida después de plegarla para continuar con tus tareas actuales</string>
     <string name="keep_screen_on_after_folding_text">Mantén la pantalla exterior encendida después de plegarla para continuar con tus tareas actuales</string>
@@ -4396,6 +4408,7 @@ Abra Xiaomi Cloud y restaure elementos desde allí."</string>
     <string name="keywords_wifi_notify_open_networks">notificación de Wi-Fi, notificación de wifi</string>
     <string name="keywords_write_settings">editar, modificar, sistema, configuración</string>
     <string name="keywords_zen_mode_settings">no interrumpir, programar, notificaciones, bloquear, silenciar, vibrar, suspender, trabajar, enfocar, sonido, silencio, día, día de la semana, fin de semana, noche de la semana, evento</string>
+    <string name="kid_space_forbidden_set_unlock_password_msg">"No se puede establecer ni cambiar la contraseña en el espacio para niños"</string>
     <string name="kid_space_settings">Espacio infantil</string>
     <string name="kilobyte_per_second">kB/s</string>
     <string name="knock_edge_area_invalid">"Este gesto no funciona cerca de los bordes de la pantalla"</string>
@@ -4437,6 +4450,11 @@ Abra Xiaomi Cloud y restaure elementos desde allí."</string>
     <string name="last_synced">Última sincronización: %1$s</string>
     <string name="last_time_used_label">Última utilización</string>
     <string name="lattice_smartcover_title">Cubierta frontal con entramado</string>
+    <string name="launch_accessibility_environmental_speech_recognition">Detección del sonido ambiental</string>
+    <string name="launch_accessibility_hear_sound">Mi Ditto</string>
+    <string name="launch_accessibility_hear_sound_subtitle">Subtítulos de Mi Ditto</string>
+    <string name="launch_accessibility_talkback">TalkBack</string>
+    <string name="launch_accessibility_voice_control">Controles de voz</string>
     <string name="launch_ai_shortcut">Accesos directos de Mi IA</string>
     <string name="launch_alipay_health_code">Código de salud Alipay</string>
     <string name="launch_alipay_health_code_auto_close">El acceso directo al código de salud de Alipay ya no está disponible. Puede cambiar a un atajo diferente.</string>
@@ -4492,6 +4510,7 @@ Abra Xiaomi Cloud y restaure elementos desde allí."</string>
     <string name="legacy_control_center_title">Versión antigua</string>
     <string name="legacy_navigation_summary">Ve atrás o a la pantalla principal y cambia de app con los botones de la parte inferior de la pantalla.</string>
     <string name="legacy_navigation_title">Navegación con 3 botones</string>
+    <string name="legacy_power_menu">Menú de apagado tradicional</string>
     <string name="legal_information">Información legal</string>
     <string name="legal_workday">Días laborales</string>
     <string name="legal_workday_invalidate">Lun-Vie (información de días feriados caducada)</string>
@@ -4513,6 +4532,7 @@ Abra Xiaomi Cloud y restaure elementos desde allí."</string>
     <string name="link_turbo_usage_state_today_total">Hoy</string>
     <string name="list_bg_header_text">"Si restringe la conexión en segundo plano, las aplicaciones nuevas no podrán conectarse a internet en segundo plano después de ser instaladas. Después de esto, serían incapaces de recibir mensajes o descargar contenido."</string>
     <string name="list_empty_text">Vacío</string>
+    <string name="lite_font_weight_title">Grosor de la fuente</string>
     <string name="live_caption_summary">Subtitular automáticamente</string>
     <string name="live_caption_title">Subtitulado instantáneo</string>
     <string name="load_networks_progress">Buscando…</string>
@@ -4663,6 +4683,7 @@ Abra Xiaomi Cloud y restaure elementos desde allí."</string>
     <string name="lock_screen_notifs_show_all">Mostrar conversaciones predeterminadas y silenciadas</string>
     <string name="lock_screen_notifs_show_none">No mostrar notificaciones</string>
     <string name="lock_screen_notifs_title">Notificaciones en la pantalla de bloqueo</string>
+    <string name="lock_screen_now">Bloquear la pantalla</string>
     <string name="lock_screen_password_skip_biometrics_message">"Se requiere una contraseña para configurar Desbloqueo facial y Desbloqueo por huella digital.
 
 Una contraseña protege el teléfono en caso de pérdida o robo."</string>
@@ -5179,8 +5200,10 @@ No podrá revertir esta acción."</string>
     <string name="miheadset_ancLow">Oficina</string>
     <string name="miheadset_ancMedium">Diario</string>
     <string name="miheadset_ancMild">Claro</string>
+    <string name="miheadset_ancMode">Modo cancelación de ruido</string>
     <string name="miheadset_anc_indicate">Conecte y empareje sus audífonos</string>
     <string name="miheadset_anc_manual">Manual</string>
+    <string name="miheadset_atuo_download_title">Descargar automáticamente</string>
     <string name="miheadset_audio_mode">Calidad de audio</string>
     <string name="miheadset_audio_mode_high">Alto</string>
     <string name="miheadset_audio_mode_listen">Bajo</string>
@@ -5192,7 +5215,9 @@ No podrá revertir esta acción."</string>
     <string name="miheadset_auto_ack_mode">"Responda llamadas automáticamente cuando use los audífonos"</string>
     <string name="miheadset_auto_ack_mode_summary">Conteste las llamadas automáticamente</string>
     <string name="miheadset_auto_answer_call">Responde las llamadas automáticamente</string>
+    <string name="miheadset_auto_download_summary">Descarga automáticamente las versiones más adecuadas</string>
     <string name="miheadset_auto_upgrade_reminder">Desactivar las actualizaciones automáticas y volver a buscar actualizaciones</string>
+    <string name="miheadset_automatic">Automático</string>
     <string name="miheadset_bluetooth_audio_title">Frecuencia de muestreo de audio Bluetooth LC3plus</string>
     <string name="miheadset_bright">Brillante</string>
     <string name="miheadset_call_assist">Mi AI</string>
@@ -5203,6 +5228,7 @@ No podrá revertir esta acción."</string>
     <string name="miheadset_codec_sample_rate">Frecuencia de muestreo de audio Bluetooth</string>
     <string name="miheadset_common_problem">Preguntas frecuentes</string>
     <string name="miheadset_connectHeadsetForFw">Conecte los audífonos para ver la versión del firmware</string>
+    <string name="miheadset_connect_device_hfp">Conecta los auriculares y asegúrate de que está permitido reproducir el audio de llamadas</string>
     <string name="miheadset_connect_play_music">Iniciar la reproducción automáticamente cuando se conectan los audífonos</string>
     <string name="miheadset_connect_toast_tips">Conecte los audífonos primero</string>
     <string name="miheadset_custom_sound">Sonido personalizado</string>
@@ -5227,6 +5253,7 @@ No podrá revertir esta acción."</string>
     <string name="miheadset_feedback">Comentarios</string>
     <string name="miheadset_feedback_summary">Para poder enviar registros, coloca ambos auriculares en el estuche de carga y mantén la tapa abierta.</string>
     <string name="miheadset_feedback_title">Enviar registros</string>
+    <string name="miheadset_firmware_version_update">Actualizar el firmware</string>
     <string name="miheadset_fitness_check">Prueba de ajuste de las almohadillas del audífono</string>
     <string name="miheadset_fitness_check_checking">Comprobando…</string>
     <string name="miheadset_fitness_check_continue">Siguiente</string>
@@ -5281,6 +5308,7 @@ No podrá revertir esta acción."</string>
     <string name="miheadset_local_ota">Actualizar</string>
     <string name="miheadset_low_latency">Baja latencia</string>
     <string name="miheadset_manual">Acerca del dispositivo</string>
+    <string name="miheadset_manual_operation">Manual</string>
     <string name="miheadset_minus">Bajar volumen</string>
     <string name="miheadset_moreSettingsInAi">Ajustes adicionales</string>
     <string name="miheadset_multi_connect_mode">Multipunto</string>
@@ -5440,6 +5468,8 @@ Continúe para acceder a los ajustes adicionales."</string>
     <string name="miui_special_feature">Funciones especiales</string>
     <string name="miui_touch_filtered_touchassistant_warning">El diálogo de permisos está cubierto por la bola flotante. Mueva la bola flotante o desactive esta función.</string>
     <string name="miui_touch_filtered_warning">Si una aplicación está bloqueando el diálogo de permisos, arrastre el elemento sobrepuesto a un lado o cierre la aplicación.</string>
+    <string name="miui_type_style_summary">Estilo de escritura usado cuando el lector de pantalla está activo</string>
+    <string name="miui_type_style_title">Estilo de escritura</string>
     <string name="miui_updater">Actualización del sistema</string>
     <string name="miui_userguide">Guía de usuario</string>
     <string name="miuix_access_state_desc">Seleccionado</string>
@@ -5582,6 +5612,7 @@ Si cambias a %1$s no se cancelará el servicio de %2$s."</string>
     <string name="more_account_settings_title">Otras cuentas</string>
     <string name="more_dangerous_option_hint">Funciones de alto riesgo incluyendo \"%1$s\" están activadas. Toque para cambiar los ajustes.</string>
     <string name="more_dark_mode_settings">Más opciones del Modo Oscuro</string>
+    <string name="more_font_pref_title">Más fuentes</string>
     <string name="more_installed_services_title">Más servicios descargados</string>
     <string name="more_settings_button">Más configuraciones</string>
     <string name="morning">Mañana</string>
@@ -7038,7 +7069,7 @@ Esa configuración afecta a todos los usuarios de este teléfono."</string>
     <string name="runtime_permissions_summary_no_permissions_requested">No se solicitaron permisos</string>
     <string name="rx_link_speed_label">Velocidad de recepción:</string>
     <string name="rx_wifi_speed">Velocidad enlace de recepción</string>
-    <string name="safe_install_mode_settings">Modo seguro</string>
+    <string name="safe_install_mode_settings">Protección Mi</string>
     <string name="safety_and_regulatory_info">Manual sobre reglamentación y seguridad</string>
     <string name="sar">Información de exposición a RF</string>
     <string name="saturday">Sábado</string>
@@ -8173,7 +8204,7 @@ Retirar el consentimiento para %s ahora?"</string>
     <string name="sound_dashboard_summary">Volumen, vibración, No interrumpir</string>
     <string name="sound_effects_enable_title">Sonidos de toques</string>
     <string name="sound_haptic_settings">Sonido y toque</string>
-    <string name="sound_mode">Modo silencio</string>
+    <string name="sound_mode">Opciones de sonido</string>
     <string name="sound_settings">Sonido</string>
     <string name="sound_settings_example_summary">Volumen de tono y notificaciones al 80%</string>
     <string name="sound_settings_summary">Volumen de tono y notificaciones al %1$s</string>
@@ -8551,6 +8582,7 @@ Intenta usar un ^3 más rápido o usa ^4 como almacenamiento portátil."</string
     <string name="stylus_function_and_action">Características</string>
     <string name="stylus_keyboard_settings_title">Lápiz óptico &amp; teclado</string>
     <string name="stylus_not_connect_message">"El lápiz no está conectado"</string>
+    <string name="stylus_not_connect_message_new">Conecta el lápiz para emparejarlo</string>
     <string name="stylus_ota_check_failed_battery">"No se pudo comprobar. La batería de su lápiz óptico se está agotando."</string>
     <string name="stylus_ota_check_failed_info">"No se pudo verificar la versión del firmware. Vuelva a conectar su lápiz óptico."</string>
     <string name="stylus_ota_check_update">Buscar actualizaciones</string>
@@ -8625,6 +8657,8 @@ Intenta usar un ^3 más rápido o usa ^4 como almacenamiento portátil."</string
     <string name="swipe_direction_ltr">Desliza el dedo hacia la derecha para cerrar la notificación o hacia la izquierda para mostrar el menú</string>
     <string name="swipe_direction_rtl">Desliza el dedo hacia la izquierda para cerrar la notificación y hacia la derecha para mostrar el menú</string>
     <string name="swipe_direction_title">Acciones al deslizar el dedo</string>
+    <string name="swipe_up_to_continue_using">Desliza hacia arriba para continuar</string>
+    <string name="swipe_up_to_continue_using_summary">Bloquear después de %d segundos de inactividad</string>
     <string name="swipe_up_to_switch_apps_suggestion_summary">Activa el nuevo gesto para cambiar de app</string>
     <string name="swipe_up_to_switch_apps_suggestion_title">Prueba el nuevo botón de inicio</string>
     <string name="swipe_up_to_switch_apps_summary">Para cambiar de app, desliza el dedo hacia arriba sobre el botón de inicio. Para ver todas las apps, vuelve a deslizar el dedo hacia arriba. Para volver, presiona el botón \"Atrás\".</string>
@@ -9424,6 +9458,8 @@ Toque \"+\" para agregar palabras."</string>
     <string name="uwb_settings_title">Banda ultraancha (UWB)</string>
     <string name="v7_preference_off">DESACTIVADA</string>
     <string name="v7_preference_on">ACTIVADA</string>
+    <string name="var_font_switch_dialog_summary">Necesitas reiniciar el dispositivo para cambiar este ajuste.</string>
+    <string name="var_font_switch_dialog_title">¿Reiniciar el dispositivo?</string>
     <string name="var_font_switch_title">Fuente variable de todo el sistema</string>
     <string name="verify_apps_over_usb_summary">Revisar comportamiento dañino de aplicaciones instaladas vía ADB/ADT.</string>
     <string name="verify_apps_over_usb_title">Verificar aplicaciones por USB</string>

@@ -68,8 +68,8 @@
     <string name="aqi_alert_channel_name">Alertas ICA</string>
     <string name="aqi_data_source">Desarrollado por Colorful Clouds</string>
     <string name="aqi_desc">Índice de Calidad del Aire</string>
-    <string name="aqi_detail_24_hours">Previsión para 24 horas</string>
-    <string name="aqi_detail_5_days">Previsión para 5 días</string>
+    <string name="aqi_detail_24_hours">Pronóstico para %d horas</string>
+    <string name="aqi_detail_5_days">Pronóstico para %d día</string>
     <string name="aqi_detail_co_unit">Unidad: mg/m³</string>
     <string name="aqi_detail_title">Índice de calidad del aire</string>
     <string name="aqi_detail_unit">Unidad: µg/m³</string>
@@ -93,7 +93,7 @@
     <string name="button_exit">"No aceptar"</string>
     <string name="button_settings_cancel">Cancelar</string>
     <string name="button_settings_confirm">Retirar</string>
-    <string name="button_settings_confirm_to_revoke_msg">Al desactivar el interruptor, retira su consentimiento a la Política de privacidad del Tiempo. Dejaremos de recopilar su información personal. La información personal ya recopilada y retenida se eliminará dentro del período específico requerido por las leyes aplicables. Tiempo necesita recopilar la información personal necesaria para brindarle los servicios básicos. Su retirada del consentimiento a la Política de privacidad se considerará como negarse a aceptar sus servicios en función de la información personal recopilada.</string>
+    <string name="button_settings_confirm_to_revoke_msg">Al desactivar el interruptor, retiras el consentimiento a la Política de Privacidad de Tiempo. Dejaremos de recopilar información personal. La que ya está recopilada se eliminará dentro del período específico requerido por las leyes aplicables. Tiempo necesita recopilar la información personal necesaria para proporcionar los servicios básicos. Si retiras el consentimiento a la Política de Privacidad se considera que no aceptas los servicios de Tiempo, basados en la información personal recopilada.</string>
     <string name="card_vote_item_vs">VS</string>
     <string name="change_alert">Comprueba la conexión de red e inténtalo otra vez</string>
     <string name="city_exceeded_warning">"No se puede añadir más ciudades. Para añadir una nueva, elimina primero una ciudad que ya esté en la lista."</string>
@@ -342,7 +342,7 @@
     <string name="privacy_grant_or_revoke_settings">Retirada del consentimiento</string>
     <string name="privacy_grant_success">Autorización concedida</string>
     <string name="privacy_policy">Política de Privacidad</string>
-    <string name="privacy_policy_msg"><Data>Esta aplicación contiene las siguientes funciones:&lt;br/&gt;• Información meteorológica específica de su ubicación&lt;br/&gt;• Pronósticos meteorológicos&lt;br/&gt;• Avisos meteorológicos&lt;br/&gt;&lt;br/&gt;Tiempo necesita recopilar la información personal necesaria para brindarle los servicios básicos. Puede aprender cómo manejamos la información que recopilamos en nuestra &lt;a href=\"%1$s\"&gt;Política de privacidad&lt;/a&gt;. Lea y acepte nuestro &lt;a href=\"%2$s\"&gt;Acuerdo de usuario&lt;/a&gt; y &lt;a href=\"%3$s\"&gt;Política de privacidad&lt;/a&gt; antes de usar Tiempo. Puede retirar su consentimiento a la Política de privacidad de Tiempo en los Ajustes en cualquier momento.</Data></string>
+    <string name="privacy_policy_msg"><Data>Esta aplicación incluye las siguientes funciones:&lt;br/&gt;• Información meteorológica específica de tu ubicación&lt;br/&gt;• Previsión meteorológica&lt;br/&gt;• Advertencias meteorológicas&lt;br/&gt;&lt;br/&gt;Tiempo necesita recopilar la información personal necesaria para proporcionar servicios básicos. Puedes ver como manejamos esa información en nuestra &lt;a href=\"%1$s\"&gt;Política de Privacidad&lt;/a&gt;. Lee y acepta nuestro &lt;a href=\"%2$s\"&gt;Acuerdo de Usuario&lt;/a&gt; y &lt;a href=\"%3$s\"&gt;Política de Privacidad&lt;/a&gt; antes de utilizar esta aplicación. Puedes retirar tu consentimiento desde Ajustes, en cualquier momento.</Data></string>
     <string name="privacy_policy_msg_for_gp"><Data>Esta aplicación contiene las siguientes funciones:&lt;br/&gt;• Información meteorológica específica de su ubicación&lt;br/&gt;• Pronósticos meteorológicos&lt;br/&gt;• Advertencias meteorológicas&lt;br/&gt;&lt;br/&gt;Tiempo necesita recopilar la información personal necesaria, incluidos los datos de ubicación, para que estas funciones estén disponibles, incluso cuando la aplicación está cerrada o no está en uso. Puede aprender cómo manejamos la información que recopilamos en nuestra &lt;a href=\"%1$s\"&gt;Política de privacidad&lt;/a&gt;. Lea y acepte nuestro &lt;a href=\"%2$s\"&gt;Acuerdo de usuario&lt;/a&gt; y &lt;a href=\"%3$s\"&gt;Política de privacidad&lt;/a&gt; antes de usar Tiempo. Puede retirar su consentimiento a la Política de privacidad de Tiempo en los Ajustes en cualquier momento.</Data></string>
     <string name="privacy_revoke_success">Autorización revocada</string>
     <string name="privacy_settings">Política de Privacidad</string>
@@ -393,7 +393,7 @@
     <string name="share_subject">Compartir</string>
     <string name="share_weather_desc">\#Tiempo MIUI #Hoy %1$s %2$s</string>
     <string name="share_weather_save_pic_fail">"No se pudo tomar la captura de pantalla"</string>
-    <string name="shortcut_short_label_24_hour_forecast">Previsión para 24 horas</string>
+    <string name="shortcut_short_label_24_hour_forecast">Pronóstico para %d horas</string>
     <string name="shortcut_short_label_recent_forecast">Comprueba el tiempo</string>
     <string name="solar_term_autumn_begins">Comienzo del Otoño</string>
     <string name="solar_term_autumn_equinox">Equinoccio de Otoño</string>
@@ -509,7 +509,7 @@
     <string name="unit">Unidades</string>
     <string name="unit_temperature">Unidad de temperatura</string>
     <string name="unit_wind">Unidad de velocidad del viento</string>
-    <string name="update_night_setting_summary_text">Actualizar información del tiempo entre las 23:00 y las 07:00</string>
+    <string name="update_night_setting_summary_text">Actualizar la información del tiempo entre %1$s y %1$s</string>
     <string name="update_night_setting_title_text">Actualizar automáticamente por la noche</string>
     <string name="update_notification_info">Actualizando datos en segundo plano…</string>
     <string name="updated_a_moment_ago">Actualizado hace un momento</string>

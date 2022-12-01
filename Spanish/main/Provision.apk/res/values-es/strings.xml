@@ -68,7 +68,7 @@
     <string name="clearable_edittext_clear_description">Limpiar</string>
     <string name="clock_introduction">Puedes usar esta aplicación para ver la hora, así como usar el temporizador, el reloj mundial, establecer alarmas y más.</string>
     <string name="close">Cerrar</string>
-    <string name="close_location_service_setting">Puede elegir desactivar el acceso a la ubicación en Configuración &gt; Protección de privacidad &gt; Administrar o restringir permisos para aplicaciones individuales en Seguridad.</string>
+    <string name="close_location_service_setting">Puedes desactivar el acceso a la ubicación en Ajustes &gt; Aplicaciones &gt; Permisos &gt; nombre de la aplicación.</string>
     <string name="cm_terms_content">"Para mejorar los servicios provistos, el operador de red móvil de su selección puede subir sus datos personales e información de este dispositivo en los servidores usando redes Wi-Fi o conexión de datos móviles. Esta información será utilizada solo con fines estadísticos para mejorar la calidad de los servicios y proveer contenido más personalizado. Esta información no se usará para identificarle y no se revelará a terceras partes."</string>
     <string name="cm_terms_title">Acuerdo del Operador de Red Móvil</string>
     <string name="compass_introduction">Puedes usar esta aplicación para navegar, así como ver coordenads, presión atmosférica y altitud.</string>
@@ -132,7 +132,7 @@
     <string name="font_hint_large">Tamaño de texto por defecto</string>
     <string name="font_hint_normal">Aumentar tamaño de texto</string>
     <string name="framework_introduction">Mi Services Framework le permite usar Mi Account, Mi Push, Analytics y MIUI BI.</string>
-    <string name="framwork_base_service">Para brindarle estos servicios, Mi Services Framework (Mi Cuenta, Mi Push, Analytics, MIUI BI) necesita conectarse a Internet, acceder a su ubicación, número de teléfono, IMEI e IMSI, y permitir que su dispositivo reciba notificaciones automáticas</string>
+    <string name="framwork_base_service">Para proporcionar estos servicios, Mi Services Framework (cuenta Xiaomi, Mi Push, Analytics, MIUI BI) necesita conexión a Internet, acceso a la ubicación, al número de teléfono, a IMEI e IMSI y permiso para que el dispositivo reciba notificaciones automáticas</string>
     <string name="friday">Viernes</string>
     <string name="friday_short">Vie</string>
     <string name="friday_shortest">Vie</string>

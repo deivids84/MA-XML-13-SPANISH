@@ -250,7 +250,7 @@ añadidos a la lista de bloqueos"</string>
     <string name="dialog_message_fake_cell_detect_error">¿Corregir la información del mensaje? Para hacerlo, MIUI necesita enviar al servidor tu número de teléfono (%1$s), el contenido del mensaje y la información de ubicación.</string>
     <string name="dialog_message_mx">Mi Message te permite enviar mensajes a otros usuarios de MIUI sin incurrir en cargos. Se requiere un mensaje de texto saliente para activar Mi Message. Su operador le cobrará por este mensaje. Debes aceptar nuestra \"%1$s\" y \"%2$s\" antes de usar Mi Message.</string>
     <string name="dialog_message_networking">Mensaje necesita usar las páginas amarillas para poder proporcionar reconocimiento de identificación del remitente. Las páginas de mensajería y amarillas necesitan conectarse a Internet y acceder a su ubicación para funcionar con normalidad. ¿Permitir?</string>
-    <string name="dialog_message_rcs">La mensajería de China Mobile te permite enviar mensajes a otros usuarios de China Mobile en China continental sin incurrir en cargos. Debes aceptar \"%1$s\" antes de usar la mensajería de China Mobile.</string>
+    <string name="dialog_message_rcs">La mensajería de China Mobile permite enviar mensajes a otros usuarios de China Mobile en territorio chino sin coste alguno. Debes aceptar \"%1$s\" antes de utilizarla.</string>
     <string name="dialog_quit">Salir</string>
     <string name="dialog_revoke">Retirar</string>
     <string name="dialog_sim_locked_confirm">Aceptar</string>
@@ -514,6 +514,7 @@ Verifique su tarjeta SIM."</string>
 Este mensaje podría ser no deseado."</string>
     <string name="mms_block_hint_highlight">Bloquear MMS</string>
     <string name="mms_main_purpose">"Para tener acceso a todas las funciones de Mensajes, activa Mi Message y Mensajes Inteligentes."</string>
+    <string name="mms_main_purpose_new">Esta aplicación necesita conexión a Internet para proporcionar servicios básicos. Recomendamos que actives los servicios de Mensajes Mi y los Mensajes Inteligentes.</string>
     <string name="mms_mi_message_main_purpose">¡Te damos la bienvenida a Mensaje Mi! Se necesita un mensaje SMS saliente para activarlo. Tu operador te cobrará por este mensaje.</string>
     <string name="mms_mi_message_request_notice">Queremos que aproveches al máximo Mi Mensaje.</string>
     <string name="mms_mx_privacy_policy">Política de privacidad de Mi Mensaje</string>
@@ -835,7 +836,7 @@ Lea y acepte la nueva versión de la Política de privacidad antes de continuar.
     <string name="privacy_revoke_nonetwork_ok">Entiendo</string>
     <string name="privacy_revoke_nonetwork_title">"No puedo conectarme a la red"</string>
     <string name="privacy_state_revoked_cancel">Cancelar</string>
-    <string name="privacy_state_revoked_content">Al desactivar el interruptor, retira su consentimiento a la Política de privacidad de mensajería. Dejaremos de recopilar su información personal. La información personal ya recopilada y retenida se eliminará dentro del período específico requerido por las leyes aplicables. Mi Message y Smart Messaging proporcionados por Messaging deben recopilar la información personal necesaria para brindarle servicios básicos. Su retiro del consentimiento a la Política de privacidad de mensajería se considerará que se niega a aceptar los servicios en función de la información personal recopilada proporcionada por Mi Message y Smart Messaging.</string>
+    <string name="privacy_state_revoked_content">Al desactivar el interruptor, retiras tu consentimiento a la Política de Privacidad de Mensajería. Dejaremos de recopilar información personal. La que ya está recopilada se eliminará dentro del período específico requerido por las leyes aplicables. Los servicios de Mensajería recopilan la información personal necesaria para proporcionar los servicios básicos. Si retiras el consentimiento a la Política de Privacidad se considera que no aceptas los servicios de Mensajería, basados en la información personal recopilada.</string>
     <string name="privacy_state_revoked_dialog_title">Concediendo y revocando autorización</string>
     <string name="privacy_state_revoked_revoked">Revocar</string>
     <string name="privacy_state_revoked_switch">Concediendo y revocando autorización</string>
@@ -989,7 +990,7 @@ Echa un vistazo a los recomendados!"</string>
     <string name="rcs_silence_message">Silenciar notificaciones de mensajes</string>
     <string name="rcs_summary_auto_resend_mms">"Convertir los mensajes multimedia de China Mobile a MMS cuando no se pueda enviar el mensaje original. Tu operador podría cobrarte por este mensaje."</string>
     <string name="rcs_summary_auto_resend_sms">"Convertir los mensajes multimedia de China Mobile a SMS cuando no se pueda enviar el mensaje original. Tu operador podría cobrarte por este mensaje."</string>
-    <string name="rcs_summary_silence_message">Silenciar notificaciones de mensajes cuando el cliente de escritorio esté funcionando</string>
+    <string name="rcs_summary_silence_message">Silencia notificaciones de mensajes con el cliente de escritorio funcionando</string>
     <string name="rcs_unavailable">"No puede utilizar la mensajería de China Mobile. La tarjeta SIM de China Mobile no es su tarjeta de datos predeterminada."</string>
     <string name="rcs_up_not_online">Rcs desconectado. Comprueba los ajustes de red e inténtalo otra vez.</string>
     <string name="rcs_wait_for_retry_text">Esperando…</string>
@@ -1001,8 +1002,8 @@ Echa un vistazo a los recomendados!"</string>
     <string name="recipients_over_size">Demasiados destinatarios.</string>
     <string name="recommend_bar_cancel">Ignorar</string>
     <string name="recommend_bar_message_mx">Mi Message te permite enviar mensajes a otros usuarios de MIUI sin coste alguno.</string>
-    <string name="recommend_bar_message_mx_rcs">Mi Message te permite enviar mensajes a otros usuarios de MIUI y usuarios de China Mobile en China continental sin coste alguno.</string>
-    <string name="recommend_bar_message_rcs">La mensajería de China Mobile te permite enviar mensajes a otros usuarios de China Mobile en China continental sin coste alguno.</string>
+    <string name="recommend_bar_message_mx_rcs">Mensajes Mi permite enviar mensajes a otros usuarios de MIUI y a usuarios de China Mobile en territorio chino sin coste alguno.</string>
+    <string name="recommend_bar_message_rcs">La mensajería de China Mobile permite enviar mensajes a otros usuarios de China Mobile en territorio chino sin coste alguno.</string>
     <string name="recommend_bar_message_smart_message">Copiar contraseñas, rastrear paquetes, usar menús inteligentes y más</string>
     <string name="recommend_bar_ok">Activar</string>
     <string name="recommend_bar_title_mx_rcs">Mi mensaje</string>
@@ -1131,7 +1132,7 @@ Echa un vistazo a los recomendados!"</string>
     <string name="show_all_messages">Mostrar todos los mensajes</string>
     <string name="show_delivery_status">Mostrar estado de la entrega</string>
     <string name="show_sender">Mostrar información del remitente</string>
-    <string name="sim_activation_service_retry_main_purpose">La activación de SIM debe estar activada para que Mi Message funcione normalmente. Puede activar la activación de SIM en Configuración &gt; Administrar aplicaciones.</string>
+    <string name="sim_activation_service_retry_main_purpose">La activación de SIM debe estar habilitada para que Mensajes funcione normalmente. Puedes habilitarla en Ajustes, Administrar aplicaciones.</string>
     <string name="sim_card1">Tarjeta SIM 1</string>
     <string name="sim_card2">Tarjeta SIM 2</string>
     <string name="sim_card_cloud">%s (Mi mensaje)</string>
@@ -1240,6 +1241,7 @@ Echa un vistazo a los recomendados!"</string>
     <string name="system_permission_declare_agree">Aceptar</string>
     <string name="system_permission_declare_disagree">Cancelar</string>
     <string name="system_permission_declare_double_link" formatted="false">Lee y acepta nuestro %1s y %2s antes de usar esta función.</string>
+    <string name="system_permission_declare_exit">Salir</string>
     <string name="system_permission_declare_main_purpose" formatted="false">¡Te damos la bienvenida a %1s! %2s</string>
     <string name="system_permission_declare_mi_message">¡Te damos la bienvenida a Mensaje Mi!</string>
     <string name="system_permission_declare_no_say_no">"Protegeremos su información personal de acuerdo con las leyes, regulaciones y políticas de privacidad relevantes.
@@ -1427,6 +1429,7 @@ Intentos realizados: %s."</string>
     <string name="voice_report_anytime">Siempre</string>
     <string name="voice_report_off">Desactivado</string>
     <string name="voice_report_wiredon">Con auriculares</string>
+    <string name="wait_for_sp_mark_as_read">Un momento…</string>
     <string name="wap_push_title">"[WAP Push] "</string>
     <string name="warning_show">Enviar en %ds</string>
     <string name="web_content_invalid_hint">La visualización de este artículo está restringida por las leyes y regulaciones locales.</string>
@@ -1435,7 +1438,7 @@ Intentos realizados: %s."</string>
     <string name="wednesday_shortest">Mié</string>
     <string name="wild_msg_processing">Procesando…</string>
     <string name="wild_msg_title">Selecciona los números de teléfono que deseas sincronizar</string>
-    <string name="xiaomi_account_service_retry_main_purpose">Los servicios de Mi Cuenta deben estar activados para que esta función funcione normalmente. Puede activar los servicios de Mi Cuenta en Configuración &gt; Administrar aplicaciones.</string>
+    <string name="xiaomi_account_service_retry_main_purpose">Los servicios de la cuenta Xiaomi deben estar activados para que esta opción funcione normalmente. Puedes activarlos en Ajustes, Administrar aplicaciones.</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Ahora no</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Actualizar</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Hay disponible una actualización</string>

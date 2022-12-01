@@ -92,7 +92,7 @@
     <string name="bh_cancellation_of_carrier_services_result">"Si continúa, cancelará los Servicios de Mi Carrier. Después de eso, dejaremos de recopilar y usar su información personal y eliminaremos su historial de pedidos de forma permanente. Asegúrese de que todas sus transacciones se completen antes de cancelar los servicios."</string>
     <string name="bh_cannot_action">"No se pudo usar %1$s. Primero instale la aplicación correspondiente."</string>
     <string name="bh_cannot_fetch_num">Número de teléfono desconocido</string>
-    <string name="bh_cannot_login_miacount">"No se pudo iniciar sesión en Mi cuenta"</string>
+    <string name="bh_cannot_login_miacount">"No se pudo iniciar sesión en la cuenta Xiaomi"</string>
     <string name="bh_card_order_detail">Información de pedido</string>
     <string name="bh_card_order_name">Paquete de servicios</string>
     <string name="bh_card_order_pay_price">Cantidad pagada</string>
@@ -194,7 +194,7 @@
     <string name="bh_save_desc">Guarde este número para usarlo en la próxima recarga</string>
     <string name="bh_save_sccuss">Guardado correctamente</string>
     <string name="bh_saved_number">Número guardado: %1$s</string>
-    <string name="bh_should_login_to_buy">Inicie sesión en Mi Cuenta para poder comprar minutos de llamadas y datos móviles</string>
+    <string name="bh_should_login_to_buy">Inicia sesión en la cuenta Xiaomi para comprar minutos de llamada y datos móviles</string>
     <string name="bh_similar_number_hint">Este número es similar a %1$s. ¿Completar este número de todos modos?</string>
     <string name="bh_stop_carrier_services">Desactivar los servicios de Mi Carrier</string>
     <string name="bh_stop_carrier_services_short">Desactivar los servicios de Mi Carrier</string>
@@ -253,6 +253,7 @@
     <string name="call_disambig_title">Seleccionar número</string>
     <string name="call_fax_home">Llamar al fax de casa</string>
     <string name="call_fax_work">Llamar al fax del trabajo</string>
+    <string name="call_feature_vilte">ViLTE</string>
     <string name="call_home">Llamar a casa</string>
     <string name="call_isdn">Llamar a RDSI</string>
     <string name="call_main">Llamar al teléfono principal</string>
@@ -444,7 +445,7 @@
     <string name="create_group_dialog_title">Crear grupo nuevo</string>
     <string name="create_qrcode_fail_message">"No se puede crear el código QR"</string>
     <string name="cta_content_seg1"><Data>\"&lt;strong&gt;Aviso importante
-Al pulsar \" Acepto \" a continuación, estás aceptando &lt;font color=#33aaff&gt;&lt;a href =\'https://static.account.xiaomi.com/html/agreement/account/en.html\'&gt;Acuerdo de Servicio de cuenta Xiaomi&lt;/a&gt;&lt;/font&gt;, &lt;font color=#33aaff&gt;&lt;a href =\'https://cnbj1-fds.api.xiaomi.com/mimobile-static/mi-carrier-services-useragreement.html\'&gt;Acuerdo de Usuario en itinerancia Mi&lt;/a&gt;&lt;/font&gt;y &lt;font color=#33aaff&gt;&lt;a href =\'http://www.miui.com/res/doc/privacy/en.html\'&gt;Política de Privacidad.&lt;/a&gt;&lt;/font&gt; Lee con atención y en su totalidad para comprender todos los términos y condiciones relacionados antes de aceptarlos.&lt;/strong&gt;\"</Data></string>
+Pulsando \"Aceptar\" abajo, estás conforme con el &lt;font color=#33aaff&gt;&lt;a href =\'https://static.account.xiaomi.com/html/agreement/account/en.html\'&gt;Acuerdo de Servicio de Cuenta Xiaomi&lt;/a&gt;&lt;/font&gt;, &lt;font color=#33aaff&gt;&lt;a href =\'https://cnbj1-fds.api.xiaomi.com/mimobile-static/mi-carrier-services-useragreement.html\'&gt;Acuerdo de usuario de Mi Roaming&lt;/a&gt;&lt;/font&gt;, y la &lt;font color=#33aaff&gt;&lt;a href =\'http://www.miui.com/res/doc/privacy/en.html\'&gt;Política de Privacidad&lt;/a&gt;&lt;/font&gt;. Lee estos documentos cuidadosamente hasta que entiendas completamente todos los términos y condiciones relacionados antes de pulsar \"Aceptar\".&lt;/strong&gt;\"</Data></string>
     <string name="cta_content_seg2">"
 Mi Roaming necesita conectar a Internet y acceder a la información de ubicación para funcionar normalmente. Además, Mi Roaming puede recopilar, usar y compartir tu información personal que estará protegida de acuerdo con las leyes y regulaciones locales."</string>
     <string name="cta_dialog_cancel">Salir</string>
@@ -885,6 +886,10 @@ Pulsa \"%1$s\" y luego selecciona \"%2$s\"."</string>
     <string name="not_set">Sin definir</string>
     <string name="notification_click_detail">Pulsa para ver detalles</string>
     <string name="notification_micloudsync_delete_contact">Xiaomi Cloud quiere eliminar algunos de tus contactos.</string>
+    <string name="notification_missedCallTitle">Llamada perdida</string>
+    <string name="notification_missedCall_call_back">Devolver la llamada</string>
+    <string name="notification_missedCall_message">Enviar SMS</string>
+    <string name="notification_missedCallsTitle">Llamadas perdidas</string>
     <string name="open_contact">Ver contacto</string>
     <string name="open_dial_pad_description">Abrir teclado de marcado</string>
     <string name="option_delete_contact">Eliminar</string>

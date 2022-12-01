@@ -68,8 +68,8 @@
     <string name="aqi_alert_channel_name">Alertas ICA</string>
     <string name="aqi_data_source">Datos proporcionados por Colorful Clouds</string>
     <string name="aqi_desc">Índice de Calidad del Aire</string>
-    <string name="aqi_detail_24_hours">Pronóstico de 24 horas</string>
-    <string name="aqi_detail_5_days">Pronóstico de 5 días</string>
+    <string name="aqi_detail_24_hours">Pronóstico para %d horas</string>
+    <string name="aqi_detail_5_days">Pronóstico para %d día</string>
     <string name="aqi_detail_co_unit">Unidad: mg/m³</string>
     <string name="aqi_detail_title">Índice de Calidad del Aire</string>
     <string name="aqi_detail_unit">Unidad: µg/m³</string>
@@ -393,7 +393,7 @@
     <string name="share_subject">Compartir</string>
     <string name="share_weather_desc">\#Tiempo MIUI #Hoy %1$s %2$s</string>
     <string name="share_weather_save_pic_fail">"No se pudo tomar la captura de pantalla"</string>
-    <string name="shortcut_short_label_24_hour_forecast">Pronóstico de 24 horas</string>
+    <string name="shortcut_short_label_24_hour_forecast">Pronóstico para %d horas</string>
     <string name="shortcut_short_label_recent_forecast">Vea el estado del tiempo</string>
     <string name="solar_term_autumn_begins">Comienzo del Otoño</string>
     <string name="solar_term_autumn_equinox">Equinoccio de Otoño</string>
@@ -509,7 +509,7 @@
     <string name="unit">Unidades</string>
     <string name="unit_temperature">Unidad de temperatura</string>
     <string name="unit_wind">Unidad de velocidad del viento</string>
-    <string name="update_night_setting_summary_text">Actualizar entre las 23:00 y las 07:00</string>
+    <string name="update_night_setting_summary_text">Actualizar la información del tiempo entre %1$s y %1$s</string>
     <string name="update_night_setting_title_text">Actualizar automáticamente en la noche</string>
     <string name="update_notification_info">Actualizando datos en segundo plano…</string>
     <string name="updated_a_moment_ago">Actualizado hace un momento</string>

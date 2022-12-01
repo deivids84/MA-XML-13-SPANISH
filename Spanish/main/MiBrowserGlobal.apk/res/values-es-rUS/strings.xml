@@ -175,6 +175,7 @@
     <string name="app_update_install">Listo para instalar la actualización.</string>
     <string name="application">Aplicaciones</string>
     <string name="application_name">Navegador</string>
+    <string name="application_upgrade">Actualizaciones</string>
     <string name="aqi_quality_index_break">Severamente tóxica</string>
     <string name="aqi_quality_index_dangerous">Peligroso</string>
     <string name="aqi_quality_index_good">Bueno</string>
@@ -213,6 +214,7 @@
     <string name="bookmark_btn_select_all">Seleccionar todo</string>
     <string name="bookmark_btn_select_none">Deseleccionar todo</string>
     <string name="bookmark_cannot_save_url">"Esta URL no puede ser añadida a marcadores."</string>
+    <string name="bookmark_file_privacy_nightmode_moved_here">Accesos directos y modos de navegación pueden encontrarse aquí</string>
     <string name="bookmark_folder_needs_title">Introducir nombre del grupo</string>
     <string name="bookmark_group_lable">Grupo</string>
     <string name="bookmark_needs_title">El marcador debe tener un nombre</string>
@@ -454,9 +456,12 @@ Desactive el interruptor para dejar de sincronizar."</string>
     <string name="choose_to_signin">Sí</string>
     <string name="choose_to_signup">"No, crearé una"</string>
     <string name="choosertitle_sharevia">Compartir vía</string>
+    <string name="clean_cache">Limpiar caché</string>
     <string name="clear">Limpiar</string>
     <string name="clear_history">Limpiar historial</string>
     <string name="clear_most_visited">Historial reciente</string>
+    <string name="clear_result_page_more_content">Descubrir más</string>
+    <string name="clear_result_page_show_more">Ver más</string>
     <string name="clear_search_history">Borrar historial</string>
     <string name="clear_transfer_summary">Borre las banderas de configuración del sistema, para que pueda volver a transferir</string>
     <string name="clear_transfer_title">Limpiar banderas de transferencia</string>
@@ -927,6 +932,7 @@ Envíe este código al supervisor."</string>
     <string name="file_type">Formato: %s</string>
     <string name="filename_empty_alert_message">Ingrese el nombre del archivo</string>
     <string name="filename_illegal_alert_message">Se eliminó un caracter inválido del nombre del archivo</string>
+    <string name="files_stored_in_the_phone">Archivos almacenados en el dispositivo</string>
     <string name="find_garbage">Se ha encontrado %d MB de basura</string>
     <string name="find_new_version">NUEVA ACTUALIZACIÓN DISPONIBLE</string>
     <string name="find_on_page_cancel">Cancelar</string>
@@ -973,6 +979,7 @@ Envíe este código al supervisor."</string>
     <string name="friday_short">Vie</string>
     <string name="friday_shortest">Vie</string>
     <string name="gaid">GAID (haga clic para exportar)</string>
+    <string name="game_center">Juegos</string>
     <string name="game_center_recommend_play">Reproducir</string>
     <string name="game_center_recommend_title">Recomendado para ti</string>
     <string name="game_news_flow_download_bar_download">Descargar</string>
@@ -1182,6 +1189,9 @@ para añadir libros al mismo"</string>
     <string name="homepage_setting">Ajustes de la página de inicio</string>
     <string name="homepage_top_card_menu">Recarga</string>
     <string name="hot_games">Populares</string>
+    <string name="hot_news_notify_summary">Notificaciones push para las mejores noticias</string>
+    <string name="hot_news_notify_tips_light">Puedes desactivar las notificaciones de noticias en &lt;font color=#0D84FF&gt;Ajustes&lt;/font&gt;</string>
+    <string name="hot_news_notify_title">Notificación de noticias</string>
     <string name="i_know">Parar</string>
     <string name="identity">Identificación</string>
     <string name="if_cancel">¿Cancelar operación?</string>
@@ -1270,6 +1280,8 @@ para añadir libros al mismo"</string>
     <string name="loading_tips">Arrastre hacia abajo para actualizar</string>
     <string name="local_apps">Aplicaciones locales</string>
     <string name="local_bookmarks">Mi</string>
+    <string name="local_file">Archivos locales</string>
+    <string name="local_video_player_label">Reproductor de vídeo (Navegador)</string>
     <string name="location_permission_name">Acceder a la ubicación</string>
     <string name="lockpattern_continue_button_text">Siguiente</string>
     <string name="lockpattern_need_to_confirm">Confirmar patrón de desbloqueo</string>
@@ -1302,6 +1314,7 @@ para añadir libros al mismo"</string>
     <string name="media_error_video_not_exist">"El vídeo no existe"</string>
     <string name="memory_clear_nothing_result">Nada que limpiar en caché</string>
     <string name="memory_clear_result">%1$s limpiados</string>
+    <string name="memory_management">Administrar almacenamiento</string>
     <string name="memory_usage">Memoria</string>
     <string name="menu_addtodesk">Agregar a la pantalla de inicio</string>
     <string name="menu_exit_nightmode">Salir</string>
@@ -1405,6 +1418,7 @@ para añadir libros al mismo"</string>
     <string name="month_september_short">Sep</string>
     <string name="month_september_shortest">Sep</string>
     <string name="more">Más</string>
+    <string name="more_convenient_features_and_content">¡Nuevas herramientas y contenido ofrecidos!</string>
     <string name="more_description">Menú</string>
     <string name="more_info">Saber más</string>
     <string name="more_option">Más opciones</string>
@@ -1694,6 +1708,7 @@ Dejar esta página ahora?"</string>
     <string name="no_network">Compruebe su conexión a la red y vuelva a intentarlo.</string>
     <string name="no_phone">No hay número telefónico</string>
     <string name="no_recent_files">No hay archivos recientes</string>
+    <string name="no_scalable_applications">Todas las aplicaciones están actualizadas</string>
     <string name="no_space_alert_cancel">Más tarde</string>
     <string name="no_space_alert_clean">Liberar espacio</string>
     <string name="no_space_alert_text">No hay suficiente espacio de almacenamiento</string>
@@ -1730,6 +1745,7 @@ Dejar esta página ahora?"</string>
     <string name="novel_continue_read_popup">Leer</string>
     <string name="novel_tab_popup">Mira aquí tus nuevos libros</string>
     <string name="novel_tab_popup_ok">OK </string>
+    <string name="occupy">%s ocupado</string>
     <string name="offline_notification_text">Toque para abrir el anuncio</string>
     <string name="offline_notification_title">Ver el anuncio que guardó cuando estaba sin conexión</string>
     <string name="offline_opt_in_confirm">OK</string>
@@ -1753,6 +1769,7 @@ Dejar esta página ahora?"</string>
     <string name="operation_rename">Renombrar</string>
     <string name="operation_rename_message">Ingresar nuevo nombre</string>
     <string name="operation_send">Enviar</string>
+    <string name="opr_activity_title">Mira la temporada y consigue recompensas</string>
     <string name="other_channel">Toque para agregar más canales.</string>
     <string name="page_info">Información de la página</string>
     <string name="page_info_address">Dirección:</string>
@@ -2091,6 +2108,7 @@ Dejar esta página ahora?"</string>
     <string name="popular_game_video">Popular Game Video</string>
     <string name="popup_window_attempt">¿Permitir que este sitio abra una ventana emergente?</string>
     <string name="positive_confirm_message">Apagar de todas formas</string>
+    <string name="power_saving_settings">Ahorro de batería</string>
     <string name="pref_accessibility">Accesibilidad</string>
     <string name="pref_accessibility_title">Accesibilidad</string>
     <string name="pref_adblock_summary">Las páginas web podrían cargarse más lentamente cuando esta función está activada</string>
@@ -2315,6 +2333,7 @@ Algunos sitios no usarán su historial de navegación anterior para personalizar
     <string name="pwa_hint_added_success">Añadido con éxito</string>
     <string name="qr_code_title">Código QR</string>
     <string name="qr_description">Escanear código QR</string>
+    <string name="quick_access_to_common_functions">Accede rápidamente a tus funciones favoritas</string>
     <string name="quick_search_and_access_to_functions">La búsqueda rápida permite acceder fácilmente a las funciones más usadas.</string>
     <string name="quicklink_bookmark_save">Guardar en</string>
     <string name="quicklink_cannot_save_url">"Esta URL no puede ser añadida."</string>
@@ -2353,6 +2372,9 @@ Algunos sitios no usarán su historial de navegación anterior para personalizar
     <string name="reading__auto_pagedown_menu_view__speed">Velocidad automática de cambio de página: %1$d</string>
     <string name="reading__bookmark_empty_view__hint">Añadir marcadores al desplegable mientras lees</string>
     <string name="reading__bookmark_empty_view__no_bookmark">Temporalmente sin marcadores</string>
+    <string name="reading__business_recommend_at_end_more">Ver más</string>
+    <string name="reading__business_recommend_at_end_other_docs">Leer más</string>
+    <string name="reading__business_recommend_at_end_title">Contenido recomendado</string>
     <string name="reading__cancel">Cancelar</string>
     <string name="reading__chapter_error_view__content_error">"No se pudo cargar el capítulo. Comprueba los ajustes de red e inténtalo otra vez."</string>
     <string name="reading__chapter_error_view__drm_error">"No se pudo obtener el certificado digital"</string>
@@ -2437,6 +2459,7 @@ Editar"</string>
     <string name="reading__reading_book_introduction">Introducción del libro</string>
     <string name="reading__reading_brightness_view__brightness">Brillo</string>
     <string name="reading__reading_brightness_view__eyes_saving">Confort ocular</string>
+    <string name="reading__reading_end">Final</string>
     <string name="reading__reading_error_commit">Enviar</string>
     <string name="reading__reading_error_report">Informe de error del capítulo</string>
     <string name="reading__reading_feedback_dialog_email_error_toast">Introduce una dirección de correo electrónico válida</string>
@@ -2754,6 +2777,9 @@ recomendamos que uses el modo de lectura gratuita"</string>
     <string name="search_bar_hint_content">Buscar aplicaciones y contenido</string>
     <string name="search_bing">Bing</string>
     <string name="search_button_text">Ir</string>
+    <string name="search_card_online_rec_app">Tiendas de aplicaciones</string>
+    <string name="search_card_online_rec_app_install">Instalar</string>
+    <string name="search_card_online_rec_app_open">Abrir</string>
     <string name="search_dianping">Cate</string>
     <string name="search_easou">Easou</string>
     <string name="search_empty_view_hint">"Sin resultados"</string>
@@ -2829,6 +2855,8 @@ recomendamos que uses el modo de lectura gratuita"</string>
     <string name="setting_sms_content">Contenido de los SMS</string>
     <string name="setting_swipe_up">Desliza hacia arriba en la pantalla de inicio</string>
     <string name="settings">Ajustes</string>
+    <string name="settings_search_online_apps">Tiendas de aplicaciones</string>
+    <string name="settings_search_online_apps_desc">Contenido de las tiendas de aplicaciones</string>
     <string name="share_image_text">¡Mira lo que compartí! @MIUI</string>
     <string name="share_page_text">Mira lo que compartí: %1$s @MIUI| %2$s</string>
     <string name="share_slide_video_text">¡Mira lo que compartí! %1$s</string>
@@ -2900,6 +2928,11 @@ recomendamos que uses el modo de lectura gratuita"</string>
     <string name="speed_test_upload">Subir</string>
     <string name="splash__access_dialog_agree">Aceptar</string>
     <string name="splash__access_dialog_protect">Términos y Condiciones</string>
+    <string name="sport_card_match_week">Semana %d</string>
+    <string name="sports_card_match_season">Temporada</string>
+    <string name="sports_card_match_status_1">Próximamente</string>
+    <string name="sports_card_match_status_2">En curso</string>
+    <string name="sports_card_match_status_3">Finalizado</string>
     <string name="srl_component_falsify" formatted="false">"%s área de manipulación.
 Representa la altura [%.1fdp] de arrastre en tiempo de ejecución.
 No muestra nada."</string>
@@ -3037,6 +3070,7 @@ No muestra nada."</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="summary_command_mode">Activar para entrar en el modo Comando</string>
     <string name="summary_detail_page">Cambiar el estilo de la página de detalles</string>
+    <string name="summary_use_local_ad_config">Activa para usar la configuración local de anuncios</string>
     <string name="summary_use_sandbox_domain">Activar para usar el dominio Sandbox</string>
     <string name="sunday">Domingo</string>
     <string name="sunday_short">Dom</string>
@@ -3122,6 +3156,7 @@ No muestra nada."</string>
     <string name="the_united_nations_day">Día de las Naciones Unidas</string>
     <string name="the_valentines_day">"San Valentín"</string>
     <string name="the_water_lantern_festival">Festival de la linterna de agua</string>
+    <string name="third_image_viewer_label">Visor de imágenes (navegador Mi)</string>
     <string name="thursday">Jueves</string>
     <string name="thursday_short">Jue</string>
     <string name="thursday_shortest">Jue</string>
@@ -3141,6 +3176,7 @@ No muestra nada."</string>
     <string name="title_expire_video">A punto de expirar</string>
     <string name="title_recent">Reciente</string>
     <string name="title_select_volume">Seleccionar carpeta</string>
+    <string name="title_use_local_ad_config">Usa la configuración local de anuncios</string>
     <string name="title_use_sandbox_domain">Usar dominio Sandbox</string>
     <string name="toast_exit_browser">Toque de nuevo para salir de Navegador</string>
     <string name="today">Hoy</string>
@@ -3158,6 +3194,7 @@ No muestra nada."</string>
     <string name="translation_query_error_network">"No se pudo traducir. Compruebe sus ajustes de red y vuelva a intentarlo."</string>
     <string name="translation_result_empty">"No se pudo traducir. Vuelve a intentarlo."</string>
     <string name="translation_to">Traducir a</string>
+    <string name="trash_cleaner_unit">MB</string>
     <string name="trending_apps_more">Más</string>
     <string name="tuesday">Martes</string>
     <string name="tuesday_short">Mar</string>
@@ -3178,6 +3215,7 @@ No muestra nada."</string>
     <string name="update_no_network_toast">"No es posible conectarse a la red"</string>
     <string name="update_now">ACTUALIZAR AHORA</string>
     <string name="update_phone_notice">Cambiar ajustes de seguridad</string>
+    <string name="upgrade">Actualizar</string>
     <string name="upload_error_log">Subir registro</string>
     <string name="upload_usage_statistics">Actívelo para compartir estadísticas de uso con nosotros cuando el Modo incógnito está activado</string>
     <string name="uploads_disabled">La carga de archivos está restringida</string>
@@ -3370,10 +3408,12 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="web_tag_desc">Muestra miniaturas de las páginas ya visitadas</string>
     <string name="web_tag_tips">Pulsa aquí para ver una página otra vez</string>
     <string name="web_tag_title">Miniaturas de páginas web</string>
+    <string name="web_tools_moved_here">Las herramientas se movieron aquí</string>
     <string name="web_video_accelerate">Velocidad</string>
     <string name="web_video_download">Descargar</string>
     <string name="web_video_download_no_access">Se requieren permisos para descargar elementos</string>
     <string name="web_video_enable_long_click_toast">Reproduciendo a velocidad %dX</string>
+    <string name="web_video_float_drag_msg">Arrastra para ajustar el tamaño</string>
     <string name="web_video_list_more">Más</string>
     <string name="web_video_list_playing">Reproduciendo</string>
     <string name="web_video_list_replay">Volver a reproducir</string>

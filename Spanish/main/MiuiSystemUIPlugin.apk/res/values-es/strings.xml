@@ -51,6 +51,7 @@
     <string name="accessibility_volume_expand">Expandir</string>
     <string name="actionbar_button_up_description">Atrás</string>
     <string name="afternoon">Tarde</string>
+    <string name="airplane">Modo avión</string>
     <string name="airplane_mode">Modo avión</string>
     <string name="already_in_small_freeform">Algunas aplicaciones son abiertas en ventanas flotantes</string>
     <string name="am">AM</string>
@@ -59,6 +60,7 @@
     <string name="auto_brightness_on">El brillo automático está activado</string>
     <string name="auto_disable_screenbuttons_disable_toast_text">Botones de navegación desactivados, toque dos veces cualquier botón para volver a activarlos.</string>
     <string name="auto_disable_screenbuttons_enable_toast_text">Botones de navegación habilitados</string>
+    <string name="bootloader">Fastboot</string>
     <string name="bt_is_off">Bluetooth está desactivado</string>
     <string name="character_counter_content_description">Caracteres ingresados %1$d de %2$d</string>
     <string name="character_counter_overflowed_content_description">Límite de caracteres excedido %1$d de %2$d</string>
@@ -134,7 +136,7 @@
     <string name="date_time_picker_dialog_title">Establecer fecha y hora</string>
     <string name="disabled">No disponible</string>
     <string name="dnd_popup_close_message">Entendido</string>
-    <string name="dnd_popup_message">Puedes activar el Modo no molestar para silenciar llamadas y notificaciones sin apagar los sonidos multimedia.</string>
+    <string name="dnd_popup_message">Puedes activar el modo No Molestar para silenciar llamadas y notificaciones sin apagar el sonido multimedia.</string>
     <string name="dolby_atoms_sound_effect_label">Dolby Atmos</string>
     <string name="drag_to_add_tiles">Mantén presionado para agregar o reorganizar elementos</string>
     <string name="early_morning">Mañana</string>
@@ -395,6 +397,7 @@
     <string name="quick_settings_wireless_label">Carga inalámbrica inversa</string>
     <string name="reboot_info_auto_boot">Próxima alarma: %s</string>
     <string name="reboot_info_shutdown_alarm">Apagado de alarma: %s</string>
+    <string name="recovery">Recovery</string>
     <string name="reset">Restablecer</string>
     <string name="restart">Reiniciar</string>
     <string name="safe_media_volume_warning">"¿Subir el volumen por encima del nivel recomendado?
@@ -406,7 +409,10 @@ La exposición prolongada a sonidos fuertes puede causar problemas de audición.
     <string name="save">Guardar</string>
     <string name="search_menu_title">Buscar</string>
     <string name="send">Enviar</string>
+    <string name="silent">Silencioso</string>
     <string name="slider_view_content_description">Desliza hacia arriba para apagar o hacia abajo para reiniciar</string>
+    <string name="slider_view_content_left_description">Desliza hacia arriba para reiniciar en modo Fastboot o hacia abajo para reiniciar en modo Recovery</string>
+    <string name="slider_view_content_right_description">Desliza hacia arriba para cambiar al modo avión o hacia abajo para cambiar al modo Silencio</string>
     <string name="smart_home_title">Dispositivos inteligentes</string>
     <string name="solar_term_autumn_begins">Comienzo del Otoño</string>
     <string name="solar_term_autumn_equinox">Equinocio de otoño</string>

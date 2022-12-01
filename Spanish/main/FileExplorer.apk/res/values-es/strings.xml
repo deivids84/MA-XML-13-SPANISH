@@ -115,7 +115,7 @@
     <string name="category_video">Vídeos</string>
     <string name="category_wechat">WeChat</string>
     <string name="category_zip">Archivos</string>
-    <string name="cdd_message">"Debido a las restricciones de Android 11, no podrá ver algunos de los archivos generados en aplicaciones de terceros en el Administrador de archivos."</string>
+    <string name="cdd_message">"Debido a las restricciones de Android 11, no podrás ver algunos archivos creados por aplicaciones de terceros en el administrador de archivos."</string>
     <string name="cdd_title">Atención</string>
     <string name="character_counter_content_description">%1$d de %2$d carácteres ingresados</string>
     <string name="character_counter_overflowed_content_description">Límite de caracteres excedido %1$d de %2$d</string>
@@ -127,6 +127,7 @@
     <string name="click_to_switch_volume_pad">Toca para cambiar entre almacenamiento interno y tarjeta SD</string>
     <string name="clock_in">Registrándose…</string>
     <string name="close">Cerrar</string>
+    <string name="cloud_copy_to_local_title">Guardar en…</string>
     <string name="cloud_drive_files">Archivos de Mi Drive</string>
     <string name="cloud_drive_not_login_summary">No has iniciado sesión</string>
     <string name="cloud_drive_settings">Ajustes de Mi Drive</string>
@@ -164,6 +165,7 @@ Intenta mover archivos de tu dispositivo a Mi Drive."</string>
     <string name="cta_function_account_operation">Para iniciar rápidamente la sesión en tu cuenta Xiaomi</string>
     <string name="data_consume_dialog_message">"Estás usando datos móviles ahora. Si continúas, se utilizarán %s de datos."</string>
     <string name="data_consume_dialog_title">¿Usar datos móviles?</string>
+    <string name="data_consume_dialog_upload_title">Descargar usando datos móviles</string>
     <string name="data_consumption_cancel">"Rechazar"</string>
     <string name="data_consumption_checkbox_hint">"No mostrar de nuevo"</string>
     <string name="data_consumption_confirm">Aceptar</string>
@@ -354,6 +356,7 @@ Intenta mover archivos de tu dispositivo a Mi Drive."</string>
     <string name="homepage_tab_file_view_phone">Almacenamiento</string>
     <string name="homepage_tab_recent">Reciente</string>
     <string name="hot_sticker">Stickers</string>
+    <string name="hybrid_provider">Proporcionado por %1$s</string>
     <string name="icon_content_description">Icono de diálogo</string>
     <string name="if_cancel">¿Cancelar esta operación?</string>
     <string name="image_loading_error">"No se pudo cargar la imagen"</string>
@@ -552,6 +555,7 @@ Intenta mover archivos de tu dispositivo a Mi Drive."</string>
     <string name="no_enough_storage_indication">"Almacenamiento del dispositivo lleno."</string>
     <string name="no_enough_storage_title">No hay espacio de almacenamiento suficiente</string>
     <string name="no_file">Vacío</string>
+    <string name="no_network">"No se puede conectar a la red"</string>
     <string name="no_network_error_message">Comprueba los ajustes de la red e inténtalo otra vez.</string>
     <string name="no_network_error_title">"No es posible conectar a la red"</string>
     <string name="no_permission">Conceder los permisos necesarios para acceder a esta función</string>
@@ -611,6 +615,7 @@ Intenta mover archivos de tu dispositivo a Mi Drive."</string>
     <string name="operation_moving">Moviendo…</string>
     <string name="operation_new_folder">Crear carpeta</string>
     <string name="operation_no_network_err">"No se pudo conectar a la red. Comprueba los ajustes de red e inténtalo otra vez."</string>
+    <string name="operation_not_support_directory_rename">"No se puede cambiar de nombre esta carpeta."</string>
     <string name="operation_not_support_err">"No se pudo completar esta acción."</string>
     <string name="operation_open">Abrir</string>
     <string name="operation_open_mode">Abrir con</string>
@@ -644,6 +649,7 @@ Intenta mover archivos de tu dispositivo a Mi Drive."</string>
     <string name="operation_upload_error_title">"No se pudo cargar"</string>
     <string name="operation_upload_retry">Inténtalo otra vez</string>
     <string name="operation_upload_save_to_local">Guardar en…</string>
+    <string name="operation_upload_use_data">Subir</string>
     <string name="otg_data_transfer_success">Transferencia realizada</string>
     <string name="otg_data_transferring">"Transferencia de archivos… No desconecte el almacenamiento externo."</string>
     <string name="otg_file_security_note">OGTSecurity</string>
@@ -930,6 +936,9 @@ Intenta mover archivos de tu dispositivo a Mi Drive."</string>
     <string name="video_data_consume_dialog_confirm">Continuar</string>
     <string name="video_data_consume_dialog_title">¿Usar datos móviles?</string>
     <string name="view_type">Vista</string>
+    <string name="web_sso_login_fail">Necesitas iniciar sesión otra vez</string>
+    <string name="web_sso_login_message">Iniciando sesión…</string>
+    <string name="webview_reload">Inténtalo otra vez</string>
     <string name="wechat_msg">"Debido a las restricciones de Android 11, el Administrador de archivos no puede acceder ni mostrar los documentos previsualizados en WeChat. Abra y guarde documentos en WeChat para que aparezcan aquí."</string>
     <string name="wechat_title">"No puedo acceder a los documentos de WeChat"</string>
     <string name="wechat_video">Vídeo en %s</string>

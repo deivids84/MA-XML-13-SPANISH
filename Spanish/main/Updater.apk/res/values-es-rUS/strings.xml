@@ -83,6 +83,6 @@ Las actualizaciones no están disponibles!"</string>
     <string name="share_title">Compartir con</string>
     <string name="stable">Estable</string>
     <string name="version">Instalado actualmente:</string>
-    <string name="weekly">Semanal</string>
+    <string name="weekly">Beta</string>
     <string name="wifi_recommended">¡No hay conexión Wi-Fi para comenzar la descarga de forma segura!</string>
 </resources>

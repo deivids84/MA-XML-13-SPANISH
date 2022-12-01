@@ -225,7 +225,7 @@ Remite este código al supervisor."</string>
     <string name="feedback_edit_popup_window_related_title">Esto podría ser relevante</string>
     <string name="feedback_empty_report_list">Sin reportes</string>
     <string name="feedback_evaluation_btn_content">Valorar</string>
-    <string name="feedback_evaluation_expired_hint">Parece que esta valoración ha caducado</string>
+    <string name="feedback_evaluation_expired_hint">"Ya no se puede calificar este artículo"</string>
     <string name="feedback_evaluation_hint_dialog_content">Tus comentarios ayudan a mejorar nuestros productos y servicios.</string>
     <string name="feedback_evaluation_hint_dialog_title">¿Se ha resuelto este problema?</string>
     <string name="feedback_evaluation_invitation_content">Valora tu experiencia para ayudarnos a mejorar el proceso de comentarios en el futuro.</string>

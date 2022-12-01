@@ -124,7 +124,7 @@
 Con este permiso desactivado, las alarmas existentes y los eventos basados en el tiempo programados por esta aplicación no funcionarán."</string>
     <string name="alarms_and_reminders_label">Alarmas y recordatorios</string>
     <string name="alarms_and_reminders_switch_title">Permitir configurar alarmas y recordatorios</string>
-    <string name="alarms_and_reminders_title">Alarmas &amp; recordatorios</string>
+    <string name="alarms_and_reminders_title">Alarmas y recordatorios</string>
     <string name="alert_dialog_close">Cerrar el perfil</string>
     <string name="alert_dialog_dismiss">Cerrar</string>
     <string name="alert_dialog_in_ecm_call">"La acción seleccionada no está disponible durante una llamada de emergencia."</string>
@@ -2453,7 +2453,7 @@ Próx periodo en %2$d días (%3$s)"</string>
     <string name="tuesday_shortest">Mar</string>
     <string name="turn_off_dual_4g_failed">"No se pudo desactivar 4G dual."</string>
     <string name="turn_on_dual_4g_failed">"No se pudo activar 4G dual."</string>
-    <string name="turnover_mute_summary">Cuando el teléfono está sobre una superficie horizontal con la pantalla hacia arriba, dale la vuelta para silenciar el timbre, desactivar la vibración y detener el parpadeo de la luz de notificaciones.</string>
+    <string name="turnover_mute_summary">Con el teléfono en una superficie horizontal y la pantalla hacia arriba, darle la vuelta silencia el tono, desactiva la vibración y detiene el parpadeo del led de notificación.</string>
     <string name="turnover_mute_title">Girar para silenciar la llamada</string>
     <string name="undefined">Ninguno</string>
     <string name="unfold_close_camera_pref_summary">Despliegue el dispositivo durante una videollamada para apagar la cámara</string>

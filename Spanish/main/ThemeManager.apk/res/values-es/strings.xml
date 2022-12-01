@@ -104,7 +104,7 @@
     <string name="apply_success_not_enable_aod">Primero active la pantalla Siempre encendida en la Configuración</string>
     <string name="apply_success_not_support_aod">"No se puede combinar la pantalla Siempre Encendida con los temas en este dispositivo. El resto de componentes de este tema se han aplicado."</string>
     <string name="apply_theme_with_ringtones">Aplicar tema con tonos</string>
-    <string name="apply_wallpaper_after_three_theme">"Estás usando un tema de terceros. Si solo cambias el fondo de pantalla de bloqueo, puede que el estilo de reloj en ella se restaure a la opción por defecto. ¿Aplicar?"</string>
+    <string name="apply_wallpaper_after_three_theme">"Estás usando un tema de terceros. Al cambiar el fondo de la pantalla de bloqueo, es posible que el estilo del reloj de la pantalla de bloqueo se restablezca al estilo por defecto. ¿Aplicar?"</string>
     <string name="apply_wallpaper_warning_use_aod_and_super_wallpaper">"Estás usando un Superfondo de pantalla. Si seleccionas otro fondo de pantalla, se aplicará tanto a la pantalla de inicio como a la de bloqueo, y la pantalla siempre encendida volverá a su configuración anterior. ¿Aplicar?"</string>
     <string name="apply_wallpaper_warning_use_super_wallpaper">"Estás usando un Superfondo de pantalla. Si seleccionas otro fondo de pantalla, se aplicará tanto a la pantalla de inicio como a la de bloqueo ¿Aplicar?"</string>
     <string name="apply_warning_get_device_dialog_message">Para poder utilizar el contenido descargado, primero permita que esta función acceda a la ID de su dispositivo. Puede otorgar este permiso en Configuración &gt; Privacidad.</string>

@@ -329,6 +329,8 @@ dd/MM"</string>
     <string name="select_notification_animation_style">Seleccionar efecto especial</string>
     <string name="select_notification_notify_style">Seleccionar efecto de notificación</string>
     <string name="send">Enviar</string>
+    <string name="settings_view_btn_check_off">Desactivado</string>
+    <string name="settings_view_btn_check_on">Activado</string>
     <string name="share">Compartir</string>
     <string name="share_to_community">Compartir con la Comunidad Xiaomi</string>
     <string name="show_battery">Mostrar estado de la batería</string>
@@ -343,9 +345,9 @@ dd/MM"</string>
 está a punto de suceder"</string>
     <string name="standard_clock_panel">Estándar</string>
     <string name="standard_style">Normal</string>
-    <string name="step_component_info_active_tip">El conteo de pasos es proporcionado por Xiaomi Salud. Acepta los términos y condiciones de Xiaomi Salud para continuar.</string>
-    <string name="step_component_info_desc">El conteo de pasos se convertirá en un trofeo cuando alcances tu objetivo. El conteo de pasos es proporcionado por Xiaomi Salud.</string>
-    <string name="step_component_info_tip">El conteo de pasos es proporcionado por Xiaomi Salud. Instala o actualiza Xiaomi Salud y acepta sus términos y condiciones para continuar.</string>
+    <string name="step_component_info_active_tip">Salud Xiaomi proporciona el recuento de pasos. Acepta sus términos y condiciones para continuar.</string>
+    <string name="step_component_info_desc">El recuento de pasos será un trofeo cuando alcances tu objetivo. Lo proporciona Salud Xiaomi.</string>
+    <string name="step_component_info_tip">Salud Xiaomi proporciona el recuento de pasos. Instala o actualiza la aplicación y acepta sus términos y condiciones para continuar.</string>
     <string name="step_to_image_community">Encuentra más en la Comunidad Xiaomi</string>
     <string name="summary">"Para reducir el consumo de energía, los elementos no serán mostrados cuando el dispositivo se encuentra en la oscuridad durante bastante tiempo."</string>
     <string name="sunday">Domingo</string>

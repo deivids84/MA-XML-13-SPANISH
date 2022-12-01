@@ -28,6 +28,7 @@
     <string name="abc_shareactionprovider_share_with_application">Compartir con %s</string>
     <string name="abc_toolbar_collapse_description">Contraer</string>
     <string name="access_denied_info">Demasiados intentos. Espera uno o dos minutos e inténtalo de nuevo.</string>
+    <string name="access_photos_and_videos">Acceder a fotos y vídeos</string>
     <string name="action_collapse">Ocultar</string>
     <string name="action_expand">Mostrar más</string>
     <string name="action_folder_description">Ver carpetas</string>
@@ -41,7 +42,7 @@
     <string name="actionbar_button_up_description">Atrás</string>
     <string name="actionbar_close_description">Cerrar</string>
     <string name="actionbar_home_description">Atrás</string>
-    <string name="add_account_desc">¿Sincronizar notas con su Cuenta Mi?</string>
+    <string name="add_account_desc">¿Sincronizar tus notas con tu cuenta Xiaomi?</string>
     <string name="afternoon">Tarde</string>
     <string name="alarm_bar_title">Recordatorio</string>
     <string name="alert_action_edit_anyway">Continuar editando</string>
@@ -190,7 +191,7 @@
     <string name="empty_folder_import_notes">Importar notas</string>
     <string name="empty_folder_no_notes">No hay notas</string>
     <string name="enable_sync">Sincronizar</string>
-    <string name="enable_sync_desc">¿Sincronizar sus notas con la Cuenta Mi (%1$s)?</string>
+    <string name="enable_sync_desc">¿Sincronizar tus notas con tu cuenta Xiaomi (%1$s)?</string>
     <string name="eras_ad">d.C</string>
     <string name="eras_bc">a.C</string>
     <string name="error_contact_not_exist">"El contacto no existe"</string>
@@ -526,6 +527,7 @@
     <string name="new_audio_create_guide_tip">Mantenga presionado para crear una nota de voz</string>
     <string name="new_audio_create_talkback_des">Toque para crear una nota de texto. Mantenga presionado para crear una nota de voz. Suelte el botón para detener la grabación y crear la nota, o deslice hacia arriba para cancelar.</string>
     <string name="new_data_empty_note">No hay elementos todavía</string>
+    <string name="new_lite_audio_create_talkback_des">Pulsa para añadir una nota</string>
     <string name="night">Noche</string>
     <string name="no_network">"No se puede conectar a la red"</string>
     <string name="noon">Mediodía</string>
@@ -621,6 +623,8 @@
     <string name="permission_microphone_desc">Para grabar notas de voz</string>
     <string name="permission_network_for_cloud_desc">Necesita conectarse a internet para sincronizar notas con la nube. Se usarán datos móviles para sincronizar elementos. ¿Conectarse?</string>
     <string name="permission_phone_state_desc">Para dejar de grabar notas de voz durante las llamadas</string>
+    <string name="permission_photos_desc">Para añadir imágenes a las notas</string>
+    <string name="permission_photos_desc_pad">Para añadir imágenes a las notas</string>
     <string name="permission_read_contact_desc">Asociar con contactos las notas creadas durante llamadas</string>
     <string name="permission_storage_desc">Para guardar notas como imágenes</string>
     <string name="permission_storage_desc_new_v12">Para añadir imágenes a las notas y guardar las notas como imágenes</string>
@@ -722,6 +726,7 @@
     <string name="search_setting_description">Busque palabras en sus notas</string>
     <string name="select_account_prompt">Sincronizar notas</string>
     <string name="send">Enviar</string>
+    <string name="send_notifications_for_reminder">Para enviar recordatorios</string>
     <string name="set_alarm_description">Crear alarma</string>
     <string name="setting_big_screen_layout_columns">Barra lateral</string>
     <string name="setting_big_screen_layout_flat">Tiles</string>
@@ -886,6 +891,7 @@ Permita a Notas leer sus contactos y encontrar cuentas en el dispositivo."</stri
 Permita a Notas leer el contenido de su tarjeta SD."</string>
     <string name="toast_refuse_to_use_phone_state">"Los permisos del teléfono están restringidos.
 Permita a Notas leer el estado del teléfono y la identidad."</string>
+    <string name="toast_refuse_to_use_photos_in_excerpt">Permite a esta aplicación acceder a tus fotos, para añadir imágenes a las notas</string>
     <string name="toast_refuse_to_use_record_audio">"Los permisos del micrófono están restringidos.
 Permita a Notas grabar audio."</string>
     <string name="toast_refuse_to_use_storage_in_excerpt">Permita que Notas acceda al almacenamiento para poder agregar imágenes a sus notas</string>
@@ -990,6 +996,9 @@ Permita a Notas grabar audio."</string>
     <string name="wednesday">Miércoles</string>
     <string name="wednesday_short">Mie</string>
     <string name="wednesday_shortest">Mie</string>
+    <string name="widget_all_notes_name">Todas las notas</string>
+    <string name="widget_all_todo_name">Todas las tareas</string>
+    <string name="widget_click_check">Pulsa para ver</string>
     <string name="widget_content_loading">Un momento…</string>
     <string name="widget_create_select_size">Seleccionar tamaño</string>
     <string name="widget_empty_content">Toca para seleccionar una nota</string>

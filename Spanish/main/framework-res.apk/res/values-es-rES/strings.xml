@@ -1179,7 +1179,7 @@ notificaciones mejoradas pueden acceder al contenido de las notificaciones, incl
     <string name="permdesc_bodySensors">Permite que la aplicación acceda a datos de sensores que controlan tu condición física, como la frecuencia cardíaca.</string>
     <string name="permdesc_broadcastSticky">Permite que la aplicación envíe emisiones que permanecen en el dispositivo una vez que la emisión ha finalizado. Un uso excesivo podría ralentizar el teléfono o volverlo inestable al hacer que use demasiada memoria.</string>
     <string name="permdesc_callCompanionApp">Permite que la aplicación vea y controle las llamadas entrantes en el dispositivo. Esto incluye información como los números de las llamadas y su estado.</string>
-    <string name="permdesc_callPhone">"Permite que la aplicación haga llamadas sin intervención del usuario, lo que puede dar lugar a llamadas o cargos inesperados. Ten en cuenta que las aplicaciones no pueden usar este servicio para realizar llamadas a números de emergencia, pero las aplicaciones malintencionadas pueden causarte gastos imprevistos al realizar llamadas sin tu confirmación."</string>
+    <string name="permdesc_callPhone">"Permite a la aplicación hacer llamadas sin tu intervención, lo que podría producir llamadas o cargos inesperados. Ten en cuenta que las aplicaciones no pueden usar este servicio para llamar a números de emergencia, pero una aplicación maliciosa puede causarte gastos imprevistos realizando llamadas sin tu confirmación."</string>
     <string name="permdesc_camera">Esta aplicación puede tomar fotografías y grabar videos con la cámara mientras la aplicación está en uso.</string>
     <string name="permdesc_cameraOpenCloseListener">Esta aplicación puede recibir retrollamadas cuando se abre o se cierra la cámara con cualquier aplicación.</string>
     <string name="permdesc_changeNetworkState">Permite que la aplicación modifique el estado de la conectividad de red.</string>
@@ -1655,7 +1655,7 @@ Escuchar sonidos fuertes durante mucho tiempo puede dañar los oídos."</string>
     <string name="share">Compartir</string>
     <string name="share_action_provider_share_with">Compartir con</string>
     <string name="share_remote_bugreport_action">COMPARTIR</string>
-    <string name="share_remote_bugreport_notification_message_finished">El administrador ha solicitado un informe de errores para solucionar problemas de este dispositivo. Es posible que se compartan las aplicaciones y los datos.</string>
+    <string name="share_remote_bugreport_notification_message_finished">El administrador ha solicitado un informe de errores para solucionar problemas del dispositivo. Se pueden compartir aplicaciones y datos.</string>
     <string name="share_remote_bugreport_notification_title">¿Compartir informe de errores?</string>
     <string name="shareactionprovider_share_with">Compartir con</string>
     <string name="shareactionprovider_share_with_application">Compartir con %s</string>
@@ -1829,7 +1829,7 @@ Escuchar sonidos fuertes durante mucho tiempo puede dañar los oídos."</string>
     <string name="volume_alarm">Volumen de alarma</string>
     <string name="volume_bluetooth_call">Volumen de llamada Bluetooth</string>
     <string name="volume_call">Volumen de llamada</string>
-    <string name="volume_dialog_ringer_guidance_silent">Las llamadas y las notificaciones se silenciarán</string>
+    <string name="volume_dialog_ringer_guidance_silent">Las llamadas y notificaciones se silenciarán</string>
     <string name="volume_dialog_ringer_guidance_vibrate">Las llamadas y las notificaciones vibrarán</string>
     <string name="volume_icon_description_bluetooth">Bluetooth</string>
     <string name="volume_icon_description_incall">Llamada</string>

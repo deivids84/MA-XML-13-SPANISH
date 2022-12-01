@@ -484,9 +484,9 @@ Para pasar de una función a otra, desliza hacia arriba con tres dedos y mantén
     <string name="add_virtual_keyboard">Gestionar teclados en pantalla</string>
     <string name="added_sources_dashboard_title">Fuentes de transmisión agregadas</string>
     <string name="added_sources_title">Fuentes de difusión</string>
-    <string name="adding_profile_owner_warning">"Si continúas, tu usuario será gestionado por el administrador, que podrá almacenar datos asociados, así como tus datos personales.
+    <string name="adding_profile_owner_warning">"Si continúas, tu usuario será gestionado por el administrador, que también puede almacenar datos asociados y tus datos personales.
 
-El administrador puede supervisar y administrar los ajustes, el acceso, las aplicaciones y los datos asociados a este usuario, como la actividad de red y la información de ubicación del dispositivo."</string>
+El administrador puede supervisar y administrar los ajustes, el acceso, las aplicaciones y los datos asociados al usuario, incluyendo la actividad de red y la ubicación del dispositivo."</string>
     <string name="additional_battery_info">Alertas de uso</string>
     <string name="additional_permissions">Permisos adicionales</string>
     <string name="additional_permissions_more">%1$d más</string>
@@ -496,12 +496,12 @@ El administrador puede supervisar y administrar los ajustes, el acceso, las apli
     <string name="adjust_font_size_answer_global">¡Intenta ajustar el tamaño del texto con el control deslizante de abajo!</string>
     <string name="adjust_ligth">Ajuste de brillo</string>
     <string name="adjust_temperature_title">Temperatura del color</string>
-    <string name="admin_device_owner_message">"El administrador puede supervisar y gestionar las aplicaciones y los datos asociados a este dispositivo, como los ajustes, los permisos, el acceso corporativo, la actividad de red y la información de ubicación del dispositivo."</string>
+    <string name="admin_device_owner_message">"El administrador puede supervisar y gestionar las aplicaciones y los datos asociados al dispositivo, incluyendo los ajustes, los permisos, el acceso corporativo, la actividad de la red y la ubicación."</string>
     <string name="admin_disabled_other_options">El administrador ha inhabilitado otras opciones</string>
     <string name="admin_financed_message">El administrador del dispositivo puede acceder a sus datos asociados, administrar aplicaciones y cambiar su configuración.</string>
     <string name="admin_more_details">Más información</string>
-    <string name="admin_profile_owner_message">"El administrador puede supervisar y gestionar las aplicaciones y los datos asociados a tu perfil de trabajo, como los ajustes, los permisos, el acceso corporativo, la actividad de red y la información de ubicación del dispositivo."</string>
-    <string name="admin_profile_owner_user_message">"El administrador puede supervisar y gestionar las aplicaciones y los datos asociados a este usuario, como los ajustes, los permisos, el acceso corporativo, la actividad de red y la información de ubicación del dispositivo."</string>
+    <string name="admin_profile_owner_message">"El administrador puede supervisar y gestionar las aplicaciones y los datos asociados al perfil de trabajo, incluyendo los ajustes, los permisos, el acceso corporativo, la actividad de la red y la ubicación del dispositivo."</string>
+    <string name="admin_profile_owner_user_message">"El administrador puede supervisar y gestionar las aplicaciones y los datos asociados al usuario, incluyendo los ajustes, los permisos, el acceso corporativo, la actividad de la red y la ubicación del dispositivo."</string>
     <string name="admin_support_more_info">Más información</string>
     <string name="advanced_apps">Avanzado</string>
     <string name="advanced_battery_graph_subtext">La estimación de la batería restante se basa en el uso de tu dispositivo</string>
@@ -552,7 +552,7 @@ El administrador puede supervisar y administrar los ajustes, el acceso, las apli
 Con este permiso desactivado, las alarmas existentes y los eventos programados por ella no funcionarán."</string>
     <string name="alarms_and_reminders_label">Alarmas y recordatorios</string>
     <string name="alarms_and_reminders_switch_title">Permitir configurar alarmas y recordatorios</string>
-    <string name="alarms_and_reminders_title">Alarmas &amp; recordatorios</string>
+    <string name="alarms_and_reminders_title">Alarmas y recordatorios</string>
     <string name="all_apps">Todas las aplicaciones</string>
     <string name="all_network_unavailable">No hay redes disponibles</string>
     <string name="all_volume_title">Volumen</string>
@@ -1757,7 +1757,8 @@ Puedes desactivar esta función en Ajustes &gt; Bluetooth&gt; Dispositivos vincu
     <string name="bt_absVolume_open_dialog_title">Atención</string>
     <string name="bt_absVolume_pre_title">Volumen absoluto</string>
     <string name="bt_absVolume_summary">"Mantén el volumen de los dispositivos Bluetooth y del dispositivo estrictamente constante. Puedes activar y desactivar esta función cuando no se reproduzcan elementos multimedia en segundo plano."</string>
-    <string name="bt_always_show_icon">Mostrar el icono en la barra de estado siempre</string>
+    <string name="bt_always_show_icon">"No mostrar el icono Bluetooth en la barra de estado"</string>
+    <string name="bt_always_show_icon_summary">Muestra el icono Bluetooth solo en el centro de control y en el panel de notificaciones</string>
     <string name="bt_aptx_adaptive_open_dialog_summary">El aptX Adaptive proporciona una reproducción de alta calidad y reduce la latencia de audio para juegos y vídeos, aunque aumenta el consumo de energía. La reproducción se puede entrecortar por limitaciones del hardware Bluetooth o interferencias ambientales.</string>
     <string name="bt_aptx_adaptive_open_dialog_title">¿Cambiar a aptX Adaptive?</string>
     <string name="bt_audio_repair_property">Solucionar problemas de audio</string>
@@ -2743,7 +2744,7 @@ Este ajuste afecta a todos los usuarios de este dispositivo."</string>
     <string name="device_description_battery">Capacidad de la batería</string>
     <string name="device_description_camera">Cámara trasera</string>
     <string name="device_description_resolution">Resolución</string>
-    <string name="device_description_screen">Tamaño de pantalla</string>
+    <string name="device_description_screen">Pantalla</string>
     <string name="device_details_title">Detalles del dispositivo</string>
     <string name="device_display_layout_title">Funciones especiales</string>
     <string name="device_edit_title">Renombrar dispositivo</string>
@@ -3097,7 +3098,7 @@ Si el problema persiste, desinstala la aplicación para mejorar el rendimiento d
     <string name="emergency_gesture_call_for_help_dialog_title">Número de emergencias</string>
     <string name="emergency_gesture_call_for_help_summary">%1$s. Pulsa para cambiarlo</string>
     <string name="emergency_gesture_call_for_help_title">Llamar a emergencias</string>
-    <string name="emergency_gesture_category_call_for_help_title">Notificar para obtener ayuda</string>
+    <string name="emergency_gesture_category_call_for_help_title">Llamar para obtener ayuda</string>
     <string name="emergency_gesture_entrypoint_summary">Gestionado por %1$s</string>
     <string name="emergency_gesture_number_override_notes">"Si indicas un número no de emergencias:
  • El dispositivo debe estar desbloqueado para usar SOS de emergencia
@@ -4509,6 +4510,7 @@ Abre Xiaomi Cloud y restaura elementos desde allí."</string>
     <string name="legacy_control_center_title">Versión antigua</string>
     <string name="legacy_navigation_summary">Para ir hacia atrás, pasar a la pantalla de inicio o cambiar de aplicación, puedes usar los botones de la parte inferior de la pantalla.</string>
     <string name="legacy_navigation_title">Navegación con 3 botones</string>
+    <string name="legacy_power_menu">Menú de apagado tradicional</string>
     <string name="legal_information">Información legal</string>
     <string name="legal_workday">Días laborables</string>
     <string name="legal_workday_invalidate">Lun-Vie (información de festivos caducada)</string>
@@ -4600,7 +4602,7 @@ Abre Xiaomi Cloud y restaura elementos desde allí."</string>
     <string name="location_mode_sensors_only_title">Solo dispositivo</string>
     <string name="location_modem_summary">Las operadoras sabrán de tu ubicación a través de las estaciones base</string>
     <string name="location_modem_title">Compartir información de ubicación con la operadora</string>
-    <string name="location_neighborhood_level">Permitir que las aplicaciones usen redes móviles y Wi-Fi para determinar tu ubicación</string>
+    <string name="location_neighborhood_level">Permite a las aplicaciones usar redes móviles y Wi-Fi para determinar la ubicación</string>
     <string name="location_neighborhood_level_wifi">Ubicación determinada por Wi-Fi</string>
     <string name="location_network_based">Wi-Fi y redes móviles</string>
     <string name="location_no_recent_accesses">Ninguna aplicación ha accedido recientemente a la ubicación</string>
@@ -4623,7 +4625,7 @@ Abre Xiaomi Cloud y restaura elementos desde allí."</string>
     <string name="location_settings_summary_location_off">Desactivado</string>
     <string name="location_settings_title">Ubicación</string>
     <string name="location_sources_heading">Fuentes de ubicación</string>
-    <string name="location_street_level">Permitir que las aplicaciones usen el GPS del dispositivo para determinar tu ubicación exacta</string>
+    <string name="location_street_level">Permite a las aplicaciones usar el GPS para determinar la ubicación exacta</string>
     <string name="location_time_zone_detection_auto_is_off">La zona horaria automática está desactivada</string>
     <string name="location_time_zone_detection_location_is_off_dialog_cancel_button">Cancelar</string>
     <string name="location_time_zone_detection_location_is_off_dialog_message">Para configurar la zona horaria con su ubicación, active la ubicación y, luego, actualice la configuración de la zona horaria</string>
@@ -4969,7 +4971,7 @@ Hay otros usuarios presentes en este dispositivo.
     <string name="make_sure_cancel_update">¿Cancelar actualización?</string>
     <string name="man_add_application">Añadir aplicaciones de inicio automático</string>
     <string name="manage_conversations">Gestiona las conversaciones</string>
-    <string name="manage_device_admin">Aplicaciones de admin. de dispositivos</string>
+    <string name="manage_device_admin">Aplicaciones de administración</string>
     <string name="manage_external_storage_title">Acceso a todos los archivos</string>
     <string name="manage_facerecoginition_text">Administrar datos faciales</string>
     <string name="manage_fakecell_settings">Protección de estaciones base falsas</string>
@@ -5409,7 +5411,7 @@ Continúa para acceder a los ajustes adicionales."</string>
     <string name="miui_sos_call_log_duration">Duración</string>
     <string name="miui_sos_call_log_none">No hay historial de llamadas de la última hora.</string>
     <string name="miui_sos_call_log_stranger">Extraño</string>
-    <string name="miui_sos_call_log_summary">Enviar el historial de llamadas de la última 1hora a tus contactos de emergencia</string>
+    <string name="miui_sos_call_log_summary">Enviar el historial de llamadas de la última hora a tus contactos de emergencia</string>
     <string name="miui_sos_call_log_time_unit">%1$dmin %2$ds</string>
     <string name="miui_sos_call_log_title">Enviar historial de llamadas</string>
     <string name="miui_sos_call_police">Policía</string>
@@ -5610,7 +5612,7 @@ Cambiar a %1$s no cancelará el servicio de %2$s."</string>
     <string name="more_account_settings_title">Otras cuentas</string>
     <string name="more_dangerous_option_hint">Funciones de alto riesgo incluyendo \"%1$s\" habilitadas. Pulsa para cambiar los ajustes.</string>
     <string name="more_dark_mode_settings">Más opciones del modo Oscuro</string>
-    <string name="more_font_pref_title">Más Fuentes</string>
+    <string name="more_font_pref_title">Más fuentes</string>
     <string name="more_installed_services_title">Servicios descargados</string>
     <string name="more_settings_button">Más configuraciones</string>
     <string name="morning">Mañana</string>
@@ -5957,7 +5959,7 @@ Esto reemplazará a %2$s como tu aplicación de pago predeterminada."</string>
     <string name="no_data_usage">No se han usado datos</string>
     <string name="no_default_apps">Ninguna aplicación predeterminada</string>
     <string name="no_default_home">No seleccionado</string>
-    <string name="no_device_admins">No hay aplicaciones de administrador de dispositivos disponibles</string>
+    <string name="no_device_admins">No hay aplicaciones de administración disponibles</string>
     <string name="no_internet_access_remember">No volver a preguntar por esta red</string>
     <string name="no_internet_access_text">La red Wi-Fi %1$s no tiene acceso a internet. ¿Permanecer conectado?</string>
     <string name="no_media_button_receiver">No</string>
@@ -6464,8 +6466,8 @@ Read and agree to %s before using this service."</string>
     <string name="power_discharging_duration">Sobre %1$s restante (%2$s)</string>
     <string name="power_discharging_duration_enhanced">Sobre %1$s restante basado en tu uso (%2$s)</string>
     <string name="power_flashlight">Linterna</string>
-    <string name="power_hide_mode_summary">"Administrar la actividad de las aplicaciones en segundo plano para ahorrar batería"</string>
-    <string name="power_hide_mode_title">"Administrar uso de batería de las aplicaciones"</string>
+    <string name="power_hide_mode_summary">"Administra la actividad de aplicaciones en segundo plano para ahorrar batería"</string>
+    <string name="power_hide_mode_title">"Administrar uso de batería de aplicaciones"</string>
     <string name="power_idle">Teléfono inactivo</string>
     <string name="power_key_how_power_force_off">Cómo forzar el reinicio de tu dispositivo</string>
     <string name="power_key_how_power_force_off_detail">Mantén pulsado el botón de Encendido hasta que el dispositivo se reinicie</string>
@@ -7067,7 +7069,7 @@ Este ajuste afecta a todos los usuarios del dispositivo."</string>
     <string name="runtime_permissions_summary_no_permissions_requested">No se han solicitado permisos</string>
     <string name="rx_link_speed_label">Velocidad de recepción:</string>
     <string name="rx_wifi_speed">Velocidad de enlace de recepción</string>
-    <string name="safe_install_mode_settings">Modo seguro</string>
+    <string name="safe_install_mode_settings">Protección Mi</string>
     <string name="safety_and_regulatory_info">Manual de seguridad y normativas</string>
     <string name="sar">Información de exposición a RF</string>
     <string name="saturday">Sábado</string>
@@ -7741,7 +7743,7 @@ Nota: No puedes usar tu huella dactilar para desbloquear este dispositivo. Para 
     <string name="select_all">Seleccionar todo</string>
     <string name="select_application">Seleccionar aplicación</string>
     <string name="select_automatically">Seleccionar una red automáticamente</string>
-    <string name="select_device_admin_msg">Aplicaciones de admin. de dispositivos</string>
+    <string name="select_device_admin_msg">Aplicaciones de administración</string>
     <string name="select_invalid_bug_report_handler_toast_text">Esta opción ya no es válida. Vuelve a intentarlo.</string>
     <string name="select_logd_level">Nivel de anotación de logs</string>
     <string name="select_logd_size_dialog_title">Seleccionar tamaños de registradores</string>
@@ -7840,8 +7842,8 @@ Nota: No puedes usar tu huella dactilar para desbloquear este dispositivo. Para 
     <string name="severe_threats_title">Amenazas graves</string>
     <string name="share">Compartir</string>
     <string name="share_remote_bugreport_action">Compartir</string>
-    <string name="share_remote_bugreport_dialog_message">Tu administrador de TI ha solicitado un informe de errores para solucionar problemas de este dispositivo. Es posible que se compartan las aplicaciones y los datos. Puede que el dispositivo funcione más lento de forma temporal.</string>
-    <string name="share_remote_bugreport_dialog_message_finished">Tu administrador de TI ha solicitado un informe de errores para solucionar problemas de este dispositivo. Es posible que se compartan las aplicaciones y los datos.</string>
+    <string name="share_remote_bugreport_dialog_message">El administrador de TI ha solicitado un informe de errores para solucionar problemas del dispositivo. Es posible que se compartan las aplicaciones y los datos. El dispositivo podría funcionar más lento temporalmente.</string>
+    <string name="share_remote_bugreport_dialog_message_finished">El administrador de TI ha solicitado un informe de errores para solucionar problemas del dispositivo. Es posible que se compartan las aplicaciones y los datos.</string>
     <string name="share_remote_bugreport_dialog_title">¿Compartir informe de errores?</string>
     <string name="share_this_wifi">Amplíe la cobertura Wi-Fi</string>
     <string name="shared_data_delete_failure_text">Se produjo un error al eliminar los datos compartidos.</string>
@@ -7919,7 +7921,7 @@ Nota: No puedes usar tu huella dactilar para desbloquear este dispositivo. Para 
     <string name="silent_mode">Modo Silencio</string>
     <string name="silent_mode_disable_media">Silenciar todo</string>
     <string name="silent_mode_enable_media">Reproducir multimedia</string>
-    <string name="silent_mode_summary">Silenciar llamadas, notificaciones y multimedia</string>
+    <string name="silent_mode_summary">Silencia llamadas, notificaciones y multimedia</string>
     <string name="silent_mode_title">Modo Silencio</string>
     <string name="silent_mode_toggle_title">Modo Silencio</string>
     <string name="silent_notifications_status_bar">No mostrar notificaciones silenciosas en la barra de estado</string>
@@ -8248,7 +8250,7 @@ Dado que SOS de emergencia proporciona sus servicios en función de la recopilac
 Esto es posible por una credencial de confianza instalada en tu dispositivo."</string>
     <string name="stable_build">Estable</string>
     <string name="standard">Silenciar</string>
-    <string name="standard_info">Se silenciarán llamadas y notificaciones</string>
+    <string name="standard_info">Se silenciarán las llamadas y notificaciones</string>
     <string name="standard_limit">Predeterminado</string>
     <string name="standby_bucket_summary">Aplicación en estado de espera: %s</string>
     <string name="start_silent_mode">Activar modo Silencio</string>
@@ -8897,8 +8899,8 @@ un servicio de Google que te permite sincronizar datos para que puedas acceder a
     <string name="tomorrow">Mañana</string>
     <string name="top_to_bottom_slide">Deslizar hacia abajo</string>
     <string name="total">No molestar</string>
-    <string name="total_info">Silenciar llamadas entrantes, notificaciones y restringir la vibración</string>
-    <string name="total_info_no_vibrator">Silenciar llamadas entrantes y notificaciones</string>
+    <string name="total_info">Silencia llamadas entrantes, notificaciones y restringe la vibración</string>
+    <string name="total_info_no_vibrator">Silencia las llamadas entrantes y las notificaciones</string>
     <string name="total_memory">Memoria total</string>
     <string name="total_size">%s total</string>
     <string name="total_size_label">Total</string>
@@ -9559,11 +9561,11 @@ Durante las llamadas de voz, no podrás utilizar Internet y es posible que algun
     <string name="volume_media_description">Música, juegos, vídeos y más multimedia</string>
     <string name="volume_media_mute">Silenciar música y otros archivos multimedia</string>
     <string name="volume_notification_description">Notificaciones</string>
-    <string name="volume_notification_mute">Silenciar notificaciones</string>
+    <string name="volume_notification_mute">Silencia las notificaciones</string>
     <string name="volume_restore">Restaurar niveles</string>
     <string name="volume_restore_alert">¿Restablecer todos los niveles de volumen a su configuración predeterminada?</string>
     <string name="volume_ring_description">Tono de llamada y notificaciones</string>
-    <string name="volume_ring_mute">Silenciar tono y notificaciones</string>
+    <string name="volume_ring_mute">Silencia las llamadas y notificaciones</string>
     <string name="volume_system_description">Cámara, capturas de pantalla, botones y notificaciones del sistema</string>
     <string name="volume_voice_description">Llamada de voz entrante</string>
     <string name="vonr_switch_title">Usar VoNR</string>
@@ -10449,7 +10451,7 @@ Parece que los credenciales de almacenamiento no están habilitados."</string>
     <string name="work_profile_confirm_remove_message">Si continúas, se eliminarán todas las aplicaciones y datos.</string>
     <string name="work_profile_confirm_remove_title">¿Quitar perfil de trabajo?</string>
     <string name="work_profile_notification_access_blocked_summary">Se ha bloqueado el acceso a las notificaciones del perfil de trabajo</string>
-    <string name="work_profile_usage_access_warning">"Al desactivar el acceso de uso de esta aplicación, no evitas que el administrador registre los datos de uso de las aplicaciones de tu perfil de trabajo"</string>
+    <string name="work_profile_usage_access_warning">"Desactivando el acceso de uso de esta aplicación, no impides que el administrador rastree el uso de datos de las aplicaciones en tu perfil de trabajo"</string>
     <string name="work_ringtone_title">Tono de llamada del teléfono de trabajo</string>
     <string name="work_sim_title">SIM de trabajo</string>
     <string name="work_sound_permission_dialog_button_text_known">Entendido</string>
@@ -10727,7 +10729,7 @@ Cuando desactives No molestar, desliza el dedo desde la parte superior de la pan
     <string name="zen_mode_starred_contacts_summary_none">Ninguno</string>
     <string name="zen_mode_starred_contacts_title">Contactos destacados</string>
     <string name="zen_mode_start_time">Hora de inicio</string>
-    <string name="zen_mode_summary">Silenciar llamadas entrantes, notificaciones, multimedia y desactivar la vibración</string>
+    <string name="zen_mode_summary">Silencia llamadas entrantes, notificaciones, multimedia y desactiva la vibración</string>
     <string name="zen_mode_summary2">"No habrá recordatorios de llamadas entrantes ni notificaciones."</string>
     <string name="zen_mode_summary_alarms_only_by_time">Cambiar a solo alarmas hasta las %1$s</string>
     <string name="zen_mode_summary_alarms_only_indefinite">Cambiar a solo alarmas indefinidamente</string>

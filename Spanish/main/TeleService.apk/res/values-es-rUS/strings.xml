@@ -1872,10 +1872,8 @@ Su teléfono se bloqueará automáticamente después del último intento fallido
     <string name="preferred_network_type_pref_entries_4g_preferred">Preferir 4G</string>
     <string name="preferred_network_type_pref_entries_4g_preferred_cdma">Preferir 4G (CDMA)</string>
     <string name="preferred_network_type_pref_entries_4g_preferred_custom">Preferir 4G</string>
-    <string name="preferred_network_type_pref_entries_4g_preferred_mx_at">4G/3G/2G (4G preferido)</string>
     <string name="preferred_network_type_pref_entries_4g_preferred_za_mt">2G/3G/4G automático</string>
     <string name="preferred_network_type_pref_entries_5g_preferred">Preferir 5G</string>
-    <string name="preferred_network_type_pref_entries_5g_preferred_mx_at">5G/4G/3G/2G (5G/4G preferido)</string>
     <string name="preferred_network_type_pref_entries_5g_preferred_za_mt">2G/3G/4G/5G automático</string>
     <string name="preferred_network_type_pref_entries_auto">Automático</string>
     <string name="preferred_network_type_pref_entries_global">Global</string>
@@ -2262,6 +2260,7 @@ Confirme la configuración de su cuenta de llamadas predeterminada."</string>
     <string name="speed_label_slow">Lenta</string>
     <string name="speed_label_very_fast">Muy rápida</string>
     <string name="speed_label_very_slow">Muy lenta</string>
+    <string name="speed_limit_card_toast">"Has agotado los datos a máxima velocidad. Ahora, se reducirá la velocidad de conexión."</string>
     <string name="sports_news_settings">Noticias de deportes</string>
     <string name="standby_bucket_summary">Estado de la app en espera:  %s</string>
     <string name="status_hint_label_incoming_wifi_call">Llamada con Wi-Fi de</string>

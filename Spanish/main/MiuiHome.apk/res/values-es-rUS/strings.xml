@@ -350,6 +350,7 @@
     <string name="fmt_date_short_year_month_day">d MMM aaaa</string>
     <string name="fmt_time_12hour">"h 'o'''reloj"</string>
     <string name="fmt_time_24hour">"HH 'o'''reloj"</string>
+    <string name="fold_pair_install_shortcut_launcher_success">Creado</string>
     <string name="fold_pair_install_shortcut_long_click">Presiona y mantén presionado para añadir a la pantalla de inicio</string>
     <string name="fold_pair_installed_shortcut_launcher">Este acceso directo ya existe</string>
     <string name="folder_name">Carpeta</string>
@@ -765,6 +766,8 @@ Seguridad mejorada."</string>
     <string name="quick_search_guide_quick_search">Búsqueda rápida</string>
     <string name="quick_search_guide_title">Selecciona el modo predeterminado</string>
     <string name="recent_apps">Recientes</string>
+    <string name="recent_menu_item_add_pair">Crear acceso directo en la pantalla de inicio para esta combinación de pantalla dividida</string>
+    <string name="recent_menu_item_add_pair_first_toast">Crear acceso directo en la pantalla de inicio para esta combinación de pantalla dividida</string>
     <string name="recent_menu_item_info">Información</string>
     <string name="recent_menu_item_lock">Bloquear</string>
     <string name="recent_menu_item_multi_window">Dividir</string>

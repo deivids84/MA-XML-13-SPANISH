@@ -45,6 +45,7 @@
     <string name="calibrate_failed">Falló la calibración de altitud</string>
     <string name="calibrate_failed_no_location">"No se puede calibrar"</string>
     <string name="calibrate_failed_timeout">"No se puede conectar al servidor"</string>
+    <string name="calibrate_new_tip">Mueve el dispositivo para que la bola ruede alrededor del círculo</string>
     <string name="calibrate_rotate_again">Vuelva a intentarlo</string>
     <string name="calibrate_success">Brújula calibrada</string>
     <string name="calibrate_tip">Incline el dispositivo para hacer rodar la burbuja alrededor del círculo</string>

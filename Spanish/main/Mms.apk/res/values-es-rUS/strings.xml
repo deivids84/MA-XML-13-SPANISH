@@ -112,6 +112,7 @@ añadidos a la lista de bloqueos"</string>
     <string name="bookmark_empty">No hay mensajes destacados</string>
     <string name="bookmark_list_title">Destacados</string>
     <string name="button_close">Cerrar</string>
+    <string name="button_copy">Copiar</string>
     <string name="button_emoji_creature">Emoticonos de animales</string>
     <string name="button_emoji_lifestyle">Emoticonos de estilo de vida</string>
     <string name="button_emoji_smiley">Emoticonos faciales</string>
@@ -249,7 +250,7 @@ añadidos a la lista de bloqueos"</string>
     <string name="dialog_message_fake_cell_detect_error">¿Corregir la información del mensaje? Para hacerlo, MIUI necesita enviar al servidor tu número de teléfono (%1$s), el contenido del mensaje y la información de ubicación.</string>
     <string name="dialog_message_mx">Mi Message te permite enviar mensajes a otros usuarios de MIUI sin incurrir en cargos. Se requiere un mensaje de texto saliente para activar Mi Message. Su operador le cobrará por este mensaje. Debes aceptar nuestra \"%1$s\" y \"%2$s\" antes de usar Mi Message.</string>
     <string name="dialog_message_networking">Mensaje necesita usar las páginas amarillas para poder proporcionar reconocimiento de identificación del remitente. Las páginas de mensajería y amarillas necesitan conectarse a Internet y acceder a su ubicación para funcionar con normalidad. ¿Permitir?</string>
-    <string name="dialog_message_rcs">La mensajería de China Mobile te permite enviar mensajes a otros usuarios de China Mobile en China continental sin incurrir en cargos. Debes aceptar \"%1$s\" antes de usar la mensajería de China Mobile.</string>
+    <string name="dialog_message_rcs">La mensajería de China Mobile permite enviar mensajes a otros usuarios de China Mobile en territorio chino sin coste alguno. Debes aceptar \"%1$s\" antes de utilizarla.</string>
     <string name="dialog_quit">Salir</string>
     <string name="dialog_revoke">Retirar</string>
     <string name="dialog_sim_locked_confirm">Aceptar</string>
@@ -271,6 +272,8 @@ añadidos a la lista de bloqueos"</string>
     <string name="done">Hecho</string>
     <string name="download">Descargar</string>
     <string name="download_later">"No es posible descargar los mensajes en este momento. Inténtalo de nuevo más tarde."</string>
+    <string name="download_miui_calendar_detail">Descarga Calendario para añadir eventos y recordatorios. ¿Abrir la tienda de aplicaciones?</string>
+    <string name="download_miui_calendar_title">Descargar Calendario</string>
     <string name="downloading">Descargando</string>
     <string name="downloading_file_can_not_play">Espera hasta que la grabación se haya terminado de descargar</string>
     <string name="draft">Borrador</string>
@@ -526,6 +529,7 @@ Verifique su tarjeta SIM."</string>
 Este mensaje podría ser no deseado."</string>
     <string name="mms_block_hint_highlight">Bloquear MMS</string>
     <string name="mms_main_purpose">"Para tener acceso a todas las funciones de Mensajes, activa Mi Message y Mensajes Inteligentes."</string>
+    <string name="mms_main_purpose_new">Esta aplicación necesita conexión a Internet para proporcionar servicios básicos. Recomendamos que actives los servicios de Mensajes Mi y los Mensajes Inteligentes.</string>
     <string name="mms_mi_message_main_purpose">¡Bienvenido a Mi Mensaje! Se requiere un mensaje SMS saliente para activar Mi Message. Su operador le cobrará por este mensaje.</string>
     <string name="mms_mi_message_request_notice">Queremos que aproveches al máximo Mi Mensaje.</string>
     <string name="mms_mx_privacy_policy">Política de privacidad de Mi Mensaje</string>
@@ -673,6 +677,7 @@ Se requiere enviar un mensaje SMS para activar Mi Message. Tu operador te cobrar
     <string name="not_prepare_for_send">No hay mensaje para enviar</string>
     <string name="not_set">Sin definir</string>
     <string name="not_support_audio_forward">"No puedo reenviar mensajes de voz"</string>
+    <string name="notes_not_found">Instalar Notas primero</string>
     <string name="notification_ad_content">Recibiste un mensaje promocional de %s</string>
     <string name="notification_add_todo">Recuerdame</string>
     <string name="notification_add_todo_content">Código de recogida: %s</string>
@@ -760,6 +765,7 @@ Se requiere enviar un mensaje SMS para activar Mi Message. Tu operador te cobrar
     <string name="pref_summary_send_delivery_reports">Enviar mensaje de confirmación al remitente al recibir un mensaje multimedia</string>
     <string name="pref_summary_switch_aim_card">Mostrar mensajes que contengan vídeos, imágenes y formato complejo como tarjetas</string>
     <string name="pref_summary_voice_report">Actívelo para leer los mensajes en voz alta a medida que se reciben. Presione el botón para bajar el volumen o el botón de encendido para detener la reproducción.</string>
+    <string name="pref_summary_voice_report_disable">Instala el Motor de Habla de la IA Xiaomi para usar esta función</string>
     <string name="pref_summary_wake_up_screen">Activar automáticamente la pantalla al recibir un mensaje</string>
     <string name="pref_switch_sdk_setting">Cambiar a un proveedor de servicios SMS inteligente</string>
     <string name="pref_system_title">Sistema</string>
@@ -1011,8 +1017,8 @@ Echa un vistazo a los recomendados!"</string>
     <string name="recipients_over_size">Demasiados destinatarios.</string>
     <string name="recommend_bar_cancel">Ignorar</string>
     <string name="recommend_bar_message_mx">Mi Message te permite enviar mensajes a otros usuarios de MIUI sin coste alguno.</string>
-    <string name="recommend_bar_message_mx_rcs">Mi Message te permite enviar mensajes a otros usuarios de MIUI y usuarios de China Mobile en China continental sin coste alguno.</string>
-    <string name="recommend_bar_message_rcs">La mensajería de China Mobile te permite enviar mensajes a otros usuarios de China Mobile en China continental sin coste alguno.</string>
+    <string name="recommend_bar_message_mx_rcs">Mensajes Mi permite enviar mensajes a otros usuarios de MIUI y a usuarios de China Mobile en territorio chino sin coste alguno.</string>
+    <string name="recommend_bar_message_rcs">La mensajería de China Mobile permite enviar mensajes a otros usuarios de China Mobile en territorio chino sin coste alguno.</string>
     <string name="recommend_bar_message_smart_message">Copiar contraseñas, rastrear paquetes, usar menús inteligentes y más</string>
     <string name="recommend_bar_ok">Activar</string>
     <string name="recommend_bar_title_mx_rcs">Mi mensaje</string>
@@ -1204,6 +1210,7 @@ Echa un vistazo a los recomendados!"</string>
     <string name="solar_term_white_dews">Rocío</string>
     <string name="solar_term_winter_begins">Empieza el invierno</string>
     <string name="solar_term_winter_solstice">Solsticio de invierno</string>
+    <string name="soundrecorder_not_found">Instalar Grabadora primero</string>
     <string name="sp_category_all">Todos los mensajes de servicio</string>
     <string name="sp_category_bank">Notificaciones de banca</string>
     <string name="sp_conversation_title">Notificaciones</string>
@@ -1249,6 +1256,7 @@ Echa un vistazo a los recomendados!"</string>
     <string name="system_permission_declare_agree">Aceptar</string>
     <string name="system_permission_declare_disagree">Cancelar</string>
     <string name="system_permission_declare_double_link" formatted="false">Lee y acepta nuestro %1s y %2s antes de usar esta función.</string>
+    <string name="system_permission_declare_exit">Salir</string>
     <string name="system_permission_declare_main_purpose" formatted="false">¡Bienvenido a %1s! %2s</string>
     <string name="system_permission_declare_mi_message">¡Bienvenido a Mi Mensaje!</string>
     <string name="system_permission_declare_no_say_no">"Protegeremos su información personal de acuerdo con las leyes, regulaciones y políticas de privacidad relevantes.
@@ -1436,6 +1444,7 @@ Intentos realizados: %s."</string>
     <string name="voice_report_anytime">Siempre</string>
     <string name="voice_report_off">Desactivado</string>
     <string name="voice_report_wiredon">Con auriculares</string>
+    <string name="wait_for_sp_mark_as_read">Un momento…</string>
     <string name="wap_push_title">"[WAP Push] "</string>
     <string name="warning_show">Enviar en %ds</string>
     <string name="web_content_invalid_hint">La visualización de este artículo está restringida por las leyes y regulaciones locales.</string>

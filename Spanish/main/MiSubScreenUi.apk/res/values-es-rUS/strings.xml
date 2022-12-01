@@ -209,7 +209,7 @@ dd/MM"</string>
     <string name="mtrl_picker_toggle_to_day_selection">Presiona para seleccionar un día</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Cambiar al modo de entrada de texto</string>
     <string name="mtrl_picker_toggle_to_year_selection">Presiona para seleccionar un año</string>
-    <string name="music_null">Sin reproducir</string>
+    <string name="music_null">No reproduciendo</string>
     <string name="night">Noche</string>
     <string name="noon">Mediodía</string>
     <string name="not_add_contact">No añadido</string>
@@ -233,8 +233,8 @@ dd/MM"</string>
     <string name="service_name">MiplayAudio</string>
     <string name="small_display_style">Pantalla trasera</string>
     <string name="sps_cancel">Mantenga pulsado para salir</string>
-    <string name="step_to_image_community">Encuentre más en Comunidad Mi</string>
-    <string name="subscreen_brightness">Brillo de la pantalla trasera</string>
+    <string name="step_to_image_community">Encuentra más en la comunidad Xiaomi</string>
+    <string name="subscreen_brightness">Brillo</string>
     <string name="subscreen_could_edit_pic">Arrastre imágenes para cambiar la escala y mantenga pulsado para eliminar</string>
     <string name="subscreen_other">Otro</string>
     <string name="subscreen_other_dialog_cancel">Cancelar</string>

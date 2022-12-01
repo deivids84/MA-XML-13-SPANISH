@@ -126,7 +126,6 @@
     <string name="app_disable_description_content">Música es una aplicación del sistema. Desactivarla puede afectar a otras aplicaciones. ¿Desactivar?</string>
     <string name="app_disable_description_title">¿Deshabilitar la aplicación del sistema?</string>
     <string name="app_label">Descargas</string>
-    <string name="app_name">Promotor del mercado</string>
     <string name="app_permission_confirm">Entendido</string>
     <string name="app_permission_optional">Permisos opcionales</string>
     <string name="app_permission_require">Permisos obligatorios</string>
@@ -158,6 +157,8 @@
     <string name="audio_ad_pass">Saltar anuncio</string>
     <string name="audio_picker_title">Escoger una canción</string>
     <string name="auth_fail_warning">Sesión caducada. Vuelve a iniciar sesión.</string>
+    <string name="auto_play_switch">Autorreproducir vídeos</string>
+    <string name="auto_play_toast">Reproducción automática activada. Puedes desactivarla en Ajustes.</string>
     <string name="auto_recommend">Automático (recomendado)</string>
     <string name="auto_sound_quality">Automático</string>
     <string name="auto_update">Actualizar automáticamente</string>
@@ -295,11 +296,8 @@ Remite este código al supervisor."</string>
     <string name="dialog_my_playlist_online_changed_merge">Mantener</string>
     <string name="dialog_my_playlist_online_changed_message">Parece que esta lista de producción ha cambiado. Puedes remplazarla con la nueva versión o mantener la antigua.</string>
     <string name="dialog_my_playlist_online_changed_replace">Reemplazar</string>
-    <string name="dialog_my_playlist_set_to_public">Comparte esta lista de reproducción con todos los usuarios de Mi Música y música Hungama</string>
     <string name="dialog_queued_body">Archivo colocado en cola para ser descargado.</string>
     <string name="dialog_renew_failure">Lo sentimos, la acción falló</string>
-    <string name="dialog_renew_free_end">Tu periodo de prueba ha terminado. ¿Suscribirte a Hungama Gold?</string>
-    <string name="dialog_renew_positive_text">SÍ, QUIERO ROCK COMO UN MIEMBRO GOLD</string>
     <string name="dialog_renew_success">Gracias por tu confirmación</string>
     <string name="dialog_score_btn_good">Valorar</string>
     <string name="dialog_score_msg_score_explorer">¿Te gusta Mi Música?</string>
@@ -596,15 +594,9 @@ Remite este código al supervisor."</string>
     <string name="hungama_category_radio">Señal móvil</string>
     <string name="hungama_category_video">Vídeos online</string>
     <string name="hungama_category_vip">Oro</string>
-    <string name="hungama_download_subscription_toast">Suscríbete a Hungama Music para descargar esta canción</string>
     <string name="hungama_free_download_out_summary">"No puedes descargar más canciones gratis. ¿Obtener una suscripción Gold para descarga ilimitada?"</string>
     <string name="hungama_free_download_out_summary_toast">"Ya has descargado %d canciones. Obtén una suscripción para descargar más."</string>
     <string name="hungama_playlist_category">Categoría de lista de reproducción</string>
-    <string name="hungama_privacy_desc">Política de Privacidad de Hungama (opcional)</string>
-    <string name="hungama_privacy_tips_content">Para acceder al contenido online, debes aceptar la <a href="/link/click">Política de Privacidad de Hungama</a>.</string>
-    <string name="hungama_privacy_tips_title">Política de Privacidad de Hungama</string>
-    <string name="hungama_pro">Oro Hungama</string>
-    <string name="hungama_subscribe_message">Obtén una suscripción Gold para descargar música en alta calidad.</string>
     <string name="hungama_subscribe_positive_button">Suscripción Gold</string>
     <string name="hungama_subscribe_title">Suscripción Gold</string>
     <string name="i_know">OK</string>
@@ -1196,7 +1188,6 @@ Si no aceptas usar los servicios mencionados anteriormente, no podrás usar algu
     <string name="pulluprefreshrecyclerview_loading_running">Cargando…</string>
     <string name="qq_login_btn_content_description">Iniciar sesión con QQ</string>
     <string name="queue_is_empty">La cola de reproducción está vacía.</string>
-    <string name="read_and_agree_hungama_protocol"><Data>\"He leído y acepto la &lt;font color=\"#A374F0\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;Política de Privacidad de Hungama&lt;/a&gt;&lt;/font&gt;\"</Data></string>
     <string name="read_and_agree_joox_protocol"><Data>\"He leído y acepto la &lt;font color=\"#A374F0\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;Política de Privacidad de JOOX&lt;/a&gt;&lt;/font&gt;\"</Data></string>
     <string name="read_and_agree_mi_protocol"><Data>\"He leído y acepto el &lt;font color=\"#A374F0\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;Acuerdo de Usuario&lt;/a&gt;&lt;/font&gt; y &lt;font color=\"#A374F0\"&gt;&lt;/color&gt;&lt;a href=\"%2$s\"&gt;Política de Privacidad&lt;/a&gt;&lt;/font&gt; de Xiaomi.\"</Data></string>
     <string name="read_and_agree_protocol">Lee y acepta nuestro Acuerdo de Usuario y nuestra Política de Privacidad antes de continuar.</string>
@@ -1237,7 +1228,6 @@ Sea Feliz"</string>
     <string name="retry">Inténtalo otra vez</string>
     <string name="retry_after_network_available">"No se pudo conectar a la red. Comprueba tu conexión y vuelve a intentarlo."</string>
     <string name="retry_download">Inténtalo otra vez</string>
-    <string name="revoke_upload_playlist_to_hungama_toast">"Las canciones online no serán sincronizadas con Hungama"</string>
     <string name="ringtone_editing">Editor de tonos</string>
     <string name="ringtone_not_support">"El formato de la canción no es compatible"</string>
     <string name="ringtone_selected">Seleccionado</string>
@@ -1450,7 +1440,6 @@ Sea Feliz"</string>
     <string name="toast_favorite_has_been_added">Añadido a la lista de reproducción</string>
     <string name="toast_follow_success">Seguido</string>
     <string name="toast_hungama_vip_song">Esta canción sólo está disponible para miembros Gold. Obtén una suscripción para descargarla.</string>
-    <string name="toast_is_pro">"Ya eres un miembro Gold."</string>
     <string name="toast_my_playlist_illegal_name">"El título de la lista de reproducción no es válido. Renombra esta lista de reproducción."</string>
     <string name="toast_my_playlist_set_to_private">"Ahora esta lista de reproducción es privada. El resto de gente no puede verla."</string>
     <string name="toast_my_playlist_set_to_public">Ahora esta lista de reproducción es pública. El resto de gente puede verla.</string>
@@ -1459,7 +1448,6 @@ Sea Feliz"</string>
     <string name="toast_new_playlist_name_too_long">El nombre de la lista es demasiado largo</string>
     <string name="toast_normal_songs_for_download">Calidad de descarga establecida a estándar</string>
     <string name="toast_normal_songs_for_stream">Calidad de la transmisión establecida a estándar</string>
-    <string name="toast_not_pro">Esta función solo está disponible para los miembros Gold.</string>
     <string name="toast_playlist_has_been_added">Añadido a la cola</string>
     <string name="toast_playlist_has_been_private">Esta lista de reproducción es privada</string>
     <string name="toast_playlist_has_been_public">Esta lista de reproducción es pública</string>
@@ -1503,8 +1491,6 @@ Sea Feliz"</string>
     <string name="upload_favorite_setting_title">Sincronizar canciones</string>
     <string name="upload_playlist_to_hungama_negative_text">"No sincronizar"</string>
     <string name="upload_playlist_to_hungama_positive_text">Sincronizar</string>
-    <string name="upload_playlist_to_hungama_title">Sincroniza canciones en línea con Hungama para acceder a ellas en otros dispositivos donde usas la cuenta Xiaomi.</string>
-    <string name="upload_playlist_to_hungama_toast">Las canciones online serán sincronizadas con Hungama</string>
     <string name="user_agreement">Acuerdo de usuario</string>
     <string name="user_agreement_hint_3rd_app"><Data>\"He leído y acepto el &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y la &lt;a href=%2$s&gt;Política de Privacidad&lt;/a&gt; y el &lt;a href=%3$s&gt;Acuerdo de Usuario&lt;/a&gt; y la &lt;a href=%4$s&gt;Política de Privacidad&lt;/a&gt; de la cuenta Xiaomi.</Data></string>
     <string name="user_agreement_hint_3rd_app_mobile"><Data>\"He leído y acepto el &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y la &lt;a href=%2$s&gt;Política de Privacidad&lt;/a&gt;, el &lt;a href=%3$s&gt;Acuerdo de Usuario&lt;/a&gt; y la &lt;a href=%4$s&gt;Política de Privacidad&lt;/a&gt; de la cuenta Xiaomi, así como los &lt;a href=%5$s&gt;Términos y condiciones de los servicios de verificación&lt;/a&gt; de China Mobile.\"</Data></string>

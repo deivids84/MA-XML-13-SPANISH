@@ -59,7 +59,6 @@
     <string name="backup_introduction">Puedes usar esta aplicación para hacer una copia de seguridad y restaurar elementos en su dispositivo.</string>
     <string name="bluetooth_introduction">El sistema utiliza Bluetooth para la comunicación inalámbrica. Para poder funcionar con normalidad, Bluetooth necesita los siguientes permisos:</string>
     <string name="bluetooth_usage_desc">La configuración inicial le permite establecer sus preferencias básicas para este dispositivo. Para configurar correctamente su dispositivo, los servicios del sistema Bluetooth utilizarán los siguientes permisos:</string>
-    <string name="boot_video_desc">Ver el mundo en 2K</string>
     <string name="boot_video_replay">Volver a reproducir</string>
     <string name="boot_video_skip">Saltar</string>
     <string name="calculator_introduction">Puede usar esta aplicación para realizar cálculos, convertir unidades y divisas, y estimar sus pagos de hipoteca.</string>
@@ -70,7 +69,6 @@
     <string name="clock_introduction">Puede usar esta aplicación para ver la hora, usar el temporizador, cronómetro, consultar el reloj mundial, establecer alarmas y más.</string>
     <string name="close">Cerrar</string>
     <string name="close_location_service_setting">Puede elegir desactivar el acceso a la ubicación en Configuración &gt; Protección de privacidad &gt; Administrar o restringir permisos para aplicaciones individuales en Seguridad.</string>
-    <string name="cloud_service_discount">Descuentos en planes de almacenamiento</string>
     <string name="cm_terms_content">"Para mejorar los servicios provistos, el operador de red móvil de su selección puede subir sus datos personales e información de este dispositivo en los servidores usando redes Wi-Fi o conexión de datos móviles. Esta información será utilizada solo con fines estadísticos para mejorar la calidad de los servicios y proveer contenido más personalizado. Esta información no será usada para identificarlo y no se revelará a terceras partes."</string>
     <string name="cm_terms_title">Acuerdo del Operador de Red Móvil</string>
     <string name="compass_introduction">Puede usar esta aplicación para navegar, conocer las coordenadas, presión atmosférica y altitud del sitio.</string>
@@ -120,7 +118,6 @@
     <string name="eras_ad">DC</string>
     <string name="eras_bc">AC</string>
     <string name="evening">Tarde</string>
-    <string name="exclusive_member_merchandise">Mercancía exclusiva</string>
     <string name="expand_button_title">Avanzado</string>
     <string name="fast_application_introduction">El marco de servicio de aplicaciones rápidas es un marco de servicio básico que admite la distribución y operación rápidas de aplicaciones.</string>
     <string name="fast_pairing_introduction">Mi Link usa las capacidades de MIUI Bluetooth para permitirle conectarse rápidamente a dispositivos Bluetooth cercanos.</string>
@@ -170,8 +167,6 @@
     <string name="location_introduction_qcom">Los servicios de localización utilizan posicionamiento para proporcionar servicios específicos de ubicación. Cuando tu dispositivo utiliza servicios de ubicación, el módulo QCC se conectará a la red para acelerar el proceso de posicionamiento.</string>
     <string name="location_location">Las agencias de emergencia pueden obtener su ubicación actual a pedido</string>
     <string name="lockscreen_introduction">El Carrusel de fondos de pantalla le permite obtener diariamente nuevas imágenes en la pantalla de bloqueo.</string>
-    <string name="member_exclusive_medal">Insignia de membresía</string>
-    <string name="membership_rights_tip">Inicie sesión en su cuenta Mi para obtener beneficios exclusivos</string>
     <string name="message_introduction">Puede utilizar esta aplicación para enviar y recibir SMS.</string>
     <string name="mi_account_introduction">Mi cuenta le permite registrarse, iniciar sesión y administrar cuentas del sistema.</string>
     <string name="midnight">Noche</string>
@@ -413,6 +408,7 @@ Puede controlar esta función desde Configuración &gt; Contraseñas &amp; Segur
     <string name="pref_title_data_slot">Tarjeta SIM de datos preferida</string>
     <string name="pref_title_voice_slot">Tarjeta SIM de voz preferida</string>
     <string name="preference_copied">\"%1$s\" copiado al portapapeles.</string>
+    <string name="preinstall_tips">Preparando…</string>
     <string name="privacy_content_one">"Las recomendaciones de Wallpaper Carousel están impulsadas por Taboola, nuestro proveedor de contenido externo de confianza. Para proporcionar este contenido, Taboola necesita acceder y almacenar datos no personales de su dispositivo, incluido el idioma del sistema y el tipo de navegador. Usted puede aprender cómo Taboola utiliza los datos recogidos en la Taboola &lt;a href =%1$s&gt;Política de privacidad&lt;/a&gt; y &lt;a href =%2$s&gt;Acuerdo de usuario&lt;/a&gt;. Lea y acepte los términos y condiciones proporcionados en estos documentos antes de continuar. Si no está de acuerdo, los servicios de Wallpaper Carousel se desactivarán."</string>
     <string name="privacy_policy">Política de Privacidad</string>
     <string name="privacy_provision_more">Aprende más sobre la protección de privacidad</string>
@@ -577,7 +573,7 @@ Puede controlar esta función desde Configuración &gt; Contraseñas &amp; Segur
     <string name="terms_of_use_label_systemhelper">Servicio de auto-registro</string>
     <string name="terms_of_use_label_translation">Servicio de traduccion</string>
     <string name="terms_of_use_label_unionplay_security">UnionPay TSM Secure Element (versión Xiaomi)</string>
-    <string name="terms_of_use_label_updater">Actualizador</string>
+    <string name="terms_of_use_label_updater">Servicio de Actualización del sistema (busca actualizaciones en línea y notifica sobre nuevas versiones)</string>
     <string name="terms_of_use_label_use_location_and_network_global">Antes de usar MIUI, debe leer y aceptar nuestro Acuerdo de usuario y Política de privacidad. Protegeremos su información personal de acuerdo con las leyes, regulaciones y políticas de privacidad pertinentes. Cuando su dispositivo esté activado, los siguientes servicios se conectarán a la red y accederán a su ubicación:</string>
     <string name="terms_of_use_label_use_network_china">Antes de usar MIUI, debe leer y aceptar nuestro Acuerdo de usuario y Política de privacidad. Protegeremos su información personal de acuerdo con las leyes, regulaciones y políticas de privacidad pertinentes. Cuando su dispositivo esté activado, los siguientes servicios se conectarán a la red:</string>
     <string name="terms_of_use_label_wallpaper">Fondo de pantalla</string>
@@ -643,7 +639,6 @@ Debe aceptar la Política de Privacidad del Teclado Mint antes de usar esta func
     <string name="title_set_fingerprint">Pantalla de bloqueo</string>
     <string name="today">Hoy</string>
     <string name="tomorrow">Mañana</string>
-    <string name="trade_in">Canje</string>
     <string name="tuesday">Martes</string>
     <string name="tuesday_short">Mar</string>
     <string name="tuesday_shortest">Mar</string>
@@ -670,9 +665,6 @@ Debe aceptar la Política de Privacidad del Teclado Mint antes de usar esta func
     <string name="wednesday_shortest">Mié</string>
     <string name="welcome">Bienvenido/a</string>
     <string name="withdraw_consent">Si retira su consentimiento, los servicios de Wallpaper Carousel se desactivarán.</string>
-    <string name="xiaomi_game_discounts">Promociones de juegos</string>
-    <string name="xiaomi_membership_rights">Membresía de Xiaomi Cloud</string>
-    <string name="xiaomi_video_discount">Ofertas de Mi Video</string>
     <string name="yesterday">Ayer</string>
     <string name="zone_picker_title">Elegir zona horaria</string>
 </resources>

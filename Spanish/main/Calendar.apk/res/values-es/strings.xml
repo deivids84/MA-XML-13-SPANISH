@@ -48,7 +48,7 @@
     <string name="add_holiday_desc">Añade festivos aquí</string>
     <string name="add_holiday_title">Añadir festivos</string>
     <string name="additional_cal_dialog_title">Seleccionar calendario</string>
-    <string name="additional_cal_pref_title">Calendario adicional</string>
+    <string name="additional_cal_pref_title">Calendarios adicionales</string>
     <string name="additional_calendar_note">Algunos calendarios adicionales podrían no estar disponibles o variar dependiendo de factores inconstantes</string>
     <string name="afternoon">Tarde</string>
     <string name="agenda_month_empty_hint">Sin eventos para hoy</string>
@@ -529,7 +529,7 @@ Comprueba los ajustes de red e inténtalo otra vez."</string>
     <string name="no_visiable_calendar_title">Añadir cuenta</string>
     <string name="none">Ninguno</string>
     <string name="noon">Mediodía</string>
-    <string name="not_more_than_three_weekday">Puedes seleccionar hasta 3 días</string>
+    <string name="not_more_than_three_weekday">Puedes seleccionar hasta %d días</string>
     <string name="not_set">Sin definir</string>
     <string name="notes_hint">Pulsa para añadir una tarea</string>
     <string name="notes_reminders_channel">Recordatorios de notas</string>
@@ -664,7 +664,6 @@ Comprueba los ajustes de red e inténtalo otra vez."</string>
     <string name="save">Guardar</string>
     <string name="saving_event">Evento guardado</string>
     <string name="saving_event_with_guest">Enviando actualizaciones…</string>
-    <string name="search_calendar">"Fecha;Solar Términos;Lunar;Almanaque;Fortuna;Agenda;Reunión;Recordatorio;Vacaciones;Festivo;Cumpleaños;2016;2017;Año nuevo chino;Día de Año Nuevo;Día Internacional del Trabajo;Festival chino de Medio Otoño"</string>
     <string name="search_calendar_edit_event">Reunión;Recordatorio;Agenda</string>
     <string name="search_calendar_settings">Calendario;Agenda;Recordatorio</string>
     <string name="search_events">Buscar eventos</string>
@@ -684,7 +683,7 @@ Comprueba los ajustes de red e inténtalo otra vez."</string>
     <string name="setting_about_summary">Versión:</string>
     <string name="setting_accounts">Cuentas de calendario</string>
     <string name="setting_change_language">Selecciona el idioma del Calendario</string>
-    <string name="setting_desc_import_todo">Importar tareas programadas desde Notas</string>
+    <string name="setting_desc_import_todo">Importar tareas urgentes de Notas</string>
     <string name="setting_features_title">Ajustes de funciones</string>
     <string name="setting_holiday_display_desc">Las tarjetas de festivos están ubicadas debajo de tu agenda en la página de inicio</string>
     <string name="setting_holiday_reminder">Recordatorio de día festivo</string>

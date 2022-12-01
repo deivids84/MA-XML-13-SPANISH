@@ -104,7 +104,7 @@
     <string name="apply_success_not_enable_aod">Primero active la pantalla Siempre encendida en la Configuración</string>
     <string name="apply_success_not_support_aod">"No se puede combinar la pantalla Siempre activa con temas en este dispositivo. El resto de los componentes de este tema se aplicaron con éxito."</string>
     <string name="apply_theme_with_ringtones">Aplicar tonos del tema</string>
-    <string name="apply_wallpaper_after_three_theme">"Estás usando un tema de terceros. Si solo cambias el fondo de pantalla de bloqueo, puede que el estilo de reloj en ella se restaure a la opción por defecto. ¿Aplicar?"</string>
+    <string name="apply_wallpaper_after_three_theme">"Estás usando un tema de terceros. Al cambiar el fondo de la pantalla de bloqueo, es posible que el estilo del reloj de la pantalla de bloqueo se restablezca al estilo por defecto. ¿Aplicar?"</string>
     <string name="apply_wallpaper_warning_use_aod_and_super_wallpaper">"Estás usando un Superfondo de pantalla. Si seleccionas otro fondo de pantalla, se aplicará tanto a la pantalla de inicio como a la de bloqueo, y la pantalla siempre encendida volverá a su configuración anterior. ¿Aplicar?"</string>
     <string name="apply_wallpaper_warning_use_super_wallpaper">"Estás usando un Superfondo de pantalla. Si seleccionas otro fondo de pantalla, se aplicará tanto a la pantalla de inicio como a la de bloqueo ¿Aplicar?"</string>
     <string name="apply_warning_get_device_dialog_message">Para poder utilizar el contenido descargado, primero permita que esta función acceda a la ID de su dispositivo. Puede otorgar este permiso en Configuración &gt; Privacidad.</string>
@@ -179,6 +179,7 @@
     <string name="component_title_settings_video_wallpaper">Fondos de pantalla con efectos especiales</string>
     <string name="component_title_video_wallpaper">Películas de fondo de pantalla</string>
     <string name="component_title_wallpaper">Fondos de pantalla</string>
+    <string name="component_title_widget_suit">Widgets</string>
     <string name="concentration_old_period">MÁS</string>
     <string name="configure_success_not_enable_aod">Aplicado con éxito. Activa la pantalla siempre encendida para que el tema surta efecto.</string>
     <string name="copy">Copiar</string>
@@ -729,6 +730,7 @@ Ver y usar los elementos que compró o agregó a favoritos."</string>
     <string name="pad_fold_no_permission">Se requieren permisos de almacenamiento</string>
     <string name="pad_fold_no_permission_detail">Para poder cambiar las preferencias de personalización y guardar los elementos descargados, primero permita que esta función acceda al almacenamiento.</string>
     <string name="password_toggle_content_description">Cambiar la visibilidad de la contraseña</string>
+    <string name="paying">Comprando…</string>
     <string name="personalize">Personalización</string>
     <string name="personalize_alarm_ringtone_title">Alarmas</string>
     <string name="personalize_aod_title">AOD</string>
@@ -740,6 +742,7 @@ Ver y usar los elementos que compró o agregó a favoritos."</string>
     <string name="personalize_notify_ringtone_title">Notificaciones</string>
     <string name="personalize_notify_style_title">Efectos</string>
     <string name="personalize_recommend_switch_desc">Reciba recomendaciones de contenido personalizadas basadas en la identificación del dispositivo</string>
+    <string name="personalize_second_space_not_support_buy_widget">"No se pueden comprar widgets en el Segundo espacio"</string>
     <string name="personalize_second_space_not_support_set_font">"No se puede cambiar la fuente en el segundo espacio"</string>
     <string name="personalize_theme_entrance">Temas</string>
     <string name="personalize_third_font">Fuentes</string>
@@ -1149,6 +1152,7 @@ Puede otorgar este permiso en Configuración &gt; Privacidad."</string>
     <string name="search_sort_news">Nuevo primero</string>
     <string name="search_sort_synthesize">General</string>
     <string name="search_sort_top">Popular primero</string>
+    <string name="search_view_description_clear">Limpiar la búsqueda</string>
     <string name="selected_resource_file_invalid">"No puede usarse el archivo de recurso seleccionado"</string>
     <string name="send">Enviar</string>
     <string name="server_internal_error">Se produjo un error en el servidor. Espera un minuto o dos y vuelve a intentarlo.</string>
@@ -1437,6 +1441,7 @@ Puede otorgar este permiso en Configuración &gt; Privacidad."</string>
     <string name="update_no_net">Se produjo un error de red. Vuelva a intentarlo.</string>
     <string name="update_title">ACTUALIZACIÓN DISPONIBLE</string>
     <string name="use_hint">Atención</string>
+    <string name="use_now">Añadir</string>
     <string name="using_theme_has_update_tips">Hay una actualización disponible para este tema.</string>
     <string name="using_theme_next_automatic_update">Actualizaciones automáticas</string>
     <string name="using_theme_next_automatic_update_summary">Actualizar automáticamente vía Wi-Fi los temas descargados cuando la pantalla esté bloqueada</string>

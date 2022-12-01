@@ -152,6 +152,10 @@
         <item quantity="other">"Sincronizados %1$s archivos | "</item>
         <item quantity="one">"Sincronizado %1$s archivo | "</item>
     </plurals>
+    <plurals name="notification_title_syncing_with_count_no_network">
+        <item quantity="other">Esperando la conexión de red. Quedan %1$s archivos.</item>
+        <item quantity="one">Esperando la conexión de red. Queda %1$s archivo.</item>
+    </plurals>
     <plurals name="numSelectedFile">
         <item quantity="other">%1$d elementos seleccionados</item>
         <item quantity="one">%1$d elemento seleccionado</item>
